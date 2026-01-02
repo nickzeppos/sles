@@ -183,15 +183,75 @@ assert_no_unmatched_bill_sponsors <- function(unmatched_sponsors) {
 
 #' Assert no bills missing sponsors
 #'
-#' Checks for bills without identified sponsors and exits if found.
+#' Checks for bills without identified sponsors. If found, prints detailed
+#' diagnostic information to help resolve via fix_names() or custom_match.
 #'
 #' @param bills_missing_sponsors Dataframe of bills without sponsors
-assert_no_bills_missing_sponsors <- function(bills_missing_sponsors) {
+#' @param legis_data Legislator data with data_name, sponsor, chamber columns
+assert_no_bills_missing_sponsors <- function(bills_missing_sponsors,
+                                             legis_data = NULL) {
   if (nrow(bills_missing_sponsors) > 0) {
-    cli_warn("Bills found with missing id'd sponsors:")
-    print(bills_missing_sponsors)
-    cli_error("Exiting on bills with missing id'd sponsors.")
-    stop("Bills missing sponsors")
+    n_bills <- nrow(bills_missing_sponsors)
+    unmatched_sponsors <- unique(bills_missing_sponsors$sponsor)
+    n_sponsors <- length(unmatched_sponsors)
+
+    cli_error(glue("\n",
+      "===========================================================\n",
+      "UNMATCHED SPONSORS: {n_sponsors} sponsor(s) on {n_bills} bill(s)\n",
+      "===========================================================\n"))
+
+    # Group bills by sponsor and show sample bill IDs + chamber
+    for (spn in sort(unmatched_sponsors)) {
+      sponsor_bills <- bills_missing_sponsors %>%
+        filter(.data$sponsor == spn)
+      sample_bills <- head(sponsor_bills$bill_id, 5)
+      n_total <- nrow(sponsor_bills)
+      bill_str <- paste(sample_bills, collapse = ", ")
+      if (n_total > 5) {
+        bill_str <- paste0(bill_str, " ... (", n_total, " total)")
+      }
+      # Derive chamber from bill_id prefix
+      chamber <- ifelse(substring(sample_bills[1], 1, 1) == "H", "House", "Senate")
+      cli_warn(glue("  \"{spn}\" ({chamber}): {bill_str}"))
+
+      # Show similar legislators if legis_data provided
+      if (!is.null(legis_data)) {
+        # Extract last name from unmatched sponsor
+        sponsor_parts <- strsplit(spn, " ")[[1]]
+        last_name <- sponsor_parts[length(sponsor_parts)]
+
+        # Find legislators with matching last name in same chamber
+        chamber_code <- substring(sample_bills[1], 1, 1)
+        similar <- legis_data %>%
+          filter(tolower(.data$chamber) == tolower(chamber_code)) %>%
+          filter(grepl(last_name, .data$sponsor, ignore.case = TRUE)) %>%
+          select("sponsor", "data_name", "district") %>%
+          distinct()
+
+        if (nrow(similar) > 0) {
+          cli_log("    Potential matches in legiscan:")
+          for (i in seq_len(nrow(similar))) {
+            cli_log(glue("      - {similar$sponsor[i]} ",
+                         "(data_name: \"{similar$data_name[i]}\", ",
+                         "{similar$district[i]})"))
+          }
+        }
+      }
+    }
+
+    cli_error(glue("\n",
+      "-----------------------------------------------------------\n",
+      "TO RESOLVE:\n",
+      "1. Look up bill IDs above on the legislature website\n",
+      "2. Identify the correct legislator for each sponsor name\n",
+      "3. Add to fix_names() if sponsor name is a variant:\n",
+      "     names[names == \"variant\"] <- \"canonical\"\n",
+      "4. OR add to custom_match in reconcile_legiscan_with_sponsors():\n",
+      "     \"legiscan-key\" = \"sponsor-key\"\n",
+      "-----------------------------------------------------------\n"))
+
+    stop(glue("Pipeline halted: {n_sponsors} unmatched sponsor(s). ",
+              "See above for resolution steps."))
   }
 }
 
