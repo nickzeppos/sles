@@ -71,14 +71,31 @@ preprocess_raw_data <- function(bill_details, bill_history, term) {
 #' Fix sponsor names for specific WI terms
 #'
 #' Handles term-specific name corrections and standardizations.
+#' Ported directly from .dropbox/estimate/state_estimate_procedures/WI.R
 #'
 #' @param names Vector of sponsor names to fix
 #' @param term Term string (e.g., "2023_2024")
 #' @return Vector of corrected names
 fix_names <- function(names, term) {
-  if (term == "2023_2024") {
-    names <- stringr::str_replace_all(names, "j. rodriguez", "jessie")
-    names <- stringr::str_replace_all(names, "r. brooks", "robert brooks")
+  # General fix across all terms
+ if (any(names == "molepske jr" | names == "molepske jr.")) {
+    names[names %in% c("molepske jr", "molepske jr.")] <- "molepske"
+  }
+
+  # Term-specific fixes
+ if (term == "1997_1998") {
+    names[names == "roessler"] <- "buettner"
+  }
+  if (term == "2013_2014") {
+    names[names == "cullen"] <- "t. cullen"
+  }
+  if (term == "2017_2018") {
+    names[names == "larson"] <- "c. larson"
+    names[names == "fitzgerald"] <- "s. fitzgerald"
+  }
+  if (term == "2019_2020") {
+    names[names == "l. myers"] <- "myers"
+    names[names == "b. meyers"] <- "meyers"
   }
 
   names
@@ -87,18 +104,24 @@ fix_names <- function(names, term) {
 #' Fix bill IDs for special session bills
 #'
 #' Handles WI special session bill ID formatting.
+#' Ported directly from .dropbox/estimate/state_estimate_procedures/WI.R
 #'
 #' @param bill_ids Vector of bill IDs to fix
 #' @param term Term string (e.g., "2023_2024")
 #' @return Vector of corrected bill IDs
 fix_bill_ids <- function(bill_ids, term) {
-  if (term == "2023_2024") {
-    bill_ids <- stringr::str_replace_all(
-      bill_ids, "ss1_ab1", "ss1ab1"
-    )
-    bill_ids <- stringr::str_replace_all(
-      bill_ids, "ss1_sb1", "ss1sb1"
-    )
+  if (term == "2019_2020") {
+    bill_ids[bill_ids == "SB1001"] <- "SB001"
+    bill_ids[bill_ids == "AB2002"] <- "AB002"
+    bill_ids[bill_ids == "SB3003"] <- "SB003"
+    bill_ids[bill_ids == "AB4004"] <- "AB004"
+  }
+  if (term == "2021_2022") {
+    bill_ids[bill_ids == "SB1001"] <- "SB001"
+    bill_ids[bill_ids == "AB2002"] <- "AB002"
+    bill_ids[bill_ids == "SB3003"] <- "SB003"
+    bill_ids[bill_ids == "AB4004"] <- "AB004"
+    bill_ids[bill_ids == "AB5005"] <- "AB005"
   }
 
   bill_ids

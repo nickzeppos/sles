@@ -126,6 +126,13 @@ Common missed items:
 The goal: Implement the SAME logic as the original, just organized into the
 modular hook pattern. Don't skip steps or assume "it probably doesn't matter."
 
+### Strict Porting vs Editorial Discretion
+When porting code from the original codebase:
+- Only add logic that exists in the original. Do not invent fixes.
+- If something seems broken or missing, flag it rather than solving it.
+- If debugging reveals a mismatch, check whether the original handles it first.
+- Term-specific fixes (names, bill IDs) must come from the original scripts.
+
 ## Known Issues
 
 ### SS Bill Duplication
