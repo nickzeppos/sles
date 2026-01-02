@@ -19,6 +19,10 @@ wi_config <- list(
   # Valid bill types for this state
   bill_types = c("AB", "SB"),
 
+  # Sponsor patterns to drop from analysis (committees, councils, etc.)
+  # These don't represent individual legislator effectiveness
+  drop_sponsor_pattern = "committee|joint legislative council|information policy",
+
   # Step terms for evaluating bill history
   # Used to determine achievement levels: aic, abc, pass, law
   step_terms = list(
@@ -38,6 +42,17 @@ wi_config <- list(
   )
 )
 # nolint end: line_length_linter
+
+#' Check if a bill should be dropped based on sponsor
+#'
+#' Used to filter out bills that aren't sponsored by individual legislators
+#' (e.g., committee-sponsored bills).
+#'
+#' @param sponsor Sponsor name
+#' @return TRUE if bill should be dropped, FALSE otherwise
+should_drop_bill <- function(sponsor) {
+  grepl(wi_config$drop_sponsor_pattern, sponsor, ignore.case = TRUE)
+}
 
 # Stage 1.5 Hook: Preprocess raw data to normalize column names
 
@@ -178,18 +193,12 @@ clean_bill_details <- function(bill_details, term) {
 
   # Drop committee-sponsored bills
   comm_bills <- bill_details %>%
-    filter(grepl(
-      "committee|joint legislative council|information policy",
-      .data$LES_sponsor
-    ))
+    filter(should_drop_bill(.data$LES_sponsor))
 
   if (nrow(comm_bills) > 0) {
     cli_log(glue("Dropping {nrow(comm_bills)} committee-sponsored bills"))
     bill_details <- bill_details %>%
-      filter(!grepl(
-        "committee|joint legislative council|information policy",
-        .data$LES_sponsor
-      ))
+      filter(!should_drop_bill(.data$LES_sponsor))
   }
 
   # Drop bills with missing/empty sponsor
@@ -494,6 +503,28 @@ reconcile_legiscan_with_sponsors <- function(sponsors, legiscan, term) {
   all_sponsors_2
 }
 
+#' Get missing SS bills for Wisconsin
+#'
+#' Stage 3 hook: Determines which SS bills are genuinely missing from bill_details
+#' vs. intentionally excluded (committee-sponsored bills).
+#'
+#' @param ss_filtered Filtered SS bills for this term
+#' @param bill_details Cleaned bill details (after filtering)
+#' @param all_bill_details All bill details (before filtering)
+#' @return Dataframe of genuinely missing SS bills (bill_id, term)
+get_missing_ss_bills <- function(ss_filtered, bill_details, all_bill_details) {
+  ss_filtered %>%
+    anti_join(bill_details, by = c("bill_id", "term")) %>%
+    left_join(
+      all_bill_details %>% select("bill_id", "primary_sponsor"),
+      by = "bill_id"
+    ) %>%
+    # Only flag if bill exists in all_bill_details with non-excluded sponsor
+    filter(!is.na(.data$primary_sponsor)) %>%
+    filter(!should_drop_bill(.data$primary_sponsor)) %>%
+    select("bill_id", "term")
+}
+
 # Export config and functions
 # Flatten config to top level for loader validation
 list(
@@ -506,5 +537,6 @@ list(
   compute_cosponsorship = compute_cosponsorship,
   clean_sponsor_names = clean_sponsor_names,
   adjust_legiscan_data = adjust_legiscan_data,
-  reconcile_legiscan_with_sponsors = reconcile_legiscan_with_sponsors
+  reconcile_legiscan_with_sponsors = reconcile_legiscan_with_sponsors,
+  get_missing_ss_bills = get_missing_ss_bills
 )

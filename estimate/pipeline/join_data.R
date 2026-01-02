@@ -79,24 +79,20 @@ join_data <- function(data, state, term) {
   cli_log(glue("SS bills after type filtering: {nrow(ss_filtered)}"))
 
   # Check for SS bills that don't exist in bill_details
-  # Only flag bills that SHOULD be in bill_details (exist in all_bill_details,
-  # correct type, not committee-sponsored)
-  # Note: Pattern includes common committee-like sponsors across states
-  committee_pattern <- paste(
-    "committee", "joint legislative council", "information policy",
-    sep = "|"
-  )
-
-  missing_ss_bills <- ss_filtered %>%
-    anti_join(data$bill_details, by = c("bill_id", "term")) %>%
-    left_join(
-      data$all_bill_details %>% select("bill_id", "primary_sponsor"),
-      by = "bill_id"
-    ) %>%
-    # Only flag if bill exists in all_bill_details with non-committee sponsor
-    filter(!is.na(.data$primary_sponsor)) %>%
-    filter(!grepl(committee_pattern, .data$primary_sponsor, ignore.case = TRUE)) %>%
-    select("bill_id", "term")
+  # Use state-specific hook to determine which missing SS bills are genuinely
+  # missing vs. intentionally excluded (e.g., committee-sponsored bills)
+  cli_log("Checking for missing SS bills...")
+  if (!is.null(data$state_config$get_missing_ss_bills)) {
+    missing_ss_bills <- data$state_config$get_missing_ss_bills(
+      ss_filtered, data$bill_details, data$all_bill_details
+    )
+  } else {
+    # Default: flag any SS bill in all_bill_details but not in bill_details
+    missing_ss_bills <- ss_filtered %>%
+      anti_join(data$bill_details, by = c("bill_id", "term")) %>%
+      semi_join(data$all_bill_details, by = "bill_id") %>%
+      select("bill_id", "term")
+  }
 
   assert_no_missing_ss(missing_ss_bills)
 

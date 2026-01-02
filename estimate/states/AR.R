@@ -29,6 +29,14 @@ ar_config <- list(
   # Valid bill types for AR (House Bills and Senate Bills)
   bill_types = c("HB", "SB"),
 
+  # Sponsors to drop from analysis (committees, agencies, etc.)
+  # These don't represent individual legislator effectiveness
+  drop_sponsors = c(
+    "efficiency", "house agri", "house cty co", "house management",
+    "house mgmt. comm.", "jbc", "jic ins", "judiciary", "public hlth comm",
+    "senate efficiency", "st. ag.", "insurance", "revenue", "state agencies"
+  ),
+
   # Terms for AR (uses assembly numbers, but we map to years)
   # Format: "2023_2024" maps to "94th General Assembly"
   step_terms = list(
@@ -52,6 +60,18 @@ ar_config <- list(
     "2023_2024" = "94th_General_Assembly"
   )
 )
+
+#' Check if a bill should be dropped based on sponsor
+#'
+#' Used to filter out bills that aren't sponsored by individual legislators
+#' (e.g., committee-sponsored bills, agency bills).
+#'
+#' @param sponsor Sponsor name
+#' @return TRUE if bill should be dropped, FALSE otherwise
+should_drop_bill <- function(sponsor) {
+  tolower(sponsor) %in% ar_config$drop_sponsors |
+    grepl("committee", sponsor, ignore.case = TRUE)
+}
 
 # Stage 1.5 Hook: Preprocess raw data to normalize column names
 
@@ -171,6 +191,9 @@ fix_names <- function(names, term) {
     names[names == "elliott"] <- "j. elliott"
   } else if (term == "2009_2010") {
     names[names == "wyatt"] <- "d. wyatt"
+  } else if (term == "2023_2024") {
+    # S. Richardson = R. Scott Richardson (same person)
+    names[names == "s. richardson"] <- "r. scott richardson"
   }
   names
 }
@@ -222,21 +245,13 @@ clean_bill_details <- function(bill_details, term) {
   bill_details$bill_id <- fix_bill_ids(bill_details$bill_id, term)
 
   # Drop committee-sponsored and empty-sponsor bills
-  drop_comms <- c(
-    "efficiency", "house agri", "house cty co", "house management",
-    "house mgmt. comm.", "jbc", "jic ins", "judiciary", "public hlth comm",
-    "senate efficiency", "st. ag.", "insurance", "revenue", "state agencies"
-  )
-
   comm_bills <- bill_details %>%
-    filter(.data$LES_sponsor %in% drop_comms |
-      grepl("committee", .data$LES_sponsor))
+    filter(should_drop_bill(.data$LES_sponsor))
 
   if (nrow(comm_bills) > 0) {
     cli_log(glue("Dropping {nrow(comm_bills)} committee-sponsored bills"))
     bill_details <- bill_details %>%
-      filter(!(.data$LES_sponsor %in% drop_comms |
-        grepl("committee", .data$LES_sponsor)))
+      filter(!should_drop_bill(.data$LES_sponsor))
   }
 
   empty_sponsor_bills <- bill_details %>%
@@ -353,7 +368,17 @@ clean_sponsor_names <- function(all_sponsors, term) {
 
 # Stage 5 Hook: Adjust legiscan data for Arkansas
 #'
-#' Creates match_name and match_name_chamber for fuzzy matching
+#' Creates match_name and match_name_chamber for fuzzy matching.
+#' Ported from original AR - Estimate LES NWZ.R (lines 596-611).
+#'
+#' Logic:
+#' 1. Count distinct people per last_name
+#' 2. If 1 person: use last_name
+#' 3. If 2 people: use "F. LastName" (first initial)
+#' 4. If 3+ people: use "FM. LastName" (first + middle initials)
+#' 5. If still collisions after step 2-4: use "F. LastName" form
+#'
+#' Ambiguous cases are handled via custom_match in reconcile_legiscan_with_sponsors.
 #'
 #' @param legiscan Dataframe of legiscan legislator data
 #' @param term Term string (e.g., "2023_2024")
@@ -361,8 +386,10 @@ clean_sponsor_names <- function(all_sponsors, term) {
 adjust_legiscan_data <- function(legiscan, term) {
   legiscan %>%
     filter(.data$committee_id == 0) %>%
+    # Count distinct people per last name (use n_distinct to handle
+    # same person appearing in multiple sessions)
     group_by(.data$last_name) %>%
-    mutate(n = n()) %>%
+    mutate(n = n_distinct(.data$first_name, .data$middle_name)) %>%
     ungroup() %>%
     mutate(match_name = case_when(
       .data$n > 2 ~ paste0(
@@ -376,11 +403,13 @@ adjust_legiscan_data <- function(legiscan, term) {
       ),
       TRUE ~ .data$last_name
     )) %>%
+    # Check for collisions after initial assignment - if same match_name
+    # maps to different people, use full first name to disambiguate
     group_by(.data$match_name) %>%
-    mutate(n = n()) %>%
+    mutate(collision_count = n_distinct(.data$first_name, .data$last_name)) %>%
     ungroup() %>%
-    mutate(match_name = ifelse(.data$n > 1,
-      paste0(substr(.data$first_name, 1, 1), ". ", .data$last_name),
+    mutate(match_name = ifelse(.data$collision_count > 1,
+      paste(.data$first_name, .data$last_name),
       .data$match_name
     )) %>%
     mutate(match_name_chamber = tolower(paste(
@@ -453,12 +482,27 @@ reconcile_legiscan_with_sponsors <- function(sponsors, legiscan, term) {
       )
     )
   } else if (term == "2023_2024") {
+    # Custom matches for name disambiguation
     all_sponsors2 <- inexact::inexact_join(
       x = legiscan,
       y = sponsors,
       by = "match_name_chamber",
       method = "osa",
-      mode = "full"
+      mode = "full",
+      custom_match = c(
+        "meeks-h" = "s. meeks-h",
+        "hammer-s" = "k. hammer-s",
+        "beaty-h" = "beaty jr.-h",
+        "mayberry-h" = "j. mayberry-h",
+        "garner-h" = "d. garner-h",
+        "r. richardson-h" = "r. scott richardson-h", # S. Richardson → R. Scott Richardson via fix_names
+        "king-s" = "b. king-s",
+        "love-s" = "f. love-s",
+        "dotson-s" = "j. dotson-s",
+        "davis-s" = "b. davis-s",
+        "petty-s" = "j. petty-s",
+        "mckee-s" = "m. mckee-s"
+      )
     )
   } else {
     # Default: standard fuzzy matching
@@ -487,6 +531,29 @@ prepare_bills_for_les <- function(bills) {
     ))
 }
 
+#' Get missing SS bills for Arkansas
+#'
+#' Stage 3 hook: Determines which SS bills are genuinely missing from bill_details
+#' vs. intentionally excluded (committee-sponsored or empty-sponsor bills).
+#'
+#' @param ss_filtered Filtered SS bills for this term
+#' @param bill_details Cleaned bill details (after filtering)
+#' @param all_bill_details All bill details (before filtering)
+#' @return Dataframe of genuinely missing SS bills (bill_id, term)
+get_missing_ss_bills <- function(ss_filtered, bill_details, all_bill_details) {
+  ss_filtered %>%
+    anti_join(bill_details, by = c("bill_id", "term")) %>%
+    left_join(
+      all_bill_details %>% select("bill_id", "primary_sponsors"),
+      by = "bill_id"
+    ) %>%
+    # Only flag if bill exists in all_bill_details with non-excluded sponsor
+    filter(!is.na(.data$primary_sponsors)) %>%
+    filter(.data$primary_sponsors != "") %>%
+    filter(!should_drop_bill(.data$primary_sponsors)) %>%
+    select("bill_id", "term")
+}
+
 # Export config and functions
 list(
   bill_types = ar_config$bill_types,
@@ -500,5 +567,6 @@ list(
   clean_sponsor_names = clean_sponsor_names,
   adjust_legiscan_data = adjust_legiscan_data,
   reconcile_legiscan_with_sponsors = reconcile_legiscan_with_sponsors,
-  prepare_bills_for_les = prepare_bills_for_les
+  prepare_bills_for_les = prepare_bills_for_les,
+  get_missing_ss_bills = get_missing_ss_bills
 )

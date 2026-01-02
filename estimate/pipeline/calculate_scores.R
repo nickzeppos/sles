@@ -56,7 +56,7 @@ calculate_scores <- function(data, state, term) {
   # Validate all bills have identified sponsors in legis_data
   bills_missing_sponsors <- bills_prepared %>%
     filter(!.data$sponsor %in% data$legis_data$data_name)
-  assert_no_bills_missing_sponsors(bills_missing_sponsors)
+  assert_no_bills_missing_sponsors(bills_missing_sponsors, data$legis_data)
 
   cli_log("All bills have identified sponsors. Proceeding to LES calculation.")
 
