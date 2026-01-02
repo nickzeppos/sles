@@ -9,12 +9,16 @@ if (repo_root == "") {
 logging <- source(file.path(repo_root, "utils/logging.R"),
                   local = TRUE)$value
 libs <- source(file.path(repo_root, "utils/libs.R"), local = TRUE)$value
+assertions <- source(file.path(repo_root, "estimate/lib/assertions.R"),
+                     local = TRUE)$value
 
 # Extract functions
 cli_log <- logging$cli_log
 cli_warn <- logging$cli_warn
 cli_error <- logging$cli_error
 require_libs <- libs$require_libs
+assert_no_unmatched_legiscan <- assertions$assert_no_unmatched_legiscan_records
+assert_no_unmatched_sponsors <- assertions$assert_no_unmatched_bill_sponsors
 
 # Load required libraries
 require_libs()
@@ -39,7 +43,7 @@ reconcile_legislators <- function(data, state, term) {
     data$bill_details,
     data$leg_achievement_matrix,
     by = intersect(colnames(data$bill_details),
-                   colnames(data$leg_achievement_matrix))
+                    colnames(data$leg_achievement_matrix))
   )
 
   # Get state-specific functions
@@ -135,25 +139,13 @@ reconcile_legislators <- function(data, state, term) {
   unmatched_legiscan <- all_sponsors_2 %>%
     filter(is.na(.data$LES_sponsor)) %>%
     select("name", "match_name_chamber", "party", "district")
-
-  if (nrow(unmatched_legiscan) > 0) {
-    cli_warn(glue(
-      "Warning: {nrow(unmatched_legiscan)} legiscan records unmatched:"
-    ))
-    print(unmatched_legiscan)
-  }
+  assert_no_unmatched_legiscan(unmatched_legiscan)
 
   # Check for unmatched sponsors (in bills but not in legiscan)
   unmatched_sponsors <- all_sponsors_2 %>%
     filter(is.na(.data$name)) %>%
     select("LES_sponsor", "match_name_chamber", "num_sponsored_bills")
-
-  if (nrow(unmatched_sponsors) > 0) {
-    cli_warn(glue(
-      "Warning: {nrow(unmatched_sponsors)} bill sponsors unmatched:"
-    ))
-    print(unmatched_sponsors)
-  }
+  assert_no_unmatched_sponsors(unmatched_sponsors)
 
   # Create final legislator dataset
   legis_data <- all_sponsors_2 %>%

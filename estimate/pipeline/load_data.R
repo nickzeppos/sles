@@ -10,6 +10,8 @@ paths <- source(file.path(repo_root, "utils/paths.R"), local = TRUE)$value
 logging <- source(file.path(repo_root, "utils/logging.R"),
                   local = TRUE)$value
 libs <- source(file.path(repo_root, "utils/libs.R"), local = TRUE)$value
+state_loader <- source(file.path(repo_root, "estimate/states/loader.R"),
+                       local = TRUE)$value
 
 # Extract functions
 get_bill_dir <- paths$get_bill_dir
@@ -19,6 +21,7 @@ get_legiscan_dir <- paths$get_legiscan_dir
 cli_log <- logging$cli_log
 cli_error <- logging$cli_error
 require_libs <- libs$require_libs
+load_state_config <- state_loader$load_state_config
 
 # Load required libraries
 require_libs()
@@ -38,6 +41,9 @@ library(glue)
 load_data <- function(state, term) {
   cli_log(glue("Loading data for {state} {term}..."))
 
+  # Load state configuration
+  state_config <- load_state_config(state)
+
   # Parse term into start and end years
   years <- strsplit(term, "_")[[1]]
   if (length(years) != 2) {
@@ -53,19 +59,26 @@ load_data <- function(state, term) {
   commem_dir <- get_commem_dir(state)
   legiscan_dir <- get_legiscan_dir(state)
 
-  # Load bill details (single file with start year contains full term)
+  # Determine bill file suffix (state-specific for AR, default to year)
+  if (!is.null(state_config$get_bill_file_suffix)) {
+    bill_suffix <- state_config$get_bill_file_suffix(term)
+  } else {
+    bill_suffix <- term_start_year
+  }
+
+  # Load bill details (single file with suffix contains full term)
   cli_log("Loading bill details...")
   bill_details <- read_csv(
     file.path(bill_dir,
-              glue("{state}_Bill_Details_{term_start_year}.csv")),
+              glue("{state}_Bill_Details_{bill_suffix}.csv")),
     show_col_types = FALSE
   )
 
-  # Load bill histories (single file with start year contains full term)
+  # Load bill histories (single file with suffix contains full term)
   cli_log("Loading bill histories...")
   bill_history <- read_csv(
     file.path(bill_dir,
-              glue("{state}_Bill_Histories_{term_start_year}.csv")),
+              glue("{state}_Bill_Histories_{bill_suffix}.csv")),
     show_col_types = FALSE
   )
 
@@ -110,13 +123,26 @@ load_data <- function(state, term) {
   # Combine all sessions and deduplicate
   legiscan <- bind_rows(legiscan_list) %>% distinct()
 
-  # Return all datasets
+  # Apply state-specific preprocessing to normalize raw data (Stage 1.5)
+  if (!is.null(state_config$preprocess_raw_data)) {
+    cli_log("Applying state-specific preprocessing...")
+    preprocessed <- state_config$preprocess_raw_data(
+      bill_details = bill_details,
+      bill_history = bill_history,
+      term = term
+    )
+    bill_details <- preprocessed$bill_details
+    bill_history <- preprocessed$bill_history
+  }
+
+  # Return all datasets including state config
   list(
     bill_details = bill_details,
     bill_history = bill_history,
     ss_bills = ss_bills,
     commem_bills = commem_bills,
-    legiscan = legiscan
+    legiscan = legiscan,
+    state_config = state_config
   )
 }
 

@@ -59,7 +59,7 @@ compute_achievement <- function(data, state, term) {
   )
 
   # Loop through each bill in bill_details
-  for (i in 1:nrow(data$bill_details)) {
+  for (i in seq_len(nrow(data$bill_details))) {
     i_bill_id <- data$bill_details$bill_id[i]
     i_term <- data$bill_details$term[i]
     i_session <- data$bill_details$session[i]

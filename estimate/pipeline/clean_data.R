@@ -12,12 +12,16 @@ logging <- source(file.path(repo_root, "utils/logging.R"),
 libs <- source(file.path(repo_root, "utils/libs.R"), local = TRUE)$value
 state_loader <- source(file.path(repo_root, "estimate/states/loader.R"),
                        local = TRUE)$value
+assertions <- source(file.path(repo_root, "estimate/lib/assertions.R"),
+                     local = TRUE)$value
 
 # Extract functions
 cli_log <- logging$cli_log
 cli_warn <- logging$cli_warn
 require_libs <- libs$require_libs
 load_state_config <- state_loader$load_state_config
+assert_no_duplicates <- assertions$assert_no_duplicates
+assert_no_by_request <- assertions$assert_no_by_request_sponsored_bills
 
 # Load required libraries
 require_libs()
@@ -67,35 +71,42 @@ clean_data <- function(data, state, term) {
       # Create SS flag
       SS = 1
     ) %>%
-    select(state = "State", "term", "year", "bill_id", everything())
+    select(state = "State", "term", "year", "bill_id", everything()) %>%
+    # Remove row-level duplicates (same bill appearing multiple times in CSV)
+    distinct(.data$term, .data$bill_id, .data$SS, .data$year, .data$Title)
 
-  # Clean bill details (generic + STATE-SPECIFIC)
+  # Clean bill details (STATE-SPECIFIC)
   cli_log("Cleaning bill details...")
-  # Generic cleaning: create bill_id from bill_number, standardize session
-  bill_details_clean <- data$bill_details %>%
-    mutate(
-      bill_id = toupper(.data$bill_number),
-      term = term,
-      session = .data$session_type
-    )
 
   # Call state-specific clean_bill_details if available
   if (!is.null(state_config$clean_bill_details)) {
-    cleaned <- state_config$clean_bill_details(bill_details_clean, term)
+    cleaned <- state_config$clean_bill_details(data$bill_details, term)
     all_bill_details <- cleaned$all_bill_details
     bill_details_clean <- cleaned$bill_details
   } else {
+    # Generic fallback (expects bill_id column already exists)
+    bill_details_clean <- data$bill_details %>%
+      mutate(
+        term = term,
+        session = .data$session_type
+      )
     all_bill_details <- bill_details_clean
   }
 
+  # Validate cleaned bill details
+  assert_no_duplicates(bill_details_clean)
+  assert_no_by_request(bill_details_clean)
+
   # Clean bill history (STATE-SPECIFIC)
   cli_log("Cleaning bill history...")
+
   # Call state-specific clean_bill_history if available
   if (!is.null(state_config$clean_bill_history)) {
     bill_history_clean <- state_config$clean_bill_history(
       data$bill_history, term
     )
   } else {
+    # Generic fallback (expects bill_id column already exists)
     bill_history_clean <- data$bill_history
   }
 

@@ -7,6 +7,10 @@ if (repo_root == "") {
   repo_root <- normalizePath(file.path(getwd(), "../.."))
 }
 
+# Load string utilities
+strings <- source(file.path(repo_root, "utils/strings.R"), local = TRUE)$value
+standardize_accents <- strings$standardize_accents
+
 # Load dplyr for pipe operations
 library(dplyr)
 
@@ -34,6 +38,33 @@ wi_config <- list(
   )
 )
 # nolint end: line_length_linter
+
+# Stage 1.5 Hook: Preprocess raw data to normalize column names
+
+#' Preprocess raw data for Wisconsin
+#'
+#' Normalizes raw CSV data into standard schema expected by generic pipeline.
+#' Handles WI-specific column naming conventions.
+#'
+#' @param bill_details Bill details dataframe
+#' @param bill_history Bill history dataframe
+#' @param term Term string (unused but provided for consistency)
+#' @return List with preprocessed bill_details and bill_history
+preprocess_raw_data <- function(bill_details, bill_history, term) {
+  # WI uses "bill_number" in raw data, rename to "bill_id"
+  bill_details <- bill_details %>%
+    rename(bill_id = "bill_number") %>%
+    mutate(bill_id = toupper(.data$bill_id))
+
+  bill_history <- bill_history %>%
+    rename(bill_id = "bill_number") %>%
+    mutate(bill_id = toupper(.data$bill_id))
+
+  list(
+    bill_details = bill_details,
+    bill_history = bill_history
+  )
+}
 
 # Helper functions for WI-specific cleaning
 
@@ -91,15 +122,18 @@ clean_bill_details <- function(bill_details, term) {
   # Store unfiltered version
   all_bill_details <- bill_details
 
-  # Create LES_sponsor column (lowercase, remove trailing periods)
+  # Create LES_sponsor column (lowercase, remove trailing periods, standardize)
   bill_details$LES_sponsor <- tolower(bill_details$primary_sponsor)
   bill_details$LES_sponsor <- stringr::str_remove(
     bill_details$LES_sponsor, "\\.$"
   )
+  bill_details$LES_sponsor <- standardize_accents(bill_details$LES_sponsor)
 
-  # Derive bill_type from bill_id (AB0123 -> AB, SB0456 -> SB)
+  # Add term, session and derive bill_type from bill_id
   bill_details <- bill_details %>%
     mutate(
+      term = term,
+      session = .data$session_type,
       bill_type = toupper(gsub("[0-9].*", "", .data$bill_id))
     )
 
@@ -119,6 +153,32 @@ clean_bill_details <- function(bill_details, term) {
   # Fix bill IDs for special sessions
   bill_details$bill_id <- fix_bill_ids(bill_details$bill_id, term)
 
+  # Drop committee-sponsored bills
+  comm_bills <- bill_details %>%
+    filter(grepl(
+      "committee|joint legislative council|information policy",
+      .data$LES_sponsor
+    ))
+
+  if (nrow(comm_bills) > 0) {
+    cli_log(glue("Dropping {nrow(comm_bills)} committee-sponsored bills"))
+    bill_details <- bill_details %>%
+      filter(!grepl(
+        "committee|joint legislative council|information policy",
+        .data$LES_sponsor
+      ))
+  }
+
+  # Drop bills with missing/empty sponsor
+  empty_sponsor_bills <- bill_details %>%
+    filter(.data$LES_sponsor == "" | is.na(.data$LES_sponsor))
+
+  if (nrow(empty_sponsor_bills) > 0) {
+    cli_log(glue("Dropping {nrow(empty_sponsor_bills)} bills without sponsor"))
+    bill_details <- bill_details %>%
+      filter(!(.data$LES_sponsor == "" | is.na(.data$LES_sponsor)))
+  }
+
   list(
     all_bill_details = all_bill_details,
     bill_details = bill_details
@@ -137,9 +197,7 @@ clean_bill_details <- function(bill_details, term) {
 #' @return Cleaned bill_history dataframe
 clean_bill_history <- function(bill_history, term) {
   bill_history %>%
-    rename(bill_id = "bill_number") %>%
     mutate(
-      bill_id = toupper(.data$bill_id),
       term = term,
       session = .data$session_type,
       chamber = recode(.data$chamber, "Asm." = "House", "Sen." = "Senate"),
@@ -160,7 +218,8 @@ clean_bill_history <- function(bill_history, term) {
 derive_unique_sponsors <- function(bills, term) {
   bills %>%
     mutate(chamber = ifelse(substring(.data$bill_id, 1, 1) == "A",
-                            "H", "S")) %>%
+      "H", "S"
+    )) %>%
     select("LES_sponsor", "chamber", "passed_chamber", "law") %>%
     mutate(term = term) %>%
     group_by(.data$LES_sponsor, .data$chamber, .data$term) %>%
@@ -193,7 +252,7 @@ compute_cosponsorship <- function(all_sponsors, bills) {
     cli_log("Ensuring primary and cosponsor columns are disjoint name sets.")
 
     # Calculate cosponsorship counts
-    for (i in 1:nrow(all_sponsors)) {
+    for (i in seq_len(nrow(all_sponsors))) {
       chamber_prefix <- ifelse(all_sponsors[i, ]$chamber == "H", "A", "S")
       c_sub <- filter(bills, substring(.data$bill_id, 1, 1) == chamber_prefix)
       all_sponsors$num_cosponsored_bills[i] <- sum(
@@ -217,9 +276,13 @@ compute_cosponsorship <- function(all_sponsors, bills) {
         adjustment_needed <- FALSE
       } else {
         cli_error("Adjustment failed - still have negative counts.")
-        cli_error(paste("Problem sponsors:",
-                       nrow(filter(all_sponsors,
-                                   .data$num_cosponsored_bills < 0))))
+        cli_error(paste(
+          "Problem sponsors:",
+          nrow(filter(
+            all_sponsors,
+            .data$num_cosponsored_bills < 0
+          ))
+        ))
         stop("Cosponsorship adjustment failed")
       }
     } else {
@@ -245,23 +308,28 @@ clean_sponsor_names <- function(all_sponsors, term) {
     mutate(
       last_name = gsub(" .+", "", .data$LES_sponsor),
       first_name = ifelse(!grepl(" ", .data$LES_sponsor), NA,
-                         gsub(".+ ", "", .data$LES_sponsor))
+        gsub(".+ ", "", .data$LES_sponsor)
+      )
     )
 
   # Term-specific name fixes
   if (term == "1999_2000") {
     all_sponsors$last_name <- ifelse(all_sponsors$LES_sponsor == "roessler",
-                                     "buettner", all_sponsors$last_name)
+      "buettner", all_sponsors$last_name
+    )
   }
   if (term %in% c("2001_2002")) {
     all_sponsors$last_name <- ifelse(all_sponsors$LES_sponsor == "starzyk",
-                                     "kerkman", all_sponsors$last_name)
+      "kerkman", all_sponsors$last_name
+    )
     all_sponsors$last_name <- ifelse(all_sponsors$LES_sponsor == "wade",
-                                     "spillner", all_sponsors$last_name)
+      "spillner", all_sponsors$last_name
+    )
   }
   if (term %in% c("2003_2004")) {
     all_sponsors$last_name <- ifelse(all_sponsors$LES_sponsor == "morris",
-                                     "morris-tatum", all_sponsors$last_name)
+      "morris-tatum", all_sponsors$last_name
+    )
   }
   if (term %in% c("2009_2010", "2011_2012", "2013_2014")) {
     all_sponsors$last_name <- ifelse(
@@ -271,7 +339,8 @@ clean_sponsor_names <- function(all_sponsors, term) {
   }
   if (term %in% c("2013_2014", "2015_2016", "2017_2018")) {
     all_sponsors$last_name <- ifelse(all_sponsors$LES_sponsor == "pope",
-                                     "pope-roberts", all_sponsors$last_name)
+      "pope-roberts", all_sponsors$last_name
+    )
   }
   if (term == "2015_2016") {
     all_sponsors$last_name <- ifelse(
@@ -329,11 +398,13 @@ adjust_legiscan_data <- function(legiscan, term) {
     ungroup() %>%
     mutate(
       match_name = ifelse(.data$n >= 2,
-                         glue("{substr(first_name, 1, 1)}. {last_name}"),
-                         .data$last_name),
+        glue("{substr(first_name, 1, 1)}. {last_name}"),
+        .data$last_name
+      ),
       match_name_chamber = tolower(paste(.data$match_name,
-                                        substr(.data$district, 1, 1),
-                                        sep = "-"))
+        substr(.data$district, 1, 1),
+        sep = "-"
+      ))
     )
 
   legiscan_adj
@@ -405,6 +476,7 @@ reconcile_legiscan_with_sponsors <- function(sponsors, legiscan, term) {
 list(
   bill_types = wi_config$bill_types,
   step_terms = wi_config$step_terms,
+  preprocess_raw_data = preprocess_raw_data,
   clean_bill_details = clean_bill_details,
   clean_bill_history = clean_bill_history,
   derive_unique_sponsors = derive_unique_sponsors,

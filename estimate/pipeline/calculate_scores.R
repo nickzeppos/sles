@@ -11,11 +11,14 @@ logging <- source(file.path(repo_root, "utils/logging.R"),
 libs <- source(file.path(repo_root, "utils/libs.R"), local = TRUE)$value
 les_calc <- source(file.path(repo_root, "estimate/lib/les_calc.R"),
                    local = TRUE)$value
+assertions <- source(file.path(repo_root, "estimate/lib/assertions.R"),
+                     local = TRUE)$value
 
 # Extract functions
 cli_log <- logging$cli_log
 require_libs <- libs$require_libs
 calculate_les <- les_calc$calculate_les
+assert_no_bills_missing_sponsors <- assertions$assert_no_bills_missing_sponsors
 
 # Load required libraries
 require_libs()
@@ -36,9 +39,26 @@ calculate_scores <- function(data, state, term) {
   # Prepare bills data for LES calculation
   cli_log("Preparing bills data...")
   bills_prepared <- data$bills %>%
-    rename(sponsor = "LES_sponsor") %>%
-    mutate(chamber = ifelse(substring(.data$bill_id, 1, 1) == "A",
-                            "H", "S"))
+    rename(sponsor = "LES_sponsor")
+
+  # Apply state-specific chamber derivation if available
+  state_config <- data$state_config
+  if (!is.null(state_config$prepare_bills_for_les)) {
+    bills_prepared <- state_config$prepare_bills_for_les(bills_prepared)
+  } else {
+    # Generic: assume Wisconsin-style "A" prefix for Assembly/House
+    bills_prepared <- bills_prepared %>%
+      mutate(chamber = ifelse(substring(.data$bill_id, 1, 1) == "A",
+        "H", "S"
+      ))
+  }
+
+  # Validate all bills have identified sponsors in legis_data
+  bills_missing_sponsors <- bills_prepared %>%
+    filter(!.data$sponsor %in% data$legis_data$data_name)
+  assert_no_bills_missing_sponsors(bills_missing_sponsors)
+
+  cli_log("All bills have identified sponsors. Proceeding to LES calculation.")
 
   # Calculate weighted LES scores
   # Using original weights: SS=10, regular=5, commemorative=1
@@ -92,13 +112,19 @@ calculate_scores <- function(data, state, term) {
     ) %>%
     # Rename legiscan ID column
     rename(legiscan_id = "klarner_id") %>%
-    # Reorder columns to match original
-    select("sponsor", "data_name", "legiscan_id", "term", "chamber",
-           "district", "party", "LES", "LES_rank", "LES_nw",
-           "all_bills", "all_aic", "all_abc", "all_pass", "all_law",
-           "ss_bills", "s_bills", "c_bills",
-           "num_sponsored_bills", "sponsor_pass_rate", "sponsor_law_rate",
-           "num_cosponsored_bills")
+    # Reorder columns to match original output format
+    select(
+      "sponsor", "data_name", "legiscan_id", "term", "chamber",
+      "district", "party", "LES", "LES_rank",
+      "BILL_wshare", "AIC_wshare", "ABC_wshare", "PASS_wshare", "LAW_wshare",
+      "all_bills", "all_aic", "all_abc", "all_pass", "all_law",
+      "ss_bills", "ss_aic", "ss_abc", "ss_pass", "ss_law",
+      "s_bills", "s_aic", "s_abc", "s_pass", "s_law",
+      "c_bills", "c_aic", "c_abc", "c_pass", "c_law",
+      "LES_nw",
+      "num_sponsored_bills", "sponsor_pass_rate", "sponsor_law_rate",
+      "num_cosponsored_bills"
+    )
 
   cli_log(glue::glue("Calculated scores for {nrow(les_scores)} legislators"))
 

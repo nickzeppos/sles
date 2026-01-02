@@ -5,6 +5,27 @@ SLES Project - Quick Reference
 Porting SLES from .dropbox/ to clean Git structure. Focus: estimation only.
 Future work: Port other states from old monolithic scripts to state_procedures/XX.R pattern.
 
+## Estimation Process Overview
+
+1. Load bill details, bill history, SS bills, commemorative bills, and legiscan
+   legislator data for the given state/term.
+
+2. Clean and standardize: normalize bill IDs, parse dates, filter to valid bill
+   types, remove committee-sponsored bills.
+
+3. Join importance flags (SS, commemorative) to bill details on bill_id. Dedupe
+   SS bills that appear in multiple years with identical titles.
+
+4. Compute achievement vector for each bill by evaluating its history against
+   state-specific step terms.
+
+5. Reconcile bill sponsors with legiscan legislator records via fuzzy matching.
+   Derive sponsor stats (pass rate, law rate) and cosponsorship counts (if available).
+
+6. Calculate LES for each legislator: weight bills by type and achievement stage, normalize within chamber.
+
+7. Write legislator scores and coded bills to CSV outputs.
+
 ## Data Structure (.data/STATE/)
 - bill/          Bill details & histories
 - commem/        Commemorative bills
@@ -23,6 +44,7 @@ CLI → Operation Modules (estimate, commem, compile)
 - Max 80 char lines
 - snake_case naming
 - Space before `(` in control flow (if, while, for), not function calls
+- Prefer `for (i in seq_len(nrow(df)))` over `for (i in 1:nrow(df))`
 
 ## Implementation Status
 
@@ -30,94 +52,86 @@ CLI → Operation Modules (estimate, commem, compile)
 - cli.R - Working, estimate operation only
 - estimate/estimate.R - Full orchestrator (stages 1-7)
 - utils/ - paths, logging, libs, strings
-- estimate/states/WI.R - All state-specific hooks:
-  - Stage 2: clean_bill_details, clean_bill_history
-  - Stage 5: derive_unique_sponsors, compute_cosponsorship,
-    clean_sponsor_names, adjust_legiscan_data,
-    reconcile_legiscan_with_sponsors
+- estimate/states/WI.R - All hooks (Stage 1.5, 2, 5, 6)
+- estimate/states/AR.R - All hooks (Stage 1.5, 2, 5, 6)
 - estimate/states/loader.R - Dynamic state config loader
 - estimate/lib/bill_history.R - evaluate_bill_history utility
-- estimate/lib/les_calc.R - LES calculation engine
-- estimate/pipeline/load_data.R - Stage 1 (loads all CSVs)
-- estimate/pipeline/clean_data.R - Stage 2 (generic + WI-specific cleaning)
-- estimate/pipeline/join_data.R - Stage 3 (join SS/commem flags)
-- estimate/pipeline/compute_achievement.R - Stage 4 (achievement matrix)
-- estimate/pipeline/reconcile_legislators.R - Stage 5 (sponsor/legiscan match)
-- estimate/pipeline/validate_legislators.R - Stage 5.5 (zero-LES review)
-- estimate/pipeline/calculate_scores.R - Stage 6 (weighted + unweighted LES)
-- estimate/pipeline/write_outputs.R - Stage 7 (CSV output)
+- estimate/lib/les_calc.R - LES calculation with 39-column output
+- estimate/pipeline/* - All 7 stages working
 
-### Full Pipeline Working
-All stages complete and tested with WI 2023_2024. Produces LES scores for
-133 legislators with correct weights (SS=10, reg=5, com=1), both weighted and
-unweighted scores, and full output format matching original implementation.
+### Pipeline Status
+WI 2023_2024: 133 legislators, 0.9985 correlation with original (5 SS bill diff)
+AR 2023_2024: 136 legislators (101 House, 35 Senate)
 
-WI state fully ported with all Stage 2 and Stage 5 hooks implemented.
-
-Stage 5.5 handles zero-LES legislators with interactive review workflow:
-- Detects legislators with zero sponsored bills
-- Prompts for manual review (served full term vs. early exit)
-- Caches decisions in .data/STATE/review/ CSV
-- Removes flagged legislators before LES calculation
+Output format: 39 columns including detailed breakdowns (all/ss/s/c bills × 5 stages)
+Weights: SS=10, regular=5, commemorative=1
 
 ## Estimation Architecture
 
 ### Structure
 
 estimate/
-├── estimate.R           # Thin orchestrator, calls pipeline stages
-├── pipeline/            # Modular pipeline stages
-│   ├── load_data.R      # Stage 1: Load & validate data files
-│   ├── clean_data.R     # Stage 2: Clean bills, SS, history
-│   ├── join_data.R      # Stage 3: Join SS, commem to bills
-│   ├── compute_achievement.R  # Stage 4: Bill achievement matrix
-│   ├── reconcile_legislators.R  # Stage 5: Match sponsors to legiscan
-│   ├── validate_legislators.R   # Stage 5.5: Zero-LES review
-│   ├── calculate_scores.R  # Stage 6: Compute LES scores (weighted + unweighted)
-│   └── write_outputs.R  # Stage 7: Write CSV outputs
-├── states/              # State-specific configs & overrides
-│   ├── WI.R            # Config + Stage 2 & 5 hooks
-│   └── loader.R        # Dynamic state loader (no manual dispatch)
-└── lib/                # Estimation-specific utilities
-    ├── assertions.R    # All assert_* functions
-    ├── bill_history.R  # evaluate_bill_history logic
-    └── les_calc.R      # LES calculation (from calculate_LES.R)
+├── estimate.R                  # Thin orchestrator
+├── pipeline/                   # Modular pipeline stages
+│   ├── load_data.R             # Stage 1: Load & validate data files
+│   ├── clean_data.R            # Stage 2: Clean bill details, bill history, SS
+│   ├── join_data.R             # Stage 3: Join SS, commem to bill details
+│   ├── compute_achievement.R   # Stage 4: Leg achievement matrix from bill history
+│   ├── reconcile_legislators.R # Stage 5: Match sponsors to legiscan
+│   ├── validate_legislators.R  # Stage 5.5: Zero-LES (no sponsored bills) check + review 
+│   ├── calculate_scores.R      # Stage 6: Compute LES scores
+│   └── write_outputs.R         # Stage 7: Write CSV outputs
+├── states/                     # State-specific configs & overrides
+│   ├── WI.R                    # Config + hooks
+│   └── loader.R                # Dynamic state loader
+└── lib/                        # Estimation-specific utilities
+    ├── assertions.R            # All assert_* functions
+    ├── bill_history.R          # evaluate_bill_history logic
+    └── les_calc.R              # LES calculation
 
 ### Design Principles
 - estimate.R: Thin orchestrator, calls pipeline stages sequentially
 - Pipeline stages: Focused modules (~100-150 lines), clear input/output
-- State files: Minimal - config + state-specific function hooks only
+- State files: Minimal - config + state-specific hooks only
 - Generic logic in pipeline, state quirks in state files
 
 ### State-Specific Hooks
-Stage 2 (clean_data):
-- clean_bill_details(bill_details, term) - Bill detail transformations
-- clean_bill_history(bill_history, term) - History cleaning
+Stage 1.5: preprocess_raw_data, get_bill_file_suffix
+Stage 2: clean_bill_details, clean_bill_history
+Stage 5: derive_unique_sponsors, compute_cosponsorship, clean_sponsor_names,
+         adjust_legiscan_data, reconcile_legiscan_with_sponsors
+Stage 6: prepare_bills_for_les (chamber derivation)
 
-Stage 5 (reconcile_legislators):
-- derive_unique_sponsors(bills, term) - Extract unique sponsors from bills
-- compute_cosponsorship(all_sponsors, bills) - Count cosponsored bills
-- clean_sponsor_names(all_sponsors, term) - Name standardization/fixes
-- adjust_legiscan_data(legiscan, term) - Legiscan record adjustments
-- reconcile_legiscan_with_sponsors(sponsors, legiscan, term) - Fuzzy
-  matching
+## Implementation Guidelines
+
+### Porting States from Legacy Scripts
+CRITICAL: When implementing a new state, thoroughly review the original script
+to ensure ALL logic is captured:
+
+1. **Data Loading**: Check for custom file naming, column names, data formats
+2. **Filtering Logic**: Verify committee bill filtering, bill type filtering,
+   empty sponsor handling
+3. **Name Standardization**: Capture lowercasing, accent removal, name fixes
+4. **Session Handling**: Check for session recoding, year extraction
+5. **Bill ID Formatting**: Verify zero-padding, special session handling
+6. **State-Specific Corrections**: Look for term-specific fixes, edge cases
+
+Common missed items:
+- Committee-sponsored bill filtering (must lowercase sponsors first!)
+- Empty/missing sponsor filtering
+- Name standardization (tolower, accent removal)
+- Session variable recoding
+- Bill ID zero-padding and special session handling
+
+The goal: Implement the SAME logic as the original, just organized into the
+modular hook pattern. Don't skip steps or assume "it probably doesn't matter."
 
 ## Known Issues
 
-### SS Bill Duplication (WI 2023_2024)
+### SS Bill Duplication
 Some bills appear in PVS data for multiple years within a term with identical
-titles, creating duplicates when joining. Solution: keep earliest year for
-identical titles. Affected bills: AB0377, AB0415, SB0139, SB0145, SB0312.
-See .dropbox/ss_duplicate_investigation.ipynb for full analysis.
-
-## Next Steps
-1. Test with other WI terms:
-   - 2021_2022 (has custom legiscan adjustments and matching rules)
-   - 2019_2020 (has custom matching rules)
-   - Earlier terms (various name corrections)
-2. Expand to other states (AR, etc.)
-   - Copy WI.R as template
-   - Implement state-specific hooks as needed
+titles (e.g., WI 2023-2024: AB0377, AB0415, SB0139, SB0145, SB0312). Solution: keep
+earliest year for identical titles. See .dropbox/ss_duplicate_investigation.ipynb.
 
 ---
 Updated: 2026-01-01

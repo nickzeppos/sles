@@ -1,5 +1,7 @@
 # LES Calculation Utilities
 # Core functions for computing Legislative Effectiveness Scores
+# nolint start: object_name_linter
+# (Variable names like BILL_wshare match original output columns)
 
 # Load shared utilities
 repo_root <- Sys.getenv("SLES_REPO_ROOT")
@@ -44,7 +46,7 @@ calculate_les <- function(
   bill_data$match_name <- NA
   bill_data$match_name <- as.character(bill_data$match_name)
 
-  for (i in 1:nrow(legislator_data)) {
+  for (i in seq_len(nrow(legislator_data))) {
     # Escape special chars in name
     search_name <- gsub("\\)", "\\\\)", gsub("\\(", "\\\\(",
                                              legislator_data[i, ]$data_name))
@@ -76,7 +78,7 @@ calculate_les <- function(
   inverse_prob <- ifelse(length(stage_weights) == 1 &&
                            stage_weights[1] == "inverse_prob", TRUE, FALSE)
 
-  # Initialize output dataframe
+  # Initialize output dataframe with all columns from original
   les_dat <- tibble(
     sponsor = character(0),
     data_name = character(0),
@@ -85,14 +87,31 @@ calculate_les <- function(
     chamber = character(0),
     LES = numeric(0),
     LES_rank = numeric(0),
+    BILL_wshare = numeric(0),
+    AIC_wshare = numeric(0),
+    ABC_wshare = numeric(0),
+    PASS_wshare = numeric(0),
+    LAW_wshare = numeric(0),
     all_bills = numeric(0),
     all_aic = numeric(0),
     all_abc = numeric(0),
     all_pass = numeric(0),
     all_law = numeric(0),
     ss_bills = numeric(0),
+    ss_aic = numeric(0),
+    ss_abc = numeric(0),
+    ss_pass = numeric(0),
+    ss_law = numeric(0),
     s_bills = numeric(0),
-    c_bills = numeric(0)
+    s_aic = numeric(0),
+    s_abc = numeric(0),
+    s_pass = numeric(0),
+    s_law = numeric(0),
+    c_bills = numeric(0),
+    c_aic = numeric(0),
+    c_abc = numeric(0),
+    c_pass = numeric(0),
+    c_law = numeric(0)
   )
 
   # Apply bill weights
@@ -131,7 +150,7 @@ calculate_les <- function(
     }
 
     # Calculate LES for each legislator in chamber
-    for (i in 1:nrow(chamber_legislators)) {
+    for (i in seq_len(nrow(chamber_legislators))) {
       sponsor_row <- chamber_legislators[i, ]
       sponsor_names <- sponsor_row$data_name
 
@@ -139,7 +158,7 @@ calculate_les <- function(
         filter(.data$sponsor %in% sponsor_names)
 
       if (nrow(sponsored_bills) == 0) {
-        # Zero bills sponsored
+        # Zero bills sponsored - add row with all zeros
         les_dat <- add_row(
           les_dat,
           sponsor = sponsor_row$sponsor,
@@ -149,14 +168,31 @@ calculate_les <- function(
           chamber = c,
           LES = 0,
           LES_rank = NA,
+          BILL_wshare = 0,
+          AIC_wshare = 0,
+          ABC_wshare = 0,
+          PASS_wshare = 0,
+          LAW_wshare = 0,
           all_bills = 0,
           all_aic = 0,
           all_abc = 0,
           all_pass = 0,
           all_law = 0,
           ss_bills = 0,
+          ss_aic = 0,
+          ss_abc = 0,
+          ss_pass = 0,
+          ss_law = 0,
           s_bills = 0,
-          c_bills = 0
+          s_aic = 0,
+          s_abc = 0,
+          s_pass = 0,
+          s_law = 0,
+          c_bills = 0,
+          c_aic = 0,
+          c_abc = 0,
+          c_pass = 0,
+          c_law = 0
         )
         next
       }
@@ -180,8 +216,12 @@ calculate_les <- function(
       PASS_wshare <- PASS_w / PASS_denom
       LAW_wshare <- LAW_w / LAW_denom
 
-      # Count bills by type
+      # Count bills by type with full breakdown
       sponsor_counts <- sponsored_bills %>%
+        mutate(
+          commem = coalesce(.data$commem, 0),
+          SS = coalesce(.data$SS, 0)
+        ) %>%
         summarize(
           all_bills = sum(.data$introduced),
           all_aic = sum(.data$action_in_comm),
@@ -189,9 +229,30 @@ calculate_les <- function(
           all_pass = sum(.data$passed_chamber),
           all_law = sum(.data$law),
           ss_bills = sum(.data$SS * .data$introduced),
+          ss_aic = sum(.data$SS * .data$action_in_comm),
+          ss_abc = sum(.data$SS * .data$action_beyond_comm),
+          ss_pass = sum(.data$SS * .data$passed_chamber),
+          ss_law = sum(.data$SS * .data$law),
           s_bills = sum(ifelse(.data$SS == 0 & .data$commem == 0,
-                               .data$introduced, 0)),
-          c_bills = sum(.data$commem * .data$introduced)
+            .data$introduced, 0
+          )),
+          s_aic = sum(ifelse(.data$SS == 0 & .data$commem == 0,
+            .data$action_in_comm, 0
+          )),
+          s_abc = sum(ifelse(.data$SS == 0 & .data$commem == 0,
+            .data$action_beyond_comm, 0
+          )),
+          s_pass = sum(ifelse(.data$SS == 0 & .data$commem == 0,
+            .data$passed_chamber, 0
+          )),
+          s_law = sum(ifelse(.data$SS == 0 & .data$commem == 0,
+            .data$law, 0
+          )),
+          c_bills = sum(.data$commem * .data$introduced),
+          c_aic = sum(.data$commem * .data$action_in_comm),
+          c_abc = sum(.data$commem * .data$action_beyond_comm),
+          c_pass = sum(.data$commem * .data$passed_chamber),
+          c_law = sum(.data$commem * .data$law)
         )
 
       # Calculate LES
@@ -199,7 +260,7 @@ calculate_les <- function(
       LES <- N / adj_factor * (BILL_wshare + AIC_wshare + ABC_wshare +
                                  PASS_wshare + LAW_wshare)
 
-      # Add row to output
+      # Add row to output with all detailed columns
       les_dat <- add_row(
         les_dat,
         sponsor = sponsor_row$sponsor,
@@ -209,14 +270,31 @@ calculate_les <- function(
         chamber = c,
         LES = LES,
         LES_rank = NA,
+        BILL_wshare = BILL_wshare,
+        AIC_wshare = AIC_wshare,
+        ABC_wshare = ABC_wshare,
+        PASS_wshare = PASS_wshare,
+        LAW_wshare = LAW_wshare,
         all_bills = sponsor_counts$all_bills,
         all_aic = sponsor_counts$all_aic,
         all_abc = sponsor_counts$all_abc,
         all_pass = sponsor_counts$all_pass,
         all_law = sponsor_counts$all_law,
         ss_bills = sponsor_counts$ss_bills,
+        ss_aic = sponsor_counts$ss_aic,
+        ss_abc = sponsor_counts$ss_abc,
+        ss_pass = sponsor_counts$ss_pass,
+        ss_law = sponsor_counts$ss_law,
         s_bills = sponsor_counts$s_bills,
-        c_bills = sponsor_counts$c_bills
+        s_aic = sponsor_counts$s_aic,
+        s_abc = sponsor_counts$s_abc,
+        s_pass = sponsor_counts$s_pass,
+        s_law = sponsor_counts$s_law,
+        c_bills = sponsor_counts$c_bills,
+        c_aic = sponsor_counts$c_aic,
+        c_abc = sponsor_counts$c_abc,
+        c_pass = sponsor_counts$c_pass,
+        c_law = sponsor_counts$c_law
       )
     }
   }
@@ -232,6 +310,8 @@ calculate_les <- function(
 
   les_dat
 }
+
+# nolint end
 
 # Export function
 list(calculate_les = calculate_les)

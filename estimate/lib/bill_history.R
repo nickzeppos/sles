@@ -1,13 +1,21 @@
 # Bill History Evaluation Utilities
 # Functions for evaluating legislative achievement from bill history
 
+# Imports for lintr
+utils::globalVariables(".data")
+
 # Load shared utilities
 repo_root <- Sys.getenv("SLES_REPO_ROOT")
 if (repo_root == "") {
   repo_root <- normalizePath(file.path(getwd(), "../.."))
 }
+
+# Load required libraries
+library(dplyr)
+
 strings <- source(file.path(repo_root, "utils/strings.R"),
-                  local = TRUE)$value
+  local = TRUE
+)$value
 
 # Extract functions
 collapse_on_pipe <- strings$collapse_on_pipe
@@ -23,7 +31,8 @@ get_chamber_of_introduction <- function(bill_id) {
     # If bill ID starts with s, h, or a
     # Choose chamber: s => Senate, h/a => House
     init_chamber <- ifelse(substring(tolower(bill_id), 1, 1) == "s",
-                           "Senate", "House")
+      "Senate", "House"
+    )
   } else if (grepl("SB|HB|AB", bill_id)) {
     # For states with year-prefixed bills (e.g., 1997-SB-0123)
     # Choose chamber: SB => Senate, HB/AB => House
@@ -60,7 +69,6 @@ evaluate_bill_history <- function(
     bill_history, this_id, this_term, this_session, this_sponsor, state,
     step_terms,
     ignore_chamber_switch = FALSE, nebraska = FALSE, add_chamb = NULL) {
-
   # Extract step terms from config
   aic_terms <- step_terms$aic
   abc_terms <- step_terms$abc

@@ -63,8 +63,10 @@ estimate_les <- function(state, term) {
   data <- compute_achievement_module$compute_achievement(data, state, term)
 
   # Stage 5: Reconcile legislators
-  data <- reconcile_legislators_module$reconcile_legislators(data,
-                                                             state, term)
+  data <- reconcile_legislators_module$reconcile_legislators(
+    data,
+    state, term
+  )
 
   # Stage 5.5: Validate legislators (zero-LES review)
   data <- validate_legislators_module$validate_legislators(data, state, term)
