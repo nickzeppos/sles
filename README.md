@@ -53,7 +53,7 @@ Output: `les_scores` with 39 columns including detailed breakdowns (all/ss/s/c b
 
 - Writes `{STATE}_LES_{term}.csv` (les_scores) and `{STATE}_coded_bills_{term}.csv` (bills with achievement matrix) to `.data/STATE/outputs/`.
 
-### Known Issues (inherited from original codebase)
+### Known Issues
 
 1. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles, but distinct year values. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. Ideally we'd just make the initial distinct() call more intelligent, but, trying to remain faithful for now. See ss_duplicate_investigation.ipynb for full walkthrough.
 
