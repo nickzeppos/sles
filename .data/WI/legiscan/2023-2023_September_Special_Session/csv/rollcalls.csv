@@ -1,0 +1,6 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1779691,1362834,2023-10-17,Senate,"Senate: Senate Amendment 1 to Senate Substitute Amendment 1 rejected",21,10,2,0,33
+1779691,1362835,2023-10-17,Senate,"Senate: Senate Substitute Amendment 1 adopted",22,10,1,0,33
+1779691,1362836,2023-10-17,Senate,"Senate: Read a third time and passed",21,11,1,0,33
+1779691,1362837,2023-11-14,House,"Assembly: Assembly Substitute Amendment 1 laid on table",63,35,1,0,99
+1779691,1362838,2023-11-14,House,"Assembly: Read a third time and concurred in",62,36,1,0,99

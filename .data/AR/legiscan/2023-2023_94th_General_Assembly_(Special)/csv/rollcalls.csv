@@ -1,0 +1,26 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1777507,1354057,2023-09-13,House,"Third Reading",90,1,9,0,100
+1777507,1354453,2023-09-14,Senate,"Third Reading",26,2,1,6,35
+1777510,1353716,2023-09-12,Senate,"Third Reading",29,0,0,6,35
+1777510,1354058,2023-09-13,House,"Third Reading",89,2,9,0,100
+1777511,1354056,2023-09-13,House,"Third Reading",83,14,3,0,100
+1777511,1354476,2023-09-14,Senate,"Third Reading",27,4,0,4,35
+1777512,1353713,2023-09-12,Senate,"Third Reading",27,3,0,5,35
+1777512,1354478,2023-09-14,House,"Third Reading",82,15,3,0,100
+1777513,1354063,2023-09-13,House,"Third Reading",96,0,4,0,100
+1777513,1354450,2023-09-14,Senate,"Third Reading",28,0,0,7,35
+1777514,1353714,2023-09-12,Senate,"Third Reading",29,0,0,6,35
+1777514,1354472,2023-09-14,House,"Third Reading",88,0,12,0,100
+1777517,1354062,2023-09-13,House,"Third Reading",92,4,4,0,100
+1777517,1354449,2023-09-14,Senate,"Third Reading",27,3,0,5,35
+1777518,1353701,2023-09-12,Senate,"Third Reading",25,3,2,5,35
+1777518,1354461,2023-09-14,House,"Third Reading",89,3,8,0,100
+1777519,1353699,2023-09-12,Senate,"Third Reading",29,0,0,6,35
+1777519,1354448,2023-09-14,House,"Third Reading",95,0,5,0,100
+1777559,1354477,2023-09-14,House,"Third Reading",88,0,12,0,100
+1777560,1354451,2023-09-14,House,"Third Reading",84,10,6,0,100
+1777562,1353700,2023-09-12,Senate,"Third Reading",27,3,0,5,35
+1777562,1354458,2023-09-14,House,"Third Reading",84,10,6,0,100
+1777630,1354064,2023-09-13,Senate,"Third Reading",29,2,1,3,35
+1777630,1354462,2023-09-14,House,"Third Reading",82,15,3,0,100
+1777631,1354464,2023-09-14,House,"Third Reading",82,15,3,0,100

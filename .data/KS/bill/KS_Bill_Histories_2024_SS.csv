@@ -1,0 +1,77 @@
+bill_id,session,chamber,action_date,action,order,journal_page
+SB0001,2024_SS,Senate,2024-06-18,"Approved by Governor on Thursday, June 20, 2024",11,
+SB0001,2024_SS,Senate,2024-06-18,"Enrolled and presented to Governor on Thursday, June 20, 2024",10,
+SB0001,2024_SS,House,2024-06-18,Emergency Final Action - Passed; Yea: 121 Nay: 2,9,
+SB0001,2024_SS,House,2024-06-18,"Amendment by Representative Miller, V. was rejected.",8,
+SB0001,2024_SS,House,2024-06-18,"Motion to Amend - Offered by Representative Miller, V.",7,
+SB0001,2024_SS,House,2024-06-18,Motion to advance to Emergency Final Action Subject to Amendment and debate adopted.,6,
+SB0001,2024_SS,House,2024-06-18,Received and Introduced,5,
+SB0001,2024_SS,Senate,2024-06-18,Emergency Final Action - Passed; Yea: 34 Nay: 4,4,
+SB0001,2024_SS,Senate,2024-06-18,Call the Question. Motion carried. Yea: 22 Nay: 16,3,
+SB0001,2024_SS,Senate,2024-06-18,"Motion to advance to EFA, subject to amendment, debate and roll call. Motion carried.",2,
+SB0001,2024_SS,Senate,2024-06-18,Introduced,1,
+SB0002,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0002,2024_SS,Senate,2024-06-18,Introduced,1,3
+SB0003,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0003,2024_SS,Senate,2024-06-18,Introduced,1,3
+SB0004,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0004,2024_SS,Senate,2024-06-18,Introduced,1,3
+SB0005,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0005,2024_SS,Senate,2024-06-18,Introduced,1,3
+SB0006,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0006,2024_SS,Senate,2024-06-18,Introduced,1,3
+SB0007,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0007,2024_SS,Senate,2024-06-18,Introduced,1,3
+SB0008,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SB0008,2024_SS,Senate,2024-06-18,Introduced,1,4
+HB2001,2024_SS,House,2024-06-18,"Approved by Governor on Thursday, June 20, 2024",12,
+HB2001,2024_SS,House,2024-06-18,"Enrolled and presented to Governor on Thursday, June 20, 2024",11,
+HB2001,2024_SS,Senate,2024-06-18,Emergency Final Action - Passed; Yea: 27 Nay: 8,10,
+HB2001,2024_SS,Senate,2024-06-18,"Motion to advance to EFA, subject to amendment, debate and roll call. Motion carried.",9,
+HB2001,2024_SS,Senate,2024-06-18,Received and Introduced,8,
+HB2001,2024_SS,House,2024-06-18,Emergency Final Action - Passed; Yea: 84 Nay: 38,7,
+HB2001,2024_SS,House,2024-06-18,"Amendment by Representative Miller, V. was rejected.",6,
+HB2001,2024_SS,House,2024-06-18,"Motion to Amend - Offered by Representative Miller, V.",5,
+HB2001,2024_SS,House,2024-06-18,Representative Tarwater raised a question of germaneness. The amendment was ruled not germane.,4,
+HB2001,2024_SS,House,2024-06-18,Motion to Amend - Offered by Representative Helgerson.,3,
+HB2001,2024_SS,House,2024-06-18,Motion to advance to Emergency Final Action Subject to Amendment and debate adopted.,2,
+HB2001,2024_SS,House,2024-06-18,Introduced,1,
+HB2002,2024_SS,House,2024-06-18,Died on Calendar,2,
+HB2002,2024_SS,House,2024-06-18,Introduced,1,5
+HB2003,2024_SS,House,2024-06-18,Died on Calendar,2,
+HB2003,2024_SS,House,2024-06-18,Introduced,1,5
+HB2004,2024_SS,House,2024-06-18,Died on Calendar,2,
+HB2004,2024_SS,House,2024-06-18,Introduced,1,5
+SR1701,2024_SS,Senate,2024-06-18,"Enrolled on Thursday, June 20, 2024",3,18
+SR1701,2024_SS,Senate,2024-06-18,Adopted without roll call,2,10
+SR1701,2024_SS,Senate,2024-06-18,Introduced,1,10
+SR1702,2024_SS,Senate,2024-06-18,"Enrolled on Thursday, June 20, 2024",3,18
+SR1702,2024_SS,Senate,2024-06-18,Adopted without roll call,2,11
+SR1702,2024_SS,Senate,2024-06-18,Introduced,1,10
+SR1703,2024_SS,Senate,2024-06-18,"Enrolled on Thursday, June 20, 2024",3,18
+SR1703,2024_SS,Senate,2024-06-18,Adopted without roll call,2,12
+SR1703,2024_SS,Senate,2024-06-18,Introduced,1,11
+HR6001,2024_SS,House,2024-06-18,"Enrolled on Wednesday, June 19, 2024",3,10
+HR6001,2024_SS,House,2024-06-18,Adopted without roll call,2,3
+HR6001,2024_SS,House,2024-06-18,Introduced,1,3
+HR6002,2024_SS,House,2024-06-18,"Enrolled on Wednesday, June 19, 2024",3,11
+HR6002,2024_SS,House,2024-06-18,Adopted without roll call,2,3
+HR6002,2024_SS,House,2024-06-18,Introduced,1,3
+SCR1601,2024_SS,Senate,2024-06-18,"Enrolled and presented to Secretary of State on Thursday, June 20, 2024",5,17
+SCR1601,2024_SS,House,2024-06-18,Adopted without roll call,4,6
+SCR1601,2024_SS,House,2024-06-18,Received and Introduced,3,
+SCR1601,2024_SS,Senate,2024-06-18,Adopted without roll call,2,9
+SCR1601,2024_SS,Senate,2024-06-18,Introduced,1,9
+SCR1602,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SCR1602,2024_SS,Senate,2024-06-18,Introduced,1,4
+SCR1603,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SCR1603,2024_SS,Senate,2024-06-18,Introduced,1,4
+SCR1604,2024_SS,Senate,2024-06-18,Died on Calendar,2,
+SCR1604,2024_SS,Senate,2024-06-18,Introduced,1,6
+HCR5001,2024_SS,House,2024-06-18,Died on Calendar,2,
+HCR5001,2024_SS,House,2024-06-18,Introduced,1,5
+HCR5002,2024_SS,House,2024-06-18,"Enrolled and presented to Secretary of State on Thursday, June 20, 2024",5,10
+HCR5002,2024_SS,Senate,2024-06-18,Adopted without roll call,4,13
+HCR5002,2024_SS,Senate,2024-06-18,Received and Introduced,3,13
+HCR5002,2024_SS,House,2024-06-18,Adopted without roll call,2,10
+HCR5002,2024_SS,House,2024-06-18,Introduced,1,10

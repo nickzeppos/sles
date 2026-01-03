@@ -1,0 +1,11 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1882809,1458570,2024-06-18,Senate,"Third Reading",28,5,0,2,35
+1882809,1458571,2024-06-19,House,"Third Reading",84,11,5,0,100
+1882826,1458575,2024-06-18,House,"Third Reading",98,0,2,0,100
+1882826,1458576,2024-06-19,Senate,"Third Reading",27,0,1,7,35
+1882840,1458582,2024-06-18,House,"Third Reading",86,10,4,0,100
+1882840,1458583,2024-06-19,Senate,"Third Reading",28,4,0,3,35
+1882846,1458584,2024-06-18,Senate,"Third Reading",31,0,0,4,35
+1882846,1458585,2024-06-19,House,"Third Reading",92,4,4,0,100
+1882864,1458595,2024-06-18,Senate,"Third Reading",30,0,1,4,35
+1882864,1458596,2024-06-19,House,"Third Reading",97,0,3,0,100

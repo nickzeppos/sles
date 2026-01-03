@@ -1,0 +1,845 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1795401,1393905,2024-02-23,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 2932",37,0,0,1,38
+1795401,1415231,2024-03-25,House,"House: Third Reading RCS# 348",92,0,0,8,100
+1795402,1364460,2024-01-16,Senate,"Senate: Third Reading RSN# 2864",33,0,0,5,38
+1795402,1415235,2024-03-25,House,"House: Third Reading RCS# 336",92,0,0,8,100
+1795403,1365722,2024-01-16,Senate,"Senate: Third Reading RSN# 2863",32,0,1,5,38
+1795407,1397947,2024-02-28,House,"House: Third Reading RCS# 175",96,0,0,2,98
+1795410,1380758,2024-02-09,House,"House: Third Reading RCS# 93",90,0,0,8,98
+1795410,1414273,2024-03-22,Senate,"Senate: Third Reading W/scs1 RSN# 3035",37,0,0,1,38
+1795414,1369783,2024-01-26,House,"House: Third Reading RCS# 41",87,0,0,11,98
+1795414,1414265,2024-03-22,Senate,"Senate: Third Reading RSN# 3028",36,0,0,2,38
+1795416,1366952,2024-01-19,House,"House: Third Reading RCS# 22",74,4,0,20,98
+1795416,1417664,2024-03-28,Senate,"Senate: Third Reading RSN# 3158",38,0,0,0,38
+1795435,1406198,2024-03-08,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 2976",32,5,0,1,38
+1795440,1377246,2024-02-06,Senate,"Senate: Third Reading W/scs1 RSN# 2893",38,0,0,0,38
+1795440,1415891,2024-03-26,House,"House: Third Reading RCS# 366",96,0,0,4,100
+1795446,1371144,2024-01-29,House,"House: Third Reading RCS# 44",92,1,0,5,98
+1795446,1413878,2024-03-21,Senate,"Senate: Third Reading W/scs1 RSN# 3020",38,0,0,0,38
+1795446,1416840,2024-03-27,House,"House: Third Reading RCS# 386",90,1,0,9,100
+1795449,1370935,2024-01-29,Senate,"Senate: Third Reading RSN# 2881",35,0,0,3,38
+1795449,1415876,2024-03-26,House,"House: Third Reading RCS# 363",95,0,0,5,100
+1795453,1407038,2024-03-11,House,"House: Third Reading RCS# 260",75,18,0,5,98
+1795456,1363348,2024-01-02,House,"House: Lay on the Clerks Desk RCS# 3",24,69,0,7,100
+1795456,1363349,2024-01-02,House,"House: Adopt  RCS# 4",72,23,0,5,100
+1795475,1396347,2024-02-27,House,"House: Third Reading RCS# 157",96,0,0,2,98
+1795475,1417645,2024-03-28,Senate,"Senate: Third Reading RSN# 3117",34,2,0,2,38
+1795478,1377475,2024-02-06,House,"House: Third Reading RCS# 80",90,5,0,3,98
+1795478,1417636,2024-03-28,Senate,"Senate: Third Reading RSN# 3124",38,0,0,0,38
+1795480,1373055,2024-01-31,House,"House: Third Reading RCS# 52",95,0,0,3,98
+1795480,1414282,2024-03-22,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3037",37,0,0,1,38
+1795480,1416815,2024-03-27,House,"House: Third Reading RCS# 380",97,0,0,3,100
+1795488,1368050,2024-01-23,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 2873",36,1,0,1,38
+1795488,1427505,2024-04-15,House,"House: Third Reading RCS# 485",89,1,0,10,100
+1795490,1387052,2024-02-16,Senate,"Senate: Third Reading RSN# 2914",29,0,0,9,38
+1795490,1414277,2024-03-22,House,"House: Third Reading RCS# 325",87,1,0,10,98
+1795490,1416861,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3064",37,0,0,1,38
+1795496,1393312,2024-02-23,Senate,"Senate: Third Reading RSN# 2934",37,0,0,1,38
+1795497,1368867,2024-01-24,House,"House: Third Reading RCS# 31",94,0,0,4,98
+1795504,1370844,2024-01-29,House,"House: Third Reading RCS# 45",93,0,0,5,98
+1795504,1416822,2024-03-27,Senate,"Senate: Third Reading RSN# 3084",37,0,0,1,38
+1795508,1380136,2024-02-08,House,"House: Third Reading RCS# 89",95,0,0,3,98
+1795508,1417609,2024-03-28,Senate,"Senate: Third Reading RSN# 3121",38,0,0,0,38
+1795513,1372929,2024-01-31,House,"House: Third Reading RCS# 54",95,0,0,3,98
+1795513,1416845,2024-03-27,Senate,"Senate: Third Reading W/sfa2 sfta1 RSN# 3078",28,7,0,3,38
+1795520,1378393,2024-02-07,House,"House: Third Reading RCS# 84",95,0,0,3,98
+1795520,1416818,2024-03-27,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3103",33,0,0,5,38
+1795523,1380020,2024-02-08,House,"House: Third Reading RCS# 88",96,0,0,2,98
+1795523,1417597,2024-03-28,Senate,"Senate: Third Reading RSN# 3123",38,0,0,0,38
+1795526,1366207,2024-01-17,Senate,"Senate: Third Reading RSN# 2866",26,9,0,3,38
+1795534,1366376,2024-01-17,House,"House: Third Reading RCS# 16",93,0,0,5,98
+1795534,1414276,2024-03-22,Senate,"Senate: Third Reading W/sca1 RSN# 3038",36,0,0,2,38
+1795534,1416819,2024-03-27,House,"House: Third Reading RCS# 381",96,0,0,4,100
+1795539,1392176,2024-02-22,House,"House: Third Reading RCS# 140",75,17,0,6,98
+1795539,1416824,2024-03-27,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3079",28,8,0,2,38
+1795539,1417649,2024-03-28,House,"House: Third Reading RCS# 405",75,18,0,7,100
+1795539,1426619,2024-04-12,House,"House: Veto Override RCS# 444",79,20,0,1,100
+1795539,1426620,2024-04-12,Senate,"Senate: Veto Override RSN# 3215",24,8,0,6,38
+1795542,1367814,2024-01-23,House,"House: Third Reading RCS# 29",74,20,0,4,98
+1795542,1389510,2024-02-20,Senate,"Senate: Third Reading W/scs1 RSN# 2918",25,11,0,2,38
+1795542,1396365,2024-02-27,House,"House: Concur SCS 1 RCS# 152",74,20,0,4,98
+1795542,1396366,2024-02-27,House,"House: Third Reading RCS# 153",75,20,0,3,98
+1795542,1404288,2024-03-06,House,"House: Third Reading RCS# 216",76,19,0,3,98
+1795542,1404289,2024-03-06,Senate,"Senate: Veto Override RSN# 2965",31,7,0,0,38
+1795547,1399866,2024-02-29,House,"House: Third Reading RCS# 182",94,1,0,3,98
+1795553,1383803,2024-02-13,Senate,"Senate: Third Reading W/scs1 RSN# 2904",35,1,0,2,38
+1795553,1415229,2024-03-25,House,"House: Third Reading RCS# 349",85,8,0,7,100
+1795553,1416868,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3104",33,1,0,4,38
+1795554,1389603,2024-02-20,House,"House: Third Reading RCS# 118",79,16,0,3,98
+1795559,1385923,2024-02-15,Senate,"Senate: Third Reading RSN# 2911",30,6,0,2,38
+1795559,1415886,2024-03-26,House,"House: Adopt HFA 2 RCS# 355",27,49,0,24,100
+1795559,1415887,2024-03-26,House,"House: Adopt HFA 1 RCS# 356",19,56,0,25,100
+1795559,1415888,2024-03-26,House,"House: Third Reading RCS# 357",72,25,0,3,100
+1795559,1416863,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3105",30,6,0,2,38
+1795559,1426553,2024-04-12,Senate,"Senate: Veto Override RSN# 3207",32,6,0,0,38
+1795559,1426554,2024-04-12,House,"House: Veto Override RCS# 457",71,26,0,3,100
+1795568,1398409,2024-02-28,House,"House: Third Reading RCS# 174",98,0,0,0,98
+1795568,1416804,2024-03-27,Senate,"Senate: Third Reading RSN# 3085",36,1,0,1,38
+1795574,1384868,2024-02-14,Senate,"Senate: Third Reading W/scs1 sfa6 RSN# 2908",25,9,1,3,38
+1795574,1415889,2024-03-26,House,"House: Adopt HFA 1 RCS# 364",20,51,0,29,100
+1795574,1415890,2024-03-26,House,"House: Third Reading RCS# 365",68,19,0,13,100
+1795574,1416856,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3106",24,10,0,4,38
+1795577,1383383,2024-02-13,Senate,"Senate: Third Reading W/scs1 RSN# 2905",26,7,0,5,38
+1795577,1409966,2024-03-15,House,"House: Adopt HFA 2 RCS# 300",18,39,0,41,98
+1795577,1409967,2024-03-15,House,"House: Adopt HFA 1 RCS# 301",18,33,0,47,98
+1795577,1409968,2024-03-15,House,"House: Adopt HFA 4 RCS# 302",18,33,0,47,98
+1795577,1409969,2024-03-15,House,"House: Adopt HFA 6 RCS# 303",17,43,0,38,98
+1795577,1409970,2024-03-15,House,"House: Adopt HFA 3 RCS# 304",18,38,0,42,98
+1795577,1409971,2024-03-15,House,"House: Adopt HFA 7 RCS# 305",18,38,0,42,98
+1795577,1409972,2024-03-15,House,"House: Adopt HFA 5 RCS# 306",17,44,0,37,98
+1795577,1409973,2024-03-15,House,"House: Adopt HFA 8 RCS# 307",17,33,0,48,98
+1795577,1409974,2024-03-15,House,"House: Third Reading RCS# 308",68,18,0,12,98
+1795578,1396918,2024-02-27,House,"House: Third Reading RCS# 166",87,8,0,3,98
+1795578,1416797,2024-03-27,Senate,"Senate: Third Reading RSN# 3082",34,1,0,3,38
+1795581,1382074,2024-02-12,Senate,"Senate: Third Reading W/sfa2 sfta1 RSN# 2902",32,2,1,3,38
+1795587,1409455,2024-03-14,House,"House: Third Reading RCS# 292",92,0,0,6,98
+1795587,1427501,2024-04-15,Senate,"Senate: Third Reading RSN# 3324",38,0,0,0,38
+1795588,1394023,2024-02-23,Senate,"Senate: Third Reading W/scs1 RSN# 2933",32,3,0,3,38
+1795588,1415241,2024-03-25,House,"House: Third Reading RCS# 347",92,0,0,8,100
+1795588,1416858,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 hcta1 RSN# 3107",32,1,0,5,38
+1795596,1368916,2024-01-24,House,"House: Third Reading RCS# 32",93,0,0,5,98
+1795596,1417618,2024-03-28,Senate,"Senate: Third Reading RSN# 3122",38,0,0,0,38
+1795602,1363682,2024-01-09,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 2857",36,0,0,2,38
+1795602,1395294,2024-02-26,House,"House: Third Reading RCS# 148",92,0,0,6,98
+1796604,1366348,2024-01-17,Senate,"Senate: Third Reading RSN# 2867",35,0,0,3,38
+1796614,1376308,2024-02-05,House,"House: Third Reading RCS# 74",93,0,0,5,98
+1796614,1417678,2024-03-28,Senate,"Senate: Third Reading RSN# 3126",38,0,0,0,38
+1796615,1366915,2024-01-19,House,"House: Third Reading RCS# 21",78,0,0,20,98
+1796615,1416802,2024-03-27,Senate,"Senate: Third Reading RSN# 3087",36,1,0,1,38
+1796634,1368013,2024-01-23,House,"House: Third Reading RCS# 28",80,12,0,6,98
+1796634,1417674,2024-03-28,Senate,"Senate: Third Reading RSN# 3118",30,5,0,3,38
+1796634,1426540,2024-04-12,House,"House: Veto Override RCS# 450",77,20,0,3,100
+1796634,1426541,2024-04-12,Senate,"Senate: Veto Override RSN# 3213",26,6,0,6,38
+1796639,1372890,2024-01-31,House,"House: Third Reading RCS# 53",79,17,0,2,98
+1796642,1401777,2024-03-04,Senate,"Senate: Third Reading W/scs1 RSN# 2951",26,8,0,4,38
+1796642,1415242,2024-03-25,House,"House: Third Reading RCS# 341",76,15,0,9,100
+1796643,1378430,2024-02-07,House,"House: Third Reading RCS# 85",95,0,0,3,98
+1796643,1416834,2024-03-27,Senate,"Senate: Third Reading RSN# 3086",36,1,0,1,38
+1796644,1404404,2024-03-06,House,"House: Third Reading RCS# 224",95,1,0,2,98
+1796645,1376240,2024-02-05,House,"House: Third Reading RCS# 75",94,0,0,4,98
+1796645,1417665,2024-03-28,Senate,"Senate: Third Reading RSN# 3172",38,0,0,0,38
+1796650,1405905,2024-03-07,House,"House: Third Reading RCS# 237",79,16,0,3,98
+1796650,1429444,2024-04-15,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3235",34,3,0,1,38
+1796650,1429445,2024-04-15,House,"House: Third Reading RCS# 490",80,10,0,10,100
+1796655,1366842,2024-01-18,Senate,"Senate: Third Reading RSN# 2869",35,0,0,3,38
+1796657,1383711,2024-02-13,House,"House: Suspend the Rules RCS# 102",20,52,0,26,98
+1796657,1383712,2024-02-13,House,"House: Third Reading RCS# 103",73,18,0,7,98
+1796657,1417637,2024-03-28,Senate,"Senate: Third Reading RSN# 3115",31,5,0,2,38
+1796660,1369945,2024-01-26,House,"House: Third Reading RCS# 42",87,0,0,11,98
+1796664,1398328,2024-02-28,House,"House: Third Reading RCS# 176",80,14,0,4,98
+1796664,1415875,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3045",36,2,0,0,38
+1796664,1416823,2024-03-27,House,"House: Third Reading RCS# 369",84,5,0,11,100
+1796666,1369565,2024-01-25,House,"House: Third Reading RCS# 34",96,0,0,2,98
+1796666,1417666,2024-03-28,Senate,"Senate: Third Reading RSN# 3125",38,0,0,0,38
+1797420,1375878,2024-02-05,House,"House: Third Reading RCS# 76",92,0,0,6,98
+1797440,1379550,2024-02-08,House,"House: Third Reading RCS# 90",94,0,0,4,98
+1797440,1414272,2024-03-22,Senate,"Senate: Third Reading RSN# 3033",37,0,0,1,38
+1797513,1367943,2024-01-23,Senate,"Senate: Third Reading RSN# 2874",33,4,0,1,38
+1797519,1376494,2024-02-05,Senate,"Senate: Third Reading W/scs1 RSN# 2891",34,2,0,2,38
+1797519,1417691,2024-03-28,House,"House: Third Reading RCS# 434",80,14,0,6,100
+1797567,1371167,2024-01-29,Senate,"Senate: Third Reading RSN# 2880",28,7,0,3,38
+1797600,1398109,2024-02-28,House,"House: Third Reading RCS# 172",83,13,0,2,98
+1797600,1427846,2024-04-15,Senate,"Senate: Third Reading RSN# 3240",30,7,0,1,38
+1797620,1363630,2024-01-08,House,"House: Third Reading RCS# 9",94,0,0,5,99
+1797620,1364074,2024-01-11,Senate,"Senate: Third Reading RSN# 2860",34,0,0,4,38
+1797648,1392808,2024-02-22,House,"House: Third Reading RCS# 132",80,11,0,7,98
+1797648,1416830,2024-03-27,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 3100",35,1,0,2,38
+1797648,1417615,2024-03-28,House,"House: Third Reading RCS# 432",91,2,0,7,100
+1798628,1371823,2024-01-30,Senate,"Senate: Third Reading RSN# 2885",27,7,0,4,38
+1798657,1377182,2024-02-06,House,"House: Third Reading RCS# 79",95,0,0,3,98
+1798657,1417625,2024-03-28,Senate,"Senate: Third Reading RSN# 3127",37,1,0,0,38
+1798671,1404328,2024-03-06,House,"House: Third Reading RCS# 217",93,0,0,5,98
+1798671,1427605,2024-04-15,Senate,"Senate: Third Reading RSN# 3323",38,0,0,0,38
+1798700,1390846,2024-02-21,Senate,"Senate: Third Reading RSN# 2924",37,0,0,1,38
+1798700,1414275,2024-03-22,House,"House: Third Reading RCS# 332",83,12,0,3,98
+1798700,1416809,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3065",37,0,0,1,38
+1798700,1426623,2024-04-12,Senate,"Senate: Veto Override RSN# 3204",31,6,0,1,38
+1798700,1426624,2024-04-12,House,"House: Veto Override RCS# 456",77,20,0,3,100
+1798716,1396273,2024-02-27,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 2939",37,0,0,1,38
+1798716,1414268,2024-03-22,House,"House: Third Reading RCS# 334",93,0,0,5,98
+1798716,1416844,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 hfa2 hcta1 RSN# 3066",36,0,0,2,38
+1798745,1397768,2024-02-28,House,"House: Third Reading RCS# 169",97,1,0,0,98
+1798745,1416799,2024-03-27,Senate,"Senate: Third Reading W/sfa2 sfta1 RSN# 3076",34,0,0,4,38
+1798745,1427538,2024-04-15,House,"House: Third Reading RCS# 481",96,0,0,4,100
+1798836,1372241,2024-01-30,House,"House: Third Reading RCS# 48",95,0,0,3,98
+1798836,1415871,2024-03-26,Senate,"Senate: Third Reading W/scs1 scta 1 RSN# 3054",37,1,0,0,38
+1798836,1416842,2024-03-27,House,"House: Third Reading RCS# 374",94,0,0,6,100
+1798915,1413652,2024-03-21,House,"House: Third Reading RCS# 310",98,0,0,0,98
+1798946,1391141,2024-02-21,House,"House: Third Reading RCS# 129",95,0,0,3,98
+1798978,1371901,2024-01-30,Senate,"Senate: Third Reading RSN# 2883",35,0,0,3,38
+1798978,1406254,2024-03-08,House,"House: Third Reading RCS# 249",87,0,0,11,98
+1799043,1392506,2024-02-22,Senate,"Senate: Third Reading W/scs1 RSN# 2929",37,0,0,1,38
+1799043,1427465,2024-04-15,House,"House: Third Reading RCS# 474",91,1,0,8,100
+1799043,1427466,2024-04-15,Senate,"Senate: Third Reading W/FINAL hcs1 hfa2 hcta1 RSN# 3253",29,5,2,2,38
+1800368,1389107,2024-02-20,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 2917",37,0,0,1,38
+1800368,1427574,2024-04-15,House,"House: Third Reading RCS# 470",84,10,0,6,100
+1800368,1427575,2024-04-15,Senate,"Senate: Third Reading W/FINAL hcs1 hcta1 RSN# 3254",36,1,0,1,38
+1800385,1392196,2024-02-22,House,"House: Third Reading RCS# 131",93,0,0,5,98
+1800385,1416848,2024-03-27,Senate,"Senate: Third Reading W/scs1 sfa3 sfa5 sfta4 RSN# 3083",33,3,0,2,38
+1800388,1386043,2024-02-15,Senate,"Senate: Third Reading RSN# 2910",34,3,0,1,38
+1800403,1370744,2024-01-29,House,"House: Third Reading RCS# 46",92,1,0,5,98
+1800403,1417624,2024-03-28,Senate,"Senate: Third Reading RSN# 3114",36,0,0,2,38
+1800413,1392745,2024-02-22,House,"House: Third Reading RCS# 134",95,0,0,3,98
+1800413,1416806,2024-03-27,Senate,"Senate: Third Reading RSN# 3088",36,1,0,1,38
+1800414,1390976,2024-02-21,House,"House: Third Reading RCS# 125",95,0,0,3,98
+1800414,1415865,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3055",38,0,0,0,38
+1800414,1417654,2024-03-28,Senate,"Senate: Third Reading W/FINAL ccr1 RSN# 3155",37,0,0,1,38
+1800414,1417655,2024-03-28,House,"House: Third Reading RCS# 420",96,2,0,2,100
+1800420,1408026,2024-03-12,House,"House: Third Reading RCS# 270",96,0,0,2,98
+1800420,1427476,2024-04-15,House,"House: Third Reading RCS# 487",92,0,0,8,100
+1800420,1427477,2024-04-15,Senate,"Senate: Third Reading RSN# 3322",38,0,0,0,38
+1800420,1427478,2024-04-15,Senate,"Senate: Third Reading W/scs1 RSN# 3327",38,0,0,0,38
+1800425,1404377,2024-03-06,House,"House: Adopt HFA 1 RCS# 225",18,66,0,14,98
+1800425,1404378,2024-03-06,House,"House: Third Reading RCS# 226",81,15,0,2,98
+1800425,1416865,2024-03-27,Senate,"Senate: Third Reading W/scs1 RSN# 3075",28,7,0,3,38
+1800425,1417641,2024-03-28,House,"House: Third Reading RCS# 424",77,18,0,5,100
+1804014,1413718,2024-03-21,House,"House: Third Reading RCS# 319",98,0,0,0,98
+1804014,1417581,2024-03-28,Senate,"Senate: Third Reading RSN# 3184",38,0,0,0,38
+1804023,1396936,2024-02-27,House,"House: Third Reading RCS# 164",96,0,0,2,98
+1804034,1374581,2024-02-02,House,"House: Third Reading RCS# 71",91,0,0,7,98
+1804034,1417684,2024-03-28,Senate,"Senate: Third Reading RSN# 3128",38,0,0,0,38
+1804079,1403270,2024-03-05,Senate,"Senate: Third Reading W/sfa1 RSN# 2958",24,14,0,0,38
+1804090,1415932,2024-03-26,House,"House: Third Reading RCS# 358",69,25,0,6,100
+1804112,1385878,2024-02-15,House,"House: Adopt HFA 2 RCS# 111",19,45,0,34,98
+1804112,1385879,2024-02-15,House,"House: Adopt HFA 1 RCS# 112",22,42,0,34,98
+1804112,1385880,2024-02-15,House,"House: Third Reading RCS# 113",61,31,0,6,98
+1804112,1417642,2024-03-28,Senate,"Senate: Roll call for SFA3 to HB 7 RSN# 3200",19,19,0,0,38
+1804112,1417643,2024-03-28,Senate,"Senate: Third Reading RSN# 3201",20,18,0,0,38
+1804112,1418632,2024-03-28,Senate,"Senate: Ruling of the Chair RSN# 3199",24,14,0,0,38
+1804112,1426633,2024-04-12,House,"House: Veto Override RCS# 451",58,40,0,2,100
+1804112,1426634,2024-04-12,Senate,"Senate: Veto Override RSN# 3225",21,15,0,2,38
+1804125,1427847,2024-04-15,Senate,"Senate: Challenge the Chair RSN# 3269",27,8,0,3,38
+1804136,1414200,2024-03-22,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 3036",37,0,0,1,38
+1804161,1409540,2024-03-14,House,"House: Third Reading RCS# 288",93,0,0,5,98
+1804161,1417669,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3129",38,0,0,0,38
+1804161,1427652,2024-04-15,House,"House: Third Reading RCS# 479",96,0,0,4,100
+1804193,1369525,2024-01-25,House,"House: Veto Override RCS# 35",21,69,0,8,98
+1804193,1369526,2024-01-25,House,"House: Table  RCS# 36",20,69,0,9,98
+1804193,1369527,2024-01-25,House,"House: Adopt HFA 5 RCS# 37",20,60,0,18,98
+1804193,1369528,2024-01-25,House,"House: Adopt HFA 7 RCS# 38",19,63,0,16,98
+1804193,1369529,2024-01-25,House,"House: Third Reading RCS# 39",74,22,0,2,98
+1804193,1409960,2024-03-15,Senate,"Senate: Third Reading RSN# 3009",27,9,0,2,38
+1804193,1417702,2024-03-28,House,"House: Consider Motion  RCS# 397",64,21,0,15,100
+1804193,1417703,2024-03-28,House,"House: Third Reading RCS# 398",75,23,0,2,100
+1804193,1426569,2024-04-12,House,"House: Veto Override RCS# 454",73,22,0,5,100
+1804193,1426570,2024-04-12,Senate,"Senate: Veto Override RSN# 3224",27,10,0,1,38
+1804225,1376084,2024-02-05,House,"House: Third Reading RCS# 77",93,0,0,5,98
+1804225,1404300,2024-03-06,Senate,"Senate: Third Reading W/scs1 RSN# 2964",38,0,0,0,38
+1804225,1416796,2024-03-27,House,"House: Third Reading RCS# 378",96,0,0,4,100
+1804236,1367582,2024-01-22,House,"House: Third Reading RCS# 25",93,0,0,5,98
+1804272,1413729,2024-03-21,Senate,"Senate: Adopt W/ scs1 sfa1 scta1 RSN# 3019",38,0,0,0,38
+1804272,1428064,2024-04-15,House,"House: Consider Motion  RCS# 471",91,0,0,9,100
+1804272,1428065,2024-04-15,House,"House: Third Reading RCS# 472",96,0,0,4,100
+1804272,1428066,2024-04-15,Senate,"Senate: Adopt FINAL W/ hcs1 hfa2 RSN# 3256",36,0,0,2,38
+1804283,1367394,2024-01-22,House,"House: Adopt  RCS# 26",93,0,0,5,98
+1810106,1403720,2024-03-05,House,"House: Third Reading RCS# 205",80,13,0,5,98
+1810132,1374769,2024-02-02,House,"House: Third Reading RCS# 70",91,0,0,7,98
+1810132,1405299,2024-03-07,Senate,"Senate: Third Reading RSN# 2971",37,0,0,1,38
+1810158,1390940,2024-02-21,House,"House: Third Reading RCS# 124",94,0,0,4,98
+1811720,1392621,2024-02-22,House,"House: Third Reading RCS# 142",92,0,0,6,98
+1811863,1368495,2024-01-24,Senate,"Senate: Third Reading RSN# 2876",30,6,0,2,38
+1811882,1396864,2024-02-27,House,"House: Third Reading RCS# 163",96,0,0,2,98
+1811882,1417619,2024-03-28,Senate,"Senate: Third Reading RSN# 3130",38,0,0,0,38
+1811980,1392885,2024-02-22,House,"House: Third Reading RCS# 139",94,0,0,4,98
+1811980,1417679,2024-03-28,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3185",38,0,0,0,38
+1811980,1429195,2024-04-15,House,"House: Third Reading RCS# 475",96,0,0,4,100
+1812026,1390975,2024-02-21,Senate,"Senate: Third Reading W/scs2 RSN# 2920",35,0,1,2,38
+1812026,1427571,2024-04-15,House,"House: Third Reading RCS# 473",91,3,0,6,100
+1812026,1427572,2024-04-15,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3328",34,1,0,3,38
+1814213,1374386,2024-02-01,House,"House: Third Reading RCS# 66",80,15,0,3,98
+1814231,1374202,2024-02-01,House,"House: Suspend the Rules RCS# 62",20,37,0,41,98
+1814231,1374203,2024-02-01,House,"House: Suspend the Rules RCS# 63",19,26,0,53,98
+1814231,1374204,2024-02-01,House,"House: Suspend the Rules RCS# 64",19,20,0,59,98
+1814231,1374205,2024-02-01,House,"House: Third Reading RCS# 65",96,0,0,2,98
+1814231,1408858,2024-03-13,Senate,"Senate: Third Reading W/scs1 RSN# 2999",38,0,0,0,38
+1814231,1417752,2024-03-28,Senate,"Senate: Third Reading RSN# 3177",35,1,0,2,38
+1814231,1417753,2024-03-28,House,"House: Veto Override RCS# 411",77,19,0,4,100
+1814231,1417754,2024-03-28,House,"House: Third Reading RCS# 412",86,10,0,4,100
+1814231,1426545,2024-04-12,House,"House: Veto Override RCS# 437",79,18,0,3,100
+1814231,1426546,2024-04-12,Senate,"Senate: Veto Override RSN# 3226",29,6,0,3,38
+1814267,1374257,2024-02-01,House,"House: Third Reading RCS# 67",90,2,0,6,98
+1814267,1408852,2024-03-13,Senate,"Senate: Third Reading W/scs1 RSN# 3001",37,1,0,0,38
+1814267,1417621,2024-03-28,Senate,"Senate: Third Reading W/FINAL fccr1 RSN# 3178",33,3,0,2,38
+1814267,1417622,2024-03-28,House,"House: Third Reading RCS# 417",90,6,0,4,100
+1814267,1426535,2024-04-12,House,"House: Veto Override RCS# 439",73,24,0,3,100
+1814267,1426536,2024-04-12,Senate,"Senate: Veto Override RSN# 3228",30,7,0,1,38
+1814286,1403666,2024-03-05,Senate,"Senate: Third Reading W/scs1 RSN# 2957",36,2,0,0,38
+1814304,1404333,2024-03-06,House,"House: Third Reading RCS# 228",95,0,0,3,98
+1814304,1417591,2024-03-28,Senate,"Senate: Third Reading RSN# 3132",38,0,0,0,38
+1814315,1398533,2024-02-28,House,"House: Third Reading RCS# 171",98,0,0,0,98
+1814315,1417592,2024-03-28,Senate,"Senate: Third Reading RSN# 3133",38,0,0,0,38
+1814324,1372232,2024-01-30,Senate,"Senate: Third Reading RSN# 2884",34,0,0,4,38
+1814324,1415230,2024-03-25,House,"House: Third Reading RCS# 339",92,0,0,8,100
+1814333,1405402,2024-03-07,House,"House: Third Reading RCS# 239",91,0,0,7,98
+1814333,1417673,2024-03-28,Senate,"Senate: Third Reading RSN# 3131",37,1,0,0,38
+1814351,1395134,2024-02-26,House,"House: Third Reading RCS# 149",92,0,0,6,98
+1814351,1416812,2024-03-27,Senate,"Senate: Third Reading W/sfa1 sfa3 RSN# 3112",36,0,0,2,38
+1814351,1417680,2024-03-28,House,"House: Third Reading RCS# 425",96,0,0,4,100
+1814389,1374226,2024-02-01,House,"House: Suspend the Rules RCS# 57",20,39,0,39,98
+1814389,1374227,2024-02-01,House,"House: Suspend the Rules RCS# 58",20,32,0,46,98
+1814389,1374228,2024-02-01,House,"House: Suspend the Rules RCS# 59",19,27,0,52,98
+1814389,1374229,2024-02-01,House,"House: Suspend the Rules RCS# 60",19,27,0,52,98
+1814389,1374230,2024-02-01,House,"House: Third Reading RCS# 61",77,19,0,2,98
+1814389,1408859,2024-03-13,Senate,"Senate: Third Reading W/scs1 RSN# 3000",37,1,0,0,38
+1814389,1416835,2024-03-27,Senate,"Senate: Third Reading W/FINAL fccr RSN# 3110",36,1,0,1,38
+1814389,1417647,2024-03-28,House,"House: Third Reading RCS# 399",72,26,0,2,100
+1814389,1426551,2024-04-12,House,"House: Veto Override RCS# 438",72,27,0,1,100
+1814389,1426552,2024-04-12,Senate,"Senate: Veto Override RSN# 3227",31,6,0,1,38
+1814408,1401941,2024-03-04,House,"House: Third Reading RCS# 199",80,9,0,9,98
+1814408,1415868,2024-03-26,Senate,"Senate: Third Reading RSN# 3051",31,5,1,1,38
+1814417,1409544,2024-03-14,House,"House: Third Reading RCS# 294",93,0,0,5,98
+1814417,1426610,2024-04-12,Senate,"Senate: Third Reading RSN# 3210",38,0,0,0,38
+1814437,1376228,2024-02-05,House,"House: Third Reading RCS# 73",94,0,0,4,98
+1814437,1414365,2024-03-22,Senate,"Senate: Third Reading RSN# 3030",26,11,0,1,38
+1814446,1374463,2024-02-01,House,"House: Third Reading RCS# 68",92,0,2,4,98
+1814446,1415863,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3053",36,1,0,1,38
+1814446,1417675,2024-03-28,Senate,"Senate: Third Reading W/FINAL fccr1 RSN# 3179",36,1,0,1,38
+1814446,1417676,2024-03-28,House,"House: Third Reading RCS# 426",93,0,2,5,100
+1814456,1392669,2024-02-22,House,"House: Third Reading RCS# 135",60,36,0,2,98
+1814510,1380095,2024-02-08,House,"House: Third Reading RCS# 87",95,0,0,3,98
+1814510,1416803,2024-03-27,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3073",35,0,0,3,38
+1814519,1366694,2024-01-18,House,"House: Co-Sponsor RCS# 19",77,0,0,21,98
+1819206,1390835,2024-02-21,House,"House: Third Reading RCS# 127",87,7,0,4,98
+1819206,1415879,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3057",38,0,0,0,38
+1819206,1416801,2024-03-27,House,"House: Third Reading RCS# 384",81,6,0,13,100
+1819266,1403183,2024-03-05,House,"House: Third Reading RCS# 210",90,0,0,8,98
+1819295,1381630,2024-02-12,House,"House: Third Reading RCS# 96",84,2,0,12,98
+1819295,1407893,2024-03-12,Senate,"Senate: Third Reading RSN# 2993",37,1,0,0,38
+1819322,1405833,2024-03-07,Senate,"Senate: Third Reading RSN# 2967",35,1,0,2,38
+1819322,1414267,2024-03-22,House,"House: Third Reading RCS# 331",90,0,0,8,98
+1819322,1416859,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3067",35,1,0,2,38
+1819411,1386587,2024-02-16,House,"House: Third Reading RCS# 116",85,0,0,13,98
+1819411,1414420,2024-03-22,Senate,"Senate: Third Reading RSN# 3032",38,0,0,0,38
+1821148,1406226,2024-03-08,House,"House: Third Reading RCS# 251",88,0,0,10,98
+1821237,1378192,2024-02-07,House,"House: Third Reading RCS# 83",95,0,0,3,98
+1821411,1384918,2024-02-14,House,"House: Third Reading RCS# 107",78,13,0,7,98
+1821411,1416817,2024-03-27,Senate,"Senate: Third Reading W/scs1 RSN# 3074",35,1,0,2,38
+1821411,1429315,2024-04-15,House,"House: Third Reading RCS# 477",95,1,0,4,100
+1822314,1399828,2024-02-29,House,"House: Third Reading RCS# 179",94,4,0,0,98
+1823966,1371861,2024-01-30,House,"House: Third Reading RCS# 49",81,15,0,2,98
+1823985,1405294,2024-03-07,House,"House: Third Reading RCS# 238",93,0,0,5,98
+1824004,1400117,2024-02-29,House,"House: Third Reading RCS# 184",98,0,0,0,98
+1824013,1380567,2024-02-09,House,"House: Third Reading RCS# 92",90,0,0,8,98
+1824013,1417635,2024-03-28,Senate,"Senate: Third Reading RSN# 3135",38,0,0,0,38
+1824022,1403673,2024-03-05,House,"House: Third Reading RCS# 206",76,19,0,3,98
+1824022,1416814,2024-03-27,Senate,"Senate: Third Reading RSN# 3071",29,7,0,2,38
+1824119,1374017,2024-02-01,Senate,"Senate: Third Reading RSN# 2888",34,1,0,3,38
+1824119,1417672,2024-03-28,House,"House: Third Reading RCS# 433",71,16,0,13,100
+1824128,1399513,2024-02-29,House,"House: Third Reading RCS# 181",98,0,0,0,98
+1824177,1387131,2024-02-16,House,"House: Third Reading RCS# 115",85,0,0,13,98
+1824177,1417626,2024-03-28,Senate,"Senate: Third Reading RSN# 3134",38,0,0,0,38
+1824194,1400120,2024-02-29,Senate,"Senate: Third Reading W/sfa1 RSN# 2944",36,1,0,1,38
+1824194,1429861,2024-04-15,House,"House: Third Reading RCS# 486",95,0,0,5,100
+1824204,1415228,2024-03-25,House,"House: Adopt  RCS# 346",92,0,0,8,100
+1824216,1413927,2024-03-21,House,"House: Third Reading RCS# 318",98,0,0,0,98
+1824216,1417690,2024-03-28,Senate,"Senate: Third Reading RSN# 3136",37,1,0,0,38
+1825766,1378561,2024-02-07,Senate,"Senate: Third Reading RSN# 2895",37,0,0,1,38
+1825766,1414280,2024-03-22,House,"House: Third Reading RCS# 330",94,0,0,4,98
+1825766,1417589,2024-03-28,House,"House: Third Reading RCS# 404",95,0,0,5,100
+1825766,1417590,2024-03-28,Senate,"Senate: Third Reading W/FINAL ccr1 RSN# 3197",37,0,0,1,38
+1825799,1397864,2024-02-28,House,"House: Third Reading RCS# 173",98,0,0,0,98
+1825799,1427808,2024-04-15,Senate,"Senate: Third Reading RSN# 3241",37,0,0,1,38
+1825912,1384730,2024-02-14,Senate,"Senate: Third Reading W/scs1 RSN# 2907",24,12,0,2,38
+1825935,1391158,2024-02-21,Senate,"Senate: Third Reading RSN# 2921",34,2,1,1,38
+1826001,1407542,2024-03-11,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 2984",33,2,0,3,38
+1826001,1416831,2024-03-27,House,"House: Third Reading RCS# 395",92,1,0,7,100
+1827234,1384889,2024-02-14,House,"House: Third Reading RCS# 105",93,0,0,5,98
+1827234,1415893,2024-03-26,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3058",38,0,0,0,38
+1827234,1416851,2024-03-27,House,"House: Third Reading RCS# 389",87,0,0,13,100
+1827247,1380717,2024-02-09,House,"House: Third Reading RCS# 94",90,0,0,8,98
+1827247,1413885,2024-03-21,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3021",38,0,0,0,38
+1827247,1416798,2024-03-27,House,"House: Third Reading RCS# 375",94,0,0,6,100
+1827295,1396887,2024-02-27,House,"House: Third Reading RCS# 160",78,18,0,2,98
+1827295,1408856,2024-03-13,Senate,"Senate: Third Reading RSN# 2997",32,6,0,0,38
+1827337,1406311,2024-03-08,Senate,"Senate: Third Reading W/scs1 RSN# 2977",37,0,0,1,38
+1827349,1377630,2024-02-06,House,"House: Third Reading RCS# 81",95,0,0,3,98
+1827349,1413889,2024-03-21,Senate,"Senate: Third Reading W/scs1 RSN# 3022",38,0,0,0,38
+1827349,1416847,2024-03-27,House,"House: Third Reading RCS# 376",96,0,0,4,100
+1827373,1392619,2024-02-22,House,"House: Third Reading RCS# 136",61,33,0,4,98
+1828810,1382473,2024-02-12,House,"House: Third Reading RCS# 97",80,9,1,8,98
+1828810,1416820,2024-03-27,Senate,"Senate: Third Reading RSN# 3089",37,0,0,1,38
+1828815,1383850,2024-02-13,House,"House: Adopt HFA 1 RCS# 99",20,65,1,12,98
+1828815,1383851,2024-02-13,House,"House: Third Reading RCS# 100",70,20,0,8,98
+1828815,1415059,2024-03-25,Senate,"Senate: Third Reading W/scs1 sfa1 sfa2 RSN# 3043",25,11,0,2,38
+1828815,1417634,2024-03-28,House,"House: Third Reading RCS# 406",73,21,0,6,100
+1828815,1426549,2024-04-12,House,"House: Veto Override RCS# 443",71,22,0,7,100
+1828815,1426550,2024-04-12,Senate,"Senate: Veto Override RSN# 3216",22,10,0,6,38
+1828839,1396232,2024-02-27,House,"House: Third Reading RCS# 156",95,1,0,2,98
+1828839,1414056,2024-03-21,Senate,"Senate: Third Reading W/scs1 RSN# 3023",38,0,0,0,38
+1828839,1416807,2024-03-27,House,"House: Third Reading RCS# 382",95,0,0,5,100
+1828867,1391149,2024-02-21,House,"House: Third Reading RCS# 128",95,0,0,3,98
+1828867,1417629,2024-03-28,Senate,"Senate: Third Reading RSN# 3138",38,0,0,0,38
+1828878,1406321,2024-03-08,House,"House: Third Reading RCS# 247",87,0,0,11,98
+1828878,1417586,2024-03-28,Senate,"Senate: Third Reading RSN# 3137",38,0,0,0,38
+1828890,1394024,2024-02-23,Senate,"Senate: Third Reading W/scs1 sfa1 sfta2 RSN# 2931",37,0,0,1,38
+1828909,1385216,2024-02-14,House,"House: Third Reading RCS# 106",88,4,0,6,98
+1828909,1417623,2024-03-28,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3186",34,4,0,0,38
+1828909,1429210,2024-04-15,House,"House: Third Reading RCS# 476",94,0,0,6,100
+1829449,1398276,2024-02-28,House,"House: Adopt  RCS# 170",98,0,0,0,98
+1829449,1417759,2024-03-28,Senate,"Senate: Adopt  RSN# 3167",38,0,0,0,38
+1829581,1387053,2024-02-16,Senate,"Senate: Third Reading RSN# 2915",29,0,0,8,37
+1829581,1416846,2024-03-27,House,"House: Third Reading RCS# 394",92,0,1,7,100
+1829611,1408802,2024-03-13,House,"House: Veto Override RCS# 277",19,57,0,22,98
+1829611,1408803,2024-03-13,House,"House: Table  RCS# 278",19,47,0,32,98
+1829611,1408804,2024-03-13,House,"House: Suspend the Rules RCS# 279",19,30,0,49,98
+1829611,1408805,2024-03-13,House,"House: Veto Override RCS# 280",19,44,0,35,98
+1829611,1408806,2024-03-13,House,"House: Third Reading RCS# 281",65,32,1,0,98
+1829611,1409961,2024-03-15,Senate,"Senate: Third Reading RSN# 3008",27,8,0,3,38
+1830649,1396875,2024-02-27,House,"House: Third Reading RCS# 158",95,0,0,3,98
+1830649,1417598,2024-03-28,Senate,"Senate: Third Reading RSN# 3139",38,0,0,0,38
+1830788,1392946,2024-02-22,House,"House: Third Reading RCS# 141",93,0,0,5,98
+1830817,1386228,2024-02-15,House,"House: Third Reading RCS# 110",82,6,0,10,98
+1830835,1371931,2024-01-30,House,"House: Adopt  RCS# 50",77,17,1,3,98
+1830850,1382504,2024-02-12,Senate,"Senate: Third Reading RSN# 2901",31,4,0,3,38
+1830850,1409962,2024-03-15,House,"House: Third Reading RCS# 297",72,12,0,14,98
+1830930,1403631,2024-03-05,Senate,"Senate: Third Reading W/scs1 RSN# 2956",28,10,0,0,38
+1830975,1380548,2024-02-09,Senate,"Senate: Third Reading W/scs1 RSN# 2899",34,0,0,4,38
+1830975,1415872,2024-03-26,House,"House: Third Reading RCS# 361",95,0,0,5,100
+1831024,1384023,2024-02-13,House,"House: Third Reading RCS# 101",89,0,0,9,98
+1831024,1415864,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3059",38,0,0,0,38
+1831024,1416826,2024-03-27,House,"House: Third Reading RCS# 373",91,0,0,9,100
+1831100,1392775,2024-02-22,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 2928",37,0,0,1,38
+1831100,1414271,2024-03-22,House,"House: Third Reading RCS# 326",93,0,0,5,98
+1831100,1416855,2024-03-27,Senate,"Senate: Third Reading RSN# 3068",35,0,0,3,38
+1832232,1406057,2024-03-08,Senate,"Senate: Third Reading RSN# 2975",32,5,0,1,38
+1832251,1404373,2024-03-06,Senate,"Senate: Third Reading W/scs1 sfa2 sfa3 RSN# 2963",32,6,0,0,38
+1832376,1399599,2024-02-29,House,"House: Third Reading RCS# 183",98,0,0,0,98
+1832435,1379806,2024-02-08,Senate,"Senate: Third Reading RSN# 2897",37,0,0,1,38
+1832435,1414264,2024-03-22,House,"House: Third Reading RCS# 333",93,0,0,5,98
+1832435,1416860,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3069",34,0,0,4,38
+1832445,1389378,2024-02-20,House,"House: Third Reading RCS# 121",95,0,0,3,98
+1832445,1417632,2024-03-28,Senate,"Senate: Third Reading RSN# 3140",38,0,0,0,38
+1832519,1391107,2024-02-21,House,"House: Third Reading RCS# 123",91,4,0,3,98
+1832519,1414270,2024-03-22,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 3029",36,0,1,1,38
+1832519,1416852,2024-03-27,House,"House: Third Reading RCS# 372",90,1,0,9,100
+1832519,1426543,2024-04-12,House,"House: Veto Override RCS# 446",79,14,0,7,100
+1832519,1426544,2024-04-12,Senate,"Senate: Veto Override RSN# 3217",24,8,0,6,38
+1832546,1386279,2024-02-15,House,"House: Third Reading RCS# 109",91,0,0,7,98
+1833956,1395075,2024-02-26,House,"House: Third Reading RCS# 150",93,0,0,5,98
+1833956,1417699,2024-03-28,Senate,"Senate: Third Reading RSN# 3141",38,0,0,0,38
+1834084,1400497,2024-03-01,House,"House: Adopt HFA 1 RCS# 189",18,44,0,36,98
+1834084,1400498,2024-03-01,House,"House: Third Reading RCS# 190",67,24,0,7,98
+1834084,1409965,2024-03-15,Senate,"Senate: Third Reading RSN# 3010",31,5,0,2,38
+1834084,1416800,2024-03-27,House,"House: Third Reading RCS# 390",62,23,0,15,100
+1834185,1392688,2024-02-22,Senate,"Senate: Third Reading RSN# 2927",29,8,0,1,38
+1834185,1414057,2024-03-21,House,"House: Third Reading RCS# 323",72,21,0,5,98
+1835389,1393363,2024-02-23,House,"House: Third Reading RCS# 144",92,0,0,6,98
+1835389,1416839,2024-03-27,Senate,"Senate: Third Reading RSN# 3090",37,0,0,1,38
+1835391,1386307,2024-02-15,Senate,"Senate: Third Reading RSN# 2912",35,0,0,3,38
+1835391,1415232,2024-03-25,House,"House: Third Reading RCS# 338",93,0,0,7,100
+1835392,1416083,2024-03-26,House,"House: Adopt  RCS# 367",89,0,0,11,100
+1835394,1400507,2024-03-01,House,"House: Third Reading RCS# 193",93,1,0,4,98
+1835394,1408853,2024-03-13,Senate,"Senate: Third Reading RSN# 2998",37,0,1,0,38
+1835396,1390520,2024-02-21,Senate,"Senate: Third Reading RSN# 2923",27,9,1,1,38
+1835398,1390990,2024-02-21,Senate,"Senate: Third Reading W/scs1 RSN# 2922",37,0,0,1,38
+1835398,1415233,2024-03-25,House,"House: Third Reading RCS# 351",92,0,0,8,100
+1835399,1405918,2024-03-07,Senate,"Senate: Third Reading RSN# 2968",37,0,0,1,38
+1835399,1415234,2024-03-25,House,"House: Third Reading RCS# 342",91,0,0,9,100
+1835403,1392085,2024-02-22,House,"House: Third Reading RCS# 133",95,0,0,3,98
+1835403,1417612,2024-03-28,Senate,"Senate: Third Reading RSN# 3142",38,0,0,0,38
+1835406,1404668,2024-03-06,House,"House: Third Reading RCS# 229",95,0,0,3,98
+1835408,1404325,2024-03-06,House,"House: Third Reading RCS# 223",96,0,0,2,98
+1835408,1417681,2024-03-28,Senate,"Senate: Third Reading RSN# 3120",32,5,0,1,38
+1835409,1404314,2024-03-06,House,"House: Third Reading RCS# 221",92,2,0,4,98
+1835409,1416792,2024-03-27,Senate,"Senate: Third Reading RSN# 3091",37,0,0,1,38
+1835414,1404550,2024-03-06,House,"House: Third Reading RCS# 220",96,0,0,2,98
+1835414,1416825,2024-03-27,Senate,"Senate: Third Reading W/scs1 sfa2 RSN# 3111",35,1,0,2,38
+1835414,1427822,2024-04-15,Senate,"Senate: Third Reading W/FINAL fccr RSN# 3236",37,0,0,1,38
+1835414,1427823,2024-04-15,House,"House: Third Reading RCS# 489",94,0,0,6,100
+1835416,1400832,2024-03-01,House,"House: Third Reading RCS# 194",92,1,0,5,98
+1835416,1409602,2024-03-14,Senate,"Senate: Third Reading W/scs1 sfa2 RSN# 3004",38,0,0,0,38
+1835416,1416795,2024-03-27,House,"House: Third Reading RCS# 377",94,0,0,6,100
+1836380,1404388,2024-03-06,House,"House: Third Reading RCS# 218",96,0,0,2,98
+1836380,1416864,2024-03-27,Senate,"Senate: Third Reading W/scs1 sfa2 sfta1 RSN# 3077",36,0,0,2,38
+1836380,1427527,2024-04-15,House,"House: Third Reading RCS# 480",95,0,0,5,100
+1836575,1389348,2024-02-20,House,"House: Third Reading RCS# 119",92,0,0,6,98
+1836575,1407488,2024-03-11,Senate,"Senate: Third Reading W/sfa1 sfa2 RSN# 2986",35,0,0,3,38
+1836575,1416828,2024-03-27,House,"House: Third Reading RCS# 370",94,0,0,6,100
+1836614,1403683,2024-03-05,Senate,"Senate: Third Reading W/scs1 RSN# 2955",37,1,0,0,38
+1836614,1426608,2024-04-12,House,"House: Third Reading RCS# 467",87,10,0,3,100
+1837416,1407480,2024-03-11,House,"House: Third Reading RCS# 253",79,14,0,5,98
+1837452,1403383,2024-03-05,House,"House: Third Reading RCS# 213",94,0,0,4,98
+1837471,1396874,2024-02-27,Senate,"Senate: Third Reading RSN# 2940",37,0,0,1,38
+1837471,1415236,2024-03-25,House,"House: Third Reading RCS# 337",92,0,0,8,100
+1837608,1393444,2024-02-23,House,"House: Third Reading RCS# 146",92,0,0,6,98
+1837608,1417601,2024-03-28,Senate,"Senate: Third Reading RSN# 3143",37,1,0,0,38
+1837664,1396790,2024-02-27,House,"House: Third Reading RCS# 155",76,18,1,3,98
+1837664,1416805,2024-03-27,Senate,"Senate: Third Reading W/sfa1 RSN# 3102",26,7,0,5,38
+1838853,1427475,2024-04-15,Senate,"Senate: Adopt  RSN# 3239",37,0,0,1,38
+1838869,1413859,2024-03-21,House,"House: Third Reading RCS# 311",97,0,0,1,98
+1838869,1426631,2024-04-12,Senate,"Senate: Third Reading RSN# 3211",38,0,0,0,38
+1838895,1401137,2024-03-01,House,"House: Third Reading RCS# 188",95,0,0,3,98
+1838895,1417587,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3173",38,0,0,0,38
+1838895,1417588,2024-03-28,House,"House: Third Reading RCS# 435",97,0,0,3,100
+1838960,1393208,2024-02-23,House,"House: Third Reading RCS# 145",92,0,0,6,98
+1838960,1417638,2024-03-28,Senate,"Senate: Third Reading RSN# 3144",38,0,0,0,38
+1838978,1403765,2024-03-05,House,"House: Third Reading RCS# 214",75,20,0,3,98
+1838978,1416829,2024-03-27,Senate,"Senate: Third Reading RSN# 3080",27,7,0,4,38
+1838991,1400436,2024-03-01,House,"House: Third Reading RCS# 192",95,0,0,3,98
+1838991,1416866,2024-03-27,Senate,"Senate: Third Reading RSN# 3092",37,0,0,1,38
+1840179,1403682,2024-03-05,House,"House: Veto Override RCS# 207",95,0,0,3,98
+1840179,1416811,2024-03-27,Senate,"Senate: Third Reading RSN# 3093",37,0,0,1,38
+1840190,1409434,2024-03-14,House,"House: Third Reading RCS# 289",93,0,0,5,98
+1840190,1426618,2024-04-12,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3212",31,3,0,4,38
+1840190,1427496,2024-04-15,Senate,"Senate: Third Reading RSN# 3234",37,0,0,1,38
+1840224,1390864,2024-02-21,House,"House: Third Reading RCS# 126",94,0,0,4,98
+1840224,1417608,2024-03-28,Senate,"Senate: Third Reading RSN# 3145",38,0,0,0,38
+1840291,1397108,2024-02-27,House,"House: Third Reading RCS# 167",96,0,0,2,98
+1840291,1416816,2024-03-27,Senate,"Senate: Third Reading RSN# 3072",35,0,0,3,38
+1840323,1396867,2024-02-27,House,"House: Third Reading RCS# 165",96,0,0,2,98
+1840323,1417595,2024-03-28,Senate,"Senate: Third Reading RSN# 3174",38,0,0,0,38
+1840344,1403772,2024-03-05,House,"House: Third Reading RCS# 212",75,19,0,4,98
+1840344,1414364,2024-03-22,Senate,"Senate: Third Reading RSN# 3034",32,6,0,0,38
+1841585,1392944,2024-02-22,House,"House: Third Reading RCS# 138",91,0,0,7,98
+1841585,1417644,2024-03-28,Senate,"Senate: Third Reading RSN# 3163",36,0,0,2,38
+1841600,1398691,2024-02-28,Senate,"Senate: Third Reading RSN# 2942",36,0,1,1,38
+1841600,1416841,2024-03-27,House,"House: Third Reading RCS# 393",86,0,0,14,100
+1841646,1389617,2024-02-20,House,"House: Third Reading RCS# 120",85,10,0,3,98
+1841646,1416821,2024-03-27,Senate,"Senate: Third Reading RSN# 3095",36,1,0,1,38
+1841662,1415959,2024-03-26,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 3046",35,1,0,1,37
+1841662,1417648,2024-03-28,House,"House: Third Reading RCS# 400",97,0,0,3,100
+1841721,1409997,2024-03-15,Senate,"Senate: Third Reading RSN# 3011",38,0,0,0,38
+1841721,1426615,2024-04-12,House,"House: Third Reading RCS# 462",95,0,0,5,100
+1841784,1397061,2024-02-27,House,"House: Third Reading RCS# 162",94,0,0,4,98
+1841784,1414278,2024-03-22,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3031",36,2,0,0,38
+1841784,1416794,2024-03-27,House,"House: Third Reading RCS# 388",83,8,0,9,100
+1841813,1405919,2024-03-07,House,"House: Third Reading RCS# 243",93,0,0,5,98
+1841813,1416853,2024-03-27,Senate,"Senate: Third Reading RSN# 3094",37,0,0,1,38
+1842291,1409539,2024-03-14,House,"House: Third Reading RCS# 293",92,0,0,6,98
+1842291,1427473,2024-04-15,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 3233",37,1,0,0,38
+1842291,1427474,2024-04-15,House,"House: Third Reading RCS# 483",95,0,0,5,100
+1842364,1404420,2024-03-06,House,"House: Third Reading RCS# 219",96,0,0,2,98
+1842364,1415880,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3060",37,1,0,0,38
+1842364,1416850,2024-03-27,House,"House: Third Reading RCS# 387",89,2,0,9,100
+1842378,1392127,2024-02-22,House,"House: Third Reading RCS# 137",91,0,0,7,98
+1842378,1417689,2024-03-28,Senate,"Senate: Third Reading RSN# 3146",38,0,0,0,38
+1842470,1406071,2024-03-08,Senate,"Senate: Third Reading RSN# 2978",37,0,0,1,38
+1842470,1415237,2024-03-25,House,"House: Third Reading RCS# 350",94,0,0,6,100
+1842542,1392612,2024-02-22,Senate,"Senate: Third Reading RSN# 2926",36,0,0,2,38
+1842542,1427469,2024-04-15,House,"House: Third Reading RCS# 484",91,3,0,6,100
+1842542,1427470,2024-04-15,Senate,"Senate: Third Reading W/FINAL hfa7 RSN# 3255",35,0,0,3,38
+1842557,1399431,2024-02-29,Senate,"Senate: Third Reading W/scs1 RSN# 2945",33,4,0,1,38
+1844786,1395102,2024-02-26,Senate,"Senate: Third Reading W/scs1 sfa2 RSN# 2936",34,0,0,4,38
+1844786,1414281,2024-03-22,House,"House: Third Reading RCS# 328",92,0,0,6,98
+1844786,1426621,2024-04-12,Senate,"Senate: Veto Override RSN# 3205",30,7,0,1,38
+1844786,1426622,2024-04-12,House,"House: Veto Override RCS# 455",80,16,0,4,100
+1844819,1409670,2024-03-14,House,"House: Third Reading RCS# 295",65,23,0,10,98
+1844819,1417650,2024-03-28,Senate,"Senate: Adopt  RSN# 3171",30,7,0,1,38
+1844819,1426530,2024-04-12,House,"House: Veto Override RCS# 453",75,23,0,2,100
+1844819,1426531,2024-04-12,Senate,"Senate: Veto Override RSN# 3222",30,7,0,1,38
+1844827,1406227,2024-03-08,Senate,"Senate: Third Reading W/scs1 RSN# 2974",37,0,0,1,38
+1844875,1396909,2024-02-27,House,"House: Third Reading RCS# 159",96,0,0,2,98
+1844875,1416836,2024-03-27,Senate,"Senate: Third Reading RSN# 3096",37,0,0,1,38
+1844900,1395181,2024-02-26,Senate,"Senate: Adopt  RSN# 2937",34,0,0,4,38
+1844900,1414269,2024-03-22,House,"House: Third Reading RCS# 329",94,0,0,4,98
+1844933,1406447,2024-03-08,Senate,"Senate: Third Reading W/scs1 RSN# 2973",34,0,1,3,38
+1844933,1416838,2024-03-27,House,"House: Third Reading RCS# 391",80,1,0,19,100
+1844933,1417631,2024-03-28,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3156",38,0,0,0,38
+1844956,1400963,2024-03-01,House,"House: Third Reading RCS# 187",77,17,0,4,98
+1844956,1417651,2024-03-28,Senate,"Senate: Third Reading RSN# 3161",31,7,0,0,38
+1844956,1426532,2024-04-12,House,"House: Veto Override RCS# 448",80,18,0,2,100
+1844956,1427848,2024-04-12,Senate,"Senate: Veto Override RSN# 3218",24,8,0,6,38
+1844965,1408056,2024-03-12,House,"House: Third Reading RCS# 272",61,31,0,6,98
+1846009,1407541,2024-03-11,House,"House: Third Reading RCS# 254",75,17,0,6,98
+1846009,1417659,2024-03-28,Senate,"Senate: Third Reading RSN# 3159",28,8,0,2,38
+1846009,1426627,2024-04-12,House,"House: Veto Override RCS# 445",77,20,0,3,100
+1846009,1426628,2024-04-12,Senate,"Senate: Veto Override RSN# 3214",24,8,0,6,38
+1846782,1396339,2024-02-27,House,"House: Third Reading RCS# 154",96,0,0,2,98
+1846782,1415884,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3062",38,0,0,0,38
+1846782,1416813,2024-03-27,House,"House: Third Reading RCS# 385",92,0,0,8,100
+1846810,1403211,2024-03-05,House,"House: Third Reading RCS# 209",94,0,0,4,98
+1846810,1415869,2024-03-26,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3061",38,0,0,0,38
+1846810,1416832,2024-03-27,House,"House: Third Reading RCS# 383",91,0,0,9,100
+1846978,1402314,2024-03-04,House,"House: Third Reading RCS# 198",89,3,0,6,98
+1846978,1417627,2024-03-28,Senate,"Senate: Third Reading RSN# 3147",38,0,0,0,38
+1846978,1417628,2024-03-28,Senate,"Senate: Third Reading RSN# 3149",38,0,0,0,38
+1846992,1407442,2024-03-11,House,"House: Third Reading RCS# 261",77,13,0,8,98
+1846992,1416808,2024-03-27,Senate,"Senate: Third Reading RSN# 3101",32,1,0,5,38
+1847092,1409666,2024-03-14,House,"House: Third Reading RCS# 290",88,4,0,6,98
+1847092,1417611,2024-03-28,Senate,"Senate: Third Reading RSN# 3160",38,0,0,0,38
+1847191,1404393,2024-03-06,House,"House: Third Reading RCS# 227",94,0,0,4,98
+1847191,1417682,2024-03-28,Senate,"Senate: Third Reading RSN# 3148",37,1,0,0,38
+1847218,1403552,2024-03-05,Senate,"Senate: Adopt  RSN# 2953",38,0,0,0,38
+1847218,1417695,2024-03-28,House,"House: Third Reading RCS# 403",93,0,0,7,100
+1847246,1413812,2024-03-21,House,"House: Third Reading RCS# 317",98,0,0,0,98
+1847246,1417603,2024-03-28,Senate,"Senate: Third Reading RSN# 3187",38,0,0,0,38
+1848147,1407150,2024-03-11,House,"House: Third Reading RCS# 259",93,0,0,5,98
+1848147,1417630,2024-03-28,Senate,"Senate: Third Reading RSN# 3165",38,0,0,0,38
+1848147,1426538,2024-04-12,House,"House: Veto Override RCS# 441",79,19,0,2,100
+1848147,1426539,2024-04-12,Senate,"Senate: Veto Override RSN# 3229",30,6,0,2,38
+1848205,1397127,2024-02-27,House,"House: Third Reading RCS# 161",77,14,1,6,98
+1848205,1414060,2024-03-21,Senate,"Senate: Third Reading W/scs1 RSN# 3024",37,1,0,0,38
+1848205,1416837,2024-03-27,House,"House: Third Reading RCS# 379",86,9,0,5,100
+1848211,1413894,2024-03-21,House,"House: Third Reading RCS# 314",83,14,0,1,98
+1848211,1417596,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3150",38,0,0,0,38
+1848257,1408361,2024-03-12,House,"House: Third Reading RCS# 271",86,9,0,3,98
+1848262,1404769,2024-03-06,House,"House: Third Reading RCS# 222",96,0,0,2,98
+1848271,1403488,2024-03-05,Senate,"Senate: Third Reading W/scs1 RSN# 2954",32,6,0,0,38
+1848271,1415892,2024-03-26,House,"House: Third Reading RCS# 353",80,17,0,3,100
+1848761,1406109,2024-03-08,House,"House: Third Reading RCS# 250",89,0,0,9,98
+1848761,1417646,2024-03-28,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 3195",37,0,0,1,38
+1848761,1427519,2024-04-15,House,"House: Third Reading RCS# 478",96,0,0,4,100
+1848766,1408051,2024-03-12,House,"House: Third Reading RCS# 267",94,0,0,4,98
+1848766,1417633,2024-03-28,Senate,"Senate: Third Reading RSN# 3175",38,0,0,0,38
+1848816,1401665,2024-03-04,House,"House: Third Reading RCS# 196",78,14,0,6,98
+1848816,1414059,2024-03-21,Senate,"Senate: Third Reading RSN# 3018",31,7,0,0,38
+1848816,1426629,2024-04-12,House,"House: Veto Override RCS# 447",77,20,0,3,100
+1848816,1426630,2024-04-12,Senate,"Senate: Veto Override RSN# 3223",30,7,0,1,38
+1850996,1400429,2024-03-01,Senate,"Senate: Third Reading W/scs1 RSN# 2947",33,0,0,5,38
+1850996,1415238,2024-03-25,House,"House: Third Reading RCS# 345",93,0,0,7,100
+1851007,1407094,2024-03-11,Senate,"Senate: Third Reading W/scs1 RSN# 2985",34,0,1,3,38
+1851013,1407200,2024-03-11,House,"House: Third Reading RCS# 262",76,13,0,9,98
+1851013,1417602,2024-03-28,Senate,"Senate: Third Reading RSN# 3119",29,6,0,3,38
+1851041,1403617,2024-03-05,House,"House: Third Reading RCS# 201",95,0,0,3,98
+1851041,1415873,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3050",38,0,0,0,38
+1851041,1417639,2024-03-28,Senate,"Senate: Third Reading W/FINAL fccr1 RSN# 3190",37,0,0,1,38
+1851041,1417640,2024-03-28,House,"House: Third Reading RCS# 416",96,0,0,4,100
+1851041,1426526,2024-04-12,House,"House: Veto Override RCS# 440",79,18,0,3,100
+1851041,1426527,2024-04-12,Senate,"Senate: Veto Override RSN# 3230",30,7,0,1,38
+1851064,1403311,2024-03-05,House,"House: Third Reading RCS# 202",93,0,2,3,98
+1851064,1415867,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3052",38,0,0,0,38
+1851064,1417584,2024-03-28,Senate,"Senate: Third Reading W/FINAL fccr1 RSN# 3191",37,0,0,1,38
+1851064,1417585,2024-03-28,House,"House: Third Reading RCS# 413",96,0,2,2,100
+1851081,1400513,2024-03-01,House,"House: Third Reading RCS# 191",93,1,0,4,98
+1851081,1416810,2024-03-27,Senate,"Senate: Third Reading RSN# 3081",36,0,0,2,38
+1851140,1403749,2024-03-05,House,"House: Third Reading RCS# 211",93,0,0,5,98
+1851140,1414058,2024-03-21,Senate,"Senate: Third Reading W/scs1 RSN# 3025",38,0,0,0,38
+1851140,1417582,2024-03-28,House,"House: Third Reading RCS# 422",78,17,0,5,100
+1851159,1399876,2024-02-29,House,"House: Third Reading RCS# 180",98,0,0,0,98
+1851159,1417677,2024-03-28,Senate,"Senate: Third Reading RSN# 3166",38,0,0,0,38
+1851176,1403558,2024-03-05,House,"House: Adopt  RCS# 204",94,1,0,3,98
+1851176,1417756,2024-03-28,Senate,"Senate: Adopt W/ scs1 RSN# 3168",38,0,0,0,38
+1851176,1417757,2024-03-28,House,"House: Third Reading RCS# 415",96,1,1,2,100
+1851212,1403739,2024-03-05,House,"House: Adopt  RCS# 203",94,0,0,4,98
+1851212,1415878,2024-03-26,Senate,"Senate: Adopt W/ scs1 RSN# 3048",35,0,0,3,38
+1851212,1417605,2024-03-28,Senate,"Senate: Adopt FINAL W/ fccr1 RSN# 3192",37,0,0,1,38
+1851212,1417606,2024-03-28,House,"House: Third Reading RCS# 414",98,0,0,2,100
+1851254,1405764,2024-03-07,House,"House: Adopt HFA 2 RCS# 240",20,63,0,15,98
+1851254,1405765,2024-03-07,House,"House: Third Reading RCS# 241",79,15,0,4,98
+1851254,1417694,2024-03-28,Senate,"Senate: Third Reading RSN# 3152",38,0,0,0,38
+1851264,1413945,2024-03-21,House,"House: Third Reading RCS# 320",98,0,0,0,98
+1851324,1400126,2024-02-29,House,"House: Third Reading RCS# 185",93,2,0,3,98
+1851324,1417620,2024-03-28,Senate,"Senate: Third Reading RSN# 3151",38,0,0,0,38
+1851352,1403681,2024-03-05,House,"House: Third Reading RCS# 208",95,0,0,3,98
+1851358,1409655,2024-03-14,House,"House: Third Reading RCS# 286",93,0,0,5,98
+1851358,1417607,2024-03-28,Senate,"Senate: Third Reading RSN# 3162",36,0,0,2,38
+1851376,1407447,2024-03-11,House,"House: Third Reading RCS# 256",79,15,0,4,98
+1851929,1405709,2024-03-07,House,"House: Third Reading RCS# 231",95,0,0,3,98
+1851929,1417600,2024-03-28,Senate,"Senate: Third Reading RSN# 3176",38,0,0,0,38
+1851978,1401961,2024-03-04,House,"House: Third Reading RCS# 197",88,4,0,6,98
+1851978,1417687,2024-03-28,Senate,"Senate: Third Reading RSN# 3116",34,3,0,1,38
+1851978,1426528,2024-04-12,House,"House: Veto Override RCS# 442",81,17,0,2,100
+1851978,1426529,2024-04-12,Senate,"Senate: Veto Override RSN# 3219",29,5,0,4,38
+1851996,1400515,2024-03-01,Senate,"Senate: Adopt  RSN# 2948",33,0,0,5,38
+1851996,1414283,2024-03-22,House,"House: Third Reading RCS# 327",94,0,0,4,98
+1851996,1416849,2024-03-27,Senate,"Senate: Adopt FINAL W/ hcs 1 hfa1 hcta1 RSN# 3070",36,0,0,2,38
+1852045,1406442,2024-03-08,House,"House: Third Reading RCS# 246",88,0,0,10,98
+1852045,1416843,2024-03-27,Senate,"Senate: Third Reading RSN# 3097",37,0,0,1,38
+1852095,1413829,2024-03-21,Senate,"Senate: Third Reading W/scs1 RSN# 3016",29,7,0,2,38
+1852129,1399759,2024-02-29,House,"House: Third Reading RCS# 178",97,0,0,1,98
+1852145,1402505,2024-03-04,Senate,"Senate: Third Reading RSN# 2950",32,0,0,6,38
+1852244,1405935,2024-03-07,Senate,"Senate: Third Reading RSN# 2969",37,0,0,1,38
+1852244,1415239,2024-03-25,House,"House: Third Reading RCS# 343",91,0,0,9,100
+1852296,1414230,2024-03-22,Senate,"Senate: Third Reading W/scs1 scta 1 RSN# 3040",38,0,0,0,38
+1852393,1407425,2024-03-11,House,"House: Third Reading RCS# 257",62,31,0,5,98
+1853252,1408136,2024-03-12,House,"House: Third Reading RCS# 268",91,0,0,7,98
+1853252,1427492,2024-04-15,Senate,"Senate: Third Reading RSN# 3325",38,0,0,0,38
+1853314,1404348,2024-03-06,Senate,"Senate: Third Reading RSN# 2961",38,0,0,0,38
+1853314,1426609,2024-04-12,House,"House: Third Reading RCS# 468",96,0,0,4,100
+1853319,1403641,2024-03-05,Senate,"Senate: Third Reading W/scs1 sfa2 RSN# 2959",28,10,0,0,38
+1853319,1417670,2024-03-28,House,"House: Third Reading RCS# 431",70,27,0,3,100
+1853319,1417671,2024-03-28,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3202",28,7,0,3,38
+1853354,1405650,2024-03-07,Senate,"Senate: Third Reading RSN# 2970",37,0,0,1,38
+1853354,1415874,2024-03-26,House,"House: Third Reading RCS# 360",88,0,0,12,100
+1853354,1416862,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 hfa2 RSN# 3108",35,0,0,3,38
+1853371,1407908,2024-03-12,House,"House: Third Reading RCS# 273",95,0,0,3,98
+1853402,1408276,2024-03-12,House,"House: Third Reading RCS# 265",95,0,0,3,98
+1853441,1408333,2024-03-12,Senate,"Senate: Adopt  RSN# 2995",28,9,1,0,38
+1853441,1426632,2024-04-12,House,"House: Third Reading RCS# 463",85,7,0,8,100
+1853441,1427504,2024-04-15,Senate,"Senate: Adopt FINAL W/ hcs1 RSN# 3242",37,0,0,1,38
+1853495,1406222,2024-03-08,Senate,"Senate: Third Reading RSN# 2979",33,2,2,1,38
+1853495,1415883,2024-03-26,House,"House: Third Reading RCS# 354",51,39,0,10,100
+1853495,1426625,2024-04-12,Senate,"Senate: Veto Override RSN# 3206",30,7,0,1,38
+1853495,1426626,2024-04-12,House,"House: Veto Override RCS# 459",63,31,0,6,100
+1853794,1414318,2024-03-22,Senate,"Senate: Third Reading RSN# 3027",36,0,0,2,38
+1853811,1404402,2024-03-06,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 2962",38,0,0,0,38
+1853811,1416854,2024-03-27,House,"House: Third Reading RCS# 392",90,0,0,10,100
+1853811,1417683,2024-03-28,Senate,"Senate: Third Reading W/FINAL hcs1 hfa1 RSN# 3157",38,0,0,0,38
+1853836,1409907,2024-03-15,Senate,"Senate: Third Reading RSN# 3012",37,1,0,0,38
+1853836,1426613,2024-04-12,House,"House: Third Reading RCS# 465",95,1,0,4,100
+1853863,1409663,2024-03-14,Senate,"Senate: Third Reading RSN# 3003",37,1,0,0,38
+1854617,1408791,2024-03-13,House,"House: Third Reading RCS# 282",96,0,0,2,98
+1854617,1417658,2024-03-28,Senate,"Senate: Third Reading RSN# 3183",38,0,0,0,38
+1854621,1408351,2024-03-12,House,"House: Third Reading RCS# 266",95,0,0,3,98
+1854621,1417599,2024-03-28,Senate,"Senate: Third Reading RSN# 3154",38,0,0,0,38
+1854625,1415227,2024-03-25,House,"House: Third Reading RCS# 340",89,0,0,11,100
+1854625,1417656,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3169",37,0,0,1,38
+1854625,1417657,2024-03-28,House,"House: Third Reading RCS# 421",97,0,0,3,100
+1854635,1405628,2024-03-07,House,"House: Third Reading RCS# 232",95,0,0,3,98
+1854635,1417685,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3153",38,0,0,0,38
+1854635,1417686,2024-03-28,House,"House: Third Reading RCS# 430",91,1,0,8,100
+1854636,1405907,2024-03-07,House,"House: Third Reading RCS# 235",95,0,0,3,98
+1854640,1408048,2024-03-12,House,"House: Third Reading RCS# 274",66,30,0,2,98
+1854640,1427489,2024-04-15,Senate,"Senate: Third Reading RSN# 3232",26,12,0,0,38
+1854640,1427490,2024-04-15,House,"House: Third Reading RCS# 482",69,15,0,16,100
+1854642,1407103,2024-03-11,House,"House: Third Reading RCS# 255",62,26,0,10,98
+1854642,1417593,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3194",29,7,1,1,38
+1854642,1417594,2024-03-28,House,"House: Third Reading RCS# 428",64,27,0,9,100
+1854646,1405908,2024-03-07,House,"House: Third Reading RCS# 242",92,0,0,6,98
+1854646,1417604,2024-03-28,Senate,"Senate: Third Reading RSN# 3180",38,0,0,0,38
+1854649,1406076,2024-03-08,House,"House: Third Reading RCS# 248",89,0,0,9,98
+1854649,1417667,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3164",35,0,0,3,38
+1854649,1427628,2024-04-15,Senate,"Senate: Third Reading W/FINAL fccr1 RSN# 3237",37,0,0,1,38
+1854649,1427629,2024-04-15,House,"House: Third Reading RCS# 488",95,0,0,5,100
+1854669,1407987,2024-03-12,House,"House: Third Reading RCS# 269",95,0,0,3,98
+1854677,1405394,2024-03-07,House,"House: Third Reading RCS# 236",95,0,0,3,98
+1854677,1415861,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3056",37,1,0,0,38
+1854677,1416793,2024-03-27,House,"House: Third Reading RCS# 371",92,1,0,7,100
+1854678,1413930,2024-03-21,House,"House: Third Reading RCS# 313",87,7,0,4,98
+1854678,1417583,2024-03-28,Senate,"Senate: Third Reading RSN# 3188",37,1,0,0,38
+1854685,1413952,2024-03-21,House,"House: Third Reading RCS# 322",76,20,0,2,98
+1854687,1413866,2024-03-21,House,"House: Third Reading RCS# 315",94,0,0,4,98
+1854691,1413946,2024-03-21,House,"House: Third Reading RCS# 316",97,0,0,1,98
+1854697,1405405,2024-03-07,House,"House: Third Reading RCS# 233",95,0,0,3,98
+1854697,1416857,2024-03-27,Senate,"Senate: Third Reading RSN# 3098",37,0,0,1,38
+1854702,1415768,2024-03-26,House,"House: Third Reading RCS# 359",75,17,0,8,100
+1854723,1407483,2024-03-11,House,"House: Third Reading RCS# 258",93,0,0,5,98
+1854723,1427636,2024-04-15,Senate,"Senate: Third Reading RSN# 3326",38,0,0,0,38
+1854746,1406215,2024-03-08,Senate,"Senate: Third Reading W/scs1 RSN# 2980",37,0,0,1,38
+1854747,1409628,2024-03-14,House,"House: Third Reading RCS# 291",94,0,0,4,98
+1854747,1417652,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3181",38,0,0,0,38
+1854747,1417653,2024-03-28,House,"House: Third Reading RCS# 427",96,0,0,4,100
+1854749,1409935,2024-03-15,Senate,"Senate: Third Reading RSN# 3006",36,1,0,1,38
+1854749,1415882,2024-03-26,House,"House: Third Reading RCS# 362",95,0,0,5,100
+1854749,1416827,2024-03-27,Senate,"Senate: Third Reading W/FINAL hcs1 RSN# 3109",35,0,0,3,38
+1854753,1406232,2024-03-08,House,"House: Third Reading RCS# 245",82,2,0,14,98
+1854764,1409554,2024-03-14,House,"House: Third Reading RCS# 285",94,0,1,3,98
+1854764,1417668,2024-03-28,Senate,"Senate: Third Reading RSN# 3182",37,1,0,0,38
+1854772,1405925,2024-03-07,House,"House: Third Reading RCS# 234",95,0,0,3,98
+1854795,1409898,2024-03-15,House,"House: Third Reading RCS# 299",71,17,0,10,98
+1854795,1417613,2024-03-28,Senate,"Senate: Third Reading W/scs1 RSN# 3193",37,0,0,1,38
+1854795,1417614,2024-03-28,House,"House: Third Reading RCS# 419",71,18,0,11,100
+1854795,1426533,2024-04-12,House,"House: Veto Override RCS# 449",73,19,0,8,100
+1854795,1426534,2024-04-12,Senate,"Senate: Veto Override RSN# 3220",25,7,0,6,38
+1854804,1406051,2024-03-08,Senate,"Senate: Third Reading RSN# 2981",36,0,1,1,38
+1854808,1414192,2024-03-22,Senate,"Senate: Third Reading W/scs1 scta1 RSN# 3039",38,0,0,0,38
+1854808,1426635,2024-04-12,House,"House: Third Reading RCS# 466",98,0,0,2,100
+1854810,1413646,2024-03-21,House,"House: Third Reading RCS# 312",97,0,0,1,98
+1854810,1417692,2024-03-28,Senate,"Senate: Third Reading W/sfa3 RSN# 3170",31,7,0,0,38
+1854810,1417693,2024-03-28,House,"House: Third Reading RCS# 429",88,3,0,9,100
+1854812,1409537,2024-03-14,House,"House: Third Reading RCS# 287",93,1,0,4,98
+1854812,1416833,2024-03-27,Senate,"Senate: Third Reading RSN# 3099",35,0,0,3,38
+1854815,1413957,2024-03-21,House,"House: Third Reading RCS# 321",75,20,0,3,98
+1854815,1417688,2024-03-28,Senate,"Senate: Third Reading RSN# 3198",29,7,0,2,38
+1854815,1426616,2024-04-12,House,"House: Veto Override RCS# 452",78,21,0,1,100
+1854815,1426617,2024-04-12,Senate,"Senate: Veto Override RSN# 3221",26,7,0,5,38
+1854816,1409975,2024-03-15,House,"House: Third Reading RCS# 298",73,11,0,14,98
+1854816,1415056,2024-03-25,Senate,"Senate: Third Reading W/scs1 RSN# 3042",36,1,0,1,38
+1854816,1417616,2024-03-28,Senate,"Senate: Third Reading W/FINAL fccr1 RSN# 3189",34,0,0,4,38
+1854816,1417617,2024-03-28,House,"House: Third Reading RCS# 418",87,9,0,4,100
+1855269,1409863,2024-03-15,Senate,"Senate: Third Reading RSN# 3013",38,0,0,0,38
+1855269,1426611,2024-04-12,House,"House: Third Reading RCS# 461",95,0,0,5,100
+1855269,1427485,2024-04-15,Senate,"Senate: Adopt FINAL W/ hcs1 RSN# 3243",37,0,0,1,38
+1855405,1408349,2024-03-12,Senate,"Senate: Third Reading W/scs1 RSN# 2991",36,2,0,0,38
+1855492,1415935,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3047",25,11,0,1,37
+1855509,1406221,2024-03-08,Senate,"Senate: Third Reading W/scs1 RSN# 2982",36,0,1,1,38
+1855509,1426614,2024-04-12,House,"House: Third Reading RCS# 464",90,0,0,10,100
+1855609,1408057,2024-03-12,Senate,"Senate: Third Reading RSN# 2992",38,0,0,0,38
+1855609,1415240,2024-03-25,House,"House: Third Reading RCS# 344",92,0,0,8,100
+1855617,1415906,2024-03-26,Senate,"Senate: Third Reading W/scs1 RSN# 3049",26,11,0,1,38
+1855617,1417697,2024-03-28,House,"House: Third Reading RCS# 402",64,28,0,8,100
+1855617,1417698,2024-03-28,Senate,"Senate: Third Reading W/FINAL hcs1 hcta1 RSN# 3196",25,11,0,2,38
+1855617,1426547,2024-04-12,Senate,"Senate: Veto Override RSN# 3208",26,12,0,0,38
+1855617,1426548,2024-04-12,House,"House: Veto Override RCS# 458",57,38,0,5,100
+1856238,1413827,2024-03-21,Senate,"Senate: Third Reading W/sfa1 RSN# 3017",29,8,1,0,38
+1856321,1408129,2024-03-12,Senate,"Senate: Third Reading W/scs1 sfa1 RSN# 2994",28,9,1,0,38
+1856321,1417660,2024-03-28,House,"House: Adopt HFA 3 RCS# 407",37,44,0,19,100
+1856321,1417661,2024-03-28,House,"House: Adopt HFA 1 RCS# 408",20,51,0,29,100
+1856321,1417662,2024-03-28,House,"House: Adopt HFA 2 RCS# 409",21,49,0,30,100
+1856321,1417663,2024-03-28,House,"House: Third Reading RCS# 410",57,37,0,6,100
+1856321,1426571,2024-04-12,Senate,"Senate: Veto Override RSN# 3209",27,11,0,0,38
+1856321,1426572,2024-04-12,House,"House: Veto Override RCS# 460",61,36,0,3,100
+1856449,1407106,2024-03-11,Senate,"Senate: Third Reading RSN# 2987",37,0,0,1,38
+1856483,1409865,2024-03-15,Senate,"Senate: Third Reading RSN# 3007",20,16,0,1,37
+1856495,1407538,2024-03-11,Senate,"Senate: Third Reading RSN# 2988",37,0,0,1,38
+1856495,1417610,2024-03-28,House,"House: Third Reading RCS# 423",86,10,0,4,100
+1856521,1408344,2024-03-12,Senate,"Senate: Third Reading RSN# 2990",35,3,0,0,38
+1856799,1409996,2024-03-15,Senate,"Senate: Third Reading RSN# 3014",37,1,0,0,38
+1864712,1427669,2024-04-15,Senate,"Senate: Third Reading RSN# 3245",38,0,0,0,38
+1864713,1427517,2024-04-15,Senate,"Senate: Third Reading RSN# 3251",38,0,0,0,38
+1864714,1427787,2024-04-15,Senate,"Senate: Third Reading RSN# 3258",38,0,0,0,38
+1864716,1427926,2024-04-15,Senate,"Senate: Third Reading RSN# 3260",38,0,0,0,38
+1864719,1427933,2024-04-15,Senate,"Senate: Third Reading RSN# 3247",38,0,0,0,38
+1864720,1428647,2024-04-15,Senate,"Senate: Third Reading RSN# 3250",38,0,0,0,38
+1864722,1428329,2024-04-15,Senate,"Senate: Third Reading RSN# 3244",38,0,0,0,38
+1864723,1428162,2024-04-15,Senate,"Senate: Third Reading RSN# 3246",38,0,0,0,38
+1864726,1428304,2024-04-15,Senate,"Senate: Third Reading RSN# 3252",38,0,0,0,38
+1864727,1427967,2024-04-15,Senate,"Senate: Third Reading RSN# 3249",38,0,0,0,38
+1864728,1428218,2024-04-15,Senate,"Senate: Third Reading RSN# 3248",38,0,0,0,38
+1864729,1428016,2024-04-15,Senate,"Senate: Third Reading RSN# 3257",37,1,0,0,38
+1867543,1427381,2024-04-15,Senate,"Senate: Third Reading RSN# 3259",38,0,0,0,38
+1867935,1417706,2024-03-28,House,"House: Adopt  RCS# 401",91,0,0,9,100
+1868343,1427800,2024-04-15,Senate,"Senate: Third Reading RSN# 3261",38,0,0,0,38
+1868811,1427842,2024-04-15,Senate,"Senate: Third Reading RSN# 3268",38,0,0,0,38
+1868812,1427875,2024-04-15,Senate,"Senate: Third Reading RSN# 3271",38,0,0,0,38
+1868815,1427807,2024-04-15,Senate,"Senate: Third Reading RSN# 3262",38,0,0,0,38
+1868817,1427799,2024-04-15,Senate,"Senate: Third Reading RSN# 3265",38,0,0,0,38
+1868819,1427766,2024-04-15,Senate,"Senate: Third Reading RSN# 3274",38,0,0,0,38
+1868821,1427817,2024-04-15,Senate,"Senate: Third Reading RSN# 3273",38,0,0,0,38
+1868822,1427860,2024-04-15,Senate,"Senate: Third Reading RSN# 3263",38,0,0,0,38
+1868823,1427885,2024-04-15,Senate,"Senate: Third Reading RSN# 3270",38,0,0,0,38
+1868825,1427833,2024-04-15,Senate,"Senate: Third Reading RSN# 3266",38,0,0,0,38
+1868827,1427869,2024-04-15,Senate,"Senate: Third Reading RSN# 3272",38,0,0,0,38
+1868829,1427613,2024-04-15,Senate,"Senate: Third Reading RSN# 3264",38,0,0,0,38
+1868830,1427662,2024-04-15,Senate,"Senate: Adopt  RSN# 3238",36,1,0,1,38
+1868831,1427692,2024-04-15,Senate,"Senate: Third Reading RSN# 3275",38,0,0,0,38
+1868832,1427815,2024-04-15,Senate,"Senate: Third Reading RSN# 3267",38,0,0,0,38
+1872657,1427416,2024-04-15,Senate,"Senate: Third Reading RSN# 3321",38,0,0,0,38
+1872658,1427417,2024-04-15,Senate,"Senate: Third Reading RSN# 3315",38,0,0,0,38
+1872659,1427418,2024-04-15,Senate,"Senate: Third Reading RSN# 3307",38,0,0,0,38
+1872660,1427419,2024-04-15,Senate,"Senate: Third Reading RSN# 3288",38,0,0,0,38
+1872661,1427420,2024-04-15,Senate,"Senate: Third Reading RSN# 3309",38,0,0,0,38
+1872663,1427421,2024-04-15,Senate,"Senate: Third Reading RSN# 3310",38,0,0,0,38
+1872664,1427422,2024-04-15,Senate,"Senate: Third Reading RSN# 3331",37,1,0,0,38
+1872665,1427423,2024-04-15,Senate,"Senate: Third Reading RSN# 3289",38,0,0,0,38
+1872666,1427424,2024-04-15,Senate,"Senate: Third Reading RSN# 3318",38,0,0,0,38
+1872667,1427425,2024-04-15,Senate,"Senate: Third Reading RSN# 3296",38,0,0,0,38
+1872668,1427426,2024-04-15,Senate,"Senate: Third Reading RSN# 3306",38,0,0,0,38
+1872669,1427427,2024-04-15,Senate,"Senate: Third Reading RSN# 3319",38,0,0,0,38
+1872670,1427428,2024-04-15,Senate,"Senate: Third Reading RSN# 3280",38,0,0,0,38
+1872671,1427429,2024-04-15,Senate,"Senate: Third Reading RSN# 3286",38,0,0,0,38
+1872673,1427430,2024-04-15,Senate,"Senate: Third Reading RSN# 3284",38,0,0,0,38
+1872675,1427431,2024-04-15,Senate,"Senate: Third Reading RSN# 3278",38,0,0,0,38
+1872676,1427432,2024-04-15,Senate,"Senate: Third Reading RSN# 3292",38,0,0,0,38
+1872678,1427433,2024-04-15,Senate,"Senate: Third Reading RSN# 3314",38,0,0,0,38
+1872679,1427434,2024-04-15,Senate,"Senate: Third Reading RSN# 3313",38,0,0,0,38
+1872680,1427435,2024-04-15,Senate,"Senate: Third Reading RSN# 3312",38,0,0,0,38
+1872681,1427436,2024-04-15,Senate,"Senate: Third Reading RSN# 3329",38,0,0,0,38
+1872682,1427437,2024-04-15,Senate,"Senate: Third Reading RSN# 3304",38,0,0,0,38
+1872685,1427438,2024-04-15,Senate,"Senate: Third Reading RSN# 3277",38,0,0,0,38
+1872686,1427439,2024-04-15,Senate,"Senate: Third Reading RSN# 3285",38,0,0,0,38
+1872687,1427440,2024-04-15,Senate,"Senate: Third Reading RSN# 3290",38,0,0,0,38
+1872688,1427441,2024-04-15,Senate,"Senate: Third Reading RSN# 3281",38,0,0,0,38
+1872689,1427442,2024-04-15,Senate,"Senate: Third Reading RSN# 3308",38,0,0,0,38
+1872690,1427443,2024-04-15,Senate,"Senate: Third Reading RSN# 3302",38,0,0,0,38
+1872691,1427444,2024-04-15,Senate,"Senate: Third Reading RSN# 3301",38,0,0,0,38
+1872692,1427445,2024-04-15,Senate,"Senate: Third Reading RSN# 3320",38,0,0,0,38
+1872693,1427446,2024-04-15,Senate,"Senate: Third Reading RSN# 3295",38,0,0,0,38
+1872694,1427447,2024-04-15,Senate,"Senate: Third Reading RSN# 3294",38,0,0,0,38
+1872696,1427448,2024-04-15,Senate,"Senate: Third Reading RSN# 3311",38,0,0,0,38
+1872697,1427449,2024-04-15,Senate,"Senate: Third Reading RSN# 3283",38,0,0,0,38
+1872698,1427450,2024-04-15,Senate,"Senate: Third Reading RSN# 3305",38,0,0,0,38
+1872699,1427451,2024-04-15,Senate,"Senate: Third Reading RSN# 3276",38,0,0,0,38
+1872700,1427452,2024-04-15,Senate,"Senate: Third Reading RSN# 3300",38,0,0,0,38
+1872702,1427453,2024-04-15,Senate,"Senate: Third Reading RSN# 3317",38,0,0,0,38
+1872703,1427454,2024-04-15,Senate,"Senate: Third Reading RSN# 3297",38,0,0,0,38
+1872704,1427455,2024-04-15,Senate,"Senate: Third Reading RSN# 3330",34,3,0,0,37
+1872705,1427456,2024-04-15,Senate,"Senate: Third Reading RSN# 3279",38,0,0,0,38
+1872706,1427457,2024-04-15,Senate,"Senate: Third Reading RSN# 3316",38,0,0,0,38
+1872707,1427458,2024-04-15,Senate,"Senate: Third Reading RSN# 3298",38,0,0,0,38
+1872708,1427459,2024-04-15,Senate,"Senate: Third Reading RSN# 3287",38,0,0,0,38
+1872709,1427460,2024-04-15,Senate,"Senate: Third Reading RSN# 3299",38,0,0,0,38
+1872711,1427461,2024-04-15,Senate,"Senate: Third Reading RSN# 3293",38,0,0,0,38
+1872712,1427462,2024-04-15,Senate,"Senate: Third Reading RSN# 3282",38,0,0,0,38
+1872713,1427463,2024-04-15,Senate,"Senate: Third Reading RSN# 3291",38,0,0,0,38
+1872714,1427464,2024-04-15,Senate,"Senate: Third Reading RSN# 3303",38,0,0,0,38

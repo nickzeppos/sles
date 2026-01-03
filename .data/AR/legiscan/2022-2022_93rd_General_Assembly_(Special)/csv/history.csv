@@ -1,0 +1,94 @@
+bill_id,date,chamber,sequence,action
+1627902,2022-08-08,House,1,Filed
+1627902,2022-08-09,House,2,"Improperly Introduced"
+1627902,2022-08-11,House,3,"Died in the House at Sine Die Adjournment"
+1627907,2022-08-08,House,1,Filed
+1627907,2022-08-09,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1627907,2022-08-11,House,3,"READ AND ADOPTED."
+1627923,2022-08-08,House,1,Filed
+1627923,2022-08-09,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on REVENUE & TAXATION- HOUSE"
+1627923,2022-08-09,House,3,"Returned by the Committee Do Pass"
+1627923,2022-08-10,House,4,"Read the third time and passed and ordered transmitted to the Senate."
+1627923,2022-08-10,House,5,"EMERGENCY CLAUSE ADOPTED"
+1627923,2022-08-10,Senate,6,"Received from the House."
+1627923,2022-08-10,Senate,7,"Read first time, rules suspended, read second time, referred to REVENUE & TAX - SENATE"
+1627923,2022-08-10,Senate,8,"Returned by the Committee, with the recommendation that it Do Pass"
+1627923,2022-08-11,Senate,9,"Read the third time and passed."
+1627923,2022-08-11,Senate,10,"EMERGENCY CLAUSE ADOPTED"
+1627923,2022-08-11,Senate,11,"Returned to the House as passed."
+1627923,2022-08-11,House,12,"Returned From the Senate as passed."
+1627923,2022-08-11,House,13,"TO BE ENROLLED"
+1627923,2022-08-11,House,14,"Correctly enrolled and ordered transmitted to the Governor's Office."
+1627923,2022-08-11,House,15,"Notification that HB1002 is now Act 1"
+1627937,2022-08-08,Senate,1,Filed
+1627937,2022-08-09,Senate,2,"Read first time, rules suspended, read second time, referred to REVENUE & TAX - SENATE"
+1627937,2022-08-09,Senate,3,"Returned by the Committee, with the recommendation that it Do Pass"
+1627937,2022-08-10,Senate,4,"Read the third time and passed."
+1627937,2022-08-10,Senate,5,"EMERGENCY CLAUSE ADOPTED"
+1627937,2022-08-10,Senate,6,"Ordered immediately transmitted to the House."
+1627937,2022-08-10,House,7,"RECEIVED FROM THE SENATE"
+1627937,2022-08-10,House,8,"Read the first time, rules suspended, read the second time and referred to the Committee on REVENUE & TAXATION- HOUSE"
+1627937,2022-08-10,House,9,"Returned by the Committee Do Pass"
+1627937,2022-08-11,House,10,"Read the third time and passed and ordered transmitted to the Senate."
+1627937,2022-08-11,House,11,"EMERGENCY CLAUSE ADOPTED"
+1627937,2022-08-11,House,12,"Returned To the Senate as passed."
+1627937,2022-08-11,Senate,13,"Returned from the House as passed."
+1627937,2022-08-11,Senate,14,"ORDERED ENROLLED"
+1627937,2022-08-11,Senate,15,"Reported correctly enrolled and ordered delivered to the Governor."
+1627937,2022-08-11,Senate,16,"DELIVERED TO GOVERNOR."
+1627937,2022-08-11,Senate,17,"Notification that SB1 is now Act 2"
+1627953,2022-08-08,Senate,1,Filed
+1627953,2022-08-09,Senate,2,"Read first time, rules suspended, read second time, referred to JOINT BUDGET COMMITTEE"
+1627953,2022-08-09,Senate,3,"Returned by the Committee, with the recommendation that it Do Pass"
+1627953,2022-08-10,Senate,4,"Read the third time and passed."
+1627953,2022-08-10,Senate,5,"EMERGENCY CLAUSE ADOPTED"
+1627953,2022-08-10,Senate,6,"Ordered immediately transmitted to the House."
+1627953,2022-08-10,House,7,"RECEIVED FROM THE SENATE"
+1627953,2022-08-10,House,8,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1627953,2022-08-11,House,9,"Read the third time and passed and ordered transmitted to the Senate."
+1627953,2022-08-11,House,10,"EMERGENCY CLAUSE ADOPTED"
+1627953,2022-08-11,House,11,"Returned To the Senate as passed."
+1627953,2022-08-11,Senate,12,"Returned from the House as passed."
+1627953,2022-08-11,Senate,13,"ORDERED ENROLLED"
+1627953,2022-08-11,Senate,14,"Reported correctly enrolled and ordered delivered to the Governor."
+1627953,2022-08-11,Senate,15,"DELIVERED TO GOVERNOR."
+1627953,2022-08-11,Senate,16,"Notification that SB2 is now Act 3"
+1627969,2022-08-08,House,1,Filed
+1627969,2022-08-09,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on HOUSE MANAGEMENT"
+1627969,2022-08-09,House,3,"Returned by the Committee Do Pass"
+1627969,2022-08-10,House,4,"READ AND ADOPTED."
+1627989,2022-08-09,House,1,Filed
+1627989,2022-08-09,House,2,"Improperly Introduced"
+1627989,2022-08-11,House,3,"Died in the House of Sine Die Adjournment"
+1628022,2022-08-10,House,1,Filed
+1628022,2022-08-10,House,2,"Improperly Introduced"
+1628022,2022-08-11,House,3,"Died in the House at Sine Die Adjournment"
+1628025,2022-08-10,House,1,Filed
+1628025,2022-08-10,House,2,"Improperly Introduced"
+1628025,2022-08-11,House,3,"Died in the House at Sine Die Adjournment"
+1628026,2022-08-10,Senate,1,Filed
+1628026,2022-08-10,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1628026,2022-08-11,Senate,3,"Read the third time and adopted."
+1628026,2022-08-11,Senate,4,"Sine Die adjournment"
+1628027,2022-08-10,Senate,1,Filed
+1628027,2022-08-11,Senate,2,"Sine Die adjournment"
+1628029,2022-08-10,House,1,Filed
+1628029,2022-08-10,House,2,"Improperly Introduced"
+1628029,2022-08-11,House,3,"Died in the House at Sine Die Adjournment"
+1628030,2022-08-10,Senate,1,Filed
+1628030,2022-08-11,Senate,2,"Sine Die adjournment"
+1628031,2022-08-10,House,1,Filed
+1628031,2022-08-10,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1628031,2022-08-11,House,3,"Died in the House at Sine Die Adjournment"
+1628032,2022-08-10,Senate,1,Filed
+1628032,2022-08-11,Senate,2,"Sine Die adjournment"
+1628033,2022-08-10,Senate,1,Filed
+1628033,2022-08-11,Senate,2,"Sine Die adjournment"
+1628034,2022-08-10,House,1,Filed
+1628034,2022-08-10,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1628034,2022-08-11,House,3,"Died in the House as Sine Die Adjournment"
+1628035,2022-08-10,House,1,Filed
+1628035,2022-08-10,House,2,"Improperly Introduced"
+1628035,2022-08-11,House,3,"Died in the House at Sine Die Adjournment"
+1628036,2022-08-10,Senate,1,Filed
+1628036,2022-08-11,Senate,2,"Sine Die adjournment"

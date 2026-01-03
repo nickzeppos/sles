@@ -1,0 +1,525 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1641620,1230976,2023-01-03,House,"Assembly: Adopted",99,0,0,0,99
+1641623,1230977,2023-01-03,House,"Assembly: Adopted",99,0,0,0,99
+1641984,1230974,2023-01-03,Senate,"Senate: Adopted",29,3,0,0,32
+1642107,1230973,2023-01-03,Senate,"Senate: Adopted",26,6,0,0,32
+1642107,1230975,2023-01-03,House,"Assembly: Concurred in",99,0,0,0,99
+1643842,1232235,2023-01-17,Senate,"Senate: Read a third time and adopted",23,9,0,0,32
+1643842,1233179,2023-01-19,House,"Assembly: Refused to refer to committee on Judiciary",35,62,2,0,99
+1643842,1233180,2023-01-19,House,"Assembly: Read a third time and concurred in",74,23,2,0,99
+1658962,1232328,2023-01-17,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",21,11,0,0,32
+1658962,1232329,2023-01-17,Senate,"Senate: Adopted",22,10,0,0,32
+1658962,1233258,2023-01-19,House,"Assembly: Decision of the Chair upheld",62,35,2,0,99
+1658962,1233259,2023-01-19,House,"Assembly: Concurred in",62,35,2,0,99
+1684232,1281131,2023-03-22,Senate,"Senate: Referred to committee on Administrative Rules",20,11,1,0,32
+1684388,1281025,2023-03-22,Senate,"Senate: Refused to amend the motion to refer to the committee on Administrative Rules to refer to the committee on Mental Health, Substance Abuse, Children and Families",11,20,1,0,32
+1684388,1281026,2023-03-22,Senate,"Senate: Referred to committee on Administrative Rules",20,11,1,0,32
+1684490,1388679,2024-02-20,Senate,"Senate: Read a third time and passed",29,3,0,0,32
+1696471,1274925,2023-03-14,House,"Assembly: Referred to Family Law",61,35,3,0,99
+1696704,1353706,2023-09-12,House,"Assembly: Read a third time and adopted",63,35,1,0,99
+1696704,1383629,2024-02-13,Senate,"Senate: Read a third time and concurred in as amended",22,10,0,0,32
+1696704,1391781,2024-02-22,House,"Assembly: Senate Amendment 1 concurred in as amended",61,35,3,0,99
+1696704,1407963,2024-03-12,Senate,"Senate: Assembly Amendment 1 to Senate Amendment 1 concurred in",22,10,0,0,32
+1703766,1274908,2023-03-14,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1703766,1281525,2023-03-22,Senate,"Senate: Read a third time and concurred in",31,0,1,0,32
+1703987,1388806,2024-02-20,House,"Assembly: Read a third time and passed",86,12,1,0,99
+1703987,1407694,2024-03-12,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",22,10,0,0,32
+1703987,1407695,2024-03-12,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",22,10,0,0,32
+1703987,1407696,2024-03-12,Senate,"Senate: Read a third time and concurred in",23,9,0,0,32
+1704163,1369052,2024-01-25,House,"Assembly: Assembly Substitute Amendment 1 laid on table",63,35,1,0,99
+1704163,1407866,2024-03-12,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1705027,1304093,2023-04-18,House,"Assembly: Read a third time and passed",94,0,5,0,99
+1706718,1356101,2023-10-17,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1706768,1364370,2024-01-16,Senate,"Senate: Senate Amendment 1 to Senate Substitute Amendment 2 rejected",20,12,1,0,33
+1706768,1364371,2024-01-16,Senate,"Senate: Senate Substitute Amendment 2 adopted",19,13,1,0,33
+1706768,1364372,2024-01-16,Senate,"Senate: Refused passage",16,16,1,0,33
+1706768,1364373,2024-01-16,Senate,"Senate: Motion for reconsideration of the vote by which Senate Bill 52 was passed offered by Senator Feyen",19,13,1,0,33
+1706768,1364374,2024-01-16,Senate,"Senate: Passed",17,15,1,0,33
+1707063,1341087,2023-06-07,Senate,"Senate: Read a third time and passed",22,11,0,0,33
+1707063,1354463,2023-09-14,Senate,"Senate: Passed [Optional Text Here]notwithstanding the objections of the Governor",22,11,0,0,33
+1709614,1348164,2023-06-28,Senate,"Senate: Senate Amendment 1 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348165,2023-06-28,Senate,"Senate: Senate Amendment 2 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348166,2023-06-28,Senate,"Senate: Senate Amendment 3 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348167,2023-06-28,Senate,"Senate: Senate Amendment 4 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348168,2023-06-28,Senate,"Senate: Senate Amendment 5 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348169,2023-06-28,Senate,"Senate: Senate Amendment 6 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348170,2023-06-28,Senate,"Senate: Senate Amendment 7 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348171,2023-06-28,Senate,"Senate: Senate Amendment 9 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348172,2023-06-28,Senate,"Senate: Senate Amendment 10 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348173,2023-06-28,Senate,"Senate: Senate Amendment 11 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348174,2023-06-28,Senate,"Senate: Senate Amendment 12 to Senate Substitute Amendment 2 rejected",22,11,0,0,33
+1709614,1348175,2023-06-28,Senate,"Senate: Senate Amendment 13 to Senate Substitute Amendment 2 adopted",21,12,0,0,33
+1709614,1348569,2023-06-28,Senate,"Senate: Read a third time and passed",20,13,0,0,33
+1709614,1348710,2023-06-29,House,"Assembly: Assembly Amendment 1 laid on table",63,33,2,0,98
+1709614,1348711,2023-06-29,House,"Assembly: Assembly Amendment 2 laid on table",63,33,2,0,98
+1709614,1348712,2023-06-29,House,"Assembly: Assembly Amendment 3 laid on table",63,34,1,0,98
+1709614,1348713,2023-06-29,House,"Assembly: Assembly Amendment 4 laid on table",63,34,1,0,98
+1709614,1348714,2023-06-29,House,"Assembly: Assembly Amendment 5 laid on table",63,34,1,0,98
+1709614,1348715,2023-06-29,House,"Assembly: Assembly Amendment 6 laid on table",63,34,1,0,98
+1709614,1348716,2023-06-29,House,"Assembly: Assembly Amendment 7 laid on table",63,34,1,0,98
+1709614,1348717,2023-06-29,House,"Assembly: Assembly Amendment 8 laid on table",63,34,1,0,98
+1709614,1348718,2023-06-29,House,"Assembly: Assembly Amendment 9 laid on table",63,34,1,0,98
+1709614,1348719,2023-06-29,House,"Assembly: Assembly Amendment 10 laid on table",63,34,1,0,98
+1709614,1348720,2023-06-29,House,"Assembly: Assembly Amendment 11 laid on table",63,34,1,0,98
+1709614,1348721,2023-06-29,House,"Assembly: Assembly Amendment 12 laid on table",63,34,1,0,98
+1709614,1348722,2023-06-29,House,"Assembly: Assembly Amendment 13 laid on table",65,32,1,0,98
+1709614,1348926,2023-06-29,House,"Assembly: Read a third time and concurred in",63,34,1,0,98
+1709614,1354460,2023-09-14,Senate,"Senate: Passed partial veto as it relates to Per pupil revenue limit adjustment (A-1 as it effects Sections 402, 403, 404 and 408)",22,11,0,0,33
+1709614,1354479,2023-09-14,Senate,"Senate: Passed partial veto as it relates to Individual income tax rate reduction (B-7 Part 1 as it effects Sections 328, 332 and 336)",22,11,0,0,33
+1709614,1356096,2023-10-17,Senate,"Senate: Passed partial veto as it relates to Housing rehabilitation (C-16 as it effects Sections 51 [as it relates to s. 20.490 (6)(d)] and 134)",22,10,1,0,33
+1715563,1281178,2023-03-22,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1715563,1354486,2023-09-14,Senate,"Senate: Read a third time and concurred in as amended",22,11,0,0,33
+1715594,1303358,2023-04-18,House,"Assembly: Read a third time and passed",87,8,4,0,99
+1715609,1388523,2024-02-20,Senate,"Senate: Referred to committee on Senate Organization",22,10,0,0,32
+1715624,1281736,2023-03-22,House,"Assembly: Read a third time and passed",77,20,2,0,99
+1715624,1340579,2023-06-07,Senate,"Senate: Read a third time and concurred in as amended",28,5,0,0,33
+1715652,1281092,2023-03-22,House,"Assembly: Read a third time and passed",85,12,2,0,99
+1715652,1304900,2023-04-19,Senate,"Senate: Read a third time and concurred in",30,2,0,0,32
+1715715,1275374,2023-03-14,House,"Assembly: Read a third time and passed",61,35,3,0,99
+1716991,1356118,2023-10-17,Senate,"Senate: Read a third time and passed",22,10,1,0,33
+1717072,1281081,2023-03-22,Senate,"Senate: Senate Amendment 2 rejected",20,11,1,0,32
+1717072,1281082,2023-03-22,Senate,"Senate: Read a third time and passed",21,10,1,0,32
+1717072,1281083,2023-03-22,House,"Assembly: Assembly Amendment 1 laid on table",62,35,2,0,99
+1717072,1281084,2023-03-22,House,"Assembly: Read a third time and concurred in",67,30,2,0,99
+1717080,1281106,2023-03-22,Senate,"Senate: Read a third time and passed",23,8,1,0,32
+1717080,1303772,2023-04-18,House,"Assembly: Read a third time and concurred in",80,18,1,0,99
+1719464,1281227,2023-03-22,House,"Assembly: Decision of the Chair upheld",62,35,2,0,99
+1719464,1281228,2023-03-22,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1719963,1274910,2023-03-14,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1719963,1281629,2023-03-22,Senate,"Senate: Read a third time and concurred in",31,0,1,0,32
+1721176,1281226,2023-03-22,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1721437,1275676,2023-03-14,House,"Assembly: Read a third time and passed",59,36,4,0,99
+1724416,1356174,2023-10-17,Senate,"Senate: Read a third time and passed",32,0,1,0,33
+1724449,1341142,2023-06-07,Senate,"Senate: Read a third time and passed",32,1,0,0,33
+1724461,1281062,2023-03-22,Senate,"Senate: Read a third time and passed",28,3,1,0,32
+1724538,1281207,2023-03-22,Senate,"Senate: Read a third time and passed",30,1,1,0,32
+1724538,1281208,2023-03-22,House,"Assembly: Read a third time and concurred in",85,12,2,0,99
+1724549,1354466,2023-09-14,Senate,"Senate: Read a third time and passed",32,1,0,0,33
+1724571,1356152,2023-10-17,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1724626,1383402,2024-02-13,House,"Assembly: Read a third time and concurred in",96,0,3,0,99
+1724668,1357009,2023-11-07,Senate,"Senate: Read a third time and passed",21,10,2,0,33
+1724668,1442857,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",22,9,1,0,32
+1730743,1389434,2024-02-20,House,"Assembly: Read a third time and passed",96,2,1,0,99
+1730762,1340956,2023-06-07,Senate,"Senate: Read a third time and passed",30,3,0,0,33
+1731298,1391703,2024-02-22,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1740507,1340862,2023-06-07,House,"Assembly: Read a third time and passed",95,1,2,0,98
+1740507,1354485,2023-09-14,Senate,"Senate: Read a third time and concurred in",29,4,0,0,33
+1744099,1281111,2023-03-22,Senate,"Senate: Adopted",20,11,1,0,32
+1744099,1282060,2023-03-22,House,"Assembly: Concurred in",62,35,2,0,99
+1746448,1354470,2023-09-14,Senate,"Senate: Read a third time and passed",22,11,0,0,33
+1746505,1356164,2023-10-17,Senate,"Senate: Read a third time and passed",22,10,1,0,33
+1746505,1442829,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",22,9,1,0,32
+1746529,1354488,2023-09-14,Senate,"Senate: Read a third time and passed",32,1,0,0,33
+1751892,1357601,2023-11-14,House,"Assembly: Read a third time and passed",98,0,1,0,99
+1751892,1357602,2023-11-14,Senate,"Senate: Read a third time and concurred in",31,2,0,0,33
+1752277,1357021,2023-11-07,Senate,"Senate: Read a third time and passed",29,2,2,0,33
+1752290,1382805,2024-02-13,Senate,"Senate: Read a third time and passed",28,3,1,0,32
+1752305,1341092,2023-06-07,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1752401,1383203,2024-02-13,House,"Assembly: Read a third time and concurred in",96,0,3,0,99
+1752446,1344139,2023-06-14,Senate,"Senate: Read a third time and passed",22,11,0,0,33
+1752512,1388967,2024-02-20,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1752573,1357350,2023-11-09,House,"Assembly: Read a third time and concurred in",92,5,2,0,99
+1752605,1356119,2023-10-17,Senate,"Senate: Senate Amendment 1 rejected",23,9,1,0,33
+1752605,1356120,2023-10-17,Senate,"Senate: Read a third time and passed",23,9,1,0,33
+1752605,1369028,2024-01-25,House,"Assembly: Assembly Amendment 2 laid on table",64,35,0,0,99
+1752605,1369029,2024-01-25,House,"Assembly: Assembly Amendment 2 laid on table",64,35,0,0,99
+1752605,1442803,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",21,10,1,0,32
+1753057,1303541,2023-04-18,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1753057,1340857,2023-06-07,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1753129,1303444,2023-04-18,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1753129,1340867,2023-06-07,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1754166,1309908,2023-04-25,House,"Assembly: Read a third time and passed",60,35,4,0,99
+1754166,1340834,2023-06-07,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1754167,1309903,2023-04-25,House,"Assembly: Read a third time and passed",60,35,4,0,99
+1754167,1340588,2023-06-07,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1754168,1310027,2023-04-25,House,"Assembly: Read a third time and passed",60,35,4,0,99
+1754168,1340810,2023-06-07,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1754169,1309421,2023-04-25,House,"Assembly: Read a third time and passed",60,34,5,0,99
+1754169,1356123,2023-10-17,Senate,"Senate: Read a third time and concurred in",22,10,1,0,33
+1754170,1309954,2023-04-25,House,"Assembly: Read a third time and passed",60,35,4,0,99
+1754170,1340796,2023-06-07,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1754171,1309977,2023-04-25,House,"Assembly: Decision of the Chair upheld",60,35,4,0,99
+1754171,1309978,2023-04-25,House,"Assembly: Read a third time and passed",60,35,4,0,99
+1754172,1309920,2023-04-25,House,"Assembly: Read a third time and passed",59,35,5,0,99
+1754172,1341159,2023-06-07,Senate,"Senate: Read a third time and concurred in as amended",22,11,0,0,33
+1754361,1341191,2023-06-07,House,"Assembly: Read a third time and passed",96,0,2,0,98
+1755757,1341146,2023-06-07,Senate,"Senate: Referred to committee on Administrative Rules",22,11,0,0,33
+1755764,1345948,2023-06-21,House,"Assembly: Read a third time and passed",82,11,1,0,94
+1755777,1356144,2023-10-17,Senate,"Senate: Read a third time and passed",21,11,1,0,33
+1755785,1340748,2023-06-07,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1755794,1340842,2023-06-07,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1755797,1356173,2023-10-17,Senate,"Senate: Read a third time and passed",21,11,1,0,33
+1755799,1354467,2023-09-14,Senate,"Senate: Read a third time and passed",30,3,0,0,33
+1757619,1340880,2023-06-07,House,"Assembly: Read a third time and passed",62,34,0,0,96
+1757627,1340885,2023-06-07,House,"Assembly: Read a third time and passed",62,34,0,0,96
+1757664,1341180,2023-06-07,House,"Assembly: Read a third time and passed",83,13,2,0,98
+1757674,1341025,2023-06-07,House,"Assembly: Read a third time and passed",62,34,0,0,96
+1757693,1341132,2023-06-07,House,"Assembly: Read a third time and passed",63,33,0,0,96
+1757693,1344235,2023-06-14,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1757801,1341050,2023-06-07,House,"Assembly: Read a third time and passed",62,34,0,0,96
+1757810,1341079,2023-06-07,House,"Assembly: Read a third time and passed",63,33,0,0,96
+1757810,1344234,2023-06-14,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1760640,1354491,2023-09-14,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1760712,1356133,2023-10-17,Senate,"Senate: Read a third time and passed",31,1,1,0,33
+1760744,1357579,2023-11-14,Senate,"Senate: Decision of the Chair does not stand as the judgment of the Senate",14,19,0,0,33
+1760744,1357580,2023-11-14,Senate,"Senate: Senate Amendment 1 to Senate Amendment 2 rejected",18,15,0,0,33
+1760744,1357581,2023-11-14,Senate,"Senate: Senate Amendment 2 to Senate Amendment 2 rejected",19,14,0,0,33
+1760744,1357582,2023-11-14,Senate,"Senate: Senate Amendment 3 to Senate Amendment 2 rejected",17,16,0,0,33
+1760744,1357583,2023-11-14,Senate,"Senate: Senate Amendment 4 to Senate Amendment 2 rejected",19,14,0,0,33
+1760744,1357584,2023-11-14,Senate,"Senate: Senate Amendment 5 to Senate Amendment 2 rejected",19,14,0,0,33
+1760744,1357585,2023-11-14,Senate,"Senate: Senate Amendment 6 to Senate Amendment 2 rejected",19,14,0,0,33
+1760744,1357586,2023-11-14,Senate,"Senate: Senate Amendment 2 adopted",19,14,0,0,33
+1760744,1357587,2023-11-14,Senate,"Senate: Rules suspended to give bill its third reading",25,8,0,0,33
+1760744,1357588,2023-11-14,Senate,"Senate: Refused to refer to committee on Universities and Revenue",13,20,0,0,33
+1760744,1357589,2023-11-14,Senate,"Senate: Passed",21,11,1,0,33
+1760744,1357590,2023-11-14,House,"Assembly: Read a third time and concurred in",88,10,1,0,99
+1761076,1326549,2023-05-17,House,"Assembly: Refused to refer to committee on Local Government",34,57,7,0,98
+1761076,1326550,2023-05-17,House,"Assembly: Assembly Substitute Amendment 2 laid on table",57,34,7,0,98
+1761076,1326551,2023-05-17,House,"Assembly: Assembly Substitute Amendment 1 laid on table",57,34,7,0,98
+1761076,1327160,2023-05-17,House,"Assembly: Read a third time and passed",56,36,2,0,94
+1761076,1344073,2023-06-14,Senate,"Senate: Senate Amendment 1 to Senate Amendment 1 rejected",22,11,0,0,33
+1761076,1344074,2023-06-14,Senate,"Senate: Senate Amendment 2 to Senate Amendment 1 rejected",22,11,0,0,33
+1761076,1344075,2023-06-14,Senate,"Senate: Senate Amendment 3 to Senate Amendment 1 rejected",22,11,0,0,33
+1761076,1344076,2023-06-14,Senate,"Senate: Senate Amendment 1 adopted",21,12,0,0,33
+1761076,1344077,2023-06-14,Senate,"Senate: Read a third time and concurred in as amended",21,12,0,0,33
+1761076,1344078,2023-06-14,House,"Assembly: Assembly Amendment 1 to Senate Amendment 1 laid on table",60,34,4,0,98
+1761076,1344079,2023-06-14,House,"Assembly: Senate Amendment 1 concurred in as amended",68,26,2,0,96
+1761076,1344080,2023-06-14,Senate,"Senate: Assembly Amendment 2 to Senate Amendment 1 concurred in",29,4,0,0,33
+1761914,1383327,2024-02-13,House,"Assembly: Read a third time and concurred in",93,3,3,0,99
+1762204,1383371,2024-02-13,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1762292,1389509,2024-02-20,House,"Assembly: Read a third time and passed",99,0,0,0,99
+1764591,1356146,2023-10-17,Senate,"Senate: Read a third time and passed",31,1,1,0,33
+1765027,1344246,2023-06-14,Senate,"Senate: Read a third time and concurred in",32,1,0,0,33
+1767902,1354480,2023-09-14,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1767992,1357603,2023-11-14,Senate,"Senate: Senate Amendment 2 to Senate Substitute Amendment 2 rejected",21,10,2,0,33
+1767992,1357604,2023-11-14,Senate,"Senate: Passed",22,11,0,0,33
+1767992,1391688,2024-02-22,House,"Assembly: Assembly Substitute Amendment 2 laid on table",61,35,3,0,99
+1767992,1391689,2024-02-22,House,"Assembly: Assembly Substitute Amendment 1 laid on table",61,35,3,0,99
+1767992,1391690,2024-02-22,House,"Assembly: Read a third time and concurred in",62,35,2,0,99
+1767992,1442747,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",22,9,1,0,32
+1768617,1357325,2023-11-09,House,"Assembly: Read a third time and passed",95,2,2,0,99
+1770710,1388352,2024-02-20,Senate,"Senate: Read a third time and passed",30,2,0,0,32
+1770710,1391926,2024-02-22,House,"Assembly: Read a third time and concurred in",90,7,2,0,99
+1770777,1346346,2023-06-21,House,"Assembly: Assembly Amendment 3 laid on table",65,30,3,0,98
+1770777,1346347,2023-06-21,House,"Assembly: Read a third time and passed",90,4,4,0,98
+1771115,1344042,2023-06-14,Senate,"Senate: Senate Amendment 1 rejected",21,12,0,0,33
+1771115,1344043,2023-06-14,Senate,"Senate: Senate Amendment 3 rejected",22,11,0,0,33
+1771115,1344044,2023-06-14,Senate,"Senate: Senate Amendment 4 rejected",22,11,0,0,33
+1771115,1344045,2023-06-14,Senate,"Senate: Senate Amendment 5 rejected",23,10,0,0,33
+1771115,1344046,2023-06-14,Senate,"Senate: Senate Amendment 6 rejected",22,11,0,0,33
+1771115,1344047,2023-06-14,Senate,"Senate: Senate Amendment 7 rejected",22,11,0,0,33
+1771115,1344048,2023-06-14,Senate,"Senate: Senate Amendment 8 rejected",21,11,1,0,33
+1771115,1344049,2023-06-14,Senate,"Senate: Senate Amendment 9 rejected",22,11,0,0,33
+1771115,1344269,2023-06-14,Senate,"Senate: Read a third time and passed",24,9,0,0,33
+1771115,1344270,2023-06-14,House,"Assembly: Read a third time and concurred in",62,31,3,0,96
+1771239,1346105,2023-06-21,House,"Assembly: Refused to refer to committee on State Affairs",34,60,4,0,98
+1771239,1346106,2023-06-21,House,"Assembly: Read a third time and passed",67,27,2,0,96
+1771239,1348148,2023-06-28,Senate,"Senate: Read a third time and concurred in",25,7,1,0,33
+1771617,1346089,2023-06-21,House,"Assembly: Read a third time and passed",94,0,4,0,98
+1771617,1348052,2023-06-28,Senate,"Senate: Read a third time and concurred in",33,0,0,0,33
+1771631,1346043,2023-06-21,House,"Assembly: Read a third time and passed",94,0,4,0,98
+1771631,1348253,2023-06-28,Senate,"Senate: Read a third time and concurred in",33,0,0,0,33
+1771639,1346088,2023-06-21,House,"Assembly: Read a third time and passed",94,0,4,0,98
+1771639,1348234,2023-06-28,Senate,"Senate: Read a third time and concurred in",33,0,0,0,33
+1771645,1346094,2023-06-21,House,"Assembly: Read a third time and passed",91,2,5,0,98
+1771645,1348193,2023-06-28,Senate,"Senate: Read a third time and concurred in",33,0,0,0,33
+1771653,1346048,2023-06-21,House,"Assembly: Read a third time and passed",94,0,4,0,98
+1771653,1348263,2023-06-28,Senate,"Senate: Read a third time and concurred in",33,0,0,0,33
+1771699,1357066,2023-11-07,Senate,"Senate: Read a third time and adopted",21,10,2,0,33
+1771699,1391561,2024-02-22,House,"Assembly: Read a third time and concurred in",63,33,3,0,99
+1771703,1356165,2023-10-17,Senate,"Senate: Read a third time and passed",20,12,1,0,33
+1771705,1389052,2024-02-20,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1771705,1389053,2024-02-20,House,"Assembly: Read a third time and concurred in",63,35,1,0,99
+1772515,1356999,2023-11-07,Senate,"Senate: Senate Substitute Amendment 1 rejected",21,10,2,0,33
+1772515,1357000,2023-11-07,Senate,"Senate: Read a third time and passed",20,11,2,0,33
+1772518,1356132,2023-10-17,Senate,"Senate: Read a third time and passed",22,10,1,0,33
+1772525,1356156,2023-10-17,Senate,"Senate: Senate Amendment 2 rejected",22,10,1,0,33
+1772525,1356157,2023-10-17,Senate,"Senate: Read a third time and passed",24,8,1,0,33
+1772531,1356136,2023-10-17,Senate,"Senate: Read a third time and passed",22,10,1,0,33
+1772710,1366543,2024-01-18,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1773438,1348267,2023-06-28,Senate,"Senate: Move to call the question",22,11,0,0,33
+1773485,1383219,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1773485,1383220,2024-02-13,House,"Assembly: Read a third time and concurred in",94,2,3,0,99
+1774338,1383178,2024-02-13,Senate,"Senate: Refused to withdraw from committee on Health",10,22,0,0,32
+1774533,1366566,2024-01-18,House,"Assembly: Read a third time and passed",96,1,2,0,99
+1774533,1383305,2024-02-13,Senate,"Senate: Read a third time and concurred in",30,2,0,0,32
+1774917,1383075,2024-02-13,Senate,"Senate: Read a third time and passed",23,9,0,0,32
+1774926,1356117,2023-10-17,Senate,"Senate: Read a third time and passed",30,2,1,0,33
+1775393,1356134,2023-10-17,House,"Assembly: Read a third time and passed",97,0,2,0,99
+1775393,1356135,2023-10-17,Senate,"Senate: Read a third time and concurred in",32,0,1,0,33
+1775398,1357040,2023-11-07,House,"Assembly: Read a third time and passed",63,34,2,0,99
+1776107,1354471,2023-09-14,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1776107,1357352,2023-11-09,House,"Assembly: Read a third time and concurred in as amended",97,0,2,0,99
+1776111,1383795,2024-02-13,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1776111,1393017,2024-02-22,House,"Assembly: Read a third time and concurred in as amended",89,8,2,0,99
+1776153,1355926,2023-10-12,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1776153,1407787,2024-03-12,Senate,"Senate: Read a third time and concurred in",21,11,0,0,32
+1776154,1355945,2023-10-12,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1776976,1364440,2024-01-16,Senate,"Senate: Read a third time and passed",30,2,1,0,33
+1776976,1389436,2024-02-20,House,"Assembly: Read a third time and concurred in",92,6,1,0,99
+1776978,1356170,2023-10-17,Senate,"Senate: Read a third time and passed",31,1,1,0,33
+1777091,1353970,2023-09-12,House,"Assembly: Read a third time and adopted",63,35,1,0,99
+1777093,1353704,2023-09-12,House,"Assembly: Decision of the Chair upheld",64,35,0,0,99
+1777093,1354055,2023-09-12,House,"Assembly: Read a third time and passed",64,35,0,0,99
+1777093,1364438,2024-01-16,Senate,"Senate: Read a third time and concurred in",22,10,1,0,33
+1777173,1354483,2023-09-14,House,"Assembly: Assembly Amendment 2 to Assembly Substitute Amendment 1 laid on table",62,35,2,0,99
+1777173,1354484,2023-09-14,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1777173,1383414,2024-02-13,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1777180,1354501,2023-09-14,House,"Assembly: Read a third time and passed",62,36,1,0,99
+1777187,1354492,2023-09-14,House,"Assembly: Read a third time and passed",61,36,2,0,99
+1777194,1354468,2023-09-14,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1777194,1354469,2023-09-14,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1777198,1354474,2023-09-14,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1777202,1354481,2023-09-14,House,"Assembly: Assembly Substitute Amendment 1 laid on table",61,35,3,0,99
+1777202,1354482,2023-09-14,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1777269,1357053,2023-11-07,Senate,"Senate: Read a third time and concurred in",29,2,2,0,33
+1777270,1391565,2024-02-22,House,"Assembly: Assembly Substitute Amendment 1 laid on table",63,35,1,0,99
+1777270,1391566,2024-02-22,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1777270,1407920,2024-03-12,Senate,"Senate: Senate Amendment 1 rejected",22,10,0,0,32
+1777270,1407921,2024-03-12,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1777347,1356141,2023-10-17,House,"Assembly: Read a third time and passed",97,0,2,0,99
+1777347,1356142,2023-10-17,Senate,"Senate: Senate Amendment 1 rejected",22,10,1,0,33
+1777347,1356143,2023-10-17,Senate,"Senate: Read a third time and concurred in",32,0,1,0,33
+1777356,1357353,2023-11-09,House,"Assembly: Refused to refer to committee on Campaigns and Elections",34,63,2,0,99
+1777356,1357645,2023-11-14,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1777367,1389285,2024-02-20,House,"Assembly: Decision of the Chair upheld",63,35,1,0,99
+1777465,1357562,2023-11-14,Senate,"Senate: Read a third time and passed",20,13,0,0,33
+1777483,1357642,2023-11-14,Senate,"Senate: Read a third time and passed",27,6,0,0,33
+1777492,1383401,2024-02-13,Senate,"Senate: Read a third time and passed",31,1,0,0,32
+1777627,1354475,2023-09-14,House,"Assembly: Refused to refer to committee on Campaigns and Elections",35,63,1,0,99
+1777627,1354493,2023-09-14,House,"Assembly: Assembly Amendment 1 adopted",63,35,1,0,99
+1777627,1354494,2023-09-14,House,"Assembly: Assembly Amendment 2 adopted",64,34,1,0,99
+1777627,1354495,2023-09-14,House,"Assembly: Assembly Amendment 3 adopted",64,34,1,0,99
+1777627,1354496,2023-09-14,House,"Assembly: Assembly Amendment 4 adopted",66,32,1,0,99
+1777627,1354497,2023-09-14,House,"Assembly: Assembly Amendment 5 adopted",66,32,1,0,99
+1777627,1354498,2023-09-14,House,"Assembly: Assembly Amendment 6 adopted",66,32,1,0,99
+1777627,1354499,2023-09-14,House,"Assembly: Assembly Amendment 7 adopted",66,32,1,0,99
+1777627,1354500,2023-09-14,House,"Assembly: Read a third time and passed",64,32,3,0,99
+1777627,1367764,2024-01-23,Senate,"Senate: Senate Substitute Amendment 1 adopted",18,13,2,0,33
+1777627,1367765,2024-01-23,Senate,"Senate: Read a third time and concurred in",17,14,2,0,33
+1777627,1368291,2024-01-24,House,"Assembly: Senate Substitute Amendment 1 concurred in",63,35,1,0,99
+1777905,1354465,2023-09-14,Senate,"Senate: Adopted",22,11,0,0,33
+1778238,1355939,2023-10-12,House,"Assembly: Adopted",98,0,1,0,99
+1778350,1357523,2023-11-14,Senate,"Senate: Read a third time and passed",32,1,0,0,33
+1778365,1356129,2023-10-17,Senate,"Senate: Read a third time and passed",21,11,1,0,33
+1778365,1383236,2024-02-13,House,"Assembly: Read a third time and concurred in",62,34,3,0,99
+1779020,1356112,2023-10-17,House,"Assembly: Read a third time and passed",69,27,3,0,99
+1779020,1357494,2023-11-14,Senate,"Senate: Senate Substitute Amendment 1 adopted",25,8,0,0,33
+1779020,1357495,2023-11-14,Senate,"Senate: Rules suspended to give bill its third reading",26,7,0,0,33
+1779020,1357496,2023-11-14,Senate,"Senate: Refused to suspend the rules to return to the amendable stage",15,18,0,0,33
+1779020,1357497,2023-11-14,Senate,"Senate: Concurred in as amended",19,14,0,0,33
+1779020,1357498,2023-11-14,Senate,"Senate: Ordered immediately messaged",26,7,0,0,33
+1779020,1357639,2023-11-14,House,"Assembly: Senate Substitute Amendment 1 concurred in",72,26,1,0,99
+1779047,1356140,2023-10-17,House,"Assembly: Read a third time and passed",69,27,3,0,99
+1779047,1357490,2023-11-14,Senate,"Senate: Senate Substitute Amendment 1 rejected",30,3,0,0,33
+1779047,1357625,2023-11-14,Senate,"Senate: Senate Amendment 3 rejected",22,10,1,0,33
+1779047,1357626,2023-11-14,Senate,"Senate: Rules suspended to give bill its third reading",25,7,1,0,33
+1779047,1357627,2023-11-14,Senate,"Senate: Read a third time and concurred in as amended",19,14,0,0,33
+1779047,1357628,2023-11-14,Senate,"Senate: Ordered immediately messaged",26,7,0,0,33
+1779047,1357629,2023-11-14,House,"Assembly: Senate Amendment 1 concurred in",72,26,1,0,99
+1779047,1357630,2023-11-14,House,"Assembly: Senate Amendment 2 concurred in",72,26,1,0,99
+1779222,1355935,2023-10-12,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1779222,1356171,2023-10-17,Senate,"Senate: Read a third time and concurred in",22,10,1,0,33
+1779224,1357045,2023-11-07,Senate,"Senate: Read a third time and adopted",21,10,2,0,33
+1779224,1357312,2023-11-09,House,"Assembly: Read a third time and concurred in",62,35,2,0,99
+1779225,1364736,2024-01-16,Senate,"Senate: Read a third time and passed",23,9,1,0,33
+1779234,1364505,2024-01-16,Senate,"Senate: Read a third time and passed",22,10,1,0,33
+1779234,1366707,2024-01-18,House,"Assembly: Read a third time and concurred in",62,35,2,0,99
+1779240,1385631,2024-02-15,House,"Assembly: Read a third time and concurred in as amended",97,0,2,0,99
+1779244,1357063,2023-11-07,Senate,"Senate: Read a third time and adopted",21,10,2,0,33
+1779244,1357329,2023-11-09,House,"Assembly: Read a third time and concurred in",60,34,5,0,99
+1779246,1364769,2024-01-16,Senate,"Senate: Read a third time and passed",23,9,1,0,33
+1779917,1383364,2024-02-13,Senate,"Senate: Refused to refer to committee on Shared Revenue, Elections and Consumer Protection",10,22,0,0,32
+1779917,1383365,2024-02-13,Senate,"Senate: Senate Substitute Amendment 1 adopted",18,14,0,0,32
+1779917,1383366,2024-02-13,Senate,"Senate: Read a third time and passed",18,14,0,0,32
+1779917,1383367,2024-02-13,House,"Assembly: Read a third time and concurred in",63,33,3,0,99
+1779927,1364432,2024-01-16,Senate,"Senate: Read a third time and passed",25,7,1,0,33
+1780127,1369034,2024-01-25,House,"Assembly: Read a third time and passed",64,35,0,0,99
+1780127,1383201,2024-02-13,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1780129,1355919,2023-10-12,House,"Assembly: Adopted",95,0,4,0,99
+1780129,1356172,2023-10-17,Senate,"Senate: Concurred in",32,0,1,0,33
+1780132,1389002,2024-02-20,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1780437,1357351,2023-11-09,House,"Assembly: Read a third time and passed",52,45,2,0,99
+1780579,1357643,2023-11-14,Senate,"Senate: Read a third time and concurred in",22,11,0,0,33
+1780588,1383373,2024-02-13,Senate,"Senate: Read a third time and passed",27,5,0,0,32
+1780588,1388637,2024-02-20,House,"Assembly: Read a third time and concurred in",96,2,1,0,99
+1780606,1383317,2024-02-13,Senate,"Senate: Read a third time and passed",21,10,1,0,32
+1780606,1442818,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",21,10,1,0,32
+1780645,1356982,2023-11-07,Senate,"Senate: Read a third time and adopted",21,10,2,0,33
+1780645,1357344,2023-11-09,House,"Assembly: Read a third time and concurred in",60,35,4,0,99
+1780884,1364487,2024-01-16,Senate,"Senate: Read a third time and concurred in",25,7,1,0,33
+1780951,1365591,2024-01-16,Senate,"Senate: Read a third time and concurred in",22,10,1,0,33
+1781023,1366637,2024-01-18,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1781023,1382870,2024-02-13,Senate,"Senate: Senate Substitute Amendment 1 rejected",22,10,0,0,32
+1781023,1382871,2024-02-13,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1781051,1364566,2024-01-16,Senate,"Senate: Read a third time and concurred in",21,11,1,0,33
+1781295,1357122,2023-11-07,House,"Assembly: Read a third time and passed",98,0,1,0,99
+1781327,1357035,2023-11-07,House,"Assembly: Read a third time and passed",98,0,1,0,99
+1781338,1357349,2023-11-09,House,"Assembly: Read a third time and passed",53,44,2,0,99
+1781349,1357006,2023-11-07,House,"Assembly: Read a third time and passed",91,7,1,0,99
+1781356,1357564,2023-11-14,Senate,"Senate: Read a third time and passed",23,10,0,0,33
+1781359,1383703,2024-02-13,Senate,"Senate: Read a third time and passed",23,9,0,0,32
+1781362,1357099,2023-11-07,Senate,"Senate: Refused to withdraw from committee on Shared Revenue, Elections and Consumer Protection",10,21,2,0,33
+1781377,1357101,2023-11-07,Senate,"Senate: Read a third time and passed",31,0,2,0,33
+1781377,1357102,2023-11-07,House,"Assembly: Read a third time and concurred in",98,0,1,0,99
+1781383,1357049,2023-11-07,House,"Assembly: Read a third time and passed",62,36,1,0,99
+1781393,1364384,2024-01-16,Senate,"Senate: Read a third time and passed",21,11,1,0,33
+1781397,1364446,2024-01-16,Senate,"Senate: Read a third time and passed",31,1,1,0,33
+1781397,1385894,2024-02-15,House,"Assembly: Read a third time and concurred in",94,3,2,0,99
+1781400,1357060,2023-11-07,Senate,"Senate: Read a third time and passed",31,0,2,0,33
+1781400,1357061,2023-11-07,House,"Assembly: Read a third time and concurred in",95,3,1,0,99
+1781404,1383393,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1781512,1357043,2023-11-07,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1781782,1388888,2024-02-20,Senate,"Senate: Read a third time and concurred in",29,3,0,0,32
+1781854,1383296,2024-02-13,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1781855,1364369,2024-01-16,Senate,"Senate: Read a third time and concurred in",20,11,2,0,33
+1782006,1388956,2024-02-20,Senate,"Senate: Read a third time and concurred in as amended",31,1,0,0,32
+1782043,1407876,2024-03-12,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1782044,1389316,2024-02-20,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1782065,1357093,2023-11-07,Senate,"Senate: Adopted",31,0,2,0,33
+1782065,1357094,2023-11-07,House,"Assembly: Concurred in",95,4,0,0,99
+1782108,1357565,2023-11-14,House,"Assembly: Assembly Amendment 1 laid on table",63,35,1,0,99
+1782241,1391941,2024-02-22,House,"Assembly: Decision of the Chair upheld",62,35,2,0,99
+1782241,1407724,2024-03-12,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",22,10,0,0,32
+1782241,1407725,2024-03-12,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1782912,1383705,2024-02-13,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1782918,1364481,2024-01-16,Senate,"Senate: Read a third time and passed",31,1,1,0,33
+1782918,1391759,2024-02-22,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1782941,1388448,2024-02-20,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1782947,1389487,2024-02-20,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1782947,1389488,2024-02-20,House,"Assembly: Read a third time and concurred in",98,0,1,0,99
+1782951,1383671,2024-02-13,Senate,"Senate: Read a third time and passed",30,2,0,0,32
+1782951,1391963,2024-02-22,House,"Assembly: Read a third time and concurred in as amended",97,0,2,0,99
+1782951,1407737,2024-03-12,Senate,"Senate: Assembly Amendment 1 concurred in",27,5,0,0,32
+1783220,1391694,2024-02-22,House,"Assembly: Decision of the Chair upheld",62,35,2,0,99
+1783233,1408335,2024-03-12,Senate,"Senate: Read a third time and concurred in",26,6,0,0,32
+1783256,1389458,2024-02-20,House,"Assembly: Read a third time and passed",63,35,1,0,99
+1784071,1388378,2024-02-20,Senate,"Senate: Read a third time and passed",20,12,0,0,32
+1784071,1389560,2024-02-20,House,"Assembly: Decision of the Chair upheld",64,35,0,0,99
+1784073,1388390,2024-02-20,Senate,"Senate: Read a third time and passed",23,9,0,0,32
+1784680,1383008,2024-02-13,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1784680,1389588,2024-02-20,House,"Assembly: Decision of the Chair upheld",64,35,0,0,99
+1784680,1442796,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",22,9,1,0,32
+1784683,1389077,2024-02-20,Senate,"Senate: Refused to withdraw from committee on Health",10,22,0,0,32
+1784686,1385410,2024-02-15,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1784910,1407742,2024-03-12,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1784933,1389585,2024-02-20,House,"Assembly: Decision of the Chair upheld",63,35,1,0,99
+1784933,1389586,2024-02-20,House,"Assembly: Read a third time and passed",60,39,0,0,99
+1789689,1388527,2024-02-20,Senate,"Senate: Read a third time and concurred in",32,0,0,0,32
+1791172,1366049,2024-01-16,Senate,"Senate: Read a third time and passed",30,2,1,0,33
+1791172,1392925,2024-02-22,House,"Assembly: Read a third time and concurred in as amended",94,2,3,0,99
+1791174,1364447,2024-01-16,Senate,"Senate: Read a third time and passed",22,10,1,0,33
+1791174,1385855,2024-02-15,House,"Assembly: Read a third time and concurred in as amended",94,3,2,0,99
+1791181,1382768,2024-02-13,Senate,"Senate: Read a third time and passed",23,9,0,0,32
+1791187,1383048,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1791187,1389633,2024-02-20,House,"Assembly: Read a third time and concurred in",99,0,0,0,99
+1791197,1364407,2024-01-16,Senate,"Senate: Read a third time and passed",30,2,1,0,33
+1791197,1393012,2024-02-22,House,"Assembly: Read a third time and concurred in",95,1,3,0,99
+1791199,1389504,2024-02-20,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1791200,1389514,2024-02-20,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1791210,1382935,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1791210,1389642,2024-02-20,House,"Assembly: Read a third time and concurred in",98,1,0,0,99
+1791233,1388513,2024-02-20,Senate,"Senate: Read a third time and passed",31,1,0,0,32
+1791247,1382705,2024-02-13,Senate,"Senate: Read a third time and passed",31,0,1,0,32
+1791268,1392482,2024-02-22,House,"Assembly: Assembly Substitute Amendment 1 laid on table",62,35,2,0,99
+1791268,1392483,2024-02-22,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1791307,1384227,2024-02-13,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1791307,1407689,2024-03-12,Senate,"Senate: Read a third time and concurred in",32,0,0,0,32
+1791635,1388410,2024-02-20,Senate,"Senate: Read a third time and passed",24,8,0,0,32
+1791651,1393009,2024-02-22,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1793824,1383690,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1793824,1390037,2024-02-20,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1793831,1389513,2024-02-20,Senate,"Senate: Read a third time and passed",28,4,0,0,32
+1793831,1392884,2024-02-22,House,"Assembly: Read a third time and concurred in as amended",97,0,2,0,99
+1793831,1407759,2024-03-12,Senate,"Senate: Assembly Amendment 1 concurred in",31,1,0,0,32
+1793842,1383719,2024-02-13,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1794604,1364519,2024-01-16,Senate,"Senate: Read a third time and passed",32,0,1,0,33
+1794604,1364520,2024-01-16,House,"Assembly: Read a third time and concurred in",96,1,2,0,99
+1794619,1364509,2024-01-16,Senate,"Senate: Read a third time and passed",32,0,1,0,33
+1794619,1364510,2024-01-16,House,"Assembly: Read a third time and concurred in",96,1,2,0,99
+1794622,1389484,2024-02-20,Senate,"Senate: Senate Amendment 1 to Senate Substitute Amendment 1 adopted",31,1,0,0,32
+1794622,1389485,2024-02-20,Senate,"Senate: Read a third time and passed",31,1,0,0,32
+1794963,1382841,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1797256,1407745,2024-03-12,Senate,"Senate: Read a third time and concurred in",30,2,0,0,32
+1797333,1389193,2024-02-20,House,"Assembly: Decision of the Chair upheld",64,35,0,0,99
+1797402,1389506,2024-02-20,House,"Assembly: Read a third time and passed",64,35,0,0,99
+1798764,1382932,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1798764,1390185,2024-02-20,House,"Assembly: Read a third time and concurred in",98,0,1,0,99
+1798777,1383011,2024-02-13,Senate,"Senate: Read a third time and passed",24,8,0,0,32
+1798895,1383028,2024-02-13,Senate,"Senate: Read a third time and passed",31,1,0,0,32
+1798895,1383029,2024-02-13,House,"Assembly: Read a third time and concurred in",96,0,3,0,99
+1798895,1383921,2024-02-13,House,"Assembly: Read a third time and concurred in",96,0,3,0,99
+1808207,1389566,2024-02-20,Senate,"Senate: Read a third time and passed",31,1,0,0,32
+1808207,1392750,2024-02-22,House,"Assembly: Read a third time and concurred in",95,2,2,0,99
+1808497,1389594,2024-02-20,Senate,"Senate: Read a third time and passed",31,1,0,0,32
+1808497,1392707,2024-02-22,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1811471,1383095,2024-02-13,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1811471,1389930,2024-02-20,House,"Assembly: Read a third time and concurred in",98,0,1,0,99
+1811588,1388478,2024-02-20,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1811588,1392870,2024-02-22,House,"Assembly: Read a third time and concurred in",62,35,2,0,99
+1812795,1407736,2024-03-12,Senate,"Senate: Read a third time and concurred in",32,0,0,0,32
+1812831,1392880,2024-02-22,House,"Assembly: Read a third time and passed",97,0,2,0,99
+1812831,1407738,2024-03-12,Senate,"Senate: Read a third time and concurred in",32,0,0,0,32
+1813987,1407722,2024-03-12,Senate,"Senate: Read a third time and concurred in",29,3,0,0,32
+1814139,1382898,2024-02-13,Senate,"Senate: Read a third time and passed",23,9,0,0,32
+1814139,1389907,2024-02-20,House,"Assembly: Decision of the Chair upheld",63,35,1,0,99
+1814139,1442790,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",22,9,1,0,32
+1817856,1391974,2024-02-22,House,"Assembly: Read a third time and passed",90,7,2,0,99
+1818912,1385460,2024-02-15,House,"Assembly: Read a third time and passed",61,35,3,0,99
+1822000,1369083,2024-01-25,House,"Assembly: Adopted",67,31,1,0,99
+1822000,1383420,2024-02-13,Senate,"Senate: Concurred in",22,10,0,0,32
+1822036,1369064,2024-01-25,House,"Assembly: Decision of the Chair upheld",90,9,0,0,99
+1822036,1369065,2024-01-25,House,"Assembly: Decision of the Chair upheld",92,7,0,0,99
+1822036,1369066,2024-01-25,House,"Assembly: Decision of the Chair upheld",91,8,0,0,99
+1822036,1369067,2024-01-25,House,"Assembly: Decision of the Chair upheld",92,7,0,0,99
+1822036,1369068,2024-01-25,House,"Assembly: Decision of the Chair upheld",92,7,0,0,99
+1822036,1369442,2024-01-25,House,"Assembly: Read a third time and passed",53,46,0,0,99
+1822072,1386217,2024-02-15,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1822508,1442764,2024-05-14,Senate,"Senate: Move to call the question",22,9,1,0,32
+1822508,1442765,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",21,10,1,0,32
+1822516,1389579,2024-02-20,Senate,"Senate: Read a third time and passed",21,11,0,0,32
+1822516,1392894,2024-02-22,House,"Assembly: Decision of the Chair upheld",62,35,2,0,99
+1822516,1392895,2024-02-22,House,"Assembly: Decision of the Chair upheld",62,35,2,0,99
+1827221,1389508,2024-02-20,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1828725,1385372,2024-02-15,House,"Assembly: Read a third time and adopted",62,35,2,0,99
+1828725,1407691,2024-03-12,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1828818,1390205,2024-02-20,House,"Assembly: Read a third time and passed",96,2,1,0,99
+1828958,1390768,2024-02-20,House,"Assembly: Read a third time and passed",96,2,1,0,99
+1830341,1383909,2024-02-13,House,"Assembly: Read a third time and passed",62,34,3,0,99
+1830341,1389631,2024-02-20,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1830382,1389832,2024-02-20,House,"Assembly: Decision of the Chair upheld",63,35,1,0,99
+1830420,1390271,2024-02-20,House,"Assembly: Read a third time and passed",98,0,1,0,99
+1830504,1383588,2024-02-13,House,"Assembly: Decision of the Chair upheld",62,34,3,0,99
+1830504,1383589,2024-02-13,House,"Assembly: Read a third time and passed",62,34,3,0,99
+1830504,1389402,2024-02-20,Senate,"Senate: Senate Substitute Amendment 1 rejected",22,10,0,0,32
+1830504,1389403,2024-02-20,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1830543,1383935,2024-02-13,House,"Assembly: Read a third time and passed",92,4,3,0,99
+1830543,1389478,2024-02-20,Senate,"Senate: Senate Amendment 1 rejected",22,10,0,0,32
+1830543,1389479,2024-02-20,Senate,"Senate: Read a third time and concurred in",29,3,0,0,32
+1830583,1383874,2024-02-13,House,"Assembly: Read a third time and passed",64,32,3,0,99
+1830583,1389628,2024-02-20,Senate,"Senate: Senate Amendment 1 rejected",22,10,0,0,32
+1830583,1389629,2024-02-20,Senate,"Senate: Read a third time and concurred in",23,9,0,0,32
+1834659,1392888,2024-02-22,House,"Assembly: Read a third time and passed",97,0,2,0,99
+1836221,1408328,2024-03-12,Senate,"Senate: Read a third time and concurred in",22,10,0,0,32
+1836361,1389356,2024-02-20,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1836374,1392699,2024-02-22,House,"Assembly: Read a third time and passed",95,2,2,0,99
+1836374,1407783,2024-03-12,Senate,"Senate: Read a third time and concurred in",30,2,0,0,32
+1836777,1388570,2024-02-20,House,"Assembly: Read a third time and passed",64,34,1,0,99
+1836777,1407674,2024-03-12,Senate,"Senate: Read a third time and passed",22,10,0,0,32
+1840247,1388529,2024-02-20,Senate,"Senate: Read a third time and passed",32,0,0,0,32
+1841008,1392943,2024-02-22,House,"Assembly: Read a third time and passed",96,1,2,0,99
+1841008,1407741,2024-03-12,Senate,"Senate: Read a third time and concurred in",31,1,0,0,32
+1842579,1389595,2024-02-20,Senate,"Senate: Senate Amendment 1 to Senate Substitute Amendment 1 rejected",19,12,1,0,32
+1842579,1389596,2024-02-20,Senate,"Senate: Refused to refer to committee on Health",10,22,0,0,32
+1842579,1389597,2024-02-20,Senate,"Senate: Read a third time and passed",20,12,0,0,32
+1842579,1392838,2024-02-22,House,"Assembly: Assembly Substitute Amendment 1 laid on table",62,35,2,0,99
+1842579,1392839,2024-02-22,House,"Assembly: Read a third time and concurred in",63,34,2,0,99
+1842579,1442801,2024-05-14,Senate,"Senate: Passed notwithstanding the objections of the Governor",22,9,1,0,32
+1842808,1389523,2024-02-20,Senate,"Senate: Read a third time and passed",30,2,0,0,32
+1842808,1392899,2024-02-22,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1845350,1392928,2024-02-22,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1845506,1392986,2024-02-22,House,"Assembly: Read a third time and passed",62,35,2,0,99
+1845506,1407740,2024-03-12,Senate,"Senate: Read a third time and concurred in",25,7,0,0,32
+1846059,1389622,2024-02-20,Senate,"Senate: Senate Substitute Amendment 1 rejected",22,10,0,0,32
+1846059,1389623,2024-02-20,Senate,"Senate: Adopted",21,11,0,0,32
+1846059,1390002,2024-02-20,House,"Assembly: Concurred in",63,35,1,0,99

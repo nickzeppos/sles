@@ -1,0 +1,26 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1627902,2603036,text,259935,application/pdf,Draft,https://legiscan.com/AR/text/HB1001/id/2603036,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1001/HB1001080820221248.pdf
+1627923,2603058,text,390619,application/pdf,Draft,https://legiscan.com/AR/text/HB1002/id/2603058,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1002/HB1002080820221500.pdf
+1627923,2603752,text,389909,application/pdf,Chaptered,https://legiscan.com/AR/text/HB1002/id/2603752,https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2022S3%2FPublic%2F&file=1.pdf&ddBienniumSession=2021%2F2022S3
+1627989,2603169,text,231909,application/pdf,Draft,https://legiscan.com/AR/text/HB1003/id/2603169,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1003/HB1003080920221124.pdf
+1628022,2603281,text,387741,application/pdf,Draft,https://legiscan.com/AR/text/HB1004/id/2603281,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1004/HB1004081020220959.pdf
+1628025,2603291,text,241181,application/pdf,Draft,https://legiscan.com/AR/text/HB1005/id/2603291,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1005/HB1005081020221320.pdf
+1628029,2603294,text,261520,application/pdf,Draft,https://legiscan.com/AR/text/HB1006/id/2603294,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1006/HB1006081020221324.pdf
+1628035,2603311,text,230693,application/pdf,Draft,https://legiscan.com/AR/text/HB1007/id/2603311,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HB1007/HB1007081020221726.pdf
+1627907,2603056,text,214356,application/pdf,Draft,https://legiscan.com/AR/text/HR1001/id/2603056,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HR1001/HR1001080820221639.pdf
+1627969,2603062,text,221207,application/pdf,Draft,https://legiscan.com/AR/text/HR1002/id/2603062,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HR1002/HR1002080820221512.pdf
+1628031,2603296,text,220927,application/pdf,Draft,https://legiscan.com/AR/text/HR1003/id/2603296,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HR1003/HR1003081020221404.pdf
+1628034,2603310,text,221652,application/pdf,Draft,https://legiscan.com/AR/text/HR1004/id/2603310,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/HR1004/HR1004081020221635.pdf
+1627937,2603059,text,387546,application/pdf,Draft,https://legiscan.com/AR/text/SB1/id/2603059,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SB1/SB1080820221513.pdf
+1627937,2603897,text,390228,application/pdf,Chaptered,https://legiscan.com/AR/text/SB1/id/2603897,https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2022S3%2FPublic%2F&file=2.pdf&ddBienniumSession=2021%2F2022S3
+1627953,2603060,text,245232,application/pdf,Draft,https://legiscan.com/AR/text/SB2/id/2603060,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SB2/SB2080820221600.pdf
+1627953,2603898,text,246078,application/pdf,Chaptered,https://legiscan.com/AR/text/SB2/id/2603898,https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2022S3%2FPublic%2F&file=3.pdf&ddBienniumSession=2021%2F2022S3
+1628030,2603295,text,260692,application/pdf,Draft,https://legiscan.com/AR/text/SB3/id/2603295,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SB3/SB3081020221425.pdf
+1628027,2603293,text,241936,application/pdf,Draft,https://legiscan.com/AR/text/SB4/id/2603293,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SB4/SB4081020221425.pdf
+1628036,2603312,text,226174,application/pdf,Draft,https://legiscan.com/AR/text/SB5/id/2603312,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SB5/SB5081020221817.pdf
+1628026,2603292,text,216732,application/pdf,Draft,https://legiscan.com/AR/text/SR1/id/2603292,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SR1/SR1081020221212.pdf
+1628032,2603297,text,214099,application/pdf,Draft,https://legiscan.com/AR/text/SR2/id/2603297,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SR2/SR2081020221423.pdf
+1628033,2603308,text,213839,application/pdf,Draft,https://legiscan.com/AR/text/SR3/id/2603308,ftp://www.arkleg.state.ar.us/bills/2022S3/Public/SR3/SR3081020221633.pdf
+1627923,284558,supplement,32068,application/pdf,"DFA Fiscal Impact #DFA1",https://legiscan.com/AR/supplement/HB1002/id/284558,ftp://www.arkleg.state.ar.us/FiscalImpact/2022S3/Public/HB1002-DFA1.pdf
+1627969,284522,supplement,32068,application/pdf,"DFA Fiscal Impact #DFA1",https://legiscan.com/AR/supplement/HR1002/id/284522,ftp://www.arkleg.state.ar.us/FiscalImpact/2022S3/Public/HR1002-DFA1.pdf
+1627937,284517,supplement,32094,application/pdf,"DFA Fiscal Impact #DFA1",https://legiscan.com/AR/supplement/SB1/id/284517,ftp://www.arkleg.state.ar.us/FiscalImpact/2022S3/Public/SB1-DFA1.pdf

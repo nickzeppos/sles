@@ -1,0 +1,5 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1520638,1105682,2021-08-05,Senate,"Third Reading",29,6,0,0,35
+1520638,1105715,2021-08-06,House,"Third Reading",73,18,9,0,100
+1520696,1105683,2021-08-05,House,"Third Reading",74,17,9,0,100
+1520696,1105716,2021-08-06,Senate,"Third Reading",29,6,0,0,35

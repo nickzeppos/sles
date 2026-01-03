@@ -1,0 +1,33 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1536809,1116969,2021-12-08,Senate,"Third Reading",34,0,0,0,34
+1536809,1117171,2021-12-09,House,"Third Reading",92,0,8,0,100
+1536810,1116973,2021-12-08,House,"Third Reading",96,1,3,0,100
+1536810,1117099,2021-12-09,Senate,"Third Reading",19,13,1,1,34
+1536810,1117254,2021-12-09,Senate,"EMERGENCY CLAUSE ADOPTED",24,9,0,1,34
+1536811,1116975,2021-12-08,Senate,"Third Reading",34,0,0,0,34
+1536811,1117098,2021-12-09,House,"Third Reading",95,0,5,0,100
+1536812,1116966,2021-12-08,House,"Third Reading",99,0,1,0,100
+1536812,1117096,2021-12-09,Senate,"Third Reading",33,0,0,1,34
+1536813,1116982,2021-12-08,House,"Third Reading",82,16,2,0,100
+1536813,1117113,2021-12-09,Senate,"Third Reading",29,4,0,1,34
+1536815,1117016,2021-12-08,House,"Third Reading",93,3,4,0,100
+1536815,1117168,2021-12-09,Senate,"Third Reading",33,0,0,1,34
+1536816,1117017,2021-12-08,Senate,"Third Reading",34,0,0,0,34
+1536816,1117117,2021-12-09,House,"Third Reading",87,3,10,0,100
+1536817,1117105,2021-12-09,House,"READ AND ADOPTED.",61,32,7,0,100
+1536818,1116985,2021-12-08,Senate,"Third Reading",33,0,1,0,34
+1536818,1117116,2021-12-09,House,"Third Reading",93,0,7,0,100
+1536819,1116986,2021-12-08,House,"Third Reading",99,0,1,0,100
+1536819,1117102,2021-12-09,Senate,"Third Reading",32,0,1,1,34
+1536820,1116968,2021-12-08,Senate,"Third Reading",30,4,0,0,34
+1536820,1117103,2021-12-09,House,"Third Reading",80,14,6,0,100
+1537153,1116964,2021-12-08,Senate,"Third Reading",34,0,0,0,34
+1537153,1117097,2021-12-09,House,"Third Reading",96,0,4,0,100
+1537176,1116976,2021-12-08,House,"Third Reading",99,0,1,0,100
+1537176,1117169,2021-12-09,Senate,"Third Reading",33,0,0,1,34
+1537212,1116896,2021-12-07,Senate,"The ruling of the Chair was overturned. SB8 is ruled not germane to the call.",23,9,0,0,32
+1537224,1116878,2021-12-07,Senate,"The ruling of the Chair was overturned. SB9 is ruled not germane to the call.",21,11,0,0,32
+1537233,1116980,2021-12-08,Senate,"Third Reading",34,0,0,0,34
+1537233,1117100,2021-12-09,House,"Third Reading",91,4,5,0,100
+1537247,1116987,2021-12-08,House,"Third Reading",94,4,2,0,100
+1537247,1117095,2021-12-09,Senate,"Third Reading",33,0,0,1,34

@@ -1,0 +1,96 @@
+bill_id,date,chamber,sequence,action
+1520638,2021-08-03,Senate,1,Filed
+1520638,2021-08-04,Senate,2,"Read first time, rules suspended, read second time, referred to PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+1520638,2021-08-04,Senate,3,"Returned by the Committee, with the recommendation that it Do Pass"
+1520638,2021-08-05,Senate,4,"Read the third time and passed."
+1520638,2021-08-05,Senate,5,"EMERGENCY CLAUSE ADOPTED"
+1520638,2021-08-05,Senate,6,"Ordered immediately transmitted to the House."
+1520638,2021-08-05,House,7,"RECEIVED FROM THE SENATE"
+1520638,2021-08-05,House,8,"Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+1520638,2021-08-05,House,9,"Returned by the Committee Do Pass"
+1520638,2021-08-06,House,10,"Read the third time and passed and ordered transmitted to the Senate."
+1520638,2021-08-06,House,11,"EMERGENCY CLAUSE ADOPTED"
+1520638,2021-08-06,House,12,"Returned To the Senate as passed."
+1520638,2021-08-06,Senate,13,"Returned from the House as passed."
+1520638,2021-08-06,Senate,14,"ORDERED ENROLLED"
+1520638,2021-08-06,Senate,15,"Reported correctly enrolled and ordered delivered to the Governor."
+1520638,2021-08-06,Senate,16,"DELIVERED TO GOVERNOR."
+1520638,2021-08-06,Senate,17,"Notification that SB1 is now Act 2"
+1520696,2021-08-04,House,1,Filed
+1520696,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+1520696,2021-08-04,House,3,"Returned by the Committee Do Pass"
+1520696,2021-08-05,House,4,"Read the third time and passed and ordered transmitted to the Senate."
+1520696,2021-08-05,House,5,"EMERGENCY CLAUSE ADOPTED"
+1520696,2021-08-05,Senate,6,"Received from the House."
+1520696,2021-08-05,Senate,7,"Read first time, rules suspended, read second time, referred to PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+1520696,2021-08-05,Senate,8,"Returned by the Committee, with the recommendation that it Do Pass"
+1520696,2021-08-06,Senate,9,"Read the third time and passed."
+1520696,2021-08-06,Senate,10,"EMERGENCY CLAUSE ADOPTED"
+1520696,2021-08-06,Senate,11,"Returned to the House as passed."
+1520696,2021-08-06,House,12,"Returned From the Senate as passed."
+1520696,2021-08-06,House,13,"TO BE ENROLLED"
+1520696,2021-08-06,House,14,"Correctly enrolled and ordered transmitted to the Governor's Office."
+1520696,2021-08-06,House,15,"Notification that HB1001 is now Act 1"
+1520704,2021-08-04,Senate,1,Filed
+1520704,2021-08-04,Senate,2,"Read first time, rules suspended, read second time, referred to EDUCATION COMMITTEE - SENATE"
+1520704,2021-08-06,Senate,3,"Died in Senate Committee at Sine Die adjournment."
+1520709,2021-08-04,House,1,Filed
+1520709,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+1520709,2021-08-05,House,3,"Motion to Amend HB 1003 Failed"
+1520709,2021-08-06,House,4,"Died in House Committee at Sine Die Adjournment"
+1520717,2021-08-04,House,1,Filed
+1520717,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+1520717,2021-08-05,House,3,"WITHDRAWN BY AUTHOR"
+1520718,2021-08-04,House,1,Filed
+1520718,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1520718,2021-08-05,House,3,"READ AND ADOPTED."
+1520795,2021-08-04,Senate,1,Filed
+1520795,2021-08-04,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1520795,2021-08-05,Senate,3,"Read the third time and adopted."
+1520799,2021-08-04,Senate,1,Filed
+1520799,2021-08-04,Senate,2,"Read first time, rules suspended, read second time, referred to PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+1520799,2021-08-06,Senate,3,"Died in Senate Committee at Sine Die adjournment."
+1520803,2021-08-04,House,1,Filed
+1520803,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+1520803,2021-08-06,House,3,"Died in House Committee at Sine Die Adjournment"
+1520804,2021-08-04,House,1,Filed
+1520804,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1520804,2021-08-05,House,3,"READ AND ADOPTED."
+1520807,2021-08-04,House,1,Filed
+1520807,2021-08-04,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1520807,2021-08-06,House,3,"Died on House Calendar at Sine Die Adjournment"
+1520812,2021-08-04,Senate,1,Filed
+1520812,2021-08-04,Senate,2,"Read first time, rules suspended, read second time, referred to EDUCATION COMMITTEE - SENATE"
+1520812,2021-08-06,Senate,3,"Died in Senate Committee at Sine Die adjournment."
+1520815,2021-08-04,House,1,Filed
+1520815,2021-08-04,House,2,"Speaker Declared Improperly Introduced"
+1520888,2021-08-05,Senate,1,Filed
+1520888,2021-08-05,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1520888,2021-08-06,Senate,3,"Died on Senate Calendar at Sine Die adjournment."
+1520894,2021-08-05,Senate,1,Filed
+1520894,2021-08-05,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1520894,2021-08-05,Senate,3,"Rules suspended."
+1520894,2021-08-05,Senate,4,"Read the third time and adopted."
+1520897,2021-08-05,Senate,1,Filed
+1520897,2021-08-06,Senate,2,"Read first time, rules suspended, read second time, referred to PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+1520914,2021-08-05,House,1,Filed
+1520914,2021-08-05,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1520914,2021-08-06,House,3,"Died on House Calendar at Sine Die Adjournment"
+1520935,2021-08-05,Senate,1,Filed
+1520935,2021-08-06,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1520935,2021-08-06,Senate,3,"Died on Senate Calendar at Sine Die adjournment."
+1520956,2021-08-05,House,1,Filed
+1520956,2021-08-05,House,2,"Read the first time, rules suspended, read the second time and referred to the Committee on EDUCATION COMMITTEE- HOUSE"
+1520956,2021-08-06,House,3,"Died in House Committee at Sine Die Adjournment"
+1520957,2021-08-05,House,1,Filed
+1520957,2021-08-05,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1520957,2021-08-06,House,3,"Died on House Calendar at Sine Die Adjournment"
+1520958,2021-08-05,Senate,1,Filed
+1520958,2021-08-06,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1520958,2021-08-06,Senate,3,"Died on Senate Calendar at Sine Die adjournment."
+1521027,2021-08-06,Senate,1,Filed
+1521027,2021-08-06,Senate,2,"Read the first time, rules suspended, read the second time and placed on the calendar."
+1521027,2021-08-06,Senate,3,"Died on Senate Calendar at Sine Die adjournment."
+1521028,2021-08-06,House,1,Filed
+1521028,2021-08-06,House,2,"Read the first time, rules suspended, read the second time and placed on the CALENDAR."
+1521028,2021-08-06,House,3,"Died on House Calendar at Sine Die Adjournment"

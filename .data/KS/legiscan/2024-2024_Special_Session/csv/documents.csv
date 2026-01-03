@@ -1,0 +1,30 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1882796,3010347,text,201174,application/pdf,Introduced,https://legiscan.com/KS/text/HB2001/id/3010347,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hb2001_00_0000.pdf
+1882796,3010807,text,187701,application/pdf,Enrolled,https://legiscan.com/KS/text/HB2001/id/3010807,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hb2001_enrolled.pdf
+1882824,3010372,text,176701,application/pdf,Introduced,https://legiscan.com/KS/text/HB2002/id/3010372,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hb2002_00_0000.pdf
+1882808,3010358,text,146793,application/pdf,Introduced,https://legiscan.com/KS/text/HB2003/id/3010358,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hb2003_00_0000.pdf
+1882801,3010351,text,90322,application/pdf,Introduced,https://legiscan.com/KS/text/HB2004/id/3010351,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hb2004_00_0000.pdf
+1882855,3010405,text,49750,application/pdf,Enrolled,https://legiscan.com/KS/text/HR6001/id/3010405,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hr6001_enrolled.pdf
+1882858,3010408,text,50545,application/pdf,Enrolled,https://legiscan.com/KS/text/HR6002/id/3010408,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hr6002_enrolled.pdf
+1882818,3010818,text,48091,application/pdf,Enrolled,https://legiscan.com/KS/text/HCR5002/id/3010818,https://kslegislature.org/li_2024s/b2023_24/measures/documents/hcr5002_enrolled.pdf
+1882862,3010413,text,211104,application/pdf,Introduced,https://legiscan.com/KS/text/SB1/id/3010413,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb1_00_0000.pdf
+1882862,3010824,text,203301,application/pdf,Enrolled,https://legiscan.com/KS/text/SB1/id/3010824,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb1_enrolled.pdf
+1882811,3010361,text,214329,application/pdf,Introduced,https://legiscan.com/KS/text/SB2/id/3010361,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb2_00_0000.pdf
+1882835,3010385,text,80883,application/pdf,Introduced,https://legiscan.com/KS/text/SB3/id/3010385,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb3_00_0000.pdf
+1882854,3010404,text,66014,application/pdf,Introduced,https://legiscan.com/KS/text/SB4/id/3010404,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb4_00_0000.pdf
+1882828,3010377,text,88351,application/pdf,Introduced,https://legiscan.com/KS/text/SB5/id/3010377,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb5_00_0000.pdf
+1882845,3010394,text,256862,application/pdf,Introduced,https://legiscan.com/KS/text/SB6/id/3010394,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb6_00_0000.pdf
+1882865,3010416,text,85149,application/pdf,Introduced,https://legiscan.com/KS/text/SB7/id/3010416,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb7_00_0000.pdf
+1882842,3010391,text,258352,application/pdf,Introduced,https://legiscan.com/KS/text/SB8/id/3010391,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sb8_00_0000.pdf
+1882839,3010820,text,41543,application/pdf,Enrolled,https://legiscan.com/KS/text/SR1701/id/3010820,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sr1701_enrolled.pdf
+1882821,3010819,text,53002,application/pdf,Enrolled,https://legiscan.com/KS/text/SR1702/id/3010819,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sr1702_enrolled.pdf
+1882798,3010813,text,53972,application/pdf,Enrolled,https://legiscan.com/KS/text/SR1703/id/3010813,https://kslegislature.org/li_2024s/b2023_24/measures/documents/sr1703_enrolled.pdf
+1882848,3010821,text,52045,application/pdf,Enrolled,https://legiscan.com/KS/text/SCR1601/id/3010821,https://kslegislature.org/li_2024s/b2023_24/measures/documents/scr1601_enrolled.pdf
+1882833,3010383,text,65870,application/pdf,Introduced,https://legiscan.com/KS/text/SCR1602/id/3010383,https://kslegislature.org/li_2024s/b2023_24/measures/documents/scr1602_00_0000.pdf
+1882804,3010354,text,77622,application/pdf,Introduced,https://legiscan.com/KS/text/SCR1603/id/3010354,https://kslegislature.org/li_2024s/b2023_24/measures/documents/scr1603_00_0000.pdf
+1882868,3010418,text,92946,application/pdf,Introduced,https://legiscan.com/KS/text/SCR1604/id/3010418,https://kslegislature.org/li_2024s/b2023_24/measures/documents/scr1604_00_0000.pdf
+1882796,221365,amendment,58590,application/pdf,"House Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Representative Helgerson)",https://legiscan.com/KS/amendment/HB2001/id/221365,https://kslegislature.org/li_2024s/b2023_24/measures/documents/fa_2024_hb2001_h_0058.pdf
+1882796,221366,amendment,55425,application/pdf,"House Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Representative Miller, V.)",https://legiscan.com/KS/amendment/HB2001/id/221366,https://kslegislature.org/li_2024s/b2023_24/measures/documents/fa_2024_hb2001_h_0068.pdf
+1882862,221373,amendment,64683,application/pdf,"House Floor Amendment (Committee of the Whole - Motion to Amend - Offered by  Representative Miller, V.)",https://legiscan.com/KS/amendment/SB1/id/221373,https://kslegislature.org/li_2024s/b2023_24/measures/documents/fa_2024_sb1_h_0063.pdf
+1882796,476505,supplement,115141,application/pdf,Analysis,https://legiscan.com/KS/supplement/HB2001/id/476505,https://kslegislature.org/li_2024s/b2023_24/measures/documents/supp_note_hb2001_00_0000.pdf
+1882862,476517,supplement,98664,application/pdf,Analysis,https://legiscan.com/KS/supplement/SB1/id/476517,https://kslegislature.org/li_2024s/b2023_24/measures/documents/supp_note_sb1_00_0000.pdf

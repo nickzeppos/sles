@@ -1,0 +1,6 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1882796,1458566,2024-06-18,House,"House Emergency Final Action - Passed - Yea: 84 Nay: 38",84,38,0,3,125
+1882796,1458567,2024-06-18,Senate,"Senate Emergency Final Action - Passed - Yea: 27 Nay: 8",27,8,3,2,40
+1882862,1458592,2024-06-18,Senate,"Senate Call the Question. Motion carried. - Yea: 22 Nay: 16",22,16,2,0,40
+1882862,1458593,2024-06-18,Senate,"Senate Emergency Final Action - Passed - Yea: 34 Nay: 4",34,4,2,0,40
+1882862,1458594,2024-06-18,House,"House Emergency Final Action - Passed - Yea: 121 Nay: 2",121,2,0,2,125

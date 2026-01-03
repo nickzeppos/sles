@@ -1,0 +1,10 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1779691,2844093,text,185218,application/pdf,Introduced,https://legiscan.com/WI/text/SB1/id/2844093,https://docs.legis.wisconsin.gov/document/proposaltext/2023/SE3/SB1.pdf
+1779691,189969,amendment,688166,application/pdf,"Senate Substitute Amendment 1",https://legiscan.com/WI/amendment/SB1/id/189969,https://docs.legis.wisconsin.gov/document/amends/2023/SE3/SB1-SSA1.pdf
+1779691,189970,amendment,156167,application/pdf,"Senate Amendment 1",https://legiscan.com/WI/amendment/SB1/id/189970,https://docs.legis.wisconsin.gov/document/amends/2023/SE3/SB1-SSA1-SA1.pdf
+1779691,189971,amendment,169668,application/pdf,"Assembly Substitute Amendment 1",https://legiscan.com/WI/amendment/SB1/id/189971,https://docs.legis.wisconsin.gov/document/amends/2023/SE3/SB1-ASA1.pdf
+1779691,399807,supplement,347524,application/pdf,Analysis,https://legiscan.com/WI/supplement/SB1/id/399807,https://docs.legis.wisconsin.gov/document/lcamendmentmemos/2023/SE3/SB1.pdf
+1779691,399808,supplement,180141,application/pdf,Misc,https://legiscan.com/WI/supplement/SB1/id/399808,https://docs.legis.wisconsin.gov/2023/related/records/joint/finance/1754659.pdf
+1779691,399809,supplement,201901,application/pdf,Misc,https://legiscan.com/WI/supplement/SB1/id/399809,https://docs.legis.wisconsin.gov/2023/related/records/senate/economic_development_and_technical_colleges/1751132.pdf
+1779691,399810,supplement,719971,application/pdf,"Fiscal Note",https://legiscan.com/WI/supplement/SB1/id/399810,https://docs.legis.wisconsin.gov/2023/related/fe/sb1/sb1_doa.pdf
+1779691,399811,supplement,543116,application/pdf,"Fiscal Note",https://legiscan.com/WI/supplement/SB1/id/399811,https://docs.legis.wisconsin.gov/2023/related/fe/sb1/sb1_dor.pdf
