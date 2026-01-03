@@ -1,11 +1,6 @@
-SLES Project - Quick Reference
-===============================
+# SLES Quick Ref
 
-## Migration Strategy
-Porting SLES from .dropbox/ to clean Git structure. Only doing estimation for now, not commem or compile.
-TODO:  
-
-## Pipeline Data Flow
+## pipeline overview
 
 ### Stage 1: Load Data (load_data.R)
 
@@ -62,31 +57,39 @@ Output: `les_scores` with 39 columns including detailed breakdowns (all/ss/s/c b
 
 ### Known Issues (inherited from original codebase)
 
-1. **Bill history filter missing session (Stage 4):** When filtering bill_history for a specific bill, we filter on (bill_id, term) but not session. This combines history from different sessions when bill_id collides.
+1. **Bill history filter missing session:** When filtering bill_history for a specific bill, we filter on (bill_id, term) but not session. This combines history from different sessions when bill_id's collide across sessions.
 
-2. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles (e.g., WI 2023_2024: AB0377, AB0415, SB0139, SB0145, SB0312). These are the same bill reported in both 2023 and 2024 SS files. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts. Our fix: group by (bill_id, term) and keep only the earliest year for identical titles. See .dropbox/ss_duplicate_investigation.ipynb for full analysis.
+2. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles (e.g., WI 2023_2024: AB0377, AB0415, SB0139, SB0145, SB0312). These are the same bill reported in both 2023 and 2024 SS files. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. See ss_duplicate_investigation.ipynb for full analysis.
 
-## Data Structure (.data/STATE/)
+
+## Helpful for claude code ref, if using
+
+## migration notes
+Porting SLES from .dropbox/ to clean Git structure. Only doing estimation for now, not commem or compile.
+
+TODO:  
+
+## .data dir structure
 - bill/          Bill details & histories
 - commem/        Commemorative bills
 - legiscan/      Legislator metadata by session
 - ss/            Substantive & Significant bills
 - outputs/       Generated LES scores
 
-## Architecture
+## general architectural notes
 CLI → Operation Modules (estimate, commem, compile)
 - Modules are standalone (dual CLI/Rscript usage)
 - CLI orchestrates multi-op workflows
 - Shared code in utils/ (paths, logging, libs, strings, +more as needed)
 
-## Code Style (lintr)
+## code style (lintr rules)
 - Implicit returns (no `return()`)
 - Max 80 char lines
 - snake_case naming
 - Space before `(` in control flow (if, while, for), not function calls
 - Prefer `for (i in seq_len(nrow(df)))` over `for (i in 1:nrow(df))`
 
-## Design Principles
+## some design principles
 - estimate.R: Thin orchestrator, calls pipeline stages sequentially
 - Pipeline stages: Focused modules (~100-150 lines), clear input/output
 - State files: Minimal - config + state-specific hooks only
