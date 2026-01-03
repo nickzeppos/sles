@@ -29,9 +29,7 @@ Output: `bill_details` with SS and commem flags added.
 
 ### Stage 4: Compute Achievement (compute_achievement.R)
 
-- For each row in bill_details, filter bill_history on (bill_id, term) and evaluate legislative stages achieved. Relies on state-specific hook to interpret bill action => step achievement correspondence.
-
-NOTE: This notably does not filter on session, which can result in bill history from different sessions being combined when bill_id's collide across sessions. This is inherited from original codebase, but I want to flag it.
+- For each row in bill_details, filter bill_history on (bill_id, session) and evaluate legislative stages achieved. Relies on state-specific hook to interpret bill action => step achievement correspondence.
 
 Output: `leg_achievement_matrix` keyed by (bill_id, term, session, LES_sponsor, state) with stage columns (introduced, action_in_comm, action_beyond_comm, passed_chamber, law).
 
@@ -57,9 +55,7 @@ Output: `les_scores` with 39 columns including detailed breakdowns (all/ss/s/c b
 
 ### Known Issues (inherited from original codebase)
 
-1. **Bill history filter missing session:** When filtering bill_history for a specific bill, we filter on (bill_id, term) but not session. This combines history from different sessions when bill_id's collide across sessions.
-
-2. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles (e.g., WI 2023_2024: AB0377, AB0415, SB0139, SB0145, SB0312). These are the same bill reported in both 2023 and 2024 SS files. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. See ss_duplicate_investigation.ipynb for full analysis.
+1. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles, but distinct year values. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. Ideally we'd just make the initial distinct() call more intelligent, but, trying to remain faithful for now. See ss_duplicate_investigation.ipynb for full walkthrough.
 
 
 ## Helpful for claude code ref, if using

@@ -67,7 +67,7 @@ compute_achievement <- function(data, state, term) {
 
     # Get relevant slice of history data
     i_bill_history <- bill_history_clean %>%
-      filter(.data$bill_id == i_bill_id & .data$term == i_term)
+      filter(.data$bill_id == i_bill_id & .data$session == i_session)
 
     # Evaluate this bill's history
     bill_stages <- evaluate_bill_history(
