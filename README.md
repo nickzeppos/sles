@@ -1,32 +1,99 @@
-# SLES (State Legislative Effectiveness Score)
-## repo to hold sles related files while I work in connor's dropbox
+# SLES Quick Ref
+
+## pipeline overview
+
+### Stage 1: Load Data (load_data.R)
+
+Read raw CSV files from `.data/STATE/` into five dataframes:
+
+- `bill_details`: Bill metadata, one row per bill per session. Raw column names vary by state. After state-specific preprocessing, keyed by (bill_id, session).
+- `bill_history`: Action history, multiple rows per bill. Same state-specific preprocessing applies. Keyed by (bill_id, session), with `order` sequencing actions within each bill.
+- `ss_bills`: Substantive & Significant bills, derived from PVS data. Keyed only by bill_id with no session identifier.
+- `commem_bills`: Commemorative bill flags. Keyed by (bill_id, term, session).
+- `legiscan`: Legislator metadata from Legiscan. Key columns: people_id, first_name, last_name, party, district.
+
+### Stage 2: Clean Data (clean_data.R)
+
+- `bill_details` is cleaned via state-specific hooks that standardize bill_id, term, and session, and derive a new LES_sponsor column from raw sponsor fields.
+- `bill_history` is cleaned via a corresponding state-specific hook.
+- `ss_bills` is filtered to state/term, bill_id standardized, and SS=1 flag added.
+
+After cleaning, (bill_id, term, session) should uniquely identify a bill. The same bill_id can appear in different sessions (e.g., HB0001 in both Regular Session and Special Session are different bills).
+
+### Stage 3: Join Data (join_data.R)
+
+- `ss_bills` is prepared for joining: (1) deduplicated by (bill_id, term), keeping the earliest year when a bill appears multiple times with identical titles (the `year` column is parsed from the Date field in Stage 2); (2) validated via state-specific `get_missing_ss_bills` hook that flags SS bills missing from bill_details unless they were intentionally excluded (e.g., committee-sponsored); (3) joined to `bill_details` on bill_id only since SS data has no session column. Duplicate assertions check if bill_id collides across sessions - if so, the pipeline halts for manual review (consistent with original workflow, which produced `_edited.csv` files for these cases).
+- `commem_bills` is joined to `bill_details` on (bill_id, term, session).
+
+Output: `bill_details` with SS and commem flags added.
+
+### Stage 4: Compute Achievement (compute_achievement.R)
+
+- For each row in bill_details, filter bill_history on (bill_id, term) and evaluate legislative stages achieved. Relies on state-specific hook to interpret bill action => step achievement correspondence.
+
+NOTE: This notably does not filter on session, which can result in bill history from different sessions being combined when bill_id's collide across sessions. This is inherited from original codebase, but I want to flag it.
+
+Output: `leg_achievement_matrix` keyed by (bill_id, term, session, LES_sponsor, state) with stage columns (introduced, action_in_comm, action_beyond_comm, passed_chamber, law).
+
+### Stage 5: Reconcile Legislators (reconcile_legislators.R)
+
+- `bills` is created by joining `bill_details` to `leg_achievement_matrix` on shared columns (effectively bill_id, term, session, LES_sponsor).
+- `all_sponsors` is derived by grouping bills by (LES_sponsor, chamber, term) and computing aggregate stats (num_sponsored_bills, sponsor_pass_rate, sponsor_law_rate). A `match_name_chamber` key is added as `tolower(LES_sponsor)-chamber_code` (e.g., "j. smith-h").
+- `legiscan` is prepared with its own `match_name_chamber` key via state-specific logic that disambiguates legislators sharing last names (using initials or full first names as needed).
+- `all_sponsors` is fuzzy-matched to `legiscan` via inexact_join on match_name_chamber. State-specific hooks handle custom match overrides of problematic cases.
+
+Output: `legis_data` with key columns (sponsor, data_name, people_id, chamber, party, district) and sponsor stats.
+
+### Stage 6: Calculate Scores (calculate_scores.R)
+
+- `bills` is renamed (LES_sponsor to sponsor) and validated to ensure all sponsors exist in `legis_data`. If any are missing, the pipeline halts with diagnostic output.
+- LES scores are computed by joining bills to legis_data on (sponsor = data_name, chamber), weighting bill achievements (SS=10, regular=5, commemorative=1), and normalizing within chamber.
+
+Output: `les_scores` with 39 columns including detailed breakdowns (all/ss/s/c bills × 5 stages).
+
+### Stage 7: Write Outputs (write_outputs.R)
+
+- Writes `{STATE}_LES_{term}.csv` (les_scores) and `{STATE}_coded_bills_{term}.csv` (bills with achievement matrix) to `.data/STATE/outputs/`.
+
+### Known Issues (inherited from original codebase)
+
+1. **Bill history filter missing session:** When filtering bill_history for a specific bill, we filter on (bill_id, term) but not session. This combines history from different sessions when bill_id's collide across sessions.
+
+2. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles (e.g., WI 2023_2024: AB0377, AB0415, SB0139, SB0145, SB0312). These are the same bill reported in both 2023 and 2024 SS files. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. See ss_duplicate_investigation.ipynb for full analysis.
 
 
-SLES Procedure
+## Helpful for claude code ref, if using
 
-1. Copy an estimation script for the state you're working on from `SLES/State Legislatures/Estimate LES/Estimation_Scripts into `Connor SLES/State Legislatures/Estimate LES/Estimation_Scripts` and replace the "AV" suffix with "NWZ"
-2. Ensure all of the files used in the script are available locally.[^1] In the WY script, that includes:
-	- Bill_Details for both years in the relevant term, which should already exist at `State Legislative Data/States/WY_Bill_Details...`
-	- Commemorative bill data, which you will need to generate via the `Commem Bills/Code_Commem_Bills_By_Session.R` script, which should produce an output at `State Legislative Data/Commem Bills/WY_Commem_Bills...`
-		- Right now the output here should be hand-inspected and some bills will have to be manually upgraded.
-	- Substantive and Significant and bill data, which should already exist at `State Legislative Data/Significant Bills/Project_Vote_Smart_bills/WY/WY_SS_Bills_...`
-	- Legislator metadata, which should be manually downloaded and placed in the `/State Legislative Data/Legiscan/WY` folder
-3. Run the script, it should produce an output that should end up in the `State Legislatures/LES_By_State/WY` dir. Doesn't really look like it gets written there, so check up on where the output ends up being written and move it manually if need be.
-	- Inspect this file. If there are any members with LES's of zero, they need to be noted in the `Estimate LES/Zero_LES_legislators_Coded.csv`, and the estimation script should be re-run.
-4. Now we have to write a state-specific compile script, which we're going to locate in the `State Legislatures/Compile LES/Nick Compile` folder. This should be modeled on two examples-- `Compile LES/extract_all_LES.R`, which is written to do all states at once, and Connor's state-specific compile scripts, `LES for Website/CA Scores for Website.R` is CA, e.g..
-	- Before running this, you will have to manually provide committee chair information, which should be googled and then added to sheet 2 of the `Compile LES/Committee Chairs.xlsx`.
-	- This file also computes seniority and majority. Seniority is computed by comparison to previous terms, which are taken from a "master" list that's loaded in at the beginning of the file in the examples scripts. The master list the other state compile scripts are using is `Compile LES/sles_all_2025-06-05.csv`, which I'm also going to use. Majority is computed by counting
-	- Majority is derived from data itself. If there are independent/3rd party members, they should be assigned a majority value based on the party they are most closely associated/caucused with.[^2]
-5. If all the covariates have been successfully added, you go ahead and compute benchmark, expectations, and the file can be written. It should be placed in the `Nick Compile` folder for Connor's inspection.
+## migration notes
+Porting SLES from .dropbox/ to clean Git structure. Only doing estimation for now, not commem or compile.
 
+TODO:  
 
+## .data dir structure
+- bill/          Bill details & histories
+- commem/        Commemorative bills
+- legiscan/      Legislator metadata by session
+- ss/            Substantive & Significant bills
+- outputs/       Generated LES scores
 
+## general architectural notes
+CLI → Operation Modules (estimate, commem, compile)
+- Modules are standalone (dual CLI/Rscript usage)
+- CLI orchestrates multi-op workflows
+- Shared code in utils/ (paths, logging, libs, strings, +more as needed)
 
-[^1]: All of this work is on Dropbox, so scripts will encounter errors unless the necessary resources are available offline, which isn't the default consequence of a Dropbox sync.
-[^2]: I don't actually see where Connor's state-specific compile scripts are doing independents, but I assume this is because there were no I's in any of the states here?  Previous versions of compile seemed to write independents to a csv to be hand-coded. I will probably inspect output beforehand and write code that automatically assigns the proper majority value.
+## code style (lintr rules)
+- Implicit returns (no `return()`)
+- Max 80 char lines
+- snake_case naming
+- Space before `(` in control flow (if, while, for), not function calls
+- Prefer `for (i in seq_len(nrow(df)))` over `for (i in 1:nrow(df))`
 
+## some design principles
+- estimate.R: Thin orchestrator, calls pipeline stages sequentially
+- Pipeline stages: Focused modules (~100-150 lines), clear input/output
+- State files: Minimal - config + state-specific hooks only
+- Generic logic in pipeline, state quirks in state files
 
-
-
-#cel 
-#sles
+---
+Updated: 2026-01-02
