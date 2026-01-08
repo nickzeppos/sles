@@ -46,7 +46,7 @@ validate_legislators <- function(data, state, term) {
     mutate(
       state = state,
       term = term,
-      legiscan_id = .data$klarner_id,
+      legiscan_id = as.character(.data$klarner_id),
       not_actually_in_chamber = FALSE, # Default to keeping them
       notes = "Zero bills sponsored - needs manual review"
     ) %>%
@@ -80,7 +80,17 @@ validate_legislators <- function(data, state, term) {
 
   if (file.exists(review_file)) {
     cli_log(glue("Zero-LES legislator file already exists. Reading it..."))
-    zero_bill_sponsors_coded <- read.csv(review_file) %>%
+    zero_bill_sponsors_coded <- read.csv(review_file, colClasses = c(
+      state = "character",
+      term = "character",
+      sponsor = "character",
+      legiscan_id = "character",
+      chamber = "character",
+      party = "character",
+      district = "character",
+      not_actually_in_chamber = "logical",
+      notes = "character"
+    )) %>%
       filter(.data$state == !!state & .data$term == !!term)
 
     cli_log(glue(
@@ -101,7 +111,17 @@ validate_legislators <- function(data, state, term) {
       # Re-review
       zero_bill_sponsors <- review_zero_les_legislators(zero_bill_sponsors)
       # Update the file (merge with other state/term data if exists)
-      all_reviews <- read.csv(review_file) %>%
+      all_reviews <- read.csv(review_file, colClasses = c(
+        state = "character",
+        term = "character",
+        sponsor = "character",
+        legiscan_id = "character",
+        chamber = "character",
+        party = "character",
+        district = "character",
+        not_actually_in_chamber = "logical",
+        notes = "character"
+      )) %>%
         filter(!(.data$state == !!state & .data$term == !!term))
       all_reviews <- bind_rows(all_reviews, zero_bill_sponsors)
       write.csv(all_reviews, review_file, row.names = FALSE)
@@ -120,7 +140,10 @@ validate_legislators <- function(data, state, term) {
   # Apply removals
   legislators_to_remove <- zero_bill_sponsors %>%
     filter(.data$not_actually_in_chamber == TRUE) %>%
-    mutate(chamber = substr(.data$chamber, 1, 1))
+    mutate(
+      chamber = substr(.data$chamber, 1, 1),
+      legiscan_id = as.numeric(.data$legiscan_id)
+    )
 
   if (nrow(legislators_to_remove) > 0) {
     cli_log(glue(

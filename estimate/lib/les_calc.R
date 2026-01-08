@@ -152,10 +152,10 @@ calculate_les <- function(
     # Calculate LES for each legislator in chamber
     for (i in seq_len(nrow(chamber_legislators))) {
       sponsor_row <- chamber_legislators[i, ]
-      sponsor_names <- sponsor_row$data_name
+      sponsor_names <- sponsor_row$sponsor
 
       sponsored_bills <- chamber_bills %>%
-        filter(.data$sponsor %in% sponsor_names)
+        filter(.data$match_name %in% sponsor_names)
 
       if (nrow(sponsored_bills) == 0) {
         # Zero bills sponsored - add row with all zeros

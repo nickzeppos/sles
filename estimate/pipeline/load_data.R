@@ -120,8 +120,10 @@ load_data <- function(state, term) {
       distinct()
   })
 
-  # Combine all sessions and deduplicate
-  legiscan <- bind_rows(legiscan_list) %>% distinct()
+  # Combine all sessions and deduplicate by people_id
+  # (legislators can appear in multiple sessions with different session_id)
+  legiscan <- bind_rows(legiscan_list) %>%
+    distinct(.data$people_id, .keep_all = TRUE)
 
   # Apply state-specific preprocessing to normalize raw data (Stage 1.5)
   if (!is.null(state_config$preprocess_raw_data)) {
