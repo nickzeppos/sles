@@ -47,13 +47,10 @@ calculate_les <- function(
   bill_data$match_name <- as.character(bill_data$match_name)
 
   for (i in seq_len(nrow(legislator_data))) {
-    # Escape special chars in name
-    search_name <- gsub("\\)", "\\\\)", gsub("\\(", "\\\\(",
-                                             legislator_data[i, ]$data_name))
-
+    search_name <- legislator_data[i, ]$data_name
     chamber <- legislator_data[i, ]$chamber
-    matches <- grepl(search_name,
-                     bill_data[bill_data$chamber == chamber, ]$sponsor)
+    # Use exact matching to avoid substring matches (e.g., "rye" matching "puryear")
+    matches <- bill_data[bill_data$chamber == chamber, ]$sponsor == search_name
     bill_data[bill_data$chamber == chamber, ]$match_name[matches] <-
       legislator_data[i, ]$sponsor
   }
@@ -68,6 +65,8 @@ calculate_les <- function(
     cli_warn(glue(
       "Warning: {nrow(unmatched)} bill sponsors not matched to legislators"
     ))
+    cli_warn("Unmatched sponsors:")
+    print(unmatched %>% distinct(.data$sponsor, .keep_all = FALSE))
     cli_warn("These bills will be excluded from LES calculation")
   }
 
