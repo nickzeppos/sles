@@ -7,24 +7,29 @@ YELLOW <- "\033[33m"
 RED <- "\033[31m"
 RESET <- "\033[0m"
 
+# Format timestamp without decimal places
+format_timestamp <- function() {
+  format(Sys.time(), "%Y-%m-%d %H:%M:%S", usetz = FALSE)
+}
+
 # Log message
 cli_log <- function(msg) {
-  writeLines(sprintf("%s[L] [%s]:%s %s\n", GREEN, Sys.time(), RESET, msg))
+  writeLines(sprintf("%s[L] [%s]:%s %s", GREEN, format_timestamp(), RESET, msg))
 }
 
 # Warning message
 cli_warn <- function(msg) {
-  writeLines(sprintf("%s[W] [%s]:%s %s\n", YELLOW, Sys.time(), RESET, msg))
+  writeLines(sprintf("%s[W] [%s]:%s %s", YELLOW, format_timestamp(), RESET, msg))
 }
 
 # Error message
 cli_error <- function(msg) {
-  writeLines(sprintf("%s[E] [%s]:%s %s\n", RED, Sys.time(), RESET, msg))
+  writeLines(sprintf("%s[E] [%s]:%s %s", RED, format_timestamp(), RESET, msg))
 }
 
 # Prompt for user input
 cli_prompt <- function(prompt_msg) {
-  writeLines(sprintf("%s[?] [%s]:%s %s", BLUE, Sys.time(), RESET, prompt_msg))
+  writeLines(sprintf("%s[?] [%s]:%s %s", BLUE, format_timestamp(), RESET, prompt_msg))
   response <- readLines("stdin", n = 1)
   response
 }

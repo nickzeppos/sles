@@ -44,8 +44,8 @@ validate_legislators <- function(data, state, term) {
       .data$num_sponsored_bills == 0) %>%
     select("sponsor", "klarner_id", "chamber", "party", "district", "term") %>%
     mutate(
-      state = state,
-      term = term,
+      state = .env$state,
+      term = .env$term,
       legiscan_id = as.character(.data$klarner_id),
       not_actually_in_chamber = FALSE, # Default to keeping them
       notes = "Zero bills sponsored - needs manual review"

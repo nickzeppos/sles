@@ -124,12 +124,15 @@ join_data <- function(data, state, term) {
     summarise(
       count = n(),
       sessions = paste(unique(.data$session), collapse = ", "),
+      num_unique_titles = n_distinct(.data$title),
+      same_title = ifelse(n_distinct(.data$title) == 1, "YES", "NO"),
       .groups = "drop"
     ) %>%
     filter(.data$count > 1)
 
   if (nrow(bill_details_dupes) > 0) {
     cli_warn("Bills appearing in multiple sessions within same term:")
+    cli_warn("(same_title=YES indicates carryover; NO indicates distinct bills needing disambiguation)")
     print(bill_details_dupes)
     # Check if state-specific filtering will resolve duplicates
     if (!is.null(data$state_config$drop_unwanted_bills)) {
