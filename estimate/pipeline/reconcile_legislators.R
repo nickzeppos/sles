@@ -147,6 +147,30 @@ reconcile_legislators <- function(data, state, term) {
     select("LES_sponsor", "match_name_chamber", "num_sponsored_bills")
   assert_no_unmatched_sponsors(unmatched_sponsors)
 
+  # Check for duplicate matches (multiple legiscan records matched to same sponsor)
+  # Multiple legiscan records shouldn't map to the same LES_sponsor
+  duplicate_matches <- all_sponsors_2 %>%
+    filter(!is.na(.data$LES_sponsor) & !is.na(.data$name)) %>%
+    group_by(.data$LES_sponsor, .data$chamber) %>%
+    summarise(
+      count = n(),
+      legiscan_names = paste(unique(.data$name), collapse = ", "),
+      .groups = "drop"
+    ) %>%
+    filter(.data$count > 1)
+
+  if (nrow(duplicate_matches) > 0) {
+    cli_warn(paste(
+      "Found duplicate matches - multiple legiscan records",
+      "matched to same sponsor name:"
+    ))
+    print(duplicate_matches)
+    cli_warn(paste(
+      "This indicates fuzzy matching errors. Add custom_match entries to",
+      "prevent these incorrect matches."
+    ))
+  }
+
   # Create final legislator dataset
   legis_data <- all_sponsors_2 %>%
     rename(data_name = "LES_sponsor") %>%

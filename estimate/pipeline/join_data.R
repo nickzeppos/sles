@@ -83,35 +83,32 @@ join_data <- function(data, state, term) {
   # missing vs. intentionally excluded (e.g., committee-sponsored bills)
   cli_log("Checking for missing SS bills...")
   if (!is.null(data$state_config$get_missing_ss_bills)) {
-    missing_ss_bills <- data$state_config$get_missing_ss_bills(
+    genuinely_missing_ss_bills <- data$state_config$get_missing_ss_bills(
       ss_filtered, data$bill_details, data$all_bill_details
     )
   } else {
     # Default: flag any SS bill in all_bill_details but not in bill_details
-    missing_ss_bills <- ss_filtered %>%
+    genuinely_missing_ss_bills <- ss_filtered %>%
       anti_join(data$bill_details, by = c("bill_id", "term")) %>%
       semi_join(data$all_bill_details, by = "bill_id") %>%
       select("bill_id", "term")
   }
 
-  assert_no_missing_ss(missing_ss_bills)
+  assert_no_missing_ss(genuinely_missing_ss_bills)
+
+  # Track all SS bills missing from bill_details (including intentional exclusions)
+  # for use in post-join validation
+  all_missing_from_details <- ss_filtered %>%
+    anti_join(data$bill_details, by = c("bill_id", "term")) %>%
+    pull("bill_id")
 
   # Now apply deduplication
+  # Deduplicate by (bill_id, term, Title) - year is ignored
+  # Bills with same bill_id but different Titles are treated as distinct
+  # Bills with same bill_id AND same Title are true duplicates and will
+  # trigger manual review downstream via duplicate assertions
   ss_deduped <- ss_filtered %>%
-    group_by(.data$bill_id, .data$term) %>%
-    mutate(
-      title_variations = n_distinct(.data$Title),
-      is_duplicate_years = n() > 1
-    ) %>%
-    ungroup() %>%
-    filter(
-      !.data$is_duplicate_years |
-        (.data$is_duplicate_years & .data$title_variations == 1)
-    ) %>%
-    group_by(.data$bill_id, .data$term, .data$Title) %>%
-    slice_min(.data$year, n = 1, with_ties = FALSE) %>%
-    ungroup() %>%
-    select(-"title_variations", -"is_duplicate_years")
+    distinct(.data$bill_id, .data$term, .data$Title, .keep_all = TRUE)
 
   cli_log(glue("SS bills after deduplication: {nrow(ss_deduped)}"))
 
@@ -178,7 +175,7 @@ join_data <- function(data, state, term) {
       0, .data$commem
     ))
 
-  # Validate no missing SS bills from details
+  # Validate no missing SS bills from details (excluding intentional exclusions)
   cli_log("Validating SS bill coverage...")
   ss_in_details <- ss_deduped$bill_id
   ss_in_joined <- bill_details_joined %>%
@@ -186,11 +183,15 @@ join_data <- function(data, state, term) {
     pull("bill_id")
 
   missing_ss <- setdiff(ss_in_details, ss_in_joined)
-  if (length(missing_ss) > 0) {
+  # Exclude bills that were already identified as intentionally missing
+  genuinely_missing_post_join <- setdiff(missing_ss, all_missing_from_details)
+
+  if (length(genuinely_missing_post_join) > 0) {
     cli_warn(glue(
-      "Warning: {length(missing_ss)} SS bills not found in bill details:"
+      "Warning: {length(genuinely_missing_post_join)} SS bills not found in ",
+      "bill details:"
     ))
-    cli_warn(glue("  {paste(missing_ss, collapse = ', ')}"))
+    cli_warn(glue("  {paste(genuinely_missing_post_join, collapse = ', ')}"))
   }
 
   # Return joined data

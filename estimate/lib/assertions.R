@@ -144,18 +144,18 @@ assert_ss_join_bill_details_validity <- function(bills2, ss_term2, orig_row_n) {
 #' Assert no unmatched legiscan records
 #'
 #' Checks for legiscan legislators not matched to bill sponsors.
-#' Prompts user to decide whether to continue.
+#' Warns about unmatched records but allows pipeline to continue to the
+#' validate_legislators stage where proper manual review happens.
 #'
 #' @param unmatched_legiscan Dataframe of unmatched legiscan records
 assert_no_unmatched_legiscan_records <- function(unmatched_legiscan) {
   if (nrow(unmatched_legiscan) > 0) {
     cli_warn("Legiscan records that didn't match to bill sponsors:")
     print(unmatched_legiscan)
-    proceed_flag <- cli_prompt("Break on unmatched legiscan records? [y/n]: ")
-    if (tolower(proceed_flag) == "y") {
-      cli_error("Exiting on unmatched legiscan records.")
-      stop("Unmatched legiscan records")
-    }
+    cli_warn(paste(
+      "These will be handled in the validate_legislators stage where you can",
+      "review and decide if they should be included with LES=0 or excluded."
+    ))
   }
   cli_log(glue("{nrow(unmatched_legiscan)} legiscan records unmatched ",
                "to bill sponsors."))
@@ -164,18 +164,18 @@ assert_no_unmatched_legiscan_records <- function(unmatched_legiscan) {
 #' Assert no unmatched bill sponsors
 #'
 #' Checks for bill sponsors not matched to legiscan legislators.
-#' Prompts user to decide whether to continue.
+#' Warns about unmatched records - these are sponsors in bill data who don't
+#' appear in the legiscan roster, which typically indicates data quality issues.
 #'
 #' @param unmatched_sponsors Dataframe of unmatched sponsors
 assert_no_unmatched_bill_sponsors <- function(unmatched_sponsors) {
   if (nrow(unmatched_sponsors) > 0) {
     cli_warn("Bill sponsors that didn't match to Legiscan records:")
     print(unmatched_sponsors)
-    proceed_flag <- cli_prompt("Break on unmatched bill sponsors? [y/n]: ")
-    if (tolower(proceed_flag) == "y") {
-      cli_error("Exiting on unmatched bill sponsors.")
-      stop("Unmatched bill sponsors")
-    }
+    cli_warn(paste(
+      "These sponsors appear in bills but not in legiscan roster.",
+      "This may indicate name mismatches or data quality issues."
+    ))
   }
   cli_log(glue("{nrow(unmatched_sponsors)} bill sponsors unmatched ",
                "to legiscan records."))
