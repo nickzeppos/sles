@@ -1,0 +1,6 @@
+"state","term","sponsor","legiscan_id","chamber","party","district","not_actually_in_chamber","notes"
+"AR",NA,"Jeremy Wooldridge","24180","H","R","HD-001",FALSE,"Served full term - included with LES=0"
+"AR",NA,"Jill Bryant","22169","H","R","HD-096",TRUE,"Did not serve full term - excluded"
+"AR",NA,"Stan Berry","20763","H","R","HD-044",FALSE,"Served full term - included with LES=0"
+"AR",NA,"Steve Hollowell","18684","H","R","HD-037",FALSE,"Served full term - included with LES=0"
+"AR",NA,"Terry Rice","12468","S","R","SD-005",FALSE,"Served full term - included with LES=0"
