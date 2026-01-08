@@ -422,6 +422,14 @@ adjust_legiscan_data <- function(legiscan, term) {
       filter(!.data$name %in% c("Melissa Agard", "Nancy Vander Meer"))
   }
 
+  # Term-specific adjustment for 2023_2024
+  if (term == "2023_2024") {
+    # LaTonya Johnson (people_id 15362): Remove incorrect entry with role="Rep"
+    # but district="SD-006" (Senate district). Correct entry has role="Sen".
+    legiscan <- legiscan %>%
+      filter(!(.data$people_id == 15362 & .data$role == "Rep"))
+  }
+
   # Clean up data for matching
   legiscan_adj <- legiscan %>%
     filter(.data$committee_id == 0) %>%
