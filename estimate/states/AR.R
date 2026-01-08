@@ -501,7 +501,14 @@ reconcile_legiscan_with_sponsors <- function(sponsors, legiscan, term) {
         "dotson-s" = "j. dotson-s",
         "davis-s" = "b. davis-s",
         "petty-s" = "j. petty-s",
-        "mckee-s" = "m. mckee-s"
+        "mckee-s" = "m. mckee-s",
+        # Prevent fuzzy matching errors for similar names
+        "rice-s" = NA_character_,  # Terry Rice (Senator) shouldn't match Rose
+        "s. berry-h" = NA_character_,  # Stan Berry has no bills in sponsor data
+        "wooldridge-h" = NA_character_,  # Jeremy Wooldridge has no bills, don't match to McClure
+        "jill bryant-h" = NA_character_,  # Jill Bryant (House) has no bills - uses full name due to collision with Joshua
+        "holcomb-h" = "holcomb-h",  # Mike Holcomb's bills appear as "holcomb"
+        "hollowell-h" = NA_character_  # Steve Hollowell has no bills
       )
     )
   } else {
