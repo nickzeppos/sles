@@ -180,37 +180,37 @@ Kansas bill-side sponsor data is a bit weird. 1,2 and 1-3 were handled in old co
 
 Where an identifiable legislator appears in the original_sponsor field, that is the LES_sponsor. This can happen one of two ways:
 
-1) One identifiable legislator.
+1) One identifiable legislator. (SB0001)
 ```
 ("Senator Steffen", "") => "steffen"
 ```
-2) Multiple identifiable legislators.
+2) Multiple identifiable legislators. (SB0012)
 ```
 ("Senator Thompson; Senator Steffen", "") => "thompson"
 ```
 
 In cases where no identifiable sponsor appears in the original_sponsor field, requested_by can present one of five ways (independent of name variants):
 
-1) One identifiable legislator.
+1) One identifiable legislator. (SB0021)
 ```
 ("Committee on Assessment and Taxation", "Senator Faust-Goudeau") => "faust-goudeau"
 ```
-2) Multiple identifiable legislators.
+2) Multiple identifiable legislators. (HB2690 - not a real example, illustrative only)
 ```
 ("Committee on Corrections and Juvenile Justice", "Representative Barth and Representative Schmoe") => "barth"
 ```
-3) An identifiable legislator, on behalf of a non-legislative entity.
+3) An identifiable legislator, on behalf of a non-legislative entity. (SB0039)
 ```
 ("Committee on Federal and State Affairs", "Senator Bowers on behalf of Capitol Preservation Committee") => "bowers"
 ```
-4) An identifiable legislator, on behalf of an identifiable legislator and a non-legislative entity.
+4) An identifiable legislator, on behalf of an identifiable legislator and a non-legislative entity. (HB2537)
 ```
 ("Committee on Local Government", "Representative Blex on behalf of Representative Bryce and the City of Independence") => "bryce"
 ```
-5) An identifiable legislator, on behalf of multiple legislators.
+5) An identifiable legislator, on behalf of multiple legislators. (HB2690)
 ```
 ("Committee on Energy, Utilities and Telecommunications", "Representative Delperdang on behalf of Representative Hoffman and Representative Carmichael") => "hoffman"
-``` 
+```
 
 Patterns 4 and 5 are new.
 
