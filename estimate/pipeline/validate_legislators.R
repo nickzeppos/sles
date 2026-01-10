@@ -55,17 +55,22 @@ validate_legislators <- function(data, state, term) {
       "district", "not_actually_in_chamber", "notes"
     )
 
+  # Get verbose flag from data
+  verbose <- if (!is.null(data$verbose)) data$verbose else TRUE
+
   if (nrow(zero_bill_sponsors) == 0) {
-    cli_log("No zero-LES legislators found.")
+    if (verbose) cli_log("No zero-LES legislators found.")
     return(data)
   }
 
-  cli_warn(glue(
-    "Found {nrow(zero_bill_sponsors)} legislators with zero ",
-    "sponsored bills (will have zero LES):"
-  ))
-  print(zero_bill_sponsors %>%
-    select("sponsor", "chamber", "party", "district"))
+  if (verbose) {
+    cli_warn(glue(
+      "Found {nrow(zero_bill_sponsors)} legislators with zero ",
+      "sponsored bills (will have zero LES):"
+    ))
+    print(zero_bill_sponsors %>%
+      select("sponsor", "chamber", "party", "district"))
+  }
 
   # Check if review file already exists
   review_dir <- get_review_dir(state)
@@ -79,7 +84,7 @@ validate_legislators <- function(data, state, term) {
   )
 
   if (file.exists(review_file)) {
-    cli_log(glue("Zero-LES legislator file already exists. Reading it..."))
+    if (verbose) cli_log(glue("Zero-LES legislator file already exists. Reading it..."))
     zero_bill_sponsors_coded <- read.csv(review_file, colClasses = c(
       state = "character",
       term = "character",
@@ -93,10 +98,12 @@ validate_legislators <- function(data, state, term) {
     )) %>%
       filter(.data$state == !!state & .data$term == !!term)
 
-    cli_log(glue(
-      "Found {nrow(zero_bill_sponsors_coded)} zero-LES ",
-      "legislators in file for this state/term."
-    ))
+    if (verbose) {
+      cli_log(glue(
+        "Found {nrow(zero_bill_sponsors_coded)} zero-LES ",
+        "legislators in file for this state/term."
+      ))
+    }
 
     use_cached <- cli_prompt(paste(
       "If you have already reviewed and coded",
@@ -106,7 +113,7 @@ validate_legislators <- function(data, state, term) {
     if (tolower(use_cached) == "y") {
       # Use cached decisions
       zero_bill_sponsors <- zero_bill_sponsors_coded
-      cli_log("Using cached review decisions.")
+      if (verbose) cli_log("Using cached review decisions.")
     } else {
       # Re-review
       zero_bill_sponsors <- review_zero_les_legislators(zero_bill_sponsors)
@@ -125,7 +132,7 @@ validate_legislators <- function(data, state, term) {
         filter(!(.data$state == !!state & .data$term == !!term))
       all_reviews <- bind_rows(all_reviews, zero_bill_sponsors)
       write.csv(all_reviews, review_file, row.names = FALSE)
-      cli_log(glue("Updated review file: {review_file}"))
+      if (verbose) cli_log(glue("Updated review file: {review_file}"))
     }
   } else {
     # First time - need to review
@@ -134,7 +141,7 @@ validate_legislators <- function(data, state, term) {
 
     # Write the file
     write.csv(zero_bill_sponsors, review_file, row.names = FALSE)
-    cli_log(glue("Wrote zero-LES legislator review file to: {review_file}"))
+    if (verbose) cli_log(glue("Wrote zero-LES legislator review file to: {review_file}"))
   }
 
   # Apply removals
@@ -146,12 +153,14 @@ validate_legislators <- function(data, state, term) {
     )
 
   if (nrow(legislators_to_remove) > 0) {
-    cli_log(glue(
-      "Removing {nrow(legislators_to_remove)} legislators ",
-      "flagged as not serving full term:"
-    ))
-    print(legislators_to_remove %>%
-      select("sponsor", "chamber", "party", "district"))
+    if (verbose) {
+      cli_log(glue(
+        "Removing {nrow(legislators_to_remove)} legislators ",
+        "flagged as not serving full term:"
+      ))
+      print(legislators_to_remove %>%
+        select("sponsor", "chamber", "party", "district"))
+    }
 
     data$legis_data <- anti_join(
       data$legis_data,
@@ -159,9 +168,9 @@ validate_legislators <- function(data, state, term) {
       by = c("klarner_id" = "legiscan_id", "chamber")
     )
 
-    cli_log(glue("Legislators remaining: {nrow(data$legis_data)}"))
+    if (verbose) cli_log(glue("Legislators remaining: {nrow(data$legis_data)}"))
   } else {
-    cli_log("No legislators flagged for removal.")
+    if (verbose) cli_log("No legislators flagged for removal.")
   }
 
   data

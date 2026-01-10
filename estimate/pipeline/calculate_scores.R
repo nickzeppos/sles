@@ -36,8 +36,10 @@ library(dplyr)
 calculate_scores <- function(data, state, term) {
   cli_log("Calculating Legislative Effectiveness Scores...")
 
+  # Get verbose flag from data
+  verbose <- if (!is.null(data$verbose)) data$verbose else TRUE
+
   # Prepare bills data for LES calculation
-  cli_log("Preparing bills data...")
   bills_prepared <- data$bills %>%
     rename(sponsor = "LES_sponsor")
 
@@ -58,8 +60,6 @@ calculate_scores <- function(data, state, term) {
     filter(!.data$sponsor %in% data$legis_data$data_name)
   assert_no_bills_missing_sponsors(bills_missing_sponsors, data$legis_data)
 
-  cli_log("All bills have identified sponsors. Proceeding to LES calculation.")
-
   # Calculate weighted LES scores
   # Using original weights: SS=10, regular=5, commemorative=1
   # Using equal stage weights (not inverse probability)
@@ -71,11 +71,11 @@ calculate_scores <- function(data, state, term) {
     ss_weight = 10,
     reg_weight = 5,
     com_weight = 1,
-    stage_weights = c(1, 1, 1, 1, 1)
+    stage_weights = c(1, 1, 1, 1, 1),
+    verbose = verbose
   )
 
   # Calculate unweighted LES scores
-  cli_log("Calculating unweighted LES scores...")
   les_scores_unweighted <- calculate_les(
     state = state,
     bill_data = bills_prepared,
@@ -84,7 +84,8 @@ calculate_scores <- function(data, state, term) {
     ss_weight = 1,
     reg_weight = 1,
     com_weight = 1,
-    stage_weights = c(1, 1, 1, 1, 1)
+    stage_weights = c(1, 1, 1, 1, 1),
+    verbose = verbose
   )
 
   # Join unweighted scores to weighted scores
@@ -140,7 +141,8 @@ calculate_scores <- function(data, state, term) {
     leg_achievement_matrix = data$leg_achievement_matrix,
     bills = data$bills,
     legis_data = data$legis_data,
-    les_scores = les_scores
+    les_scores = les_scores,
+    verbose = data$verbose
   )
 }
 

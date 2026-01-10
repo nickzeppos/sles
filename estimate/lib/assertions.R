@@ -24,7 +24,8 @@ library(glue)
 #' Checks for duplicate rows and exits with error if found.
 #'
 #' @param bill_details Dataframe of bill details
-assert_no_duplicates <- function(bill_details) {
+#' @param verbose Show detailed logging
+assert_no_duplicates <- function(bill_details, verbose = TRUE) {
   if (nrow(bill_details) != nrow(distinct(bill_details))) {
     cli_warn("Duplicate bills found after cleaning!")
     cli_warn(glue("Distinct rows: {nrow(distinct(bill_details))}, ",
@@ -40,7 +41,7 @@ assert_no_duplicates <- function(bill_details) {
     cli_error("Breaking on dupe detection.")
     stop("Duplicate bills found")
   } else {
-    cli_log("No duplicate bills in scraped bill data")
+    if (verbose) cli_log("No duplicate bills in scraped bill data")
   }
 }
 
@@ -49,7 +50,8 @@ assert_no_duplicates <- function(bill_details) {
 #' Checks for bills with "by request" in LES_sponsor and exits if found.
 #'
 #' @param bill_details Dataframe of bill details
-assert_no_by_request_sponsored_bills <- function(bill_details) {
+#' @param verbose Show detailed logging
+assert_no_by_request_sponsored_bills <- function(bill_details, verbose = TRUE) {
   if (any(grepl("by request", bill_details$LES_sponsor))) {
     cli_warn("Bills with 'by request' found in LES_sponsor after cleanup")
     rows_with_by_request <- which(grepl("by request", bill_details$LES_sponsor))
@@ -58,7 +60,7 @@ assert_no_by_request_sponsored_bills <- function(bill_details) {
     cli_error("Exiting on 'by request' detection.")
     stop("'by request' bills found")
   } else {
-    cli_log("No 'by request' bills found in LES_sponsor after cleanup.")
+    if (verbose) cli_log("No 'by request' bills found in LES_sponsor after cleanup.")
   }
 }
 
@@ -67,7 +69,8 @@ assert_no_by_request_sponsored_bills <- function(bill_details) {
 #' Checks if any SS bills couldn't be joined to bill details.
 #'
 #' @param missing_ss_bills Dataframe of SS bills not found in bill_details
-assert_no_missing_ss_from_details <- function(missing_ss_bills) {
+#' @param verbose Show detailed logging
+assert_no_missing_ss_from_details <- function(missing_ss_bills, verbose = TRUE) {
   if (nrow(missing_ss_bills) > 0) {
     cli_warn(glue("Number of SS bills missing from bills data: ",
                   "{nrow(missing_ss_bills)}"))
@@ -75,7 +78,7 @@ assert_no_missing_ss_from_details <- function(missing_ss_bills) {
     cli_error("Exiting on missing SS bills from bills data.")
     stop("Missing SS bills")
   } else {
-    cli_log("No SS bills missing from bills data.")
+    if (verbose) cli_log("No SS bills missing from bills data.")
   }
 }
 
@@ -84,7 +87,8 @@ assert_no_missing_ss_from_details <- function(missing_ss_bills) {
 #' Checks for duplicate bill_ids in SS data before joining.
 #'
 #' @param duplicate_ss_bills Dataframe with bill_id and count columns
-assert_join_wont_yield_dupes <- function(duplicate_ss_bills) {
+#' @param verbose Show detailed logging
+assert_join_wont_yield_dupes <- function(duplicate_ss_bills, verbose = TRUE) {
   dupes <- duplicate_ss_bills %>% filter(.data$count > 1)
   if (nrow(dupes) > 0) {
     cli_warn("Duplicate ss bills found after join.")
@@ -92,7 +96,7 @@ assert_join_wont_yield_dupes <- function(duplicate_ss_bills) {
     cli_error("Exiting on duplicate ss bills after join.")
     stop("Duplicate SS bills")
   } else {
-    cli_log("No duplicate ss bills found after join.")
+    if (verbose) cli_log("No duplicate ss bills found after join.")
   }
 }
 
@@ -104,7 +108,8 @@ assert_join_wont_yield_dupes <- function(duplicate_ss_bills) {
 #' @param bills2 Dataframe of bills after join
 #' @param ss_term2 Dataframe of SS bills after join
 #' @param orig_row_n Vector of original row counts c(bills, ss_term)
-assert_ss_join_bill_details_validity <- function(bills2, ss_term2, orig_row_n) {
+#' @param verbose Show detailed logging
+assert_ss_join_bill_details_validity <- function(bills2, ss_term2, orig_row_n, verbose = TRUE) {
   if (!identical(c(nrow(bills2), nrow(ss_term2)), orig_row_n)) {
     cli_warn("Row counts changed after joining bills and ss_term.")
     cli_warn(glue("Bill rows: pre-join {orig_row_n[1]} -> ",
@@ -137,7 +142,7 @@ assert_ss_join_bill_details_validity <- function(bills2, ss_term2, orig_row_n) {
       stop("User cancelled on SS join validation")
     }
   } else {
-    cli_log("Row counts valid after joining bills and ss_term.")
+    if (verbose) cli_log("Row counts valid after joining bills and ss_term.")
   }
 }
 
@@ -148,7 +153,8 @@ assert_ss_join_bill_details_validity <- function(bills2, ss_term2, orig_row_n) {
 #' validate_legislators stage where proper manual review happens.
 #'
 #' @param unmatched_legiscan Dataframe of unmatched legiscan records
-assert_no_unmatched_legiscan_records <- function(unmatched_legiscan) {
+#' @param verbose Show detailed logging
+assert_no_unmatched_legiscan_records <- function(unmatched_legiscan, verbose = TRUE) {
   if (nrow(unmatched_legiscan) > 0) {
     cli_warn("Legiscan records that didn't match to bill sponsors:")
     print(unmatched_legiscan)
@@ -157,8 +163,10 @@ assert_no_unmatched_legiscan_records <- function(unmatched_legiscan) {
       "review and decide if they should be included with LES=0 or excluded."
     ))
   }
-  cli_log(glue("{nrow(unmatched_legiscan)} legiscan records unmatched ",
-               "to bill sponsors."))
+  if (verbose) {
+    cli_log(glue("{nrow(unmatched_legiscan)} legiscan records unmatched ",
+                 "to bill sponsors."))
+  }
 }
 
 #' Assert no unmatched bill sponsors
@@ -168,7 +176,8 @@ assert_no_unmatched_legiscan_records <- function(unmatched_legiscan) {
 #' appear in the legiscan roster, which typically indicates data quality issues.
 #'
 #' @param unmatched_sponsors Dataframe of unmatched sponsors
-assert_no_unmatched_bill_sponsors <- function(unmatched_sponsors) {
+#' @param verbose Show detailed logging
+assert_no_unmatched_bill_sponsors <- function(unmatched_sponsors, verbose = TRUE) {
   if (nrow(unmatched_sponsors) > 0) {
     cli_warn("Bill sponsors that didn't match to Legiscan records:")
     print(unmatched_sponsors)
@@ -177,8 +186,10 @@ assert_no_unmatched_bill_sponsors <- function(unmatched_sponsors) {
       "This may indicate name mismatches or data quality issues."
     ))
   }
-  cli_log(glue("{nrow(unmatched_sponsors)} bill sponsors unmatched ",
-               "to legiscan records."))
+  if (verbose) {
+    cli_log(glue("{nrow(unmatched_sponsors)} bill sponsors unmatched ",
+                 "to legiscan records."))
+  }
 }
 
 #' Assert no bills missing sponsors
@@ -262,14 +273,16 @@ assert_no_bills_missing_sponsors <- function(bills_missing_sponsors,
 #' @param bill_details_dupes Dataframe of duplicate bills
 #' @param bill_details Full bill details dataframe
 #' @param drop_unwanted_bills_fn Function to filter unwanted bills
+#' @param verbose Show detailed logging
 assert_duplicates_resolved_by_filtering <- function(bill_details_dupes,
                                                     bill_details,
-                                                    drop_unwanted_bills_fn) {
+                                                    drop_unwanted_bills_fn,
+                                                    verbose = TRUE) {
   if (nrow(bill_details_dupes) == 0) {
     return(invisible())
   }
 
-  cli_log("Testing if duplicate bills will be filtered out by downstream...")
+  if (verbose) cli_log("Testing if duplicate bills will be filtered out by downstream...")
 
   duplicate_bill_ids <- bill_details_dupes$bill_id
   duplicate_bills_detail <- bill_details %>%
@@ -278,8 +291,10 @@ assert_duplicates_resolved_by_filtering <- function(bill_details_dupes,
 
   filtered_bills <- drop_unwanted_bills_fn(duplicate_bills_detail)
 
-  cli_log(glue("Original duplicate bills: {nrow(duplicate_bills_detail)}"))
-  cli_log(glue("After filtering: {nrow(filtered_bills)}"))
+  if (verbose) {
+    cli_log(glue("Original duplicate bills: {nrow(duplicate_bills_detail)}"))
+    cli_log(glue("After filtering: {nrow(filtered_bills)}"))
+  }
 
   if (nrow(filtered_bills) > 0) {
     remaining_dupes <- filtered_bills %>%
@@ -291,10 +306,10 @@ assert_duplicates_resolved_by_filtering <- function(bill_details_dupes,
       cli_warn("Bills still duplicated after filtering - may need more logic:")
       print(remaining_dupes)
     } else {
-      cli_log("Filtering successfully resolves all duplicates.")
+      if (verbose) cli_log("Filtering successfully resolves all duplicates.")
     }
   } else {
-    cli_log("Filtering removes all duplicate bills - issue resolved.")
+    if (verbose) cli_log("Filtering removes all duplicate bills - issue resolved.")
   }
 }
 

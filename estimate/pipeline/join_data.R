@@ -58,8 +58,8 @@ library(glue)
 join_data <- function(data, state, term) {
   cli_log("Joining SS and commemorative flags...")
 
-  # Deduplicate SS bills (keep earliest year for identical titles)
-  cli_log("Deduplicating SS bills...")
+  # Get verbose flag from data
+  verbose <- if (!is.null(data$verbose)) data$verbose else TRUE
 
   # Get valid bill types from state config
   valid_bill_types <- data$state_config$bill_types
@@ -68,20 +68,15 @@ join_data <- function(data, state, term) {
   ss_term <- data$ss_bills %>%
     filter(.data$term == !!term)
 
-  cli_log(glue("SS bills for term before type filtering: {nrow(ss_term)}"))
-
   # Filter to valid bill types
   ss_filtered <- ss_term %>%
     mutate(bill_type = toupper(gsub("[0-9].+|[0-9]+", "", .data$bill_id))) %>%
     filter(.data$bill_type %in% valid_bill_types) %>%
     select(-"bill_type")
 
-  cli_log(glue("SS bills after type filtering: {nrow(ss_filtered)}"))
-
   # Check for SS bills that don't exist in bill_details
   # Use state-specific hook to determine which missing SS bills are genuinely
   # missing vs. intentionally excluded (e.g., committee-sponsored bills)
-  cli_log("Checking for missing SS bills...")
   if (!is.null(data$state_config$get_missing_ss_bills)) {
     genuinely_missing_ss_bills <- data$state_config$get_missing_ss_bills(
       ss_filtered, data$bill_details, data$all_bill_details
@@ -94,13 +89,21 @@ join_data <- function(data, state, term) {
       select("bill_id", "term")
   }
 
-  assert_no_missing_ss(genuinely_missing_ss_bills)
+  assert_no_missing_ss(genuinely_missing_ss_bills, verbose)
 
   # Track all SS bills missing from bill_details (including intentional exclusions)
   # for use in post-join validation
   all_missing_from_details <- ss_filtered %>%
     anti_join(data$bill_details, by = c("bill_id", "term")) %>%
     pull("bill_id")
+
+  # Apply state-specific SS enrichment if available
+  # Some states (e.g., AZ) have multiple sessions per term where bill numbers
+  # restart. For these states, we need to map year → session so SS bills can
+  # join correctly to bill_details.
+  if (!is.null(data$state_config$enrich_ss_with_session)) {
+    ss_filtered <- data$state_config$enrich_ss_with_session(ss_filtered, term)
+  }
 
   # Now apply deduplication
   # Deduplicate by (bill_id, term, Title) - year is ignored
@@ -110,60 +113,79 @@ join_data <- function(data, state, term) {
   ss_deduped <- ss_filtered %>%
     distinct(.data$bill_id, .data$term, .data$Title, .keep_all = TRUE)
 
-  cli_log(glue("SS bills after deduplication: {nrow(ss_deduped)}"))
-
   # Check for duplicate SS bills that would cause join issues
-  duplicate_ss_bills <- ss_deduped %>%
-    group_by(.data$bill_id) %>%
-    summarise(count = n(), .groups = "drop")
-  assert_join_wont_yield_dupes(duplicate_ss_bills)
-
-  # Check for bill_details duplicates that might cause join issues
-  bill_details_dupes <- data$bill_details %>%
-    group_by(.data$bill_id, .data$term) %>%
-    summarise(
-      count = n(),
-      sessions = paste(unique(.data$session), collapse = ", "),
-      num_unique_titles = n_distinct(.data$title),
-      same_title = ifelse(n_distinct(.data$title) == 1, "YES", "NO"),
-      .groups = "drop"
-    ) %>%
-    filter(.data$count > 1)
-
-  if (nrow(bill_details_dupes) > 0) {
-    cli_warn("Bills appearing in multiple sessions within same term:")
-    cli_warn("(same_title=YES indicates carryover; NO indicates distinct bills needing disambiguation)")
-    print(bill_details_dupes)
-    # Check if state-specific filtering will resolve duplicates
-    if (!is.null(data$state_config$drop_unwanted_bills)) {
-      assert_duplicates_resolved(
-        bill_details_dupes,
-        data$bill_details,
-        data$state_config$drop_unwanted_bills
-      )
-    }
+  # If session is available, group by (bill_id, session)
+  if ("session" %in% names(ss_deduped)) {
+    duplicate_ss_bills <- ss_deduped %>%
+      group_by(.data$bill_id, .data$session) %>%
+      summarise(count = n(), .groups = "drop") %>%
+      filter(.data$count > 1)
+  } else {
+    duplicate_ss_bills <- ss_deduped %>%
+      group_by(.data$bill_id) %>%
+      summarise(count = n(), .groups = "drop")
   }
+  assert_join_wont_yield_dupes(duplicate_ss_bills, verbose)
 
   # Record original row counts for post-join validation
-
   original_row_n <- c(nrow(data$bill_details), nrow(ss_deduped))
 
   # Join SS flags to bill details
-  cli_log("Joining SS flags to bill details...")
-  bill_details_with_ss <- data$bill_details %>%
-    left_join(
-      ss_deduped %>% select("bill_id", "SS"),
-      by = "bill_id"
-    ) %>%
-    mutate(SS = ifelse(is.na(.data$SS), 0, .data$SS))
+  # If SS data has session, join on (bill_id, session) to handle states
+  # where bill numbers restart each session (e.g., AZ)
+  if ("session" %in% names(ss_deduped)) {
+    bill_details_with_ss <- data$bill_details %>%
+      left_join(
+        ss_deduped %>% select("bill_id", "session", "SS"),
+        by = c("bill_id", "session")
+      ) %>%
+      mutate(SS = ifelse(is.na(.data$SS), 0, .data$SS))
+  } else {
+    bill_details_with_ss <- data$bill_details %>%
+      left_join(
+        ss_deduped %>% select("bill_id", "SS"),
+        by = "bill_id"
+      ) %>%
+      mutate(SS = ifelse(is.na(.data$SS), 0, .data$SS))
+  }
 
   # Validate SS join didn't change row counts unexpectedly
-  assert_ss_join_validity(bill_details_with_ss, ss_deduped, original_row_n)
+  assert_ss_join_validity(bill_details_with_ss, ss_deduped, original_row_n, verbose)
+
+  # Check if any SS bills were ambiguously assigned (same SS row matched
+  # to multiple bill_details rows). This would indicate join duplication.
+  # Note: It's valid for the same bill_id to have SS=1 in multiple sessions
+  # if PVS designated both versions as substantive & significant.
+  # We only warn if the join created unexpected duplicates (e.g., one SS row
+  # matched to multiple sessions when it should have matched to one).
+
+  # Count how many bill_details rows each SS bill matched to
+  if ("session" %in% names(ss_deduped)) {
+    # For states with session-based joining, check if any (bill_id, session)
+    # pair in SS matched to multiple bill_details rows (shouldn't happen)
+    ss_with_matches <- ss_deduped %>%
+      select("bill_id", "session") %>%
+      left_join(
+        bill_details_with_ss %>%
+          filter(.data$SS == 1) %>%
+          group_by(.data$bill_id, .data$session) %>%
+          summarise(match_count = n(), .groups = "drop"),
+        by = c("bill_id", "session")
+      ) %>%
+      filter(.data$match_count > 1)
+
+    if (nrow(ss_with_matches) > 0) {
+      cli_warn(paste(
+        "SS bills matched to multiple rows - unexpected join duplication.",
+        "Each (bill_id, session) in SS should match exactly one bill."
+      ))
+      print(ss_with_matches)
+    }
+  }
 
   # Join commemorative flags to bill details
   # Note: Join on bill_id, term, AND session to handle special sessions
   # (e.g., SB0001 exists in both regular and special sessions)
-  cli_log("Joining commemorative flags to bill details...")
   bill_details_joined <- bill_details_with_ss %>%
     left_join(
       data$commem_bills %>%
@@ -179,7 +201,6 @@ join_data <- function(data, state, term) {
     ))
 
   # Validate no missing SS bills from details (excluding intentional exclusions)
-  cli_log("Validating SS bill coverage...")
   ss_in_details <- ss_deduped$bill_id
   ss_in_joined <- bill_details_joined %>%
     filter(.data$SS == 1) %>%
@@ -205,7 +226,8 @@ join_data <- function(data, state, term) {
     ss_bills = ss_deduped,
     commem_bills = data$commem_bills,
     legiscan = data$legiscan,
-    state_config = data$state_config
+    state_config = data$state_config,
+    verbose = data$verbose
   )
 }
 

@@ -47,11 +47,14 @@ write_outputs_module <- source(
 )$value
 
 # Main estimation function
-estimate_les <- function(state, term) {
+estimate_les <- function(state, term, verbose = FALSE) {
   cat(sprintf("estimate_les called with state=%s, term=%s\n", state, term))
 
-  # Stage 1: Load data
-  data <- load_data_module$load_data(state, term)
+  # Stage 1: Load data (pass verbose immediately)
+  data <- load_data_module$load_data(state, term, verbose)
+
+  # Verbose flag already added in load_data, but ensure it's set
+  data$verbose <- verbose
 
   # Stage 2: Clean data
   data <- clean_data_module$clean_data(data, state, term)

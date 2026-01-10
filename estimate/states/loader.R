@@ -27,8 +27,9 @@ library(glue)
 #' No manual dispatch dictionary needed - discovers files automatically.
 #'
 #' @param state State postal code (e.g., "WI", "AR")
+#' @param verbose Logical, whether to show detailed logs (default TRUE)
 #' @return List containing state configuration
-load_state_config <- function(state) {
+load_state_config <- function(state, verbose = TRUE) {
   # Construct path to state config file
   repo_root <- get_repo_root()
   state_file <- file.path(repo_root, "estimate", "states",
@@ -56,7 +57,7 @@ load_state_config <- function(state) {
     quit(status = 1)
   }
 
-  cli_log(glue("Loaded configuration for {state}"))
+  if (verbose) cli_log(glue("Loaded configuration for {state}"))
   config
 }
 

@@ -17,14 +17,18 @@ args <- commandArgs(trailingOnly = TRUE)
 # Validate arguments
 if (length(args) < 3) {
   cat("Error: Missing required arguments\n")
-  cat("Usage: Rscript cli.R <state> <term> <operation>\n")
+  cat("Usage: Rscript cli.R <state> <term> <operation> [--verbose]\n")
   cat("Example: Rscript cli.R WI 2023_2024 estimate\n")
+  cat("         Rscript cli.R WI 2023_2024 estimate --verbose\n")
   quit(status = 1)
 }
 
 state <- args[1]
 term <- args[2]
 operation <- args[3]
+
+# Parse optional verbose flag
+verbose <- "--verbose" %in% args
 
 # Validate operation
 valid_operations <- c("estimate")
@@ -45,7 +49,7 @@ if (operation == "estimate") {
   estimate <- source("estimate/estimate.R", local = TRUE)$value
 
   # Run estimation
-  estimate$estimate_les(state, term)
+  estimate$estimate_les(state, term, verbose = verbose)
 
   cat("Estimation complete.\n")
 }

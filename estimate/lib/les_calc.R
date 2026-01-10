@@ -33,16 +33,17 @@ library(glue)
 #' @param com_weight Weight for commemorative bills (default 1)
 #' @param stage_weights Vector of 5 weights for achievement stages or
 #'   "inverse_prob"
+#' @param verbose Show detailed logging
 #' @return Dataframe of LES scores with detailed breakdowns
 calculate_les <- function(
     state, bill_data, legislator_data, session,
     ss_weight = 5, reg_weight = 1, com_weight = 1,
-    stage_weights = c(1, 1, 1, 1, 1)) {
+    stage_weights = c(1, 1, 1, 1, 1), verbose = TRUE) {
 
-  cli_log(glue("Calculating LES for {state} session {session}..."))
+  if (verbose) cli_log(glue("Calculating LES for {state} session {session}..."))
 
   # Match sponsors in bill_data to legislators
-  cli_log("Matching bill sponsors to legislators...")
+  if (verbose) cli_log("Matching bill sponsors to legislators...")
   bill_data$match_name <- NA
   bill_data$match_name <- as.character(bill_data$match_name)
 
@@ -305,7 +306,7 @@ calculate_les <- function(
     ungroup() %>%
     arrange(.data$chamber, .data$LES_rank)
 
-  cli_log(glue("LES calculation complete: {nrow(les_dat)} legislators"))
+  if (verbose) cli_log(glue("LES calculation complete: {nrow(les_dat)} legislators"))
 
   les_dat
 }

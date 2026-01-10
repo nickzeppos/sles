@@ -40,11 +40,13 @@ library(glue)
 clean_data <- function(data, state, term) {
   cli_log("Cleaning data...")
 
-  # Load state configuration
-  state_config <- load_state_config(state)
+  # Get verbose flag from data
+  verbose <- if (!is.null(data$verbose)) data$verbose else TRUE
+
+  # Get state configuration from data (already loaded in load_data stage)
+  state_config <- data$state_config
 
   # Clean SS bills (generic logic)
-  cli_log("Cleaning SS bills...")
   ss_bills_clean <- data$ss_bills %>%
     filter(.data$State == state) %>%
     rename(bill_id = "Bill No") %>%
@@ -76,11 +78,9 @@ clean_data <- function(data, state, term) {
     distinct(.data$term, .data$bill_id, .data$SS, .data$year, .data$Title)
 
   # Clean bill details (STATE-SPECIFIC)
-  cli_log("Cleaning bill details...")
-
   # Call state-specific clean_bill_details if available
   if (!is.null(state_config$clean_bill_details)) {
-    cleaned <- state_config$clean_bill_details(data$bill_details, term)
+    cleaned <- state_config$clean_bill_details(data$bill_details, term, verbose)
     all_bill_details <- cleaned$all_bill_details
     bill_details_clean <- cleaned$bill_details
   } else {
@@ -94,12 +94,10 @@ clean_data <- function(data, state, term) {
   }
 
   # Validate cleaned bill details
-  assert_no_duplicates(bill_details_clean)
-  assert_no_by_request(bill_details_clean)
+  assert_no_duplicates(bill_details_clean, verbose)
+  assert_no_by_request(bill_details_clean, verbose)
 
   # Clean bill history (STATE-SPECIFIC)
-  cli_log("Cleaning bill history...")
-
   # Call state-specific clean_bill_history if available
   if (!is.null(state_config$clean_bill_history)) {
     bill_history_clean <- state_config$clean_bill_history(
@@ -118,7 +116,8 @@ clean_data <- function(data, state, term) {
     ss_bills = ss_bills_clean,
     commem_bills = data$commem_bills,
     legiscan = data$legiscan,
-    state_config = state_config
+    state_config = state_config,
+    verbose = data$verbose
   )
 }
 

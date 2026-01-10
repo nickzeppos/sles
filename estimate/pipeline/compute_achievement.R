@@ -44,7 +44,6 @@ compute_achievement <- function(data, state, term) {
   step_terms <- data$state_config$step_terms
 
   # Initialize achievement matrix
-  cli_log("Evaluating bill histories...")
   all_bill_stages <- tibble(
     bill_id = character(0),
     term = character(0),
@@ -95,7 +94,8 @@ compute_achievement <- function(data, state, term) {
     commem_bills = data$commem_bills,
     legiscan = data$legiscan,
     state_config = data$state_config,
-    leg_achievement_matrix = all_bill_stages
+    leg_achievement_matrix = all_bill_stages,
+    verbose = data$verbose
   )
 }
 

@@ -38,7 +38,6 @@ reconcile_legislators <- function(data, state, term) {
   cli_log("Reconciling legislators with bill sponsors...")
 
   # Join achievement matrix to bill details to create unified bills dataset
-  cli_log("Joining achievement matrix to bill details...")
   bills <- left_join(
     data$bill_details,
     data$leg_achievement_matrix,
@@ -50,7 +49,6 @@ reconcile_legislators <- function(data, state, term) {
   state_config <- data$state_config
 
   # Derive unique sponsors (STATE-SPECIFIC)
-  cli_log("Deriving unique sponsors...")
   if (!is.null(state_config$derive_unique_sponsors)) {
     all_sponsors <- state_config$derive_unique_sponsors(bills, term)
   } else {
@@ -70,7 +68,6 @@ reconcile_legislators <- function(data, state, term) {
   }
 
   # Compute cosponsorship (STATE-SPECIFIC)
-  cli_log("Computing cosponsorship...")
   if (!is.null(state_config$compute_cosponsorship)) {
     all_sponsors <- state_config$compute_cosponsorship(all_sponsors, bills)
   } else {
@@ -79,7 +76,6 @@ reconcile_legislators <- function(data, state, term) {
   }
 
   # Clean sponsor names (STATE-SPECIFIC)
-  cli_log("Cleaning sponsor names...")
   if (!is.null(state_config$clean_sponsor_names)) {
     all_sponsors <- state_config$clean_sponsor_names(all_sponsors, term)
   } else {
@@ -95,7 +91,6 @@ reconcile_legislators <- function(data, state, term) {
   }
 
   # Adjust legiscan data (STATE-SPECIFIC)
-  cli_log("Adjusting legiscan data...")
   if (!is.null(state_config$adjust_legiscan_data)) {
     legiscan_adjusted <- state_config$adjust_legiscan_data(data$legiscan, term)
   } else {
@@ -116,7 +111,6 @@ reconcile_legislators <- function(data, state, term) {
   }
 
   # Reconcile legiscan with sponsors (STATE-SPECIFIC)
-  cli_log("Reconciling legiscan with bill sponsors...")
   if (!is.null(state_config$reconcile_legiscan_with_sponsors)) {
     all_sponsors_2 <- state_config$reconcile_legiscan_with_sponsors(
       all_sponsors, legiscan_adjusted, term
@@ -132,20 +126,21 @@ reconcile_legislators <- function(data, state, term) {
     )
   }
 
-  # Validate reconciliation
-  cli_log("Validating sponsor reconciliation...")
+  # Get verbose flag from data
+  verbose <- if (!is.null(data$verbose)) data$verbose else TRUE
 
+  # Validate reconciliation
   # Check for unmatched legiscan (in legiscan but not in bills)
   unmatched_legiscan <- all_sponsors_2 %>%
     filter(is.na(.data$LES_sponsor)) %>%
     select("name", "match_name_chamber", "party", "district")
-  assert_no_unmatched_legiscan(unmatched_legiscan)
+  assert_no_unmatched_legiscan(unmatched_legiscan, verbose)
 
   # Check for unmatched sponsors (in bills but not in legiscan)
   unmatched_sponsors <- all_sponsors_2 %>%
     filter(is.na(.data$name)) %>%
     select("LES_sponsor", "match_name_chamber", "num_sponsored_bills")
-  assert_no_unmatched_sponsors(unmatched_sponsors)
+  assert_no_unmatched_sponsors(unmatched_sponsors, verbose)
 
   # Check for duplicate matches (multiple legiscan records matched to same sponsor)
   # Multiple legiscan records shouldn't map to the same LES_sponsor
@@ -200,7 +195,8 @@ reconcile_legislators <- function(data, state, term) {
     state_config = data$state_config,
     leg_achievement_matrix = data$leg_achievement_matrix,
     bills = bills,
-    legis_data = legis_data
+    legis_data = legis_data,
+    verbose = data$verbose
   )
 }
 
