@@ -61,86 +61,86 @@ Output: `les_scores` with 39 columns including detailed breakdowns (all/ss/s/c b
 When running estimation for a new state/term, watch for these warning messages that indicate manual fixes are needed:
 
 ### 1. Duplicate Matches (Fuzzy Matching Errors)
-**Warning:** `Found duplicate matches - multiple legiscan records matched to same sponsor name`
-
-**What it means:** Multiple legislators in legiscan data are fuzzy-matching to the same bill sponsor. This typically happens when:
-- Two people have similar names (e.g., "J. Smith" matches both "John Smith" and "Jane Smith")
-- A legislator appears twice in legiscan with inconsistent role/district data (data error)
-
-**How to fix:** Add custom_match entries in the state's `reconcile_legiscan_with_sponsors` hook to either:
-- Explicitly map ambiguous names to the correct person (e.g., `"j. smith-h" = "john smith-h"`)
-- Exclude incorrect matches by mapping to NA (e.g., `"j. smith-s" = NA_character_`)
-
-**Example:** WI 2023_2024 had LaTonya Johnson appearing with both role="Rep" and role="Sen" but same district="SD-006" (Senate district), causing both to match as Senate. Fixed by filtering out the incorrect entry in `adjust_legiscan_data`.
+- Warning
+    - `Found duplicate matches - multiple legiscan records matched to same sponsor name`
+- What it means
+    - Multiple legislators in legiscan data are fuzzy-matching to the same bill sponsor. This typically happens when:
+        - Two people have similar names (e.g., "J. Smith" matches both "John Smith" and "Jane Smith")
+        - A legislator appears twice in legiscan with inconsistent role/district data (data error)
+- How to fix
+    - Add custom_match entries in the state's `reconcile_legiscan_with_sponsors` hook to either:
+        - Explicitly map ambiguous names to the correct person (e.g., `"j. smith-h" = "john smith-h"`)
+        - Exclude incorrect matches by mapping to NA (e.g., `"j. smith-s" = NA_character_`)
+- Example
+    - WI 2023_2024 had LaTonya Johnson appearing with both role="Rep" and role="Sen" but same district="SD-006" (Senate district), causing both to match as Senate. Fixed by filtering out the incorrect entry in `adjust_legiscan_data`.
 
 ### 2. Unmatched Bill Sponsors
-**Warning:** `X bill sponsors not matched to legislators`
-
-**What it means:** Bills have sponsors that couldn't be matched to any legislator in legiscan data. Common causes:
-- **Name spelling differences:** Sponsor appears as "McDonald" in bills but "Mcdonald" in legiscan
-- **Chamber switchers:** Legislator switched chambers mid-term and legiscan deduplication removed one chamber entry
-- **Missing legislators:** Person sponsored bills but isn't in legiscan data
-
-**How to fix:**
-- Check the printed unmatched sponsor names
-- For name spelling issues: Add name correction in `clean_sponsor_names` hook
-- For chamber switchers: Verify `distinct(people_id, role)` is used in load_data.R (keeps both chamber entries)
-- For legiscan inconsistencies: Add manual adjustments in `adjust_legiscan_data` hook
-
-**Example:** WI 2023_2024 had Dan Knodl switching House→Senate mid-term. Initial `distinct(people_id)` only kept one chamber entry. Fixed by changing to `distinct(people_id, role)` to preserve both.
+- Warning
+    - `X bill sponsors not matched to legislators`
+- What it means
+    - Bills have sponsors that couldn't be matched to any legislator in legiscan data. Common causes:
+        - Name spelling differences: Sponsor appears as "McDonald" in bills but "Mcdonald" in legiscan
+        - Chamber switchers: Legislator switched chambers mid-term and legiscan deduplication removed one chamber entry
+        - Missing legislators: Person sponsored bills but isn't in legiscan data
+- How to fix
+    - Check the printed unmatched sponsor names
+    - For name spelling issues: Add name correction in `clean_sponsor_names` hook
+    - For chamber switchers: Verify `distinct(people_id, role)` is used in load_data.R (keeps both chamber entries)
+    - For legiscan inconsistencies: Add manual adjustments in `adjust_legiscan_data` hook
+- Example
+    - WI 2023_2024 had Dan Knodl switching House→Senate mid-term. Initial `distinct(people_id)` only kept one chamber entry. Fixed by changing to `distinct(people_id, role)` to preserve both.
 
 ### 3. Unmatched Legiscan Entries
-**Warning:** `X legiscan records unmatched to bill sponsors`
-
-**What it means:** Legislators appear in legiscan data but have no bills in the sponsor data. This is often legitimate (legislators who sponsored zero bills), but can indicate:
-- Name formatting mismatches between legiscan and bill data
-- Legislators who served but didn't sponsor bills (should appear with LES=0)
-- Data errors (person shouldn't be in roster for this term)
-
-**How to fix:**
-- Check if these are legitimate zero-bill sponsors (common for newly elected members mid-term)
-- If name formatting issues, add corrections in state-specific hooks
-- If data errors, use the zero-LES legislator review workflow to mark them as `not_actually_in_chamber`
+- Warning
+    - `X legiscan records unmatched to bill sponsors`
+- What it means
+    - Legislators appear in legiscan data but have no bills in the sponsor data. This is often legitimate (legislators who sponsored zero bills), but can indicate:
+        - Name formatting mismatches between legiscan and bill data
+        - Legislators who served but didn't sponsor bills (should appear with LES=0)
+        - Data errors (person shouldn't be in roster for this term)
+- How to fix
+    - Check if these are legitimate zero-bill sponsors (common for newly elected members mid-term)
+    - If name formatting issues, add corrections in state-specific hooks
+    - If data errors, use the zero-LES legislator review workflow to mark them as `not_actually_in_chamber`
 
 ### 4. Missing SS Bills
-**Warning:** `X SS bills not found in bill details`
-
-**What it means:** Bills marked as Substantive & Significant in PVS data don't exist in the scraped bill details. Common causes:
-- **Committee-sponsored bills:** SS list includes bills sponsored by committees (excluded from LES calculation)
-- **Bill ID formatting mismatches:** SS data has "HB 123" but bills have "HB0123"
-- **Genuinely missing bills:** Data collection missed these bills
-
-**How to fix:**
-- Implement `get_missing_ss_bills` hook to identify intentionally excluded bills (e.g., committee-sponsored)
-- Check bill_id formatting consistency between SS data and bill_details
-- For genuinely missing bills, investigate data collection issues
-
-**Example:** AR 2023_2024 had 3 committee-sponsored SS bills. Fixed by implementing `get_missing_ss_bills` hook that excludes sponsors like "Joint Budget Committee".
+- Warning
+    - `X SS bills not found in bill details`
+- What it means
+    - Bills marked as Substantive & Significant in PVS data don't exist in the scraped bill details. Common causes:
+        - Committee-sponsored bills: SS list includes bills sponsored by committees (excluded from LES calculation)
+        - Bill ID formatting mismatches: SS data has "HB 123" but bills have "HB0123"
+        - Genuinely missing bills: Data collection missed these bills
+- How to fix
+    - Implement `get_missing_ss_bills` hook to identify intentionally excluded bills (e.g., committee-sponsored)
+    - Check bill_id formatting consistency between SS data and bill_details
+    - For genuinely missing bills, investigate data collection issues
+- Example
+    - AR 2023_2024 had 3 committee-sponsored SS bills. Fixed by implementing `get_missing_ss_bills` hook that excludes sponsors like "Joint Budget Committee".
 
 ### 5. Chamber Switchers (Multiple Chamber Entries)
-**Not a warning, but affects output:** Legislators who switched chambers mid-term should appear twice in LES output (once per chamber).
-
-**What to check:**
-- Does legislator appear in both House and Senate rows?
-- Are bill counts distinct (split appropriately by chamber)?
-- Are LES scores calculated separately for each chamber?
-
-**Expected behavior:** Following historical state-level approach, chamber-switchers appear in BOTH chambers with separate scores. This differs from federal practice where editorial determination assigns to one chamber.
-
-**Example:** WI 2023_2024 Dan Knodl: House (4 bills, LES=0.25, Rank 81), Senate (33 bills, LES=1.61, Rank 11).
+- Note
+    - Not a warning, but affects output: Legislators who switched chambers mid-term should appear twice in LES output (once per chamber).
+- What to check
+    - Does legislator appear in both House and Senate rows?
+    - Are bill counts distinct (split appropriately by chamber)?
+    - Are LES scores calculated separately for each chamber?
+- Expected behavior
+    - Following historical state-level approach, chamber-switchers appear in BOTH chambers with separate scores. This differs from federal practice where editorial determination assigns to one chamber.
+- Example
+    - WI 2023_2024 Dan Knodl: House (4 bills, LES=0.25, Rank 81), Senate (33 bills, LES=1.61, Rank 11).
 
 ### Known Issues
 
-1. **Substring matching bug in LES calculation (FIXED):** The original codebase used grepl() for substring matching when assigning bills to legislators in calc_LES_fx.R. This caused bills to be incorrectly assigned when one legislator's last name was a substring of another's (e.g., "rye" matching "puryear", "scott" matching "r. scott richardson"). In these cases, the shorter name would overwrite the correct assignment if it appeared later in the iteration order, giving the wrong legislator credit for someone else's bills. Fixed by changing from grepl(search_name, sponsor) to exact matching (sponsor == search_name) in estimate/lib/les_calc.R:53. This affects all states estimated with the old codebase where substring name collisions exist.
+1. Substring matching bug in LES calculation: The original codebase used grepl() for substring matching when assigning bills to legislators in calc_LES_fx. This caused bills to be incorrectly assigned when one legislator's last name was a substring of another's (e.g., "rye" matching "puryear", "scott" matching "r. scott richardson"). In these cases, the shorter name would overwrite the correct assignment if it appeared later in the iteration order, giving the wrong legislator credit for someone else's bills. Fixed by changing from grepl(search_name, sponsor) to exact matching. This possibly affects all states estimated with the old codebase where substring name collisions exist.
 
-- Discovered while debugging AR 2023_2024: Chad Puryear had LES=0 despite sponsoring 2 bills (one became law).
-- Root cause: Johnny Rye appeared after Puryear in legis_data iteration order, so grepl("rye", "puryear") matched and overwrote Puryear's bills with Rye's name.
-- Result: Puryear got LES=0 (no bills), Rye got inflated LES (7 bills instead of 5).
+- Discovered while debugging AR 2023_2024: Chad Puryear had LES=0 despite num_sponsored_bills = 2.
+- Johnny Rye appeared after Puryear in legis_data iteration order, so grepl("rye", "puryear") matched and overwrote Puryear's bills with Rye's name.
+- 0 (instead of 2) bills attributed to puryear, 7 (instead of 5) attrbuted to rye.
 - Same issue affected Jamie Scott vs. R. Scott Richardson (grepl("scott", "r. scott richardson") incorrectly matched Richardson's bills to Scott).
-- Fix confirmed: After switching to exact matching, Puryear LES=0.29 (2 bills, 1 law), Rye LES=0.16 (5 bills), Scott/Richardson counts corrected.
-- This bug exists in .dropbox/old_estimate_scripts/calc_LES_fx.R lines 20/23/26, affecting all previously generated scores where name substring collisions occurred.
+- This bug exists in old calc_LES_fx script, it seems. Did it impact old score calcs?
 
-2. **SS year-duplicate deduplication:** Some bills appear in PVS data for multiple years within the same term with identical titles, but distinct year values. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. Ideally we'd just make the initial distinct() call more intelligent, but, trying to remain faithful for now. See ss_duplicate_investigation.ipynb for full walkthrough.
+2. SS year-duplicate deduplication: Some bills appear in PVS data for multiple years within the same term with identical titles, but distinct year values. The original codebase's distinct() call doesn't catch these because it includes year in the key, so duplicates persist through the SS join and inflate row counts if left untreated. In the original codebase, this would recurringly error as "merge failed" without any meaningful off ramps or notes. My temp fix: group by (bill_id, term) and keep only the earliest year for identical titles. Ideally we'd just make the initial distinct() call more intelligent, but, trying to remain faithful for now. See ss_duplicate_investigation.ipynb for full walkthrough.
 
 - Back and forth with Connor on this suggests WI 23-24 is the first time data has necessary conditions for this to happen. Briefly:
 - We merge PVS into scraped bills data to properly code SS column.
@@ -171,6 +171,54 @@ When running estimation for a new state/term, watch for these warning messages t
 - This evenutally led to an undocumented script failure.
 - And, apparently, WI 23-24 was the first state + term to have this odd feature.
 
+
+## State-Specific Oddities
+
+### Kansas
+
+Kansas bill-side sponsor data is a bit weird. 1,2 and 1-3 were handled in old codebase. I had to add 4,5 to deal with 2023-2024 data. How it works: there's a decision hierarchy that's a function of the original_sponsor and requested_by fields. Hierarchy is something like this:
+
+Where an identifiable legislator appears in the original_sponsor field, that is the LES_sponsor. This can happen one of two ways:
+
+1) One identifiable legislator.
+- LES_Sponsor is self-evident
+```
+("Senator Steffen", "") => "steffen"
+```
+2) Multiple identifiable legislators.
+- LES_Sponsor is first appearing
+```
+("Senator Thompson; Senator Steffen", "") => "thompson"
+```
+
+In cases where no identifiable sponsor appears in the original_sponsor field, requested_by can present one of five ways (independent of name variants):
+
+1) One identifiable legislator.
+- LES_sponsor is self-evident
+```
+("Committee on Assessment and Taxation", "Senator Faust-Goudeau") => "faust-goudeau"
+```
+2) Multiple identifiable legislators.
+- LES_sponsor is first appearing.
+```
+("Committee on Corrections and Juvenile Justice", "Representative Barth and Representative Schmoe") => "barth"
+```
+3) An identifiable legislator, on behalf of a non-legislative entity.
+```
+- LES_sponsor is self-evident.
+("Committee on Federal and State Affairs", "Senator Bowers on behalf of Capitol Preservation Committee") => "bowers"
+```
+4) An identifiable legislator, on behalf of an identifiable legislator and a non-legislative entity.
+```
+- LES_sponsor is
+("Committee on Local Government", "Representative Blex on behalf of Representative Bryce and the City of Independence") => "bryce"
+```
+5) An identifiable legislator, on behalf of multiple legislators.
+```
+("Committee on Taxation", "Representative Smith, A. on behalf of Representative Eric Smith and North Lyon County Veterans Memorial Project") => "eric smith"
+``` 
+
+Patterns 4 and 5 are new.
 
 ## Helpful for claude code ref, if using
 
