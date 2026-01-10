@@ -209,7 +209,7 @@ In cases where no identifiable sponsor appears in the original_sponsor field, re
 ```
 5) An identifiable legislator, on behalf of multiple legislators.
 ```
-("Committee on Taxation", "Representative Smith, A. on behalf of Representative Eric Smith and North Lyon County Veterans Memorial Project") => "eric smith"
+("Committee on Energy, Utilities and Telecommunications", "Representative Delperdang on behalf of Representative Hoffman and Representative Carmichael") => "hoffman"
 ``` 
 
 Patterns 4 and 5 are new.
