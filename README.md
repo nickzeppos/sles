@@ -181,12 +181,10 @@ Kansas bill-side sponsor data is a bit weird. 1,2 and 1-3 were handled in old co
 Where an identifiable legislator appears in the original_sponsor field, that is the LES_sponsor. This can happen one of two ways:
 
 1) One identifiable legislator.
-- LES_Sponsor is self-evident
 ```
 ("Senator Steffen", "") => "steffen"
 ```
 2) Multiple identifiable legislators.
-- LES_Sponsor is first appearing
 ```
 ("Senator Thompson; Senator Steffen", "") => "thompson"
 ```
@@ -194,23 +192,19 @@ Where an identifiable legislator appears in the original_sponsor field, that is 
 In cases where no identifiable sponsor appears in the original_sponsor field, requested_by can present one of five ways (independent of name variants):
 
 1) One identifiable legislator.
-- LES_sponsor is self-evident
 ```
 ("Committee on Assessment and Taxation", "Senator Faust-Goudeau") => "faust-goudeau"
 ```
 2) Multiple identifiable legislators.
-- LES_sponsor is first appearing.
 ```
 ("Committee on Corrections and Juvenile Justice", "Representative Barth and Representative Schmoe") => "barth"
 ```
 3) An identifiable legislator, on behalf of a non-legislative entity.
 ```
-- LES_sponsor is self-evident.
 ("Committee on Federal and State Affairs", "Senator Bowers on behalf of Capitol Preservation Committee") => "bowers"
 ```
 4) An identifiable legislator, on behalf of an identifiable legislator and a non-legislative entity.
 ```
-- LES_sponsor is
 ("Committee on Local Government", "Representative Blex on behalf of Representative Bryce and the City of Independence") => "bryce"
 ```
 5) An identifiable legislator, on behalf of multiple legislators.
@@ -254,4 +248,4 @@ CLI → Operation Modules (estimate, commem, compile)
 - Generic logic in pipeline, state quirks in state files
 
 ---
-Updated: 2026-01-02
+Updated: 2026-01-10
