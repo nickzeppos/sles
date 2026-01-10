@@ -36,13 +36,14 @@ library(glue)
 #'
 #' @param state State postal code (e.g., "WI")
 #' @param term Term in format "YYYY_YYYY" (e.g., "2023_2024")
+#' @param verbose Logical, whether to show detailed logs (default TRUE)
 #' @return List containing: bill_details, bill_history, ss_bills,
 #'         commem_bills, legiscan
-load_data <- function(state, term) {
+load_data <- function(state, term, verbose = TRUE) {
   cli_log(glue("Loading data for {state} {term}..."))
 
   # Load state configuration
-  state_config <- load_state_config(state)
+  state_config <- load_state_config(state, verbose)
 
   # Parse term into start and end years
   years <- strsplit(term, "_")[[1]]
@@ -59,31 +60,35 @@ load_data <- function(state, term) {
   commem_dir <- get_commem_dir(state)
   legiscan_dir <- get_legiscan_dir(state)
 
-  # Determine bill file suffix (state-specific for AR, default to year)
-  if (!is.null(state_config$get_bill_file_suffix)) {
-    bill_suffix <- state_config$get_bill_file_suffix(term)
+  # Load bill files - use state hook if available, otherwise default logic
+  if (!is.null(state_config$load_bill_files)) {
+    bill_data <- state_config$load_bill_files(bill_dir, state, term, verbose)
+    bill_details <- bill_data$bill_details
+    bill_history <- bill_data$bill_history
   } else {
-    bill_suffix <- term_start_year
+    # Default: single file per term with suffix
+    if (!is.null(state_config$get_bill_file_suffix)) {
+      bill_suffix <- state_config$get_bill_file_suffix(term)
+    } else {
+      bill_suffix <- term_start_year
+    }
+
+    # Load bill details (single file with suffix contains full term)
+    bill_details <- read_csv(
+      file.path(bill_dir,
+                glue("{state}_Bill_Details_{bill_suffix}.csv")),
+      show_col_types = FALSE
+    )
+
+    # Load bill histories (single file with suffix contains full term)
+    bill_history <- read_csv(
+      file.path(bill_dir,
+                glue("{state}_Bill_Histories_{bill_suffix}.csv")),
+      show_col_types = FALSE
+    )
   }
 
-  # Load bill details (single file with suffix contains full term)
-  cli_log("Loading bill details...")
-  bill_details <- read_csv(
-    file.path(bill_dir,
-              glue("{state}_Bill_Details_{bill_suffix}.csv")),
-    show_col_types = FALSE
-  )
-
-  # Load bill histories (single file with suffix contains full term)
-  cli_log("Loading bill histories...")
-  bill_history <- read_csv(
-    file.path(bill_dir,
-              glue("{state}_Bill_Histories_{bill_suffix}.csv")),
-    show_col_types = FALSE
-  )
-
   # Load SS bills (two separate year files, combine them)
-  cli_log("Loading Substantive & Significant bills...")
   ss_bills <- bind_rows(
     read_csv(file.path(ss_dir,
                        glue("{state}_SS_Bills_{term_start_year}.csv")),
@@ -94,14 +99,12 @@ load_data <- function(state, term) {
   )
 
   # Load commemorative bills (single file for term)
-  cli_log("Loading commemorative bills...")
   commem_bills <- read_csv(
     file.path(commem_dir, glue("{state}_Commem_Bills_{term}.csv")),
     show_col_types = FALSE
   )
 
   # Load legiscan data (from all sessions for this term)
-  cli_log("Loading Legiscan legislator data...")
   # List all session directories
   legiscan_sessions <- list.dirs(legiscan_dir, full.names = FALSE,
                                  recursive = FALSE)
@@ -128,7 +131,6 @@ load_data <- function(state, term) {
 
   # Apply state-specific preprocessing to normalize raw data (Stage 1.5)
   if (!is.null(state_config$preprocess_raw_data)) {
-    cli_log("Applying state-specific preprocessing...")
     preprocessed <- state_config$preprocess_raw_data(
       bill_details = bill_details,
       bill_history = bill_history,
@@ -138,14 +140,15 @@ load_data <- function(state, term) {
     bill_history <- preprocessed$bill_history
   }
 
-  # Return all datasets including state config
+  # Return all datasets including state config and verbose flag
   list(
     bill_details = bill_details,
     bill_history = bill_history,
     ss_bills = ss_bills,
     commem_bills = commem_bills,
     legiscan = legiscan,
-    state_config = state_config
+    state_config = state_config,
+    verbose = verbose
   )
 }
 
