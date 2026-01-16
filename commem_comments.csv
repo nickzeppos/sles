@@ -1,0 +1,670 @@
+state,bill_id,term_session_title,summary,commem,comments
+AR,HB1145,2023_2024|2023-RS|TO CREATE LUPUS AWARENESS DAY.,,1,"awareness day, but no visible policy impact here (e.g., no closing offices)"
+AR,HB1331,2023_2024|2023-RS|TO ESTABLISH JUNE 12 OF EACH YEAR AS WOMAN VETERANS DAY.,,1,"again, designation of a day, but no policy impact other than awareness"
+AR,HB1393,2023_2024|2023-RS|TO CREATE MENTAL HEALTH AWARENESS WEEK IN PUBLIC SCHOOLS.,,1,"again, designation, but no policy impact other than awareness"
+AR,HB1767,2023_2024|2023-RS|TO RECOGNIZE ARKANSAS MUSICIANS; AND TO AMEND THE MUSICIANS HONORED ON ARKANSAS MUSIC APPRECIATION DAY.,,1,"again, recognition, awareness week for AR musicians, but no policy impact"
+AR,HB1801,2023_2024|2023-RS|TO REORGANIZE THE STANDING COMMITTEES AND THE SUBJECT MATTER INTERIM COMMITTEES OF THE HOUSE OF REPRESENTATIVES; TO RENAME THE JOINT COMMITTEE ON ENERGY AND THE JOINT INTERIM COMMITTEE ON ENERGY.,,0,"change to S, reorg of legisl committees affects legislative process"
+AR,SB335,"2023_2024|2023-RS|TO AMEND THE LAW CONCERNING THE ARKANSAS CAPITOL GROUNDS MONUMENT AND MEMORIAL PRESERVATION FUND; TO AMEND THE LAW CONCERNING THE MAINTENANCE, REPAIR, AND UPKEEP OF MONUMENTS AND MEMORIALS AREAS ON STATE CAPITOL GROUNDS.",,0,"change to S, amending laws regarding fundfs for monument upkeep"
+AR,SB535,"2023_2024|2023-RS|TO CREATE THE ""GLEN CAMPBELL MEMORIAL HIGHWAY"".",,1,"designation of a road, but nothing other than a renaming"
+AZ,SB1395,2023_2024|RS1|indigenous peoples; civil rights holidays,indigenous peoples; civil rights holidays,0,"""holidays enumerated"" means day off/closed offices so upgraded to S"
+AZ,SB1627,2023_2024|RS1|technical correction; Arbor day,technical correction; Arbor day,1,"again, seems to just be raising awareness, not closing offices"
+AZ,SB1140,2023_2024|RS2|technical correction; Arbor day,technical correction; Arbor day,1,"again, seems to just be raising awareness, not closing offices"
+AZ,SB1110,2023_2024|RS2|monument and memorial repair fund,monument and memorial repair fund,0,change to S since it deals with a fund ($ set aside for project)
+AZ,HB2824,2023_2024|RS2|students; community service commendation,students; community service commendation,1,commendation is clearly commemorative
+AZ,SB1628,2023_2024|RS1|public offices; holidays; technical correction,public offices; holidays; technical correction,1,could go other either way but tech correction makes me keep it at C (may disagree)
+AZ,SB1009,2023_2024|RS1|criminal damage; monuments; memorials; statues,criminal damage; monuments; memorials; statues,0,creating memorials = commemorative
+AZ,SB1303,2023_2024|RS2|ABOR; high school honors endorsements,ABOR; high school honors endorsements,1,endorsements are not tangible & are commem (ceremonial)
+AZ,HB2187,2023_2024|RS1|day of racial healing; observed,day of racial healing; observed,1,"focuses on community building, but no offices closed"
+AZ,HB2001,2023_2024|RS2|day of racial healing; observed,day of racial healing; observed,1,"focuses on community building, but no offices closed"
+AZ,HB2304,2023_2024|RS2|Buffalo Soldiers Arizona territory monument,Buffalo Soldiers Arizona territory monument,1,good as is - creating monument is commemorative
+AZ,HB2798,2023_2024|RS2|peace pole monument; governmental mall,peace pole monument; governmental mall,1,good as is - creating monument is commemorative
+AZ,SB1513,2023_2024|RS2|peace pole monument; governmental mall.,peace pole monument; governmental mall.,1,good as is - creating monument is commemorative
+AZ,HB2171,2023_2024|RS1|Don Bolles memorial.,Don Bolles memorial.,1,good as is - memorial to celebrity clearly commemorative
+AZ,SB1039,2023_2024|RS1|Don Bolles memorial,Don Bolles memorial,1,good as is - memorial to celebrity clearly commemorative
+AZ,HB2595,2023_2024|RS2|Don Bolles memorial,Don Bolles memorial,1,good as is - memorial to celebrity clearly commemorative
+AZ,HB2330,2023_2024|RS1|post-traumatic stress injury day,post-traumatic stress injury day,1,"solely to raise awareness, no policy impacts/closed offices"
+AZ,HB2577,2023_2024|RS2|post-traumatic stress injury day,post-traumatic stress injury day,1,"solely to raise awareness, no policy impacts/closed offices"
+AZ,HB2805,2023_2024|RS2|holiday; Indigenous Peoples' day.,holiday; Indigenous Peoples' day.,0,upgraded b/c says some AZ offices closed on this day
+AZ,SB1694,2023_2024|RS2|holiday; Indigenous Peoples' day,holiday; Indigenous Peoples' day,0,upgraded b/c says some AZ offices closed on this day
+AZ,HB2515,2023_2024|RS1|holiday; Indigenous Peoples' day,holiday; Indigenous Peoples' day,0,upgraded b/c says some AZ offices closed on this day (same as Columbus Day)
+AZ,SB1635,2023_2024|RS1|holiday; Indigenous Peoples' day.,holiday; Indigenous Peoples' day.,0,upgraded b/c says some AZ offices closed on this day (same as Columbus Day)
+AZ,SB1141,2023_2024|RS2|public offices; holidays; technical correction,public offices; holidays; technical correction,0,"upgrading b/c key word says ""closing of offices"""
+AZ,SB1286,2023_2024|RS2|elections; voting centers; polling places,elections; voting centers; polling places,0,upgrading to S b/c deals with elections (typically a day off to vote)
+AZ,SB1174,2023_2024|RS2|tuition; family; posttraumatic stress; suicide,tuition; family; posttraumatic stress; suicide,0,upgrading to S b/c deals with tuition assistance & reimburses
+KS,SB0039,2023_2024|2023-2024-RS|Directing the capitol preservation committee to develop and approve plans for a mural honoring the 1st Kansas (Colored) Voluntary Infantry regiment.,,1,creating mural - clearly commem
+KS,HB2088,2023_2024|2023-2024-RS|Directing the capitol preservation committee to develop and approve plans for a mural honoring the 1st Kansas (Colored) Voluntary Infantry regiment.,,1,creating mural - commem
+KS,HB2507,2023_2024|2023-2024-RS|Designating a bridge in Sumner county as the SrA Derek Scott Martin memorial bridge.,,1,designating bridge - commem
+KS,SB0357,2023_2024|2023-2024-RS|Designating a portion of United States highway 81 as the Merle Miller memorial highway.,,1,designating highway - commem
+KS,HB2014,2023_2024|2023-2024-RS|Designating a portion of United States highway 69 in Crawford county as the Robert Lessen memorial highway.,,1,designating highway - commem
+KS,HB2298,2023_2024|2023-2024-RS|Designating a portion of interstate 435 as the Officer Donald Burton Gamblin Jr memorial highway and a portion of United States highway 69 as the Robert Lessen memorial highway.,,1,designating highway - commem
+KS,HB2481,"2023_2024|2023-2024-RS|Designating portions of K-96 highway as the PFC Henry Lee Fisher memorial highway and the 96th Infantry Division memorial highway, a portion of United States highway 69 as the Ken W Brock memorial highway, a portion of United States highway 81 as the Merle Miller memorial highway and a portion of United States highway 281 as the first responders memorial highway, redesignating a current portion of the American Legion memorial highway for United States highway 281 and redesignating a current portion of the Frank Carlson memorial highway for United States highway 81, designating bridge No. 160-96-293.72 in Sumner county as the SrA Derek Scott Martin memorial bridge and designating the Atchison, Topeka and Santa Fe #3415 as the official state steam locomotive and the Abilene & Smoky Valley Railroad as the official state heritage railroad.",,1,designating highway - commem
+KS,HB2575,"2023_2024|2023-2024-RS|Designating a portion of K-96 highway as the 96th ""Deadeye"" Infantry Division memorial highway.",,1,designating highway - commem
+KS,HB2799,2023_2024|2023-2024-RS|Designating a portion of United States highway 281 in Russell county as the first responders memorial highway and redesignating a portion of the American Legion memorial highway.,,1,designating highway - commem
+KS,SB0334,2023_2024|2023-2024-RS|Designating the Abilene & Smoky Valley Railroad as the official state heritage railroad.,,1,designating railroad - commem
+KS,HB2502,2023_2024|2023-2024-RS|Designating the Abilene & Smoky Valley Railroad as the official state heritage railroad.,,1,designating railroad - commem
+KS,SB0337,"2023_2024|2023-2024-RS|Designating the Atchison, Topeka and Santa Fe #3415 as the official state steam locomotive.",,1,designating trains as official - commem
+KS,SB0003,2023_2024|2023-2024-RS|Designating Silvisaurus condrayi as the official state land fossil.,,1,designation of fossil - stays at commem
+KS,SB0431,2023_2024|2023-2024-RS|Directing the capitol preservation committee to approve plans for a memorial honoring Emil Joseph Kapaun.,,1,memorial - commem
+KS,SB0132,2023_2024|2023-2024-RS|Providing for the buffalo soldier distinctive license plate.,,1,"providing for signifies funding towards project, upgrade"
+KS,SB0342,2023_2024|2023-2024-RS|Providing for the Sedgwick county zoo distinctive license plate.,,1,"providing for signifies funding towards project, upgrade"
+KS,SB0400,2023_2024|2023-2024-RS|Providing for the sporting Kansas City distinctive license plate.,,1,"providing for signifies funding towards project, upgrade"
+KS,HB2296,2023_2024|2023-2024-RS|Providing for the knights of Columbus license plate.,,1,"providing for signifies funding towards project, upgrade"
+KS,HB2346,2023_2024|2023-2024-RS|Providing for the back the blue license plate and the city of Topeka distinctive license plate and allowing distinctive license plates to be personalized license plates.,,1,"providing for signifies funding towards project, upgrade"
+KS,HB2482,2023_2024|2023-2024-RS|Providing for the 1st Infantry Division and the armed services occupation medal distinctive license plates.,,1,"providing for signifies funding towards project, upgrade"
+KS,HB2500,2023_2024|2023-2024-RS|Providing for the delta waterfowl distinctive license plate.,,1,"providing for signifies funding towards project, upgrade"
+KS,HB2558,2023_2024|2023-2024-RS|Providing for the armed services occupation medal distinctive license plate.,,1,"providing for signifies funding towards project, upgrade"
+KS,HB2706,2023_2024|2023-2024-RS|Providing for model year license plate decals to be displayed on antique trucks and motorcycles.,,1,"providing for signifies funding towards project, upgrade"
+KS,SB0157,2023_2024|2023-2024-RS|Designating February 15 of each year as Susan B. Anthony Day in the state of Kansas.,,1,"seems like nothing substantive, so keep at C"
+KS,SB0059,"2023_2024|2023-2024-RS|Designating ""Martin Luther King, Jr. Day at the Capitol.""",,1,"tricky, but keeping C b/c MLK Day is already observed (this is just more events)"
+KS,HB2331,2023_2024|2023-2024-RS|Designating Lehigh Portland state park.,,1,"tricky, but keeping this C because designation & no visible policy impact"
+KY,SB0270,2023_2024|2023-RS|AN ACT relating to state holidays.,"Amend KRS 2.147 and 18A.190 to make June 19, also known as ""Juneteenth National Freedom Day,"" a state holiday for state employees.",0,"state holiday w/day off clearly S, upgraded"
+KY,HB0367,2023_2024|2023-RS|AN ACT relating to state symbols.,Amend KRS 2.091 to name and designate coal as the official rock of Kentucky; amend KRS 2.094 to name and designate chalcedony agate as the official mineral of Kentucky.,1,"designating rocks & minerals, stays at C"
+KY,SB0133,2023_2024|2023-RS|AN ACT designating the state dog breed.,Create a new section of KRS Chapter 2 to designate the Treeing Walker Coonhound as the official state dog of Kentucky.,1,"designating official state dog, stays at C"
+KY,HB0211,2023_2024|2023-RS|AN ACT relating to public holidays.,Amend KRS 2.110  to revise the public holidays on which public offices in the Commonwealth may be closed.,0,"upgraded, deals with dates on which offices closed"
+KY,HB0218,2023_2024|2023-RS|AN ACT relating to the Honor and Remember flag.,"Create a new section of KRS Chapter 2 to define and designate the Honor and Remember flag as the state's emblem of the service and sacrifice of the brave men and women of the United States Armed Forces who have given their lives in the line of duty; specify locations, dates, and circumstances under which the flag may be displayed; and provide that if Congress designates a flag to honor those service members who have given their lives in the line of duty, then that flag shall be used instead of the one created by Honor and Remember, Inc.",1,"stays at C, honoring fallen vets, flags, desig state emblem"
+KY,HB0166,2023_2024|2023-RS|AN ACT relating to state symbols.,Create a new section of KRS Chapter 2 to name and designate as the official pets of Kentucky domestic cats and dogs that reside in or have been adopted from Kentucky animal shelters or rescue organizations.,1,"stays at C, designating official pets"
+KY,HB0183,2023_2024|2023-RS|AN ACT relating to state holidays.,Amend KRS 2.110 to replace the third day of June with the nineteenth of June as a public holiday to commemorate Juneteenth National Freedom Day.,0,"upgraded to S, ""public holiday"""
+KY,HB0206,2023_2024|2023-RS|AN ACT relating to state holidays.,Amend KRS 2.110 to add the nineteenth day of June as a state holiday commemorating Juneteenth National Freedom Day.,0,"upgraded to S, state holiday w/day off"
+KY,HB0100,2023_2024|2023-RS|AN ACT relating to the Legislative Research Commission.,"Create new sections of KRS Chapter 7 to define ""federal action,"" ""global organization action,"" and ""subcommittee"";  establish the Committee on Constitutional Enforcement; establish subcommittee membership, terms, and quorum requirements; allow the subcommittee to review and comment on any federal action or global organization action; require the subcommittee, upon its review to refer a federal action or global organization action to the Attorney General or to make a recommendation to the General Assembly to adopt a resolution urging Congress to take action if it finds the federal action or global organization action violates the Kentucky Constitution.",0,"upgraed to S, new legisl committee with new responsibility"
+KY,HB0076,2023_2024|2023-RS|AN ACT relating to dates of recognition.,Create a new section of KRS Chapter 2 to annually honor dates of agricultural recognition.,1,"stays C,  ""honoring"" and ""recognition"""
+KY,HB0014,2023_2024|2023-RS|AN ACT relating to special license plates.,"Create a new section of KRS Chapter 186 to create an EMS special license plate; limit eligibility to certain licensed EMS personnel or retirees with 20 years of service; specify that the EMS plate requires no minimum number of applications prior to production; amend KRS 186.162 to establish the fees for the EMS special license plate, including an additional contribution to the Kentucky EMS Memorial Foundation; amend KRS 186.166 to update the list of special license plates to be perpetually produced; EFFECTIVE January 1, 2024.",0,upgrade because providing funds for this license plate
+KY,HB0028,2023_2024|2023-RS|AN ACT relating to Tuskegee Airmen Commemoration Day.,Create a new section of KRS Chapter 2 to designate the fourth Thursday in March of each year as Tuskegee Airmen Commemoration Day.,1,"designation of day, nothing is closing/changes, stays at C"
+KY,HB0065,"2023_2024|2023-RS|AN ACT relating to allowing the Freedom Flag to be flown as a Flag of Remembrance each September 11, which is known as Patriots Day.",Create a new section of KRS Chapter 2 to allow the Freedom Flag to be flown as a Flag of Remembrance each September 11.,1,"stays C, deals with flying flags"
+KY,HB0634,2023_2024|2024-RS|AN ACT relating to posthumous name changes.,"Amend KRS 401.010 to allow a family member of a deceased person to posthumously change the deceased person's name if the name is the result of marriage to a person arrested for or charged with committing an offense intentionally, knowingly, or wantonly, which resulted in the death of the deceased;  provide that the order of priority of family members is the same as in KRS 367.93117.",0,"weird law, but changed due to changing legal names"
+KY,SB0204,2023_2024|2024-RS|AN ACT designating the state dog breed.,Create a new section of KRS Chapter 2 to designate the Treeing Walker Coonhound as the official state dog of Kentucky.,1,"stays C, designating official state dog"
+KY,HB0494,2023_2024|2024-RS|AN ACT relating to state symbols.,Create a new section of KRS Chapter 2 to name and designate as the official pets of Kentucky domestic cats and dogs that reside in or have been adopted from Kentucky animal shelters or rescue organizations.,1,"stays at C, designating official pets"
+KY,HB0004,2023_2024|2024-RS|AN ACT proposing to amend the Constitution of Kentucky relating to sessions of the General Assembly.,Propose to create a new section of the Constitution of Kentucky to establish that the General Assembly shall determine the date a regular session shall end unless another date is agreed upon by three-fifths of the membership of each House; establish that the General Assembly may be convened upon a Joint Proclamation of the President of the Senate and the Speaker of the House for no more than 12 legislative days annually; provide ballot language; submit to voters for ratification or rejection.,0,"upgraded, seems S, rules change, referenda to voters"
+KY,SB0164,2023_2024|2024-RS|AN ACT relating to building trade professions.,"Creates a new section of KRS Chapter 198B to allow articulation agreements between licensed proprietary schools and public school districts or state area technology centers to establish academic or training equivalencies needed to obtain licensure, and to require that the Department of Housing, Buildings and Construction recognize and honor the articulation agreements toward licensure in the professions regulated by the department, including electricians, plumbers, and HVAC.",0,"upgraded, seems S, agreements between schools"
+KY,HB0421,2023_2024|2024-RS|AN ACT relating to child care programs.,"Amend KRS 199.894 to define ""Child Care and Development Fund"", ""Child Care Assistance Program"" and to rename and redefine the family child-care home program to the ""family, friend, and neighbor child-care home""; create a new section of KRS 199.892 to 199.896 to expand eligibility requirements for the Child Care Assistance Program; amend KRS 199.8982 to rename the family child-care home program to the family, friend, and neighbor child-care home program; establish that certified family, friend, and neighbor child-care home providers shall be eligible for payments from the Child Care Assistance Program; amend various other sections to conform.",0,"""expanding eligibility"" for funding, upgraded to S"
+KY,HB0378,2023_2024|2024-RS|AN ACT relating to state symbols.,Amends KRS 2.091 to designate coal as the official rock of Kentucky; amends KRS 2.092 to designate Kentucky agate as the official gemstone of Kentucky; and amends KRS 2.094 to designate calcite as the official mineral of Kentucky.,1,designating coal/limestone stays at C
+KY,HB0360,"2023_2024|2024-RS|AN ACT relating to dependency, neglect, and abuse.","Amend KRS 620.030 to require any person with reasonable knowledge of the matter to notify the local law enforcement agency or the Department of Kentucky State Police, the Cabinet for Health and Family Services or its designated representative, the Commonwealth's attorney, or the county attorney that a child has been born to a parent who has another child in the care, custody, or control of the cabinet or other person as a result of removal pursuant to KRS Chapter 620; amend KRS 620.040 to require the local law enforcement agency or the Department of Kentucky State Police, the Cabinet for Health and Family Services or its designated representative, the Commonwealth's attorney, or the county attorney to be notified a child has been born to a parent who has another child in the care, custody, or control of the cabinet or other person as a result of removal pursuant to KRS Chapter 620; establish a rebuttable presumption that a child born to a parent who has another child in the care, custody, or control of the cabinet or other person as a result of removal pursuant to this chapter is in immediate danger of dependency, neglect, or abuse; amend KRS 620.050 to require the Cabinet for Health and Family Services to investigate when it receives notice that a child has been born to a parent who has another child in the care, custody, or control of the cabinet or other person as a result of removal pursuant to KRS Chapter 620; amend KRS 620.060 to establish that ex parte emergency custody order may be issued when a parent or other person exercising custodial control or supervision has another child in the care, custody, or control of the Cabinet for Health and Family Services or other person as a result a removal pursuant to this chapter, creating a rebuttable presumption that the child is in immediate danger of dependency, neglect, or abuse; amend KRS 620.080 to establish a rebuttable presumption that the child would be dependent, neglected, or abused if returned to or left in the custody of his or her parent or other person exercising custodial control or supervision if the parent or other person exercising custodial control or supervision has another child in the care, custody, or control of the Cabinet for Health and Family Services or other person as a result a removal pursuant to this chapter.",0,"upgraded, seems S, deals with children & police"
+KY,HB0369,2023_2024|2024-RS|AN ACT relating to public holidays.,"Amend KRS 2.110 to remove Robert E. Lee Day, Confederate Memorial Day, and Jefferson Davis Day from the list of public holidays.",1,"stays at C, because still workdays for state employees"
+KY,HB0219,"2023_2024|2024-RS|AN ACT relating to allowing the Freedom Flag to be flown as a Flag of Remembrance each September 11, which is known as Patriot Day.",Create a new section of KRS Chapter 2 to allow the Freedom Flag to be flown as a Flag of Remembrance each September 11.,1,"flying flags, stays at C"
+KY,HB0234,2023_2024|2024-RS|AN ACT relating to state holidays.,Amend KRS 2.110 to add the nineteenth day of June as a state holiday commemorating Juneteenth National Freedom Day.,0,"upgraded, deals with a state holiday"
+KY,HB0200,2023_2024|2024-RS|AN ACT relating to the military.,"Amends KRS 40.010 and 40.400 to include the United States Space Force in the definition of “Armed Forces”; amends KRS 154.12-203 to include the United States Army Reserve Aviation Command in the membership of the Kentucky Commission on Military Affairs; amends KRS 156.730, the Interstate Compact on Educational Opportunity for Military Children, correcting a citation to federal law; amends KRS 156.735 to include the children of National Guard and Reserve personnel within the rights granted under that compact; amends KRS 186.041 to include the United States Space Force as an eligible branch of the military to request a special military license plate; amends KRS 186.162 to include the Legion of Merit Medal as an eligible status; and amends KRS 186.166 to include the Legion of Merit Medal for perpetual license plate production.",0,"upgraded, including entire new branch of military in state"
+ME,SP0030,"2023_2024|RS1|Resolve, to Rename a Bridge in the Town of Freeport the Matthew MacMillan Memorial Bridge",,1,"renaming bridge, C"
+ME,SP0036,"2023_2024|RS1|Resolve, to Rename the Bridge Between Bingham and Concord Township on Route 16 the Jason Dore Memorial Bridge",,1,"renaming bridge, C"
+ME,HP0190,2023_2024|RS1|An Act to Establish Maine Needham Day,,1,"establishing state day, C"
+ME,HP0198,"2023_2024|SS1|An Act to Establish Pilot Initiatives to Promote, Grow and Sustain Adult Day Care and Respite Programs in Maine",,0,"establshing new initatives/programs, upgraded"
+ME,SP0139,"2023_2024|RS1|Resolve, to Designate the Route 170 Bridge Located in Webster Plantation the Gary ""Swampy"" Worster Memorial Bridge",,1,"renaming bridge, C"
+ME,SP0152,"2023_2024|RS1|Resolve, to Name a Bridge in the Town of Canaan After Staff Sergeant Richard Gerald Salsbury",,1,"renaming bridge, C"
+ME,HP0218,2023_2024|RS1|An Act to Establish Maine Alewife Day,,1,"designating state day, C"
+ME,HP0233,"2023_2024|SS1|Resolve, Naming Portions of a Highway in St. George",,1,"renaming highway, C"
+ME,SP0183,"2023_2024|RS2|Resolve, to Rename Bridges in the Towns of Limerick, Hiram and Limington",,1,"renaming bridges, C"
+ME,SP0209,2023_2024|SS1|An Act Regarding a COVID-19 Memorial,,1,"establishing memorial, C"
+ME,HP0391,2023_2024|RS2|An Act to Reduce Conflicts Between Landowners and Deer and Add an Additional Youth Deer Hunting Day,,0,"upgraded, seems like could have public impacts re hunting/shooting"
+ME,HP0405,2023_2024|SS1|An Act to Designate Maine Irish Heritage Day,,1,"designating state day, C"
+ME,HP0429,"2023_2024|SS1|Resolve, Naming a Pond in the Town of New Gloucester as MacDonald Pond",,1,"renaming pond, C"
+ME,HP0430,"2023_2024|SS1|Resolve, Naming a Pond in Elm Stream Township as Plummer Pond",,1,"renaming pond, C"
+ME,HP0638,"2023_2024|SS1|Resolve, Directing the Department of Education to Study the School Day",,0,"directing department to study day, upgraded (policy impact likely)"
+ME,HP0665,"2023_2024|SS1|Resolve, to Establish a Commission to Commemorate the 250th Anniversary of the Founding of the United States",,1,"establish commem commission, C"
+ME,SP0456,"2023_2024|SS1|Resolve, to Rename Bridges in the Town of Cornish",,1,"renaming bridges, C"
+ME,HP0966,2023_2024|RS2|An Act to Update the Laws Governing the University of Maine System's Board of Agriculture and to Rename the Maine Agricultural Experiment Station,,0,"updating laws governing Agriculture, upgraded"
+ME,HP1159,"2023_2024|SS1|Resolve, to Provide for One Month of Free Passenger Rail Service in Maine",,0,"upgraded to S, providing free train service"
+ME,HP1175,"2023_2024|SS1|Resolve, to Name a Bridge in the Town of Bremen the Kitty Breskin Memorial Bridge",,1,"renaming bridges, C"
+ME,HP1198,"2023_2024|SS1|Resolve, to Name 2 Brooks in the Town of Orient",,1,"renaming brooks, C"
+ME,HP1318,"2023_2024|RS2|Resolve, Designating Route 127 in Arrowsic the Private Merwin A. Delano, Jr. Memorial Highway",,1,"designating state route, C"
+ME,SP0924,"2023_2024|RS2|Resolve, to Rename the Interstate 295 Interchange in the Town of Freeport the Matthew MacMillan Bridge",,1,"renaming interchange, C"
+ME,HP1430,2023_2024|RS2|An Act to Establish the Wabanaki Veterans Memorial,,1,"establishing memorial, C"
+ME,SP0959,"2023_2024|RS2|Resolve, to Rename a Bridge in the Town of Mechanic Falls the Bill Dunlop Memorial Bridge",,1,"renaming bridge, C"
+MN,HF4665,2023_2024|2023-RS|,"A bill for an act relating to veterans; allowing county boards to annually appropriate money for Veterans Day exercises; amending Minnesota Statutes 2022, section 375.35.",0,"power to county boards to appropriate $, upgraded"
+MN,HF4629,2023_2024|2023-RS|,"A bill for an act relating to hemp products; establishing a petition process to designate cannabinoids as nonintoxicating or approved for use in lower-potency hemp edibles; authorizing lower-potency hemp edibles to contain certain artificially derived cannabinoids created in making delta-9 tetrahydrocannabinol; allowing testing of certain hemp products to be performed by labs meeting accreditation standards regardless of licensing status; designating cannabinol and cannabichromene as nonintoxicating cannabinoids; providing for lower-potency hemp vapes; making conforming changes; amending Minnesota Statutes 2023 Supplement, sections 342.01, subdivision 50, by adding a subdivision; 342.06; 342.46, subdivision 8; 342.61, subdivision 1; 342.63, subdivision 5; 342.66, subdivisions 3, 6; proposing coding for new law in Minnesota Statutes, chapter 342.",0,"designating cannabis in new group, upgraded"
+MN,HF4589,2023_2024|2023-RS|,"A bill for an act relating to transportation; establishing a special license plate for veterans who received the Army of Occupation Medal; making technical changes; amending Minnesota Statutes 2022, section 168.123.",1,"new license plate for group, C"
+MN,HF4239,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the state fossil; proposing coding for new law in Minnesota Statutes, chapter 1.",1,"state fossil designation, C"
+MN,HF4237,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating a portion of marked U.S. Highway 169 between Marble and Mountain Iron as ""Senator David J. Tomassoni Memorial Cross Range Expressway""; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"highway designation, C"
+MN,HF4201,2023_2024|2023-RS|,"A bill for an act relating to local government; removing monetary caps for observance of Memorial Day; amending Minnesota Statutes 2022, sections 375.34; 375.35.",1,"tricky, but keeping at C b/c deals with $ people spend for celebration day"
+MN,HF4079,2023_2024|2023-RS|,"A bill for an act relating to state government; establishing an annual observance for 1st Minnesota Day; proposing coding for new law in Minnesota Statutes, chapter 10.",1,"designating holiday but no work closings, C"
+MN,HF3904,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating the bridge on marked U.S. Highway 212 over the Minnesota River in the city of Granite Falls as ""Mayor Dave Smiglewski Memorial Bridge""; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"bridge designation, C"
+MN,HF3797,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating a portion of marked U.S. Highway 14 as ""Robert Beussman Memorial Highway""; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"highway designation, C"
+MN,HF3437,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating the Michael Gau Memorial Bridge over U.S. Highway 169 on Hennepin County State-Aid Highway 9 in the city of Plymouth; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"bridge designation, C"
+MN,HF3305,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating an overpass in Pope County as the Deputy Josh Owen Memorial Overpass; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"overpass designation, C"
+MN,HF3303,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating an overpass in Pope County as the Deputy Josh Owen Memorial Overpass; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"overpass designation, C"
+MN,HF3108,2023_2024|2023-RS|,A bill for an act relating to academic health care facilities; designating certain academic health care facilities as essential to the University of Minnesota's public health mission.,0,"clearly S, designating health care as essential to Univ"
+MN,HF2584,2023_2024|2023-RS|,"A bill for an act relating to motor vehicles; establishing an Air Medal special veterans license plate; amending Minnesota Statutes 2022, section 168.123, subdivision 2.",1,"new license plate for group, C"
+MN,HF2421,2023_2024|2023-RS|,"A bill for an act relating to health; designating thrombectomy-capable stroke centers; amending Minnesota Statutes 2022, sections 144.493, by adding a subdivision; 144.494, subdivision 2; 144E.16, subdivision 7.",0,"clearly S, designating certified stroke centers"
+MN,HF1968,2023_2024|2023-RS|,"A bill for an act relating to transportation; amending the description of the Caleb L. Erickson Memorial Highway in Waseca County; amending Minnesota Statutes 2022, section 161.14, subdivision 97.",1,"highway designation, C"
+MN,HF1529,2023_2024|2023-RS|,"A bill for an act relating to transit; designating responsible authorities for light rail transit projects; amending Minnesota Statutes 2022, sections 473.3993, subdivision 4; 473.3994, subdivision 1a.",0,"designating groups of people for projects, upgraded"
+MN,HF1354,2023_2024|2023-RS|,"A bill for an act relating to state government; replacing references to Christopher Columbus Day with Indigenous Peoples Day; amending Minnesota Statutes 2022, section 645.44, subdivision 5.",1,"just changing name of state holiday, C"
+MN,HF1258,2023_2024|2023-RS|,"A bill for an act relating to transportation; establishing a special license plate for National Defense Service Medal recipients; making technical changes; amending Minnesota Statutes 2022, section 168.123.",1,"new license plate for group, C"
+MN,HF1229,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the state fossil; proposing coding for new law in Minnesota Statutes, chapter 1.",1,"state fossil designation, C"
+MN,HF0884,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the Freedom Flag as an official symbol of the state's commitment to remembering the American lives lost as a result of the terrorist attacks of September 11, 2001; encouraging display of the flag on certain days in certain public locations; proposing coding for new law in Minnesota Statutes, chapter 10.",1,"designating official flag, C"
+MN,HF0717,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating a segment of marked Trunk Highway 5 in Chanhassen as Prince Rogers Nelson Memorial Highway; modifying the Augie Mueller Memorial Highway; amending Minnesota Statutes 2022, section 161.14, subdivision 40, by adding a subdivision.",1,"highway designation, C"
+MN,HF0211,2023_2024|2023-RS|,"A bill for an act relating to holiday observances; requiring school observance of Indigenous Peoples Day; establishing Indigenous Peoples Day as a state holiday and eliminating Christopher Columbus Day as a state holiday; amending Minnesota Statutes 2022, sections 120A.42; 645.44, subdivision 5, as amended.",0,"require observance of IPD - closures, upgraded"
+MN,HF0194,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the state fire museum; proposing coding for new law in Minnesota Statutes, chapter 1.",1,"museum designation, C"
+MN,SF5038,2023_2024|2023-RS|,"A bill for an act relating to education; establishing Workplace Readiness Week; proposing coding for new law in Minnesota Statutes, chapter 124D.",1,"establishing official week in schools, C"
+MN,SF4963,2023_2024|2023-RS|,"A bill for an act relating to transportation; establishing a special license plate for veterans who received the Army of Occupation Medal; making technical changes; amending Minnesota Statutes 2022, section 168.123.",1,"new license plate for group, C"
+MN,SF4856,2023_2024|2023-RS|,"A bill for an act relating to state government; designating state entities that may have unmarked vehicles; amending Minnesota Statutes 2022, section 16B.54, subdivision 2.",0,state vehicles unmarked (like cop cars?) seems S more than C
+MN,SF4754,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating a portion of marked U.S. Highway 169 between Marble and Mountain Iron as ""Senator David J. Tomassoni Memorial Cross Range Expressway""; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"highway designation, C"
+MN,SF3950,2023_2024|2023-RS|,"A bill for an act relating to state government; establishing an annual observance for 1st Minnesota Day; proposing coding for new law in Minnesota Statutes, chapter 10.",1,"designating holiday but no work closings, C"
+MN,SF3881,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating a portion of marked U.S. Highway 169 between Marble and Mountain Iron as ""Senator David J. Tomassoni Memorial Cross Range Expressway""; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"expressway designation, C"
+MN,SF3798,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating the Michael Gau Memorial Bridge over U.S. Highway 169 on Hennepin County State-Aid Highway 9 in the city of Plymouth; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"bridge designation, C"
+MN,SF3766,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating the bridge on marked U.S. Highway 212 over the Minnesota River in the city of Granite Falls as ""Mayor Dave Smiglewski Memorial Bridge""; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"bridge designation, C"
+MN,SF3743,2023_2024|2023-RS|,"A bill for an act relating to local government; removing monetary caps for observance of Memorial Day; amending Minnesota Statutes 2022, sections 375.34; 375.35.",1,"tricky, but keeping at C b/c deals with $ people spend for celebration day"
+MN,SF3321,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating an overpass in Pope County as the Deputy Josh Owen Memorial Overpass; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"overpass designation, C"
+MN,SF3124,2023_2024|2023-RS|,A bill for an act relating to academic health care facilities; designating certain academic health care facilities as essential to the University of Minnesota's public health mission.,0,"clearly S, designating health care as essential to Univ"
+MN,SF2562,2023_2024|2023-RS|,"A bill for an act relating to transit; designating responsible authorities for light rail transit projects; amending Minnesota Statutes 2022, sections 473.3993, subdivision 4; 473.3994, subdivision 1a.",0,"designating groups of people for projects, upgraded"
+MN,SF2508,2023_2024|2023-RS|,"A bill for an act relating to health; designating thrombectomy-capable stroke centers; amending Minnesota Statutes 2022, sections 144.493, by adding a subdivision; 144.494, subdivision 2; 144E.16, subdivision 7.",0,"clearly S, designating certified stroke centers"
+MN,SF2151,2023_2024|2023-RS|,"A bill for an act relating to motor vehicles; establishing an Air Medal special veterans license plate; amending Minnesota Statutes 2022, section 168.123, subdivision 2.",1,"establishing veteran license plate, C"
+MN,SF2133,2023_2024|2023-RS|,"A bill for an act relating to transportation; renaming the Division of Driver and Vehicle Services within the Department of Public Safety; amending Minnesota Statutes 2022, sections 168.325, subdivision 1; 171.168, subdivision 1; 171.3215, subdivision 4.",1,"renaming DDVS department, C"
+MN,SF1658,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the state fire museum; proposing coding for new law in Minnesota Statutes, chapter 1.",1,"designating museum, C"
+MN,SF1545,2023_2024|2023-RS|,"A bill for an act relating to transportation; amending the description of the Caleb L. Erickson Memorial Highway in Waseca County; amending Minnesota Statutes 2022, section 161.14, subdivision 97.",1,"highway amendment, C"
+MN,SF1343,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the state fossil; proposing coding for new law in Minnesota Statutes, chapter 1.",1,"state fossil designation, C"
+MN,SF1243,2023_2024|2023-RS|,"A bill for an act relating to transportation; establishing a special license plate for National Defense Service Medal recipients; making technical changes; amending Minnesota Statutes 2022, section 168.123.",1,"license plate for group, C"
+MN,SF0820,2023_2024|2023-RS|,"A bill for an act relating to state government; replacing references to Christopher Columbus Day with Indigenous Peoples Day; amending Minnesota Statutes 2022, section 645.44, subdivision 5.",1,"name change for official holiday, C"
+MN,SF0592,2023_2024|2023-RS|,"A bill for an act relating to state government; designating the Freedom Flag as an official symbol of the state's commitment to remembering the American lives lost as a result of the terrorist attacks of September 11, 2001; encouraging display of the flag on certain days in certain public locations; proposing coding for new law in Minnesota Statutes, chapter 10.",1,"designation of flag, C"
+MN,SF0279,2023_2024|2023-RS|,"A bill for an act relating to transportation; designating a segment of marked Trunk Highway 5 in Chanhassen as Prince Rogers Nelson Memorial Highway; amending Minnesota Statutes 2022, section 161.14, by adding a subdivision.",1,"highway designation, C"
+MN,SF0104,2023_2024|2023-RS|,"A bill for an act relating to holiday observances; requiring school observance of Indigenous Peoples' Day; establishing Indigenous Peoples' Day as a state holiday and eliminating Christopher Columbus Day as a state holiday; amending Minnesota Statutes 2022, sections 120A.42; 645.44, subdivision 5.",0,"require observance of IPD - closures, upgraded"
+MO,HB1407,2023_2024|2024-RS|NA,,1,"designating bridge, C"
+MO,HB1496,2023_2024|2024-RS|NA,,0,"upgraded, sets aside $ for veterans to get awards/medals"
+MO,HB1562,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB1566,2023_2024|2024-RS|NA,,1,"bridge/highway design, C"
+MO,HB1593,2023_2024|2024-RS|NA,,1,"month designation, C"
+MO,HB1594,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB1595,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB1624,2023_2024|2024-RS|NA,,1,"official dish design, C"
+MO,HB1661,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB1662,2023_2024|2024-RS|NA,,1,"bridge/highway design, C"
+MO,HB1816,2023_2024|2024-RS|NA,,1,"celebratory month design, C"
+MO,HB1839,2023_2024|2024-RS|NA,,1,"park renaming, C"
+MO,HB1908,2023_2024|2024-RS|NA,,1,"memorial designation, C"
+MO,HB1924,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB1934,2023_2024|2024-RS|NA,,1,"designating trails, C"
+MO,HB2100,2023_2024|2024-RS|NA,,0,"requires dept to install signs, upgraded"
+MO,HB2162,2023_2024|2024-RS|NA,,1,"bridge design, C"
+MO,HB2171,2023_2024|2024-RS|NA,,1,"apple capital design, C"
+MO,HB2172,2023_2024|2024-RS|NA,,1,"mural city design, C"
+MO,HB2176,2023_2024|2024-RS|NA,,1,"memorial highway design, C"
+MO,HB2189,2023_2024|2024-RS|NA,,1,"cheese design, C"
+MO,HB2222,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2241,2023_2024|2024-RS|NA,,1,"designating commem week, C"
+MO,HB2320,2023_2024|2024-RS|NA,,1,"designating city, C"
+MO,HB2321,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2346,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2399,2023_2024|2024-RS|NA,,1,"renaming HQ, C"
+MO,HB2461,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,HB2486,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2491,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2580,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2591,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2616,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2639,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,HB2646,2023_2024|2024-RS|NA,,1,"whiskey design, C"
+MO,HB2653,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,HB2659,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,HB2662,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,HB2684,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2738,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2739,2023_2024|2024-RS|NA,,1,"bridge design, C"
+MO,HB2751,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2767,2023_2024|2024-RS|NA,,1,"designating remembrance holiday, C"
+MO,HB2773,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2797,2023_2024|2024-RS|NA,,1,"designating bridges and highways, C"
+MO,HB2821,2023_2024|2024-RS|NA,,1,"designating commem holiday, C"
+MO,HB2822,2023_2024|2024-RS|NA,,1,"designating highway, C"
+MO,HB2833,2023_2024|2024-RS|NA,,1,"designating commem week, C"
+MO,HB2878,2023_2024|2024-RS|NA,,1,"designating highway, C"
+MO,HB0043,2023_2024|2023-RS|NA,,1,"designating state work, C"
+MO,HB0044,2023_2024|2023-RS|NA,,1,"designating highway, C"
+MO,HB0067,2023_2024|2023-RS|NA,,1,"designating bridge, C"
+MO,HB0094,2023_2024|2023-RS|NA,,1,"designating highway, C"
+MO,HB0112,2023_2024|2023-RS|NA,,0,"requring schools to observe a month, seems S to me"
+MO,HB0201,2023_2024|2023-RS|NA,,1,"designating bridge, C"
+MO,HB0212,2023_2024|2023-RS|NA,,1,"designating commem day, C"
+MO,HB0224,2023_2024|2023-RS|NA,,1,"rifle design, C"
+MO,HB0434,2023_2024|2023-RS|NA,,1,"designating commem day, C"
+MO,HB0436,2023_2024|2023-RS|NA,,1,"designating commem day, C"
+MO,HB0487,2023_2024|2023-RS|NA,,1,"designating bridge, C"
+MO,HB0518,2023_2024|2023-RS|NA,,0,"directing dept to fund memorial costs, upgraded"
+MO,HB0528,2023_2024|2023-RS|NA,,1,"designating bridge, C"
+MO,HB0530,2023_2024|2023-RS|NA,,1,"designating rifle, C"
+MO,HB0547,2023_2024|2023-RS|NA,,1,"designating bridge, C"
+MO,HB0623,2023_2024|2023-RS|NA,,0,"raising avaliability of meds, upgraded"
+MO,HB0689,2023_2024|2023-RS|NA,,1,"renaming bridge, C"
+MO,HB0715,2023_2024|2023-RS|NA,,0,"means to determine state aid for custody kids, upgraded"
+MO,HB0736,2023_2024|2023-RS|NA,,1,"celebratory months, C"
+MO,HB0746,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,HB0788,2023_2024|2023-RS|NA,,1,"offical State Fair food, C"
+MO,HB0817,2023_2024|2023-RS|NA,,1,"remembrance month, C"
+MO,HB0836,2023_2024|2023-RS|NA,,0,"upgraded, sets aside $ for veterans to get awards/medals"
+MO,HB0877,2023_2024|2023-RS|NA,,1,"awareness month, C"
+MO,HB0882,2023_2024|2023-RS|NA,,0,"directing dept to fund memorial costs, upgraded"
+MO,HB0885,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB0920,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB0921,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB0936,2023_2024|2023-RS|NA,,1,keeping at C b/c just seems to rename Columbus Day here
+MO,HB0963,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB0976,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB0999,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB1035,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,HB1051,2023_2024|2023-RS|NA,,1,"month design, C"
+MO,HB1055,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,HB1166,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,HB1261,2023_2024|2023-RS|NA,,1,"UFO capital design, C"
+MO,HB1276,2023_2024|2023-RS|NA,,1,"bridge design, C"
+MO,HB1325,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB1376,2023_2024|2023-RS|NA,,1,"trail design, C"
+MO,HB1377,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,HB1391,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,HB1395,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,SB1058,2023_2024|2024-RS|NA,,1,"commem day design, C"
+MO,SB1144,2023_2024|2024-RS|NA,,1,"commem day design, C"
+MO,SB1278,2023_2024|2024-RS|NA,,1,"state slogan design, C"
+MO,SB1308,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,SB1381,2023_2024|2024-RS|NA,,1,"bridge design, C"
+MO,SB1417,2023_2024|2024-RS|NA,,1,"commem day design, C"
+MO,SB1432,2023_2024|2024-RS|NA,,1,"Black History week design, C"
+MO,SB1453,2023_2024|2024-RS|NA,,1,"highway design, C"
+MO,SB1464,2023_2024|2024-RS|NA,,1,"commem day design, C"
+MO,SB1465,2023_2024|2024-RS|NA,,1,"commem day design, C"
+MO,SB1490,2023_2024|2024-RS|NA,,1,"commem day design, C"
+MO,SB0216,2023_2024|2023-RS|NA,,1,"highway design, C"
+MO,SB0517,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,SB0518,2023_2024|2023-RS|NA,,1,"bridge design, C"
+MO,SB0584,2023_2024|2023-RS|NA,,1,"commem day design, C"
+MO,SB0609,2023_2024|2023-RS|NA,,0,potentially dealing with teacher lawsuits so upgraded
+MO,SB0611,2023_2024|2023-RS|NA,,0,"upgraded, sets aside $ for veterans to get awards/medals"
+NC,HB0060,2023_2024|2023-RS|,,1,"stays at C, awareness week for illness"
+NC,HB0166,2023_2024|2023-RS|,,1,"stays at C, deals with Am Indians wearing symbols at graduation"
+NC,HB0387,2023_2024|2023-RS|,,1,"stays at C, award for certain group"
+NC,HB0427,2023_2024|2023-RS|,,1,"C, honoring women/license plate"
+NC,HB0480,2023_2024|2023-RS|,,1,"stays at C, adopt awareness day"
+NC,HB0783,2023_2024|2023-RS|,,0,"repealing law, has to do with localgov, upgraded"
+NC,SB0022,2023_2024|2023-RS|,,1,"renaming council, C"
+NC,SB0139,2023_2024|2023-RS|,,1,"stays at C, deals with Am Indians wearing symbols at graduation"
+NC,SB0301,2023_2024|2023-RS|,,1,"designating May as commem month, C"
+NC,SB0315,2023_2024|2023-RS|,,0,"upgraded, ensures no cuts are made to this program"
+NC,SB0359,2023_2024|2023-RS|,,1,"stays at C, award for certain group"
+NE,LB0479,2023_2024|RS|,"Transfer the Office of Probation Administration to the executive branch, rename the Division of Parole Supervision as the Parole Supervision Agency, and remove such agency from the Board of Parole",0,"upgraded, transfering office/removing agency"
+NE,LB1102,2023_2024|RS|,"Declare October 17 as Nebraska Missing Persons Day and May 19 as El-Hajj Malik El-Shabazz, Malcolm X Day",1,"stays at C, designated days"
+NH,HB0020,"2023_2024|2023-RS|naming a bridge in the town of Merrimack for the Honorable Richard ""Dick"" Hinch.",,1,"stays at C, bridge naming"
+NH,HB0052,2023_2024|2023-RS|naming a bridge in Hinsdale as the General John Stark Memorial Bridge.,,1,"stays at C, bridge naming"
+NH,HB0065,2023_2024|2023-RS|commemorating the first labor strike in the United States by women.,,1,"stays at C, commemorating labor strike"
+NH,HB0089,2023_2024|2023-RS|relative to posthumous exonerations.,,0,"upgraded, exonerations seems more substantive"
+NH,HB0094,2023_2024|2023-RS|establishing October 2023 as eczema awareness month.,,1,"stays at C, eczema awareness month"
+NH,HB0096,2023_2024|2023-RS|recognizing May 3rd as Old Man of the Mountain Day.,,1,"stays at C, commemorative day"
+NH,HB0180,2023_2024|2023-RS|renaming Columbus Day as Indigenous People's Day.,,1,"stays at C, renaming already federal holiday (with offices closed)"
+NH,HB0189,2023_2024|2023-RS|renaming a portion of route 140 in Gilmanton in honor of Private First Class Nicholas Cournoyer.,,1,"stays at C, renaming highway"
+NH,HB0213,2023_2024|2023-RS|renaming Little Haystack Mountain to Mount Kosciuszko.,,1,"stays at C, renaming mountain"
+NH,HB0494,2023_2024|2024-RS|renaming the agricultural product and scale testing fund the agricultural products regulatory fund.,,1,"stays at C, renaming product/testing funds"
+NH,HB1003,"2023_2024|2024-RS|relative to name changes for inmates, parolees, and convicted violent felons.",,0,"upgraded, name changes for prisoners"
+NH,HB1096,2023_2024|2024-RS|enabling the state house visitors center to sell state symbols that may have intellectual property right holders.,,0,"deals with state visitors center selling symbols, upgraded"
+NH,HB1253,2023_2024|2024-RS|renaming the Blair State Forest in Campton as the Jane Kellogg State Forest.,,1,"stays at C, renaming forest"
+NH,HB1335,2023_2024|2024-RS|removing Columbus Day as a holiday.,,0,"upgraded, removing entire federal holiday from state observance"
+NH,HB1434,2023_2024|2024-RS|relative to the Honor and Remember Flag.,,1,"stays at C, ""relative"" to certain commem flag"
+NH,SB0331,2023_2024|2024-RS|relative to certain historic commemorations.,,1,"stays at C, historic commemorations"
+NH,SB0468,2023_2024|2024-RS|relative to designating a portion of route 111 in Hudson as the Senator Robert E. Clegg Jr. Memorial Highway.,,1,"stays at C, renaming route"
+NH,SB0592,2023_2024|2024-RS|renaming Route 127 from Central Street in Franklin to the town line of Sanbornton as Chief Bradley Haas Memorial Highway.,,1,"stays at C, renmaing route"
+NM,HB0401,2023_2024|2023-RS|RENAME TECHNOLOGY FOR EDUCATION ACT,,1,"renaming act, C"
+NM,SB0018,2023_2024|2023-RS|RENAME FAMILY VIOLENCE PROTECTION ACT,,1,"renaming act, C"
+NM,SB0188,2023_2024|2023-RS|OFFICIAL STATE AROMA,,1,state aroma is clearly C
+NM,SB0339,2023_2024|2023-RS|RENAME JUVENILE CONTINUUM GRANT FUND,,1,"renaming fund, C"
+NM,SB0012,2023_2024|2024-RS|RENAME FAMILY VIOLENCE PROTECTION ACT,,1,"renaming act, C"
+NM,SB0106,2023_2024|2024-RS|DECLARATION OF INDEPENDENCE ANNIVERSARY,,1,"vague, keeping C since no signs this would be S"
+OH,HB0019,2023_2024|135|Designate Ohio World Hijab Day,,1,commem day
+OH,HB0026,2023_2024|135|Designate Town and Country Firefighter Lt. Philip M. Wigal Hwy,,1,highway design
+OH,HB0028,2023_2024|135|Designate Triple Negative Breast Cancer Awareness Month,,1,awareness month
+OH,HB0036,2023_2024|135|Enact Paige's Law regarding medical identifying devices,,0,"enacting law for medical device ID, upgraded"
+OH,HB0054,2023_2024|135|Designate Keith Earley Memorial Interchange,,1,interchange design
+OH,HB0055,2023_2024|135|Designate Firefighter Charles D. Swank Memorial Highway,,1,highway design
+OH,HB0061,2023_2024|135|Designate James A. Garfield Day,,1,commem day
+OH,HB0072,2023_2024|135|Designate Hindu Heritage Month,,1,commem month
+OH,HB0073,2023_2024|135|Enact Dave and Angie Patient and Health Provider Protection Act,,0,"deals with enacting a law for health providers, upgraded"
+OH,HB0075,2023_2024|135|Designate Caitlin Renee Preston Memorial Highway,,1,highway design
+OH,HB0081,2023_2024|135|Designate Sheriff Dale R. Williams Memorial Highway,,1,highway design
+OH,HB0088,2023_2024|135|Designate Patrolman Sean VanDenberg Memorial Highway,,1,highway design
+OH,HB0107,2023_2024|135|Designate Cleveland Firefighter Johnny Tetrick Memorial Highway,,1,highway design
+OH,HB0113,2023_2024|135|Designate Detrans Awareness Day,,1,commem day
+OH,HB0115,2023_2024|135|Enact Ohio Equal Pay Act,,0,"equal pay act enactment, upgraded"
+OH,HB0119,2023_2024|135|Designate Dr. Steven Takacs Memorial Highway,,1,highway design
+OH,HB0122,2023_2024|135|Expand intimidation offenses to include guardians ad litem,,0,"expansion of guardian ad litem rights, upgraded"
+OH,HB0123,2023_2024|135|Designate Honor and Remember flag to honor fallen service members,,1,flag design
+OH,HB0128,2023_2024|135|Designate Officer T.J. D'Apolito Memorial Highway,,1,highway design
+OH,HB0131,2023_2024|135|Designate Army SSgt. Charles V. Kettler Memorial Highway,,1,highway design
+OH,HB0132,2023_2024|135|Designate Army Sgt. Herbert C. Linville Memorial Highway,,1,highway design
+OH,HB0133,2023_2024|135|Designate Army Sgt. Ronnie Blair Memorial Highway,,1,highway design
+OH,HB0152,2023_2024|135|Enact Madeline's Law regarding hearing aid coverage,,0,"enacting law for hearing aids, upgraded"
+OH,HB0162,2023_2024|135|Make specified day and week designations relating to agriculture,,1,commem day/week design
+OH,HB0165,2023_2024|135|Designate Representative Kris Jordan Memorial Highway,,1,highway design
+OH,HB0173,2023_2024|135|Designate May as Older Ohioans Month,,1,commem month
+OH,HB0176,2023_2024|135|Revise the Ohio Carpenters license plate,,1,license plate
+OH,HB0188,2023_2024|135|Recognize National Nursing Assistants Week,,1,commem week
+OH,HB0190,2023_2024|135|Designate Black Maternal Health Week,,1,commem week
+OH,HB0198,2023_2024|135|Designate Counseling Awareness Month,,1,commem month
+OH,HB0202,2023_2024|135|Designate Specialist Dennis Alan Combs Memorial Highway,,1,highway design
+OH,HB0204,2023_2024|135|Designate Arab American Heritage Month,,1,commem month
+OH,HB0209,2023_2024|135|Create Ohio Society Daughters of American Revolution plate,,1,license plate
+OH,HB0211,2023_2024|135|Enact the Free to Speak Act,,0,"enacting free speech law, upgraded"
+OH,HB0213,2023_2024|135|Create Purdue University license plate,,1,license plate
+OH,HB0222,"2023_2024|135|Create ""Continue Your Story"" specialty license plate",,1,license plate
+OH,HB0223,"2023_2024|135|Create ""Jackson Local Schools"" license plate",,1,license plate
+OH,HB0225,2023_2024|135|Designate the month of June as Pride Month,,1,commem month
+OH,HB0228,2023_2024|135|Rename the Vern Riffe Center as the Tawnya Salyer Memorial Center,,1,memorial rename
+OH,HB0229,2023_2024|135|Enact the Brenna Brossard SUDEP Awareness Act,,0,"enacting SUDEP Awareness act, upgraded"
+OH,HB0243,2023_2024|135|Designates Roy Rogers Day,,1,commem day
+OH,HB0247,2023_2024|135|Designates World Refugee Day,,1,commem day
+OH,HB0248,2023_2024|135|Create the suicide prevention license plate,,1,license plate
+OH,HB0251,"2023_2024|135|Designate Deputy Sheriff James ""Jim"" Wert Memorial Highway",,1,highway design
+OH,HB0252,"2023_2024|135|Designate SM1 Cornelius Anthony McCafferty, Jr. Memorial Highway",,1,highway design
+OH,HB0253,2023_2024|135|Designate Brigadier General Charles Young Mem Historical Corridor,,1,corridor design
+OH,HB0262,2023_2024|135|Designate May as Umpire Recognition Month,,1,commem month
+OH,HB0268,"2023_2024|135|Designate Richard ""Dick"" Mallon Memorial Highway",,1,highway design
+OH,HB0269,2023_2024|135|Designate Sgt Bradley J. Harper USMC Memorial Highway,,1,highway design
+OH,HB0278,2023_2024|135|Designate 6888th Central Postal Directory Battalion Day,,1,commem day
+OH,HB0286,2023_2024|135|Designate Vienna Township Veterans Bridge,,1,bridge design
+OH,HB0287,2023_2024|135|Create Terrace Park license plate,,1,license plate
+OH,HB0292,2023_2024|135|Designate OSHP Officer William J. Keller Memorial Highway,,1,highway design
+OH,HB0293,2023_2024|135|Designate Marjorie Whiteman Memorial Highway,,1,highway design
+OH,HB0294,2023_2024|135|Designate Delaware County Veteran's Memorial Highway,,1,highway design
+OH,HB0297,2023_2024|135|Designate A Christmas Story Family Day,,1,commem day
+OH,HB0298,2023_2024|135|Designate Black Brewers Day,,1,commem day
+OH,HB0299,2023_2024|135|Designate Specialist Five Frederick Wayne Taylor Memorial Highway,,1,highway design
+OH,HB0307,"2023_2024|135|Designate Clarence ""Sonny"" Smith, Jr. Highway",,1,highway design
+OH,HB0316,2023_2024|135|Designate Joe Burrow Highway,,1,highway design
+OH,HB0317,2023_2024|135|Designate Sgt. Cory M. Endlich Corridor,,1,corridor design
+OH,HB0318,2023_2024|135|Designate Scott G. Gast Memorial Highway,,1,highway design
+OH,HB0320,2023_2024|135|Designate Al Oliver Highway,,1,highway design
+OH,HB0330,2023_2024|135|Designate William 'Bill' Burgett Memorial Highway,,1,highway design
+OH,HB0335,2023_2024|135|Designate Ottawa County Veterans Memorial Highway,,1,highway design
+OH,HB0342,2023_2024|135|Designate Devo Day,,1,commem day
+OH,HB0350,2023_2024|135|Designate Lance Corporal Austin B. Schwenk Memorial Highway,,1,highway design
+OH,HB0355,2023_2024|135|Designate Licking County Veterans Memorial Highway,,1,highway design
+OH,HB0356,2023_2024|135|Enact the Healthy Cardiac Monitoring Act,,0,"Enacting law for cardiac monitoring, upgraded"
+OH,HB0360,2023_2024|135|Designate Ukraine Independence Day,,1,commem day
+OH,HB0365,2023_2024|135|Designate multiple memorial highways,,1,highway design
+OH,HB0368,2023_2024|135|Designates Ohio Black Media Week,,1,commem week
+OH,HB0380,2023_2024|135|Designate Tuscarawas Valley Memorial Highway,,1,highway design
+OH,HB0381,2023_2024|135|Designate Louis P. Shuster Memorial Interchange,,1,highway design
+OH,HB0383,2023_2024|135|Designate Corporal John E. Ruch Memorial Highway,,1,highway design
+OH,HB0389,2023_2024|135|Designate 9/11 Remembrance Day,,1,commem day
+OH,HB0409,2023_2024|135|Create the Ohio Cold War Victory Medal,,1,"medal creation for certain group, keep at C"
+OH,HB0423,"2023_2024|135|Create ""Blue Star Banner"" license plate",,1,license plate
+OH,HB0426,2023_2024|135|Designate Stormwater Awareness Week,,1,commem week
+OH,HB0427,"2023_2024|135|Enact Employment, Opportunities for Persons with Disabilities Act",,0,"enacting disabilities law, upgraded"
+OH,HB0431,2023_2024|135|Designate Staff Sgt. Zachary Wobler Memorial Highway,,1,highway design
+OH,HB0439,2023_2024|135|Designate Gallagher Way,,1,road design
+OH,HB0446,2023_2024|135|Designate March 8 as International Women's Day in Ohio,,1,commem day
+OH,HB0448,2023_2024|135|Designate John Lennon Memorial Highway,,1,highway design
+OH,HB0453,2023_2024|135|Designate Staff Sergeant George P. Mizik (USMC) Memorial Highway,,1,highway design
+OH,HB0454,2023_2024|135|Designate Women's History Month,,1,commem month
+OH,HB0456,"2023_2024|135|Designate Police Chief Ronnie Ricketts, Sr. Memorial Highway",,1,highway design
+OH,HB0458,2023_2024|135|Designate memorial bridge and viaduct in Village of Montpelier,,1,bridge design
+OH,HB0459,2023_2024|135|Designate Greek Independence Day,,1,commem day
+OH,HB0463,2023_2024|135|Enacts the My Child-My Chart Act,,0,"Enacting children/chart law, upgraded"
+OH,HB0465,2023_2024|135|Enacts Lauren's Law regarding developmental disability care,,0,"Enacting disabilities care law, upgraded"
+OH,HB0479,2023_2024|135|Designate Ohio Stillbirth Prevention Day,,1,commem day
+OH,HB0482,2023_2024|135|Designate Patrolman James P. Gardner Memorial Highway,,1,highway design
+OH,HB0487,2023_2024|135|Designate TSgt. Grover Lee Swearingen Memorial Highway,,1,highway design
+OH,HB0490,2023_2024|135|Designate Road Traffic Victims Day of Remembrance,,1,commem day
+OH,HB0493,2023_2024|135|Designate Lance Corporal Gerald Subler Memorial Highway,,1,highway design
+OH,HB0494,2023_2024|135|Designate SSgt Gene F. Morrison Memorial Bridge,,1,bridge design
+OH,HB0508,2023_2024|135|Enact the Super Bowl Entourage Expense Act,,0,"Enacting Super Bowl Encourage act, upgraded"
+OH,HB0510,2023_2024|135|Designate Army Lt. Col. Robert R. Melnick Memorial Highway,,1,highway design
+OH,HB0515,2023_2024|135|Create the Norton Music Boosters license plate,,1,license plate
+OH,HB0527,2023_2024|135|Create NASA Glenn Research Center license plate,,1,license plate
+OH,HB0533,2023_2024|135|Create the Iota Phi Theta license plate,,1,license plate
+OH,HB0534,2023_2024|135|Enact the Lead Line Replacement Act,,0,"enacting Lead replacement act, upgraded"
+OH,HB0538,2023_2024|135|Designate Lupus Awareness Month,,1,commem month
+OH,HB0542,2023_2024|135|Create the Blanchester Wildcats license plate,,1,license plate
+OH,HB0586,2023_2024|135|Create Weirdo Cat Lovers of Cleveland license plate,,1,license plate
+OH,HB0599,2023_2024|135|Designate the walleye as the official fish,,1,official fish
+OH,HB0601,2023_2024|135|Designate World Doula Day,,1,commem day
+OH,HB0611,2023_2024|135|Designate U.S. Army Private First Class Jerry Bockbrader Mem Hwy,,1,hway design
+OH,HB0614,2023_2024|135|Enact the Statehouse Nazi Symbol Removal Act,,0,"enacting act to remove statues, S"
+OH,HB0620,2023_2024|135|Designate Paulding County Purple Heart Memorial Highway,,1,hway design
+OH,HB0621,2023_2024|135|Designate Van Wert County Veteran's Memorial Highway,,1,hway design
+OH,HB0626,2023_2024|135|Create Lakeside Chautauqua license plate,,1,license plate
+OH,HB0627,2023_2024|135|Create Ohio Society for Respiratory Care license plate,,1,license plate
+OH,HB0628,2023_2024|135|Designate SSG Jack W. Coy Memorial Highway,,1,hway design
+OH,HB0631,2023_2024|135|Designate Major David McGue Memorial Highway,,1,hway design
+OH,HB0641,2023_2024|135|Designate the SSG Jack W. Coy Memorial Highway,,1,hway design
+OH,HB0648,"2023_2024|135|Designate Ronald ""Bumpy"" Rhoades Memorial Highway",,1,hway design
+OH,HB0651,2023_2024|135|Rename Mosquito Lake State Park as Donald J. Trump State Park,,1,rename park
+OH,HB0652,2023_2024|135|Designate Cpl. Robert Dockstader Memorial Highway,,1,hway design
+OH,HB0664,2023_2024|135|Designate CPL David James Amheiser Memorial Highway,,1,hway design
+OH,HB0665,2023_2024|135|Create Ohio State Grange license plate,,1,license plate
+OH,HB0669,2023_2024|135|Enact the Warehouse Worker Protection Act,,0,"enacting worker protection legisl, upgraded"
+OH,HB0673,2023_2024|135|Designate the CPT Louis John Speidel Memorial Highway,,1,hway design
+OH,HB0674,2023_2024|135|Designate the Sgt. Anthony Kress Vinnedge Memorial Highway,,1,hway design
+OH,HB0679,2023_2024|135|Designate PFC John Wayne Richard Memorial Highway,,1,hway design
+OH,HB0680,2023_2024|135|Designate Marigene Valiquette Memorial Highway,,1,hway design
+OH,SB0007,2023_2024|135|Designate Powerboat Safety Month; increase boating safety grants,,1,commem month
+OH,SB0024,2023_2024|135|Designate Sikh Awareness Month,,1,commem month
+OH,SB0034,"2023_2024|135|Designate July as ""Sarcoma Awareness Month""; name act Hank's Law",,1,commem month
+OH,SB0042,2023_2024|135|Adopt the 1905 Wright Flyer III as the state airplane,,1,state airplane design
+OH,SB0045,2023_2024|135|Designate Veterans Memorial Bridge in Trumbull County,,1,bridge design
+OH,SB0052,2023_2024|135|Exempt United States and Ohio flag sales from sales and use tax,,0,"exempting material from tax, upgraded"
+OH,SB0057,2023_2024|135|Designate Ohio Stroke Awareness Month,,1,commem month
+OH,SB0062,2023_2024|135|Designate Rutherford B. Hayes Day,,1,commem day
+OH,SB0065,2023_2024|135|Designate Judge Nathaniel R. Jones Day,,1,commem day
+OH,SB0069,2023_2024|135|Designate Ohio Doula Awareness Week,,1,commem week
+OH,SB0070,2023_2024|135|Designate Hindu Heritage Month,,1,commem month
+OH,SB0097,2023_2024|135|Designate Representative Kris Jordan Memorial Highway,,1,hway design
+OH,SB0110,2023_2024|135|Designate Sgt. Anthony Kress Vinnedge Memorial Highway,,1,hway design
+OH,SB0112,2023_2024|135|Enact Ohio Childhood Safety Act,,0,"enacting children safety act, upgraded"
+OH,SB0114,2023_2024|135|Designate Lance Corporal James F. Kimple Memorial Highway,,1,hway design
+OH,SB0131,2023_2024|135|Change Ohio Deaf History Month to April,,1,change commem month date
+OH,SB0140,2023_2024|135|Designate Sgt. Todd M. Bates Memorial Highway,,1,hway design
+OH,SB0141,"2023_2024|135|Designate American Gold Star Mothers, Inc. Memorial Highway",,1,hway design
+OH,SB0142,2023_2024|135|Designates Arab American Heritage Month,,1,commem month
+OH,SB0145,2023_2024|135|Designate Cpl. David A. Johnston Memorial Highway,,1,hway design
+OH,SB0152,2023_2024|135|Designate Cpl. Jack O. McClure Memorial Highway,,1,hway design
+OH,SB0161,2023_2024|135|Create the Ohio NAACP license plate,,1,license plate
+OH,SB0163,2023_2024|135|Create Dublin City Schools license plate,,1,license plate
+OH,SB0167,2023_2024|135|Designate Marine Corporal Tim W. Russell Highway,,1,hway design
+OH,SB0169,2023_2024|135|Designate Cortland Veterans Memorial Bridge,,1,bridge design
+OH,SB0179,2023_2024|135|Create Hilliard Davidson Wildcats license plate,,1,license plate
+OH,SB0183,2023_2024|135|Designate Lance Corporal James Patrick Rizzo Memorial Highway,,1,hway design
+OH,SB0191,2023_2024|135|Designate PFC Richard 'Rick' Wesley McFarland Memorial Highway,,1,hway design
+OH,SB0207,2023_2024|135|Designate Stillbirth Prevention Day,,1,commem day
+OH,SB0210,2023_2024|135|Designates Ohio Black Media Week,,1,commem week
+OH,SB0220,2023_2024|135|Designate Day of Tears,,1,commem day
+OH,SB0222,2023_2024|135|Designate Reproductive Freedom Day,,1,commem day
+OH,SB0225,2023_2024|135|Designate Veterans Suicide Awareness and Prevention Day,,1,commem day
+OH,SB0234,2023_2024|135|Designate Food Allergy Awareness Month,,1,commem month
+OH,SB0235,2023_2024|135|Designate Public Service Recognition Week,,1,commem week
+OH,SB0239,2023_2024|135|Designate Chief Radio Operator Walter Dawson Memorial Highway,,1,hway design
+OH,SB0246,2023_2024|135|Modify housing law and rename Department of Development,,0,"""modify housing law"" vague but upgraded to S"
+OH,SB0248,2023_2024|135|Create Blanchester Wildcats license plate,,1,license plate
+OH,SB0252,2023_2024|135|Designate Peter and Sarah Fossett Memorial Bridge,,1,bridge design
+OH,SB0254,2023_2024|135|Designate the Brigid Kelly Norwood Lateral,,1,lateral design
+OH,SB0260,2023_2024|135|Designate SPC Connor Wilson-Reichert Memorial Highway,,1,hway design
+OH,SB0264,2023_2024|135|Add screening awareness to Colorectal Cancer Awareness Month,,1,"keeping at C b/c adds ""awareness"" of screen to comm month"
+OH,SB0270,2023_2024|135|Designate Ameloblastoma Awareness Day,,1,commem day
+OH,SB0282,"2023_2024|135|Designate PFC Henry 'Rick' Hausman, Jr. Memorial Highway",,1,hway design
+OH,SB0285,2023_2024|135|Designate Pharmacist's Mate Third Class Willard L. Shupe Mem Hwy,,1,hway design
+OH,SB0290,2023_2024|135|Create Dolly Parton's Imagination Library license plate,,1,license plate
+OH,SB0301,2023_2024|135|Designate Hubbard First Responders Bridge,,1,bridge design
+OH,SB0310,2023_2024|135|Designate U.S.S. Shenandoah Memorial Highway,,1,hway design
+OH,SB0315,2023_2024|135|Designate CPL Willard Boston Wallace Memorial Highway,,1,hway design
+OH,SB0323,2023_2024|135|Designate September 28 as Speaker Jo Ann Davidson Day,,1,commem day
+OK,HB2248,2023_2024|2023-RS|Definitions and general provisions; designating the soybean as the state legume of Oklahoma; effective date.,,1,"official state legume, C"
+OK,HB2273,"2023_2024|2023-RS|Memorial roads and bridges; designating the CDR Ernest Evans, First Tribal Recipient of the Medal of Honor, Memorial Trail; directing markers be placed; effective date.",,1,"memorial roads and bridges, C"
+OK,HB2291,2023_2024|2023-RS|Memorial bridges; designating the Lt. Gen. Thomas P. Stafford Memorial Interchange; effective date.,,1,"bridge/interchange design, C"
+OK,HB2416,2023_2024|2023-RS|Memorial roads and bridges; designating various memorial roads and bridges; effective date.,,1,"designation of roads/bridges, C"
+OK,HB2656,2023_2024|2023-RS|Public health and safety; director; Oklahoma Department of Emergency Management and Homeland Security; emergency powers of Governor; emergency proclamations; legislative approval; effective date.,,0,"cleary S, dealing with emergency powers"
+OK,HB2734,2023_2024|2023-RS|State holidays; designating the 12th day of June each year as Women Veterans Appreciation Day; emergency.,,1,"state holiday, C"
+OK,HB3061,2023_2024|2024-RS|Public health and safety; powers and duties; Oklahoma Department of Emergency Management; scope of authority; emergency powers; Governor; proclamations; Legislature; effective date.,,0,"also dealing with emergency powers, upgraded"
+OK,HB3460,2023_2024|2024-RS|Definitions and general provisions; Space Day; recognition; emergency.,,1,"recognition of space day, C"
+OK,HB3513,2023_2024|2024-RS|State capitol and capitol buildings; Oliver Hodge Memorial Education Building; requiring display of certain portraits and plaques; effective date.,,0,"requiring display of plaques seems strong, upgraded"
+OK,HB3516,2023_2024|2024-RS|Memorial roads and bridges; designating multiple memorial roads and bridges; effective date.,,1,"roads and bridge design, C"
+OK,HB3803,"2023_2024|2024-RS|Memorial roads and bridges; designating the James L. Holt, Pres. of the Seminole Tribe of Florida Memorial Bridge; effective date.",,1,"roads and bridge design, C"
+OK,HB3822,2023_2024|2024-RS|Definitions and general provisions; Healthy Soils Week; effective date.,,1,"Healthy Soils Week, C"
+OK,SB0002,2023_2024|2023-RS|Schools; requiring certain schools and institutions to disseminate certain Thanksgiving proclamations. Effective date. Emergency.,,0,"upgraded since ""requiring,"" seems more S (command)"
+OK,SB0096,2023_2024|2023-RS|Memorial highways and bridges; designating various memorial highways and bridges. Effective date.,,1,"Highways/bridges, C"
+OK,SB0190,2023_2024|2023-RS|Memorial roads and bridges; designating the Senator J. Berry Harrison Memorial Bridge. Effective date.,,1,"Highways/bridges, C"
+OK,SB0191,2023_2024|2023-RS|Memorial highways; designating  the Captain William 'Willy' Hargraves Memorial Intersection. Effective date.,,1,"Highways, C"
+OK,SB0198,2023_2024|2023-RS|Memorial bridges; designating the SP4 Donald P. Sloat Medal of Honor Recipient Memorial Highway. Effective date.,,1,"Highways, C"
+OK,SB0234,2023_2024|2023-RS|Holidays; designating Veteran Suicide Awareness Day. Effective date.,,1,"Awareness day, C"
+OK,SB0300,2023_2024|2023-RS|Memorial highways and bridges; making various memorial highway and bridge designations. Effective date.,,1,"Highways/bridges design, C"
+OK,SB0691,2023_2024|2023-RS|Memorial roads and bridges; designating the Trooper Larry L. Hillyard Memorial Bridge. Effective date.,,1,"Highways/bridges design, C"
+OK,SB0762,2023_2024|2023-RS|Highways and bridges; designating The Honorable Secretary Gary M. Ridley Memorial Interchange. Effective date. Emergency.,,1,"Highways/bridges design, C"
+OK,SB0837,"2023_2024|2023-RS|Holidays; establishing Pregnancy, Infant, and Childhood Loss Awareness Month. Emergency.",,1,"Awareness month, C"
+OK,SB0948,2023_2024|2023-RS|Memorial roads and bridges; designating the C.D. Scribner WWII Veteran Memorial Highway. Effective date.,,1,"Highways/bridges design, C"
+OK,SB0953,"2023_2024|2023-RS|Memorial highways and bridges; designating the First MCPON Delbert D. Black, U.S. Navy, Memorial Highway; modifying location of the William Mark Miller Memorial Highway. Effective date.",,1,"Highways/bridges design, C"
+OK,SB1078,2023_2024|2023-RS|Memorial highways and bridges; designating The Honorable Leonard Earl Sullivan Memorial Bridge. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1197,2023_2024|2024-RS|Memorial highways; designating the Col. John L. Smith Medal of Honor Recipient Memorial Highway. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1209,2023_2024|2024-RS|Motor vehicles; removing the Honorary Consul License Plate from statute. Emergency.,,1,"Removal of license plate, C"
+OK,SB1224,2023_2024|2024-RS|Memorial bridges; designating the Patrolman Joseph Barlow Memorial Bridge. Effective date.,,1,"Bridge design, C"
+OK,SB1330,"2023_2024|2024-RS|Oklahoma Department of Agriculture, Food, and Forestry; creating the Oklahoma City National Memorial Education Revolving Fund; purpose. Effective date. Emergency.",,0,upgraded b/c creating an emergency fund
+OK,SB1584,2023_2024|2024-RS|Memorial highways and bridges; designating the Sgt. Meagan Burke Memorial Bridge. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1585,2023_2024|2024-RS|Memorial highways and bridges; designating the Senator Anthony M. Massad Memorial Highway. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1586,2023_2024|2024-RS|Memorial highways and bridges; designating the Jim Potter Memorial Bridge. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1597,2023_2024|2024-RS|Memorial bridges; designating the Nelson F. Carr Memorial Bridge. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1797,2023_2024|2024-RS|Definitions and general provisions; directing the USS Oklahoma Anchor Memorial to be moved to State Capitol Park. Effective date.,,1,"moving memorial, C"
+OK,SB1803,2023_2024|2024-RS|Memorial highways and bridge designations; making certain highway and bridge designations. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1925,"2023_2024|2024-RS|Memorial highways; designating the Manuel ""Pop"" and Mary Ruth Russell Memorial Highway. Effective date.",,1,"Highways/bridges design, C"
+OK,SB1926,2023_2024|2024-RS|Memorial bridges; designating the Spc. Jaykob Ray Pruitt Memorial Bridge. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1927,2023_2024|2024-RS|Memorial highways; designating the Captain Jeff Sewell Memorial Highway. Effective date.,,1,"Highways/bridges design, C"
+OK,SB1935,2023_2024|2024-RS|Native plants; designating Oklahoma Native Plant Month in perpetuity. Effective date.,,1,"Plant design, C"
+SC,H3868,2023_2024|2023-2024|Women in Hunting and Fishing Awareness Day,"AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 53-3-270 SO AS TO DECLARE THE THIRD SATURDAY IN NOVEMBER OF EACH YEAR IS DESIGNATED AS ""WOMEN IN HUNTING AND FISHING AWARENESS DAY"". - RATIFIED TITLE",1,commem day
+SC,H4233,2023_2024|2023-2024|Official Carnivorous Plant,A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 1-1-661 SO AS TO NAME THE VENUS FLYTRAP THE OFFICIAL CARNIVOROUS PLANT OF THE STATE.,1,official state plant
+SC,H3452,2023_2024|2023-2024|Celebrate Freedom Week,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 59-29-33 SO AS TO OBSERVE ""CELEBRATE FREEDOM WEEK"" IN SOUTH CAROLINA PUBLIC SCHOOLS, TO DESIGNATE A CERTAIN WEEK IN SEPTEMBER FOR THIS ANNUAL OBSERVATION WEEK, TO PROVIDE SPECIFIC REQUIREMENTS FOR THE OBSERVATION WEEK, AND TO PROVIDE RELATED IMPLEMENTATION REQUIREMENTS FOR THE STATE DEPARTMENT OF EDUCATION AND STATE BOARD OF EDUCATION.",1,commem week
+SC,H3886,2023_2024|2023-2024|Dean Stuart Campbell Squire of Dark Corner Scenic Memorial Byway,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 22 TO CHAPTER 23, TITLE 57 SO AS TO DESIGNATE A PORTION OF SOUTH CAROLINA HIGHWAY 11 IN GREENVILLE COUNTY AS ""DEAN STUART CAMPBELL, SQUIRE OF THE DARK SCENIC MEMORIAL BYWAY"".",1,highway design
+SC,H4352,2023_2024|2023-2024|Middle Level Education Month,"AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 53-3-270 SO AS TO DESIGNATE THE MONTH OF MARCH OF EACH YEAR AS ""MIDDLE LEVEL EDUCATION MONTH"". - RATIFIED TITLE",1,commem month
+SC,H4536,2023_2024|2023-2024|Juvenile Arthritis Awareness Month,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 53-3-300 SO AS TO DESIGNATE THE MONTH OF JULY EACH YEAR AS ""JUVENILE ARTHRITIS AWARENESS MONTH"".",1,commem month
+SC,H4674,2023_2024|2023-2024|License plates,"AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 56-3-1240, RELATING TO THE DISPLAY OF LICENSE PLATES, SO AS TO PROVIDE THE CIRCUMSTANCES IN WHICH THE PROVISIONS OF THIS SECTION APPLY, TO PROVIDE HOW LICENSE PLATES MUST BE FASTENED TO VEHICLES, TO MAKE TECHNICAL CHANGES, AND TO PROVIDE FOR THE DISPLAY OF TEMPORARY LICENSE PLATES ON LARGE COMMERCIAL MOTOR VEHICLES; BY ADDING SECTION 56-3-15020 SO AS TO PROVIDE FOR THE ISSUANCE OF ""HEARING IMPAIRED"" SPECIAL LICENSE PLATES; BY ADDING ARTICLE 150 TO CHAPTER 3, TITLE 56 SO AS TO PROVIDE FOR THE ISSUANCE OF ""SOUTH CAROLINA EQUINE INDUSTRY"" SPECIAL LICENSE PLATES; BY AMENDING SECTION 56-3-7340, RELATING TO THE ISSUANCE OF ""NATIVE AMERICAN"" SPECIAL LICENSE PLATES, SO AS TO PROVIDE THESE LICENSE PLATES MAY BE ISSUED TO OWNERS OF MOTORCYCLES; BY ADDING ARTICLE 151 TO CHAPTER 3, TITLE 56 SO AS TO PROVIDE FOR THE ISSUANCE OF ""CATAWBA NATION"" SPECIAL LICENSE PLATES; BY ADDING ARTICLE 152 TO CHAPTER 3, TITLE 56 SO AS TO PROVIDE FOR THE ISSUANCE OF ""CHEROKEE INDIAN NATION"" SPECIAL LICENSE PLATES; BY ADDING ARTICLE 153 TO CHAPTER 3, TITLE 56 SO AS TO PROVIDE FOR THE ISSUANCE OF ""SOUTH CAROLINA BEEKEEPERS ASSOCIATION"" SPECIAL LICENSE PLATES; BY AMENDING SECTION 56-3-14210, RELATING TO THE ISSUANCE OF ""UNIVERSITY OF SOUTH CAROLINA 2017 AND 2022 WOMEN'S BASKETBALL NATIONAL CHAMPIONS"" SPECIAL LICENSE PLATES, SO AS TO PROVIDE FOR THE ISSUANCE OF ""UNIVERSITY OF SOUTH CAROLINA 2017, 2022, AND 2024 WOMEN'S BASKETBALL CHAMPIONS"" SPECIAL LICENSE PLATES; BY ADDING ARTICLE 60 TO CHAPTER 3, TITLE 56 SO AS TO PROVIDE FOR THE ISSUANCE OF ""AUTISTIC AND NEURODIVERGENT"" SPECIAL LICENSE PLATES; BY ADDING ARTICLE 154 TO CHAPTER 3, TITLE 56 SO AS TO PROVIDE FOR THE ISSUANCE OF ""SOUTH CAROLINA ASSOCIATION FOR PUPIL TRANSPORTATION"" SPECIAL LICENSE PLATES; BY AMENDING SECTION 56-3-14910, RELATING TO THE ISSUANCE OF SPECIAL LICENSE PLATES REFLECTIVE OF VALOROUS AWARDS CONFERRED UPON ACTIVE OR PRIOR SERVICE MEMBERS, SO AS TO INCLUDE THE ISSUANCE OF THESE LICENSE PLATES TO RECIPIENTS OF NAVY AND MARINE CORPS MEDALS; AND BY AMENDING SECTION 56-3-14990, RELATING TO ALLOWING SURVIVING SPOUSES TO APPLY FOR OR TRANSFER CERTAIN MILITARY SPECIAL LICENSE PLATES, SO AS TO PROVIDE A SURVIVING SPOUSE OF A MEMBER OF THE NATIONAL GUARD MAY APPLY FOR OR TRANSFER CERTAIN MILITARY LICENSE PLATES. - RATIFIED TITLE",0,"upgraded, deals with display/use of license plates"
+SC,H4291,2023_2024|2023-2024|Clog Dancing Day,"AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 53-3-270 SO AS TO DESIGNATE THE EIGHTH DAY OF AUGUST OF EACH YEAR AS ""CLOG DANCING DAY"" IN SOUTH CAROLINA. - RATIFIED TITLE",1,commem day
+SC,H3171,"2023_2024|2023-2024|Specialty license plates, Afghanistan War Veteran","A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 56-3-14950, RELATING TO THE ISSUANCE OF SPECIAL LICENSE PLATES REFLECTIVE OF CAMPAIGN MEDALS FOR SERVICE MEMBERS WHO PARTICIPATED IN CERTAIN MILITARY CAMPAIGNS, SO AS TO ADD AN AFGHANISTAN WAR VETERAN SPECIALTY PLATE.",1,speciality license plates
+SC,H3960,2023_2024|2023-2024|State Poultry Festival,AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 1-1-686 SO AS TO DESIGNATE THE SOUTH CAROLINA POULTRY FESTIVAL IN LEXINGTON COUNTY AS THE OFFICIAL STATE POULTRY FESTIVAL. - RATIFIED TITLE,1,official state festival
+SC,H3799,2023_2024|2023-2024|Water Professionals Day,"AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 53-3-270 SO AS TO DECLARE THE FIRST MONDAY OF MARCH OF EACH YEAR AS ""WATER PROFESSIONALS DAY"". - RATIFIED TITLE",1,commem day
+SC,H3772,2023_2024|2023-2024|Historical monuments and memorials,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 60-11-75 SO AS TO PROVIDE PLAQUES, MARKERS, OR OTHER MESSAGES ON HISTORICAL MONUMENTS AND MEMORIALS ON PROPERTY OWNED BY POLITICAL SUBDIVISIONS OF THE STATE OR SCHOOL DISTRICTS ARE SUBJECT TO REVIEW AND APPROVAL BY THE DEPARTMENT OF ARCHIVES AND HISTORY, AND TO PROVIDE RELATED REQUIREMENTS FOR A RELATED  REVIEW AND APPROVAL PROCESS; AND BY AMENDING SECTION 60-11-30, RELATING TO OBJECTS AND PURPOSES OF THE DEPARTMENT, SO AS TO MAKE CONFORMING CHANGES.",0,"upgraded, deals with procedures for putting up memorials"
+SC,H3142,2023_2024|2023-2024|Robert Smalls Day,"AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 53-3-270 SO AS TO DESIGNATE THE THIRTEENTH DAY OF MAY EACH YEAR AS ""ROBERT SMALLS DAY"" IN SOUTH CAROLINA. - RATIFIED TITLE",1,commem day
+SC,H3736,2023_2024|2023-2024|Overdose Prevention,A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 44-130-90 SO AS TO REQUIRE THE DEPARTMENT OF ALCOHOL AND OTHER DRUG ABUSE SERVICES TO DEVELOP A PUBLIC INFORMATION CAMPAIGN TO RAISE AWARENESS ABOUT THE IMPORTANCE OF CALLING FOR EMERGENCY MEDICAL ASSISTANCE WHEN A PERSON EXPERIENCES AN OPIOID OVERDOSE.,0,"upgraded, requires public campaigning to raise awareness for alc/drugs"
+SC,H3096,2023_2024|2023-2024|Monuments and memorials,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 10-1-165, RELATING TO THE PROTECTION OF CERTAIN MONUMENTS AND MEMORIALS, SO AS TO EXPAND THE TYPE OF MONUMENTS THAT MAY NOT BE RELOCATED, REMOVED, OR DISTURBED, TO WITHHOLD ALL DISBURSEMENTS FROM THE LOCAL GOVERNMENT FUND FOR ANY COUNTY OR MUNICIPALITY THAT VIOLATES THIS SECTION, AND TO PROVIDE THAT ANY MEMBER OF A LOCAL GOVERNING BODY WHO VOTES IN FAVOR OF ANY ACTION THAT VIOLATES THIS PROVISION IS GUILTY OF MISCONDUCT IN OFFICE.",0,"upgraded, deals with procedures for memorials"
+SC,H3151,2023_2024|2023-2024|State of Emergency,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 1-3-420, RELATING TO GUBERNATORIAL PROCLAMATIONS OF EMERGENCY, SO AS TO REMOVE REFERENCES TO PUBLIC HEALTH EMERGENCIES; AND BY AMENDING SECTION 25-1-440, RELATING TO POWERS AND DUTIES OF THE GOVERNOR DURING A DECLARED EMERGENCY, SO AS TO PROVIDE THAT AFTER THE ELAPSE OF AT LEAST THIRTY DAYS FOLLOWING THE DECLARATION OF AN EMERGENCY BY THE GOVERNOR, THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE MAY CONVENE THEIR RESPECTIVE BODIES FOR THE PURPOSE OF CONSIDERING SUCH DECLARATION, THAT THE GENERAL ASSEMBLY BY CONCURRENT RESOLUTION, MAY TERMINATE, ALTER, AMEND, OR CONSENT TO THE TERMS OF ANY DECLARATION OF EMERGENCY DURING THIS CALLED SESSION, THAT SHOULD THE GENERAL ASSEMBLY NOT ACT, THEN THE TERMS OF THE DECLARATION SHALL CONTINUE UNTIL SUCH TIME AS THE GENERAL ASSEMBLY DOES ACT, THAT A GOVERNOR MAY NOT DECLARE SUCCESSIVE STATES OF EMERGENCY THAT HAVE THE EFFECT OF REINSTATING, CONTINUING, ALTERING, OR AMENDING ANY DECLARATION OF EMERGENCY ADDRESSED BY THE GENERAL ASSEMBLY, AND THAT THE GOVERNOR MAY NOT ISSUE ADDITIONAL OR SUCCESSIVE STATES OF EMERGENCY FOR THE SAME UNDERLYING EVENTS WITHOUT A SUBSTANTIAL CHANGE OF CIRCUMSTANCE.",0,"upgraded, deals with emergency declarations"
+SC,S0089,2023_2024|2023-2024|Emergency Order Balance of Powers Act,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE ""EMERGENCY ORDER BALANCE OF POWERS ACT""; BY AMENDING SECTIONS 1-3-420 AND 25-1-440, BOTH RELATING TO A PROCLAMATION OF EMERGENCY BY THE GOVERNOR, SO AS TO SET FORTH ACTIONS THAT WOULD MAKE THE PROCLAMATION INEFFECTIVE AND TO ALLOW THE GOVERNOR TO RENEW A STATE OF EMERGENCY IN PERIODS OF NO GREATER THAN FIFTEEN DAYS.",0,"upgraded, deals with emergency declarations"
+SC,S0505,2023_2024|2023-2024|Pharmacists and pharmacy technicians,"A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 40-43-30, RELATING TO DEFINITIONS IN THE PHARMACY PRACTICE ACT, SO AS TO PROVIDE ADDITIONAL ACTS THAT CONSTITUTE THE PRACTICE OF PHARMACY, TO PERMIT THE DELEGATION OF CERTAIN ACTS TO TRAINED PHARMACY TECHNICIANS AND PHARMACY INTERNS, AND TO DEFINE AN ADDITIONAL TERM; BY AMENDING SECTION 40-43-84, RELATING TO PHARMACY INTERNS AND EXTERNS, SO AS TO REMOVE CERTAIN DIRECT SUPERVISION REQUIREMENTS; BY AMENDING SECTION 40-43-190, RELATING TO PROTOCOL FOR PHARMACISTS TO ADMINISTER VACCINES WITHOUT PRACTITIONER ORDERS, SO AS TO INCLUDE THE DISPENSATION OF CERTAIN DRUGS AND DEVICES, TO LOWER THE VACCINATION RECIPIENT AGE TO TWELVE YEARS OF AGE, TO AUTHORIZE DIRECTLY SUPERVISED PHARMACY INTERNS TO ADMINISTER CERTAIN VACCINATIONS, AND TO PROVIDE WRITTEN PROTOCOL REQUIREMENTS, AMONG OTHER THINGS; BY AMENDING SECTION 40-43-200, RELATING TO THE JOINT PHARMACIST ADMINISTERED VACCINES COMMITTEE, SO AS TO RENAME THE COMMITTEE AS THE ""JOINT PHARMACIST ACCESS COMMITTEE"" AND MAKE OTHER CONFORMING CHANGES; AND TO PROVIDE THE PHARMACIST ACCESS COMMITTEE MUST SUBMIT ITS INITIAL RECOMMENDATIONS TO THE BOARD OF PHARMACY NO LATER THAN FOUR MONTHS AFTER THE PASSAGE OF THIS ACT, AND PERIODICALLY THEREAFTER AS DETERMINED BY THE COMMITTEE.",0,"upgraded, deals with changes to pharmacy/pharamacists"
+SC,S0581,2023_2024|2023-2024|Official Carnivorous Plant,AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 1-1-661 SO AS TO NAME THE VENUS FLYTRAP THE OFFICIAL CARNIVOROUS PLANT OF THE STATE. - RATIFIED TITLE,1,official plant
+SC,D FOR A VIOLATION; TO AMEND SECTION 50-11-2210,RELATING TO ABUSE OF WILDLIFE MANAGEMENT AREA|TO DELETE THE MINIMUM SENTENCE REQUIRED FOR A VIOLATION; TO AMEND SECTION 50-11-2640|RELATING TO IMPORTING FOXES AND COYOTES,TO DELETE THE MINIMUM SENTENCE REQUIRED FOR A VIOLATION; TO AMEND SECTION 50-13-1210,RELATING TO PROHIBITION OF THE PERMANENT OBSTRUCTION TO MIGRATION OF FISH,TO DELETE THE MINIMUM SENTENCE REQUIRED FOR A VIOLATION; TO AMEND SECTION 50-13-1410
+SC,S1243,"2023_2024|2023-2024|Specialty license plates, Afghanistan War Veteran","A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 56-3-14950, RELATING TO THE ISSUANCE OF SPECIAL LICENSE PLATES REFLECTIVE OF CAMPAIGN MEDALS FOR SERVICE MEMBERS WHO PARTICIPATED IN CERTAIN MILITARY CAMPAIGNS, SO AS TO ADD AN AFGHANISTAN WAR VETERAN SPECIALTY PLATE.",1,license plates
+SD,HB1073,2023_2024|2023-RS|,rename separate maintenance as legal separation.,1,renaming maintenace to separation
+SD,SB0163,2023_2024|2023-RS|,permit the playing of an Honor Song at graduation ceremonies.,1,playing  songs at graduations
+SD,SB0190,2023_2024|2023-RS|,designate a portion of U.S. Highway 83 as Sicangu Lakota Code Talker Highway.,1,highway design
+SD,HB1067,2023_2024|2024-RS|,designate Medal of Honor Recognition Day.,1,commem day
+SD,SB0155,2023_2024|2024-RS|,permit the playing of an Honor Song at graduation ceremonies.,1,playing songs at graduations
+SD,SB0160,2023_2024|2024-RS|,rename South Scalp Creek Lakeside Use Area in Gregory County.,1,renaming lakeside area
+TX,HB 41,88|88-SS2|,Relating to the designation of the portion of State Highway 249 in Montgomery County as the Paul P. Mendes Memorial Parkway.,1,highway design
+TX,SB 26,88|88-SS3|,Relating to designating the second Saturday in October as Hospice and Palliative Care Day.,1,commem day
+TX,HB 29,88|88-SS3|,Relating to the designation of the portion of State Highway 249 in Montgomery County as the Paul P. Mendes Memorial Parkway.,1,highway design
+TX,HB 193,88|88-SS3|,Relating to designating July as American Pride Month.,1,commem month
+TX,SB 19,88|88-SS4|,Relating to designating the second Saturday in October as Hospice and Palliative Care Day.,1,commem day
+TX,HB 60,88|88-SS4|,Relating to the designation of the portion of State Highway 249 in Montgomery County as the Paul P. Mendes Memorial Parkway.,1,highway design
+TX,HB 62,88|88-SS4|,Relating to designating July as American Pride Month.,1,commem month
+TX,SB 2221,88|88-RS|,Relating to issuance of specialty license plates to honor personnel of sheriff's offices.,1,license plates
+TX,SB 1339,88|88-RS|,Relating to the designation of a bridge in Galveston County as the Ken Clark Memorial Bridge.,1,bridge design
+TX,SB 507,88|88-RS|,Relating to the designation of a portion of U.S. Highway 87 in Concho County as the Deputy Samuel Leonard Memorial Highway.,1,highway design
+TX,SB 508,88|88-RS|,Relating to the designation of the portion of Farm-to-Market Road 765 in Concho County as the Sergeant Stephen Jones Memorial Highway.,1,road design
+TX,SB 180,88|88-RS|,Relating to the Center for Elimination of Disproportionality and Disparities renamed as the office for health equity and the duties of that office.,0,"changing duties of an office, upgraded"
+TX,SB 1572,88|88-RS|,Relating to the designation of a portion of State Highway 49 in Titus County as the Titus County WWI Veterans Memorial Highway.,1,highway design
+TX,SB 1573,88|88-RS|,Relating to the designation of a portion of Farm to Market Road 2348 in Titus County as the Army Staff Sergeant Clay Allen Craig Memorial Bridge.,1,road design
+TX,SB 485,88|88-RS|,Relating to designating the second Saturday in October as Hospice and Palliative Care Day.,1,commem day
+TX,SB 739,88|88-RS|,Relating to designating October 10 as Supportive Palliative Care Awareness Day.,1,commem day
+TX,SB 414,88|88-RS|,Relating to the designation of a portion of State Highway 19 as the Mildred McMillan Garrett Memorial Bridge.,1,highway design
+TX,SB 247,88|88-RS|,Relating to specialty license plates issued for honorary consuls.,1,license plates
+TX,SB 957,88|88-RS|,Relating to the designation of a portion of United States Highway 59 in Harris County as the Deputy Sheriff Darren Almendarez Memorial Highway.,1,highway design
+TX,SB 2027,88|88-RS|,Relating to the designation of the Aaron M. Hicks Memorial Interchange.,1,interchange design
+TX,SB 464,88|88-RS|,Relating to designating October 17 as Entrepreneurs with Disabilities Day.,1,commem day
+TX,SB 1542,88|88-RS|,Relating to the designation of a portion of U.S. Highway 380 in Wise and Jack Counties as the Lost Battalion Memorial Highway.,1,highway design
+TX,SB 2151,88|88-RS|,Relating to the designation of a portion of U.S. Highway 60 as the Martha Pattillo Siv Memorial Parkway.,1,highway design
+TX,SB 2150,88|88-RS|,"Relating to the designation of the portion of U.S. Highway 84 in Joaquin as the Lt. General O.R. ""Cotton"" Whiddon Memorial Highway.",1,highway design
+TX,HB 2166,88|88-RS|,Relating to designating March 4 as COVID-19 Heroes and Memorial Day.,1,commem day
+TX,HB 4265,88|88-RS|,Relating to issuance of specialty license plates to honor personnel of sheriff's offices.,1,license plates
+TX,HB 2499,88|88-RS|,Relating to designating June 28 as Special Forces Day.,1,commem day
+TX,HB 3672,88|88-RS|,Relating to the designation of portions of the state highway system as memorial highways for certain deceased peace officers.,1,highway design
+TX,HB 2680,88|88-RS|,Relating to the designation of a portion of Interstate Highway 35W in Fort Worth as the Atatiana Jefferson Memorial Highway.,1,highway design
+TX,HB 4718,88|88-RS|,Relating to the designation of a portion of State Highway 164 in Limestone County as the State Trooper Chad M. Walker Memorial Highway.,1,highway design
+TX,HB 2205,88|88-RS|,Relating to the designation of a portion of United States Highway 59 in Harris County as the Deputy Sheriff Darren Almendarez Memorial Highway.,1,highway design
+TX,HB 2363,88|88-RS|,Relating to the designation of the portion of Farm-to-Market Road 765 in Concho County as the Sergeant Stephen Jones Memorial Highway.,1,highway design
+TX,HB 2364,88|88-RS|,Relating to the designation of a portion of U.S. Highway 87 in Concho County as the Deputy Samuel Leonard Memorial Highway.,1,highway design
+TX,HB 3045,88|88-RS|,Relating to the designation of a portion of Farm-to-Market Road 517 in Brazoria and Galveston Counties as the Ken Clark Memorial Highway.,1,highway design
+TX,HB 2835,88|88-RS|,Relating to the designation of a portion of State Highway 144 in Hood and Somervell Counties as the Ed Shipman Memorial Highway.,1,highway design
+TX,HB 2083,88|88-RS|,Relating to the designation of a portion of Business Interstate Highway 20-E in Ector County as the Mac Wilson and Rex Young Medal of Honor Highway.,1,highway design
+TX,HB 4745,88|88-RS|,Relating to the Texas Legislative Medal of Honor.,1,medal of honor recipients/qualifications
+TX,HB 2921,88|88-RS|,Relating to the issuance of Antarctica Service Medal specialty license plates.,1,license plates
+TX,HB 2548,88|88-RS|,Relating to designating December 8 as Special Hearts Day.,1,commem day
+TX,HB 2503,88|88-RS|,Relating to the issuance of specialty license plates for veterans with disabilities and recipients of the Texas Humanitarian Service Medal and federal Humanitarian Service Medal.,1,license plates
+TX,HB 3144,88|88-RS|,Relating to designating October as Fentanyl Poisoning Awareness Month.,1,commem month
+TX,HB 538,88|88-RS|,Relating to the designation of portions of the state highway system as memorial highways for veterans.,1,highway design
+TX,HB 5150,88|88-RS|,Relating to the designation of a portion of Farm-to-Market Road 2090 in Montgomery County as the Lance Corporal Armando Hernandez Memorial Highway.,1,road design
+TX,HB 2943,88|88-RS|,Relating to designating October 17 as Entrepreneurs with Disabilities Day.,1,commem day
+TX,HB 3099,88|88-RS|,Relating to the designation of a portion of U.S. Highway 380 in Wise and Jack Counties as the Lost Battalion Memorial Highway.,1,highway design
+TX,HB 975,88|88-RS|,Relating to the designation of the portion of Interstate Highway 635 in Mesquite as the Officer Richard Houston II Memorial Highway.,1,highway design
+TX,HB 2248,88|88-RS|,Relating to designating September 30 as Vanessa Guillén Day.,1,commem day
+TX,HB 923,88|88-RS|,Relating to the designation of the Aaron M. Hicks Memorial Interchange.,1,interchange design
+TX,HB 1305,88|88-RS|,Relating to the designation of a portion of State Highway 19 as the Mildred McMillan Garrett Memorial Bridge.,1,bridge design
+TX,HB 3106,88|88-RS|,Relating to the designation of a portion of State Highway 49 in Titus County as the Titus County WWI Veterans Memorial Highway.,1,highway design
+TX,HB 3108,88|88-RS|,Relating to the designation of a portion of Farm to Market Road 2348 in Titus County as the Army Staff Sergeant Clay Allen Craig Memorial Bridge.,1,bridge design
+TX,HB 751,88|88-RS|,Relating to the issuance of Coast Guard Lifesaving Medal specialty license plates.,1,license plates
+TX,HB 4421,88|88-RS|,Relating to qualifications for and limitations on awarding the Texas Legislative Medal of Honor.,1,"tricky, keeping at C, qualifications medal of honor"
+TX,HB 4861,88|88-RS|,Relating to the design and issuance of specialty license plates to honor members of the military and for recipients of certain military awards.,1,license plates
+TX,HB 627,88|88-RS|,Relating to the issuance of specialty license plates to the surviving spouse of a posthumous recipient of certain awards.,1,license plates
+TX,HB 628,88|88-RS|,Relating to issuance of specialty license plates to honor fallen law enforcement officers.,1,license plates
+TX,HB 1456,88|88-RS|,Relating to designating April 16 as Selena Quintanilla Pérez Day.,1,commem day
+TX,HB 659,88|88-RS|,Relating to specialty license plates issued for recipients of the Commendation Medal.,1,license plates
+TX,HB 1871,88|88-RS|,"Relating to the designation of a portion of Farm-to-Market Road 521 in Brazoria County as the Clarence ""BB"" Sasser Medal of Honor Highway.",1,highway design
+TX,HB 1913,88|88-RS|,Relating to the designation of a portion of Farm to Market Road 2526 in Eastland County as the Sergeant Barbara Fenley Memorial Highway.,1,highway design
+TX,HB 1785,88|88-RS|,Relating to the Center for Elimination of Disproportionality and Disparities renamed as the office for health equity and the duties of that office.,0,"changing duties of an office, upgraded"
+TX,HB 1368,88|88-RS|,Relating to the designation of a portion of Farm-to-Market Road 1960 in Harris County as the Deputy Constable Omar Ursin Memorial Highway.,1,highway design
+TX,HB 2323,88|88-RS|,Relating to the issuance of specialty license plates commemorating the 100th anniversary of the writing of the state song.,1,license plates
+TX,HB 1968,88|88-RS|,Relating to the designation of a portion of Interstate Highway 35 in Williamson County as the Officer Charles Whites Memorial Highway.,1,highway design
+UT,HB0075,2023_2024|2023-RS|State Commemorative Periods Amendments,,1,commem period provisions
+UT,HB0090,2023_2024|2023-RS|Utah State University Price,,1,renaming school
+UT,HB0092,2023_2024|2023-RS|State Mushroom Designation,,1,state mushroom designation
+UT,HB0332,2023_2024|2023-RS|Fallen Officer Memorial Scholarship Program,,0,"establishment of scholarship program, upgraded"
+UT,SB0092,2023_2024|2023-RS|Special License Plate Designation,,1,license plate
+UT,SB0239,2023_2024|2023-RS|Golden Spike Highway Designation,,1,highway designation
+UT,HB0234,2023_2024|2024-RS|Vital Record Information Modifications,,0,"changing name/sex designation on birth certificates, upgraded"
+UT,SB0186,2023_2024|2024-RS|State Commemorative Period Amendments,,1,commem period provisions
+WA,HB1020,2023_2024|2023_2024|AN ACT Relating to the state dinosaur;,Designating the Suciasaurus rex as the official dinosaur of the state of Washington.,1,state dinosaur
+WA,HB1031,2023_2024|2023_2024|AN ACT Relating to the medal of valor award presentation;,Modifying medal of valor award presentation requirements.,1,award presentation provision changes
+WA,HB1154,2023_2024|2023_2024|AN ACT Relating to religious institutions and gubernatorial proclamations;,Concerning religious institutions and gubernatorial proclamations.,0,"seems S (religion & proclamations), but very vague, upgraded"
+WA,HB1364,2023_2024|2023_2024|AN ACT Relating to creating the nautical Northwest special license plate;,Creating the nautical Northwest special license plate.,1,license plate
+WA,HB1488,2023_2024|2023_2024|AN ACT Relating to creating special license plates that support working forests;,Creating special license plates that support working forests.,1,license plate
+WA,HB1489,2023_2024|2023_2024|AN ACT Relating to creating Mount St. Helens special license plates;,Creating Mount St. Helens special license plates.,1,license plate
+WA,HB1647,2023_2024|2023_2024|AN ACT Relating to creating keep Washington evergreen special license plates;,Creating keep Washington evergreen special license plates.,1,license plate
+WA,HB1700,2023_2024|2023_2024|AN ACT Relating to establishing a memorial on the capitol campus to commemorate eastern Washington;,Establishing a memorial on the capitol campus to commemorate eastern Washington.,1,creating memorial
+WA,HB1829,2023_2024|2023_2024|AN ACT Relating to creating the LeMay-America's Car Museum special license plate;,Creating the LeMay-America's Car Museum special license plate.,1,license plate
+WA,HB1858,2023_2024|2023_2024|AN ACT Relating to creating United States Naval Academy special license plates;,Creating United States Naval Academy plates.,1,plates
+WA,HB1984,2023_2024|2023_2024|AN ACT Relating to designating the Pacific razor clam as the state clam;,Designating the Pacific razor clam as the state clam.,1,state clam
+WA,HB2014,2023_2024|2023_2024|AN ACT Relating to the definition of veteran and restoring honor to veterans;,Concerning the definition of veteran and restoring honor to veterans.,0,"upgraded, expanding veteran definition"
+WA,HB2031,"2023_2024|2023_2024|AN ACT Relating to recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel;","Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel.",0,"classifying PTSD as disease, upgraded"
+WA,SB5000,2023_2024|2023_2024|AN ACT Relating to recognizing contributions of Americans of Chinese descent;,Recognizing contributions of Americans of Chinese descent. (REVISED FOR PASSED LEGISLATURE: Recognizing contributions of Chinese Americans and Americans of Chinese descent.),1,"commem, recognizing contributions"
+WA,SB5043,2023_2024|2023_2024|AN ACT Relating to recognizing that power plants that comply with the state greenhouse gas emissions performance standard are consistent with Washington's long-term policy for electricity;,Recognizing that power plants that comply with the state greenhouse gas emissions performance standard are consistent with Washington's long-term policy for electricity.,0,require power plant compliance with govt regulation
+WA,SB5196,2023_2024|2023_2024|AN ACT Relating to creating the OL Reign special license plate;,Creating the OL Reign special license plate.,1,license plate
+WA,SB5333,2023_2024|2023_2024|AN ACT Relating to creating the state sport special license plate;,Creating the state sport special license plate.,1,license plate
+WA,SB5381,2023_2024|2023_2024|AN ACT Relating to letters of recommendation or congratulations sent by legislators;,Concerning letters of recommendation or congratulations sent by legislators.,0,"upgraded, letters of rec from legislators have policy impacts for students (serv acad)"
+WA,SB5558,2023_2024|2023_2024|AN ACT Relating to the fundamental right of parents and guardians to direct the upbringing and education of their children;,Recognizing the fundamental right of parents and guardians to direct the upbringing and education of their children.,1,"kept at C, regards ""recognizing the right"" of parents to make decisions for children"
+WA,ESB5590,2023_2024|2023_2024|AN ACT Relating to creating Mount St. Helens special license plates;,Creating Mount St. Helens special license plates.,1,license plate
+WA,SB5677,2023_2024|2023_2024|AN ACT Relating to recognizing Walla Walla sweet onion day;,Recognizing Walla Walla sweet onion day.,1,commem day
+WA,SB5738,2023_2024|2023_2024|AN ACT Relating to creating the LeMay-America's Car Museum special license plate;,Creating the LeMay-America's Car Museum special license plate.,1,license plate
+WA,SB5762,2023_2024|2023_2024|AN ACT Relating to the state berry;,Designating the blueberry as the state berry.,1,state berry
+WA,SB5871,2023_2024|2023_2024|AN ACT Relating to the definition of veteran and restoring honor to veterans;,Concerning the definition of veteran and restoring honor to veterans.,0,"upgraded, expanding veteran definition"
+WA,SB5910,2023_2024|2023_2024|AN ACT Relating to creating the state department of natural resources' Smokey Bear special license plates;,Creating the state department of natural resources' Smokey Bear special license plates.,1,license plate
+WA,HB2091,2023_2024|2023_2024|AN ACT Relating to establishing a fallen firefighter memorial;,Establishing a fallen firefighter memorial.,1,creating memorial
+WA,HB2108,2023_2024|2023_2024|AN ACT Relating to creating the state department of natural resources' Smokey Bear special license plates;,Creating the state department of natural resources' Smokey Bear special license plates.,1,license plate
+WA,HB2192,2023_2024|2023_2024|AN ACT Relating to celebrating national voter registration day;,Celebrating national voter registration day.,1,commem day
+WA,HB2209,2023_2024|2023_2024|AN ACT Relating to celebrating lunar new year;,Celebrating lunar new year.,1,commem day
+WA,HB2427,2023_2024|2023_2024|AN ACT Relating to recognizing the Walla Walla valley historical society as a trustee of the state;,Recognizing the Walla Walla valley historical society as a trustee of the state.,0,"upgraded, designating new org as official state trustee"
+WA,HB2442,2023_2024|2023_2024|AN ACT Relating to the Washington state law enforcement memorial;,Establishing a law enforcement memorial names committee.,1,memorial creation
+WA,HB2488,2023_2024|2023_2024|AN ACT Relating to protecting the free exercise of religion from executive overreach during gubernatorial proclamations;,Protecting the free exercise of religion from executive overreach during gubernatorial proclamations.,0,"free speech protections, upgraded"
+WA,HB2489,2023_2024|2023_2024|AN ACT Relating to creating several new special license plates;,Creating several new special license plates.,1,license plate
+WA,HB2490,2023_2024|2023_2024|AN ACT Relating to the fee disposition for the Seattle Sounders FC special license plate;,Changing the fee disposition for the Seattle Sounders FC special license plate.,1,license plate
+WA,SB5946,2023_2024|2023_2024|AN ACT Relating to establishing a fallen firefighter memorial;,Establishing a fallen firefighter memorial.,1,creating memorial
+WA,SB6117,2023_2024|2023_2024|AN ACT Relating to the designation of the state stone;,Designating a state stone.,1,state stone
+WA,SB6297,2023_2024|2023_2024|AN ACT Relating to recognizing a court's authority to authorize a defendant's direct transfer from jail to inpatient or residential substance use disorder treatment;,Recognizing a court's authority to authorize a defendant's direct transfer from jail to inpatient or residential substance use disorder treatment.,0,"deals with court authority to transfer defendants, upgraded"
+WA,SB6305,2023_2024|2023_2024|AN ACT Relating to the Washington state law enforcement memorial;,Establishing a law enforcement memorial names committee.,1,creating memorial
+WV,SB0271,2023_2024|2023-RS|,Modifying approval process requirements for First Responders Honor Board,0,"upgraded, deals with changing requirements of nom to hon board"
+WV,HB2391,2023_2024|2023-RS|,"To create a bill to designate February 3 as “Freedom Day,” to memorialize the February 3, 1865 Act by the Legislature that abolished slavery in West Virginia.",1,commem day
+WV,HB2873,2023_2024|2023-RS|,To modify the approval process requirements for the First Responders Honor Board,0,"upgraded, deals with changing requirements of nom to hon board"
+WV,HB3254,2023_2024|2023-RS|,Establishing the Hershel “Woody” Williams State Military Funeral Honor Guard,1,"tricky, but kept as C (establishing mil funeral honor guard)"
+WV,HB4254,2023_2024|2024-RS|,"To create a bill to designate February 3 as “Freedom Day,” to memorialize the February 3, 1865 Act by the Legislature that abolished slavery in West Virginia.",1,commem day
+WV,HB4341,2023_2024|2024-RS|,"Establishing a State Military Funeral Honor Guard in honor of Hershel “Woody” Williams, known as the Hershel “Woody” Williams State Military Funeral Honor Guard",1,"tricky, but kept as C (establishing mil funeral honor guard + renamed)"
+WV,HB5290,2023_2024|2024-RS|,To create “Holocaust Education Week”,1,commem week
+WY,HB0067,2023_2024|2023-RS|AN ACT relating to motor vehicles; providing for a decal designating a woman veteran to attach to a veteran's special license plate; making clarifying amendments; providing for a decal fee; and providing for an effective date.,,0,"upgraded, giving group fee $ and ""clarifying amendments"""
+WY,HB0198,2023_2024|2023-RS|AN ACT relating to cities and towns; authorizing the city clerk to name a designee to serve as ex officio clerk of the civil service commission within the clerk's incorporated municipality; and providing for an effective date.,,0,"upgraded, deals with city clerk designations"
+WY,SF0058,2023_2024|2023-RS|AN ACT relating to state lands; designating Sutton archaeological site as a state archaeological site; requiring the department of state parks and cultural resources to manage the Sutton archaeological site; and providing for an effective date.,,0,"upgraded, requiring state to help finance this site"
+WY,SF0067,2023_2024|2023-RS|AN ACT relating to motor vehicles; allowing a person with a disability to be issued a special license plate with a disabled designation for a multipurpose vehicle; specifying that a distinctive symbol may be used on a disabled license plate to designate vehicle type; and providing for an effective date.,,0,"upgraded, deals with disabled peoples' lic plates/vehicles"
+WY,SF0095,2023_2024|2023-RS|AN ACT relating to legal time and holidays; designating Moon Landing Day as a state recognized commemorative day to be observed as specified; and providing for an effective date.,,1,commemorative day
+WY,HB0054,2023_2024|2024-RS|AN ACT relating to legal time and holidays; designating Wyoming Reads Day as a state recognized commemorative day to be observed as specified; and providing for an effective date.,,1,commemorative day
+WY,HB0172,2023_2024|2024-RS|AN ACT relating to highways; designating Wyoming state highway 24 as the Purple Heart Memorial Trail; requiring signage; and providing for an effective date.,,1,designating highway
+WY,SF0082,2023_2024|2024-RS|AN ACT relating to education; modifying the duties of the state board of education in approval of alternative scheduling for a school year; reducing the minimum number of class days required for public schools; reducing the number of professional development days for public schools as specified; requiring the school year to begin after Labor Day and recess prior to Memorial Day except as specified; and providing for an effective date.,,0,"upgraded, deals with Education Dept changing dates"
