@@ -68,6 +68,13 @@ join_data <- function(data, state, term) {
   ss_term <- data$ss_bills %>%
     filter(.data$term == !!term)
 
+  # Apply state-specific SS bill ID transformations if available
+  # Some states (e.g., KY) have special session bills encoded in unusual formats
+  # that need to be mapped to standard bill IDs before joining
+  if (!is.null(data$state_config$transform_ss_bills)) {
+    ss_term <- data$state_config$transform_ss_bills(ss_term, term)
+  }
+
   # Filter to valid bill types
   ss_filtered <- ss_term %>%
     mutate(bill_type = toupper(gsub("[0-9].+|[0-9]+", "", .data$bill_id))) %>%
