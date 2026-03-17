@@ -2,4 +2,4 @@
 .data/**/outputs
 scripts
 .venv
-
+*.pyc
