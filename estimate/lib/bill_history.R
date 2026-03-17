@@ -75,10 +75,12 @@ evaluate_bill_history <- function(
   pass_terms <- step_terms$pass
   law_terms <- step_terms$law
 
-  # Derive chambers
-  chambers <- get_chamber_of_introduction(this_id)
-  init_chamber <- chambers[1]
-  other_chamber <- chambers[2]
+  # Derive chambers (skip for Nebraska unicameral - not needed)
+  if (!nebraska) {
+    chambers <- get_chamber_of_introduction(this_id)
+    init_chamber <- chambers[1]
+    other_chamber <- chambers[2]
+  }
 
   # Clean bill history
   bill_history$action <- tolower(bill_history$action)

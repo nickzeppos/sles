@@ -173,7 +173,11 @@ reconcile_legislators <- function(data, state, term) {
       sponsor = ifelse(!is.na(.data$name), .data$name,
                       stringr::str_to_title(.data$match_name)),
       term = term,
-      chamber = substr(.data$district, 1, 1)
+      # Use district from legiscan for chamber when available,
+      # fall back to chamber from all_sponsors (derived from bill_id) for unmatched
+      chamber = ifelse(!is.na(.data$district),
+                       substr(.data$district, 1, 1),
+                       .data$chamber)
     ) %>%
     select("sponsor", "data_name", "name", klarner_id = "people_id",
            "chamber", "party", "district", "term", "num_sponsored_bills",
@@ -181,6 +185,12 @@ reconcile_legislators <- function(data, state, term) {
            "sponsor_law_rate") %>%
     arrange(.data$chamber, .data$sponsor) %>%
     distinct()
+
+  # Apply state-specific post-reconciliation hook if available
+  # Used by NE to override chamber to "U" for unicameral legislature
+  if (!is.null(state_config$finalize_legis_data)) {
+    legis_data <- state_config$finalize_legis_data(legis_data, term)
+  }
 
   cli_log(glue("Reconciliation complete: {nrow(legis_data)} legislators"))
 

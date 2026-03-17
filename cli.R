@@ -1,12 +1,16 @@
 #!/usr/bin/env Rscript
-# SLES CLI - State Legislative Effectiveness Scores
+# SLES CLI - State Legislative Effectiveness Scores (R)
 #
-# Usage: Rscript cli.R <state> <term> <operation>
+# Usage: Rscript cli.R <state> <term> <operation> [--verbose]
 #   state: State postal code (e.g., "WI")
 #   term: Legislative term (e.g., "2023_2024")
-#   operation: Operation to perform (currently only "estimate")
+#   operation: "estimate"
 #
-# Example: Rscript cli.R WI 2023_2024 estimate
+# For scraping, use the Python CLI: python cli.py <state> <term> scrape
+#
+# Examples:
+#   Rscript cli.R WI 2023_2024 estimate
+#   Rscript cli.R WI 2023_2024 estimate --verbose
 
 # Set repo root for all modules to use
 Sys.setenv(SLES_REPO_ROOT = normalizePath(getwd()))
@@ -38,6 +42,7 @@ if (!operation %in% valid_operations) {
     "Valid operations: %s\n",
     paste(valid_operations, collapse = ", ")
   ))
+  cat("For scraping, use: python cli.py <state> <term> scrape\n")
   quit(status = 1)
 }
 

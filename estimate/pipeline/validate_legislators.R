@@ -105,10 +105,17 @@ validate_legislators <- function(data, state, term) {
       ))
     }
 
-    use_cached <- cli_prompt(paste(
-      "If you have already reviewed and coded",
-      "this list, use cached decisions? [y/n]: "
-    ))
+    # Auto-accept cached decisions only if SLES_AUTO_ACCEPT env var is set
+    # (used by automated tooling; human runs should always prompt)
+    if (Sys.getenv("SLES_AUTO_ACCEPT") == "true") {
+      use_cached <- "y"
+      if (verbose) cli_log("SLES_AUTO_ACCEPT set: auto-accepting cached decisions.")
+    } else {
+      use_cached <- cli_prompt(paste(
+        "If you have already reviewed and coded",
+        "this list, use cached decisions? [y/n]: "
+      ))
+    }
 
     if (tolower(use_cached) == "y") {
       # Use cached decisions

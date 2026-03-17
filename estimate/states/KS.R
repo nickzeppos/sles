@@ -553,6 +553,64 @@ reconcile_legiscan_with_sponsors <- function(all_sponsors,
   }
 }
 
+# Stage 3: Enrich SS bills with session
+#' Map SS bills to correct session using human-reviewed CSV
+#'
+#' KS bill numbers carry over but the special session (2024_SS) reuses
+#' some bill numbers (e.g., HB2001). A review CSV resolves ambiguous
+#' bills; all others default to the regular session.
+#'
+#' @param ss_bills SS bills dataframe
+#' @param term Term string
+#' @return SS bills with session column added
+enrich_ss_with_session <- function(ss_bills, term) {
+  rs_session <- paste0(term, "_RS")
+
+  review_path <- file.path(
+    repo_root, ".data", "KS", "review",
+    "KS_SS_session_resolution.csv"
+  )
+  if (!file.exists(review_path)) {
+    cli_warn(glue(
+      "No SS session resolution file found at {review_path}. ",
+      "All SS bills will use bill_id-only join."
+    ))
+    ss_bills$session <- NA_character_
+    return(ss_bills)
+  }
+
+  review <- read.csv(review_path, stringsAsFactors = FALSE) %>%
+    filter(.data$match == "Y") %>%
+    select("bill_id", "pvs_title", "candidate_session")
+
+  ss_bills$session <- NA_character_
+  for (i in seq_len(nrow(ss_bills))) {
+    resolved <- review %>%
+      filter(
+        .data$bill_id == ss_bills$bill_id[i],
+        .data$pvs_title == ss_bills$Title[i]
+      )
+    if (nrow(resolved) == 1) {
+      ss_bills$session[i] <- resolved$candidate_session
+    }
+  }
+
+  n_resolved <- sum(!is.na(ss_bills$session))
+  n_unresolved <- sum(is.na(ss_bills$session))
+  if (n_resolved > 0) {
+    cli_log(glue(
+      "  {n_resolved} SS bill(s) resolved via review CSV"
+    ))
+  }
+  if (n_unresolved > 0) {
+    cli_log(glue(
+      "  {n_unresolved} SS bill(s) unambiguous (bill_id-only join)"
+    ))
+  }
+
+  ss_bills
+}
+
 # Export configuration and hooks
 c(
   ks_config,
@@ -560,6 +618,7 @@ c(
     load_bill_files = load_bill_files,
     clean_bill_details = clean_bill_details,
     clean_bill_history = clean_bill_history,
+    enrich_ss_with_session = enrich_ss_with_session,
     get_missing_ss_bills = get_missing_ss_bills,
     derive_unique_sponsors = derive_unique_sponsors,
     prepare_bills_for_les = prepare_bills_for_les,

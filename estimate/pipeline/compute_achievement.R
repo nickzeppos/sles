@@ -41,7 +41,27 @@ compute_achievement <- function(data, state, term) {
   bill_history_clean <- data$bill_history
 
   # Get state-specific step terms from config
-  step_terms <- data$state_config$step_terms
+  # If get_step_terms hook exists, defer to per-bill resolution inside the loop
+  # Otherwise, use static step_terms for all bills
+  static_step_terms <- data$state_config$step_terms
+  has_dynamic_step_terms <- !is.null(data$state_config$get_step_terms)
+
+  # Check for Nebraska unicameral flag (bypasses chamber filtering)
+  nebraska_flag <- if (!is.null(data$state_config$nebraska)) {
+    data$state_config$nebraska
+  } else {
+    FALSE
+  }
+
+  # Check for ignore_chamber_switch flag (e.g., MA joint committees)
+  ignore_chamber_flag <- if (
+    !is.null(data$state_config$ignore_chamber_switch)
+  ) {
+    data$state_config$ignore_chamber_switch
+  } else {
+    FALSE
+  }
+  add_chamb_value <- data$state_config$add_chamb # NULL by default
 
   # Initialize achievement matrix
   all_bill_stages <- tibble(
@@ -64,6 +84,13 @@ compute_achievement <- function(data, state, term) {
     i_session <- data$bill_details$session[i]
     i_sponsor <- data$bill_details$LES_sponsor[i]
 
+    # Resolve step_terms: per-bill if hook exists, otherwise static
+    if (has_dynamic_step_terms) {
+      step_terms <- data$state_config$get_step_terms(i_bill_id, i_term)
+    } else {
+      step_terms <- static_step_terms
+    }
+
     # Get relevant slice of history data
     i_bill_history <- bill_history_clean %>%
       filter(.data$bill_id == i_bill_id & .data$session == i_session)
@@ -76,8 +103,21 @@ compute_achievement <- function(data, state, term) {
       this_session = i_session,
       this_sponsor = i_sponsor,
       state = state,
-      step_terms = step_terms
+      step_terms = step_terms,
+      ignore_chamber_switch = ignore_chamber_flag,
+      nebraska = nebraska_flag,
+      add_chamb = add_chamb_value
     )
+
+    # Apply state-specific post-evaluation hook if available
+    # This allows states to modify achievement based on bill-level data
+    # (e.g., ME uses chapter_num column to determine law status)
+    if (!is.null(data$state_config$post_evaluate_bill)) {
+      bill_row <- data$bill_details[i, ]
+      bill_stages <- data$state_config$post_evaluate_bill(
+        bill_stages, bill_row, i_bill_history
+      )
+    }
 
     # Append to achievement matrix
     all_bill_stages <- bind_rows(all_bill_stages, bill_stages)

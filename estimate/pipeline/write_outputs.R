@@ -1,5 +1,5 @@
 # Pipeline Stage 7: Write Outputs
-# Writes LES scores and coded bills to CSV files
+# Writes LES scores and bill stage codings to CSV files
 
 # Load shared utilities
 repo_root <- Sys.getenv("SLES_REPO_ROOT")
@@ -21,10 +21,32 @@ require_libs()
 library(dplyr)
 library(glue)
 
+# Standard columns for Bill_Stage_Codings output (matches old script format)
+# These columns are consistent across all states
+STANDARD_BILL_STAGE_COLUMNS <- c(
+
+  "bill_id",
+  "term",
+  "session",
+  "LES_sponsor",
+  "introduced",
+  "action_in_comm",
+  "action_beyond_comm",
+  "passed_chamber",
+  "law",
+  "bill_url",
+  "SS",
+  "commem",
+  "state"
+)
+
 #' Write outputs for estimation
 #'
-#' Writes LES scores and coded bills to CSV files in the outputs directory.
-#' Creates output directory if it doesn't exist.
+#' Writes LES scores and bill stage codings to CSV files in the outputs
+#' directory. Creates output directory if it doesn't exist.
+#'
+#' Bill stage codings use a standardized format matching the old script output,
+#' with consistent columns across all states.
 #'
 #' @param data List from calculate_scores containing all data
 #' @param state State postal code
@@ -49,11 +71,21 @@ write_outputs <- function(data, state, term) {
   write.csv(data$les_scores, les_file, row.names = FALSE)
   if (verbose) cli_log(glue("  {nrow(data$les_scores)} legislators written"))
 
-  # Write coded bills (achievement matrix joined with bill details)
-  bills_file <- file.path(outputs_dir, glue("{state}_coded_bills_{term}.csv"))
-  if (verbose) cli_log(glue("Writing coded bills to {basename(bills_file)}..."))
-  write.csv(data$bills, bills_file, row.names = FALSE)
-  if (verbose) cli_log(glue("  {nrow(data$bills)} bills written"))
+  # Write bill stage codings (standardized format matching old script)
+  # Select only columns that exist in the data
+  available_cols <- intersect(STANDARD_BILL_STAGE_COLUMNS, colnames(data$bills))
+  bill_stage_codings <- data$bills %>%
+    select(all_of(available_cols))
+
+  bills_file <- file.path(
+    outputs_dir,
+    glue("{state}_coded_bills_{term}.csv")
+  )
+  if (verbose) {
+    cli_log(glue("Writing coded bills to {basename(bills_file)}..."))
+  }
+  write.csv(bill_stage_codings, bills_file, row.names = FALSE)
+  if (verbose) cli_log(glue("  {nrow(bill_stage_codings)} bills written"))
 
   if (verbose) cli_log("Output files written successfully")
 

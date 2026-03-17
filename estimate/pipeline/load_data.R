@@ -104,6 +104,12 @@ load_data <- function(state, term, verbose = TRUE) {
     show_col_types = FALSE
   )
 
+  # Apply state-specific commem transformation if available
+  # (e.g., TX has non-standard bill_id and term formats)
+  if (!is.null(state_config$transform_commem_bills)) {
+    commem_bills <- state_config$transform_commem_bills(commem_bills, term)
+  }
+
   # Load legiscan data (from all sessions for this term)
   # List all session directories
   legiscan_sessions <- list.dirs(legiscan_dir, full.names = FALSE,

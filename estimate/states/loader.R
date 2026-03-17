@@ -46,8 +46,13 @@ load_state_config <- function(state, verbose = TRUE) {
   config <- source(state_file, local = TRUE)$value
 
   # Validate config has required fields
-  required_fields <- c("bill_types", "step_terms")
+  # step_terms can be provided statically OR via get_step_terms hook
+  required_fields <- c("bill_types")
   missing_fields <- setdiff(required_fields, names(config))
+
+  if (is.null(config$step_terms) && is.null(config$get_step_terms)) {
+    missing_fields <- c(missing_fields, "step_terms or get_step_terms")
+  }
 
   if (length(missing_fields) > 0) {
     cli_error(glue(

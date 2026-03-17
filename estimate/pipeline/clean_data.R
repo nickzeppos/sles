@@ -58,16 +58,24 @@ clean_data <- function(data, state, term) {
       # Get year from date
       year = as.integer(format(.data$date, "%Y")),
       # Use year to get term
-      term = ifelse(.data$year %% 2 == 1,
-                    paste0(.data$year, "_", .data$year + 1),
-                    paste0(.data$year - 1, "_", .data$year)),
+      # Default: odd-year start (e.g., 2023_2024)
+      # even_year_start: even-year start (e.g., 2024_2025) for VA, NJ
+      term = if (isTRUE(state_config$even_year_start)) {
+        ifelse(.data$year %% 2 == 0,
+               paste0(.data$year, "_", .data$year + 1),
+               paste0(.data$year - 1, "_", .data$year))
+      } else {
+        ifelse(.data$year %% 2 == 1,
+               paste0(.data$year, "_", .data$year + 1),
+               paste0(.data$year - 1, "_", .data$year))
+      },
       # Bill ID cleanup: uppercase
       bill_id = toupper(.data$bill_id),
       # Remove whitespace
       bill_id = gsub(" ", "", .data$bill_id),
       # Zero-pad bill IDs
       bill_id = paste0(
-        gsub("[0-9].+", "", .data$bill_id),
+        gsub("[0-9].*", "", .data$bill_id),
         str_pad(gsub("^[A-Z]+", "", .data$bill_id), 4, pad = "0")
       ),
       # Create SS flag
