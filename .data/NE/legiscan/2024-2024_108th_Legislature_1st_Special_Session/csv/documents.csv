@@ -1,0 +1,753 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1884824,3015170,text,444607,application/pdf,Introduced,https://legiscan.com/NE/text/LB1/id/3015170,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB1_S1.pdf
+1884853,3015178,text,177139,application/pdf,Introduced,https://legiscan.com/NE/text/LB2/id/3015178,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB2_S1.pdf
+1884853,3017770,text,120883,application/pdf,Enrolled,https://legiscan.com/NE/text/LB2/id/3017770,https://nebraskalegislature.gov/FloorDocs/108/PDF/Final/LB2_S1.pdf
+1884853,3018115,text,99029,application/pdf,Chaptered,https://legiscan.com/NE/text/LB2/id/3018115,https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB2_S1.pdf
+1884857,3015179,text,390081,application/pdf,Introduced,https://legiscan.com/NE/text/LB3/id/3015179,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB3_S1.pdf
+1884857,3017786,text,222883,application/pdf,Enrolled,https://legiscan.com/NE/text/LB3/id/3017786,https://nebraskalegislature.gov/FloorDocs/108/PDF/Final/LB3_S1.pdf
+1884857,3018130,text,171264,application/pdf,Chaptered,https://legiscan.com/NE/text/LB3/id/3018130,https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB3_S1.pdf
+1884860,3015180,text,51444,application/pdf,Introduced,https://legiscan.com/NE/text/LB4/id/3015180,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB4_S1.pdf
+1884860,3016595,text,51482,application/pdf,Enrolled,https://legiscan.com/NE/text/LB4/id/3016595,https://nebraskalegislature.gov/FloorDocs/108/PDF/Final/LB4_S1.pdf
+1884860,3018129,text,49934,application/pdf,Chaptered,https://legiscan.com/NE/text/LB4/id/3018129,https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB4_S1.pdf
+1884820,3015169,text,52676,application/pdf,Introduced,https://legiscan.com/NE/text/LB5/id/3015169,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB5_S1.pdf
+1884845,3015176,text,81665,application/pdf,Introduced,https://legiscan.com/NE/text/LB6/id/3015176,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB6_S1.pdf
+1884863,3015181,text,102957,application/pdf,Introduced,https://legiscan.com/NE/text/LB7/id/3015181,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB7_S1.pdf
+1884807,3015164,text,54961,application/pdf,Introduced,https://legiscan.com/NE/text/LB8/id/3015164,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB8_S1.pdf
+1884827,3015171,text,123964,application/pdf,Introduced,https://legiscan.com/NE/text/LB9/id/3015171,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB9_S1.pdf
+1885702,3016100,text,50850,application/pdf,Introduced,https://legiscan.com/NE/text/LB9A/id/3016100,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB9A_S1.pdf
+1884851,3015177,text,64956,application/pdf,Introduced,https://legiscan.com/NE/text/LB10/id/3015177,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB10_S1.pdf
+1884834,3015173,text,59787,application/pdf,Introduced,https://legiscan.com/NE/text/LB11/id/3015173,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB11_S1.pdf
+1884831,3015172,text,70318,application/pdf,Introduced,https://legiscan.com/NE/text/LB12/id/3015172,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB12_S1.pdf
+1884837,3015174,text,73745,application/pdf,Introduced,https://legiscan.com/NE/text/LB13/id/3015174,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB13_S1.pdf
+1884816,3015168,text,65750,application/pdf,Introduced,https://legiscan.com/NE/text/LB14/id/3015168,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB14_S1.pdf
+1884811,3015167,text,51934,application/pdf,Introduced,https://legiscan.com/NE/text/LB15/id/3015167,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB15_S1.pdf
+1884841,3015175,text,355931,application/pdf,Introduced,https://legiscan.com/NE/text/LB16/id/3015175,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB16_S1.pdf
+1884872,3015203,text,61492,application/pdf,Introduced,https://legiscan.com/NE/text/LB17/id/3015203,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB17_S1.pdf
+1884876,3015207,text,52997,application/pdf,Introduced,https://legiscan.com/NE/text/LB18/id/3015207,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB18_S1.pdf
+1884881,3015212,text,54823,application/pdf,Introduced,https://legiscan.com/NE/text/LB19/id/3015212,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB19_S1.pdf
+1884889,3015219,text,76020,application/pdf,Introduced,https://legiscan.com/NE/text/LB20/id/3015219,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB20_S1.pdf
+1884906,3015280,text,52785,application/pdf,Introduced,https://legiscan.com/NE/text/LB21/id/3015280,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB21_S1.pdf
+1884902,3015276,text,94521,application/pdf,Introduced,https://legiscan.com/NE/text/LB22/id/3015276,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB22_S1.pdf
+1884908,3015282,text,63352,application/pdf,Introduced,https://legiscan.com/NE/text/LB23/id/3015282,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB23_S1.pdf
+1884904,3015278,text,51911,application/pdf,Introduced,https://legiscan.com/NE/text/LB24/id/3015278,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB24_S1.pdf
+1884909,3015283,text,78015,application/pdf,Introduced,https://legiscan.com/NE/text/LB25/id/3015283,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB25_S1.pdf
+1884905,3015279,text,58266,application/pdf,Introduced,https://legiscan.com/NE/text/LB26/id/3015279,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB26_S1.pdf
+1884910,3015284,text,91495,application/pdf,Introduced,https://legiscan.com/NE/text/LB27/id/3015284,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB27_S1.pdf
+1884900,3015274,text,51059,application/pdf,Introduced,https://legiscan.com/NE/text/LB28/id/3015274,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB28_S1.pdf
+1884903,3015277,text,62827,application/pdf,Introduced,https://legiscan.com/NE/text/LB29/id/3015277,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB29_S1.pdf
+1884901,3015275,text,58346,application/pdf,Introduced,https://legiscan.com/NE/text/LB30/id/3015275,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB30_S1.pdf
+1884911,3015285,text,53203,application/pdf,Introduced,https://legiscan.com/NE/text/LB31/id/3015285,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB31_S1.pdf
+1884989,3015304,text,56935,application/pdf,Introduced,https://legiscan.com/NE/text/LB32/id/3015304,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB32_S1.pdf
+1884959,3015296,text,56765,application/pdf,Introduced,https://legiscan.com/NE/text/LB33/id/3015296,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB33_S1.pdf
+1884975,3015300,text,54369,application/pdf,Introduced,https://legiscan.com/NE/text/LB34/id/3015300,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB34_S1.pdf
+1885816,3016678,text,51025,application/pdf,Introduced,https://legiscan.com/NE/text/LB34A/id/3016678,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB34A_S1.pdf
+1884975,3017779,text,175925,application/pdf,Enrolled,https://legiscan.com/NE/text/LB34/id/3017779,https://nebraskalegislature.gov/FloorDocs/108/PDF/Final/LB34_S1.pdf
+1885816,3017787,text,52059,application/pdf,Enrolled,https://legiscan.com/NE/text/LB34A/id/3017787,https://nebraskalegislature.gov/FloorDocs/108/PDF/Final/LB34A_S1.pdf
+1884975,3018112,text,139217,application/pdf,Chaptered,https://legiscan.com/NE/text/LB34/id/3018112,https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB34_S1.pdf
+1885816,3018149,text,50651,application/pdf,Chaptered,https://legiscan.com/NE/text/LB34A/id/3018149,https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB34A_S1.pdf
+1884943,3015294,text,57262,application/pdf,Introduced,https://legiscan.com/NE/text/LB35/id/3015294,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB35_S1.pdf
+1885129,3015431,text,70982,application/pdf,Introduced,https://legiscan.com/NE/text/LB36/id/3015431,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB36_S1.pdf
+1885130,3015432,text,67753,application/pdf,Introduced,https://legiscan.com/NE/text/LB37/id/3015432,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB37_S1.pdf
+1885113,3015416,text,67840,application/pdf,Introduced,https://legiscan.com/NE/text/LB38/id/3015416,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB38_S1.pdf
+1885140,3015442,text,53664,application/pdf,Introduced,https://legiscan.com/NE/text/LB39/id/3015442,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB39_S1.pdf
+1885083,3015388,text,150147,application/pdf,Introduced,https://legiscan.com/NE/text/LB40/id/3015388,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB40_S1.pdf
+1885135,3015437,text,53584,application/pdf,Introduced,https://legiscan.com/NE/text/LB41/id/3015437,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB41_S1.pdf
+1885086,3015391,text,54533,application/pdf,Introduced,https://legiscan.com/NE/text/LB42/id/3015391,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB42_S1.pdf
+1885120,3015423,text,50219,application/pdf,Introduced,https://legiscan.com/NE/text/LB43/id/3015423,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB43_S1.pdf
+1885134,3015436,text,66405,application/pdf,Introduced,https://legiscan.com/NE/text/LB44/id/3015436,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB44_S1.pdf
+1885090,3015395,text,55892,application/pdf,Introduced,https://legiscan.com/NE/text/LB45/id/3015395,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB45_S1.pdf
+1885089,3015394,text,95423,application/pdf,Introduced,https://legiscan.com/NE/text/LB46/id/3015394,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB46_S1.pdf
+1885087,3015392,text,66524,application/pdf,Introduced,https://legiscan.com/NE/text/LB47/id/3015392,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB47_S1.pdf
+1885133,3015435,text,55074,application/pdf,Introduced,https://legiscan.com/NE/text/LB48/id/3015435,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB48_S1.pdf
+1885141,3015443,text,63804,application/pdf,Introduced,https://legiscan.com/NE/text/LB49/id/3015443,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB49_S1.pdf
+1885137,3015439,text,56618,application/pdf,Introduced,https://legiscan.com/NE/text/LB50/id/3015439,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB50_S1.pdf
+1885136,3015438,text,81869,application/pdf,Introduced,https://legiscan.com/NE/text/LB51/id/3015438,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB51_S1.pdf
+1885106,3015410,text,542796,application/pdf,Introduced,https://legiscan.com/NE/text/LB52/id/3015410,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB52_S1.pdf
+1885076,3015381,text,51583,application/pdf,Introduced,https://legiscan.com/NE/text/LB53/id/3015381,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB53_S1.pdf
+1885104,3015408,text,55948,application/pdf,Introduced,https://legiscan.com/NE/text/LB54/id/3015408,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB54_S1.pdf
+1885116,3015419,text,57208,application/pdf,Introduced,https://legiscan.com/NE/text/LB55/id/3015419,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB55_S1.pdf
+1885112,3015415,text,51048,application/pdf,Introduced,https://legiscan.com/NE/text/LB56/id/3015415,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB56_S1.pdf
+1885105,3015409,text,104245,application/pdf,Introduced,https://legiscan.com/NE/text/LB57/id/3015409,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB57_S1.pdf
+1885117,3015420,text,50294,application/pdf,Introduced,https://legiscan.com/NE/text/LB58/id/3015420,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB58_S1.pdf
+1885098,3015402,text,50628,application/pdf,Introduced,https://legiscan.com/NE/text/LB59/id/3015402,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB59_S1.pdf
+1885093,3015397,text,54650,application/pdf,Introduced,https://legiscan.com/NE/text/LB60/id/3015397,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB60_S1.pdf
+1885119,3015422,text,51129,application/pdf,Introduced,https://legiscan.com/NE/text/LB61/id/3015422,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB61_S1.pdf
+1885142,3015444,text,57912,application/pdf,Introduced,https://legiscan.com/NE/text/LB62/id/3015444,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB62_S1.pdf
+1885103,3015407,text,49697,application/pdf,Introduced,https://legiscan.com/NE/text/LB63/id/3015407,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB63_S1.pdf
+1885108,3015412,text,51103,application/pdf,Introduced,https://legiscan.com/NE/text/LB64/id/3015412,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB64_S1.pdf
+1885096,3015400,text,55237,application/pdf,Introduced,https://legiscan.com/NE/text/LB65/id/3015400,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB65_S1.pdf
+1885097,3015401,text,61655,application/pdf,Introduced,https://legiscan.com/NE/text/LB66/id/3015401,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB66_S1.pdf
+1885110,3015413,text,79276,application/pdf,Introduced,https://legiscan.com/NE/text/LB67/id/3015413,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB67_S1.pdf
+1885131,3015433,text,71880,application/pdf,Introduced,https://legiscan.com/NE/text/LB68/id/3015433,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB68_S1.pdf
+1885079,3015384,text,77068,application/pdf,Introduced,https://legiscan.com/NE/text/LB69/id/3015384,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB69_S1.pdf
+1885122,3015425,text,60927,application/pdf,Introduced,https://legiscan.com/NE/text/LB70/id/3015425,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB70_S1.pdf
+1885101,3015405,text,553597,application/pdf,Introduced,https://legiscan.com/NE/text/LB71/id/3015405,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB71_S1.pdf
+1885138,3015440,text,55135,application/pdf,Introduced,https://legiscan.com/NE/text/LB72/id/3015440,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB72_S1.pdf
+1885118,3015421,text,56365,application/pdf,Introduced,https://legiscan.com/NE/text/LB73/id/3015421,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB73_S1.pdf
+1885077,3015382,text,52798,application/pdf,Introduced,https://legiscan.com/NE/text/LB74/id/3015382,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB74_S1.pdf
+1885085,3015390,text,71887,application/pdf,Introduced,https://legiscan.com/NE/text/LB75/id/3015390,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB75_S1.pdf
+1885123,3015426,text,83472,application/pdf,Introduced,https://legiscan.com/NE/text/LB76/id/3015426,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB76_S1.pdf
+1885125,3015428,text,71824,application/pdf,Introduced,https://legiscan.com/NE/text/LB77/id/3015428,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB77_S1.pdf
+1885080,3015385,text,51788,application/pdf,Introduced,https://legiscan.com/NE/text/LB78/id/3015385,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB78_S1.pdf
+1885095,3015399,text,66387,application/pdf,Introduced,https://legiscan.com/NE/text/LB79/id/3015399,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB79_S1.pdf
+1885139,3015441,text,145090,application/pdf,Introduced,https://legiscan.com/NE/text/LB80/id/3015441,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB80_S1.pdf
+1885132,3015434,text,50979,application/pdf,Introduced,https://legiscan.com/NE/text/LB81/id/3015434,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LB81_S1.pdf
+1884879,3015210,text,52136,application/pdf,Introduced,https://legiscan.com/NE/text/LR1CA/id/3015210,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR1CA_S1.pdf
+1884868,3015198,text,56312,application/pdf,Introduced,https://legiscan.com/NE/text/LR2CA/id/3015198,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR2CA_S1.pdf
+1884887,3015217,text,56001,application/pdf,Introduced,https://legiscan.com/NE/text/LR3CA/id/3015217,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR3CA_S1.pdf
+1884891,3015221,text,50705,application/pdf,Introduced,https://legiscan.com/NE/text/LR4CA/id/3015221,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR4CA_S1.pdf
+1884809,3015165,text,50396,application/pdf,Introduced,https://legiscan.com/NE/text/LR5CA/id/3015165,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR5CA_S1.pdf
+1884929,3015289,text,75702,application/pdf,Introduced,https://legiscan.com/NE/text/LR6CA/id/3015289,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR6CA_S1.pdf
+1885124,3015427,text,50336,application/pdf,Introduced,https://legiscan.com/NE/text/LR7CA/id/3015427,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR7CA_S1.pdf
+1885128,3015430,text,50444,application/pdf,Introduced,https://legiscan.com/NE/text/LR8CA/id/3015430,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR8CA_S1.pdf
+1885102,3015406,text,50421,application/pdf,Introduced,https://legiscan.com/NE/text/LR9CA/id/3015406,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR9CA_S1.pdf
+1885078,3015383,text,50702,application/pdf,Introduced,https://legiscan.com/NE/text/LR10CA/id/3015383,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR10CA_S1.pdf
+1885107,3015411,text,50834,application/pdf,Introduced,https://legiscan.com/NE/text/LR11CA/id/3015411,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR11CA_S1.pdf
+1885111,3015414,text,50350,application/pdf,Introduced,https://legiscan.com/NE/text/LR12CA/id/3015414,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR12CA_S1.pdf
+1885115,3015418,text,50400,application/pdf,Introduced,https://legiscan.com/NE/text/LR13CA/id/3015418,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR13CA_S1.pdf
+1885099,3015403,text,50315,application/pdf,Introduced,https://legiscan.com/NE/text/LR14CA/id/3015403,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR14CA_S1.pdf
+1885094,3015398,text,50514,application/pdf,Introduced,https://legiscan.com/NE/text/LR15CA/id/3015398,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR15CA_S1.pdf
+1885082,3015387,text,50759,application/pdf,Introduced,https://legiscan.com/NE/text/LR16CA/id/3015387,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR16CA_S1.pdf
+1885084,3015389,text,50426,application/pdf,Introduced,https://legiscan.com/NE/text/LR17CA/id/3015389,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR17CA_S1.pdf
+1885114,3015417,text,50472,application/pdf,Introduced,https://legiscan.com/NE/text/LR18CA/id/3015417,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR18CA_S1.pdf
+1885091,3015396,text,50591,application/pdf,Introduced,https://legiscan.com/NE/text/LR19CA/id/3015396,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR19CA_S1.pdf
+1885081,3015386,text,50714,application/pdf,Introduced,https://legiscan.com/NE/text/LR20CA/id/3015386,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR20CA_S1.pdf
+1885127,3015429,text,50669,application/pdf,Introduced,https://legiscan.com/NE/text/LR21CA/id/3015429,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR21CA_S1.pdf
+1885100,3015404,text,50668,application/pdf,Introduced,https://legiscan.com/NE/text/LR22CA/id/3015404,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR22CA_S1.pdf
+1885121,3015424,text,61829,application/pdf,Introduced,https://legiscan.com/NE/text/LR23CA/id/3015424,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR23CA_S1.pdf
+1885088,3015393,text,56235,application/pdf,Introduced,https://legiscan.com/NE/text/LR24CA/id/3015393,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR24CA_S1.pdf
+1885847,3016799,text,51946,application/pdf,Introduced,https://legiscan.com/NE/text/LR25/id/3016799,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR25_S1.pdf
+1885848,3016827,text,51622,application/pdf,Introduced,https://legiscan.com/NE/text/LR26/id/3016827,https://nebraskalegislature.gov/FloorDocs/108/PDF/Intro/LR26_S1.pdf
+1884824,221543,amendment,26750,application/pdf,"Conrad MO1 ",https://legiscan.com/NE/amendment/LB1/id/221543,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO1_S1.pdf
+1884824,221544,amendment,26315,application/pdf,"Conrad MO2 ",https://legiscan.com/NE/amendment/LB1/id/221544,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO2_S1.pdf
+1884824,221545,amendment,26724,application/pdf,"Linehan MO3 ",https://legiscan.com/NE/amendment/LB1/id/221545,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO3_S1.pdf
+1884824,221546,amendment,26758,application/pdf,"Linehan MO4 ",https://legiscan.com/NE/amendment/LB1/id/221546,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO4_S1.pdf
+1884824,221547,amendment,26398,application/pdf,"Linehan FA1 ",https://legiscan.com/NE/amendment/LB1/id/221547,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA1_S1.pdf
+1884824,221563,amendment,26877,application/pdf,"Linehan MO5 ",https://legiscan.com/NE/amendment/LB1/id/221563,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO5_S1.pdf
+1884824,221564,amendment,26757,application/pdf,"Linehan MO6 ",https://legiscan.com/NE/amendment/LB1/id/221564,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO6_S1.pdf
+1884824,221565,amendment,25823,application/pdf,"Clements FA2 ",https://legiscan.com/NE/amendment/LB1/id/221565,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA2_S1.pdf
+1884824,221566,amendment,26025,application/pdf,"Clements FA3 ",https://legiscan.com/NE/amendment/LB1/id/221566,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA3_S1.pdf
+1884824,221567,amendment,26499,application/pdf,"Linehan FA4 ",https://legiscan.com/NE/amendment/LB1/id/221567,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA4_S1.pdf
+1884824,221568,amendment,25980,application/pdf,"Clements FA5 ",https://legiscan.com/NE/amendment/LB1/id/221568,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA5_S1.pdf
+1884824,221569,amendment,25989,application/pdf,"Clements FA6 ",https://legiscan.com/NE/amendment/LB1/id/221569,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA6_S1.pdf
+1884824,221570,amendment,26516,application/pdf,"Conrad MO8 ",https://legiscan.com/NE/amendment/LB1/id/221570,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO8_S1.pdf
+1884824,221571,amendment,26196,application/pdf,"Conrad MO9 ",https://legiscan.com/NE/amendment/LB1/id/221571,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO9_S1.pdf
+1884824,221606,amendment,26710,application/pdf,"Cavanaugh, M. FA47 ",https://legiscan.com/NE/amendment/LB1/id/221606,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA47_S1.pdf
+1884824,221607,amendment,26514,application/pdf,"Cavanaugh, M. FA46 ",https://legiscan.com/NE/amendment/LB1/id/221607,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA46_S1.pdf
+1884824,221608,amendment,26879,application/pdf,"Cavanaugh, M. FA23 ",https://legiscan.com/NE/amendment/LB1/id/221608,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA23_S1.pdf
+1884824,221609,amendment,26638,application/pdf,"Cavanaugh, M. FA22 ",https://legiscan.com/NE/amendment/LB1/id/221609,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA22_S1.pdf
+1884824,221610,amendment,26702,application/pdf,"Cavanaugh, M. FA21 ",https://legiscan.com/NE/amendment/LB1/id/221610,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA21_S1.pdf
+1884824,221611,amendment,26669,application/pdf,"Cavanaugh, M. FA20 ",https://legiscan.com/NE/amendment/LB1/id/221611,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA20_S1.pdf
+1884824,221612,amendment,26578,application/pdf,"Cavanaugh, M. FA19 ",https://legiscan.com/NE/amendment/LB1/id/221612,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA19_S1.pdf
+1884824,221613,amendment,26710,application/pdf,"Cavanaugh, M. FA18 ",https://legiscan.com/NE/amendment/LB1/id/221613,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA18_S1.pdf
+1884824,221614,amendment,26677,application/pdf,"Cavanaugh, M. FA17 ",https://legiscan.com/NE/amendment/LB1/id/221614,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA17_S1.pdf
+1884824,221615,amendment,26528,application/pdf,"Cavanaugh, M. FA16 ",https://legiscan.com/NE/amendment/LB1/id/221615,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA16_S1.pdf
+1884824,221616,amendment,26553,application/pdf,"Cavanaugh, M. FA15 ",https://legiscan.com/NE/amendment/LB1/id/221616,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA15_S1.pdf
+1884824,221617,amendment,26758,application/pdf,"Cavanaugh, M. MO18 ",https://legiscan.com/NE/amendment/LB1/id/221617,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO18_S1.pdf
+1884824,221618,amendment,26432,application/pdf,"Cavanaugh, M. MO19 ",https://legiscan.com/NE/amendment/LB1/id/221618,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO19_S1.pdf
+1884824,221619,amendment,27607,application/pdf,"Linehan MO29 ",https://legiscan.com/NE/amendment/LB1/id/221619,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO29_S1.pdf
+1884824,221620,amendment,26248,application/pdf,"Conrad MO33 ",https://legiscan.com/NE/amendment/LB1/id/221620,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO33_S1.pdf
+1884824,221621,amendment,26248,application/pdf,"Conrad MO34 ",https://legiscan.com/NE/amendment/LB1/id/221621,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO34_S1.pdf
+1884824,221622,amendment,26394,application/pdf,"Conrad MO35 ",https://legiscan.com/NE/amendment/LB1/id/221622,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO35_S1.pdf
+1884824,221623,amendment,26309,application/pdf,"Linehan MO36 ",https://legiscan.com/NE/amendment/LB1/id/221623,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO36_S1.pdf
+1884824,221624,amendment,26229,application/pdf,"Linehan MO37 ",https://legiscan.com/NE/amendment/LB1/id/221624,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO37_S1.pdf
+1884824,221625,amendment,26346,application/pdf,"Linehan MO38 ",https://legiscan.com/NE/amendment/LB1/id/221625,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO38_S1.pdf
+1884824,221629,amendment,27908,application/pdf,"Ibach AM3 ",https://legiscan.com/NE/amendment/LB1/id/221629,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM3_S1.pdf
+1884824,221630,amendment,52248,application/pdf,"Ibach AM5 ",https://legiscan.com/NE/amendment/LB1/id/221630,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM5_S1.pdf
+1884824,221631,amendment,28315,application/pdf,"Ibach AM6 ",https://legiscan.com/NE/amendment/LB1/id/221631,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM6_S1.pdf
+1884824,221632,amendment,28012,application/pdf,"Ibach AM7 ",https://legiscan.com/NE/amendment/LB1/id/221632,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM7_S1.pdf
+1884824,221633,amendment,29390,application/pdf,"Ibach AM2 ",https://legiscan.com/NE/amendment/LB1/id/221633,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM2_S1.pdf
+1884824,221634,amendment,51580,application/pdf,"Ibach AM4 ",https://legiscan.com/NE/amendment/LB1/id/221634,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM4_S1.pdf
+1884824,221636,amendment,36709,application/pdf,"Erdman AM18 ",https://legiscan.com/NE/amendment/LB1/id/221636,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM18_S1.pdf
+1884824,221676,amendment,29798,application/pdf,"Hunt AM24 ",https://legiscan.com/NE/amendment/LB1/id/221676,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM24_S1.pdf
+1884853,221555,amendment,26990,application/pdf,"Conrad MO10 ",https://legiscan.com/NE/amendment/LB2/id/221555,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO10_S1.pdf
+1884853,221556,amendment,26320,application/pdf,"Conrad MO11 ",https://legiscan.com/NE/amendment/LB2/id/221556,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO11_S1.pdf
+1884853,221557,amendment,25892,application/pdf,"Clements FA7 ",https://legiscan.com/NE/amendment/LB2/id/221557,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA7_S1.pdf
+1884853,221558,amendment,26034,application/pdf,"Clements FA8 ",https://legiscan.com/NE/amendment/LB2/id/221558,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA8_S1.pdf
+1884853,221559,amendment,25999,application/pdf,"Clements FA9 ",https://legiscan.com/NE/amendment/LB2/id/221559,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA9_S1.pdf
+1884853,221560,amendment,25977,application/pdf,"Clements FA10 ",https://legiscan.com/NE/amendment/LB2/id/221560,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA10_S1.pdf
+1884853,221561,amendment,26320,application/pdf,"Conrad MO12 ",https://legiscan.com/NE/amendment/LB2/id/221561,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO12_S1.pdf
+1884853,221562,amendment,26357,application/pdf,"Conrad MO13 ",https://legiscan.com/NE/amendment/LB2/id/221562,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO13_S1.pdf
+1884853,221589,amendment,26638,application/pdf,"Cavanaugh, M. FA24 ",https://legiscan.com/NE/amendment/LB2/id/221589,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA24_S1.pdf
+1884853,221590,amendment,26672,application/pdf,"Cavanaugh, M. FA25 ",https://legiscan.com/NE/amendment/LB2/id/221590,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA25_S1.pdf
+1884853,221591,amendment,26705,application/pdf,"Cavanaugh, M. FA26 ",https://legiscan.com/NE/amendment/LB2/id/221591,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA26_S1.pdf
+1884853,221592,amendment,26710,application/pdf,"Cavanaugh, M. FA27 ",https://legiscan.com/NE/amendment/LB2/id/221592,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA27_S1.pdf
+1884853,221593,amendment,26720,application/pdf,"Cavanaugh, M. FA28 ",https://legiscan.com/NE/amendment/LB2/id/221593,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA28_S1.pdf
+1884853,221594,amendment,26692,application/pdf,"Cavanaugh, M. FA29 ",https://legiscan.com/NE/amendment/LB2/id/221594,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA29_S1.pdf
+1884853,221595,amendment,26856,application/pdf,"Cavanaugh, M. FA30 ",https://legiscan.com/NE/amendment/LB2/id/221595,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA30_S1.pdf
+1884853,221596,amendment,26818,application/pdf,"Cavanaugh, M. FA31 ",https://legiscan.com/NE/amendment/LB2/id/221596,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA31_S1.pdf
+1884853,221597,amendment,26881,application/pdf,"Cavanaugh, M. FA32 ",https://legiscan.com/NE/amendment/LB2/id/221597,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA32_S1.pdf
+1884853,221598,amendment,26564,application/pdf,"Cavanaugh, M. MO20 ",https://legiscan.com/NE/amendment/LB2/id/221598,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO20_S1.pdf
+1884853,221599,amendment,26389,application/pdf,"Cavanaugh, M. MO21 ",https://legiscan.com/NE/amendment/LB2/id/221599,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO21_S1.pdf
+1884853,221600,amendment,26638,application/pdf,"Cavanaugh, M. FA42 ",https://legiscan.com/NE/amendment/LB2/id/221600,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA42_S1.pdf
+1884853,221601,amendment,26821,application/pdf,"Cavanaugh, M. FA43 ",https://legiscan.com/NE/amendment/LB2/id/221601,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA43_S1.pdf
+1884853,221602,amendment,26774,application/pdf,"Cavanaugh, M. MO24 ",https://legiscan.com/NE/amendment/LB2/id/221602,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO24_S1.pdf
+1884853,221603,amendment,26655,application/pdf,"Conrad MO25 ",https://legiscan.com/NE/amendment/LB2/id/221603,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO25_S1.pdf
+1884853,221604,amendment,26509,application/pdf,"Conrad MO26 ",https://legiscan.com/NE/amendment/LB2/id/221604,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO26_S1.pdf
+1884853,221605,amendment,26574,application/pdf,"Conrad MO27 ",https://legiscan.com/NE/amendment/LB2/id/221605,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO27_S1.pdf
+1884853,221627,amendment,33632,application/pdf,"Ibach AM8 ",https://legiscan.com/NE/amendment/LB2/id/221627,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM8_S1.pdf
+1884853,221628,amendment,27645,application/pdf,"Ibach AM9 ",https://legiscan.com/NE/amendment/LB2/id/221628,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM9_S1.pdf
+1884853,221635,amendment,27779,application/pdf,"Aguilar AM1 ",https://legiscan.com/NE/amendment/LB2/id/221635,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM1_S1.pdf
+1884853,221639,amendment,27768,application/pdf,"Bostelman AM31 ",https://legiscan.com/NE/amendment/LB2/id/221639,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM31_S1.pdf
+1884853,221640,amendment,27834,application/pdf,"DeKay AM30 ",https://legiscan.com/NE/amendment/LB2/id/221640,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM30_S1.pdf
+1884853,221696,amendment,34073,application/pdf,"Conrad AM61 ",https://legiscan.com/NE/amendment/LB2/id/221696,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM61_S1.pdf
+1884853,221697,amendment,39350,application/pdf,"Hunt AM48 ",https://legiscan.com/NE/amendment/LB2/id/221697,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM48_S1.pdf
+1884853,221815,amendment,101181,application/pdf,"Appropriations AM39 ",https://legiscan.com/NE/amendment/LB2/id/221815,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM39_S1.pdf
+1884853,221845,amendment,29792,application/pdf,"Ibach AM89 ",https://legiscan.com/NE/amendment/LB2/id/221845,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM89_S1.pdf
+1884853,221852,amendment,26773,application/pdf,"Dungan FA122 ",https://legiscan.com/NE/amendment/LB2/id/221852,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA122_S1.pdf
+1884853,221853,amendment,26726,application/pdf,"Cavanaugh, M. MO158 ",https://legiscan.com/NE/amendment/LB2/id/221853,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO158_S1.pdf
+1884853,221854,amendment,26732,application/pdf,"Cavanaugh, M. MO157 ",https://legiscan.com/NE/amendment/LB2/id/221854,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO157_S1.pdf
+1884853,221855,amendment,26940,application/pdf,"Clements MO159 ",https://legiscan.com/NE/amendment/LB2/id/221855,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO159_S1.pdf
+1884853,221856,amendment,27298,application/pdf,"Cavanaugh, M. FA124 ",https://legiscan.com/NE/amendment/LB2/id/221856,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA124_S1.pdf
+1884853,221857,amendment,28471,application/pdf,"Cavanaugh, M. AM114 ",https://legiscan.com/NE/amendment/LB2/id/221857,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM114_S1.pdf
+1884853,221858,amendment,29262,application/pdf,"Enrollment and Review ER2 ",https://legiscan.com/NE/amendment/LB2/id/221858,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/ER2_S1.pdf
+1884853,221863,amendment,38884,application/pdf,"McKinney AM123 ",https://legiscan.com/NE/amendment/LB2/id/221863,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM123_S1.pdf
+1884857,221548,amendment,26754,application/pdf,"Conrad MO14 ",https://legiscan.com/NE/amendment/LB3/id/221548,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO14_S1.pdf
+1884857,221549,amendment,26031,application/pdf,"Clements FA11 ",https://legiscan.com/NE/amendment/LB3/id/221549,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA11_S1.pdf
+1884857,221550,amendment,26033,application/pdf,"Clements FA12 ",https://legiscan.com/NE/amendment/LB3/id/221550,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA12_S1.pdf
+1884857,221551,amendment,26031,application/pdf,"Clements FA13 ",https://legiscan.com/NE/amendment/LB3/id/221551,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA13_S1.pdf
+1884857,221552,amendment,26133,application/pdf,"Clements FA14 ",https://legiscan.com/NE/amendment/LB3/id/221552,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA14_S1.pdf
+1884857,221553,amendment,26504,application/pdf,"Conrad MO16 ",https://legiscan.com/NE/amendment/LB3/id/221553,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO16_S1.pdf
+1884857,221554,amendment,26316,application/pdf,"Conrad MO17 ",https://legiscan.com/NE/amendment/LB3/id/221554,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO17_S1.pdf
+1884857,221572,amendment,26612,application/pdf,"Cavanaugh, M. FA33 ",https://legiscan.com/NE/amendment/LB3/id/221572,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA33_S1.pdf
+1884857,221573,amendment,26822,application/pdf,"Cavanaugh, M. FA34 ",https://legiscan.com/NE/amendment/LB3/id/221573,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA34_S1.pdf
+1884857,221574,amendment,26744,application/pdf,"Cavanaugh, M. FA35 ",https://legiscan.com/NE/amendment/LB3/id/221574,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA35_S1.pdf
+1884857,221575,amendment,26711,application/pdf,"Cavanaugh, M. FA36 ",https://legiscan.com/NE/amendment/LB3/id/221575,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA36_S1.pdf
+1884857,221576,amendment,26750,application/pdf,"Cavanaugh, M. MO22 ",https://legiscan.com/NE/amendment/LB3/id/221576,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO22_S1.pdf
+1884857,221577,amendment,26582,application/pdf,"Cavanaugh, M. MO23 ",https://legiscan.com/NE/amendment/LB3/id/221577,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO23_S1.pdf
+1884857,221578,amendment,26678,application/pdf,"Cavanaugh, M. FA37 ",https://legiscan.com/NE/amendment/LB3/id/221578,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA37_S1.pdf
+1884857,221579,amendment,26898,application/pdf,"Cavanaugh, M. FA38 ",https://legiscan.com/NE/amendment/LB3/id/221579,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA38_S1.pdf
+1884857,221580,amendment,26777,application/pdf,"Cavanaugh, M. FA39 ",https://legiscan.com/NE/amendment/LB3/id/221580,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA39_S1.pdf
+1884857,221581,amendment,26860,application/pdf,"Cavanaugh, M. FA40 ",https://legiscan.com/NE/amendment/LB3/id/221581,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA40_S1.pdf
+1884857,221582,amendment,26887,application/pdf,"Cavanaugh, M. FA41 ",https://legiscan.com/NE/amendment/LB3/id/221582,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA41_S1.pdf
+1884857,221583,amendment,26940,application/pdf,"Cavanaugh, M. FA45 ",https://legiscan.com/NE/amendment/LB3/id/221583,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA45_S1.pdf
+1884857,221584,amendment,26712,application/pdf,"Cavanaugh, M. FA44 ",https://legiscan.com/NE/amendment/LB3/id/221584,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA44_S1.pdf
+1884857,221585,amendment,27025,application/pdf,"Cavanaugh, M. MO28 ",https://legiscan.com/NE/amendment/LB3/id/221585,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO28_S1.pdf
+1884857,221586,amendment,26736,application/pdf,"Conrad MO30 ",https://legiscan.com/NE/amendment/LB3/id/221586,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO30_S1.pdf
+1884857,221587,amendment,26591,application/pdf,"Conrad MO31 ",https://legiscan.com/NE/amendment/LB3/id/221587,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO31_S1.pdf
+1884857,221588,amendment,26696,application/pdf,"Conrad MO32 ",https://legiscan.com/NE/amendment/LB3/id/221588,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO32_S1.pdf
+1884857,221626,amendment,27645,application/pdf,"Ibach AM11 ",https://legiscan.com/NE/amendment/LB3/id/221626,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM11_S1.pdf
+1884857,221637,amendment,27817,application/pdf,"Bostelman AM33 ",https://legiscan.com/NE/amendment/LB3/id/221637,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM33_S1.pdf
+1884857,221638,amendment,27881,application/pdf,"DeKay AM32 ",https://legiscan.com/NE/amendment/LB3/id/221638,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM32_S1.pdf
+1884857,221828,amendment,206195,application/pdf,"Appropriations AM41 ",https://legiscan.com/NE/amendment/LB3/id/221828,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM41_S1.pdf
+1884857,221849,amendment,28044,application/pdf,"Bostelman AM100 ",https://legiscan.com/NE/amendment/LB3/id/221849,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM100_S1.pdf
+1884857,221864,amendment,27557,application/pdf,"Wayne MO167 ",https://legiscan.com/NE/amendment/LB3/id/221864,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO167_S1.pdf
+1884857,221865,amendment,28201,application/pdf,"Cavanaugh, M. AM107 ",https://legiscan.com/NE/amendment/LB3/id/221865,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM107_S1.pdf
+1884857,221866,amendment,26133,application/pdf,"Linehan FA137 ",https://legiscan.com/NE/amendment/LB3/id/221866,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA137_S1.pdf
+1884857,221867,amendment,26836,application/pdf,"Clements MO172 ",https://legiscan.com/NE/amendment/LB3/id/221867,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO172_S1.pdf
+1884857,221868,amendment,26536,application/pdf,"Wayne MO170 ",https://legiscan.com/NE/amendment/LB3/id/221868,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO170_S1.pdf
+1884857,221869,amendment,26696,application/pdf,"Wayne MO171 ",https://legiscan.com/NE/amendment/LB3/id/221869,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO171_S1.pdf
+1884857,221870,amendment,26439,application/pdf,"McKinney FA131 ",https://legiscan.com/NE/amendment/LB3/id/221870,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA131_S1.pdf
+1884857,221871,amendment,26224,application/pdf,"Wayne FA126 ",https://legiscan.com/NE/amendment/LB3/id/221871,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA126_S1.pdf
+1884857,221872,amendment,26850,application/pdf,"Wayne MO168 ",https://legiscan.com/NE/amendment/LB3/id/221872,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO168_S1.pdf
+1884857,221873,amendment,26145,application/pdf,"Wayne FA127 ",https://legiscan.com/NE/amendment/LB3/id/221873,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA127_S1.pdf
+1884857,221874,amendment,26584,application/pdf,"Wayne MO166 ",https://legiscan.com/NE/amendment/LB3/id/221874,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO166_S1.pdf
+1884857,221875,amendment,27582,application/pdf,"Wayne MO164 ",https://legiscan.com/NE/amendment/LB3/id/221875,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO164_S1.pdf
+1884857,221876,amendment,28464,application/pdf,"Cavanaugh, M. AM116 ",https://legiscan.com/NE/amendment/LB3/id/221876,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM116_S1.pdf
+1884857,221877,amendment,26874,application/pdf,"Cavanaugh, M. MO165 ",https://legiscan.com/NE/amendment/LB3/id/221877,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO165_S1.pdf
+1884857,221878,amendment,26488,application/pdf,"Wayne FA128 ",https://legiscan.com/NE/amendment/LB3/id/221878,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA128_S1.pdf
+1884857,221879,amendment,26460,application/pdf,"Wayne FA129 ",https://legiscan.com/NE/amendment/LB3/id/221879,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA129_S1.pdf
+1884857,221966,amendment,30637,application/pdf,"Wayne AM132 ",https://legiscan.com/NE/amendment/LB3/id/221966,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM132_S1.pdf
+1884857,221967,amendment,31740,application/pdf,"Enrollment and Review ER3 ",https://legiscan.com/NE/amendment/LB3/id/221967,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/ER3_S1.pdf
+1884860,221712,amendment,26478,application/pdf,"Conrad MO94 ",https://legiscan.com/NE/amendment/LB4/id/221712,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO94_S1.pdf
+1884860,221713,amendment,26337,application/pdf,"Conrad MO95 ",https://legiscan.com/NE/amendment/LB4/id/221713,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO95_S1.pdf
+1884860,221714,amendment,26231,application/pdf,"Conrad FA72 ",https://legiscan.com/NE/amendment/LB4/id/221714,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA72_S1.pdf
+1884860,221715,amendment,26744,application/pdf,"Conrad FA73 ",https://legiscan.com/NE/amendment/LB4/id/221715,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA73_S1.pdf
+1884860,221716,amendment,26923,application/pdf,"Cavanaugh, J. MO121 ",https://legiscan.com/NE/amendment/LB4/id/221716,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO121_S1.pdf
+1884860,221717,amendment,30070,application/pdf,"Hunt AM46 ",https://legiscan.com/NE/amendment/LB4/id/221717,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM46_S1.pdf
+1884860,221718,amendment,26677,application/pdf,"Speaker Arch MO120 ",https://legiscan.com/NE/amendment/LB4/id/221718,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO120_S1.pdf
+1884860,221719,amendment,26919,application/pdf,"Conrad MO91 ",https://legiscan.com/NE/amendment/LB4/id/221719,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO91_S1.pdf
+1884860,221767,amendment,26865,application/pdf,"Speaker Arch MO123 ",https://legiscan.com/NE/amendment/LB4/id/221767,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO123_S1.pdf
+1884845,221699,amendment,26911,application/pdf,"Conrad MO96 ",https://legiscan.com/NE/amendment/LB6/id/221699,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO96_S1.pdf
+1884827,221661,amendment,26290,application/pdf,"Linehan FA54 ",https://legiscan.com/NE/amendment/LB9/id/221661,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA54_S1.pdf
+1884827,221662,amendment,26190,application/pdf,"Linehan FA55 ",https://legiscan.com/NE/amendment/LB9/id/221662,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA55_S1.pdf
+1884827,221663,amendment,26458,application/pdf,"Linehan FA56 ",https://legiscan.com/NE/amendment/LB9/id/221663,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA56_S1.pdf
+1884827,221664,amendment,26263,application/pdf,"Linehan FA57 ",https://legiscan.com/NE/amendment/LB9/id/221664,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA57_S1.pdf
+1884827,221665,amendment,26495,application/pdf,"Linehan FA58 ",https://legiscan.com/NE/amendment/LB9/id/221665,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA58_S1.pdf
+1885702,221677,amendment,26353,application/pdf,"Hughes FA77 ",https://legiscan.com/NE/amendment/LB9A/id/221677,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA77_S1.pdf
+1885702,221678,amendment,26550,application/pdf,"Hughes FA78 ",https://legiscan.com/NE/amendment/LB9A/id/221678,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA78_S1.pdf
+1885702,221679,amendment,26352,application/pdf,"Hughes FA79 ",https://legiscan.com/NE/amendment/LB9A/id/221679,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA79_S1.pdf
+1885702,221680,amendment,26399,application/pdf,"Hughes MO109 ",https://legiscan.com/NE/amendment/LB9A/id/221680,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO109_S1.pdf
+1885702,221681,amendment,27625,application/pdf,"Hughes MO108 ",https://legiscan.com/NE/amendment/LB9A/id/221681,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO108_S1.pdf
+1885702,221682,amendment,26787,application/pdf,"Hughes MO110 ",https://legiscan.com/NE/amendment/LB9A/id/221682,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO110_S1.pdf
+1885702,221683,amendment,26786,application/pdf,"Hughes MO111 ",https://legiscan.com/NE/amendment/LB9A/id/221683,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO111_S1.pdf
+1884827,221740,amendment,26921,application/pdf,"Conrad MO113 ",https://legiscan.com/NE/amendment/LB9/id/221740,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO113_S1.pdf
+1884827,221741,amendment,26478,application/pdf,"Conrad MO114 ",https://legiscan.com/NE/amendment/LB9/id/221741,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO114_S1.pdf
+1884827,221742,amendment,26361,application/pdf,"Conrad MO115 ",https://legiscan.com/NE/amendment/LB9/id/221742,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO115_S1.pdf
+1884827,221743,amendment,26479,application/pdf,"Conrad MO116 ",https://legiscan.com/NE/amendment/LB9/id/221743,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO116_S1.pdf
+1884827,221744,amendment,26291,application/pdf,"Conrad MO117 ",https://legiscan.com/NE/amendment/LB9/id/221744,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO117_S1.pdf
+1884827,221745,amendment,26223,application/pdf,"Conrad MO119 ",https://legiscan.com/NE/amendment/LB9/id/221745,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO119_S1.pdf
+1884827,221746,amendment,26544,application/pdf,"Conrad FA80 ",https://legiscan.com/NE/amendment/LB9/id/221746,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA80_S1.pdf
+1884827,221747,amendment,26521,application/pdf,"Conrad FA81 ",https://legiscan.com/NE/amendment/LB9/id/221747,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA81_S1.pdf
+1884827,221748,amendment,26948,application/pdf,"Conrad FA82 ",https://legiscan.com/NE/amendment/LB9/id/221748,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA82_S1.pdf
+1884827,221749,amendment,26405,application/pdf,"Conrad MO118 ",https://legiscan.com/NE/amendment/LB9/id/221749,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO118_S1.pdf
+1884827,221750,amendment,26452,application/pdf,"Erdman MO74 ",https://legiscan.com/NE/amendment/LB9/id/221750,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO74_S1.pdf
+1884827,221751,amendment,26355,application/pdf,"Erdman MO75 ",https://legiscan.com/NE/amendment/LB9/id/221751,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO75_S1.pdf
+1884827,221752,amendment,26328,application/pdf,"Erdman MO76 ",https://legiscan.com/NE/amendment/LB9/id/221752,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO76_S1.pdf
+1884827,221753,amendment,26453,application/pdf,"Erdman MO77 ",https://legiscan.com/NE/amendment/LB9/id/221753,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO77_S1.pdf
+1884827,221754,amendment,26409,application/pdf,"Erdman MO78 ",https://legiscan.com/NE/amendment/LB9/id/221754,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO78_S1.pdf
+1884827,221755,amendment,26164,application/pdf,"Erdman MO79 ",https://legiscan.com/NE/amendment/LB9/id/221755,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO79_S1.pdf
+1884827,221756,amendment,26553,application/pdf,"Erdman MO80 ",https://legiscan.com/NE/amendment/LB9/id/221756,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO80_S1.pdf
+1884827,221757,amendment,26834,application/pdf,"Erdman FA68 ",https://legiscan.com/NE/amendment/LB9/id/221757,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA68_S1.pdf
+1884827,221758,amendment,26353,application/pdf,"Hughes FA74 ",https://legiscan.com/NE/amendment/LB9/id/221758,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA74_S1.pdf
+1884827,221759,amendment,26497,application/pdf,"Hughes FA75 ",https://legiscan.com/NE/amendment/LB9/id/221759,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA75_S1.pdf
+1884827,221760,amendment,26524,application/pdf,"Hughes FA76 ",https://legiscan.com/NE/amendment/LB9/id/221760,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA76_S1.pdf
+1884827,221761,amendment,27321,application/pdf,"Hughes MO102 ",https://legiscan.com/NE/amendment/LB9/id/221761,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO102_S1.pdf
+1884827,221762,amendment,26840,application/pdf,"Hughes MO103 ",https://legiscan.com/NE/amendment/LB9/id/221762,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO103_S1.pdf
+1884827,221763,amendment,26538,application/pdf,"Hughes MO104 ",https://legiscan.com/NE/amendment/LB9/id/221763,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO104_S1.pdf
+1884827,221764,amendment,26423,application/pdf,"Hughes MO105 ",https://legiscan.com/NE/amendment/LB9/id/221764,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO105_S1.pdf
+1884827,221765,amendment,26697,application/pdf,"Hughes MO106 ",https://legiscan.com/NE/amendment/LB9/id/221765,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO106_S1.pdf
+1884827,221766,amendment,26616,application/pdf,"Hughes MO107 ",https://legiscan.com/NE/amendment/LB9/id/221766,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO107_S1.pdf
+1884837,221700,amendment,26907,application/pdf,"Lowe MO83 ",https://legiscan.com/NE/amendment/LB13/id/221700,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO83_S1.pdf
+1884837,221701,amendment,26739,application/pdf,"Lowe MO84 ",https://legiscan.com/NE/amendment/LB13/id/221701,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO84_S1.pdf
+1884837,221702,amendment,26738,application/pdf,"Lowe MO88 ",https://legiscan.com/NE/amendment/LB13/id/221702,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO88_S1.pdf
+1884837,221703,amendment,26206,application/pdf,"Lowe MO89 ",https://legiscan.com/NE/amendment/LB13/id/221703,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO89_S1.pdf
+1884837,221704,amendment,27002,application/pdf,"Lowe MO90 ",https://legiscan.com/NE/amendment/LB13/id/221704,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO90_S1.pdf
+1884837,221705,amendment,26615,application/pdf,"Lowe FA70 ",https://legiscan.com/NE/amendment/LB13/id/221705,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA70_S1.pdf
+1884837,221706,amendment,27150,application/pdf,"Conrad MO97 ",https://legiscan.com/NE/amendment/LB13/id/221706,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO97_S1.pdf
+1884837,221707,amendment,27942,application/pdf,"Lowe AM56 ",https://legiscan.com/NE/amendment/LB13/id/221707,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM56_S1.pdf
+1884837,221708,amendment,27372,application/pdf,"Lowe AM59 ",https://legiscan.com/NE/amendment/LB13/id/221708,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM59_S1.pdf
+1884837,221709,amendment,27936,application/pdf,"Lowe AM57 ",https://legiscan.com/NE/amendment/LB13/id/221709,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM57_S1.pdf
+1884837,221710,amendment,28208,application/pdf,"Lowe AM58 ",https://legiscan.com/NE/amendment/LB13/id/221710,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM58_S1.pdf
+1884837,221711,amendment,27845,application/pdf,"Lowe AM60 ",https://legiscan.com/NE/amendment/LB13/id/221711,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM60_S1.pdf
+1884837,221862,amendment,26884,application/pdf,"Linehan MO169 ",https://legiscan.com/NE/amendment/LB13/id/221862,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO169_S1.pdf
+1884837,221963,amendment,26841,application/pdf,"Conrad MO176 ",https://legiscan.com/NE/amendment/LB13/id/221963,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO176_S1.pdf
+1884837,221964,amendment,27006,application/pdf,"Conrad MO178 ",https://legiscan.com/NE/amendment/LB13/id/221964,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO178_S1.pdf
+1884837,221965,amendment,26916,application/pdf,"Conrad MO179 ",https://legiscan.com/NE/amendment/LB13/id/221965,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO179_S1.pdf
+1884876,221847,amendment,27143,application/pdf,"Wayne MO154 ",https://legiscan.com/NE/amendment/LB18/id/221847,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO154_S1.pdf
+1884901,221694,amendment,27105,application/pdf,"Day MO112 ",https://legiscan.com/NE/amendment/LB30/id/221694,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO112_S1.pdf
+1884989,221693,amendment,27184,application/pdf,"Conrad MO99 ",https://legiscan.com/NE/amendment/LB32/id/221693,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO99_S1.pdf
+1884975,221790,amendment,26988,application/pdf,"Linehan MO130 ",https://legiscan.com/NE/amendment/LB34/id/221790,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO130_S1.pdf
+1884975,221791,amendment,26571,application/pdf,"Linehan MO131 ",https://legiscan.com/NE/amendment/LB34/id/221791,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO131_S1.pdf
+1884975,221792,amendment,26371,application/pdf,"Linehan MO132 ",https://legiscan.com/NE/amendment/LB34/id/221792,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO132_S1.pdf
+1884975,221793,amendment,26570,application/pdf,"Linehan MO133 ",https://legiscan.com/NE/amendment/LB34/id/221793,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO133_S1.pdf
+1884975,221794,amendment,26258,application/pdf,"Linehan MO134 ",https://legiscan.com/NE/amendment/LB34/id/221794,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO134_S1.pdf
+1884975,221795,amendment,26394,application/pdf,"Linehan MO135 ",https://legiscan.com/NE/amendment/LB34/id/221795,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO135_S1.pdf
+1884975,221796,amendment,26366,application/pdf,"Linehan FA88 ",https://legiscan.com/NE/amendment/LB34/id/221796,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA88_S1.pdf
+1884975,221797,amendment,26461,application/pdf,"Linehan FA89 ",https://legiscan.com/NE/amendment/LB34/id/221797,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA89_S1.pdf
+1884975,221798,amendment,26305,application/pdf,"Linehan FA90 ",https://legiscan.com/NE/amendment/LB34/id/221798,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA90_S1.pdf
+1884975,221799,amendment,26262,application/pdf,"Linehan FA91 ",https://legiscan.com/NE/amendment/LB34/id/221799,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA91_S1.pdf
+1884975,221800,amendment,26619,application/pdf,"Linehan FA92 ",https://legiscan.com/NE/amendment/LB34/id/221800,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA92_S1.pdf
+1884975,221801,amendment,27147,application/pdf,"Cavanaugh, M. MO137 ",https://legiscan.com/NE/amendment/LB34/id/221801,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO137_S1.pdf
+1884975,221802,amendment,27032,application/pdf,"Cavanaugh, M. MO138 ",https://legiscan.com/NE/amendment/LB34/id/221802,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO138_S1.pdf
+1884975,221803,amendment,26622,application/pdf,"Cavanaugh, M. MO139 ",https://legiscan.com/NE/amendment/LB34/id/221803,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO139_S1.pdf
+1884975,221804,amendment,26859,application/pdf,"Cavanaugh, M. MO140 ",https://legiscan.com/NE/amendment/LB34/id/221804,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO140_S1.pdf
+1884975,221805,amendment,26455,application/pdf,"Cavanaugh, M. MO141 ",https://legiscan.com/NE/amendment/LB34/id/221805,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO141_S1.pdf
+1884975,221806,amendment,26564,application/pdf,"Cavanaugh, M. MO142 ",https://legiscan.com/NE/amendment/LB34/id/221806,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO142_S1.pdf
+1884975,221807,amendment,26886,application/pdf,"Cavanaugh, M. FA93 ",https://legiscan.com/NE/amendment/LB34/id/221807,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA93_S1.pdf
+1884975,221808,amendment,26966,application/pdf,"Cavanaugh, M. FA94 ",https://legiscan.com/NE/amendment/LB34/id/221808,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA94_S1.pdf
+1884975,221809,amendment,26994,application/pdf,"Cavanaugh, M. FA95 ",https://legiscan.com/NE/amendment/LB34/id/221809,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA95_S1.pdf
+1884975,221810,amendment,26966,application/pdf,"Cavanaugh, M. FA96 ",https://legiscan.com/NE/amendment/LB34/id/221810,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA96_S1.pdf
+1884975,221811,amendment,27107,application/pdf,"Cavanaugh, M. FA97 ",https://legiscan.com/NE/amendment/LB34/id/221811,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA97_S1.pdf
+1884975,221812,amendment,393989,application/pdf,"Revenue AM73 ",https://legiscan.com/NE/amendment/LB34/id/221812,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM73_S1.pdf
+1884975,221813,amendment,26307,application/pdf,"Linehan FA103 ",https://legiscan.com/NE/amendment/LB34/id/221813,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA103_S1.pdf
+1884975,221814,amendment,26424,application/pdf,"Linehan FA104 ",https://legiscan.com/NE/amendment/LB34/id/221814,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA104_S1.pdf
+1884975,221816,amendment,26895,application/pdf,"Cavanaugh, M. MO149 ",https://legiscan.com/NE/amendment/LB34/id/221816,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO149_S1.pdf
+1884975,221817,amendment,27296,application/pdf,"Ibach FA105 ",https://legiscan.com/NE/amendment/LB34/id/221817,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA105_S1.pdf
+1884975,221818,amendment,27002,application/pdf,"Ibach FA106 ",https://legiscan.com/NE/amendment/LB34/id/221818,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA106_S1.pdf
+1884975,221819,amendment,27025,application/pdf,"Ibach FA107 ",https://legiscan.com/NE/amendment/LB34/id/221819,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA107_S1.pdf
+1884975,221820,amendment,27214,application/pdf,"Dungan FA108 ",https://legiscan.com/NE/amendment/LB34/id/221820,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA108_S1.pdf
+1884975,221821,amendment,27402,application/pdf,"Dungan FA109 ",https://legiscan.com/NE/amendment/LB34/id/221821,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA109_S1.pdf
+1884975,221822,amendment,27694,application/pdf,"Hunt FA110 ",https://legiscan.com/NE/amendment/LB34/id/221822,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA110_S1.pdf
+1885816,221823,amendment,25849,application/pdf,"Brewer FA111 ",https://legiscan.com/NE/amendment/LB34A/id/221823,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA111_S1.pdf
+1885816,221824,amendment,25967,application/pdf,"Brewer FA112 ",https://legiscan.com/NE/amendment/LB34A/id/221824,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA112_S1.pdf
+1885816,221825,amendment,25848,application/pdf,"Brewer FA113 ",https://legiscan.com/NE/amendment/LB34A/id/221825,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA113_S1.pdf
+1885816,221826,amendment,25968,application/pdf,"Brewer FA114 ",https://legiscan.com/NE/amendment/LB34A/id/221826,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA114_S1.pdf
+1885816,221827,amendment,26644,application/pdf,"Brewer FA115 ",https://legiscan.com/NE/amendment/LB34A/id/221827,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA115_S1.pdf
+1884975,221829,amendment,326885,application/pdf,"Revenue AM80 ",https://legiscan.com/NE/amendment/LB34/id/221829,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM80_S1.pdf
+1884975,221830,amendment,26848,application/pdf,"Dungan FA116 ",https://legiscan.com/NE/amendment/LB34/id/221830,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA116_S1.pdf
+1884975,221831,amendment,27227,application/pdf,"Dungan FA117 ",https://legiscan.com/NE/amendment/LB34/id/221831,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA117_S1.pdf
+1884975,221832,amendment,26644,application/pdf,"Dungan FA118 ",https://legiscan.com/NE/amendment/LB34/id/221832,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA118_S1.pdf
+1884975,221833,amendment,27079,application/pdf,"Cavanaugh, J. FA119 ",https://legiscan.com/NE/amendment/LB34/id/221833,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA119_S1.pdf
+1884975,221834,amendment,27092,application/pdf,"DeBoer FA120 ",https://legiscan.com/NE/amendment/LB34/id/221834,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA120_S1.pdf
+1884975,221835,amendment,36439,application/pdf,"Revenue AM76 ",https://legiscan.com/NE/amendment/LB34/id/221835,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM76_S1.pdf
+1884975,221836,amendment,49058,application/pdf,"Revenue AM77 ",https://legiscan.com/NE/amendment/LB34/id/221836,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM77_S1.pdf
+1884975,221837,amendment,34861,application/pdf,"Revenue AM78 ",https://legiscan.com/NE/amendment/LB34/id/221837,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM78_S1.pdf
+1884975,221838,amendment,63332,application/pdf,"Revenue AM79 ",https://legiscan.com/NE/amendment/LB34/id/221838,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM79_S1.pdf
+1884975,221839,amendment,26825,application/pdf,"Cavanaugh, M. MO153 ",https://legiscan.com/NE/amendment/LB34/id/221839,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO153_S1.pdf
+1884975,221840,amendment,155466,application/pdf,"Linehan AM84 ",https://legiscan.com/NE/amendment/LB34/id/221840,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM84_S1.pdf
+1884975,221841,amendment,27015,application/pdf,"Linehan MO152 ",https://legiscan.com/NE/amendment/LB34/id/221841,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO152_S1.pdf
+1884975,221842,amendment,26983,application/pdf,"Brewer MO156 ",https://legiscan.com/NE/amendment/LB34/id/221842,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO156_S1.pdf
+1884975,221843,amendment,26822,application/pdf,"Cavanaugh, M. MO151 ",https://legiscan.com/NE/amendment/LB34/id/221843,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO151_S1.pdf
+1884975,221844,amendment,26860,application/pdf,"Cavanaugh, M. MO150 ",https://legiscan.com/NE/amendment/LB34/id/221844,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO150_S1.pdf
+1885816,221850,amendment,31464,application/pdf,"Brewer AM95 ",https://legiscan.com/NE/amendment/LB34A/id/221850,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM95_S1.pdf
+1884975,221851,amendment,28205,application/pdf,"Erdman FA121 ",https://legiscan.com/NE/amendment/LB34/id/221851,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA121_S1.pdf
+1884975,221859,amendment,30202,application/pdf,"Enrollment and Review ER1 ",https://legiscan.com/NE/amendment/LB34/id/221859,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/ER1_S1.pdf
+1884975,221860,amendment,31240,application/pdf,"Linehan AM109 ",https://legiscan.com/NE/amendment/LB34/id/221860,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM109_S1.pdf
+1884975,221861,amendment,29268,application/pdf,"Riepe AM115 ",https://legiscan.com/NE/amendment/LB34/id/221861,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM115_S1.pdf
+1885816,221880,amendment,26417,application/pdf,"Wayne MO175 ",https://legiscan.com/NE/amendment/LB34A/id/221880,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO175_S1.pdf
+1885816,221881,amendment,27005,application/pdf,"Brewer MO180 ",https://legiscan.com/NE/amendment/LB34A/id/221881,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO180_S1.pdf
+1885816,221882,amendment,26466,application/pdf,"Wayne MO173 ",https://legiscan.com/NE/amendment/LB34A/id/221882,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO173_S1.pdf
+1884975,221944,amendment,43165,application/pdf,"Linehan AM124 ",https://legiscan.com/NE/amendment/LB34/id/221944,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM124_S1.pdf
+1884975,221938,amendment,26785,application/pdf,"Cavanaugh, M. MO186 ",https://legiscan.com/NE/amendment/LB34/id/221938,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO186_S1.pdf
+1884975,221939,amendment,26860,application/pdf,"Linehan MO187 ",https://legiscan.com/NE/amendment/LB34/id/221939,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO187_S1.pdf
+1884975,221940,amendment,30567,application/pdf,"Wayne AM130 ",https://legiscan.com/NE/amendment/LB34/id/221940,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM130_S1.pdf
+1884975,221941,amendment,27614,application/pdf,"Wayne FA165 ",https://legiscan.com/NE/amendment/LB34/id/221941,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA165_S1.pdf
+1884975,221942,amendment,27040,application/pdf,"Brewer MO189 ",https://legiscan.com/NE/amendment/LB34/id/221942,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO189_S1.pdf
+1884975,221943,amendment,26880,application/pdf,"Wayne FA164 ",https://legiscan.com/NE/amendment/LB34/id/221943,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA164_S1.pdf
+1884975,221945,amendment,26160,application/pdf,"Linehan FA139 ",https://legiscan.com/NE/amendment/LB34/id/221945,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA139_S1.pdf
+1884975,221946,amendment,26307,application/pdf,"Linehan FA140 ",https://legiscan.com/NE/amendment/LB34/id/221946,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA140_S1.pdf
+1884975,221947,amendment,27586,application/pdf,"Linehan FA160 ",https://legiscan.com/NE/amendment/LB34/id/221947,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA160_S1.pdf
+1884975,221948,amendment,27260,application/pdf,"Linehan FA159 ",https://legiscan.com/NE/amendment/LB34/id/221948,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA159_S1.pdf
+1884975,221949,amendment,27447,application/pdf,"Linehan FA158 ",https://legiscan.com/NE/amendment/LB34/id/221949,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA158_S1.pdf
+1884975,221950,amendment,27439,application/pdf,"Linehan FA157 ",https://legiscan.com/NE/amendment/LB34/id/221950,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA157_S1.pdf
+1884975,221951,amendment,27429,application/pdf,"Linehan FA156 ",https://legiscan.com/NE/amendment/LB34/id/221951,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA156_S1.pdf
+1884975,221952,amendment,27236,application/pdf,"Linehan FA155 ",https://legiscan.com/NE/amendment/LB34/id/221952,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA155_S1.pdf
+1884975,221953,amendment,27366,application/pdf,"Linehan FA154 ",https://legiscan.com/NE/amendment/LB34/id/221953,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA154_S1.pdf
+1884975,221954,amendment,27248,application/pdf,"Linehan FA153 ",https://legiscan.com/NE/amendment/LB34/id/221954,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA153_S1.pdf
+1884975,221955,amendment,27258,application/pdf,"Linehan FA152 ",https://legiscan.com/NE/amendment/LB34/id/221955,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA152_S1.pdf
+1884975,221956,amendment,27238,application/pdf,"Linehan FA151 ",https://legiscan.com/NE/amendment/LB34/id/221956,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA151_S1.pdf
+1884975,221957,amendment,27919,application/pdf,"Linehan FA142 ",https://legiscan.com/NE/amendment/LB34/id/221957,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA142_S1.pdf
+1884975,221958,amendment,27643,application/pdf,"Linehan FA161 ",https://legiscan.com/NE/amendment/LB34/id/221958,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA161_S1.pdf
+1884975,221959,amendment,26294,application/pdf,"Linehan FA141 ",https://legiscan.com/NE/amendment/LB34/id/221959,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA141_S1.pdf
+1884975,221960,amendment,26281,application/pdf,"Hansen MO163 ",https://legiscan.com/NE/amendment/LB34/id/221960,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO163_S1.pdf
+1884975,221961,amendment,26399,application/pdf,"Hansen MO162 ",https://legiscan.com/NE/amendment/LB34/id/221961,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO162_S1.pdf
+1884975,221981,amendment,60176,application/pdf,"Wayne AM141 ",https://legiscan.com/NE/amendment/LB34/id/221981,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM141_S1.pdf
+1884975,221982,amendment,26990,application/pdf,"Brewer MO195 ",https://legiscan.com/NE/amendment/LB34/id/221982,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO195_S1.pdf
+1884975,221983,amendment,67873,application/pdf,"Wayne AM137 ",https://legiscan.com/NE/amendment/LB34/id/221983,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM137_S1.pdf
+1884943,221768,amendment,27071,application/pdf,"Linehan MO124 ",https://legiscan.com/NE/amendment/LB35/id/221768,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO124_S1.pdf
+1884943,221769,amendment,26706,application/pdf,"Linehan MO125 ",https://legiscan.com/NE/amendment/LB35/id/221769,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO125_S1.pdf
+1884943,221770,amendment,26573,application/pdf,"Linehan MO126 ",https://legiscan.com/NE/amendment/LB35/id/221770,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO126_S1.pdf
+1884943,221771,amendment,26778,application/pdf,"Linehan MO127 ",https://legiscan.com/NE/amendment/LB35/id/221771,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO127_S1.pdf
+1884943,221772,amendment,26598,application/pdf,"Linehan MO128 ",https://legiscan.com/NE/amendment/LB35/id/221772,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO128_S1.pdf
+1884943,221773,amendment,26397,application/pdf,"Linehan MO129 ",https://legiscan.com/NE/amendment/LB35/id/221773,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO129_S1.pdf
+1884943,221774,amendment,26393,application/pdf,"Linehan FA83 ",https://legiscan.com/NE/amendment/LB35/id/221774,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA83_S1.pdf
+1884943,221775,amendment,26394,application/pdf,"Linehan FA85 ",https://legiscan.com/NE/amendment/LB35/id/221775,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA85_S1.pdf
+1884943,221776,amendment,26610,application/pdf,"Linehan FA84 ",https://legiscan.com/NE/amendment/LB35/id/221776,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA84_S1.pdf
+1884943,221777,amendment,26658,application/pdf,"Linehan FA86 ",https://legiscan.com/NE/amendment/LB35/id/221777,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA86_S1.pdf
+1884943,221778,amendment,26812,application/pdf,"Linehan FA87 ",https://legiscan.com/NE/amendment/LB35/id/221778,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA87_S1.pdf
+1884943,221779,amendment,26858,application/pdf,"Cavanaugh, M. MO143 ",https://legiscan.com/NE/amendment/LB35/id/221779,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO143_S1.pdf
+1884943,221780,amendment,26594,application/pdf,"Cavanaugh, M. MO144 ",https://legiscan.com/NE/amendment/LB35/id/221780,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO144_S1.pdf
+1884943,221781,amendment,26858,application/pdf,"Cavanaugh, M. MO145 ",https://legiscan.com/NE/amendment/LB35/id/221781,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO145_S1.pdf
+1884943,221782,amendment,26595,application/pdf,"Cavanaugh, M. MO146 ",https://legiscan.com/NE/amendment/LB35/id/221782,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO146_S1.pdf
+1884943,221783,amendment,26665,application/pdf,"Cavanaugh, M. MO147 ",https://legiscan.com/NE/amendment/LB35/id/221783,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO147_S1.pdf
+1884943,221784,amendment,27411,application/pdf,"Cavanaugh, M. MO148 ",https://legiscan.com/NE/amendment/LB35/id/221784,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO148_S1.pdf
+1884943,221785,amendment,27093,application/pdf,"Cavanaugh, M. FA98 ",https://legiscan.com/NE/amendment/LB35/id/221785,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA98_S1.pdf
+1884943,221786,amendment,27001,application/pdf,"Cavanaugh, M. FA99 ",https://legiscan.com/NE/amendment/LB35/id/221786,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA99_S1.pdf
+1884943,221787,amendment,26897,application/pdf,"Cavanaugh, M. FA100 ",https://legiscan.com/NE/amendment/LB35/id/221787,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA100_S1.pdf
+1884943,221788,amendment,26987,application/pdf,"Cavanaugh, M. FA101 ",https://legiscan.com/NE/amendment/LB35/id/221788,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA101_S1.pdf
+1884943,221789,amendment,27147,application/pdf,"Cavanaugh, M. FA102 ",https://legiscan.com/NE/amendment/LB35/id/221789,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA102_S1.pdf
+1885130,221730,amendment,26969,application/pdf,"Conrad MO60 ",https://legiscan.com/NE/amendment/LB37/id/221730,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO60_S1.pdf
+1885130,221731,amendment,26504,application/pdf,"Conrad MO61 ",https://legiscan.com/NE/amendment/LB37/id/221731,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO61_S1.pdf
+1885130,221732,amendment,26429,application/pdf,"Conrad MO62 ",https://legiscan.com/NE/amendment/LB37/id/221732,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO62_S1.pdf
+1885130,221733,amendment,26412,application/pdf,"Conrad FA62 ",https://legiscan.com/NE/amendment/LB37/id/221733,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA62_S1.pdf
+1885130,221734,amendment,26504,application/pdf,"Conrad MO63 ",https://legiscan.com/NE/amendment/LB37/id/221734,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO63_S1.pdf
+1885130,221735,amendment,26328,application/pdf,"Conrad MO64 ",https://legiscan.com/NE/amendment/LB37/id/221735,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO64_S1.pdf
+1885130,221736,amendment,26458,application/pdf,"Conrad MO65 ",https://legiscan.com/NE/amendment/LB37/id/221736,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO65_S1.pdf
+1885130,221737,amendment,26306,application/pdf,"Conrad FA63 ",https://legiscan.com/NE/amendment/LB37/id/221737,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA63_S1.pdf
+1885130,221738,amendment,26746,application/pdf,"Conrad FA64 ",https://legiscan.com/NE/amendment/LB37/id/221738,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA64_S1.pdf
+1885130,221739,amendment,26328,application/pdf,"Conrad MO66 ",https://legiscan.com/NE/amendment/LB37/id/221739,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO66_S1.pdf
+1885113,221720,amendment,27005,application/pdf,"Conrad MO67 ",https://legiscan.com/NE/amendment/LB38/id/221720,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO67_S1.pdf
+1885113,221721,amendment,26694,application/pdf,"Conrad MO68 ",https://legiscan.com/NE/amendment/LB38/id/221721,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO68_S1.pdf
+1885113,221722,amendment,26615,application/pdf,"Conrad MO69 ",https://legiscan.com/NE/amendment/LB38/id/221722,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO69_S1.pdf
+1885113,221723,amendment,26574,application/pdf,"Conrad FA65 ",https://legiscan.com/NE/amendment/LB38/id/221723,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA65_S1.pdf
+1885113,221724,amendment,26694,application/pdf,"Conrad MO70 ",https://legiscan.com/NE/amendment/LB38/id/221724,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO70_S1.pdf
+1885113,221725,amendment,26524,application/pdf,"Conrad MO71 ",https://legiscan.com/NE/amendment/LB38/id/221725,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO71_S1.pdf
+1885113,221726,amendment,26621,application/pdf,"Conrad MO72 ",https://legiscan.com/NE/amendment/LB38/id/221726,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO72_S1.pdf
+1885113,221727,amendment,26435,application/pdf,"Conrad FA66 ",https://legiscan.com/NE/amendment/LB38/id/221727,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA66_S1.pdf
+1885113,221728,amendment,26524,application/pdf,"Conrad MO73 ",https://legiscan.com/NE/amendment/LB38/id/221728,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO73_S1.pdf
+1885113,221729,amendment,26930,application/pdf,"Conrad FA67 ",https://legiscan.com/NE/amendment/LB38/id/221729,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA67_S1.pdf
+1885086,221641,amendment,27012,application/pdf,"Conrad MO39 ",https://legiscan.com/NE/amendment/LB42/id/221641,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO39_S1.pdf
+1885086,221642,amendment,26320,application/pdf,"Conrad MO40 ",https://legiscan.com/NE/amendment/LB42/id/221642,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO40_S1.pdf
+1885086,221643,amendment,26178,application/pdf,"Conrad MO41 ",https://legiscan.com/NE/amendment/LB42/id/221643,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO41_S1.pdf
+1885086,221644,amendment,26360,application/pdf,"Conrad FA48 ",https://legiscan.com/NE/amendment/LB42/id/221644,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA48_S1.pdf
+1885086,221645,amendment,26319,application/pdf,"Conrad MO42 ",https://legiscan.com/NE/amendment/LB42/id/221645,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO42_S1.pdf
+1885086,221646,amendment,26373,application/pdf,"Conrad MO43 ",https://legiscan.com/NE/amendment/LB42/id/221646,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO43_S1.pdf
+1885086,221647,amendment,26168,application/pdf,"Conrad MO44 ",https://legiscan.com/NE/amendment/LB42/id/221647,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO44_S1.pdf
+1885086,221648,amendment,26323,application/pdf,"Conrad FA49 ",https://legiscan.com/NE/amendment/LB42/id/221648,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA49_S1.pdf
+1885086,221649,amendment,26316,application/pdf,"Conrad MO45 ",https://legiscan.com/NE/amendment/LB42/id/221649,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO45_S1.pdf
+1885086,221650,amendment,26876,application/pdf,"Conrad FA50 ",https://legiscan.com/NE/amendment/LB42/id/221650,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA50_S1.pdf
+1885120,221651,amendment,26755,application/pdf,"Conrad MO46 ",https://legiscan.com/NE/amendment/LB43/id/221651,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO46_S1.pdf
+1885120,221652,amendment,26503,application/pdf,"Conrad MO47 ",https://legiscan.com/NE/amendment/LB43/id/221652,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO47_S1.pdf
+1885120,221653,amendment,26453,application/pdf,"Conrad MO48 ",https://legiscan.com/NE/amendment/LB43/id/221653,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO48_S1.pdf
+1885120,221654,amendment,26376,application/pdf,"Conrad FA51 ",https://legiscan.com/NE/amendment/LB43/id/221654,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA51_S1.pdf
+1885120,221655,amendment,26664,application/pdf,"Conrad MO49 ",https://legiscan.com/NE/amendment/LB43/id/221655,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO49_S1.pdf
+1885120,221656,amendment,26543,application/pdf,"Conrad MO50 ",https://legiscan.com/NE/amendment/LB43/id/221656,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO50_S1.pdf
+1885120,221657,amendment,26382,application/pdf,"Conrad MO51 ",https://legiscan.com/NE/amendment/LB43/id/221657,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO51_S1.pdf
+1885120,221658,amendment,26469,application/pdf,"Conrad FA52 ",https://legiscan.com/NE/amendment/LB43/id/221658,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA52_S1.pdf
+1885120,221659,amendment,26504,application/pdf,"Conrad MO52 ",https://legiscan.com/NE/amendment/LB43/id/221659,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO52_S1.pdf
+1885120,221660,amendment,26804,application/pdf,"Conrad FA53 ",https://legiscan.com/NE/amendment/LB43/id/221660,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA53_S1.pdf
+1885141,221666,amendment,27037,application/pdf,"Conrad MO53 ",https://legiscan.com/NE/amendment/LB49/id/221666,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO53_S1.pdf
+1885141,221667,amendment,26476,application/pdf,"Conrad MO54 ",https://legiscan.com/NE/amendment/LB49/id/221667,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO54_S1.pdf
+1885141,221668,amendment,26751,application/pdf,"Conrad MO55 ",https://legiscan.com/NE/amendment/LB49/id/221668,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO55_S1.pdf
+1885141,221669,amendment,26342,application/pdf,"Conrad FA59 ",https://legiscan.com/NE/amendment/LB49/id/221669,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA59_S1.pdf
+1885141,221670,amendment,26477,application/pdf,"Conrad MO56 ",https://legiscan.com/NE/amendment/LB49/id/221670,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO56_S1.pdf
+1885141,221671,amendment,26821,application/pdf,"Conrad MO57 ",https://legiscan.com/NE/amendment/LB49/id/221671,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO57_S1.pdf
+1885141,221672,amendment,26550,application/pdf,"Conrad MO58 ",https://legiscan.com/NE/amendment/LB49/id/221672,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO58_S1.pdf
+1885141,221673,amendment,26465,application/pdf,"Conrad FA60 ",https://legiscan.com/NE/amendment/LB49/id/221673,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA60_S1.pdf
+1885141,221674,amendment,26753,application/pdf,"Conrad MO59 ",https://legiscan.com/NE/amendment/LB49/id/221674,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO59_S1.pdf
+1885141,221675,amendment,26635,application/pdf,"Conrad FA61 ",https://legiscan.com/NE/amendment/LB49/id/221675,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA61_S1.pdf
+1885106,221695,amendment,27159,application/pdf,"Conrad MO100 ",https://legiscan.com/NE/amendment/LB52/id/221695,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO100_S1.pdf
+1885101,221698,amendment,27118,application/pdf,"Conrad MO101 ",https://legiscan.com/NE/amendment/LB71/id/221698,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO101_S1.pdf
+1884868,221846,amendment,27080,application/pdf,"Wayne MO155 ",https://legiscan.com/NE/amendment/LR2CA/id/221846,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO155_S1.pdf
+1884868,221934,amendment,26371,application/pdf,"Brandt FA162 ",https://legiscan.com/NE/amendment/LR2CA/id/221934,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA162_S1.pdf
+1884868,221935,amendment,27063,application/pdf,"Brandt MO181 ",https://legiscan.com/NE/amendment/LR2CA/id/221935,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO181_S1.pdf
+1884868,221936,amendment,26702,application/pdf,"Brandt MO182 ",https://legiscan.com/NE/amendment/LR2CA/id/221936,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO182_S1.pdf
+1884868,221937,amendment,26408,application/pdf,"Brandt MO183 ",https://legiscan.com/NE/amendment/LR2CA/id/221937,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO183_S1.pdf
+1884868,221962,amendment,28127,application/pdf,"Brandt AM131 ",https://legiscan.com/NE/amendment/LR2CA/id/221962,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM131_S1.pdf
+1884868,221968,amendment,26968,application/pdf,"Wayne MO193 ",https://legiscan.com/NE/amendment/LR2CA/id/221968,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO193_S1.pdf
+1884868,221969,amendment,26627,application/pdf,"Jacobson FA175 ",https://legiscan.com/NE/amendment/LR2CA/id/221969,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA175_S1.pdf
+1884868,221970,amendment,26455,application/pdf,"Jacobson FA176 ",https://legiscan.com/NE/amendment/LR2CA/id/221970,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA176_S1.pdf
+1884868,221971,amendment,26437,application/pdf,"Jacobson FA177 ",https://legiscan.com/NE/amendment/LR2CA/id/221971,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA177_S1.pdf
+1884868,221972,amendment,26656,application/pdf,"Jacobson FA178 ",https://legiscan.com/NE/amendment/LR2CA/id/221972,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA178_S1.pdf
+1884868,221973,amendment,26732,application/pdf,"Cavanaugh, J. MO194 ",https://legiscan.com/NE/amendment/LR2CA/id/221973,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO194_S1.pdf
+1884868,221974,amendment,25950,application/pdf,"Slama FA171 ",https://legiscan.com/NE/amendment/LR2CA/id/221974,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA171_S1.pdf
+1884868,221975,amendment,26399,application/pdf,"Wayne MO191 ",https://legiscan.com/NE/amendment/LR2CA/id/221975,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO191_S1.pdf
+1884868,221976,amendment,26757,application/pdf,"Slama MO196 ",https://legiscan.com/NE/amendment/LR2CA/id/221976,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO196_S1.pdf
+1884868,221977,amendment,26961,application/pdf,"Slama FA179 ",https://legiscan.com/NE/amendment/LR2CA/id/221977,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA179_S1.pdf
+1884868,221978,amendment,27034,application/pdf,"Wayne FA180 ",https://legiscan.com/NE/amendment/LR2CA/id/221978,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA180_S1.pdf
+1884868,221979,amendment,37902,application/pdf,"Wayne AM146 ",https://legiscan.com/NE/amendment/LR2CA/id/221979,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM146_S1.pdf
+1884868,221980,amendment,26979,application/pdf,"Brandt MO197 ",https://legiscan.com/NE/amendment/LR2CA/id/221980,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO197_S1.pdf
+1884887,221684,amendment,27038,application/pdf,"Lowe MO81 ",https://legiscan.com/NE/amendment/LR3CA/id/221684,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO81_S1.pdf
+1884887,221685,amendment,27130,application/pdf,"Lowe MO82 ",https://legiscan.com/NE/amendment/LR3CA/id/221685,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO82_S1.pdf
+1884887,221686,amendment,27267,application/pdf,"Lowe MO85 ",https://legiscan.com/NE/amendment/LR3CA/id/221686,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO85_S1.pdf
+1884887,221687,amendment,26467,application/pdf,"Lowe MO86 ",https://legiscan.com/NE/amendment/LR3CA/id/221687,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO86_S1.pdf
+1884887,221688,amendment,26773,application/pdf,"Lowe MO87 ",https://legiscan.com/NE/amendment/LR3CA/id/221688,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO87_S1.pdf
+1884887,221689,amendment,26946,application/pdf,"Lowe FA69 ",https://legiscan.com/NE/amendment/LR3CA/id/221689,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/FA69_S1.pdf
+1884887,221690,amendment,27257,application/pdf,"Conrad MO98 ",https://legiscan.com/NE/amendment/LR3CA/id/221690,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/MO98_S1.pdf
+1884887,221691,amendment,28052,application/pdf,"Lowe AM54 ",https://legiscan.com/NE/amendment/LR3CA/id/221691,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM54_S1.pdf
+1884887,221692,amendment,28801,application/pdf,"Lowe AM55 ",https://legiscan.com/NE/amendment/LR3CA/id/221692,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM55_S1.pdf
+1884887,221848,amendment,36182,application/pdf,"General Affairs AM71 ",https://legiscan.com/NE/amendment/LR3CA/id/221848,https://nebraskalegislature.gov/FloorDocs/108/PDF/AM/AM71_S1.pdf
+1884824,479648,supplement,1088735,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB1/id/479648,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB1_S1_20240729-191407.pdf
+1884824,479669,supplement,6625,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB1/id/479669,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB1_S1.pdf
+1884853,479608,supplement,362821,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB2/id/479608,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB2_S1_20240729-084157.pdf
+1884853,479633,supplement,6445,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB2/id/479633,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB2_S1.pdf
+1884853,480140,supplement,106143,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB2/id/480140,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB2_S1.pdf
+1884853,480263,supplement,152628,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB2/id/480263,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB2_S1_20240815-124707.pdf
+1884857,479611,supplement,358252,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB3/id/479611,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB3_S1_20240729-084358.pdf
+1884857,479634,supplement,6503,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB3/id/479634,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB3_S1.pdf
+1884857,479635,supplement,541466,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB3/id/479635,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB3_S1_20240729-172214.pdf
+1884857,480162,supplement,117298,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB3/id/480162,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB3_S1.pdf
+1884857,480624,supplement,107359,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB3/id/480624,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB3_S1_20240816-093711.pdf
+1884860,479548,supplement,87526,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB4/id/479548,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB4_S1_20240726-123001.pdf
+1884820,479609,supplement,85046,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB5/id/479609,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB5_S1_20240729-085534.pdf
+1884820,479626,supplement,6444,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB5/id/479626,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB5_S1.pdf
+1884820,479627,supplement,193331,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB5/id/479627,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB5_S1_20240729-172233.pdf
+1884820,480290,supplement,101957,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB5/id/480290,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB5_S1.pdf
+1884845,479583,supplement,182463,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB6/id/479583,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB6_S1_20240727-105235.pdf
+1884845,479619,supplement,6548,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB6/id/479619,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB6_S1.pdf
+1884845,479668,supplement,312411,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB6/id/479668,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB6_S1_20240730-092330.pdf
+1884845,480133,supplement,107396,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB6/id/480133,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB6_S1.pdf
+1884863,479588,supplement,146558,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB7/id/479588,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB7_S1_20240727-121416.pdf
+1884863,479596,supplement,6457,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB7/id/479596,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB7_S1.pdf
+1884863,479677,supplement,266768,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB7/id/479677,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB7_S1_20240730-092501.pdf
+1884807,479590,supplement,95682,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB8/id/479590,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB8_S1_20240727-105529.pdf
+1884807,479601,supplement,6473,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB8/id/479601,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB8_S1.pdf
+1884807,479789,supplement,249993,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB8/id/479789,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB8_S1_20240731-132847.pdf
+1884827,479587,supplement,238071,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB9/id/479587,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB9_S1_20240727-122602.pdf
+1884827,479615,supplement,6426,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB9/id/479615,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB9_S1.pdf
+1884827,479616,supplement,303997,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB9/id/479616,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB9_S1_20240729-133239.pdf
+1884851,479589,supplement,149351,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB10/id/479589,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB10_S1_20240727-105543.pdf
+1884851,479612,supplement,6320,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB10/id/479612,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB10_S1.pdf
+1884851,479672,supplement,265057,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB10/id/479672,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB10_S1_20240730-092714.pdf
+1884834,479539,supplement,6569,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB11/id/479539,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB11_S1.pdf
+1884834,479549,supplement,316449,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB11/id/479549,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB11_S1_20240726-170624.pdf
+1884834,479657,supplement,335553,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB11/id/479657,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB11_S1_20240730-092630.pdf
+1884831,479586,supplement,213016,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB12/id/479586,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB12_S1_20240727-121125.pdf
+1884831,479599,supplement,6622,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB12/id/479599,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB12_S1.pdf
+1884831,479971,supplement,240007,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB12/id/479971,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB12_S1_20240802-152338.pdf
+1884837,479592,supplement,190779,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB13/id/479592,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB13_S1_20240727-121251.pdf
+1884837,479624,supplement,6803,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB13/id/479624,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB13_S1.pdf
+1884816,479541,supplement,6469,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB14/id/479541,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB14_S1.pdf
+1884816,479564,supplement,89176,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB14/id/479564,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB14_S1_20240726-175117.pdf
+1884816,479719,supplement,251989,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB14/id/479719,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB14_S1_20240730-172350.pdf
+1884811,479605,supplement,6551,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB15/id/479605,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB15_S1.pdf
+1884811,479606,supplement,85197,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB15/id/479606,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB15_S1_20240729-085553.pdf
+1884811,479640,supplement,193289,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB15/id/479640,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB15_S1_20240729-172251.pdf
+1884841,479598,supplement,374981,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB16/id/479598,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB16_S1_20240729-085632.pdf
+1884841,479679,supplement,8355,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB16/id/479679,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB16_S1.pdf
+1884872,479554,supplement,369818,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB17/id/479554,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB17_S1_20240726-175654.pdf
+1884872,479597,supplement,6375,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB17/id/479597,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB17_S1.pdf
+1884876,479602,supplement,86088,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB18/id/479602,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB18_S1_20240729-085614.pdf
+1884876,479647,supplement,193753,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB18/id/479647,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB18_S1_20240729-172311.pdf
+1884876,479726,supplement,6419,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB18/id/479726,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB18_S1.pdf
+1884876,480291,supplement,101963,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB18/id/480291,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB18_S1.pdf
+1884881,479600,supplement,93520,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB19/id/479600,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB19_S1_20240729-085652.pdf
+1884881,479651,supplement,6424,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB19/id/479651,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB19_S1.pdf
+1884881,479702,supplement,202797,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB19/id/479702,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB19_S1_20240730-171843.pdf
+1884881,479973,supplement,205131,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB19/id/479973,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB19_S1_20240802-153404.pdf
+1884889,479593,supplement,93722,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB20/id/479593,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB20_S1_20240727-123719.pdf
+1884889,479604,supplement,6543,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB20/id/479604,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB20_S1.pdf
+1884889,480005,supplement,229044,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB20/id/480005,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB20_S1_20240805-122458.pdf
+1884906,479610,supplement,85196,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB21/id/479610,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB21_S1_20240729-085710.pdf
+1884906,479629,supplement,193335,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB21/id/479629,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB21_S1_20240729-172329.pdf
+1884906,479650,supplement,6489,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB21/id/479650,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB21_S1.pdf
+1884906,480289,supplement,101961,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB21/id/480289,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB21_S1.pdf
+1884902,479621,supplement,87920,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB22/id/479621,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB22_S1_20240729-172348.pdf
+1884902,479720,supplement,6361,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB22/id/479720,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB22_S1.pdf
+1884902,479995,supplement,349209,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB22/id/479995,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB22_S1_20240805-113417.pdf
+1884908,479607,supplement,82928,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB23/id/479607,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB23_S1_20240729-111519.pdf
+1884908,479637,supplement,6400,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB23/id/479637,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB23_S1.pdf
+1884904,479603,supplement,83403,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB24/id/479603,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB24_S1_20240729-111544.pdf
+1884904,479638,supplement,6388,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB24/id/479638,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB24_S1.pdf
+1884909,479618,supplement,199832,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB25/id/479618,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB25_S1_20240729-172121.pdf
+1884909,479870,supplement,6591,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB25/id/479870,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB25_S1.pdf
+1884909,480013,supplement,413655,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB25/id/480013,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB25_S1_20240805-113434.pdf
+1884905,479654,supplement,6587,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB26/id/479654,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB26_S1.pdf
+1884905,479655,supplement,93267,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB26/id/479655,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB26_S1_20240730-094614.pdf
+1884905,479993,supplement,257275,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB26/id/479993,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB26_S1_20240805-113449.pdf
+1884910,479662,supplement,6564,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB27/id/479662,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB27_S1.pdf
+1884910,479663,supplement,117843,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB27/id/479663,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB27_S1_20240730-112907.pdf
+1884900,479582,supplement,211717,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB28/id/479582,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB28_S1_20240727-105251.pdf
+1884900,479847,supplement,6332,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB28/id/479847,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB28_S1.pdf
+1884903,479631,supplement,6768,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB29/id/479631,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB29_S1.pdf
+1884903,479667,supplement,200130,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB29/id/479667,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB29_S1_20240730-094632.pdf
+1884903,479787,supplement,223836,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB29/id/479787,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB29_S1_20240731-101208.pdf
+1884901,479652,supplement,6558,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB30/id/479652,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB30_S1.pdf
+1884901,479665,supplement,345729,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB30/id/479665,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB30_S1_20240730-113155.pdf
+1884901,480023,supplement,488466,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB30/id/480023,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB30_S1_20240805-155512.pdf
+1884911,479646,supplement,89824,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB31/id/479646,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB31_S1_20240729-172140.pdf
+1884911,479783,supplement,6699,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB31/id/479783,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB31_S1.pdf
+1884911,479883,supplement,203770,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB31/id/479883,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB31_S1_20240731-172927.pdf
+1884989,479636,supplement,316615,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB32/id/479636,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB32_S1_20240729-172958.pdf
+1884989,479724,supplement,6428,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB32/id/479724,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB32_S1.pdf
+1884989,480138,supplement,103512,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB32/id/480138,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB32_S1.pdf
+1884959,479666,supplement,87827,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB33/id/479666,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB33_S1_20240730-105139.pdf
+1884959,479717,supplement,6417,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB33/id/479717,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB33_S1.pdf
+1884959,480017,supplement,256829,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB33/id/480017,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB33_S1_20240805-160039.pdf
+1884975,479641,supplement,174012,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB34/id/479641,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB34_S1_20240729-172156.pdf
+1884975,480131,supplement,127576,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB34/id/480131,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB34_S1.pdf
+1884975,480284,supplement,504637,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB34/id/480284,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB34_S1_20240814-163926.pdf
+1884943,479642,supplement,343403,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB35/id/479642,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB35_S1_20240729-172413.pdf
+1884943,479884,supplement,6552,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB35/id/479884,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB35_S1.pdf
+1885129,479639,supplement,90641,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB36/id/479639,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB36_S1_20240729-182632.pdf
+1885129,479961,supplement,215882,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB36/id/479961,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB36_S1_20240802-085515.pdf
+1885129,481481,supplement,6444,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB36/id/481481,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB36_S1.pdf
+1885130,479752,supplement,6541,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB37/id/479752,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB37_S1.pdf
+1885130,479753,supplement,84112,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB37/id/479753,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB37_S1_20240731-102825.pdf
+1885113,479765,supplement,6569,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB38/id/479765,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB38_S1.pdf
+1885113,479766,supplement,84279,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB38/id/479766,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB38_S1_20240731-102917.pdf
+1885140,479758,supplement,220768,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB39/id/479758,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB39_S1_20240731-121202.pdf
+1885140,479893,supplement,6378,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB39/id/479893,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB39_S1.pdf
+1885140,479996,supplement,350193,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB39/id/479996,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB39_S1_20240805-122527.pdf
+1885083,479695,supplement,6406,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB40/id/479695,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB40_S1.pdf
+1885083,479771,supplement,87755,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB40/id/479771,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB40_S1_20240731-121253.pdf
+1885135,479716,supplement,6401,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB41/id/479716,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB41_S1.pdf
+1885135,479780,supplement,192029,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB41/id/479780,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB41_S1_20240731-093708.pdf
+1885086,479697,supplement,88113,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB42/id/479697,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB42_S1_20240730-094653.pdf
+1885086,479779,supplement,6361,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB42/id/479779,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB42_S1.pdf
+1885120,479701,supplement,90654,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB43/id/479701,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB43_S1_20240730-094712.pdf
+1885120,479736,supplement,6344,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB43/id/479736,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB43_S1.pdf
+1885134,479643,supplement,84101,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB44/id/479643,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB44_S1_20240729-182650.pdf
+1885134,479874,supplement,6325,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB44/id/479874,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB44_S1.pdf
+1885134,479963,supplement,189162,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB44/id/479963,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB44_S1_20240802-085548.pdf
+1885090,479690,supplement,88735,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB45/id/479690,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB45_S1_20240730-094809.pdf
+1885090,479767,supplement,6406,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB45/id/479767,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB45_S1.pdf
+1885089,479705,supplement,87843,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB46/id/479705,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB46_S1_20240730-164312.pdf
+1885089,479739,supplement,171929,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB46/id/479739,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB46_S1_20240731-093631.pdf
+1885089,479828,supplement,6959,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB46/id/479828,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB46_S1.pdf
+1885087,479693,supplement,6386,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB47/id/479693,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB47_S1.pdf
+1885087,479694,supplement,246246,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB47/id/479694,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB47_S1_20240730-164328.pdf
+1885133,479755,supplement,6520,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB48/id/479755,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB48_S1.pdf
+1885133,479785,supplement,96493,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB48/id/479785,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB48_S1_20240731-121359.pdf
+1885133,479969,supplement,212838,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB48/id/479969,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB48_S1_20240802-161751.pdf
+1885141,479645,supplement,87991,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB49/id/479645,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB49_S1_20240729-175420.pdf
+1885141,479660,supplement,6768,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB49/id/479660,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB49_S1.pdf
+1885141,479727,supplement,243300,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB49/id/479727,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB49_S1_20240730-171859.pdf
+1885137,479778,supplement,6359,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB50/id/479778,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB50_S1.pdf
+1885137,479850,supplement,219825,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB50/id/479850,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB50_S1_20240731-175713.pdf
+1885136,479757,supplement,6442,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB51/id/479757,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB51_S1.pdf
+1885136,479890,supplement,212142,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB51/id/479890,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB51_S1_20240731-173154.pdf
+1885106,479725,supplement,234664,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB52/id/479725,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB52_S1_20240730-164347.pdf
+1885106,479871,supplement,6934,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB52/id/479871,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB52_S1.pdf
+1885106,480031,supplement,678804,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB52/id/480031,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB52_S1_20240806-153320.pdf
+1885076,479699,supplement,201761,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB53/id/479699,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB53_S1_20240730-164442.pdf
+1885076,479855,supplement,6641,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB53/id/479855,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB53_S1.pdf
+1885104,479698,supplement,252689,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB54/id/479698,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB54_S1_20240730-105156.pdf
+1885104,479864,supplement,6778,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB54/id/479864,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB54_S1.pdf
+1885116,479776,supplement,6989,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB55/id/479776,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB55_S1.pdf
+1885116,479878,supplement,98216,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB55/id/479878,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB55_S1_20240731-132904.pdf
+1885116,480034,supplement,216701,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB55/id/480034,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB55_S1_20240807-110150.pdf
+1885112,479708,supplement,6798,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB56/id/479708,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB56_S1.pdf
+1885112,479709,supplement,170895,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB56/id/479709,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB56_S1_20240730-094835.pdf
+1885105,479700,supplement,222254,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB57/id/479700,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB57_S1_20240730-164408.pdf
+1885105,479781,supplement,243075,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB57/id/479781,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB57_S1_20240731-093649.pdf
+1885117,479622,supplement,86089,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB58/id/479622,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB58_S1_20240729-182752.pdf
+1885117,479670,supplement,6536,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB58/id/479670,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB58_S1.pdf
+1885117,480016,supplement,302408,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB58/id/480016,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB58_S1_20240805-161707.pdf
+1885098,479710,supplement,194397,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB59/id/479710,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB59_S1_20240730-164426.pdf
+1885098,479742,supplement,213206,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB59/id/479742,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB59_S1_20240731-085356.pdf
+1885098,479885,supplement,6672,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB59/id/479885,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB59_S1.pdf
+1885093,479782,supplement,6375,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB60/id/479782,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB60_S1.pdf
+1885093,479879,supplement,90476,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB60/id/479879,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB60_S1_20240731-132919.pdf
+1885093,479967,supplement,235518,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB60/id/479967,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB60_S1_20240802-134430.pdf
+1885119,479706,supplement,6447,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB61/id/479706,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB61_S1.pdf
+1885119,479707,supplement,87193,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB61/id/479707,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB61_S1_20240730-094855.pdf
+1885142,479644,supplement,87702,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB62/id/479644,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB62_S1_20240729-175434.pdf
+1885142,479659,supplement,6793,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB62/id/479659,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB62_S1.pdf
+1885142,480018,supplement,209929,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB62/id/480018,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB62_S1_20240805-150900.pdf
+1885103,479625,supplement,85255,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB63/id/479625,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB63_S1_20240729-182831.pdf
+1885103,479867,supplement,6401,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB63/id/479867,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB63_S1.pdf
+1885108,479628,supplement,85147,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB64/id/479628,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB64_S1_20240729-182847.pdf
+1885108,479869,supplement,6541,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB64/id/479869,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB64_S1.pdf
+1885096,479760,supplement,6589,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB65/id/479760,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB65_S1.pdf
+1885096,479865,supplement,171925,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB65/id/479865,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB65_S1_20240731-173213.pdf
+1885097,479649,supplement,207326,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB66/id/479649,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB66_S1_20240729-185751.pdf
+1885097,479664,supplement,6636,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB66/id/479664,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB66_S1.pdf
+1885110,479623,supplement,121477,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB67/id/479623,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB67_S1_20240729-182904.pdf
+1885110,479876,supplement,6957,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB67/id/479876,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB67_S1.pdf
+1885110,479972,supplement,217176,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB67/id/479972,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB67_S1_20240802-134600.pdf
+1885131,479887,supplement,6828,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB68/id/479887,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB68_S1.pdf
+1885131,479888,supplement,201808,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB68/id/479888,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB68_S1_20240731-180359.pdf
+1885131,479960,supplement,218235,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB68/id/479960,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB68_S1_20240802-085603.pdf
+1885079,479857,supplement,174275,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB69/id/479857,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB69_S1_20240731-191232.pdf
+1885079,479923,supplement,6448,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB69/id/479923,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB69_S1.pdf
+1885079,480043,supplement,283291,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB69/id/480043,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB69_S1_20240807-141358.pdf
+1885122,479872,supplement,6636,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB70/id/479872,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB70_S1.pdf
+1885122,479873,supplement,195121,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB70/id/479873,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB70_S1_20240731-173234.pdf
+1885101,479723,supplement,268863,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB71/id/479723,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB71_S1_20240730-164502.pdf
+1885101,479868,supplement,6743,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB71/id/479868,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB71_S1.pdf
+1885138,479756,supplement,86140,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB72/id/479756,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB72_S1_20240731-102852.pdf
+1885138,479936,supplement,6493,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB72/id/479936,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB72_S1.pdf
+1885118,479875,supplement,217017,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB73/id/479875,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB73_S1_20240731-173254.pdf
+1885118,479938,supplement,6480,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB73/id/479938,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB73_S1.pdf
+1885118,479964,supplement,327679,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB73/id/479964,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB73_S1_20240802-115358.pdf
+1885077,479661,supplement,167961,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB74/id/479661,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB74_S1_20240730-094914.pdf
+1885077,479715,supplement,6425,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB74/id/479715,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB74_S1.pdf
+1885077,480604,supplement,101960,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB74/id/480604,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LB74_S1.pdf
+1885085,479858,supplement,288112,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB75/id/479858,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB75_S1_20240731-173335.pdf
+1885085,479924,supplement,6628,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB75/id/479924,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB75_S1.pdf
+1885085,480057,supplement,403573,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB75/id/480057,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB75_S1_20240808-095117.pdf
+1885123,479889,supplement,87762,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB76/id/479889,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB76_S1_20240731-173313.pdf
+1885123,479945,supplement,6396,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB76/id/479945,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB76_S1.pdf
+1885123,479966,supplement,194465,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB76/id/479966,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB76_S1_20240802-134709.pdf
+1885125,479877,supplement,267405,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB77/id/479877,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB77_S1_20240731-173352.pdf
+1885125,479939,supplement,6561,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB77/id/479939,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB77_S1.pdf
+1885080,479713,supplement,6436,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB78/id/479713,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB78_S1.pdf
+1885080,479747,supplement,196217,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB78/id/479747,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB78_S1_20240731-093724.pdf
+1885095,479881,supplement,6403,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB79/id/479881,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB79_S1.pdf
+1885095,479882,supplement,197151,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB79/id/479882,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB79_S1_20240731-180614.pdf
+1885095,480056,supplement,378394,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB79/id/480056,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB79_S1_20240808-095213.pdf
+1885139,479891,supplement,6513,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB80/id/479891,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB80_S1.pdf
+1885139,479892,supplement,262827,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB80/id/479892,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB80_S1_20240731-173410.pdf
+1885139,480035,supplement,431024,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB80/id/480035,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB80_S1_20240807-105353.pdf
+1885132,479658,supplement,89617,application/pdf,"Fiscal Note",https://legiscan.com/NE/supplement/LB81/id/479658,https://nebraskalegislature.gov/FloorDocs/108/PDF/FN/LB81_S1_20240730-094932.pdf
+1885132,479886,supplement,6441,application/pdf,Analysis,https://legiscan.com/NE/supplement/LB81/id/479886,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LB81_S1.pdf
+1884879,479595,supplement,6522,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR1CA/id/479595,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR1CA_S1.pdf
+1884879,479738,supplement,102085,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR1CA/id/479738,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LR1CA_S1.pdf
+1884868,479632,supplement,6388,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR2CA/id/479632,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR2CA_S1.pdf
+1884868,480264,supplement,103154,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR2CA/id/480264,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LR2CA_S1.pdf
+1884887,479630,supplement,6580,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR3CA/id/479630,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR3CA_S1.pdf
+1884887,480175,supplement,104029,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR3CA/id/480175,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LR3CA_S1.pdf
+1884891,479722,supplement,6518,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR4CA/id/479722,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR4CA_S1.pdf
+1884809,479714,supplement,6398,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR5CA/id/479714,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR5CA_S1.pdf
+1884929,479856,supplement,6513,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR6CA/id/479856,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR6CA_S1.pdf
+1885124,479763,supplement,6463,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR7CA/id/479763,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR7CA_S1.pdf
+1885128,479754,supplement,6467,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR8CA/id/479754,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR8CA_S1.pdf
+1885102,479759,supplement,6464,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR9CA/id/479759,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR9CA_S1.pdf
+1885078,479768,supplement,6495,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR10CA/id/479768,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR10CA_S1.pdf
+1885107,479774,supplement,6575,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR11CA/id/479774,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR11CA_S1.pdf
+1885111,479772,supplement,6349,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR12CA/id/479772,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR12CA_S1.pdf
+1885115,479775,supplement,6353,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR13CA/id/479775,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR13CA_S1.pdf
+1885099,479762,supplement,6351,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR14CA/id/479762,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR14CA_S1.pdf
+1885094,479761,supplement,6399,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR15CA/id/479761,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR15CA_S1.pdf
+1885082,479777,supplement,6491,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR16CA/id/479777,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR16CA_S1.pdf
+1885084,479770,supplement,6374,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR17CA/id/479770,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR17CA_S1.pdf
+1885114,479784,supplement,6432,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR18CA/id/479784,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR18CA_S1.pdf
+1885091,479748,supplement,6420,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR19CA/id/479748,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR19CA_S1.pdf
+1885081,479764,supplement,6536,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR20CA/id/479764,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR20CA_S1.pdf
+1885127,479769,supplement,6441,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR21CA/id/479769,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR21CA_S1.pdf
+1885100,479773,supplement,6577,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR22CA/id/479773,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR22CA_S1.pdf
+1885121,479786,supplement,6375,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR23CA/id/479786,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR23CA_S1.pdf
+1885121,480066,supplement,104150,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR23CA/id/480066,https://nebraskalegislature.gov/FloorDocs/108/PDF/CS/LR23CA_S1.pdf
+1885088,479933,supplement,6610,application/pdf,Analysis,https://legiscan.com/NE/supplement/LR24CA/id/479933,https://nebraskalegislature.gov/FloorDocs/108/PDF/SI/LR24CA_S1.pdf

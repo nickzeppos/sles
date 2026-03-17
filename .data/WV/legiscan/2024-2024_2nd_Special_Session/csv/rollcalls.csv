@@ -1,0 +1,246 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1888473,1468123,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 27)",29,0,0,5,34
+1888473,1468124,2024-10-06,Senate,"Passed Senate (Roll No. 28)",29,0,0,5,34
+1888473,1468125,2024-10-06,Senate,"Effective from passage (Roll No. 28)",29,0,0,5,34
+1888473,1468195,2024-10-07,House,"Dispensed with Constitutional Rule (Roll No. 886)",88,4,0,8,100
+1888473,1468196,2024-10-07,House,"Passed House (Roll No. 887)",92,0,0,8,100
+1888473,1468197,2024-10-07,House,"Effective from passage (Roll No. 888)",90,0,0,10,100
+1888479,1468136,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 33)",29,0,0,5,34
+1888479,1468137,2024-10-06,Senate,"Passed Senate (Roll No. 34)",29,0,0,5,34
+1888479,1468138,2024-10-06,Senate,"Effective from passage (Roll No. 34)",29,0,0,5,34
+1888479,1468363,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 906)",89,5,0,6,100
+1888479,1468364,2024-10-08,House,"Passed House (Roll No. 907)",95,0,0,5,100
+1888479,1468365,2024-10-08,House,"Effective from passage (Roll No. 908)",95,0,0,5,100
+1888480,1467801,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 1)",31,0,0,3,34
+1888480,1467802,2024-09-30,Senate,"Passed Senate (Roll No. 2)",32,0,0,2,34
+1888480,1467803,2024-09-30,Senate,"Effective from passage (Roll No. 2)",32,0,0,2,34
+1888480,1468190,2024-10-07,House,"Dispensed with Constitutional Rule (Roll No. 878)",87,4,0,9,100
+1888480,1468191,2024-10-07,House,"Passed House (Roll No. 879)",91,1,0,8,100
+1888480,1468192,2024-10-07,House,"Effective from passage (Roll No. 880)",92,0,0,8,100
+1888485,1468129,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 31)",29,0,0,5,34
+1888485,1468130,2024-10-06,Senate,"Passed Senate (Roll No. 32)",29,0,0,5,34
+1888485,1468131,2024-10-06,Senate,"Effective from passage (Roll No. 32)",29,0,0,5,34
+1888485,1468403,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 903)",91,4,0,5,100
+1888485,1468404,2024-10-08,House,"Passed House (Roll No. 904)",94,0,0,6,100
+1888485,1468405,2024-10-08,House,"Effective from passage (Roll No. 905)",94,0,0,6,100
+1888488,1468120,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 23)",29,0,0,5,34
+1888488,1468121,2024-10-06,Senate,"Passed Senate (Roll No. 24)",29,0,0,5,34
+1888488,1468122,2024-10-06,Senate,"Effective from passage (Roll No. 24)",29,0,0,5,34
+1888488,1468187,2024-10-07,House,"Dispensed with Constitutional Rule (Roll No. 883)",84,8,0,8,100
+1888488,1468188,2024-10-07,House,"Passed House (Roll No. 884)",84,7,0,9,100
+1888488,1468189,2024-10-07,House,"Effective from passage (Roll No. 885)",88,3,0,9,100
+1888488,1468389,2024-10-08,Senate,"Senate concurred in House amendments and passed bill (Roll No. 62)",30,0,0,4,34
+1888488,1468390,2024-10-08,Senate,"Effective from passage (Roll No. 62)",30,0,0,4,34
+1888490,1467718,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 845)",88,3,0,9,100
+1888490,1467719,2024-09-30,House,"Passed House (Roll No. 846)",91,0,0,9,100
+1888490,1467720,2024-09-30,House,"Effective from passage (Roll No. 847)",91,0,0,9,100
+1888490,1467810,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 7)",32,0,0,2,34
+1888490,1467811,2024-09-30,Senate,"Passed Senate (Roll No. 8)",32,0,0,2,34
+1888490,1467812,2024-09-30,Senate,"Effective from passage (Roll No. 8)",32,0,0,2,34
+1888492,1467721,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 842)",88,3,0,9,100
+1888492,1467722,2024-09-30,House,"Passed House (Roll No. 843)",91,0,0,9,100
+1888492,1467723,2024-09-30,House,"Effective from passage (Roll No. 844)",91,0,0,9,100
+1888492,1467804,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 5)",32,0,0,2,34
+1888492,1467805,2024-09-30,Senate,"Passed Senate (Roll No. 6)",32,0,0,2,34
+1888492,1467806,2024-09-30,Senate,"Effective from passage (Roll No. 6)",32,0,0,2,34
+1888496,1468111,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 25)",28,1,0,5,34
+1888496,1468112,2024-10-06,Senate,"Passed Senate (Roll No. 26)",28,1,0,5,34
+1888496,1468113,2024-10-06,Senate,"Effective from passage (Roll No. 26)",28,1,0,5,34
+1888498,1468185,2024-10-07,Senate,"Passed Senate (Roll No. 54)",27,1,0,6,34
+1888498,1468186,2024-10-07,Senate,"Effective from passage (Roll No. 54)",27,1,0,6,34
+1888498,1468353,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 912)",80,16,0,4,100
+1888498,1468509,2024-10-08,House,"Passed House (Roll No. 956)",50,40,0,9,99
+1888498,1468510,2024-10-08,Senate,"Senate concurred in House amendments and passed bill (Roll No. 86)",24,2,0,8,34
+1888498,1468511,2024-10-08,Senate,"Effective from passage (Roll No. 86)",24,2,0,8,34
+1888498,1468512,2024-10-08,House,"Effective from passage (Roll No. 958)",68,18,0,13,99
+1888498,1468631,2024-10-08,House,"Effective date rejected (Roll No. 957)",63,26,0,10,99
+1888499,1468126,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 29)",29,0,0,5,34
+1888499,1468127,2024-10-06,Senate,"Passed Senate (Roll No. 30)",29,0,0,5,34
+1888499,1468128,2024-10-06,Senate,"Effective from passage (Roll No. 30)",29,0,0,5,34
+1888499,1468343,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 900)",92,3,0,5,100
+1888499,1468344,2024-10-08,House,"Passed House (Roll No. 901)",94,0,0,6,100
+1888499,1468345,2024-10-08,House,"Effective from passage (Roll No. 902)",94,0,0,6,100
+1888502,1467724,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 839)",85,6,0,9,100
+1888502,1467725,2024-09-30,House,"Passed House (Roll No. 840)",83,8,0,9,100
+1888502,1467726,2024-09-30,House,"Effective from passage (Roll No. 841)",86,5,0,9,100
+1888502,1467807,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 3)",32,0,0,2,34
+1888502,1467808,2024-09-30,Senate,"Passed Senate (Roll No. 4)",32,0,0,2,34
+1888502,1467809,2024-09-30,Senate,"Effective from passage (Roll No. 4)",32,0,0,2,34
+1888503,1468198,2024-10-07,Senate,"Passed Senate (Roll No. 53)",27,1,0,6,34
+1888503,1468199,2024-10-07,Senate,"Effective from passage (Roll No. 53)",27,1,0,6,34
+1888503,1468369,2024-10-08,House,"Constitutional Rule rejected (Roll No. 911)",74,22,0,4,100
+1888509,1467727,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 848)",87,4,0,9,100
+1888509,1467728,2024-09-30,House,"Passed House (Roll No. 849)",88,0,0,12,100
+1888509,1467797,2024-09-30,House,"Effective from passage (Roll No. 850)",91,0,0,9,100
+1888509,1467798,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 9)",32,0,0,2,34
+1888509,1467799,2024-09-30,Senate,"Passed Senate (Roll No. 10)",32,0,0,2,34
+1888509,1467800,2024-09-30,Senate,"Effective from passage (Roll No. 10)",32,0,0,2,34
+1888515,1468149,2024-10-07,House,"Passed House (Roll No. 873)",92,0,0,8,100
+1888515,1468150,2024-10-07,House,"Effective from passage (Roll No. 874)",90,0,0,10,100
+1888515,1468300,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 71)",30,0,0,4,34
+1888515,1468301,2024-10-08,Senate,"Passed Senate (Roll No. 72)",30,0,0,4,34
+1888515,1468302,2024-10-08,Senate,"Effective from passage (Roll No. 72)",30,0,0,4,34
+1888519,1468383,2024-10-08,House,"Passed House (Roll No. 898)",95,0,0,5,100
+1888519,1468384,2024-10-08,House,"Effective from passage (Roll No. 899)",95,0,0,5,100
+1888519,1468385,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 78)",27,0,0,7,34
+1888519,1468386,2024-10-08,Senate,"Passed Senate (Roll No. 79)",27,0,0,7,34
+1888519,1468387,2024-10-08,Senate,"Effective from passage (Roll No. 79)",27,0,0,7,34
+1888524,1468147,2024-10-07,House,"Passed House (Roll No. 869)",89,3,0,8,100
+1888524,1468148,2024-10-07,House,"Effective from passage (Roll No. 870)",92,0,0,8,100
+1888524,1468303,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 67)",30,0,0,4,34
+1888524,1468304,2024-10-08,Senate,"Passed Senate (Roll No. 68)",30,0,0,4,34
+1888524,1468305,2024-10-08,Senate,"Effective from passage (Roll No. 68)",30,0,0,4,34
+1888530,1468183,2024-10-07,House,"Passed House (Roll No. 867)",92,0,0,8,100
+1888530,1468184,2024-10-07,House,"Effective from passage (Roll No. 868)",92,0,0,8,100
+1888530,1468360,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 65)",30,0,0,4,34
+1888530,1468361,2024-10-08,Senate,"Passed Senate (Roll No. 66)",30,0,0,4,34
+1888530,1468362,2024-10-08,Senate,"Effective from passage (Roll No. 66)",30,0,0,4,34
+1888557,1468519,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 934)",86,3,0,10,99
+1888557,1468520,2024-10-08,House,"Passed House (Roll No. 935)",89,0,0,10,99
+1888557,1468521,2024-10-08,House,"Effective from passage (Roll No. 936)",89,0,0,10,99
+1888557,1468522,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 88)",26,0,0,8,34
+1888557,1468523,2024-10-08,Senate,"Passed Senate (Roll No. 89)",26,0,0,8,34
+1888557,1468524,2024-10-08,Senate,"Effective from passage (Roll No. 89)",26,0,0,8,34
+1888561,1467744,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 857)",88,3,0,9,100
+1888561,1467745,2024-09-30,House,"Passed House (Roll No. 858)",91,0,0,9,100
+1888561,1467746,2024-09-30,House,"Effective from passage (Roll No. 859)",91,0,0,9,100
+1888561,1467747,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 13)",32,0,0,2,34
+1888561,1467748,2024-09-30,Senate,"Passed Senate (Roll No. 14)",32,0,0,2,34
+1888568,1467749,2024-09-30,House,"Constitutional Rule rejected (Roll No. 863)",14,78,0,8,100
+1888583,1467750,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 860)",87,4,0,9,100
+1888583,1467751,2024-09-30,House,"Passed House (Roll No. 861)",73,18,0,9,100
+1888583,1467752,2024-09-30,House,"Effective from passage (Roll No. 862)",77,14,0,9,100
+1888583,1468310,2024-10-08,Senate,"Passed Senate (Roll No. 76)",25,5,0,4,34
+1888583,1468311,2024-10-08,Senate,"Effective from passage (Roll No. 76)",25,5,0,4,34
+1888583,1468381,2024-10-08,House,"Passed House (Roll No. 945)",84,7,0,8,99
+1888583,1468382,2024-10-08,House,"Effective from passage (Roll No. 946)",86,3,0,10,99
+1888587,1468497,2024-10-08,House,"Passed House (Roll No. 943)",62,29,0,8,99
+1888587,1468498,2024-10-08,House,"Effective from passage (Roll No. 944)",74,17,0,8,99
+1888587,1468499,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 96)",25,0,0,9,34
+1888587,1468500,2024-10-08,Senate,"Passed Senate (Roll No. 97)",25,1,0,8,34
+1888587,1468501,2024-10-08,Senate,"Effective from passage (Roll No. 97)",25,1,0,8,34
+1888595,1468179,2024-10-07,House,"Amendment rejected (Roll No. 875)",15,77,0,8,100
+1888595,1468180,2024-10-07,House,"Passed House (Roll No. 876)",86,5,0,9,100
+1888595,1468181,2024-10-07,House,"Effective from passage (Roll No. 877)",88,3,0,9,100
+1888595,1468350,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 73)",30,0,0,4,34
+1888595,1468351,2024-10-08,Senate,"Passed Senate (Roll No. 74)",29,1,0,4,34
+1888595,1468352,2024-10-08,Senate,"Effective from passage (Roll No. 74)",29,1,0,4,34
+1888605,1467754,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 851)",87,4,0,9,100
+1888605,1467755,2024-09-30,House,"Passed House (Roll No. 852)",90,1,0,9,100
+1888605,1467756,2024-09-30,House,"Effective from passage (Roll No. 853)",91,0,0,9,100
+1888605,1468132,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 15)",29,0,0,5,34
+1888605,1468133,2024-10-06,Senate,"Passed Senate (Roll No. 16)",29,0,0,5,34
+1888605,1468134,2024-10-06,Senate,"Effective from passage (Roll No. 16)",29,0,0,5,34
+1888605,1468286,2024-10-07,House,"House concurred in Senate amendment and passed bill (Roll No. 881)",89,3,0,8,100
+1888605,1468287,2024-10-07,House,"Effective from passage (Roll No. 882)",92,0,0,8,100
+1888609,1468397,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 889)",85,9,0,6,100
+1888609,1468398,2024-10-08,House,"Passed House (Roll No. 890)",91,4,0,5,100
+1888609,1468399,2024-10-08,House,"Effective from passage (Roll No. 891)",95,0,0,5,100
+1888609,1468400,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 80)",27,0,0,7,34
+1888609,1468401,2024-10-08,Senate,"Passed Senate (Roll No. 81)",27,0,0,7,34
+1888609,1468402,2024-10-08,Senate,"Effective from passage (Roll No. 81)",27,0,0,7,34
+1888621,1468141,2024-10-07,House,"Passed House (Roll No. 865)",91,0,0,9,100
+1888621,1468142,2024-10-07,House,"Passed House (Roll No. 866)",91,0,0,9,100
+1888621,1468294,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 63)",30,0,0,4,34
+1888621,1468295,2024-10-08,Senate,"Passed Senate (Roll No. 64)",30,0,0,4,34
+1888621,1468296,2024-10-08,Senate,"Effective from passage (Roll No. 64)",30,0,0,4,34
+1888626,1468284,2024-10-07,House,"Passed House (Roll No. 871)",92,0,0,8,100
+1888626,1468285,2024-10-07,House,"Effective from passage (Roll No. 872)",92,0,0,8,100
+1888626,1468297,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 69)",30,0,0,4,34
+1888626,1468298,2024-10-08,Senate,"Passed Senate (Roll No. 70)",30,0,0,4,34
+1888626,1468299,2024-10-08,Senate,"Effective from passage (Roll No. 70)",30,0,0,4,34
+1888637,1467758,2024-09-30,House,"Dispensed with Constitutional Rule (Roll No. 854)",86,5,0,9,100
+1888637,1467759,2024-09-30,House,"Passed House (Roll No. 855)",84,7,0,9,100
+1888637,1467760,2024-09-30,House,"Effective from passage (Roll No. 856)",88,3,0,9,100
+1888637,1467761,2024-09-30,Senate,"Constitutional Rule Suspended (Roll No. 11)",32,0,0,2,34
+1888637,1467762,2024-09-30,Senate,"Passed Senate (Roll No. 12)",31,1,0,2,34
+1888816,1468114,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 17)",29,0,0,5,34
+1888816,1468115,2024-10-06,Senate,"Passed Senate (Roll No. 18)",27,2,0,5,34
+1888816,1468331,2024-10-08,House,"Constitutional Rule rejected (Roll No. 909)",74,21,0,5,100
+1888816,1468492,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 951)",75,15,0,9,99
+1888816,1468493,2024-10-08,House,"Postponed indefinitely (Roll No. 952)",47,40,0,12,99
+1888823,1468116,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 19)",29,0,0,5,34
+1888823,1468117,2024-10-06,Senate,"Passed Senate (Roll No. 20)",28,1,0,5,34
+1888823,1468373,2024-10-08,House,"Constitutional Rule rejected (Roll No. 910)",66,29,0,5,100
+1888823,1468525,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 953)",73,13,0,13,99
+1888823,1468526,2024-10-08,House,"Passed House (Roll No. 954)",62,28,0,9,99
+1888823,1468527,2024-10-08,House,"Effective from passage (Roll No. 955)",68,22,0,9,99
+1888824,1468118,2024-10-06,Senate,"Constitutional Rule Suspended (Roll No. 21)",29,0,0,5,34
+1888824,1468119,2024-10-06,Senate,"Passed Senate (Roll No. 22)",29,0,0,5,34
+1888824,1468494,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 940)",88,2,0,9,99
+1888824,1468495,2024-10-08,House,"Passed House (Roll No. 941)",89,2,0,8,99
+1888824,1468496,2024-10-08,House,"Effective from passage (Roll No. 942)",91,0,0,8,99
+1888830,1468406,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 892)",87,8,0,5,100
+1888830,1468407,2024-10-08,House,"Passed House (Roll No. 893)",95,0,0,5,100
+1888830,1468408,2024-10-08,House,"Effective from passage (Roll No. 894)",95,0,0,5,100
+1888830,1468409,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 82)",27,0,0,7,34
+1888830,1468410,2024-10-08,Senate,"Passed Senate (Roll No. 83)",27,0,0,7,34
+1888830,1468411,2024-10-08,Senate,"Effective from passage (Roll No. 83)",27,0,0,7,34
+1888836,1468513,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 937)",74,15,0,10,99
+1888836,1468514,2024-10-08,House,"Passed House (Roll No. 938)",69,22,0,8,99
+1888836,1468515,2024-10-08,House,"Effective from passage (Roll No. 939)",79,12,0,8,99
+1888836,1468516,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 90)",25,1,0,8,34
+1888836,1468517,2024-10-08,Senate,"Passed Senate (Roll No. 91)",24,2,0,8,34
+1888836,1468518,2024-10-08,Senate,"Effective from passage (Roll No. 91)",24,2,0,8,34
+1888838,1468332,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 895)",88,7,0,5,100
+1888838,1468333,2024-10-08,House,"Passed House (Roll No. 896)",95,0,0,5,100
+1888838,1468334,2024-10-08,House,"Effective from passage (Roll No. 897)",94,0,0,6,100
+1888838,1468335,2024-10-08,Senate,"Constitutional Rule Suspended (Roll No. 84)",27,0,0,7,34
+1888838,1468336,2024-10-08,Senate,"Passed Senate (Roll No. 85)",27,0,0,7,34
+1888838,1468337,2024-10-08,Senate,"Effective from passage (Roll No. 85)",27,0,0,7,34
+1888846,1468281,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 41)",31,0,0,3,34
+1888846,1468282,2024-10-07,Senate,"Passed Senate (Roll No. 42)",31,0,0,3,34
+1888846,1468283,2024-10-07,Senate,"Effective from passage (Roll No. 42)",31,0,0,3,34
+1888846,1468354,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 921)",85,9,0,6,100
+1888846,1468355,2024-10-08,House,"Passed House (Roll No. 922)",86,9,0,5,100
+1888846,1468356,2024-10-08,House,"Effective from passage (Roll No. 923)",91,4,0,5,100
+1888848,1468159,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 35)",31,0,0,3,34
+1888848,1468160,2024-10-07,Senate,"Passed Senate (Roll No. 36)",31,0,0,3,34
+1888848,1468338,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 913)",86,6,0,8,100
+1888848,1468339,2024-10-08,House,"Amendment rejected (Roll No. 914)",25,71,0,4,100
+1888848,1468340,2024-10-08,House,"Motion for previous question adopted (Roll No. 915)",63,32,0,5,100
+1888848,1468341,2024-10-08,House,"Passed House (Roll No. 916)",90,6,0,4,100
+1888848,1468342,2024-10-08,House,"Effective from passage (Roll No. 917)",94,1,0,5,100
+1888853,1468161,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 37)",31,0,0,3,34
+1888853,1468162,2024-10-07,Senate,"Passed Senate (Roll No. 38)",31,0,0,3,34
+1888853,1468370,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 918)",89,4,0,7,100
+1888853,1468371,2024-10-08,House,"Passed House (Roll No. 919)",95,0,0,5,100
+1888853,1468372,2024-10-08,House,"Effective from passage (Roll No. 920)",94,0,0,6,100
+1888858,1468163,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 39)",31,0,0,3,34
+1888858,1468164,2024-10-07,Senate,"Passed Senate (Roll No. 40)",31,0,0,3,34
+1888858,1468292,2024-10-08,Senate,"Passed Senate (Roll No. 61)",30,0,0,4,34
+1888858,1468293,2024-10-08,Senate,"Effective from passage (Roll No. 61)",30,0,0,4,34
+1888858,1468391,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 947)",85,5,0,9,99
+1888858,1468392,2024-10-08,House,"Passed House (Roll No. 948)",88,3,0,8,99
+1888858,1468393,2024-10-08,House,"Effective from passage (Roll No. 949)",89,2,0,8,99
+1888858,1468425,2024-10-08,Senate,"Senate concurred in House amendments and passed bill (Roll No. 87)",26,0,0,8,34
+1888858,1468426,2024-10-08,Senate,"Effective from passage (Roll No. 87)",26,0,0,8,34
+1888877,1468228,2024-10-07,Senate,"Adopted (Roll No. 57)",27,0,0,7,34
+1888879,1468229,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 51)",31,0,0,3,34
+1888879,1468230,2024-10-07,Senate,"Passed Senate (Roll No. 52)",31,0,0,3,34
+1888881,1468231,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 49)",31,0,0,3,34
+1888881,1468232,2024-10-07,Senate,"Passed Senate (Roll No. 50)",31,0,0,3,34
+1888881,1468346,2024-10-08,House,"Constitutional Rule rejected (Roll No. 933)",65,31,0,4,100
+1888883,1468233,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 47)",31,0,0,3,34
+1888883,1468234,2024-10-07,Senate,"Passed Senate (Roll No. 48)",31,0,0,3,34
+1888883,1468357,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 930)",80,14,0,6,100
+1888883,1468358,2024-10-08,House,"Passed House (Roll No. 931)",78,18,0,4,100
+1888883,1468359,2024-10-08,House,"Effective from passage (Roll No. 932)",83,11,0,6,100
+1888884,1468235,2024-10-07,Senate,"Adopted (Roll No. 55)",27,0,0,7,34
+1888885,1468236,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 43)",31,0,0,3,34
+1888885,1468237,2024-10-07,Senate,"Passed Senate (Roll No. 44)",31,0,0,3,34
+1888885,1468366,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 924)",86,8,0,6,100
+1888885,1468367,2024-10-08,House,"Passed House (Roll No. 925)",90,4,0,6,100
+1888885,1468368,2024-10-08,House,"Effective from passage (Roll No. 926)",92,3,0,5,100
+1888890,1468238,2024-10-07,Senate,"Constitutional Rule Suspended (Roll No. 45)",31,0,0,3,34
+1888890,1468239,2024-10-07,Senate,"Passed Senate (Roll No. 46)",31,0,0,3,34
+1888890,1468347,2024-10-08,House,"Dispensed with Constitutional Rule (Roll No. 927)",87,8,0,5,100
+1888890,1468348,2024-10-08,House,"Passed House (Roll No. 928)",91,5,0,4,100
+1888890,1468349,2024-10-08,House,"Effective from passage (Roll No. 929)",95,0,0,5,100
+1888894,1468240,2024-10-07,Senate,"Adopted (Roll No. 58)",27,0,0,7,34
+1888896,1468241,2024-10-07,Senate,"Adopted (Roll No. 56)",27,0,0,7,34
+1888898,1468289,2024-10-07,Senate,"Adopted (Roll No. 59)",27,0,0,7,34
+1888899,1468280,2024-10-07,Senate,"Adopted (Roll No. 60)",26,1,0,7,34
+1888901,1468291,2024-10-08,Senate,"Adopted by Senate (Roll No. 75)",30,0,0,4,34
+1888901,1468452,2024-10-08,House,"Adopted by House (Roll No. 950)",91,0,0,8,99
+1888912,1468487,2024-10-08,Senate,"Adopted (Roll No. 77)",27,0,0,7,34

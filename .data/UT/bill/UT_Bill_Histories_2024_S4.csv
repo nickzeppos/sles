@@ -1,0 +1,122 @@
+bill_id,session,chamber,location,action_date,action,vote,vote_url,order
+S.B. 4001,2024-S4,,Legislative Research and General Counsel,2024-08-20,Bill Numbered but not Distributed,,,1
+S.B. 4001,2024-S4,,Legislative Research and General Counsel,2024-08-20,Numbered Bill Publicly Distributed,,,2
+S.B. 4001,2024-S4,Fiscal,Legislative Research and General Counsel,2024-08-20,LFA/ bill sent to agencies for fiscal input,,,3
+S.B. 4001,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received bill from Legislative Research,,,4
+S.B. 4001,2024-S4,Fiscal,Waiting for Introduction in the Senate,2024-08-21,LFA/ fiscal note publicly available,,,5
+S.B. 4001,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received fiscal note from Fiscal Analyst,,,6
+S.B. 4001,2024-S4,Senate,Senate Rules Committee,2024-08-21,Senate/ 1st reading (Introduced),,,7
+S.B. 4001,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ placed on 2nd Reading Calendar,,,8
+S.B. 4001,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ 2nd & 3rd readings/ suspension,,,9
+S.B. 4001,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ passed 2nd & 3rd readings/ suspension,27 0 2,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=6&house=S,10
+S.B. 4001,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ to House,,,11
+S.B. 4001,2024-S4,House,Clerk of the House,2024-08-21,House/ received from Senate,,,12
+S.B. 4001,2024-S4,House,House Rules Committee,2024-08-21,House/ 1st reading (Introduced),,,13
+S.B. 4001,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ Rules to 3rd Reading Calendar,,,14
+S.B. 4001,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 2nd reading,,,15
+S.B. 4001,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 3rd reading,,,16
+S.B. 4001,2024-S4,House,House Speaker,2024-08-21,House/ passed 3rd reading,72 0 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=2&house=H,17
+S.B. 4001,2024-S4,House,Senate President,2024-08-21,House/ signed by Speaker/ returned to Senate,,,18
+S.B. 4001,2024-S4,House,Senate President,2024-08-21,House/ to Senate,,,19
+S.B. 4001,2024-S4,Senate,Senate President,2024-08-21,Senate/ received from House,,,20
+S.B. 4001,2024-S4,Senate,Legislative Research and General Counsel / Enrolling,2024-08-21,Senate/ signed by President/ sent for enrolling,,,21
+S.B. 4001,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Bill Received from Senate for Enrolling,,,22
+S.B. 4001,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Draft of Enrolled Bill Prepared,,,23
+S.B. 4001,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,24
+S.B. 4001,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,25
+S.B. 4001,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,26
+S.B. 4001,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ enrolled bill to Printing,,,27
+S.B. 4001,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ received enrolled bill from Printing,,,28
+S.B. 4001,2024-S4,Senate,Executive Branch - Governor,2024-08-22,Senate/ to Governor,,,29
+S.B. 4001,2024-S4,,Lieutenant Governor's office for filing,2024-08-22,Governor Signed,,,30
+S.B. 4002,2024-S4,,Legislative Research and General Counsel,2024-08-20,Bill Numbered but not Distributed,,,1
+S.B. 4002,2024-S4,,Legislative Research and General Counsel,2024-08-20,Numbered Bill Publicly Distributed,,,2
+S.B. 4002,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received bill from Legislative Research,,,3
+S.B. 4002,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received fiscal note from Fiscal Analyst,,,4
+S.B. 4002,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ to Printing with fiscal note,,,5
+S.B. 4002,2024-S4,Senate,Senate Rules Committee,2024-08-21,Senate/ 1st reading (Introduced),,,6
+S.B. 4002,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ placed on 2nd Reading Calendar,,,7
+S.B. 4002,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ 2nd & 3rd readings/ suspension,,,8
+S.B. 4002,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ substituted from # 0 to # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=13&house=S,9
+S.B. 4002,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ floor amendment failed # 2,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=14&house=S,10
+S.B. 4002,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ passed 2nd & 3rd readings/ suspension,21 6 2,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=15&house=S,11
+S.B. 4002,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ to House,,,12
+S.B. 4002,2024-S4,House,Clerk of the House,2024-08-21,House/ received from Senate,,,13
+S.B. 4002,2024-S4,House,House Rules Committee,2024-08-21,House/ 1st reading (Introduced),,,14
+S.B. 4002,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ Rules to 3rd Reading Calendar,,,15
+S.B. 4002,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 2nd reading,,,16
+S.B. 4002,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 3rd reading,,,17
+S.B. 4002,2024-S4,House,House Speaker,2024-08-21,House/ passed 3rd reading,54 20 1,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=4&house=H,18
+S.B. 4002,2024-S4,House,Senate President,2024-08-21,House/ signed by Speaker/ returned to Senate,,,19
+S.B. 4002,2024-S4,House,Senate President,2024-08-21,House/ to Senate,,,20
+S.B. 4002,2024-S4,Senate,Senate President,2024-08-21,Senate/ received from House,,,21
+S.B. 4002,2024-S4,Senate,Legislative Research and General Counsel / Enrolling,2024-08-21,Senate/ signed by President/ sent for enrolling,,,22
+S.B. 4002,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Bill Received from Senate for Enrolling,,,23
+S.B. 4002,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Draft of Enrolled Bill Prepared,,,24
+S.B. 4002,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,25
+S.B. 4002,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,26
+S.B. 4002,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,27
+S.B. 4002,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ enrolled bill to Printing,,,28
+S.B. 4002,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ received enrolled bill from Printing,,,29
+S.B. 4002,2024-S4,Senate,Executive Branch - Governor,2024-08-22,Senate/ to Governor,,,30
+S.B. 4002,2024-S4,,Lieutenant Governor's office for filing,2024-08-22,Governor Signed,,,31
+S.B. 4003,2024-S4,,Legislative Research and General Counsel,2024-08-20,Bill Numbered but not Distributed,,,1
+S.B. 4003,2024-S4,,Legislative Research and General Counsel,2024-08-20,Numbered Bill Publicly Distributed,,,2
+S.B. 4003,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received bill from Legislative Research,,,3
+S.B. 4003,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received fiscal note from Fiscal Analyst,,,4
+S.B. 4003,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ to Printing with fiscal note,,,5
+S.B. 4003,2024-S4,Senate,Senate Rules Committee,2024-08-21,Senate/ 1st reading (Introduced),,,6
+S.B. 4003,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ placed on 2nd Reading Calendar,,,7
+S.B. 4003,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ 2nd & 3rd readings/ suspension,,,8
+S.B. 4003,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ substituted from # 0 to # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=16&house=S,9
+S.B. 4003,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ passed 2nd & 3rd readings/ suspension,21 7 1,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=17&house=S,10
+S.B. 4003,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ to House,,,11
+S.B. 4003,2024-S4,House,Clerk of the House,2024-08-21,House/ received from Senate,,,12
+S.B. 4003,2024-S4,House,House Rules Committee,2024-08-21,House/ 1st reading (Introduced),,,13
+S.B. 4003,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ Rules to 3rd Reading Calendar,,,14
+S.B. 4003,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 2nd reading,,,15
+S.B. 4003,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 3rd reading,,,16
+S.B. 4003,2024-S4,House,House Speaker,2024-08-21,House/ passed 3rd reading,58 15 2,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=5&house=H,17
+S.B. 4003,2024-S4,House,Senate President,2024-08-21,House/ signed by Speaker/ returned to Senate,,,18
+S.B. 4003,2024-S4,House,Senate President,2024-08-21,House/ to Senate,,,19
+S.B. 4003,2024-S4,Senate,Senate President,2024-08-21,Senate/ received from House,,,20
+S.B. 4003,2024-S4,Senate,Legislative Research and General Counsel / Enrolling,2024-08-21,Senate/ signed by President/ sent for enrolling,,,21
+S.B. 4003,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Bill Received from Senate for Enrolling,,,22
+S.B. 4003,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Draft of Enrolled Bill Prepared,,,23
+S.B. 4003,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,24
+S.B. 4003,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,25
+S.B. 4003,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,26
+S.B. 4003,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ enrolled bill to Printing,,,27
+S.B. 4003,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ received enrolled bill from Printing,,,28
+S.B. 4003,2024-S4,Senate,Executive Branch - Governor,2024-08-22,Senate/ to Governor,,,29
+S.B. 4003,2024-S4,,Lieutenant Governor's office for filing,2024-08-22,Governor Signed,,,30
+S.J.R. 401,2024-S4,,Legislative Research and General Counsel,2024-08-20,Bill Numbered but not Distributed,,,1
+S.J.R. 401,2024-S4,,Legislative Research and General Counsel,2024-08-20,Numbered Bill Publicly Distributed,,,2
+S.J.R. 401,2024-S4,Fiscal,Legislative Research and General Counsel,2024-08-20,LFA/ bill sent to agencies for fiscal input,,,3
+S.J.R. 401,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received bill from Legislative Research,,,4
+S.J.R. 401,2024-S4,Fiscal,Waiting for Introduction in the Senate,2024-08-21,LFA/ fiscal note sent to sponsor,,,5
+S.J.R. 401,2024-S4,Fiscal,Waiting for Introduction in the Senate,2024-08-21,LFA/ fiscal note publicly available,,,6
+S.J.R. 401,2024-S4,Senate,Waiting for Introduction in the Senate,2024-08-21,Senate/ received fiscal note from Fiscal Analyst,,,7
+S.J.R. 401,2024-S4,Senate,Senate Rules Committee,2024-08-21,Senate/ 1st reading (Introduced),,,8
+S.J.R. 401,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ placed on 2nd Reading Calendar,,,9
+S.J.R. 401,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ 2nd & 3rd readings/ suspension,,,10
+S.J.R. 401,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ floor amendment # 4,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=9&house=S,11
+S.J.R. 401,2024-S4,Senate,Senate 2nd Reading Calendar,2024-08-21,Senate/ floor amendment failed # 3,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=11&house=S,12
+S.J.R. 401,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ passed 2nd & 3rd readings/ suspension,20 8 1,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=12&house=S,13
+S.J.R. 401,2024-S4,Senate,Clerk of the House,2024-08-21,Senate/ to House,,,14
+S.J.R. 401,2024-S4,House,Clerk of the House,2024-08-21,House/ received from Senate,,,15
+S.J.R. 401,2024-S4,House,House Rules Committee,2024-08-21,House/ 1st reading (Introduced),,,16
+S.J.R. 401,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ Rules to 3rd Reading Calendar,,,17
+S.J.R. 401,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 2nd reading,,,18
+S.J.R. 401,2024-S4,House,House 3rd Reading Calendar for Senate bills,2024-08-21,House/ 3rd reading,,,19
+S.J.R. 401,2024-S4,House,House Speaker,2024-08-21,House/ passed 3rd reading,54 21 0,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S4&voteid=3&house=H,20
+S.J.R. 401,2024-S4,House,Senate President,2024-08-21,House/ signed by Speaker/ returned to Senate,,,21
+S.J.R. 401,2024-S4,House,Senate President,2024-08-21,House/ to Senate,,,22
+S.J.R. 401,2024-S4,Senate,Senate President,2024-08-21,Senate/ received from House,,,23
+S.J.R. 401,2024-S4,Senate,Legislative Research and General Counsel / Enrolling,2024-08-21,Senate/ signed by President/ sent for enrolling,,,24
+S.J.R. 401,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Bill Received from Senate for Enrolling,,,25
+S.J.R. 401,2024-S4,,Legislative Research and General Counsel / Enrolling,2024-08-22,Draft of Enrolled Bill Prepared,,,26
+S.J.R. 401,2024-S4,,Senate Secretary,2024-08-22,Enrolled Bill Returned to House or Senate,,,27
+S.J.R. 401,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ enrolled bill to Printing,,,28
+S.J.R. 401,2024-S4,Senate,Senate Secretary,2024-08-22,Senate/ received enrolled bill from Printing,,,29
+S.J.R. 401,2024-S4,Senate,Lieutenant Governor's office for filing,2024-08-22,Senate/ to Lieutenant Governor,,,30

@@ -1,0 +1,398 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SB 15,833,Senate,2013-08-02,Filed,,,2
+SB 15,833,Senate,2013-08-02,Received by the Secretary of the Senate,,,1
+SB 16,833,Senate,2013-08-02,Filed,,,2
+SB 16,833,Senate,2013-08-02,Received by the Secretary of the Senate,,,1
+SR 15,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 15,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 15,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 10,833,Senate,2013-07-30,Filed,,,2
+SB 10,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 21,833,Senate,2013-08-05,Co-author authorized,,17,3
+SB 21,833,Senate,2013-08-05,Filed,,,2
+SB 21,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 1,833,House,2013-07-31,"Referred to Transportation Funding, Select",,4,21
+SB 1,833,House,2013-07-31,Read first time,,4,20
+SB 1,833,House,2013-07-31,Received from the Senate,,5,19
+SB 1,833,Senate,2013-07-30,Reported engrossed,,7,18
+SB 1,833,Senate,2013-07-30,Record vote,,6,17
+SB 1,833,Senate,2013-07-30,Passed,,6,16
+SB 1,833,Senate,2013-07-30,Read 3rd time,,6,15
+SB 1,833,Senate,2013-07-30,Record vote,,6,14
+SB 1,833,Senate,2013-07-30,Three day rule suspended,,6,13
+SB 1,833,Senate,2013-07-30,Vote recorded in Journal,,6,12
+SB 1,833,Senate,2013-07-30,Read 2nd time & passed to engrossment,,6,11
+SB 1,833,Senate,2013-07-30,Laid before the Senate,,6,10
+SB 1,833,Senate,2013-07-30,Ordered not printed,,3,9
+SB 1,833,Senate,2013-07-30,Reported favorably w/o amendments,,7,8
+SB 1,833,Senate,2013-07-30,Considered in public hearing,,,7
+SB 1,833,Senate,2013-07-30,Scheduled for public hearing on  . . .,,,6
+SB 1,833,Senate,2013-07-30,Posting rule suspended,,3,5
+SB 1,833,Senate,2013-07-30,Referred to Finance,,3,4
+SB 1,833,Senate,2013-07-30,Read first time,,3,3
+SB 1,833,Senate,2013-07-30,Filed,,,2
+SB 1,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SJR 1,833,Executive,2013-08-06,Filed with the Secretary of State,,18,43
+SJR 1,833,House,2013-08-05,Signed in the House,,39,42
+SJR 1,833,Senate,2013-08-05,Signed in the Senate,,11,41
+SJR 1,833,Senate,2013-08-05,Reported enrolled,,18,40
+SJR 1,833,Senate,2013-08-05,House passage reported,,10,39
+SJR 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,29,38
+SJR 1,833,House,2013-08-05,Record vote,RV#14,29,37
+SJR 1,833,House,2013-08-05,Adopted,,29,36
+SJR 1,833,House,2013-08-05,Amendment withdrawn,"1-T. King, Guillen, and Hilderbran",29,35
+SJR 1,833,House,2013-08-05,Read 2nd time,,28,34
+SJR 1,833,House,2013-08-05,Laid out in lieu of companion,HJR 1,28,33
+SJR 1,833,House,2013-08-05,Committee report sent to Calendars,,,32
+SJR 1,833,House,2013-08-05,Committee report distributed,,,31
+SJR 1,833,House,2013-08-05,Comte report filed with Committee Coordinator,,41,30
+SJR 1,833,House,2013-08-05,Reported favorably w/o amendment(s),,,29
+SJR 1,833,House,2013-08-05,Considered in formal meeting,,,28
+SJR 1,833,House,2013-08-05,Scheduled for formal meeting on . . .,,,27
+SJR 1,833,House,2013-07-31,"Referred to Transportation Funding, Select",,4,26
+SJR 1,833,House,2013-07-31,Read first time,,4,25
+SJR 1,833,House,2013-07-31,Received from the Senate,,5,24
+SJR 1,833,Senate,2013-07-30,Reported engrossed,,7,23
+SJR 1,833,Senate,2013-07-30,Reason for vote recorded in Journal,,5,22
+SJR 1,833,Senate,2013-07-30,Record vote,,5,21
+SJR 1,833,Senate,2013-07-30,Passed,,5,20
+SJR 1,833,Senate,2013-07-30,Read 3rd time,,5,19
+SJR 1,833,Senate,2013-07-30,Record vote,,5,18
+SJR 1,833,Senate,2013-07-30,Three day rule suspended,,5,17
+SJR 1,833,Senate,2013-07-30,Record vote,,4,16
+SJR 1,833,Senate,2013-07-30,Passed to engrossment,,4,15
+SJR 1,833,Senate,2013-07-30,Record vote,,4,14
+SJR 1,833,Senate,2013-07-30,Amendment tabled,,4,13
+SJR 1,833,Senate,2013-07-30,Amendment(s) offered,FA1 Patrick,4,12
+SJR 1,833,Senate,2013-07-30,Read 2nd time,,4,11
+SJR 1,833,Senate,2013-07-30,Laid before the Senate,,4,10
+SJR 1,833,Senate,2013-07-30,Ordered not printed,,3,9
+SJR 1,833,Senate,2013-07-30,Reported favorably w/o amendments,,7,8
+SJR 1,833,Senate,2013-07-30,Considered in public hearing,,,7
+SJR 1,833,Senate,2013-07-30,Scheduled for public hearing on  . . .,,,6
+SJR 1,833,Senate,2013-07-30,Posting rule suspended,,3,5
+SJR 1,833,Senate,2013-07-30,Referred to Finance,,3,4
+SJR 1,833,Senate,2013-07-30,Read first time,,3,3
+SJR 1,833,Senate,2013-07-30,Filed,,,2
+SJR 1,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SR 5,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 5,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 5,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 6,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 6,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 6,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 14,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 14,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 14,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 3,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 3,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 3,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 7,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 7,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 7,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 8,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 8,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 8,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 13,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 13,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 13,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 10,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 10,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 10,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 11,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 11,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 11,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 12,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 12,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 12,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 18,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 18,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 18,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 17,833,Senate,2013-08-02,Filed,,,2
+SB 17,833,Senate,2013-08-02,Received by the Secretary of the Senate,,,1
+SR 9,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 9,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 9,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 6,833,Senate,2013-07-30,Filed,,,2
+SB 6,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 7,833,Senate,2013-07-30,Filed,,,2
+SB 7,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 8,833,Senate,2013-08-05,Co-author authorized,,16,3
+SB 8,833,Senate,2013-07-30,Filed,,,2
+SB 8,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 9,833,Senate,2013-08-05,Co-author authorized,,17,3
+SB 9,833,Senate,2013-07-30,Filed,,,2
+SB 9,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 14,833,Senate,2013-08-02,Filed,,,2
+SB 14,833,Senate,2013-08-02,Received by the Secretary of the Senate,,,1
+SB 18,833,Senate,2013-08-05,Co-author authorized,,17,3
+SB 18,833,Senate,2013-08-05,Filed,,,2
+SB 18,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 19,833,Senate,2013-08-05,Filed,,,2
+SB 19,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 20,833,Senate,2013-08-05,Filed,,,2
+SB 20,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 3,833,Senate,2013-08-05,Co-author authorized,,16,4
+SB 3,833,Senate,2013-07-30,Co-author authorized,,6,3
+SB 3,833,Senate,2013-07-30,Filed,,,2
+SB 3,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 11,833,Senate,2013-07-31,Filed,,,2
+SB 11,833,Senate,2013-07-31,Received by the Secretary of the Senate,,,1
+SB 12,833,Senate,2013-07-31,Filed,,,2
+SB 12,833,Senate,2013-07-31,Received by the Secretary of the Senate,,,1
+SR 17,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 17,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 17,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 4,833,Senate,2013-07-30,Filed,,,2
+SB 4,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SB 5,833,Senate,2013-07-30,Filed,,,2
+SB 5,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SJR 3,833,Senate,2013-07-30,Filed,,,2
+SJR 3,833,Senate,2013-07-30,Received by the Secretary of the Senate,,,1
+SR 1,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 1,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 1,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 2,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 2,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 2,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 4,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 4,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 4,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SR 16,833,Senate,2013-08-05,Reported enrolled,,18,3
+SR 16,833,Senate,2013-08-05,Read & adopted,,17,2
+SR 16,833,Senate,2013-08-05,Received by the Secretary of the Senate,,,1
+SB 13,833,House,2013-08-05,Received from the Senate,,40,19
+SB 13,833,Senate,2013-08-05,Reported engrossed,,18,18
+SB 13,833,Senate,2013-08-05,Record vote,,11,17
+SB 13,833,Senate,2013-08-05,Passed,,11,16
+SB 13,833,Senate,2013-08-05,Read 3rd time,,11,15
+SB 13,833,Senate,2013-08-05,Record vote,,11,14
+SB 13,833,Senate,2013-08-05,Three day rule suspended,,11,13
+SB 13,833,Senate,2013-08-05,Vote recorded in Journal,,11,12
+SB 13,833,Senate,2013-08-05,Read 2nd time & passed to engrossment,,11,11
+SB 13,833,Senate,2013-08-05,Laid before the Senate,,11,10
+SB 13,833,Senate,2013-08-05,Ordered not printed,,11,9
+SB 13,833,Senate,2013-08-05,Reported favorably w/o amendments,,18,8
+SB 13,833,Senate,2013-08-05,Considered in public hearing,,,7
+SB 13,833,Senate,2013-08-05,Scheduled for public hearing on  . . .,,,6
+SB 13,833,Senate,2013-08-05,Posting rule suspended,,10,5
+SB 13,833,Senate,2013-08-05,Referred to Finance,,10,4
+SB 13,833,Senate,2013-08-05,Read first time,,10,3
+SB 13,833,Senate,2013-08-01,Filed,,,2
+SB 13,833,Senate,2013-08-01,Received by the Secretary of the Senate,,,1
+HB 4,833,House,2013-08-05,"Referred to Transportation Funding, Select",,38,3
+HB 4,833,House,2013-08-05,Read first time,,38,2
+HB 4,833,House,2013-07-30,Filed,,,1
+HB 3,833,House,2013-08-01,Left pending in committee,,,7
+HB 3,833,House,2013-08-01,Testimony taken/registration(s) recorded in committee,,,6
+HB 3,833,House,2013-08-01,Considered in public hearing,,,5
+HB 3,833,House,2013-08-01,Scheduled for public hearing on . . .,,,4
+HB 3,833,House,2013-07-30,"Referred to Transportation Funding, Select",,4,3
+HB 3,833,House,2013-07-30,Read first time,,4,2
+HB 3,833,House,2013-07-30,Filed,,,1
+HB 9,833,House,2013-08-01,Filed,,,1
+HB 10,833,House,2013-08-01,Filed,,,1
+HR 1,833,House,2013-08-06,Reported enrolled,,,4
+HR 1,833,House,2013-08-05,Adopted,,8,3
+HR 1,833,House,2013-08-05,Rules suspended,,8,2
+HR 1,833,House,2013-07-31,Filed,,,1
+HB 2,833,House,2013-08-01,Left pending in committee,,,7
+HB 2,833,House,2013-08-01,Testimony taken/registration(s) recorded in committee,,,6
+HB 2,833,House,2013-08-01,Considered in public hearing,,,5
+HB 2,833,House,2013-08-01,Scheduled for public hearing on . . .,,,4
+HB 2,833,House,2013-07-30,"Referred to Transportation Funding, Select",,4,3
+HB 2,833,House,2013-07-30,Read first time,,4,2
+HB 2,833,House,2013-07-30,Filed,,,1
+HB 12,833,House,2013-08-05,"Referred to Transportation Funding, Select",,39,3
+HB 12,833,House,2013-08-05,Read first time,,39,2
+HB 12,833,House,2013-08-01,Filed,,,1
+HB 13,833,House,2013-08-05,"Referred to Transportation Funding, Select",,39,3
+HB 13,833,House,2013-08-05,Read first time,,39,2
+HB 13,833,House,2013-08-01,Filed,,,1
+HB 18,833,House,2013-08-01,Filed,,,1
+HB 5,833,House,2013-07-31,Filed,,,1
+HB 6,833,House,2013-07-31,Filed,,,1
+HJR 2,833,House,2013-07-31,Filed,,,1
+HJR 3,833,House,2013-07-31,Filed,,,1
+HB 11,833,House,2013-08-02,Filed,,,1
+HR 60,833,House,2013-08-06,Reported enrolled,,,4
+HR 60,833,House,2013-08-05,Adopted,,30,3
+HR 60,833,House,2013-08-05,Rules suspended,,30,2
+HR 60,833,House,2013-08-05,Filed,,,1
+HB 19,833,House,2013-08-05,Filed,,,1
+HB 20,833,House,2013-08-05,Filed,,,1
+HB 21,833,House,2013-08-05,Filed,,,1
+HR 6,833,House,2013-08-06,Reported enrolled,,,4
+HR 6,833,House,2013-08-05,Adopted,,9,3
+HR 6,833,House,2013-08-05,Rules suspended,,9,2
+HR 6,833,House,2013-08-05,Filed,,,1
+HB 7,833,House,2013-08-05,"Referred to Transportation Funding, Select",,38,3
+HB 7,833,House,2013-08-05,Read first time,,38,2
+HB 7,833,House,2013-07-31,Filed,,,1
+HR 7,833,House,2013-08-06,Reported enrolled,,,4
+HR 7,833,House,2013-08-05,Adopted,,9,3
+HR 7,833,House,2013-08-05,Rules suspended,,9,2
+HR 7,833,House,2013-08-05,Filed,,,1
+HR 8,833,House,2013-08-06,Reported enrolled,,,4
+HR 8,833,House,2013-08-05,Adopted,,9,3
+HR 8,833,House,2013-08-05,Rules suspended,,9,2
+HR 8,833,House,2013-08-05,Filed,,,1
+HB 23,833,House,2013-08-05,Filed,,,1
+HR 10,833,House,2013-08-06,Reported enrolled,,,4
+HR 10,833,House,2013-08-05,Adopted,,9,3
+HR 10,833,House,2013-08-05,Rules suspended,,9,2
+HR 10,833,House,2013-08-05,Filed,,,1
+HB 1,833,Executive,2013-08-07,Effective on adoption of const. amendment,,,104
+HB 1,833,Executive,2013-08-07,Signed by the Governor,,41,103
+HB 1,833,Executive,2013-08-07,Sent to the Governor,,41,102
+HB 1,833,Executive,2013-08-06,Sent to the Comptroller,,41,101
+HB 1,833,Senate,2013-08-06,Signed in Senate-Art III Sec 49a Tx. Const.,,16,100
+HB 1,833,House,2013-08-05,Signed in the House,,39,99
+HB 1,833,House,2013-08-05,Reported enrolled,,41,98
+HB 1,833,Senate,2013-08-05,House concurs in Senate amendment(s)-reported,,16,97
+HB 1,833,House,2013-08-05,Text of Senate Amendment(s),,32,96
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,33,95
+HB 1,833,House,2013-08-05,Subject to Art.III Sec.49a Tx. Constitution,,33,94
+HB 1,833,House,2013-08-05,Record vote,RV#16,32,93
+HB 1,833,House,2013-08-05,House concurs in Senate amendment(s),,32,92
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,32,91
+HB 1,833,House,2013-08-05,Record vote,RV#15,31,90
+HB 1,833,House,2013-08-05,Rules suspended,,31,89
+HB 1,833,House,2013-08-05,Senate passage as amended reported,,40,88
+HB 1,833,Senate,2013-08-05,Record vote,,13,87
+HB 1,833,Senate,2013-08-05,Passed,,13,86
+HB 1,833,Senate,2013-08-05,Read 3rd time,,13,85
+HB 1,833,Senate,2013-08-05,Record vote,,13,84
+HB 1,833,Senate,2013-08-05,Three day rule suspended,,13,83
+HB 1,833,Senate,2013-08-05,Vote recorded in Journal,,13,82
+HB 1,833,Senate,2013-08-05,Passed to 3rd reading,,13,81
+HB 1,833,Senate,2013-08-05,Record vote,,13,80
+HB 1,833,Senate,2013-08-05,Amendment tabled,,13,79
+HB 1,833,Senate,2013-08-05,Amendment(s) offered,FA1 Uresti,12,78
+HB 1,833,Senate,2013-08-05,Read 2nd time,,12,77
+HB 1,833,Senate,2013-08-05,Laid before the Senate,,11,76
+HB 1,833,Senate,2013-08-05,Record vote,,11,75
+HB 1,833,Senate,2013-08-05,Ordered not printed,,11,74
+HB 1,833,Senate,2013-08-05,Reported favorably as substituted,,18,73
+HB 1,833,Senate,2013-08-05,Considered in public hearing,,,72
+HB 1,833,Senate,2013-08-05,Scheduled for public hearing on  . . .,,,71
+HB 1,833,Senate,2013-08-05,Posting rule suspended,,10,70
+HB 1,833,Senate,2013-08-05,Referred to Finance,,10,69
+HB 1,833,Senate,2013-08-05,Read first time,,10,68
+HB 1,833,Senate,2013-08-05,Received from the House,,10,67
+HB 1,833,House,2013-08-05,Reported engrossed,,41,66
+HB 1,833,House,2013-08-05,Rules suspended,,28,65
+HB 1,833,House,2013-08-05,Subject to Art.III Sec.49a Tx. Constitution,,28,64
+HB 1,833,House,2013-08-05,Record vote,RV#13,27,63
+HB 1,833,House,2013-08-05,Passed,,27,62
+HB 1,833,House,2013-08-05,Read 3rd time,,27,61
+HB 1,833,House,2013-08-05,Record vote,RV#12,27,60
+HB 1,833,House,2013-08-05,Constitutional three day rule suspended,,27,59
+HB 1,833,House,2013-08-05,Record vote,RV#11,26,58
+HB 1,833,House,2013-08-05,Passed to engrossment as amended,,26,57
+HB 1,833,House,2013-08-05,Statement of Leg. Intent Recorded in Journal,,26,56
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,26,55
+HB 1,833,House,2013-08-05,Record vote,RV#10,25,54
+HB 1,833,House,2013-08-05,Motion to reconsider fails,8-Deshotel,25,53
+HB 1,833,House,2013-08-05,Amendment tabled,18-C. Turner,24,52
+HB 1,833,House,2013-08-05,Amendment withdrawn,17-Toth,24,51
+HB 1,833,House,2013-08-05,Amendment withdrawn,16-McClendon,23,50
+HB 1,833,House,2013-08-05,Amendment withdrawn,15-C. Turner,22,49
+HB 1,833,House,2013-08-05,Amendment withdrawn,14-Isaac,22,48
+HB 1,833,House,2013-08-05,Amendment withdrawn,13-Isaac,21,47
+HB 1,833,House,2013-08-05,Amendment withdrawn,12-Lavender,20,46
+HB 1,833,House,2013-08-05,Amended,11-Lavender,20,45
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,20,44
+HB 1,833,House,2013-08-05,Record vote,RV#9,19,43
+HB 1,833,House,2013-08-05,Motion to table fails,11-Lavender,19,42
+HB 1,833,House,2013-08-05,Amendment(s) offered,11-Lavender,18,41
+HB 1,833,House,2013-08-05,Amendment tabled,9-Lavender,18,40
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,18,39
+HB 1,833,House,2013-08-05,Record vote,RV#8,17,38
+HB 1,833,House,2013-08-05,Amendment to amendment tabled,10-Lavender,17,37
+HB 1,833,House,2013-08-05,Amendment(s) offered,9-Lavender,17,36
+HB 1,833,House,2013-08-05,Amended,8-Deshotel,16,35
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,16,34
+HB 1,833,House,2013-08-05,Record vote,RV#7,16,33
+HB 1,833,House,2013-08-05,Amendment fails of adoption,"7-T. King, Guillen, and Hilderbran",16,32
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,16,31
+HB 1,833,House,2013-08-05,Record vote,RV#6,15,30
+HB 1,833,House,2013-08-05,Motion to table fails,,15,29
+HB 1,833,House,2013-08-05,Amendment(s) offered,"7-T. King, Guillen, and Hilderbran",15,28
+HB 1,833,House,2013-08-05,Record vote,RV#5,14,27
+HB 1,833,House,2013-08-05,Amended,6-Pickett,14,26
+HB 1,833,House,2013-08-05,Amended,2-Pickett,14,25
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,14,24
+HB 1,833,House,2013-08-05,Record vote,RV#4,13,23
+HB 1,833,House,2013-08-05,Amendment to amendment tabled,4-S. Turner,13,22
+HB 1,833,House,2013-08-05,Substitute amendment to amendment adopted,5-S. Turner,12,21
+HB 1,833,House,2013-08-05,Amendment to amendment offered,4-S. Turner,12,20
+HB 1,833,House,2013-08-05,Statement(s) of vote recorded in Journal,,12,19
+HB 1,833,House,2013-08-05,Record vote,RV#3,11,18
+HB 1,833,House,2013-08-05,Amendment to amendment tabled,3-Simpson,11,17
+HB 1,833,House,2013-08-05,Amendment(s) offered,"2-Pickett, Harper-Brown, Toth, Simmons, Isaac, Klick, Capriglione, Villalba, Krause, Hughes, More",10,16
+HB 1,833,House,2013-08-05,Amended,1-Pickett,10,15
+HB 1,833,House,2013-08-05,Read 2nd time,,10,14
+HB 1,833,House,2013-08-05,Placed on Major State Calendar,,,13
+HB 1,833,House,2013-08-04,Considered in Calendars,,,12
+HB 1,833,House,2013-08-02,Committee report sent to Calendars,,,11
+HB 1,833,House,2013-08-02,Committee report distributed,,,10
+HB 1,833,House,2013-08-02,Comte report filed with Committee Coordinator,,40,9
+HB 1,833,House,2013-08-01,Reported favorably as substituted,,,8
+HB 1,833,House,2013-08-01,Testimony taken/registration(s) recorded in committee,,,7
+HB 1,833,House,2013-08-01,Committee substitute considered in committee,,,6
+HB 1,833,House,2013-08-01,Considered in public hearing,,,5
+HB 1,833,House,2013-08-01,Scheduled for public hearing on . . .,,,4
+HB 1,833,House,2013-07-30,"Referred to Transportation Funding, Select",,4,3
+HB 1,833,House,2013-07-30,Read first time,,4,2
+HB 1,833,House,2013-07-30,Filed,,,1
+HB 14,833,House,2013-08-01,Filed,,,1
+HR 5,833,House,2013-08-06,Reported enrolled,,,4
+HR 5,833,House,2013-08-05,Adopted,,9,3
+HR 5,833,House,2013-08-05,Rules suspended,,9,2
+HR 5,833,House,2013-08-05,Filed,,,1
+HB 8,833,House,2013-08-05,"Referred to Transportation Funding, Select",,39,3
+HB 8,833,House,2013-08-05,Read first time,,39,2
+HB 8,833,House,2013-07-31,Filed,,,1
+HB 22,833,House,2013-08-05,Filed,,,1
+HB 24,833,House,2013-08-05,Filed,,,1
+HR 9,833,House,2013-08-05,Reported enrolled,,,4
+HR 9,833,House,2013-08-05,Adopted,,9,3
+HR 9,833,House,2013-08-05,Rules suspended,,9,2
+HR 9,833,House,2013-08-01,Filed,,,1
+HR 2,833,House,2013-08-06,Reported enrolled,,,4
+HR 2,833,House,2013-08-05,Adopted,,8,3
+HR 2,833,House,2013-08-05,Rules suspended,,8,2
+HR 2,833,House,2013-08-05,Filed,,,1
+HR 3,833,House,2013-08-06,Reported enrolled,,,4
+HR 3,833,House,2013-08-05,Adopted,,8,3
+HR 3,833,House,2013-08-05,Rules suspended,,8,2
+HR 3,833,House,2013-08-05,Filed,,,1
+HB 15,833,House,2013-08-05,"Referred to Transportation Funding, Select",,39,3
+HB 15,833,House,2013-08-05,Read first time,,39,2
+HB 15,833,House,2013-08-01,Filed,,,1
+HB 16,833,House,2013-08-05,"Referred to Transportation Funding, Select",,39,3
+HB 16,833,House,2013-08-05,Read first time,,39,2
+HB 16,833,House,2013-08-01,Filed,,,1
+HB 25,833,House,2013-08-05,Filed,,,1
+HB 17,833,House,2013-08-05,"Referred to Transportation Funding, Select",,39,3
+HB 17,833,House,2013-08-05,Read first time,,39,2
+HB 17,833,House,2013-08-01,Filed,,,1
+HR 4,833,House,2013-08-05,Reported enrolled,,,4
+HR 4,833,House,2013-08-05,Adopted,,8,3
+HR 4,833,House,2013-08-05,Rules suspended,,8,2
+HR 4,833,House,2013-08-05,Filed,,,1
+HJR 1,833,House,2013-08-05,Laid on the table subject to call,,30,14
+HJR 1,833,House,2013-08-05,Companion considered in lieu of,SJR 1,28,13
+HJR 1,833,House,2013-08-05,Placed on Constitutional Amendments Calendar,,,12
+HJR 1,833,House,2013-08-04,Considered in Calendars,,,11
+HJR 1,833,House,2013-08-02,Committee report sent to Calendars,,,10
+HJR 1,833,House,2013-08-02,Committee report distributed,,,9
+HJR 1,833,House,2013-08-02,Comte report filed with Committee Coordinator,,40,8
+HJR 1,833,House,2013-08-01,Reported favorably w/o amendment(s),,,7
+HJR 1,833,House,2013-08-01,Testimony taken/registration(s) recorded in committee,,,6
+HJR 1,833,House,2013-08-01,Considered in public hearing,,,5
+HJR 1,833,House,2013-08-01,Scheduled for public hearing on . . .,,,4
+HJR 1,833,House,2013-07-30,"Referred to Transportation Funding, Select",,4,3
+HJR 1,833,House,2013-07-30,Read first time,,4,2
+HJR 1,833,House,2013-07-30,Filed,,,1

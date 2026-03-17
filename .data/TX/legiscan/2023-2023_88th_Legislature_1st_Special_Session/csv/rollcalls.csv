@@ -1,0 +1,32 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1769218,1335901,2023-05-30,House,"Adopted RV#3",143,0,0,6,149
+1769220,1344416,2023-05-30,Senate,"Three day rule suspended",31,0,0,0,31
+1769220,1344417,2023-05-30,Senate,"Read 3rd time",31,0,0,0,31
+1769267,1344423,2023-05-30,Senate,"Three day rule suspended",31,0,0,0,31
+1769267,1344424,2023-05-30,Senate,"Read 3rd time",31,0,0,0,31
+1769272,1335911,2023-05-30,House,"Constitutional three day rule suspended RV#4",143,0,1,5,149
+1769272,1335912,2023-05-30,House,"Read 3rd time RV#6",90,53,1,5,149
+1769272,1344499,2023-06-07,Senate,"Rules suspended-Regular order of business",17,12,0,2,31
+1769272,1344500,2023-06-07,Senate,"Read 2nd time & passed to 3rd reading",17,12,0,2,31
+1769272,1344501,2023-06-07,Senate,"Rules suspended-Regular order of business",27,2,0,2,31
+1769272,1344502,2023-06-07,Senate,"Vote recorded in Journal",31,0,0,0,31
+1769293,1335913,2023-05-30,House,"Constitutional three day rule suspended RV#4",143,0,1,5,149
+1769293,1335914,2023-05-30,House,"Read 3rd time RV#5",144,0,0,5,149
+1769322,1344430,2023-06-07,Senate,"Rules suspended-Regular order of business",17,12,0,2,31
+1769322,1344431,2023-06-07,Senate,"Amendment fails of adoption",12,17,0,2,31
+1769322,1344432,2023-06-07,Senate,"Record vote",17,12,0,2,31
+1769322,1344522,2023-06-07,Senate,"Rules suspended-Regular order of business",17,12,0,2,31
+1769322,1344523,2023-06-07,Senate,"Read 3rd time",17,12,0,2,31
+1769350,1335865,2023-05-30,House,"Adopted RV#7",140,0,1,8,149
+1769497,1344404,2023-06-07,Senate,"Rules suspended-Regular order of business",17,12,0,2,31
+1769497,1344405,2023-06-07,Senate,"Amendment fails of adoption",12,17,0,2,31
+1769497,1344406,2023-06-07,Senate,"Amendment fails of adoption",12,17,0,2,31
+1769497,1344407,2023-06-07,Senate,"Amendment fails of adoption",12,17,0,2,31
+1769497,1344408,2023-06-07,Senate,"Record vote",17,12,0,2,31
+1769497,1344506,2023-06-07,Senate,"Rules suspended-Regular order of business",17,12,0,2,31
+1769497,1344507,2023-06-07,Senate,"Read 3rd time",17,12,0,2,31
+1772303,1345778,2023-06-20,Senate,"Three day rule suspended",31,0,0,0,31
+1772303,1345779,2023-06-20,Senate,"Read 3rd time",31,0,0,0,31
+1770609,1345129,2023-06-07,Senate,"Read & adopted",27,2,0,2,31
+1772557,1347476,2023-06-21,Senate,Adopted,31,0,0,0,31
+1772560,1347478,2023-06-21,Senate,Adopted,31,0,0,0,31

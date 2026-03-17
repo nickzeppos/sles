@@ -1,0 +1,32 @@
+bill_id,session,chamber,action_date,action,order,comm_order,vote
+SCR0301,2024S1,J,2024-12-12,JSSCWF Committee ~ Work Session: Heard and Reported Out,,1,
+SCR0301,2024S1,S,2024-12-12,Introduction and first reading. Referred to President's desk.,1,,
+SCR0301,2024S1,S,2024-12-12,Referred to Wildfire Funding.,2,,
+SCR0301,2024S1,S,2024-12-12,Work Session held.,3,,
+SCR0301,2024S1,S,2024-12-12,Recommendation: Do adopt.,4,,
+SCR0301,2024S1,S,2024-12-12,Rules suspended. Second reading.,5,,
+SCR0301,2024S1,S,2024-12-12,Rules suspended. Final reading.  Carried by Hansell.  Adopted.,6,,"Ayes, 25; Nays, 2--Boquist, Girod; Excused, 3--Robinson, Thatcher, Woods."
+SCR0301,2024S1,H,2024-12-12,First reading. Referred to Speaker's desk.,7,,
+SCR0301,2024S1,H,2024-12-12,Rules suspended. Read. Carried by Bowman. Adopted.,8,,"Ayes, 44; Excused, 15--Andersen, Cate, Cramer, Elmer, Goodwin, Hartman, Helfrich, Lewis, Nguyen D, Nguyen H, Osborne, Reschke, Scharf, Stout, Yunker."
+SCR0301,2024S1,S,2024-12-12,President signed.,9,,
+SCR0301,2024S1,H,2024-12-12,Speaker signed.,10,,
+SCR0301,2024S1,S,2024-12-13,Filed With Secretary of State.,11,,
+SB5801,2024S1,J,2024-12-12,JSSCWF Committee ~ Work Session: Heard and Reported Out,,1,
+SB5801,2024S1,S,2024-12-12,Introduction and first reading. Referred to President's desk.,1,,
+SB5801,2024S1,S,2024-12-12,Referred to Wildfire Funding.,2,,
+SB5801,2024S1,S,2024-12-12,Work Session held.,3,,
+SB5801,2024S1,S,2024-12-12,Recommendation: Do pass.,4,,
+SB5801,2024S1,S,2024-12-12,Rules suspended. Second reading.,5,,
+SB5801,2024S1,S,2024-12-12,Rules suspended. Third reading.  Carried by Lieber.  Passed.,6,,"Ayes, 25; Nays, 2--Boquist, Linthicum; Excused, 3--Robinson, Thatcher, Woods."
+SB5801,2024S1,S,2024-12-12,"Boquist, Hayden declared potential conflict of interest.",7,,
+SB5801,2024S1,H,2024-12-12,First reading. Referred to Speaker's desk.,8,,
+SB5801,2024S1,H,2024-12-12,Referred to Wildfire Funding.,9,,
+SB5801,2024S1,H,2024-12-12,Recommendation: Do pass.,10,,
+SB5801,2024S1,H,2024-12-12,Rules suspended. Second reading.,11,,
+SB5801,2024S1,S,2024-12-12,"Vote explanation(s) filed by Boquist, Linthicum.",12,,
+SB5801,2024S1,H,2024-12-12,Rules suspended. Third reading. Carried by Sanchez. Passed.,13,,"Ayes, 42; Nays, 2--Hieb, Holvey; Excused, 15--Andersen, Cate, Cramer, Elmer, Goodwin, Hartman, Helfrich, Lewis, Nguyen D, Nguyen H, Osborne, Reschke, Scharf, Stout, Yunker."
+SB5801,2024S1,S,2024-12-12,President signed.,14,,
+SB5801,2024S1,H,2024-12-12,Speaker signed.,15,,
+SB5801,2024S1,S,2024-12-13,Governor signed.,16,,
+SB5801,2024S1,S,2024-12-18,"Chapter 1, 2024 Laws.",17,,
+SB5801,2024S1,S,2024-12-18,"Effective date, December 13, 2024.",18,,

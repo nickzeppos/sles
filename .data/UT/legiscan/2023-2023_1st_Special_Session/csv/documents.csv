@@ -1,0 +1,17 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1764320,2808406,text,93801,application/pdf,Introduced,https://legiscan.com/UT/text/HB1001/id/2808406,https://le.utah.gov/~2023S1/bills/hbillint/HB1001.pdf
+1764320,2812318,text,79143,application/pdf,Enrolled,https://legiscan.com/UT/text/HB1001/id/2812318,https://le.utah.gov/~2023S1/bills/hbillenr/HB1001.pdf
+1764365,2808449,text,91875,application/pdf,Introduced,https://legiscan.com/UT/text/HB1002/id/2808449,https://le.utah.gov/~2023S1/bills/hbillint/HB1002.pdf
+1764365,2812533,text,79756,application/pdf,Enrolled,https://legiscan.com/UT/text/HB1002/id/2812533,https://le.utah.gov/~2023S1/bills/hbillenr/HB1002.pdf
+1764883,2809499,text,78043,application/pdf,Introduced,https://legiscan.com/UT/text/HB1003/id/2809499,https://le.utah.gov/~2023S1/bills/hbillint/HB1003.pdf
+1764883,2812175,text,65268,application/pdf,Enrolled,https://legiscan.com/UT/text/HB1003/id/2812175,https://le.utah.gov/~2023S1/bills/hbillenr/HB1003.pdf
+1764343,2808428,text,73493,application/pdf,Introduced,https://legiscan.com/UT/text/HJR101/id/2808428,https://le.utah.gov/~2023S1/bills/hbillint/HJR101.pdf
+1764343,2811442,text,74926,application/pdf,Introduced,https://legiscan.com/UT/text/HJR101/id/2811442,https://le.utah.gov/~2023S1/bills/hbillint/HJR101S01.pdf
+1764343,2812732,text,60491,application/pdf,Enrolled,https://legiscan.com/UT/text/HJR101/id/2812732,https://le.utah.gov/~2023S1/bills/hbillenr/HJR101.pdf
+1764343,182598,amendment,64576,application/pdf,"House Floor Amendment 1",https://legiscan.com/UT/amendment/HJR101/id/182598,https://le.utah.gov/~2023S1/pamend/hjr101.hfvf.01.pdf
+1764320,374153,supplement,1392257,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HB1001/id/374153,https://le.utah.gov/lfa/fnotes/2023S1/HB1001.fn.pdf
+1764365,374141,supplement,1390800,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HB1002/id/374141,https://le.utah.gov/lfa/fnotes/2023S1/HB1002.fn.pdf
+1764883,374554,supplement,1392187,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HB1003/id/374554,https://le.utah.gov/lfa/fnotes/2023S1/HB1003.fn.pdf
+1764343,374149,supplement,86554,application/pdf,Analysis,https://legiscan.com/UT/supplement/HJR101/id/374149,https://le.utah.gov/~2023S1/bills/hbillint/HJR101S01_ComparedWith_HJR101.pdf
+1764343,374150,supplement,1390866,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HJR101/id/374150,https://le.utah.gov/lfa/fnotes/2023S1/HJR101.fn.pdf
+1764343,374148,supplement,1390878,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HJR101/id/374148,https://le.utah.gov/lfa/fnotes/2023S1/HJR101S01.fn.pdf

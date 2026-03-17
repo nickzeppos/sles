@@ -1,0 +1,353 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1688026,1240416,2023-02-01,House,"House  Amendment 1 rejected - 23 YEAS to 128 NAYS",23,128,3,6,160
+1688026,1240417,2023-02-01,House,"House  Amendment 2 rejected - 22 YEAS to 129 NAYS",22,129,3,6,160
+1688026,1240418,2023-02-01,House,"House  Report accepted - 129 YEAS to 22 NAYS",129,22,3,6,160
+1688306,1240503,2023-02-01,House,"House  Amendment 3 rejected - 23 YEAS to 130 NAYS",23,130,0,7,160
+1688306,1240504,2023-02-01,House,"House  Amendment 9 rejected - 24 YEAS to 129 NAYS",24,129,0,7,160
+1688306,1240505,2023-02-01,House,"House  Order adopted - 153 YEAS to 0 NAYS",153,0,0,7,160
+1688701,1240413,2023-02-01,House,"House  Amendment 12 rejected - 23 YEAS to 130 NAYS",23,130,0,7,160
+1688701,1240414,2023-02-01,House,"House  Amendment 7 rejected - 23 YEAS to 130 NAYS",23,130,0,7,160
+1688701,1240415,2023-02-01,House,"House  Order adopted - 153 YEAS to 0 NAYS",153,0,0,7,160
+1692011,1247778,2023-02-09,Senate,"Senate Amendment Roll Call #11",4,35,0,0,39
+1692011,1247779,2023-02-09,Senate,"Senate Amendment Roll Call #12",3,36,0,0,39
+1692011,1247780,2023-02-09,Senate,"Senate the report Roll Call #13",39,0,0,0,39
+1692559,1247769,2023-02-09,Senate,"Senate Amendment 1 Roll Call #2",4,34,0,1,39
+1692559,1247770,2023-02-09,Senate,"Senate Amendment 2 Roll Call #3",5,33,0,1,39
+1692559,1247771,2023-02-09,Senate,"Senate Amendment 5 Roll Call #4",4,34,0,1,39
+1692559,1247772,2023-02-09,Senate,"Senate Amendment 6 Roll Call #5",4,34,0,1,39
+1692559,1247773,2023-02-09,Senate,"Senate Amendment 10 Roll Call #6",5,33,0,1,39
+1692559,1247774,2023-02-09,Senate,"Senate Amendment 23 Roll Call #7",32,6,0,1,39
+1692559,1247775,2023-02-09,Senate,"Senate Amendment 24 Roll Call #8",3,35,0,1,39
+1692559,1247776,2023-02-09,Senate,"Senate Amendment 28 Roll Call #9",4,34,0,1,39
+1692559,1247777,2023-02-09,Senate,"Senate the report Roll Call #10",37,1,0,1,39
+1722837,1265029,2023-03-01,House,"House  Consolidated amendment A adopted - 153 YEAS to 0 NAYS",153,0,0,5,158
+1722837,1265030,2023-03-01,House,"House  Passed to be engrossed - 153 YEAS to 0 NAYS",153,0,0,5,158
+1724663,1299844,2023-04-13,Senate,"Senate Shall this Reorganization Plan be approved Roll Call #17",39,0,0,1,40
+1726524,1268017,2023-03-01,House,"House  Passed to be engrossed - 153 YEAS to 0 NAYS",153,0,0,5,158
+1726524,1272336,2023-03-09,Senate,"Senate Engrossed Roll Call #14",40,0,0,0,40
+1726524,1282756,2023-03-23,Senate,"Senate Enacted Roll Call #15",39,0,0,0,39
+1733662,1350944,2023-07-27,Senate,"Senate Engrossed Roll Call #58",38,0,0,0,38
+1739473,1463332,2024-08-01,Senate,"Senate Enacted Roll Call #247",39,0,0,0,39
+1741021,1435096,2024-04-25,Senate,"Senate Enacted Roll Call #126",38,0,0,1,39
+1749401,1287278,2023-03-23,House,"House  Passed to be engrossed - 153 YEAS to 0 NAYS",153,0,0,5,158
+1749401,1289375,2023-03-30,Senate,"Senate Engrossed Roll Call #16",40,0,0,0,40
+1754647,1300370,2023-04-13,House,"House  Amendment 2 rejected - 26 YEAS to 128 NAYS",26,128,0,4,158
+1754647,1300371,2023-04-13,House,"House  Amendment 3 rejected - 25 YEAS to 129 NAYS",25,129,0,4,158
+1754647,1300372,2023-04-13,House,"House  Passed to be engrossed - 150 YEAS to 3 NAYS",150,3,0,5,158
+1754647,1344657,2023-06-15,Senate,"Senate Engrossed Roll Call #55",39,0,0,0,39
+1760451,1333312,2023-05-25,Senate,"Senate Engrossed Roll Call #49",40,0,0,0,40
+1764181,1330941,2023-05-23,Senate,"Senate Amendment 16 Roll Call #18",40,0,0,0,40
+1764181,1330942,2023-05-23,Senate,"Senate Amendment 189 Roll Call #19",39,0,0,0,39
+1764181,1330943,2023-05-23,Senate,"Senate Amendment 245 Roll Call #20",39,0,0,0,39
+1764181,1330944,2023-05-23,Senate,"Senate Amendment 381 Roll Call #21",39,0,0,0,39
+1764181,1330945,2023-05-23,Senate,"Senate Amendment 394 Roll Call #22",39,0,0,0,39
+1764181,1330946,2023-05-23,Senate,"Senate Amendment 437 Roll Call #23",39,0,0,0,39
+1764181,1330947,2023-05-23,Senate,"Senate Amendment 490 Roll Call #24",39,0,0,0,39
+1764181,1332228,2023-05-24,Senate,"Senate Amendment 509 Roll Call #25",39,0,0,0,39
+1764181,1332229,2023-05-24,Senate,"Senate Amendment 511 Roll Call #26",39,0,0,0,39
+1764181,1332230,2023-05-24,Senate,"Senate Amendment 514 Roll Call #27",39,0,0,0,39
+1764181,1332231,2023-05-24,Senate,"Senate Amendment 561 Roll Call #28",39,0,0,0,39
+1764181,1332232,2023-05-24,Senate,"Senate Amendment 568 Roll Call #29",39,0,0,0,39
+1764181,1332233,2023-05-24,Senate,"Senate Amendment 593 Roll Call #30",39,0,0,0,39
+1764181,1332234,2023-05-24,Senate,"Senate Amendment 701 Roll Call #31",39,0,0,0,39
+1764181,1332235,2023-05-24,Senate,"Senate Amendment 688 Roll Call #32",39,0,0,0,39
+1764181,1332236,2023-05-24,Senate,"Senate Amendment 651 Roll Call #33",39,0,0,0,39
+1764181,1332237,2023-05-24,Senate,"Senate Amendment 663 Roll Call #34",39,0,0,0,39
+1764181,1332238,2023-05-24,Senate,"Senate Amendment 706 Roll Call #35",38,0,0,1,39
+1764181,1332239,2023-05-24,Senate,"Senate Amendment 768 Roll Call #36",3,37,0,0,40
+1764181,1333319,2023-05-25,Senate,"Senate Amendment 780 Roll Call #37",38,0,0,1,39
+1764181,1333320,2023-05-25,Senate,"Senate Amendment 809 Roll Call #38",5,34,0,0,39
+1764181,1333321,2023-05-25,Senate,"Senate Amendment 855 Roll Call #39",39,0,0,0,39
+1764181,1333322,2023-05-25,Senate,"Senate Amendment 876 Roll Call #40",39,0,0,0,39
+1764181,1333323,2023-05-25,Senate,"Senate Amendment 880 Roll Call #41",39,0,0,0,39
+1764181,1333324,2023-05-25,Senate,"Senate Amendment 2 Roll Call #42",39,0,0,0,39
+1764181,1333325,2023-05-25,Senate,"Senate Amendment 41 Roll Call #43",39,0,0,0,39
+1764181,1333326,2023-05-25,Senate,"Senate Amendment 105 Roll Call #44",4,35,0,0,39
+1764181,1333327,2023-05-25,Senate,"Senate Amendment 106 Roll Call #45",5,34,0,0,39
+1764181,1333328,2023-05-25,Senate,"Senate Amendment 107 Roll Call #46",3,36,0,0,39
+1764181,1333329,2023-05-25,Senate,"Senate Amendment 350 Roll Call #47",39,0,0,0,39
+1764181,1333330,2023-05-25,Senate,"Senate Amendment 392 Roll Call #48",39,0,0,0,39
+1768521,1419982,2024-04-03,House,"House  Enacted - 155 YEAS to 0 NAYS",155,0,0,4,159
+1768521,1425840,2024-04-11,Senate,"Senate Enacted Roll Call #125",39,0,0,0,39
+1770875,1344534,2023-06-15,Senate,"Senate Amendment 16 Roll Call #50",9,30,0,0,39
+1770875,1344535,2023-06-15,Senate,"Senate Amendment 26 Roll Call #51",33,5,0,0,38
+1770875,1344788,2023-06-15,Senate,"Senate Amendment 4 Roll Call #52",5,32,0,1,38
+1770875,1344789,2023-06-15,Senate,"Senate Amendment 7 Roll Call #53",5,33,0,0,38
+1770875,1344790,2023-06-15,Senate,"Senate Amendment 23 Roll Call #54",6,32,0,0,38
+1772703,1463310,2024-07-31,Senate,"Senate Enacted Roll Call #236",39,0,0,0,39
+1774235,1350846,2023-07-13,House,"House  Consolidated amendment A adopted - 152 YEAS to 3 NAYS",152,3,0,5,160
+1774500,1350769,2023-07-13,House,"House  Passed to be engrossed - 154 YEAS to 0 NAYS",154,0,1,5,160
+1775075,1350946,2023-07-27,Senate,"Senate Engrossed Roll Call #57",39,0,0,0,39
+1775076,1350931,2023-07-26,Senate,"Senate Engrossed Roll Call #56",38,0,0,0,38
+1775081,1463242,2024-07-30,House,"House  Enacted - 158 YEAS to 0 NAYS",157,0,0,2,159
+1775081,1463293,2024-07-31,Senate,"Senate Concur on Initial Committee Reference Roll Call #227",39,0,0,0,39
+1775216,1350958,2023-07-27,Senate,"Senate Enacted Roll Call #59",38,0,0,0,38
+1775764,1350980,2023-07-31,Senate,"Senate conference committee report Roll Call #60",39,0,0,0,39
+1775764,1350981,2023-07-31,Senate,"Senate Enacted Roll Call #61",39,0,0,0,39
+1775764,1355832,2023-10-05,Senate,"Senate Question on passing item 1231-1000, notwithstanding the objections of the Governor Roll Call #64",38,0,0,0,38
+1775764,1355833,2023-10-05,Senate,"Senate Question on passing item 1595-0115, notwithstanding the objections of the Governor Roll Call #65",38,0,0,0,38
+1775764,1355834,2023-10-05,Senate,"Senate Question on passing item 3000-1042, notwithstanding the objections of the Governor Roll Call #66",38,0,0,0,38
+1775764,1355835,2023-10-05,Senate,"Senate Question on passing item 3000-5000, notwithstanding the objections of the Governor Roll Call #67",38,0,0,0,38
+1775764,1355836,2023-10-05,Senate,"Senate Question on passing item 3000-7052, notwithstanding the objections of the Governor Roll Call #68",37,1,0,0,38
+1775764,1355837,2023-10-05,Senate,"Senate Question on passing item 4405-2000, notwithstanding the objections of the Governor Roll Call #69",38,0,0,0,38
+1775764,1355838,2023-10-05,Senate,"Senate Question on passing item 4510-0811, notwithstanding the objections of the Governor Roll Call #70",38,0,0,0,38
+1775764,1355839,2023-10-05,Senate,"Senate Question on passing item 4512-2022, notwithstanding the objections of the Governor Roll Call #71",37,1,0,0,38
+1775764,1355840,2023-10-05,Senate,"Senate Question on passing item 4513-1027, notwithstanding the objections of the Governor Roll Call #72",38,0,0,0,38
+1775764,1355841,2023-10-05,Senate,"Senate Question on passing item 4590-0915, notwithstanding the objections of the Governor Roll Call #73",37,1,0,0,38
+1775764,1355842,2023-10-05,Senate,"Senate Question on passing item 4590-0925, notwithstanding the objections of the Governor Roll Call #74",38,0,0,0,38
+1775764,1355843,2023-10-05,Senate,"Senate Question on passing item 4800-0200, notwithstanding the objections of the Governor Roll Call #75",38,0,0,0,38
+1775764,1355844,2023-10-05,Senate,"Senate Question on passing item 7002-0025, notwithstanding the objections of the Governor Roll Call #76",37,1,0,0,38
+1775764,1355845,2023-10-05,Senate,"Senate Question on passing item 7002-2022, notwithstanding the objections of the Governor Roll Call #77",38,0,0,0,38
+1775764,1355846,2023-10-05,Senate,"Senate Question on passing item 7003-1206, notwithstanding the objections of the Governor Roll Call #78",37,1,0,0,38
+1775764,1355847,2023-10-05,Senate,"Senate Question on passing item 7004-0102, notwithstanding the objections of the Governor Roll Call #79",38,0,0,0,38
+1775764,1355848,2023-10-05,Senate,"Senate Question on passing item 7004-0104, notwithstanding the objections of the Governor Roll Call #80",37,1,0,0,38
+1775764,1355849,2023-10-05,Senate,"Senate Question on passing item 7004-3036, notwithstanding the objections of the Governor Roll Call #81",38,0,0,0,38
+1775764,1355850,2023-10-05,Senate,"Senate Question on passing item 7006-0011, notwithstanding the objections of the Governor Roll Call #82",37,1,0,0,38
+1775764,1355851,2023-10-05,Senate,"Senate Question on passing item 7006-0071, notwithstanding the objections of the Governor Roll Call #83",37,1,0,0,38
+1775764,1355852,2023-10-05,Senate,"Senate Question on passing item 7007-0150, notwithstanding the objections of the Governor Roll Call #84",38,0,0,0,38
+1775764,1355853,2023-10-05,Senate,"Senate Question on passing item 7035-0035, notwithstanding the objections of the Governor Roll Call #85",37,1,0,0,38
+1775764,1355854,2023-10-05,Senate,"Senate Question on passing item 8000-0655, notwithstanding the objections of the Governor Roll Call #86",37,1,0,0,38
+1775764,1355855,2023-10-05,Senate,"Senate Question on passing item 8000-1127, notwithstanding the objections of the Governor Roll Call #87",38,0,0,0,38
+1775849,1463299,2024-07-31,Senate,"Senate Enacted Roll Call #229",39,0,0,0,39
+1776419,1357142,2023-11-08,House,"House  Enacted - 158 YEAS to 0 NAYS",157,0,0,3,160
+1776419,1357610,2023-11-14,Senate,"Senate Enacted Roll Call #91",38,0,0,0,38
+1778737,1355264,2023-09-27,House,"House  Committee of conference report accepted - 155 YEAS to 1 NAYS",155,1,0,4,160
+1778737,1355332,2023-09-28,Senate,"Senate conference committee report Roll Call #62",38,1,0,0,39
+1778737,1355333,2023-09-28,Senate,"Senate On suspension of the Rules Roll Call #63",3,33,0,2,38
+1779500,1355757,2023-10-04,House,"House  Passed to be engrossed - 148 YEAS to 8 NAYS",148,8,0,4,160
+1779500,1356308,2023-10-19,Senate,"Senate Engrossed Roll Call #88",38,1,0,0,39
+1780693,1356222,2023-10-18,House,"House  Amendment 12 adopted, as changed - 158 YEAS to 0 NAYS",158,0,0,2,160
+1780693,1356223,2023-10-18,House,"House  Decision of the Chair sustained on appeal - 132 YEAS to 27 NAYS",130,27,0,3,160
+1780693,1356224,2023-10-18,House,"House  Passed to be engrossed - 120 YEAS to 38 NAYS",120,38,0,2,160
+1780693,1356358,2023-10-18,House,"House  Amendment 42 rejected - 26 YEAS to 133 NAYS",26,133,0,1,160
+1781155,1463298,2024-07-31,Senate,"Senate Concur on Initial Committee Reference Roll Call #230",39,0,0,0,39
+1781158,1356617,2023-10-26,Senate,"Senate Engrossed Roll Call #89",38,0,0,0,38
+1781170,1356619,2023-10-26,Senate,"Senate Engrossed Roll Call #90",38,0,0,0,38
+1781195,1356302,2023-10-18,House,"House  Passed to be engrossed - 120 YEAS to 38 NAYS",120,38,0,2,160
+1781195,1373770,2024-02-01,Senate,"Senate Motion to refer to committee Roll Call #109",9,31,0,0,40
+1781195,1374168,2024-02-01,Senate,"Senate Engrossed Roll Call #114",37,3,0,0,40
+1782924,1357165,2023-11-08,House,"House  Amendment 49 rejected, as changed - 28 YEAS to 128 NAYS",28,128,0,4,160
+1782924,1357166,2023-11-08,House,"House  Consolidated amendment A adopted - 157 YEAS to 0 NAYS",157,0,0,3,160
+1782924,1357167,2023-11-08,House,"House  Passed to be engrossed - 133 YEAS to 25 NAYS",133,25,0,2,160
+1783162,1456628,2024-06-12,House,"House  Enacted - 156 YEAS to 0 NAYS",156,0,0,3,159
+1783162,1457110,2024-06-13,Senate,"Senate Enacted Roll Call #183",38,0,0,1,39
+1783176,1363982,2024-01-10,House,"House  Enacted - 150 YEAS to 0 NAYS",150,0,0,9,159
+1783176,1364106,2024-01-11,Senate,"Senate Enacted Roll Call #103",39,0,0,0,39
+1783395,1357742,2023-11-15,Senate,"Senate Amendment 36 Roll Call #97",38,0,0,0,38
+1783395,1357743,2023-11-15,Senate,"Senate Amendment 43 Roll Call #98",38,0,0,0,38
+1783478,1357301,2023-11-08,House,"House  Passed to be engrossed - 133 YEAS to 25 NAYS",133,25,0,2,160
+1783478,1357624,2023-11-14,Senate,"Senate Engrossed Roll Call #95",36,3,0,0,39
+1783710,1357646,2023-11-14,Senate,"Senate Amendment 2 Roll Call #92",3,36,0,0,39
+1783710,1357647,2023-11-14,Senate,"Senate Amendment 41 Roll Call #93",39,0,0,0,39
+1783710,1357648,2023-11-14,Senate,"Senate Amendment 44 Roll Call #94",3,36,0,0,39
+1783824,1357698,2023-11-15,House,"House  Quorum Roll Call - 153 YEAS to 0 NAYS",153,0,0,7,160
+1783867,1357716,2023-11-15,House,"House  Enacted - 156 YEAS to 0 NAYS",156,0,0,4,160
+1783867,1357766,2023-11-15,Senate,"Senate Enacted Roll Call #96",38,0,0,0,38
+1784065,1434806,2024-04-25,Senate,"Senate Enacted Roll Call #128",38,0,0,1,39
+1784200,1357774,2023-11-15,Senate,"Senate Engrossed Roll Call #99",39,0,0,0,39
+1784203,1357775,2023-11-15,House,"House  Passed to be engrossed - 158 YEAS to 0 NAYS",158,0,0,2,160
+1784203,1463185,2024-07-25,Senate,"Senate Engrossed Roll Call #223",39,0,0,0,39
+1795104,1363433,2024-01-04,Senate,"Senate Engrossed Roll Call #100",39,0,0,0,39
+1795117,1363434,2024-01-04,Senate,"Senate Engrossed Roll Call #101",39,0,0,0,39
+1795130,1363435,2024-01-04,Senate,"Senate Engrossed Roll Call #102",39,0,0,0,39
+1799925,1364039,2024-01-11,Senate,"Senate Amendment 6 Roll Call #104",38,0,0,1,39
+1799925,1364040,2024-01-11,Senate,"Senate Amendment 7 Roll Call #105",38,0,0,1,39
+1799925,1364041,2024-01-11,Senate,"Senate Engrossed Roll Call #106",39,0,0,0,39
+1801154,1363856,2024-01-10,House,"House  Amendment 2 adopted, as changed - 151 YEAS to 0 NAYS",151,0,0,8,159
+1801154,1363857,2024-01-10,House,"House  Passed to be engrossed - 151 YEAS to 0 NAYS",151,0,0,8,159
+1801154,1413169,2024-03-21,Senate,"Senate Engrossed Roll Call #117",40,0,0,0,40
+1813889,1366821,2024-01-18,Senate,"Senate Engrossed Roll Call #107",39,0,0,0,39
+1814018,1366628,2024-01-18,Senate,"Senate Engrossed Roll Call #108",39,0,0,0,39
+1814149,1398296,2024-02-28,House,"House  Passed to be engrossed - 154 YEAS to 0 NAYS",154,0,0,4,158
+1828510,1373859,2024-02-01,Senate,"Senate Amendment 3 Roll Call #110",39,0,0,0,39
+1828510,1373860,2024-02-01,Senate,"Senate Amendment 63 Roll Call #111",6,33,0,0,39
+1828510,1373861,2024-02-01,Senate,"Senate Amendment 74 Roll Call #112",37,2,0,0,39
+1828510,1374393,2024-02-01,Senate,"Senate Amendment 11 Roll Call #113",39,0,0,0,39
+1848012,1419980,2024-04-03,House,"House  Passed to be engrossed - 155 YEAS to 0 NAYS",155,0,0,4,159
+1856044,1435470,2024-04-25,Senate,"Senate Enacted Roll Call #132",38,0,0,1,39
+1859663,1404292,2024-03-06,House,"House  Amendment 15 adopted, as changed - 129 YEAS to 25 NAYS",129,25,0,4,158
+1859663,1404293,2024-03-06,House,"House  Amendment 23 adopted, as changed - 154 YEAS to 0 NAYS",154,0,0,4,158
+1859663,1404294,2024-03-06,House,"House  Amendment 24 adopted, as changed - 154 YEAS to 0 NAYS",154,0,0,4,158
+1859663,1404295,2024-03-06,House,"House  Amendment 5 adopted - 154 YEAS to 0 NAYS",154,0,0,4,158
+1859663,1404296,2024-03-06,House,"House  Amendment 7 rejected - 25 YEAS to 129 NAYS",25,129,0,4,158
+1859663,1404297,2024-03-06,House,"House  Amendment 9 rejected - 29 YEAS to 125 NAYS",29,125,0,4,158
+1859663,1404298,2024-03-06,House,"House  Passed to be engrossed - 121 YEAS to 33 NAYS",121,33,0,4,158
+1861184,1409411,2024-03-14,Senate,"Senate Amendment 32 Roll Call #115",7,32,0,0,39
+1861184,1409412,2024-03-14,Senate,"Senate Engrossed Roll Call #116",40,0,0,0,40
+1861811,1406096,2024-03-06,House,"House  Passed to be engrossed - 121 YEAS to 33 NAYS",121,33,0,4,158
+1861811,1413745,2024-03-21,Senate,"Senate Engrossed Roll Call #121",32,8,0,0,40
+1864881,1413699,2024-03-21,Senate,"Senate Amendment 5 Roll Call #118",39,0,0,0,39
+1864881,1413700,2024-03-21,Senate,"Senate Amendment 28 Roll Call #119",8,31,0,0,39
+1864881,1413701,2024-03-21,Senate,"Senate Amendment 49 Roll Call #120",12,27,0,0,39
+1867140,1416948,2024-03-28,Senate,"Senate Engrossed Roll Call #123",40,0,0,0,40
+1867180,1417126,2024-03-28,Senate,"Senate Engrossed Roll Call #122",39,0,0,0,39
+1870026,1419664,2024-04-03,House,"House  Passed to be engrossed - 155 YEAS to 0 NAYS",155,0,0,4,159
+1870026,1425348,2024-04-11,Senate,"Senate Engrossed Roll Call #124",39,0,0,0,39
+1870026,1435413,2024-04-25,Senate,"Senate Enacted Roll Call #129",38,0,0,1,39
+1870725,1463329,2024-08-01,Senate,"Senate Enacted Roll Call #244",39,0,0,0,39
+1871591,1434312,2024-04-24,House,"House  Amendment 1395 rejected - 25 YEAS to 132 NAYS",25,132,0,2,159
+1871591,1434313,2024-04-24,House,"House  Amendment 684 adopted, as changed - 157 YEAS to 0 NAYS",157,0,0,2,159
+1871591,1434314,2024-04-24,House,"House  Consolidated amendment A",156,0,0,3,159
+1871591,1434315,2024-04-24,House,"House  Consolidated amendment B",156,0,0,3,159
+1871591,1434808,2024-04-25,House,"House  Amendment 645 rejected - 29 YEAS to 127 NAYS",29,126,0,4,159
+1871591,1434809,2024-04-25,House,"House  Consolidated amendment C",157,0,0,2,159
+1871591,1434810,2024-04-25,House,"House  Consolidated amendment D",157,0,0,2,159
+1871591,1435166,2024-04-25,House,"House  Consolidated amendment E",158,0,0,1,159
+1871591,1435474,2024-04-26,House,"House  Amendment 1393 rejected - 30 YEAS to 127 NAYS",30,125,0,4,159
+1871591,1435475,2024-04-26,House,"House  Amendment 1394 rejected - 27 YEAS to 131 NAYS",27,131,0,1,159
+1871591,1435476,2024-04-26,House,"House  Amendment 698 rejected - 27 YEAS to 129 NAYS",27,129,0,3,159
+1871591,1435477,2024-04-26,House,"House  Consolidated amendment F",158,0,0,1,159
+1871591,1435695,2024-04-26,House,"House  Consolidated amendment G",157,0,0,2,159
+1871591,1435696,2024-04-26,House,"House  Passed to be engrossed - 153 YEAS to 4 NAYS",153,4,0,2,159
+1873796,1435039,2024-04-25,Senate,"Senate Engrossed Roll Call #134",38,0,0,1,39
+1873819,1434858,2024-04-25,Senate,"Senate Amendment 2 Roll Call #130",5,33,0,1,39
+1873819,1434859,2024-04-25,Senate,"Senate Engrossed Roll Call #131",34,4,0,1,39
+1874400,1434655,2024-04-25,House,"House  Committee of conference report accepted - 119 YEAS to 36 NAYS",117,36,0,6,159
+1874400,1435408,2024-04-25,Senate,"Senate conference committee report Roll Call #127",29,9,0,1,39
+1874400,1435409,2024-04-25,Senate,"Senate Enacted Roll Call #133",29,9,0,1,39
+1875094,1437179,2024-04-26,House,"House  Passed to be engrossed - 153 YEAS to 4 NAYS",153,4,0,2,159
+1875094,1449790,2024-05-23,Senate,"Senate Engrossed Roll Call #178",40,0,0,0,40
+1876880,1445560,2024-05-21,Senate,"Senate Amendment 87 Roll Call #135",39,0,0,0,39
+1876880,1445561,2024-05-21,Senate,"Senate Amendment 155 Roll Call #136",39,0,0,0,39
+1876880,1445562,2024-05-21,Senate,"Senate Amendment 188 Roll Call #137",39,0,0,0,39
+1876880,1445563,2024-05-21,Senate,"Senate Amendment 250 Roll Call #138",39,0,0,0,39
+1876880,1445564,2024-05-21,Senate,"Senate Amendment 254 Roll Call #139",39,0,0,0,39
+1876880,1445565,2024-05-21,Senate,"Senate Amendment 170 Roll Call #140",39,0,0,0,39
+1876880,1445566,2024-05-21,Senate,"Senate Amendment 359 Roll Call #141",39,0,0,0,39
+1876880,1445567,2024-05-21,Senate,"Senate Amendment 368 Roll Call #142",39,0,0,0,39
+1876880,1446932,2024-05-21,Senate,"Senate Amendment 381 Roll Call #143",39,0,0,0,39
+1876880,1447918,2024-05-22,Senate,"Senate Amendment 454 Roll Call #144",39,0,0,1,40
+1876880,1447919,2024-05-22,Senate,"Senate Amendment 490 Roll Call #145",39,0,0,0,39
+1876880,1447920,2024-05-22,Senate,"Senate Amendment 509 Roll Call #146",39,0,0,0,39
+1876880,1447921,2024-05-22,Senate,"Senate Amendment 552 Roll Call #147",39,0,0,0,39
+1876880,1447922,2024-05-22,Senate,"Senate Amendment 571 Roll Call #148",39,0,0,0,39
+1876880,1447923,2024-05-22,Senate,"Senate Amendment 841 Roll Call #149",39,0,0,0,39
+1876880,1447924,2024-05-22,Senate,"Senate Amendment 537 Roll Call #150",39,0,0,0,39
+1876880,1447925,2024-05-22,Senate,"Senate Amendment 612 Roll Call #151",39,0,0,0,39
+1876880,1447926,2024-05-22,Senate,"Senate Amendment 624 Roll Call #152",39,0,0,0,39
+1876880,1448956,2024-05-22,Senate,"Senate Amendment 389 Roll Call #153",39,0,0,0,39
+1876880,1448957,2024-05-22,Senate,"Senate Amendment 621 Roll Call #154",39,0,0,0,39
+1876880,1448958,2024-05-22,Senate,"Senate Amendment 620 Roll Call #155",39,0,0,0,39
+1876880,1448959,2024-05-22,Senate,"Senate Amendment 631 Roll Call #156",39,0,0,0,39
+1876880,1448960,2024-05-22,Senate,"Senate Amendment 803 Roll Call #158",40,0,0,0,40
+1876880,1448961,2024-05-22,Senate,"Senate Amendment 658 Roll Call #159",39,0,0,0,39
+1876880,1448962,2024-05-22,Senate,"Senate Amendment 660 Roll Call #160",39,0,0,0,39
+1876880,1448963,2024-05-22,Senate,"Senate Amendment 662 Roll Call #161",39,0,0,0,39
+1876880,1449284,2024-05-23,Senate,"Senate Amendment 699 Roll Call #162",39,0,0,0,39
+1876880,1449285,2024-05-23,Senate,"Senate Amendment 750 Roll Call #163",39,0,0,0,39
+1876880,1449286,2024-05-23,Senate,"Senate Amendment 755 Roll Call #164",39,0,0,0,39
+1876880,1449287,2024-05-23,Senate,"Senate Amendment 785 Roll Call #165",39,0,0,0,39
+1876880,1449288,2024-05-23,Senate,"Senate Amendment 810 Roll Call #166",5,34,0,0,39
+1876880,1449289,2024-05-23,Senate,"Senate Amendment 832 Roll Call #167",10,29,0,0,39
+1876880,1449801,2024-05-23,Senate,"Senate Amendment 901 Roll Call #168",39,0,0,0,39
+1876880,1449802,2024-05-23,Senate,"Senate Amendment 944 Roll Call #169",39,0,0,0,39
+1876880,1449803,2024-05-23,Senate,"Senate Amendment 973 Roll Call #170",39,0,0,0,39
+1876880,1449804,2024-05-23,Senate,"Senate Amendment 101 Roll Call #171",39,0,0,0,39
+1876880,1449805,2024-05-23,Senate,"Senate Amendment 118 Roll Call #172",4,35,0,0,39
+1876880,1449806,2024-05-23,Senate,"Senate Amendment 802 Roll Call #173",39,0,0,0,39
+1876880,1449807,2024-05-23,Senate,"Senate Amendment 134 Roll Call #174",39,0,0,0,39
+1876880,1449808,2024-05-23,Senate,"Senate Amendment 396 Roll Call #176",40,0,0,0,40
+1876880,1449809,2024-05-23,Senate,"Senate Amendment Roll Call #177",30,9,0,0,39
+1878211,1444660,2024-05-16,House,"House  Passed to be engrossed - 152 YEAS to 1 NAYS",152,1,0,6,159
+1878228,1445443,2024-05-15,House,"House  Consolidated amendment A adopted - 152 YEAS to 2 NAYS",152,2,0,5,159
+1878530,1463295,2024-07-31,Senate,"Senate Enacted Roll Call #231",39,0,0,0,39
+1879280,1463130,2024-07-18,Senate,"Senate Engrossed Roll Call #214",38,2,0,0,40
+1879738,1449283,2024-05-22,House,"House  Consolidated amendment A adopted -154 YEAS to 0 NAYS",154,0,0,5,159
+1880157,1457256,2024-06-13,Senate,"Senate Engrossed Roll Call #182",38,0,0,1,39
+1880527,1456708,2024-06-12,House,"House  Passed to be engrossed - 156 YEAS to 0 NAYS",156,0,0,3,159
+1881230,1454009,2024-06-05,House,"House  Amendment 129 rejected - 32 YEAS to 126 NAYS",32,126,0,1,159
+1881230,1454010,2024-06-05,House,"House  Amendment 173 adopted, as changed - 158 YEAS to 0 NAYS",158,0,0,1,159
+1881230,1454011,2024-06-05,House,"House  Amendment 29 rejected - 27 YEAS to 131 NAYS",27,130,0,2,159
+1881230,1454446,2024-06-05,House,"House  Amendment 348 rejected - 30 YEAS to 127 NAYS",30,127,0,2,159
+1881230,1454447,2024-06-05,House,"House  Consolidated amendment A adopted - 130 YEAS to 28 NAYS",130,28,0,1,159
+1881230,1454448,2024-06-05,House,"House  Consolidated amendment B adopted - 133 YEAS to 25 NAYS",133,25,0,1,159
+1881230,1454449,2024-06-05,House,"House  Consolidated amendment C adopted - 153 YEAS to 5 NAYS",153,5,0,1,159
+1881230,1454450,2024-06-05,House,"House  Passed to be engrossed - 145 YEAS to 13 NAYS",145,13,0,1,159
+1881586,1463290,2024-07-31,House,"House  Enacted - 158 YEAS to 0 NAYS",155,0,0,4,159
+1881586,1463306,2024-07-31,Senate,"Senate Enacted Roll Call #232",39,0,0,0,39
+1881750,1461309,2024-06-27,Senate,"Senate Engrossed Roll Call #197",40,0,0,0,40
+1882057,1457207,2024-06-13,Senate,"Senate Amendment 3 Roll Call #180",38,0,0,1,39
+1882057,1457208,2024-06-13,Senate,"Senate Amendment 13 Roll Call #181",38,0,0,1,39
+1882110,1457586,2024-06-13,House,"House  Amendment 33 adopted, as changed - 153 YEAS to 0 NAYS",153,0,0,6,159
+1882277,1463169,2024-07-24,Senate,"Senate Engrossed Roll Call #216",40,0,0,0,40
+1882293,1456605,2024-06-12,House,"House  Committee of conference report accepted - 156 YEAS to 0 NAYS",156,0,0,3,159
+1882293,1457118,2024-06-13,Senate,"Senate conference committee report Roll Call #179",38,0,0,1,39
+1882419,1457635,2024-06-12,House,"House  Passed to be engrossed - 156 YEAS to 0 NAYS",156,0,0,3,159
+1882419,1463222,2024-07-30,Senate,"Senate Engrossed Roll Call #224",40,0,0,0,40
+1882562,1457587,2024-06-13,House,"House  Passed to be engrossed - 153 YEAS to 0 NAYS",153,0,0,6,159
+1882609,1459793,2024-06-25,Senate,"Senate Amendment 65 Roll Call #187",1,38,0,0,39
+1882609,1459794,2024-06-25,Senate,"Senate Amendment 96 Roll Call #188",1,39,0,0,40
+1882609,1459795,2024-06-25,Senate,"Senate Amendment 105 Roll Call #189",2,38,0,0,40
+1882609,1459796,2024-06-25,Senate,"Senate Amendment 113 Roll Call #190",39,0,0,0,39
+1882609,1460131,2024-06-25,Senate,"Senate Amendment 70 Roll Call #191",39,0,0,0,39
+1882609,1460132,2024-06-25,Senate,"Senate Engrossed Roll Call #192",38,2,0,0,40
+1882639,1458630,2024-06-20,Senate,"Senate Amendment 1 Roll Call #184",8,30,0,1,39
+1882639,1458631,2024-06-20,Senate,"Senate Amendment 20 Roll Call #185",4,35,0,0,39
+1882639,1458739,2024-06-20,Senate,"Senate Engrossed Roll Call #186",38,2,0,0,40
+1883073,1458855,2024-06-20,House,"House  Passed to be engrossed - 153 YEAS to 0 NAYS",153,0,0,6,159
+1883073,1463267,2024-07-30,Senate,"Senate Engrossed Roll Call #226",40,0,0,0,40
+1883154,1461127,2024-06-27,Senate,"Senate Amendment 1 Roll Call #193",39,0,0,0,39
+1883154,1461314,2024-06-27,Senate,"Senate Amendment 25 Roll Call #194",6,34,0,0,40
+1883154,1461315,2024-06-27,Senate,"Senate Amendment 5 Roll Call #196",39,0,0,0,39
+1883178,1461067,2024-06-27,House,"House  Amendment 385 adopted, as changed - 154 YEAS to 2 NAYS",152,2,0,5,159
+1883178,1461068,2024-06-27,House,"House  Consolidated amendment A adopted - 132 YEAS to 24 NAYS",132,24,0,3,159
+1883178,1461296,2024-06-27,House,"House  Consolidated amendment B adopted - 154 YEAS to 3 NAYS",154,3,0,2,159
+1883178,1461297,2024-06-27,House,"House  Consolidated amendment C adopted - 157 YEAS to 0 NAYS",157,0,0,2,159
+1883178,1461298,2024-06-27,House,"House  Passed to be engrossed - 155 YEAS to 2 NAYS",155,2,0,2,159
+1883298,1460205,2024-06-26,House,"House  Consolidated amendment A adopted - 154 YEAS to 0 NAYS",154,0,0,5,159
+1883298,1460206,2024-06-26,House,"House  Passed to be engrossed - 153 YEAS to 1 NAYS",153,1,0,5,159
+1883303,1460266,2024-06-26,House,"House  Passed to be engrossed - 154 YEAS to 0 NAYS",154,0,0,5,159
+1883622,1463137,2024-06-26,House,"House  Passed to be engrossed - 153 YEAS to 1 NAYS",153,1,0,5,159
+1883622,1463170,2024-07-24,Senate,"Senate Engrossed Roll Call #219",38,1,0,0,39
+1883636,1463147,2024-07-24,Senate,"Senate Enacted Roll Call #218",39,0,0,0,39
+1883738,1463035,2024-07-11,Senate,"Senate Engrossed Roll Call #202",40,0,0,0,40
+1883898,1463107,2024-07-17,House,"House  Passed to be engrossed - 131 YEAS to 25 NAYS",131,25,0,3,159
+1884104,1462986,2024-07-11,Senate,"Senate Amendment 474 Roll Call #198",31,9,0,0,40
+1884104,1462987,2024-07-11,Senate,"Senate Amendment 34 Roll Call #199",35,4,0,0,39
+1884104,1463050,2024-07-11,Senate,"Senate Amendment 6 Roll Call #200",6,33,0,0,39
+1884104,1463051,2024-07-11,Senate,"Senate Amendment 27 Roll Call #201",5,34,0,0,39
+1884197,1463110,2024-07-10,House,"House Passed to be engrossed - 159 YEAS to 0 NAYS",159,0,0,0,159
+1884493,1463108,2024-07-18,Senate,"Senate Amendment 37 Roll Call #203",39,0,0,0,39
+1884493,1463109,2024-07-18,Senate,"Senate Amendment 104 Roll Call #204",7,32,0,0,39
+1884493,1463132,2024-07-18,Senate,"Senate Amendment 146 Roll Call #209",10,30,0,0,40
+1884493,1463133,2024-07-18,Senate,"Senate Amendment 153 Roll Call #210",14,25,0,0,39
+1884493,1463134,2024-07-18,Senate,"Senate Amendment 158 Roll Call #211",7,32,0,0,39
+1884493,1463135,2024-07-18,Senate,"Senate Amendment 161 Roll Call #212",9,30,0,0,39
+1884493,1463136,2024-07-18,Senate,"Senate Amendment 3 Roll Call #213",6,33,0,0,39
+1884543,1463297,2024-07-31,House,"House  Enacted - 155 YEAS to 0 NAYS",155,0,0,4,159
+1884543,1463311,2024-07-31,Senate,"Senate Enacted Roll Call #235",39,0,0,0,39
+1884557,1463125,2024-07-18,Senate,"Senate On suspension of the Rules Roll Call #205",35,5,0,0,40
+1884557,1463126,2024-07-18,Senate,"Senate Motion to postpone Roll Call #206",5,35,0,0,40
+1884557,1463127,2024-07-18,Senate,"Senate Motion to have Clerk read Bill Roll Call #207",6,34,0,0,40
+1884557,1463128,2024-07-18,Senate,"Senate conference committee report Roll Call #208",35,5,0,0,40
+1884634,1463138,2024-07-19,Senate,"Senate conference committee report Roll Call #215",40,0,0,0,40
+1884637,1463171,2024-07-24,Senate,"Senate conference committee report Roll Call #217",38,2,0,0,40
+1884638,1463144,2024-07-24,House,"House  Committee of conference report accepted - 154 YEAS to 2 NAYS",154,2,0,3,159
+1884638,1463172,2024-07-24,Senate,"Senate Enacted Roll Call #220",39,0,0,0,39
+1884642,1463197,2024-07-24,House,"House  Consolidated amendment A adopted - 158 YEAS to 0 NAYS",158,0,0,1,159
+1884647,1463186,2024-07-25,Senate,"Senate Amendment 51 Roll Call #221",39,0,0,0,39
+1884647,1463187,2024-07-25,Senate,"Senate Amendment 53 Roll Call #222",39,0,0,0,39
+1884873,1463331,2024-08-01,Senate,"Senate Enacted Roll Call #248",39,0,0,0,39
+1884877,1463204,2024-07-25,House,"House  Passed to be engrossed - 159 YEAS to 0 NAYS",159,0,0,0,159
+1884884,1463202,2024-07-25,House,"House  Passed to be engrossed - 159 YEAS to 0 NAYS",159,0,0,0,159
+1884884,1463309,2024-07-31,Senate,"Senate Engrossed Roll Call #228",39,0,0,0,39
+1884886,1463196,2024-07-25,House,"House  Passed to be engrossed - 159 YEAS to 0 NAYS",159,0,0,0,159
+1884890,1463198,2024-07-25,House,"House  Passed to be engrossed - 157 YEAS to 0 NAYS",157,0,0,2,159
+1884893,1463330,2024-08-01,Senate,"Senate Enacted Roll Call #245",39,0,0,0,39
+1885153,1463263,2024-07-30,Senate,"Senate Amendment Roll Call #225",38,0,0,1,39
+1885166,1463312,2024-08-01,Senate,"Senate Enacted Roll Call #242",39,0,0,0,39
+1885193,1463307,2024-07-31,Senate,"Senate Enacted Roll Call #237",39,0,0,0,39
+1885197,1463289,2024-07-31,House,"House  Governor's amendment adopted - 158 YEAS to 0 NAYS",157,0,0,2,159
+1885199,1463291,2024-07-31,House,"House  Governor's amendment adopted - 158 YEAS to 0 NAYS",155,0,0,4,159
+1885201,1463232,2024-07-30,House,"House  Passed to be engrossed - 132 YEAS to 24 NAYS",132,24,0,3,159
+1885206,1463305,2024-07-31,Senate,"Senate Enacted Roll Call #239",39,0,0,0,39
+1885220,1463303,2024-07-31,Senate,"Senate Enacted Roll Call #238",39,0,0,0,39
+1885226,1463302,2024-07-31,Senate,"Senate Enacted Roll Call #240",39,0,0,0,39
+1885229,1463308,2024-07-31,Senate,"Senate Enacted Roll Call #233",39,0,0,0,39
+1885231,1463304,2024-07-31,Senate,"Senate Enacted Roll Call #234",39,0,0,0,39
+1885446,1463316,2024-08-01,Senate,"Senate Enacted Roll Call #246",39,0,0,0,39
+1885447,1463317,2024-08-01,Senate,"Senate Enacted Roll Call #249",37,2,0,0,39
+1885451,1463318,2024-08-01,Senate,"Senate Enacted Roll Call #243",39,0,0,0,39
+1889533,1468927,2024-10-24,Senate,"Senate conference committee report Roll Call #250",38,2,0,0,40
+1891836,1469345,2024-11-14,Senate,"Senate Question on suspension of Senate Rule 49 Roll Call #251",4,34,0,2,40
+1891836,1469346,2024-11-14,Senate,"Senate Enacted Roll Call #252",39,1,0,0,40

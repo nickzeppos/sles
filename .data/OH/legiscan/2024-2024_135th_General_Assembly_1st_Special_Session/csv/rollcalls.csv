@@ -1,0 +1,8 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1881889,1454980,2024-05-30,House,"House Passed",64,31,0,0,95
+1881889,1454981,2024-05-31,Senate,"Senate Passed",24,7,0,0,31
+1881890,1454982,2024-05-30,House,"House Passed",63,31,0,0,94
+1881890,1454983,2024-05-31,Senate,"Senate Passed",31,1,0,0,32
+1881891,1454984,2024-04-24,House,"House Favorable Passage",15,0,0,0,15
+1881891,1454985,2024-05-08,House,"House Passed",90,0,0,0,90
+1881891,1454986,2024-05-28,Senate,"Senate Passed",21,8,0,0,29

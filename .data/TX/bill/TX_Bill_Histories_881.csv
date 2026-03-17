@@ -1,0 +1,502 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SR 30,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 30,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 30,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SR 35,881,Senate,2023-06-21,Reported enrolled,,54,7
+SR 35,881,Senate,2023-06-27,Statement(s) submitted,,57,6
+SR 35,881,Senate,2023-06-21,Reason for vote recorded in Journal,,38,5
+SR 35,881,Senate,2023-06-21,Record vote,,53,4
+SR 35,881,Senate,2023-06-21,Adopted,,53,3
+SR 35,881,Senate,2023-06-21,Read,,53,2
+SR 35,881,Senate,2023-06-21,Received by the Secretary of the Senate,,,1
+SR 2,881,Senate,2023-06-06,Reported enrolled,,11,3
+SR 2,881,Senate,2023-06-06,Read & adopted,,10,2
+SR 2,881,Senate,2023-06-06,Received by the Secretary of the Senate,,,1
+SB 16,881,Senate,2023-05-30,Filed,,,2
+SB 16,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SCR 1,881,Senate,2023-05-30,Filed,,,2
+SCR 1,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SB 1,881,House,2023-05-30,Received from the Senate,,17,22
+SB 1,881,Senate,2023-05-30,Reported engrossed,,6,21
+SB 1,881,Senate,2023-05-30,Record vote,,5,20
+SB 1,881,Senate,2023-05-30,Passed,,5,19
+SB 1,881,Senate,2023-05-30,Read 3rd time,,5,18
+SB 1,881,Senate,2023-05-30,Record vote,,5,17
+SB 1,881,Senate,2023-05-30,Three day rule suspended,,5,16
+SB 1,881,Senate,2023-05-30,Vote recorded in Journal,,5,15
+SB 1,881,Senate,2023-05-30,Read 2nd time & passed to engrossment,,5,14
+SB 1,881,Senate,2023-05-30,Laid before the Senate,,5,13
+SB 1,881,Senate,2023-05-30,Ordered not printed,,3,12
+SB 1,881,Senate,2023-05-30,Printing rule suspended,,3,11
+SB 1,881,Senate,2023-05-30,Reported favorably w/o amendments,,6,10
+SB 1,881,Senate,2023-05-30,Vote taken in committee,,,9
+SB 1,881,Senate,2023-05-30,Considered in public hearing,,,8
+SB 1,881,Senate,2023-05-30,Scheduled for public hearing on  . . .,,,7
+SB 1,881,Senate,2023-05-30,Posting rule suspended,,3,6
+SB 1,881,Senate,2023-05-30,Referred to Finance,,2,5
+SB 1,881,Senate,2023-05-30,Read first time,,2,4
+SB 1,881,Senate,2023-05-30,Co-author authorized,,5,3
+SB 1,881,Senate,2023-05-30,Filed,,,2
+SB 1,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SB 26,881,House,2023-06-27,Received from the Senate,,18,25
+SB 26,881,Senate,2023-06-20,Reported engrossed,,35,24
+SB 26,881,Senate,2023-06-20,Record vote,,,23
+SB 26,881,Senate,2023-06-20,Passed,,33,22
+SB 26,881,Senate,2023-06-20,Read 3rd time,,33,21
+SB 26,881,Senate,2023-06-20,Record vote,,33,20
+SB 26,881,Senate,2023-06-20,Three day rule suspended,,33,19
+SB 26,881,Senate,2023-06-20,Vote recorded in Journal,,33,18
+SB 26,881,Senate,2023-06-20,Read 2nd time & passed to engrossment,,33,17
+SB 26,881,Senate,2023-06-20,Record vote,,33,16
+SB 26,881,Senate,2023-06-20,Rules suspended-Regular order of business,,33,15
+SB 26,881,Senate,2023-06-20,Record vote,,33,14
+SB 26,881,Senate,2023-06-20,Rules suspended,,33,13
+SB 26,881,Senate,2023-06-20,Ordered not printed,,32,12
+SB 26,881,Senate,2023-06-20,Printing rule suspended,,32,11
+SB 26,881,Senate,2023-06-20,Reported favorably w/o amendments,,35,10
+SB 26,881,Senate,2023-06-20,Vote taken in committee,,,9
+SB 26,881,Senate,2023-06-20,Considered in public hearing,,,8
+SB 26,881,Senate,2023-06-20,Scheduled for public hearing on  . . .,,,7
+SB 26,881,Senate,2023-06-20,Posting rule suspended,,32,6
+SB 26,881,Senate,2023-06-20,Referred to Finance,,31,5
+SB 26,881,Senate,2023-06-20,Read first time,,31,4
+SB 26,881,Senate,2023-06-20,Co-author authorized,,34,3
+SB 26,881,Senate,2023-06-20,Filed,,,2
+SB 26,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SJR 1,881,House,2023-05-30,Received from the Senate,,17,23
+SJR 1,881,Senate,2023-05-30,Reported engrossed,,6,22
+SJR 1,881,Senate,2023-05-30,Remarks ordered printed,,4,21
+SJR 1,881,Senate,2023-05-30,Record vote,,4,20
+SJR 1,881,Senate,2023-05-30,Passed,,4,19
+SJR 1,881,Senate,2023-05-30,Read 3rd time,,4,18
+SJR 1,881,Senate,2023-05-30,Record vote,,4,17
+SJR 1,881,Senate,2023-05-30,Three day rule suspended,,4,16
+SJR 1,881,Senate,2023-05-30,Vote recorded in Journal,,4,15
+SJR 1,881,Senate,2023-05-30,Read 2nd time & passed to engrossment,,4,14
+SJR 1,881,Senate,2023-05-30,Laid before the Senate,,3,13
+SJR 1,881,Senate,2023-05-30,Ordered not printed,,3,12
+SJR 1,881,Senate,2023-05-30,Printing rule suspended,,3,11
+SJR 1,881,Senate,2023-05-30,Reported favorably w/o amendments,,6,10
+SJR 1,881,Senate,2023-05-30,Vote taken in committee,,,9
+SJR 1,881,Senate,2023-05-30,Considered in public hearing,,,8
+SJR 1,881,Senate,2023-05-30,Scheduled for public hearing on  . . .,,,7
+SJR 1,881,Senate,2023-05-30,Posting rule suspended,,3,6
+SJR 1,881,Senate,2023-05-30,Referred to Finance,,3,5
+SJR 1,881,Senate,2023-05-30,Read first time,,3,4
+SJR 1,881,Senate,2023-05-30,Co-author authorized,,5,3
+SJR 1,881,Senate,2023-05-30,Filed,,,2
+SJR 1,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SJR 2,881,House,2023-06-27,Received from the Senate,,18,18
+SJR 2,881,Senate,2023-06-20,Record vote,,32,17
+SJR 2,881,Senate,2023-06-20,Adopted,,32,16
+SJR 2,881,Senate,2023-06-20,Read 2nd time,,32,15
+SJR 2,881,Senate,2023-06-20,Rules suspended,,32,14
+SJR 2,881,Senate,2023-06-20,Laid before the Senate,,32,13
+SJR 2,881,Senate,2023-06-20,Ordered not printed,,32,12
+SJR 2,881,Senate,2023-06-20,Printing rule suspended,,32,11
+SJR 2,881,Senate,2023-06-20,Reported favorably w/o amendments,,35,10
+SJR 2,881,Senate,2023-06-20,Vote taken in committee,,,9
+SJR 2,881,Senate,2023-06-20,Considered in public hearing,,,8
+SJR 2,881,Senate,2023-06-20,Scheduled for public hearing on  . . .,,,7
+SJR 2,881,Senate,2023-06-20,Posting rule suspended,,32,6
+SJR 2,881,Senate,2023-06-20,Referred to Finance,,32,5
+SJR 2,881,Senate,2023-06-20,Read first time,,32,4
+SJR 2,881,Senate,2023-06-20,Co-author authorized,,34,3
+SJR 2,881,Senate,2023-06-20,Filed,,,2
+SJR 2,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SR 16,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 16,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 16,881,Senate,2023-06-13,Received by the Secretary of the Senate,,,1
+SB 2,881,House,2023-06-07,Received from the Senate,,17,30
+SB 2,881,Senate,2023-06-07,Reported engrossed,,23,29
+SB 2,881,Senate,2023-06-07,Record vote,,20,28
+SB 2,881,Senate,2023-06-07,Passed,,20,27
+SB 2,881,Senate,2023-06-07,Read 3rd time,,20,26
+SB 2,881,Senate,2023-06-07,Record vote,,20,25
+SB 2,881,Senate,2023-06-07,Rules suspended-Regular order of business,,20,24
+SB 2,881,Senate,2023-06-07,Ordered not printed,,20,23
+SB 2,881,Senate,2023-06-07,Printing rule suspended,,20,22
+SB 2,881,Senate,2023-06-07,Record vote,,14,21
+SB 2,881,Senate,2023-06-07,Passed to engrossment,,14,20
+SB 2,881,Senate,2023-06-07,Record vote,,14,19
+SB 2,881,Senate,2023-06-07,Amendment fails of adoption,,14,18
+SB 2,881,Senate,2023-06-07,Amendment(s) offered,FA1 Menéndez,14,17
+SB 2,881,Senate,2023-06-07,Read 2nd time,,13,16
+SB 2,881,Senate,2023-06-07,Record vote,,13,15
+SB 2,881,Senate,2023-06-07,Rules suspended-Regular order of business,,13,14
+SB 2,881,Senate,2023-06-07,Ordered not printed,,13,13
+SB 2,881,Senate,2023-06-07,Printing rule suspended,,13,12
+SB 2,881,Senate,2023-06-07,Co-author authorized,,18,11
+SB 2,881,Senate,2023-06-06,Committee report printed and distributed,,,10
+SB 2,881,Senate,2023-06-06,Reported favorably w/o amendments,,11,9
+SB 2,881,Senate,2023-06-06,Vote taken in committee,,,8
+SB 2,881,Senate,2023-06-06,Testimony taken in committee,,,7
+SB 2,881,Senate,2023-06-06,Considered in public hearing,,,6
+SB 2,881,Senate,2023-06-06,Scheduled for public hearing on  . . .,,,5
+SB 2,881,Senate,2023-06-02,Referred to Border Security,,8,4
+SB 2,881,Senate,2023-06-02,Read first time,,8,3
+SB 2,881,Senate,2023-05-30,Filed,,,2
+SB 2,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SB 8,881,House,2023-06-07,Received from the Senate,,17,36
+SB 8,881,Senate,2023-06-07,Reported engrossed,,23,35
+SB 8,881,Senate,2023-06-07,Record vote,,20,34
+SB 8,881,Senate,2023-06-07,Passed,,20,33
+SB 8,881,Senate,2023-06-07,Read 3rd time,,20,32
+SB 8,881,Senate,2023-06-07,Record vote,,20,31
+SB 8,881,Senate,2023-06-07,Rules suspended-Regular order of business,,20,30
+SB 8,881,Senate,2023-06-07,Ordered not printed,,20,29
+SB 8,881,Senate,2023-06-07,Printing rule suspended,,20,28
+SB 8,881,Senate,2023-06-07,Record vote,,17,27
+SB 8,881,Senate,2023-06-07,Passed to engrossment,,17,26
+SB 8,881,Senate,2023-06-07,Record vote,,16,25
+SB 8,881,Senate,2023-06-07,Amendment fails of adoption,,16,24
+SB 8,881,Senate,2023-06-07,Amendment(s) offered,FA3 Menéndez,16,23
+SB 8,881,Senate,2023-06-07,Record vote,,16,22
+SB 8,881,Senate,2023-06-07,Amendment fails of adoption,,16,21
+SB 8,881,Senate,2023-06-07,Amendment(s) offered,FA2 Menéndez,15,20
+SB 8,881,Senate,2023-06-07,Record vote,,15,19
+SB 8,881,Senate,2023-06-07,Amendment fails of adoption,,15,18
+SB 8,881,Senate,2023-06-07,Amendment(s) offered,FA1 Menéndez,15,17
+SB 8,881,Senate,2023-06-07,Read 2nd time,,15,16
+SB 8,881,Senate,2023-06-07,Record vote,,15,15
+SB 8,881,Senate,2023-06-07,Rules suspended-Regular order of business,,14,14
+SB 8,881,Senate,2023-06-07,Ordered not printed,,14,13
+SB 8,881,Senate,2023-06-07,Printing rule suspended,,14,12
+SB 8,881,Senate,2023-06-07,Co-author authorized,,18,11
+SB 8,881,Senate,2023-06-06,Committee report printed and distributed,,,10
+SB 8,881,Senate,2023-06-06,Reported favorably w/o amendments,,11,9
+SB 8,881,Senate,2023-06-06,Vote taken in committee,,,8
+SB 8,881,Senate,2023-06-06,Testimony taken in committee,,,7
+SB 8,881,Senate,2023-06-06,Considered in public hearing,,,6
+SB 8,881,Senate,2023-06-06,Scheduled for public hearing on  . . .,,,5
+SB 8,881,Senate,2023-06-02,Referred to Border Security,,8,4
+SB 8,881,Senate,2023-06-02,Read first time,,8,3
+SB 8,881,Senate,2023-05-31,Filed,,,2
+SB 8,881,Senate,2023-05-31,Received by the Secretary of the Senate,,,1
+SR 10,881,Senate,2023-06-08,Reported enrolled,,26,3
+SR 10,881,Senate,2023-06-08,Read & adopted,,25,2
+SR 10,881,Senate,2023-06-08,Received by the Secretary of the Senate,,,1
+SR 36,881,Senate,2023-06-21,Reported enrolled,,54,6
+SR 36,881,Senate,2023-06-27,Statement(s) submitted,,57,5
+SR 36,881,Senate,2023-06-21,Record vote,,53,4
+SR 36,881,Senate,2023-06-21,Adopted,,53,3
+SR 36,881,Senate,2023-06-21,Read,,53,2
+SR 36,881,Senate,2023-06-21,Received by the Secretary of the Senate,,,1
+SR 14,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 14,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 14,881,Senate,2023-06-12,Received by the Secretary of the Senate,,,1
+SR 15,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 15,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 15,881,Senate,2023-06-12,Received by the Secretary of the Senate,,,1
+SR 11,881,Senate,2023-06-12,Reported enrolled,,28,3
+SR 11,881,Senate,2023-06-12,Read & adopted,,27,2
+SR 11,881,Senate,2023-06-08,Received by the Secretary of the Senate,,,1
+SR 21,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 21,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 21,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 22,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 22,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 22,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 23,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 23,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 23,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 24,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 24,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 24,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 25,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 25,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 25,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 26,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 26,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 26,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 27,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 27,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 27,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 28,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 28,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 28,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 29,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 29,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 29,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SR 32,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 32,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 32,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SR 33,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 33,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 33,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SR 34,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 34,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 34,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SB 5,881,Senate,2023-06-21,Co-author authorized,,53,14
+SB 5,881,Senate,2023-06-20,Co-author authorized,,33,13
+SB 5,881,Senate,2023-06-12,Co-author authorized,,27,12
+SB 5,881,Senate,2023-06-07,Co-author authorized,,18,11
+SB 5,881,Senate,2023-06-06,Committee report printed and distributed,,,10
+SB 5,881,Senate,2023-06-06,Reported favorably w/o amendments,,11,9
+SB 5,881,Senate,2023-06-06,Vote taken in committee,,,8
+SB 5,881,Senate,2023-06-06,Testimony taken in committee,,,7
+SB 5,881,Senate,2023-06-06,Considered in public hearing,,,6
+SB 5,881,Senate,2023-06-06,Scheduled for public hearing on  . . .,,,5
+SB 5,881,Senate,2023-06-02,Referred to Border Security,,8,4
+SB 5,881,Senate,2023-06-02,Read first time,,8,3
+SB 5,881,Senate,2023-05-30,Filed,,,2
+SB 5,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SR 8,881,Senate,2023-06-08,Reported enrolled,,26,3
+SR 8,881,Senate,2023-06-08,Read & adopted,,25,2
+SR 8,881,Senate,2023-06-08,Received by the Secretary of the Senate,,,1
+SR 9,881,Senate,2023-06-08,Reported enrolled,,26,3
+SR 9,881,Senate,2023-06-08,Read & adopted,,25,2
+SR 9,881,Senate,2023-06-08,Received by the Secretary of the Senate,,,1
+SR 17,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 17,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 17,881,Senate,2023-06-14,Received by the Secretary of the Senate,,,1
+SR 18,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 18,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 18,881,Senate,2023-06-14,Received by the Secretary of the Senate,,,1
+SR 39,881,Senate,2023-06-27,Reported enrolled,,58,3
+SR 39,881,Senate,2023-06-27,Read & adopted,,57,2
+SR 39,881,Senate,2023-06-23,Received by the Secretary of the Senate,,,1
+SR 40,881,Senate,2023-06-27,Reported enrolled,,58,3
+SR 40,881,Senate,2023-06-27,Read & adopted,,57,2
+SR 40,881,Senate,2023-06-23,Received by the Secretary of the Senate,,,1
+SR 41,881,Senate,2023-06-27,Reported enrolled,,58,3
+SR 41,881,Senate,2023-06-27,Read & adopted,,57,2
+SR 41,881,Senate,2023-06-23,Received by the Secretary of the Senate,,,1
+SR 3,881,Senate,2023-06-06,Reported enrolled,,11,3
+SR 3,881,Senate,2023-06-06,Read & adopted,,10,2
+SR 3,881,Senate,2023-06-06,Received by the Secretary of the Senate,,,1
+SR 4,881,Senate,2023-06-06,Reported enrolled,,11,3
+SR 4,881,Senate,2023-06-06,Read & adopted,,10,2
+SR 4,881,Senate,2023-06-06,Received by the Secretary of the Senate,,,1
+SB 6,881,Senate,2023-05-30,Filed,,,2
+SB 6,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SB 7,881,Senate,2023-05-30,Filed,,,2
+SB 7,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SR 12,881,Senate,2023-06-12,Reported enrolled,,28,3
+SR 12,881,Senate,2023-06-12,Read & adopted,,27,2
+SR 12,881,Senate,2023-06-09,Received by the Secretary of the Senate,,,1
+SR 13,881,Senate,2023-06-12,Reported enrolled,,28,3
+SR 13,881,Senate,2023-06-12,Read & adopted,,27,2
+SR 13,881,Senate,2023-06-12,Received by the Secretary of the Senate,,,1
+SB 9,881,Senate,2023-06-21,Co-author authorized,,53,12
+SB 9,881,Senate,2023-06-20,Co-author authorized,,33,11
+SB 9,881,Senate,2023-06-15,Committee report printed and distributed,,,10
+SB 9,881,Senate,2023-06-15,Reported favorably w/o amendments,,30,9
+SB 9,881,Senate,2023-06-12,Vote taken in committee,,,8
+SB 9,881,Senate,2023-06-12,Testimony taken in committee,,,7
+SB 9,881,Senate,2023-06-12,Considered in public hearing,,,6
+SB 9,881,Senate,2023-06-12,Scheduled for public hearing on  . . .,,,5
+SB 9,881,Senate,2023-06-08,Referred to State Affairs,,25,4
+SB 9,881,Senate,2023-06-08,Read first time,,25,3
+SB 9,881,Senate,2023-06-05,Filed,,,2
+SB 9,881,Senate,2023-06-05,Received by the Secretary of the Senate,,,1
+SB 18,881,Senate,2023-06-07,Filed,,,2
+SB 18,881,Senate,2023-06-07,Received by the Secretary of the Senate,,,1
+SB 19,881,Senate,2023-06-20,Co-author authorized,,34,12
+SB 19,881,Senate,2023-06-15,Committee report printed and distributed,,,11
+SB 19,881,Senate,2023-06-15,Reported favorably w/o amendments,,30,10
+SB 19,881,Senate,2023-06-12,Co-author authorized,,27,9
+SB 19,881,Senate,2023-06-12,Vote taken in committee,,,8
+SB 19,881,Senate,2023-06-12,Testimony taken in committee,,,7
+SB 19,881,Senate,2023-06-12,Considered in public hearing,,,6
+SB 19,881,Senate,2023-06-12,Scheduled for public hearing on  . . .,,,5
+SB 19,881,Senate,2023-06-08,Referred to State Affairs,,25,4
+SB 19,881,Senate,2023-06-08,Read first time,,25,3
+SB 19,881,Senate,2023-06-07,Filed,,,2
+SB 19,881,Senate,2023-06-07,Received by the Secretary of the Senate,,,1
+SB 3,881,Senate,2023-05-30,Filed,,,2
+SB 3,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SB 4,881,Senate,2023-05-30,Filed,,,2
+SB 4,881,Senate,2023-05-30,Received by the Secretary of the Senate,,,1
+SB 17,881,Senate,2023-06-20,Co-author authorized,,34,12
+SB 17,881,Senate,2023-06-15,Committee report printed and distributed,,,11
+SB 17,881,Senate,2023-06-15,Reported favorably w/o amendments,,30,10
+SB 17,881,Senate,2023-06-12,Co-author authorized,,27,9
+SB 17,881,Senate,2023-06-12,Vote taken in committee,,,8
+SB 17,881,Senate,2023-06-12,Testimony taken in committee,,,7
+SB 17,881,Senate,2023-06-12,Considered in public hearing,,,6
+SB 17,881,Senate,2023-06-12,Scheduled for public hearing on  . . .,,,5
+SB 17,881,Senate,2023-06-08,Referred to State Affairs,,25,4
+SB 17,881,Senate,2023-06-08,Read first time,,25,3
+SB 17,881,Senate,2023-06-07,Filed,,,2
+SB 17,881,Senate,2023-06-07,Received by the Secretary of the Senate,,,1
+SCR 2,881,Senate,2023-05-31,Filed,,,2
+SCR 2,881,Senate,2023-05-31,Received by the Secretary of the Senate,,,1
+SR 7,881,Senate,2023-06-07,Reported enrolled,,23,3
+SR 7,881,Senate,2023-06-07,Read & adopted,,18,2
+SR 7,881,Senate,2023-06-07,Received by the Secretary of the Senate,,,1
+SR 37,881,Senate,2023-06-21,Reported enrolled,,54,3
+SR 37,881,Senate,2023-06-21,Read & adopted,,54,2
+SR 37,881,Senate,2023-06-21,Received by the Secretary of the Senate,,,1
+SR 5,881,Senate,2023-06-07,Reported enrolled,,23,3
+SR 5,881,Senate,2023-06-07,Read & adopted,,18,2
+SR 5,881,Senate,2023-06-07,Received by the Secretary of the Senate,,,1
+SR 1,881,Senate,2023-06-06,Reported enrolled,,11,3
+SR 1,881,Senate,2023-06-06,Read & adopted,,10,2
+SR 1,881,Senate,2023-06-02,Received by the Secretary of the Senate,,,1
+SR 19,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 19,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 19,881,Senate,2023-06-14,Received by the Secretary of the Senate,,,1
+SR 31,881,Senate,2023-06-20,Reported enrolled,,35,3
+SR 31,881,Senate,2023-06-20,Read & adopted,,34,2
+SR 31,881,Senate,2023-06-20,Received by the Secretary of the Senate,,,1
+SR 38,881,Senate,2023-06-23,Reported enrolled,,55,3
+SR 38,881,Senate,2023-06-23,Read & adopted,,55,2
+SR 38,881,Senate,2023-06-22,Received by the Secretary of the Senate,,,1
+SR 6,881,Senate,2023-06-07,Reported enrolled,,23,6
+SR 6,881,Senate,2023-06-07,Record vote,,22,5
+SR 6,881,Senate,2023-06-07,Read & adopted,,22,4
+SR 6,881,Senate,2023-06-07,Rules suspended,,22,3
+SR 6,881,Senate,2023-06-07,Laid before the Senate,,22,2
+SR 6,881,Senate,2023-06-07,Received by the Secretary of the Senate,,,1
+SR 20,881,Senate,2023-06-15,Reported enrolled,,30,3
+SR 20,881,Senate,2023-06-15,Read & adopted,,29,2
+SR 20,881,Senate,2023-06-15,Received by the Secretary of the Senate,,,1
+SB 20,881,Senate,2023-06-12,Filed,,,2
+SB 20,881,Senate,2023-06-12,Received by the Secretary of the Senate,,,1
+SB 21,881,Senate,2023-06-20,Transmitted to the Governor,,,3
+SB 21,881,Senate,2023-06-19,Filed,,,2
+SB 21,881,Senate,2023-06-19,Received by the Secretary of the Senate,,,1
+SB 22,881,Senate,2023-06-19,Filed,,,2
+SB 22,881,Senate,2023-06-19,Received by the Secretary of the Senate,,,1
+SB 23,881,Senate,2023-06-19,Filed,,,2
+SB 23,881,Senate,2023-06-19,Received by the Secretary of the Senate,,,1
+SB 24,881,Senate,2023-06-19,Filed,,,2
+SB 24,881,Senate,2023-06-19,Received by the Secretary of the Senate,,,1
+SB 25,881,Senate,2023-06-19,Filed,,,2
+SB 25,881,Senate,2023-06-19,Received by the Secretary of the Senate,,,1
+HB 7,881,House,2023-05-30,Filed,,,1
+HB 8,881,House,2023-05-30,Filed,,,1
+HB 9,881,House,2023-05-30,Filed,,,1
+HB 10,881,House,2023-05-30,Filed,,,1
+HB 11,881,House,2023-05-30,Filed,,,1
+HB 12,881,House,2023-05-30,Filed,,,1
+HB 13,881,House,2023-05-30,Filed,,,1
+HB 2,881,House,2023-06-13,Senate Amendments Analysis distributed,,,50
+HB 2,881,House,2023-06-08,Senate Amendments distributed,,,49
+HB 2,881,House,2023-06-07,Senate passage as amended reported,,17,48
+HB 2,881,Senate,2023-06-07,Record vote,,21,47
+HB 2,881,Senate,2023-06-07,Passed as amended,,21,46
+HB 2,881,Senate,2023-06-07,Vote recorded in Journal,,21,45
+HB 2,881,Senate,2023-06-07,Amended,,21,44
+HB 2,881,Senate,2023-06-07,Amendment(s) offered,FA1 Hinojosa,21,43
+HB 2,881,Senate,2023-06-07,Read 3rd time,,21,42
+HB 2,881,Senate,2023-06-07,Laid before the Senate,,21,41
+HB 2,881,Senate,2023-06-07,Record vote,,21,40
+HB 2,881,Senate,2023-06-07,Ordered not printed,,21,39
+HB 2,881,Senate,2023-06-07,Printing rule suspended,,21,38
+HB 2,881,Senate,2023-06-07,Record vote,,18,37
+HB 2,881,Senate,2023-06-07,Read 2nd time & passed to 3rd reading,,18,36
+HB 2,881,Senate,2023-06-07,Laid before the Senate,,17,35
+HB 2,881,Senate,2023-06-07,Record vote,,17,34
+HB 2,881,Senate,2023-06-07,Ordered not printed,,17,33
+HB 2,881,Senate,2023-06-07,Printing rule suspended,,17,32
+HB 2,881,Senate,2023-06-07,Co-sponsor authorized,,18,31
+HB 2,881,Senate,2023-06-06,Committee report printed and distributed,,,30
+HB 2,881,Senate,2023-06-06,Reported favorably as substituted,,11,29
+HB 2,881,Senate,2023-06-06,Vote taken in committee,,,28
+HB 2,881,Senate,2023-06-06,Testimony taken in committee,,,27
+HB 2,881,Senate,2023-06-06,Considered in public hearing,,,26
+HB 2,881,Senate,2023-06-06,Posting rule suspended,,10,25
+HB 2,881,Senate,2023-06-06,Scheduled for public hearing on  . . .,,,24
+HB 2,881,Senate,2023-06-06,Co-sponsor authorized,,10,23
+HB 2,881,Senate,2023-06-02,Referred to Border Security,,8,22
+HB 2,881,Senate,2023-06-02,Read first time,,8,21
+HB 2,881,Senate,2023-06-02,Received from the House,,7,20
+HB 2,881,House,2023-05-31,Reported engrossed,,19,19
+HB 2,881,House,2023-05-30,Statement(s) of vote recorded in Journal,,12,18
+HB 2,881,House,2023-05-30,Record vote,RV#6,12,17
+HB 2,881,House,2023-05-30,Passed,,12,16
+HB 2,881,House,2023-05-30,Read 3rd time,,12,15
+HB 2,881,House,2023-05-30,Record vote,RV#4,10,14
+HB 2,881,House,2023-05-30,Constitutional three day rule suspended,,9,13
+HB 2,881,House,2023-05-30,Passed to engrossment as amended,,9,12
+HB 2,881,House,2023-05-30,Amended,1-Guillen,9,11
+HB 2,881,House,2023-05-30,Read 2nd time,,8,10
+HB 2,881,House,2023-05-30,Committee report distributed,,,9
+HB 2,881,House,2023-05-30,Comte report filed with Committee Coordinator,,18,8
+HB 2,881,House,2023-05-30,Motion prevails,,6,7
+HB 2,881,House,2023-05-30,Motion to set as special order,,6,6
+HB 2,881,House,2023-05-30,Reported favorably w/o amendment(s),,,5
+HB 2,881,House,2023-05-30,Considered in formal meeting,,,4
+HB 2,881,House,2023-05-30,Referred to State Affairs,,4,3
+HB 2,881,House,2023-05-30,Read first time,,4,2
+HB 2,881,House,2023-05-30,Filed,,,1
+HB 18,881,House,2023-05-30,Filed,,,1
+HB 33,881,House,2023-05-30,Filed,,,1
+HB 1,881,Senate,2023-06-02,Received from the House,,7,21
+HB 1,881,House,2023-05-31,Reported engrossed,,19,20
+HB 1,881,House,2023-05-30,Reason for vote recorded in Journal,,11,19
+HB 1,881,House,2023-05-30,Statement(s) of vote recorded in Journal,,10,18
+HB 1,881,House,2023-05-30,Record vote,RV#5,10,17
+HB 1,881,House,2023-05-30,Passed,,10,16
+HB 1,881,House,2023-05-30,Read 3rd time,,10,15
+HB 1,881,House,2023-05-30,Record vote,RV#4,10,14
+HB 1,881,House,2023-05-30,Constitutional three day rule suspended,,9,13
+HB 1,881,House,2023-05-30,Passed to engrossment as amended,,7,12
+HB 1,881,House,2023-05-30,Amended,1-Meyer,7,11
+HB 1,881,House,2023-05-30,Read 2nd time,,7,10
+HB 1,881,House,2023-05-30,Committee report distributed,,,9
+HB 1,881,House,2023-05-30,Comte report filed with Committee Coordinator,,19,8
+HB 1,881,House,2023-05-30,Motion prevails,,6,7
+HB 1,881,House,2023-05-30,Motion to set as special order,,6,6
+HB 1,881,House,2023-05-30,Reported favorably w/o amendment(s),,,5
+HB 1,881,House,2023-05-30,Considered in formal meeting,,,4
+HB 1,881,House,2023-05-30,Referred to Ways & Means,,4,3
+HB 1,881,House,2023-05-30,Read first time,,4,2
+HB 1,881,House,2023-05-30,Filed,,,1
+HJR 1,881,Senate,2023-06-02,Received from the House,,7,16
+HJR 1,881,House,2023-05-31,Reported engrossed,,19,15
+HJR 1,881,House,2023-05-30,Reason for vote recorded in Journal,,8,14
+HJR 1,881,House,2023-05-30,Statement(s) of vote recorded in Journal,,8,13
+HJR 1,881,House,2023-05-30,Record vote,RV#3,7,12
+HJR 1,881,House,2023-05-30,Adopted,,7,11
+HJR 1,881,House,2023-05-30,Read 2nd time,,7,10
+HJR 1,881,House,2023-05-30,Committee report distributed,,,9
+HJR 1,881,House,2023-05-30,Comte report filed with Committee Coordinator,,19,8
+HJR 1,881,House,2023-05-30,Motion prevails,,6,7
+HJR 1,881,House,2023-05-30,Motion to set as special order,,6,6
+HJR 1,881,House,2023-05-30,Reported favorably w/o amendment(s),,,5
+HJR 1,881,House,2023-05-30,Considered in formal meeting,,,4
+HJR 1,881,House,2023-05-30,Referred to Ways & Means,,4,3
+HJR 1,881,House,2023-05-30,Read first time,,4,2
+HJR 1,881,House,2023-05-30,Filed,,,1
+HCR 3,881,Senate,2023-06-02,Received from the House,,7,5
+HCR 3,881,House,2023-05-30,Record vote,RV#7,12,4
+HCR 3,881,House,2023-05-30,Adopted,,12,3
+HCR 3,881,House,2023-05-30,Laid before the House,,12,2
+HCR 3,881,House,2023-05-30,Filed,,,1
+HB 32,881,House,2023-05-30,Filed,,,1
+HB 5,881,House,2023-05-30,Filed,,,1
+HCR 2,881,House,2023-05-30,Filed,,,1
+HB 29,881,House,2023-05-30,Filed,,,1
+HB 19,881,House,2023-05-30,Filed,,,1
+HB 21,881,House,2023-05-30,Filed,,,1
+HB 22,881,House,2023-05-30,Filed,,,1
+HB 23,881,House,2023-05-30,Filed,,,1
+HB 24,881,House,2023-05-30,Filed,,,1
+HB 25,881,House,2023-05-30,Filed,,,1
+HB 26,881,House,2023-05-30,Filed,,,1
+HJR 3,881,House,2023-05-30,Filed,,,1
+HB 31,881,House,2023-05-30,Filed,,,1
+HB 30,881,House,2023-05-30,Filed,,,1
+HJR 6,881,House,2023-05-30,Filed,,,1
+HB 3,881,House,2023-05-30,Filed,,,1
+HB 4,881,House,2023-05-30,Filed,,,1
+HB 6,881,House,2023-05-30,Filed,,,1
+HCR 1,881,House,2023-05-30,Filed,,,1
+HB 34,881,House,2023-05-30,Filed,,,1
+HB 35,881,House,2023-05-30,Filed,,,1
+HJR 7,881,House,2023-05-30,Filed,,,1
+HB 14,881,House,2023-05-30,Filed,,,1
+HB 15,881,House,2023-05-30,Filed,,,1
+HB 16,881,House,2023-05-30,Filed,,,1
+HB 17,881,House,2023-05-30,Filed,,,1
+HB 20,881,House,2023-05-30,Filed,,,1
+HJR 2,881,House,2023-05-30,Filed,,,1
+HB 27,881,House,2023-05-30,Filed,,,1
+HB 28,881,House,2023-05-30,Filed,,,1
+HJR 4,881,House,2023-05-30,Filed,,,1
+HJR 5,881,House,2023-05-30,Filed,,,1
+HB 36,881,House,2023-05-30,Filed,,,1
+HB 37,881,House,2023-05-30,Filed,,,1

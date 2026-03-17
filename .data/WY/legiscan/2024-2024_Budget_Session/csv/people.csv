@@ -1,0 +1,113 @@
+people_id,name,first_name,middle_name,last_name,suffix,nickname,party_id,party,role_id,role,district,followthemoney_eid,votesmart_id,opensecrets_id,ballotpedia,knowwho_pid,committee_id
+8629,Appropriations,,,,,,0,,3,Jnt,,0,0,,,0,1628
+8630,"Agriculture, State and Public Lands and Water Resources",,,,,,0,,3,Jnt,,0,0,,,0,1631
+8631,"Corporations, Elections and Political Subdivisions",,,,,,0,,3,Jnt,,0,0,,,0,1633
+8633,Judiciary,,,,,,0,,3,Jnt,,0,0,,,0,1627
+8634,"Travel, Recreation, Wildlife and Cultural Resources",,,,,,0,,3,Jnt,,0,0,,,0,1632
+8641,"Bill Landen",Bill,,Landen,,,2,R,2,Sen,SD-027,13013970,93366,,Bill_Landen,257972,0
+8663,"Charles Scott",Charles,K.,Scott,,,2,R,2,Sen,SD-030,6651901,2756,,Charles_Scott_(Wyoming),200162,0
+8669,"Labor, Health and Social Services",,,,,,0,,3,Jnt,,0,0,,,0,1636
+8670,"Transportation, Highways and Military Affairs",,,,,,0,,3,Jnt,,0,0,,,0,1634
+8675,"Cale Case",Cale,,Case,,,2,R,2,Sen,SD-025,10157227,2744,,Cale_Case,200156,0
+8678,Revenue,,,,,,0,,3,Jnt,,0,0,,,0,1629
+8679,"Dan Dockstader",Dan,,Dockstader,,,2,R,2,Sen,SD-016,6670712,66202,,Dan_Dockstader,249671,0
+8692,Education,,,,,,0,,3,Jnt,,0,0,,,0,1630
+8693,"Minerals, Business and Economic Development",,,,,,0,,3,Jnt,,0,0,,,0,1635
+8702,"Select Water",,,,,,0,,3,Jnt,,0,0,,,0,1643
+8706,"Select School Facilities",,,,,,0,,3,Jnt,,0,0,,,0,1641
+8711,"Dan Zwonitzer",Dan,,Zwonitzer,,,2,R,1,Rep,HD-043,6666469,52807,,Dan_Zwonitzer,227893,0
+8713,"Bob Nicholas",Bob,,Nicholas,,,2,R,1,Rep,HD-007,6676525,106111,,Bob_Nicholas,296401,0
+8717,"Management Audit",,,,,,0,,3,Jnt,,0,0,,,0,1640
+8720,"Management Council",,,,,,0,,3,Jnt,,0,0,,,0,1639
+8725,"Steve Harshman",Steve,,Harshman,,,2,R,1,Rep,HD-037,6606075,52736,,Steve_Harshman,214299,0
+10592,"Donald Burkhart",Donald,Edgar,Burkhart,Jr.,,2,R,1,Rep,HD-015,6690229,127286,,Donald_Burkhart,296406,0
+10600,"Larry Hicks",Larry,,Hicks,,,2,R,2,Sen,SD-011,13013950,52685,,Larry_S._Hicks_(Wyoming),296387,0
+10602,"Chris Rothfuss",Chris,,Rothfuss,,,1,D,2,Sen,SD-009,6507316,106281,,Chris_Rothfuss,267177,0
+10604,"Ogden Driskill",Ogden,,Driskill,,,2,R,2,Sen,SD-001,6666433,52627,,Ogden_Driskill,296082,0
+10612,"John Eklund",John,,Eklund,Jr.,,2,R,1,Rep,HD-010,6690225,127284,,John_Eklund_Jr.,296086,0
+12910,"Dave Zwonitzer",David,L.,Zwonitzer,,Dave,2,R,1,Rep,HD-008,6670791,65142,,David_Zwonitzer,247027,0
+14226,"Eric Barlow",Eric,,Barlow,,,2,R,1,Rep,SD-023,10171027,140045,,Eric_Barlow,423942,0
+14229,"Lynn Hutchings",Karen,Lynn,Hutchings,,Lynn,2,R,1,Rep,SD-005,6690220,127281,,Lynn_Hutchings,296400,0
+14230,"Lloyd Larsen",Lloyd,Charles,Larsen,,,2,R,1,Rep,HD-054,10147670,140069,,Lloyd_Charles_Larsen,424071,0
+14232,"Albert Sommers",Albert,,Sommers,,,2,R,1,Rep,HD-020,12746124,140052,,Albert_Sommers,424154,0
+14233,"Tom Walters",Tom,,Walters,,,2,R,1,Rep,HD-038,6666464,52688,,Tom_Walters_(Wyoming),424089,0
+14412,"David Northrup",David,,Northrup,,,2,R,1,Rep,HD-025,12746115,139816,,David_Northrup,424076,0
+14414,"James Anderson",James,Lee,Anderson,,Jim,2,R,2,Sen,SD-028,10197010,12137,,James_Anderson_(Wyoming_State_Senate_District_28),424059,0
+16557,"David Kinskey",David,,Kinskey,,,2,R,2,Sen,SD-022,12746132,142930,,Dave_Kinskey,505574,0
+16559,"Dan Laursen",Dan,,Laursen,,,2,R,1,Rep,SD-019,24811656,153967,,Dan_Laursen,500520,0
+16711,"Mark Jennings",Mark,,Jennings,,,2,R,1,Rep,HD-030,24811652,153972,,Mark_Jennings,500521,0
+16712,"Stephan Pappas",Stephan,,Pappas,,,2,R,2,Sen,SD-007,24811700,153702,,Stephan_Pappas,499310,0
+16716,"Cheri Steinmetz",Cheri,,Steinmetz,,,2,R,1,Rep,SD-003,6690401,127266,,Cheri_Steinmetz,296083,0
+16799,"Fred Baldwin",Fred,A.,Baldwin,,,2,R,1,Rep,SD-014,24811624,153957,,Fred_Baldwin_(Wyoming),499320,0
+17805,"Brian Boner",Brian,,Boner,,,2,R,2,Sen,SD-002,28206072,156618,,Brian_Boner,533258,0
+18100,"Dennis Biteman",Dennis,,Biteman,II,Bo,2,R,1,Rep,SD-021,40625061,171297,,Bo_Biteman,584279,0
+18101,"William Henderson",William,D.,Henderson,,Bill,2,R,1,Rep,HD-041,24811649,153990,,William_D._Henderson,500534,0
+18213,"Tim Salazar",Tim,,Salazar,,,2,R,1,Rep,SD-026,24811674,153981,,Tim_Salazar,500526,0
+18215,"Affie Ellis",Affie,B.,Ellis,,,2,R,2,Sen,SD-008,6316708,66667,,Affie_Ellis,584268,0
+18469,"Jared Olsen",Jared,,Olsen,,,2,R,1,Rep,HD-011,40624988,171208,,Jared_Olsen,582909,0
+18487,"Michael Gierau",Michael,Frank,Gierau,,Mike,1,D,1,Rep,SD-017,40624996,52778,,Mike_Gierau,583099,0
+18549,"Tara Nethercott",Tara,B.,Nethercott,,,2,R,2,Sen,SD-004,40624947,171165,,Tara_Nethercott,584267,0
+18666,"Anthony Bouchard",Anthony,,Bouchard,,,2,R,2,Sen,SD-006,12746133,142923,,Anthony_Bouchard,424050,0
+18787,"Dan Furphy",Daniel,,Furphy,,Dan,2,R,1,Rep,SD-010,40624992,171216,,Dan_Furphy,582915,0
+18789,"Jerry Obermueller",Jerry,Allen,Obermueller,,,2,R,1,Rep,HD-056,10161348,171306,,Jerry_Obermueller,584844,0
+19384,"Landon Brown",Landon,J.,Brown,,,2,R,1,Rep,HD-009,40624983,171204,,Landon_Brown,582906,0
+19461,"Select Capital Financing & Investments",,,,,,0,,3,Jnt,,0,0,,,0,3728
+19558,"Clark Stith",Clark,,Stith,,,2,R,1,Rep,HD-048,6606167,52783,,Clark_Stith,499304,0
+19913,"Cyrus Western",Cyrus,McKee,Western,,,2,R,1,Rep,HD-051,44886508,184079,,Cyrus_Western,667821,0
+19963,"Select Federal Natural Resource Management",,,,,,0,,3,Jnt,,0,0,,,0,3779
+20157,"Wendy Davis Schuler",Wendy,,"Davis Schuler",,,2,R,2,Sen,SD-015,45364874,184028,,Wendy_Davis_Schuler,667745,0
+20171,"John Winter",John,R.,Winter,,,2,R,1,Rep,HD-028,45364904,184072,,John_Winter,667812,0
+20193,"Mike Yin",Michael,Stephen,Yin,,Mike,1,D,1,Rep,HD-016,45364894,184068,,Mike_Yin,667783,0
+20364,"Sandy Newsome",Sandy,,Newsome,,,2,R,1,Rep,HD-024,42157186,175358,,Sandy_Newsome,667798,0
+20375,"Clarence Styvar",Clarence,L.,Styvar,,,2,R,1,Rep,HD-012,40624990,171210,,Clarence_Styvar,582911,0
+20377,"Art Washut",Arthur,Lyle,Washut,,Art,2,R,1,Rep,HD-036,45364907,184074,,Art_Washut,668823,0
+20378,"Select Natural Resource Funding",,,,,,0,,3,Jnt,,0,0,,,0,1644
+21783,"Tribal Relations",,,,,,0,,3,Jnt,,0,0,,,0,4291
+21911,"Chip Neiman",Chip,,Neiman,,,2,R,1,Rep,HD-001,50052764,194490,,Chip_Neiman,742490,0
+22012,"Jeremy Haroldson",Jeremy,Michael,Haroldson,,,2,R,1,Rep,HD-004,50052766,194492,,Jeremy_Haroldson,742492,0
+22013,"Pepper Ottman",Pepper,L.,Ottman,,,2,R,1,Rep,HD-034,50052790,194583,,Pepper_Ottman,742593,0
+22014,"Rachel Rodriguez-Williams",Rachel,Lynne,Rodriguez-Williams,,,2,R,1,Rep,HD-050,50052803,194595,,Rachel_Rodriguez-Williams,742648,0
+22077,"Scott Heiner",Scott,D.,Heiner,,,2,R,1,Rep,HD-018,50052776,171225,,Scott_Heiner,585163,0
+22125,"Blockchain, Financial Technology and Digital Innovation Technology",,,,,,0,,3,Jnt,,0,0,,,0,4296
+22131,"John Kolb",John,K.,Kolb,,,2,R,2,Sen,SD-012,50052816,129296,,John_Kolb,742465,0
+22234,"John Bear",John,William,Bear,,,2,R,1,Rep,HD-031,50052787,60154,,John_Bear_(Wyoming),742586,0
+22235,"Tim French",Tim,,French,,,2,R,2,Sen,SD-018,50052820,100304,,Tim_French,742476,0
+22286,"Edward Cooper",Edward,D.,Cooper,,,2,R,2,Sen,SD-020,50052821,194474,,Edward_Cooper,742478,0
+22502,"Troy McKeown",Troy,Dean,McKeown,,,2,R,2,Sen,SD-024,50052823,194471,,Troy_McKeown,742484,0
+22510,"Ember Oakley",Ember,Ann,Oakley,,,2,R,1,Rep,HD-055,50052808,106125,,Ember_Oakley,742658,0
+22554,"Ocean Andrew",Ocean,,Andrew,,,2,R,1,Rep,HD-046,50052797,194591,,Ocean_Andrew,742635,0
+22555,"Barry Crago",Barry,V.,Crago,,,2,R,1,Rep,HD-040,50052792,194585,,Barry_Crago,742595,0
+22556,"Christopher Knapp",Christopher,,Knapp,,,2,R,1,Rep,HD-053,6652229,100262,,Christopher_Knapp,499364,0
+22557,"Kevin O'Hearn",Kevin,Charles,O'Hearn,,,2,R,1,Rep,HD-059,50052812,194602,,Kevin_O'Hearn,742669,0
+22676,"Karlee Provenza",Karlee,Rae,Provenza,,,1,D,1,Rep,HD-045,50052750,194589,,Karlee_Provenza,742633,0
+22677,"Trey Sherwood",Trey,,Sherwood,,,1,D,1,Rep,HD-014,50052743,194505,,Trey_Sherwood,742538,0
+23192,"Evie Brennan",Evie,,Brennan,,,2,R,2,Sen,SD-031,55621848,207660,,Evie_Brennan,0,0
+23310,"Ryan Berger",Ryan,C.,Berger,,,2,R,1,Rep,HD-049,55621918,207714,,Ryan_Berger,0,0
+23311,"Jon Conrad",Jon,,Conrad,,,2,R,1,Rep,HD-019,55621876,207681,,Jon_Conrad,0,0
+23382,"Tony Niemiec",Anthony,Joseph,Niemiec,,Tony,2,R,1,Rep,HD-060,55621931,207725,,Tony_Niemiec,0,0
+23383,"Ken Pendergraft",Ken,,Pendergraft,,,2,R,1,Rep,HD-029,55621893,194538,,Ken_Pendergraft,0,0
+23393,"Bill Allemand",Bill,,Allemand,,,2,R,1,Rep,HD-058,55621926,207721,,Bill_Allemand,0,0
+23394,"Abby Angelos",Abby,,Angelos,,,2,R,1,Rep,HD-003,55621853,207662,,Abby_Angelos,0,0
+23395,"Ben Hornok",Benjamin,J.,Hornok,,Ben,2,R,1,Rep,HD-042,55621904,207705,,Ben_Hornok,0,0
+23396,"Tony Locke",Tony,,Locke,,,2,R,1,Rep,HD-035,55621899,207702,,Tony_Locke,0,0
+23397,"Sarah Penn",Sarah,,Penn,,,2,R,1,Rep,HD-033,55621897,207700,,Sarah_Penn,0,0
+23398,"Allen Slagle",Allen,Earl,Slagle,,,2,R,1,Rep,HD-002,55621851,207661,,Allen_Slagle,0,0
+23399,"Scott Smith",Scott,,Smith,,,2,R,1,Rep,HD-005,55621856,207663,,Scott_Smith_(Wyoming),0,0
+23400,"Tomi Strock",Tomi,,Strock,,,2,R,1,Rep,HD-006,55621857,207664,,Tomi_Strock,0,0
+23401,"Jeanette Ward",Jeanette,,Ward,,,2,R,1,Rep,HD-057,55621924,188091,,Jeanette_Ward,0,0
+23643,"Lane Allred",Lane,,Allred,,,2,R,1,Rep,HD-021,12280118,207686,,Lane_Allred,0,0
+23644,"Martha Lawley",Martha,,Lawley,,,2,R,1,Rep,HD-027,55621891,207696,,Martha_Lawley,0,0
+23645,"Daniel Singh",Daniel,Jeremy,Singh,,,2,R,1,Rep,HD-061,55621934,210274,,Daniel_Singh,0,0
+23646,"Tamara Trujillo",Tamara,N.,Trujillo,,,2,R,1,Rep,HD-044,55621910,207710,,Tamara_Trujillo,0,0
+23647,"Cody Wylie",Cody,Mcneil,Wylie,,,2,R,1,Rep,HD-039,55621903,207704,,Cody_Wylie,0,0
+23683,"Robert Ide",Robert,Charles,Ide,,Bob,2,R,2,Sen,SD-029,55621847,153744,,Robert_Ide_(Wyoming),0,0
+23879,"Robert Davis",Robert,,Davis,,Bob,2,R,1,Rep,HD-047,55621915,207713,,Robert_Davis_(Wyoming),0,0
+24160,"Andrew Byron",Andrew,Peter,Byron,,,2,R,1,Rep,HD-022,55621880,207687,,Andrew_Byron,0,0
+24161,"Kenneth Chestek",Kenneth,Dean,Chestek,,Ken,1,D,1,Rep,HD-013,40625053,171292,,Ken_Chestek,0,0
+24162,"Kenneth Clouston",Kenneth,L.,Clouston,,Ken,2,R,1,Rep,HD-032,34387845,196263,,Ken_Clouston,0,0
+24163,"Reuben Tarver",Reuben,,Tarver,,,2,R,1,Rep,HD-052,55621922,207717,,Reuben_Tarver,0,0
+24296,"Forrest Chadwick",Forrest,,Chadwick,,,2,R,1,Rep,HD-062,13556361,162954,,Forrest_Chadwick,0,0
+24307,"Joshua Larson",Joshua,Thomas,Larson,,J.T.,2,R,1,Rep,HD-017,55621875,207679,,J.T._Larson,0,0
+24311,"Stacy Jones",Stacy,Jo,Jones,,,2,R,2,Sen,SD-013,55621841,207656,,Stacy_Jones,0,0
+24375,"Liz Storer",Elizabeth,,Storer,,Liz,1,D,1,Rep,HD-023,17970672,207688,,Liz_Storer,0,0
+24753,"Dalton Banks",Dalton,,Banks,,,2,R,1,Rep,HD-026,55621887,207693,,Dalton_Banks,810568,0

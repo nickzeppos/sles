@@ -1,0 +1,71 @@
+bill_id,session,chamber,action_date,journal_page,action,order
+HB1001,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1001,2023-SS2,H,2023-10-03,1537,Authored by Representative McCall,2
+HB1001,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1002,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1002,2023-SS2,H,2023-10-03,1537,Authored by Representative McCall,2
+HB1002,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1003,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1003,2023-SS2,H,2023-10-03,1537,Authored by Representative McCall,2
+HB1003,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1004,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1004,2023-SS2,H,2023-10-03,1537,Authored by Representative McCall,2
+HB1004,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1005,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1005,2023-SS2,H,2023-10-03,1537,Authored by Representative McCall,2
+HB1005,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1006,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1006,2023-SS2,H,2023-10-03,1537,Authored by Representative Wolfley,2
+HB1006,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1007,2023-SS2,H,2023-10-03,1537,First Reading,1
+HB1007,2023-SS2,H,2023-10-03,1537,Authored by Representative Wolfley,2
+HB1007,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1008,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1008,2023-SS2,H,2023-10-03,1538,Authored by Representative Steagall,2
+HB1008,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1009,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1009,2023-SS2,H,2023-10-03,1538,Authored by Representative Provenzano,2
+HB1009,2023-SS2,H,2023-10-04,1541,Second Reading referred to Appropriations and Budget,3
+HB1010,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1010,2023-SS2,H,2023-10-03,1538,Authored by Representative Munson,2
+HB1010,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1011,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1011,2023-SS2,H,2023-10-03,1538,Authored by Representative ODonnell,2
+HB1011,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1012,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1012,2023-SS2,H,2023-10-03,1538,Authored by Representative ODonnell,2
+HB1012,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1013,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1013,2023-SS2,H,2023-10-03,1538,Authored by Representative Fugate,2
+HB1013,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1014,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1014,2023-SS2,H,2023-10-03,1538,Authored by Representative Fugate,2
+HB1014,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1015,2023-SS2,H,2023-10-03,1538,First Reading,1
+HB1015,2023-SS2,H,2023-10-03,1538,Authored by Representative Humphrey,2
+HB1015,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1016,2023-SS2,H,2023-10-03,1539,First Reading,1
+HB1016,2023-SS2,H,2023-10-03,1539,Authored by Representative Lepak,2
+HB1016,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1017,2023-SS2,H,2023-10-03,1539,First Reading,1
+HB1017,2023-SS2,H,2023-10-03,1539,Authored by Representative Lepak,2
+HB1017,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HB1018,2023-SS2,H,2023-10-03,1539,First Reading,1
+HB1018,2023-SS2,H,2023-10-03,1539,Authored by Representative Lepak,2
+HB1018,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+HJR1001,2023-SS2,H,2023-10-03,1539,First Reading,1
+HJR1001,2023-SS2,H,2023-10-03,1539,Authored by Representative Gann,2
+HJR1001,2023-SS2,H,2023-10-04,1542,Second Reading referred to Appropriations and Budget,3
+SCR1,2023-SS2,S,2023-10-03,1460,First Reading,1
+SCR1,2023-SS2,S,2023-10-03,1460,Authored by Senator McCortney,2
+SCR1,2023-SS2,S,2023-10-03,1460,Coauthored by Representative Echols (principal House author),3
+SCR1,2023-SS2,S,2023-10-03,1460,Direct to Calendar,4
+SCR1,2023-SS2,S,2023-10-03,1460,"Adopted, referred for engrossment",5
+SCR1,2023-SS2,S,2023-10-03,1460,Engrossed to House,6
+SCR1,2023-SS2,H,2023-10-03,1539,Introduced,7
+SCR1,2023-SS2,H,2023-10-03,1539,Considered,8
+SCR1,2023-SS2,H,2023-10-03,1539,"Adopted, returned to Senate",9
+SCR1,2023-SS2,S,2023-10-03,1461,Referred for enrollment,10
+SCR1,2023-SS2,S,2023-10-03,1461,"Enrolled, to House",11
+SCR1,2023-SS2,H,2023-10-03,1540,"Signed, returned to Senate",12
+SCR1,2023-SS2,S,2023-10-03,1461,Filed with Secretary of State,13

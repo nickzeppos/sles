@@ -1,0 +1,779 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SR 23,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 23,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 23,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SB 1,811,Senate,2009-07-01,Left pending in committee,,,10
+SB 1,811,Senate,2009-07-01,Testimony taken in committee,,,9
+SB 1,811,Senate,2009-07-01,Considered in public hearing,,,8
+SB 1,811,Senate,2009-07-01,Scheduled for public hearing on  . . .,,,7
+SB 1,811,Senate,2009-07-01,Posting rule suspended,,8,6
+SB 1,811,Senate,2009-07-01,Referred to Finance,,7,5
+SB 1,811,Senate,2009-07-01,Read first time,,7,4
+SB 1,811,Senate,2009-07-01,Co-author authorized,,1,3
+SB 1,811,Senate,2009-06-26,Filed,,,2
+SB 1,811,Senate,2009-06-26,Received by the Secretary of the Senate,,,1
+SR 15,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 15,811,Senate,2009-07-01,Read & adopted,,10,2
+SR 15,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 27,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 27,811,Senate,2009-07-02,Read & adopted,,19,2
+SR 27,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 31,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 31,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 31,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SB 10,811,Senate,2009-06-29,Filed,,,2
+SB 10,811,Senate,2009-06-29,Received by the Secretary of the Senate,,,1
+SR 28,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 28,811,Senate,2009-07-02,Read & adopted,,19,2
+SR 28,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SJR 1,811,Senate,2009-06-30,Filed,,,2
+SJR 1,811,Senate,2009-06-30,Received by the Secretary of the Senate,,,1
+SR 21,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 21,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 21,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SB 2,811,Executive,2009-07-10,Effective immediately,,,46
+SB 2,811,Executive,2009-07-10,Signed by the Governor,,20,45
+SB 2,811,Executive,2009-07-02,Sent to the Governor,,20,44
+SB 2,811,House,2009-07-02,Signed in the House,,29,43
+SB 2,811,Senate,2009-07-02,Signed in the Senate,,17,42
+SB 2,811,Senate,2009-07-02,Reported enrolled,,20,41
+SB 2,811,Senate,2009-07-02,House passage reported,,17,40
+SB 2,811,House,2009-07-02,Statement(s) of vote recorded in Journal,,19,39
+SB 2,811,House,2009-07-02,Record vote,RV#9,19,38
+SB 2,811,House,2009-07-02,Passed,,19,37
+SB 2,811,House,2009-07-02,Read 3rd time,,19,36
+SB 2,811,House,2009-07-02,Record vote,RV#8,18,35
+SB 2,811,House,2009-07-02,Constitutional three day rule suspended,,18,34
+SB 2,811,House,2009-07-02,Passed to 3rd reading,,18,33
+SB 2,811,House,2009-07-02,Read 2nd time,,18,32
+SB 2,811,House,2009-07-02,Laid out in lieu of companion,HB 2,18,31
+SB 2,811,House,2009-07-02,Committee report sent to Calendars,,,30
+SB 2,811,House,2009-07-02,Committee report printed and distributed,,,29
+SB 2,811,House,2009-07-02,Comte report filed with Committee Coordinator,,30,28
+SB 2,811,House,2009-07-02,Reported favorably w/o amendment(s),,,27
+SB 2,811,House,2009-07-02,Considered in formal meeting,,,26
+SB 2,811,House,2009-07-02,Referred to State Affairs,,12,25
+SB 2,811,House,2009-07-02,Read first time,,12,24
+SB 2,811,House,2009-07-02,Received from the Senate,,12,23
+SB 2,811,Senate,2009-07-01,Reported engrossed,,19,22
+SB 2,811,Senate,2009-07-01,Record vote,,9,21
+SB 2,811,Senate,2009-07-01,Passed,,9,20
+SB 2,811,Senate,2009-07-01,Read 3rd time,,9,19
+SB 2,811,Senate,2009-07-01,Record vote,,9,18
+SB 2,811,Senate,2009-07-01,Three day rule suspended,,9,17
+SB 2,811,Senate,2009-07-01,Vote recorded in Journal,,9,16
+SB 2,811,Senate,2009-07-01,Read 2nd time & passed to engrossment,,9,15
+SB 2,811,Senate,2009-07-01,Record vote,,8,14
+SB 2,811,Senate,2009-07-01,Three day rule suspended,,8,13
+SB 2,811,Senate,2009-07-01,Rules suspended-Regular order of business,,8,12
+SB 2,811,Senate,2009-07-01,Printing rule suspended,,8,11
+SB 2,811,Senate,2009-07-01,Committee report printed and distributed,,,10
+SB 2,811,Senate,2009-07-01,Reported favorably w/o amendments,,10,9
+SB 2,811,Senate,2009-07-01,Testimony taken in committee,,,8
+SB 2,811,Senate,2009-07-01,Considered in public hearing,,,7
+SB 2,811,Senate,2009-07-01,Scheduled for public hearing on  . . .,,,6
+SB 2,811,Senate,2009-07-01,Posting rule suspended,,8,5
+SB 2,811,Senate,2009-07-01,Referred to Finance,,7,4
+SB 2,811,Senate,2009-07-01,Read first time,,7,3
+SB 2,811,Senate,2009-06-29,Filed,,,2
+SB 2,811,Senate,2009-06-29,Received by the Secretary of the Senate,,,1
+SB 12,811,Senate,2009-06-30,Filed,,,2
+SB 12,811,Senate,2009-06-30,Received by the Secretary of the Senate,,,1
+SB 13,811,Senate,2009-07-01,Filed,,,2
+SB 13,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SB 14,811,Senate,2009-07-01,Filed,,,2
+SB 14,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SB 15,811,Senate,2009-07-01,Filed,,,2
+SB 15,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 24,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 24,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 24,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 16,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 16,811,Senate,2009-07-01,Read & adopted,,10,2
+SR 16,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 19,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 19,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 19,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 20,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 20,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 20,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 30,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 30,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 30,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 3,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 3,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 3,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 4,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 4,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 4,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 5,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 5,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 5,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 6,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 6,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 6,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 7,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 7,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 7,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 8,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 8,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 8,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 9,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 9,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 9,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 12,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 12,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 12,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 13,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 13,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 13,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 22,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 22,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 22,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 25,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 25,811,Senate,2009-07-02,Read & adopted,,19,2
+SR 25,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SB 3,811,Senate,2009-07-01,Left pending in committee,,,9
+SB 3,811,Senate,2009-07-01,Testimony taken in committee,,,8
+SB 3,811,Senate,2009-07-01,Considered in public hearing,,,7
+SB 3,811,Senate,2009-07-01,Scheduled for public hearing on  . . .,,,6
+SB 3,811,Senate,2009-07-01,Posting rule suspended,,8,5
+SB 3,811,Senate,2009-07-01,Referred to Finance,,7,4
+SB 3,811,Senate,2009-07-01,Read first time,,7,3
+SB 3,811,Senate,2009-06-30,Filed,,,2
+SB 3,811,Senate,2009-06-30,Received by the Secretary of the Senate,,,1
+SR 14,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 14,811,Senate,2009-07-01,Read & adopted,,10,2
+SR 14,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 17,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 17,811,Senate,2009-07-02,Read & adopted,,14,2
+SR 17,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 18,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 18,811,Senate,2009-07-02,Read & adopted,,15,2
+SR 18,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 34,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 34,811,Senate,2009-07-02,Read & adopted,,19,2
+SR 34,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 11,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 11,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 11,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SB 6,811,Senate,2009-07-01,Co-author authorized,,1,3
+SB 6,811,Senate,2009-06-25,Filed,,,2
+SB 6,811,Senate,2009-06-25,Received by the Secretary of the Senate,,,1
+SR 2,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 2,811,Senate,2009-07-02,Read & adopted,,12,2
+SR 2,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 26,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 26,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 26,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 29,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 29,811,Senate,2009-07-02,Read & adopted,,19,2
+SR 29,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 32,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 32,811,Senate,2009-07-02,Read & adopted,,19,2
+SR 32,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 33,811,Senate,2009-07-02,Reported enrolled,,20,3
+SR 33,811,Senate,2009-07-02,Read & adopted,,18,2
+SR 33,811,Senate,2009-07-02,Received by the Secretary of the Senate,,,1
+SR 10,811,Senate,2009-07-01,Reported enrolled,,19,3
+SR 10,811,Senate,2009-07-01,Read & adopted,,9,2
+SR 10,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SR 1,811,Senate,2009-07-01,Reported enrolled,,19,4
+SR 1,811,Senate,2009-07-01,Record vote,,6,3
+SR 1,811,Senate,2009-07-01,Read & adopted,,6,2
+SR 1,811,Senate,2009-07-01,Received by the Secretary of the Senate,,,1
+SCR 1,811,Senate,2009-07-01,Committee report printed and distributed,,,9
+SCR 1,811,Senate,2009-07-01,Reported favorably w/o amendments,,10,8
+SCR 1,811,Senate,2009-07-01,Considered in public hearing,,,7
+SCR 1,811,Senate,2009-07-01,Scheduled for public hearing on  . . .,,,6
+SCR 1,811,Senate,2009-07-01,Posting rule suspended,,8,5
+SCR 1,811,Senate,2009-07-01,Referred to Administration,,8,4
+SCR 1,811,Senate,2009-07-01,Read first time,,8,3
+SCR 1,811,Senate,2009-06-30,Filed,,,2
+SCR 1,811,Senate,2009-06-30,Received by the Secretary of the Senate,,,1
+SJR 2,811,Senate,2009-07-01,Committee report printed and distributed,,,9
+SJR 2,811,Senate,2009-07-01,Reported favorably w/o amendments,,10,8
+SJR 2,811,Senate,2009-07-01,Considered in public hearing,,,7
+SJR 2,811,Senate,2009-07-01,Scheduled for public hearing on  . . .,,,6
+SJR 2,811,Senate,2009-07-01,Posting rule suspended,,8,5
+SJR 2,811,Senate,2009-07-01,Referred to Administration,,8,4
+SJR 2,811,Senate,2009-07-01,Read first time,,8,3
+SJR 2,811,Senate,2009-06-30,Filed,,,2
+SJR 2,811,Senate,2009-06-30,Received by the Secretary of the Senate,,,1
+SB 7,811,Senate,2009-06-26,Filed,,,2
+SB 7,811,Senate,2009-06-26,Received by the Secretary of the Senate,,,1
+SB 8,811,Senate,2009-06-26,Filed,,,2
+SB 8,811,Senate,2009-06-26,Received by the Secretary of the Senate,,,1
+SB 9,811,Senate,2009-06-26,Filed,,,2
+SB 9,811,Senate,2009-06-26,Received by the Secretary of the Senate,,,1
+SB 11,811,Senate,2009-06-30,Filed,,,2
+SB 11,811,Senate,2009-06-30,Received by the Secretary of the Senate,,,1
+HR 73,811,House,2009-07-07,Reported enrolled,,,4
+HR 73,811,House,2009-07-02,Adopted,,25,3
+HR 73,811,House,2009-07-02,Rules suspended,,25,2
+HR 73,811,House,2009-07-02,Filed,,,1
+HR 82,811,House,2009-07-02,Filed,,,1
+HR 35,811,House,2009-07-07,Reported enrolled,,,4
+HR 35,811,House,2009-07-02,Adopted,,27,3
+HR 35,811,House,2009-07-02,Rules suspended,,27,2
+HR 35,811,House,2009-07-02,Filed,,,1
+HR 24,811,House,2009-07-07,Reported enrolled,,,4
+HR 24,811,House,2009-07-02,Adopted,,23,3
+HR 24,811,House,2009-07-02,Rules suspended,,23,2
+HR 24,811,House,2009-07-01,Filed,,,1
+HR 61,811,House,2009-07-07,Reported enrolled,,,4
+HR 61,811,House,2009-07-02,Adopted,,20,3
+HR 61,811,House,2009-07-02,Rules suspended,,20,2
+HR 61,811,House,2009-07-02,Filed,,,1
+HB 15,811,House,2009-07-01,Filed,,,1
+HR 89,811,House,2009-07-07,Reported enrolled,,,4
+HR 89,811,House,2009-07-02,Adopted,,26,3
+HR 89,811,House,2009-07-02,Rules suspended,,26,2
+HR 89,811,House,2009-07-02,Filed,,,1
+HB 2,811,House,2009-07-02,Laid on the table subject to call,,18,15
+HB 2,811,House,2009-07-02,Companion considered in lieu of,SB 2,18,14
+HB 2,811,House,2009-07-02,Placed on Major State Calendar,,,13
+HB 2,811,House,2009-07-01,Considered in Calendars,,,12
+HB 2,811,House,2009-07-01,Committee report sent to Calendars,,,11
+HB 2,811,House,2009-07-01,Committee report printed and distributed,,,10
+HB 2,811,House,2009-07-01,Comte report filed with Committee Coordinator,,30,9
+HB 2,811,House,2009-07-01,Reported favorably w/o amendment(s),,,8
+HB 2,811,House,2009-07-01,Testimony taken/registration(s) recorded in committee,,,7
+HB 2,811,House,2009-07-01,Considered in public hearing,,,6
+HB 2,811,House,2009-07-01,Scheduled for public hearing on . . .,,,5
+HB 2,811,House,2009-07-01,Posting rule suspended,,6,4
+HB 2,811,House,2009-07-01,Referred to State Affairs,,7,3
+HB 2,811,House,2009-07-01,Read first time,,7,2
+HB 2,811,House,2009-06-29,Filed,,,1
+HR 108,811,House,2009-07-07,Reported enrolled,,,4
+HR 108,811,House,2009-07-02,Adopted,,28,3
+HR 108,811,House,2009-07-02,Rules suspended,,28,2
+HR 108,811,House,2009-07-02,Filed,,,1
+HR 87,811,House,2009-07-07,Reported enrolled,,,4
+HR 87,811,House,2009-07-02,Adopted,,27,3
+HR 87,811,House,2009-07-02,Rules suspended,,27,2
+HR 87,811,House,2009-07-02,Filed,,,1
+HB 11,811,House,2009-07-01,Referred to Human Services,,7,3
+HB 11,811,House,2009-07-01,Read first time,,7,2
+HB 11,811,House,2009-06-26,Filed,,,1
+HB 13,811,House,2009-07-01,Filed,,,1
+HR 18,811,House,2009-07-01,Reported enrolled,,,5
+HR 18,811,House,2009-07-01,Record vote,RV#2,4,4
+HR 18,811,House,2009-07-01,Adopted,,4,3
+HR 18,811,House,2009-07-01,Rules suspended,,4,2
+HR 18,811,House,2009-06-30,Filed,,,1
+HR 21,811,House,2009-07-07,Reported enrolled,,,4
+HR 21,811,House,2009-07-02,Adopted,,27,3
+HR 21,811,House,2009-07-02,Rules suspended,,27,2
+HR 21,811,House,2009-07-01,Filed,,,1
+HB 16,811,House,2009-07-01,Filed,,,1
+HR 48,811,House,2009-07-07,Reported enrolled,,,4
+HR 48,811,House,2009-07-02,Adopted,,27,3
+HR 48,811,House,2009-07-02,Rules suspended,,27,2
+HR 48,811,House,2009-07-02,Filed,,,1
+HR 25,811,House,2009-07-07,Reported enrolled,,,4
+HR 25,811,House,2009-07-02,Adopted,,11,3
+HR 25,811,House,2009-07-02,Rules suspended,,11,2
+HR 25,811,House,2009-07-01,Filed,,,1
+HR 1,811,House,2009-07-07,Reported enrolled,,,4
+HR 1,811,House,2009-07-02,Adopted,,22,3
+HR 1,811,House,2009-07-02,Rules suspended,,22,2
+HR 1,811,House,2009-06-29,Filed,,,1
+HR 2,811,House,2009-07-07,Reported enrolled,,,4
+HR 2,811,House,2009-07-02,Adopted,,22,3
+HR 2,811,House,2009-07-02,Rules suspended,,22,2
+HR 2,811,House,2009-06-29,Filed,,,1
+HR 3,811,House,2009-07-07,Reported enrolled,,,4
+HR 3,811,House,2009-07-02,Adopted,,22,3
+HR 3,811,House,2009-07-02,Rules suspended,,22,2
+HR 3,811,House,2009-06-29,Filed,,,1
+HR 4,811,House,2009-07-07,Reported enrolled,,,4
+HR 4,811,House,2009-07-02,Adopted,,22,3
+HR 4,811,House,2009-07-02,Rules suspended,,22,2
+HR 4,811,House,2009-06-29,Filed,,,1
+HR 5,811,House,2009-07-07,Reported enrolled,,,4
+HR 5,811,House,2009-07-02,Adopted,,22,3
+HR 5,811,House,2009-07-02,Rules suspended,,22,2
+HR 5,811,House,2009-06-29,Filed,,,1
+HR 6,811,House,2009-07-07,Reported enrolled,,,4
+HR 6,811,House,2009-07-02,Adopted,,22,3
+HR 6,811,House,2009-07-02,Rules suspended,,22,2
+HR 6,811,House,2009-06-29,Filed,,,1
+HR 7,811,House,2009-07-07,Reported enrolled,,,4
+HR 7,811,House,2009-07-02,Adopted,,22,3
+HR 7,811,House,2009-07-02,Rules suspended,,22,2
+HR 7,811,House,2009-06-29,Filed,,,1
+HR 8,811,House,2009-07-07,Reported enrolled,,,4
+HR 8,811,House,2009-07-02,Adopted,,22,3
+HR 8,811,House,2009-07-02,Rules suspended,,22,2
+HR 8,811,House,2009-06-29,Filed,,,1
+HR 9,811,House,2009-07-07,Reported enrolled,,,4
+HR 9,811,House,2009-07-02,Adopted,,22,3
+HR 9,811,House,2009-07-02,Rules suspended,,22,2
+HR 9,811,House,2009-06-29,Filed,,,1
+HR 10,811,House,2009-07-07,Reported enrolled,,,4
+HR 10,811,House,2009-07-02,Adopted,,22,3
+HR 10,811,House,2009-07-02,Rules suspended,,22,2
+HR 10,811,House,2009-06-29,Filed,,,1
+HR 11,811,House,2009-07-07,Reported enrolled,,,4
+HR 11,811,House,2009-07-02,Adopted,,22,3
+HR 11,811,House,2009-07-02,Rules suspended,,22,2
+HR 11,811,House,2009-06-29,Filed,,,1
+HR 12,811,House,2009-07-07,Reported enrolled,,,4
+HR 12,811,House,2009-07-02,Adopted,,23,3
+HR 12,811,House,2009-07-02,Rules suspended,,23,2
+HR 12,811,House,2009-06-29,Filed,,,1
+HR 13,811,House,2009-07-07,Reported enrolled,,,4
+HR 13,811,House,2009-07-02,Adopted,,23,3
+HR 13,811,House,2009-07-02,Rules suspended,,23,2
+HR 13,811,House,2009-06-30,Filed,,,1
+HR 38,811,House,2009-07-07,Reported enrolled,,,4
+HR 38,811,House,2009-07-02,Adopted,,24,3
+HR 38,811,House,2009-07-02,Rules suspended,,24,2
+HR 38,811,House,2009-07-02,Filed,,,1
+HR 39,811,House,2009-07-07,Reported enrolled,,,4
+HR 39,811,House,2009-07-02,Adopted,,24,3
+HR 39,811,House,2009-07-02,Rules suspended,,24,2
+HR 39,811,House,2009-07-02,Filed,,,1
+HR 62,811,House,2009-07-07,Reported enrolled,,,4
+HR 62,811,House,2009-07-02,Adopted,,20,3
+HR 62,811,House,2009-07-02,Rules suspended,,20,2
+HR 62,811,House,2009-07-02,Filed,,,1
+HR 64,811,House,2009-07-07,Reported enrolled,,,4
+HR 64,811,House,2009-07-02,Adopted,,21,3
+HR 64,811,House,2009-07-02,Rules suspended,,21,2
+HR 64,811,House,2009-07-02,Filed,,,1
+HR 66,811,House,2009-07-07,Reported enrolled,,,4
+HR 66,811,House,2009-07-02,Adopted,,25,3
+HR 66,811,House,2009-07-02,Rules suspended,,25,2
+HR 66,811,House,2009-07-02,Filed,,,1
+HR 33,811,House,2009-07-07,Reported enrolled,,,4
+HR 33,811,House,2009-07-02,Adopted,,11,3
+HR 33,811,House,2009-07-02,Rules suspended,,11,2
+HR 33,811,House,2009-07-01,Filed,,,1
+HB 17,811,House,2009-07-01,Filed,,,1
+HR 107,811,House,2009-07-07,Reported enrolled,,,4
+HR 107,811,House,2009-07-02,Adopted,,27,3
+HR 107,811,House,2009-07-02,Rules suspended,,27,2
+HR 107,811,House,2009-07-02,Filed,,,1
+HR 67,811,House,2009-07-07,Reported enrolled,,,4
+HR 67,811,House,2009-07-02,Adopted,,25,3
+HR 67,811,House,2009-07-02,Rules suspended,,25,2
+HR 67,811,House,2009-07-02,Filed,,,1
+HR 59,811,House,2009-07-07,Reported enrolled,,,4
+HR 59,811,House,2009-07-02,Adopted,,27,3
+HR 59,811,House,2009-07-02,Rules suspended,,27,2
+HR 59,811,House,2009-07-02,Filed,,,1
+HR 60,811,House,2009-07-07,Reported enrolled,,,4
+HR 60,811,House,2009-07-02,Adopted,,24,3
+HR 60,811,House,2009-07-02,Rules suspended,,24,2
+HR 60,811,House,2009-07-02,Filed,,,1
+HR 26,811,House,2009-07-07,Reported enrolled,,,4
+HR 26,811,House,2009-07-02,Adopted,,23,3
+HR 26,811,House,2009-07-02,Rules suspended,,23,2
+HR 26,811,House,2009-07-01,Filed,,,1
+HCR 1,811,House,2009-07-01,Referred to State Affairs,,8,2
+HCR 1,811,House,2009-07-01,Filed,,,1
+HCR 2,811,Executive,2009-07-10,Signed by the Governor,,30,11
+HCR 2,811,Executive,2009-07-02,Sent to the Governor,,30,10
+HCR 2,811,Senate,2009-07-02,Signed in the Senate,,18,9
+HCR 2,811,House,2009-07-02,Signed in the House,,29,8
+HCR 2,811,House,2009-07-02,Reported enrolled,,30,7
+HCR 2,811,House,2009-07-02,Senate passage reported,,29,6
+HCR 2,811,Senate,2009-07-02,Read & adopted,,18,5
+HCR 2,811,Senate,2009-07-02,Received from the House,,16,4
+HCR 2,811,House,2009-07-02,Adopted,,20,3
+HCR 2,811,House,2009-07-02,Rules suspended,,20,2
+HCR 2,811,House,2009-07-01,Filed,,,1
+HCR 4,811,House,2009-07-01,Filed,,,1
+HR 20,811,House,2009-07-07,Reported enrolled,,,4
+HR 20,811,House,2009-07-02,Adopted,,27,3
+HR 20,811,House,2009-07-02,Rules suspended,,27,2
+HR 20,811,House,2009-07-01,Filed,,,1
+HR 40,811,House,2009-07-07,Reported enrolled,,,4
+HR 40,811,House,2009-07-02,Adopted,,24,3
+HR 40,811,House,2009-07-02,Rules suspended,,24,2
+HR 40,811,House,2009-07-02,Filed,,,1
+HR 41,811,House,2009-07-07,Reported enrolled,,,4
+HR 41,811,House,2009-07-02,Adopted,,24,3
+HR 41,811,House,2009-07-02,Rules suspended,,24,2
+HR 41,811,House,2009-07-02,Filed,,,1
+HR 102,811,House,2009-07-07,Reported enrolled,,,4
+HR 102,811,House,2009-07-02,Adopted,,26,3
+HR 102,811,House,2009-07-02,Rules suspended,,26,2
+HR 102,811,House,2009-07-02,Filed,,,1
+HB 12,811,House,2009-07-01,Referred to Public Safety,,7,3
+HB 12,811,House,2009-07-01,Read first time,,7,2
+HB 12,811,House,2009-06-30,Filed,,,1
+HR 42,811,House,2009-07-07,Reported enrolled,,,4
+HR 42,811,House,2009-07-02,Adopted,,27,3
+HR 42,811,House,2009-07-02,Rules suspended,,27,2
+HR 42,811,House,2009-07-02,Filed,,,1
+HR 43,811,House,2009-07-07,Reported enrolled,,,4
+HR 43,811,House,2009-07-02,Adopted,,24,3
+HR 43,811,House,2009-07-02,Rules suspended,,24,2
+HR 43,811,House,2009-07-02,Filed,,,1
+HR 44,811,House,2009-07-07,Reported enrolled,,,4
+HR 44,811,House,2009-07-02,Adopted,,24,3
+HR 44,811,House,2009-07-02,Rules suspended,,24,2
+HR 44,811,House,2009-07-02,Filed,,,1
+HR 45,811,House,2009-07-07,Reported enrolled,,,4
+HR 45,811,House,2009-07-02,Adopted,,24,3
+HR 45,811,House,2009-07-02,Rules suspended,,24,2
+HR 45,811,House,2009-07-02,Filed,,,1
+HR 46,811,House,2009-07-07,Reported enrolled,,,4
+HR 46,811,House,2009-07-02,Adopted,,24,3
+HR 46,811,House,2009-07-02,Rules suspended,,24,2
+HR 46,811,House,2009-07-02,Filed,,,1
+HR 47,811,House,2009-07-07,Reported enrolled,,,4
+HR 47,811,House,2009-07-02,Adopted,,24,3
+HR 47,811,House,2009-07-02,Rules suspended,,24,2
+HR 47,811,House,2009-07-02,Filed,,,1
+HR 76,811,House,2009-07-07,Reported enrolled,,,4
+HR 76,811,House,2009-07-02,Adopted,,25,3
+HR 76,811,House,2009-07-02,Rules suspended,,25,2
+HR 76,811,House,2009-07-02,Filed,,,1
+HR 77,811,House,2009-07-07,Reported enrolled,,,4
+HR 77,811,House,2009-07-02,Adopted,,25,3
+HR 77,811,House,2009-07-02,Rules suspended,,25,2
+HR 77,811,House,2009-07-02,Filed,,,1
+HR 103,811,House,2009-07-07,Reported enrolled,,,4
+HR 103,811,House,2009-07-02,Adopted,,26,3
+HR 103,811,House,2009-07-02,Rules suspended,,26,2
+HR 103,811,House,2009-07-02,Filed,,,1
+HR 104,811,House,2009-07-07,Reported enrolled,,,4
+HR 104,811,House,2009-07-02,Adopted,,26,3
+HR 104,811,House,2009-07-02,Rules suspended,,26,2
+HR 104,811,House,2009-07-02,Filed,,,1
+HR 63,811,House,2009-07-07,Reported enrolled,,,4
+HR 63,811,House,2009-07-02,Adopted,,27,3
+HR 63,811,House,2009-07-02,Rules suspended,,27,2
+HR 63,811,House,2009-07-02,Filed,,,1
+HB 1,811,Executive,2009-07-10,Effective immediately,,,56
+HB 1,811,Executive,2009-07-10,Signed by the Governor,,30,55
+HB 1,811,Executive,2009-07-08,Sent to the Governor,,30,54
+HB 1,811,Executive,2009-07-07,Sent to the Comptroller,,30,53
+HB 1,811,Senate,2009-07-02,Signed in Senate-Art III Sec 49a Tx. Const.,,18,52
+HB 1,811,House,2009-07-02,Signed in the House,,29,51
+HB 1,811,House,2009-07-02,Reported enrolled,,30,50
+HB 1,811,House,2009-07-02,Senate passage reported,,29,49
+HB 1,811,Senate,2009-07-02,Record vote,,18,48
+HB 1,811,Senate,2009-07-02,Passed,,18,47
+HB 1,811,Senate,2009-07-02,Read 3rd time,,18,46
+HB 1,811,Senate,2009-07-02,Record vote,,18,45
+HB 1,811,Senate,2009-07-02,Three day rule suspended,,17,44
+HB 1,811,Senate,2009-07-02,Vote recorded in Journal,,17,43
+HB 1,811,Senate,2009-07-02,Read 2nd time & passed to 3rd reading,,17,42
+HB 1,811,Senate,2009-07-02,Record vote,,17,41
+HB 1,811,Senate,2009-07-02,Three day rule suspended,,17,40
+HB 1,811,Senate,2009-07-02,Rules suspended-Regular order of business,,17,39
+HB 1,811,Senate,2009-07-02,Printing rule suspended,,17,38
+HB 1,811,Senate,2009-07-02,Reported favorably w/o amendments,,19,37
+HB 1,811,Senate,2009-07-02,Considered in public hearing,,,36
+HB 1,811,Senate,2009-07-02,Scheduled for public hearing on  . . .,,,35
+HB 1,811,Senate,2009-07-02,Referred to Finance,,17,34
+HB 1,811,Senate,2009-07-02,Read first time,,17,33
+HB 1,811,Senate,2009-07-02,Received from the House,,16,32
+HB 1,811,House,2009-07-02,Reported engrossed,,30,31
+HB 1,811,House,2009-07-02,Rules suspended,,18,30
+HB 1,811,House,2009-07-02,Statement(s) of vote recorded in Journal,,18,29
+HB 1,811,House,2009-07-02,Record vote,RV#7,17,28
+HB 1,811,House,2009-07-02,Subject to Art.III Sec.49a Tx. Constitution,,18,27
+HB 1,811,House,2009-07-02,Passed,,17,26
+HB 1,811,House,2009-07-02,Read 3rd time,,17,25
+HB 1,811,House,2009-07-02,Record vote,RV#6,16,24
+HB 1,811,House,2009-07-02,Constitutional three day rule suspended,,16,23
+HB 1,811,House,2009-07-02,Passed to engrossment as amended,,16,22
+HB 1,811,House,2009-07-02,Statement of Leg. Intent Recorded in Journal,,15,21
+HB 1,811,House,2009-07-02,Amended,4-England and Y. Davis,15,20
+HB 1,811,House,2009-07-02,Amendment adopted as amended,"2-Pitts, Chisum, and Giddings",15,19
+HB 1,811,House,2009-07-02,Record vote,RV#5,14,18
+HB 1,811,House,2009-07-02,Amendment amended,"3-Leibowitz, Peña, and Anderson",14,17
+HB 1,811,House,2009-07-02,Amendment(s) offered,"2-Pitts, Chisum, and Giddings",14,16
+HB 1,811,House,2009-07-02,Amended,1-Pitts,13,15
+HB 1,811,House,2009-07-02,Read 2nd time,,13,14
+HB 1,811,House,2009-07-02,Placed on Major State Calendar,,,13
+HB 1,811,House,2009-07-01,Considered in Calendars,,,12
+HB 1,811,House,2009-07-01,Committee report sent to Calendars,,,11
+HB 1,811,House,2009-07-01,Committee report printed and distributed,,,10
+HB 1,811,House,2009-07-01,Comte report filed with Committee Coordinator,,30,9
+HB 1,811,House,2009-07-01,Reported favorably w/o amendment(s),,,8
+HB 1,811,House,2009-07-01,Testimony taken/registration(s) recorded in committee,,,7
+HB 1,811,House,2009-07-01,Considered in public hearing,,,6
+HB 1,811,House,2009-07-01,Scheduled for public hearing on . . .,,,5
+HB 1,811,House,2009-07-01,Posting rule suspended,,6,4
+HB 1,811,House,2009-07-01,Referred to Appropriations,,7,3
+HB 1,811,House,2009-07-01,Read first time,,7,2
+HB 1,811,House,2009-06-29,Filed,,,1
+HCR 3,811,Executive,2009-07-10,Signed by the Governor,,30,11
+HCR 3,811,Executive,2009-07-02,Sent to the Governor,,30,10
+HCR 3,811,Senate,2009-07-02,Signed in the Senate,,18,9
+HCR 3,811,House,2009-07-02,Signed in the House,,29,8
+HCR 3,811,House,2009-07-02,Reported enrolled,,30,7
+HCR 3,811,House,2009-07-02,Senate passage reported,,29,6
+HCR 3,811,Senate,2009-07-02,Read & adopted,,18,5
+HCR 3,811,Senate,2009-07-02,Received from the House,,13,4
+HCR 3,811,House,2009-07-02,Adopted,,10,3
+HCR 3,811,House,2009-07-02,Rules suspended,,10,2
+HCR 3,811,House,2009-07-01,Filed,,,1
+HR 16,811,House,2009-07-07,Reported enrolled,,,4
+HR 16,811,House,2009-07-02,Adopted,,23,3
+HR 16,811,House,2009-07-02,Rules suspended,,23,2
+HR 16,811,House,2009-06-30,Filed,,,1
+HR 17,811,House,2009-06-30,Filed,,,1
+HR 31,811,House,2009-07-07,Reported enrolled,,,4
+HR 31,811,House,2009-07-02,Adopted,,23,3
+HR 31,811,House,2009-07-02,Rules suspended,,23,2
+HR 31,811,House,2009-07-01,Filed,,,1
+HR 32,811,House,2009-07-07,Reported enrolled,,,4
+HR 32,811,House,2009-07-02,Adopted,,23,3
+HR 32,811,House,2009-07-02,Rules suspended,,23,2
+HR 32,811,House,2009-07-01,Filed,,,1
+HR 56,811,House,2009-07-07,Reported enrolled,,,4
+HR 56,811,House,2009-07-02,Adopted,,27,3
+HR 56,811,House,2009-07-02,Rules suspended,,27,2
+HR 56,811,House,2009-07-02,Filed,,,1
+HCR 6,811,Executive,2009-07-10,Signed by the Governor,,30,11
+HCR 6,811,Executive,2009-07-02,Sent to the Governor,,30,10
+HCR 6,811,Senate,2009-07-02,Signed in the Senate,,18,9
+HCR 6,811,House,2009-07-02,Signed in the House,,29,8
+HCR 6,811,House,2009-07-02,Reported enrolled,,30,7
+HCR 6,811,House,2009-07-02,Senate passage reported,,30,6
+HCR 6,811,Senate,2009-07-02,Read & adopted,,19,5
+HCR 6,811,Senate,2009-07-02,Received from the House,,17,4
+HCR 6,811,House,2009-07-02,Adopted,,20,3
+HCR 6,811,House,2009-07-02,Rules suspended,,20,2
+HCR 6,811,House,2009-07-02,Filed,,,1
+HCR 7,811,House,2009-07-02,Filed,,,1
+HR 22,811,House,2009-07-07,Reported enrolled,,,4
+HR 22,811,House,2009-07-02,Adopted,,23,3
+HR 22,811,House,2009-07-02,Rules suspended,,23,2
+HR 22,811,House,2009-07-01,Filed,,,1
+HR 23,811,House,2009-07-07,Reported enrolled,,,4
+HR 23,811,House,2009-07-02,Adopted,,23,3
+HR 23,811,House,2009-07-02,Rules suspended,,23,2
+HR 23,811,House,2009-07-01,Filed,,,1
+HR 29,811,House,2009-07-07,Reported enrolled,,,4
+HR 29,811,House,2009-07-02,Adopted,,23,3
+HR 29,811,House,2009-07-02,Rules suspended,,23,2
+HR 29,811,House,2009-07-01,Filed,,,1
+HR 30,811,House,2009-07-07,Reported enrolled,,,4
+HR 30,811,House,2009-07-02,Adopted,,23,3
+HR 30,811,House,2009-07-02,Rules suspended,,23,2
+HR 30,811,House,2009-07-01,Filed,,,1
+HR 34,811,House,2009-07-07,Reported enrolled,,,4
+HR 34,811,House,2009-07-02,Adopted,,23,3
+HR 34,811,House,2009-07-02,Rules suspended,,23,2
+HR 34,811,House,2009-07-02,Filed,,,1
+HR 36,811,House,2009-07-07,Reported enrolled,,,4
+HR 36,811,House,2009-07-02,Adopted,,23,3
+HR 36,811,House,2009-07-02,Rules suspended,,23,2
+HR 36,811,House,2009-07-02,Filed,,,1
+HR 37,811,House,2009-07-07,Reported enrolled,,,4
+HR 37,811,House,2009-07-02,Adopted,,23,3
+HR 37,811,House,2009-07-02,Rules suspended,,23,2
+HR 37,811,House,2009-07-02,Filed,,,1
+HR 49,811,House,2009-07-07,Reported enrolled,,,4
+HR 49,811,House,2009-07-02,Adopted,,24,3
+HR 49,811,House,2009-07-02,Rules suspended,,24,2
+HR 49,811,House,2009-07-02,Filed,,,1
+HR 95,811,House,2009-07-07,Reported enrolled,,,4
+HR 95,811,House,2009-07-02,Adopted,,27,3
+HR 95,811,House,2009-07-02,Rules suspended,,27,2
+HR 95,811,House,2009-07-02,Filed,,,1
+HR 96,811,House,2009-07-07,Reported enrolled,,,4
+HR 96,811,House,2009-07-02,Adopted,,26,3
+HR 96,811,House,2009-07-02,Rules suspended,,26,2
+HR 96,811,House,2009-07-02,Filed,,,1
+HR 97,811,House,2009-07-07,Reported enrolled,,,4
+HR 97,811,House,2009-07-02,Adopted,,26,3
+HR 97,811,House,2009-07-02,Rules suspended,,26,2
+HR 97,811,House,2009-07-02,Filed,,,1
+HR 98,811,House,2009-07-07,Reported enrolled,,,4
+HR 98,811,House,2009-07-02,Adopted,,26,3
+HR 98,811,House,2009-07-02,Rules suspended,,26,2
+HR 98,811,House,2009-07-02,Filed,,,1
+HR 99,811,House,2009-07-07,Reported enrolled,,,4
+HR 99,811,House,2009-07-02,Adopted,,26,3
+HR 99,811,House,2009-07-02,Rules suspended,,26,2
+HR 99,811,House,2009-07-02,Filed,,,1
+HR 100,811,House,2009-07-07,Reported enrolled,,,4
+HR 100,811,House,2009-07-02,Adopted,,27,3
+HR 100,811,House,2009-07-02,Rules suspended,,27,2
+HR 100,811,House,2009-07-02,Filed,,,1
+HR 101,811,House,2009-07-07,Reported enrolled,,,4
+HR 101,811,House,2009-07-02,Adopted,,26,3
+HR 101,811,House,2009-07-02,Rules suspended,,26,2
+HR 101,811,House,2009-07-02,Filed,,,1
+HR 15,811,House,2009-07-01,Reported enrolled,,,4
+HR 15,811,House,2009-07-01,Adopted,,5,3
+HR 15,811,House,2009-07-01,Rules suspended,,5,2
+HR 15,811,House,2009-06-30,Filed,,,1
+HB 14,811,House,2009-07-01,Filed,,,1
+HR 14,811,House,2009-07-07,Reported enrolled,,,4
+HR 14,811,House,2009-07-02,Adopted,,23,3
+HR 14,811,House,2009-07-02,Rules suspended,,23,2
+HR 14,811,House,2009-06-30,Filed,,,1
+HR 78,811,House,2009-07-07,Reported enrolled,,,4
+HR 78,811,House,2009-07-02,Adopted,,25,3
+HR 78,811,House,2009-07-02,Rules suspended,,25,2
+HR 78,811,House,2009-07-02,Filed,,,1
+HR 65,811,House,2009-07-07,Reported enrolled,,,4
+HR 65,811,House,2009-07-02,Adopted,,27,3
+HR 65,811,House,2009-07-02,Rules suspended,,27,2
+HR 65,811,House,2009-07-02,Filed,,,1
+HR 90,811,House,2009-07-07,Reported enrolled,,,4
+HR 90,811,House,2009-07-02,Adopted,,26,3
+HR 90,811,House,2009-07-02,Rules suspended,,26,2
+HR 90,811,House,2009-07-02,Filed,,,1
+HR 19,811,House,2009-07-07,Reported enrolled,,,4
+HR 19,811,House,2009-07-02,Adopted,,23,3
+HR 19,811,House,2009-07-02,Rules suspended,,23,2
+HR 19,811,House,2009-06-30,Filed,,,1
+HR 50,811,House,2009-07-07,Reported enrolled,,,4
+HR 50,811,House,2009-07-02,Adopted,,24,3
+HR 50,811,House,2009-07-02,Rules suspended,,24,2
+HR 50,811,House,2009-07-02,Filed,,,1
+HR 51,811,House,2009-07-07,Reported enrolled,,,4
+HR 51,811,House,2009-07-02,Adopted,,24,3
+HR 51,811,House,2009-07-02,Rules suspended,,24,2
+HR 51,811,House,2009-07-02,Filed,,,1
+HR 52,811,House,2009-07-07,Reported enrolled,,,4
+HR 52,811,House,2009-07-02,Adopted,,27,3
+HR 52,811,House,2009-07-02,Rules suspended,,27,2
+HR 52,811,House,2009-07-02,Filed,,,1
+HR 53,811,House,2009-07-07,Reported enrolled,,,4
+HR 53,811,House,2009-07-02,Adopted,,24,3
+HR 53,811,House,2009-07-02,Rules suspended,,24,2
+HR 53,811,House,2009-07-02,Filed,,,1
+HR 54,811,House,2009-07-07,Reported enrolled,,,4
+HR 54,811,House,2009-07-02,Adopted,,24,3
+HR 54,811,House,2009-07-02,Rules suspended,,24,2
+HR 54,811,House,2009-07-02,Filed,,,1
+HR 55,811,House,2009-07-07,Reported enrolled,,,4
+HR 55,811,House,2009-07-02,Adopted,,24,3
+HR 55,811,House,2009-07-02,Rules suspended,,24,2
+HR 55,811,House,2009-07-02,Filed,,,1
+HR 84,811,House,2009-07-07,Reported enrolled,,,4
+HR 84,811,House,2009-07-02,Adopted,,26,3
+HR 84,811,House,2009-07-02,Rules suspended,,26,2
+HR 84,811,House,2009-07-02,Filed,,,1
+HR 85,811,House,2009-07-07,Reported enrolled,,,4
+HR 85,811,House,2009-07-02,Adopted,,26,3
+HR 85,811,House,2009-07-02,Rules suspended,,26,2
+HR 85,811,House,2009-07-02,Filed,,,1
+HR 86,811,House,2009-07-07,Reported enrolled,,,4
+HR 86,811,House,2009-07-02,Adopted,,26,3
+HR 86,811,House,2009-07-02,Rules suspended,,26,2
+HR 86,811,House,2009-07-02,Filed,,,1
+HR 69,811,House,2009-07-07,Reported enrolled,,,4
+HR 69,811,House,2009-07-02,Adopted,,25,3
+HR 69,811,House,2009-07-02,Rules suspended,,25,2
+HR 69,811,House,2009-07-02,Filed,,,1
+HR 70,811,House,2009-07-07,Reported enrolled,,,4
+HR 70,811,House,2009-07-02,Adopted,,25,3
+HR 70,811,House,2009-07-02,Rules suspended,,25,2
+HR 70,811,House,2009-07-02,Filed,,,1
+HR 71,811,House,2009-07-07,Reported enrolled,,,4
+HR 71,811,House,2009-07-02,Adopted,,25,3
+HR 71,811,House,2009-07-02,Rules suspended,,25,2
+HR 71,811,House,2009-07-02,Filed,,,1
+HR 57,811,House,2009-07-07,Reported enrolled,,,4
+HR 57,811,House,2009-07-02,Adopted,,24,3
+HR 57,811,House,2009-07-02,Rules suspended,,24,2
+HR 57,811,House,2009-07-02,Filed,,,1
+HR 58,811,House,2009-07-07,Reported enrolled,,,4
+HR 58,811,House,2009-07-02,Adopted,,24,3
+HR 58,811,House,2009-07-02,Rules suspended,,24,2
+HR 58,811,House,2009-07-02,Filed,,,1
+HR 74,811,House,2009-07-07,Reported enrolled,,,4
+HR 74,811,House,2009-07-02,Adopted,,27,3
+HR 74,811,House,2009-07-02,Rules suspended,,27,2
+HR 74,811,House,2009-07-02,Filed,,,1
+HR 75,811,House,2009-07-07,Reported enrolled,,,4
+HR 75,811,House,2009-07-02,Adopted,,25,3
+HR 75,811,House,2009-07-02,Rules suspended,,25,2
+HR 75,811,House,2009-07-02,Filed,,,1
+HR 72,811,House,2009-07-07,Reported enrolled,,,4
+HR 72,811,House,2009-07-02,Adopted,,27,3
+HR 72,811,House,2009-07-02,Rules suspended,,27,2
+HR 72,811,House,2009-07-02,Filed,,,1
+HR 79,811,House,2009-07-07,Reported enrolled,,,4
+HR 79,811,House,2009-07-02,Adopted,,25,3
+HR 79,811,House,2009-07-02,Rules suspended,,25,2
+HR 79,811,House,2009-07-02,Filed,,,1
+HR 80,811,House,2009-07-07,Reported enrolled,,,4
+HR 80,811,House,2009-07-02,Adopted,,25,3
+HR 80,811,House,2009-07-02,Rules suspended,,25,2
+HR 80,811,House,2009-07-02,Filed,,,1
+HR 81,811,House,2009-07-07,Reported enrolled,,,4
+HR 81,811,House,2009-07-02,Adopted,,25,3
+HR 81,811,House,2009-07-02,Rules suspended,,25,2
+HR 81,811,House,2009-07-02,Filed,,,1
+HR 28,811,House,2009-07-07,Reported enrolled,,,4
+HR 28,811,House,2009-07-02,Adopted,,23,3
+HR 28,811,House,2009-07-02,Rules suspended,,23,2
+HR 28,811,House,2009-07-01,Filed,,,1
+HR 91,811,House,2009-07-07,Reported enrolled,,,4
+HR 91,811,House,2009-07-02,Adopted,,26,3
+HR 91,811,House,2009-07-02,Rules suspended,,26,2
+HR 91,811,House,2009-07-02,Filed,,,1
+HB 3,811,House,2009-07-01,Left pending in committee,,,8
+HB 3,811,House,2009-07-01,Testimony taken/registration(s) recorded in committee,,,7
+HB 3,811,House,2009-07-01,Considered in public hearing,,,6
+HB 3,811,House,2009-07-01,Scheduled for public hearing on . . .,,,5
+HB 3,811,House,2009-07-01,Posting rule suspended,,6,4
+HB 3,811,House,2009-07-01,Referred to Transportation,,7,3
+HB 3,811,House,2009-07-01,Read first time,,7,2
+HB 3,811,House,2009-06-30,Filed,,,1
+HB 4,811,House,2009-07-01,Referred to Transportation,,8,3
+HB 4,811,House,2009-07-01,Read first time,,8,2
+HB 4,811,House,2009-07-01,Filed,,,1
+HR 27,811,House,2009-07-07,Reported enrolled,,,4
+HR 27,811,House,2009-07-02,Adopted,,23,3
+HR 27,811,House,2009-07-02,Rules suspended,,23,2
+HR 27,811,House,2009-07-01,Filed,,,1
+HR 106,811,House,2009-07-07,Reported enrolled,,,4
+HR 106,811,House,2009-07-02,Adopted,,27,3
+HR 106,811,House,2009-07-02,Rules suspended,,27,2
+HR 106,811,House,2009-07-02,Filed,,,1
+HR 92,811,House,2009-07-07,Reported enrolled,,,4
+HR 92,811,House,2009-07-02,Adopted,,26,3
+HR 92,811,House,2009-07-02,Rules suspended,,26,2
+HR 92,811,House,2009-07-02,Filed,,,1
+HR 93,811,House,2009-07-07,Reported enrolled,,,4
+HR 93,811,House,2009-07-02,Adopted,,26,3
+HR 93,811,House,2009-07-02,Rules suspended,,26,2
+HR 93,811,House,2009-07-02,Filed,,,1
+HR 94,811,House,2009-07-07,Reported enrolled,,,4
+HR 94,811,House,2009-07-02,Adopted,,26,3
+HR 94,811,House,2009-07-02,Rules suspended,,26,2
+HR 94,811,House,2009-07-02,Filed,,,1
+HR 68,811,House,2009-07-07,Reported enrolled,,,4
+HR 68,811,House,2009-07-02,Adopted,,25,3
+HR 68,811,House,2009-07-02,Rules suspended,,25,2
+HR 68,811,House,2009-07-02,Filed,,,1
+HCR 5,811,Executive,2009-07-10,Signed by the Governor,,30,11
+HCR 5,811,Executive,2009-07-02,Sent to the Governor,,30,10
+HCR 5,811,Senate,2009-07-02,Signed in the Senate,,18,9
+HCR 5,811,House,2009-07-02,Signed in the House,,29,8
+HCR 5,811,House,2009-07-02,Reported enrolled,,30,7
+HCR 5,811,House,2009-07-02,Senate passage reported,,29,6
+HCR 5,811,Senate,2009-07-02,Read & adopted,,19,5
+HCR 5,811,Senate,2009-07-02,Received from the House,,16,4
+HCR 5,811,House,2009-07-02,Adopted,,21,3
+HCR 5,811,House,2009-07-02,Rules suspended,,21,2
+HCR 5,811,House,2009-07-02,Filed,,,1
+HR 105,811,House,2009-07-07,Reported enrolled,,,4
+HR 105,811,House,2009-07-02,Adopted,,27,3
+HR 105,811,House,2009-07-02,Rules suspended,,27,2
+HR 105,811,House,2009-07-02,Filed,,,1
+HR 88,811,House,2009-07-07,Reported enrolled,,,4
+HR 88,811,House,2009-07-02,Adopted,,26,3
+HR 88,811,House,2009-07-02,Rules suspended,,26,2
+HR 88,811,House,2009-07-02,Filed,,,1
+HR 83,811,House,2009-07-07,Reported enrolled,,,4
+HR 83,811,House,2009-07-02,Adopted,,25,3
+HR 83,811,House,2009-07-02,Rules suspended,,25,2
+HR 83,811,House,2009-07-02,Filed,,,1
+HJR 1,811,House,2009-07-01,Filed,,,1

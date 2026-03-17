@@ -1,0 +1,71 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1884853,1463953,2024-08-14,Legislature,"Conrad MO10 failed",8,32,6,3,49
+1884853,1463954,2024-08-14,Legislature,"Cavanaugh, M. MO157 failed",11,32,2,4,49
+1884853,1463955,2024-08-14,Legislature,"Conrad MO11 failed",10,32,4,3,49
+1884853,1463964,2024-08-14,Legislature,"Dungan FA122 lost",13,32,1,3,49
+1884853,1463965,2024-08-14,Legislature,"Cavanaugh, M. FA124 lost",20,24,2,3,49
+1884853,1463966,2024-08-14,Legislature,"Clements MO159 prevailed",34,10,2,3,49
+1884853,1463967,2024-08-14,Legislature,"Appropriations AM39 adopted",40,4,2,3,49
+1884853,1463968,2024-08-14,Legislature,"Advanced to Enrollment and Review Initial",33,11,2,3,49
+1884853,1465241,2024-08-16,Legislature,"Conrad MO12 failed",2,38,7,2,49
+1884853,1465242,2024-08-16,Legislature,"Cavanaugh, M. AM114 lost",15,29,2,3,49
+1884853,1465243,2024-08-16,Legislature,"McKinney AM123 lost",15,28,4,2,49
+1884853,1465244,2024-08-16,Legislature,"Advanced to Enrollment and Review for Engrossment",32,8,5,4,49
+1884853,1465311,2024-08-20,Legislature,"Passed on Final Reading with Emergency Clause 33-11-5",33,11,2,3,49
+1884857,1463976,2024-08-15,Legislature,"Conrad MO30 failed",6,30,9,4,49
+1884857,1463977,2024-08-15,Legislature,"Bostelman AM100 lost",21,15,11,2,49
+1884857,1463978,2024-08-15,Legislature,"Cavanaugh, M. MO165 failed",22,22,1,4,49
+1884857,1463979,2024-08-15,Legislature,"Cavanaugh, M. AM116 adopted",40,3,2,4,49
+1884857,1463980,2024-08-15,Legislature,"Wayne FA126 lost",8,31,6,4,49
+1884857,1463981,2024-08-15,Legislature,"Wayne MO166 failed",10,29,6,4,49
+1884857,1463982,2024-08-15,Legislature,"Wayne FA127 lost",9,32,6,2,49
+1884857,1463983,2024-08-15,Legislature,"McKinney FA131 lost",13,32,2,2,49
+1884857,1463984,2024-08-15,Legislature,"Wayne MO170 prevailed",32,12,3,2,49
+1884857,1463985,2024-08-15,Legislature,"McKinney FA131 adopted",29,14,4,2,49
+1884857,1463986,2024-08-15,Legislature,"Wayne FA128 lost",5,38,3,3,49
+1884857,1463987,2024-08-15,Legislature,"Wayne MO171 failed",3,22,19,5,49
+1884857,1463988,2024-08-15,Legislature,"Clements MO172 prevailed",37,9,1,2,49
+1884857,1463989,2024-08-15,Legislature,"Appropriations AM41 adopted",40,6,1,2,49
+1884857,1463990,2024-08-15,Legislature,"Advanced to Enrollment and Review Initial",35,11,1,2,49
+1884857,1465245,2024-08-16,Legislature,"Advanced to Enrollment and Review for Engrossment",32,7,4,6,49
+1884857,1465317,2024-08-20,Legislature,"Conrad MO32 failed",7,38,1,3,49
+1884857,1465318,2024-08-20,Legislature,"Passed on Final Reading with Emergency Clause 36-9-4",36,9,1,3,49
+1884860,1463702,2024-08-07,Legislature,"Speaker Arch MO120 prevailed",46,0,0,3,49
+1884860,1463703,2024-08-07,Legislature,"Hunt AM46 lost",11,33,2,3,49
+1884860,1463704,2024-08-07,Legislature,"Advanced to Enrollment and Review Initial",46,0,0,3,49
+1884860,1463764,2024-08-08,Legislature,"Speaker Arch MO123 prevailed",42,1,0,6,49
+1884860,1463765,2024-08-08,Legislature,"Conrad MO94 failed",3,39,3,4,49
+1884860,1465316,2024-08-20,Legislature,"Passed on Final Reading with Emergency Clause 41-3-5",41,3,0,5,49
+1884868,1465239,2024-08-16,Legislature,"Advanced to Enrollment and Review Initial",32,14,2,1,49
+1884868,1465240,2024-08-16,Legislature,"Brandt AM131 adopted",28,17,3,1,49
+1884868,1465246,2024-08-16,Legislature,"Brandt MO181 failed",10,34,3,2,49
+1884868,1465247,2024-08-17,Legislature,"Wayne MO193 failed",7,26,5,11,49
+1884868,1465248,2024-08-17,Legislature,"Cavanaugh, J. MO194 prevailed",29,6,1,13,49
+1884868,1465249,2024-08-17,Legislature,"Wayne MO193 prevailed",25,7,3,14,49
+1884868,1465313,2024-08-20,Legislature,"Slama FA179 lost",9,27,9,4,49
+1884868,1465314,2024-08-20,Legislature,"Brandt MO197 failed",26,16,2,5,49
+1884975,1463925,2024-08-13,Legislature,"Linehan MO130 failed",9,33,6,1,49
+1884975,1463927,2024-08-13,Legislature,"Cavanaugh, M. MO149 failed",13,28,3,5,49
+1884975,1463928,2024-08-13,Legislature,"Linehan MO131 failed",9,34,4,2,49
+1884975,1463929,2024-08-13,Legislature,"Cavanaugh, M. MO150 failed",11,30,5,3,49
+1884975,1463930,2024-08-13,Legislature,"Linehan MO132 failed",8,33,5,3,49
+1884975,1463931,2024-08-13,Legislature,"Cavanaugh, M. MO151 failed",7,33,7,2,49
+1884975,1463932,2024-08-13,Legislature,"Brewer MO156 prevailed",34,11,3,1,49
+1884975,1463933,2024-08-13,Legislature,"Linehan MO152 prevailed",38,6,4,1,49
+1884975,1463934,2024-08-13,Legislature,"Linehan AM84 adopted",35,4,9,1,49
+1884975,1463935,2024-08-13,Legislature,"Revenue AM73 adopted",35,8,5,1,49
+1884975,1463936,2024-08-13,Legislature,"Advanced to Enrollment and Review Initial",36,8,4,1,49
+1884975,1465231,2024-08-16,Legislature,"Linehan MO133 failed",7,36,4,2,49
+1884975,1465232,2024-08-16,Legislature,"Hansen MO162 failed",11,37,1,0,49
+1884975,1465233,2024-08-16,Legislature,"Linehan MO134 failed",7,36,6,0,49
+1884975,1465234,2024-08-16,Legislature,"Hansen MO163 failed",11,37,1,0,49
+1884975,1465235,2024-08-16,Legislature,"Brewer MO189 prevailed",41,7,1,0,49
+1884975,1465236,2024-08-16,Legislature,"Wayne FA165 lost",18,27,4,0,49
+1884975,1465237,2024-08-16,Legislature,"Linehan AM109 adopted",37,11,1,0,49
+1884975,1465238,2024-08-16,Legislature,"Advanced to Enrollment and Review for Engrossment",39,8,2,0,49
+1884975,1465315,2024-08-20,Legislature,"Passed on Final Reading with Emergency Clause 40-3-6",40,3,3,3,49
+1885816,1463991,2024-08-15,Legislature,"Brewer AM95 adopted",40,1,6,2,49
+1885816,1463992,2024-08-15,Legislature,"Brewer MO180 prevailed",41,5,1,2,49
+1885816,1463993,2024-08-15,Legislature,"Wayne MO175 failed",5,39,3,2,49
+1885816,1463994,2024-08-15,Legislature,"Advanced to Enrollment and Review Initial",40,4,3,2,49
+1885816,1465349,2024-08-20,Legislature,"Passed on Final Reading with Emergency Clause 42-1-6",42,1,3,3,49

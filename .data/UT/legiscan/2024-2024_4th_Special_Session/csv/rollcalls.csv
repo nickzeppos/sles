@@ -1,0 +1,9 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1886396,1465425,2024-08-21,Senate,"Senate/ passed 2nd & 3rd readings/ suspension",21,7,0,1,29
+1886396,1465426,2024-08-21,House,"House/ passed 3rd reading",58,15,0,2,75
+1886397,1465393,2024-08-21,Senate,"Senate/ passed 2nd & 3rd readings/ suspension",20,8,0,1,29
+1886397,1465394,2024-08-21,House,"House/ passed 3rd reading",54,21,0,0,75
+1886398,1465421,2024-08-21,Senate,"Senate/ passed 2nd & 3rd readings/ suspension",27,0,0,2,29
+1886398,1465422,2024-08-21,House,"House/ passed 3rd reading",72,0,0,3,75
+1886399,1465423,2024-08-21,Senate,"Senate/ passed 2nd & 3rd readings/ suspension",21,6,0,2,29
+1886399,1465424,2024-08-21,House,"House/ passed 3rd reading",54,20,0,1,75

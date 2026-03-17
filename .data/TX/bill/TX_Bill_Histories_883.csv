@@ -1,0 +1,2347 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SB 15,883,Senate,2023-10-06,Filed,,,2
+SB 15,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SR 69,883,Senate,2023-11-02,Reported enrolled,,132,3
+SR 69,883,Senate,2023-11-02,Read & adopted,,131,2
+SR 69,883,Senate,2023-11-01,Received by the Secretary of the Senate,,,1
+SR 2,883,Senate,2023-10-09,Reported enrolled,,8,5
+SR 2,883,Senate,2023-10-09,Adopted,,3,4
+SR 2,883,Senate,2023-10-09,Read,,3,3
+SR 2,883,Senate,2023-10-09,Rules suspended,,1,2
+SR 2,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 72,883,Senate,2023-11-01,Received by the Secretary of the Senate,,,1
+SR 33,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 33,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 33,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SB 1,883,House,2023-10-13,"Referred to Educational Opportunity & Enrichment, Select",,,97
+SB 1,883,House,2023-10-13,Read first time,,16,96
+SB 1,883,House,2023-10-13,Received from the Senate,,17,95
+SB 1,883,Senate,2023-10-12,Reported engrossed,,89,94
+SB 1,883,Senate,2023-10-12,Record vote,,88,93
+SB 1,883,Senate,2023-10-12,Passed,,88,92
+SB 1,883,Senate,2023-10-12,Read 3rd time,,88,91
+SB 1,883,Senate,2023-10-12,Laid before the Senate,,88,90
+SB 1,883,Senate,2023-10-12,Record vote,,30,89
+SB 1,883,Senate,2023-10-12,Passed to engrossment as amended,,30,88
+SB 1,883,Senate,2023-10-12,Amendment withdrawn,,30,87
+SB 1,883,Senate,2023-10-12,Vote reconsidered,,30,86
+SB 1,883,Senate,2023-10-12,Motion withdrawn,,30,85
+SB 1,883,Senate,2023-10-12,Point of order overruled,,29,84
+SB 1,883,Senate,2023-10-12,Point of order,,29,83
+SB 1,883,Senate,2023-10-12,Record vote,,28,82
+SB 1,883,Senate,2023-10-12,Amendment adopted as amended,FA22 Springer,28,81
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,28,80
+SB 1,883,Senate,2023-10-12,Amendment amended,,28,79
+SB 1,883,Senate,2023-10-12,Amendment to amendment offered,FA23 Springer,28,78
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA22 Perry,28,77
+SB 1,883,Senate,2023-10-12,Point of order sustained,,28,76
+SB 1,883,Senate,2023-10-12,Point of order,,28,75
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA21 Johnson,26,74
+SB 1,883,Senate,2023-10-12,Amendment withdrawn,,26,73
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA20 Perry,26,72
+SB 1,883,Senate,2023-10-12,Record vote,,26,71
+SB 1,883,Senate,2023-10-12,Amended,,26,70
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA19 Creighton,25,69
+SB 1,883,Senate,2023-10-12,Record vote,,25,68
+SB 1,883,Senate,2023-10-12,Amendment fails of adoption,,25,67
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA18 LaMantia,25,66
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,25,65
+SB 1,883,Senate,2023-10-12,Amended,,25,64
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA17 Creighton,24,63
+SB 1,883,Senate,2023-10-12,Record vote,,24,62
+SB 1,883,Senate,2023-10-12,Amendment fails of adoption,,24,61
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA16 Menéndez,23,60
+SB 1,883,Senate,2023-10-12,Record vote,,23,59
+SB 1,883,Senate,2023-10-12,Amendment fails of adoption,,23,58
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA15 Menéndez,23,57
+SB 1,883,Senate,2023-10-12,Record vote,,22,56
+SB 1,883,Senate,2023-10-12,Amendment fails of adoption,,22,55
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA14 Menéndez,22,54
+SB 1,883,Senate,2023-10-12,Amendment withdrawn,,22,53
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,22,52
+SB 1,883,Senate,2023-10-12,Amendment amended,,22,51
+SB 1,883,Senate,2023-10-12,Amendment to amendment offered,FA13 Springer,22,50
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA12 Perry,21,49
+SB 1,883,Senate,2023-10-12,Record vote,,21,48
+SB 1,883,Senate,2023-10-12,Amendment fails of adoption,,21,47
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA11 Perry,21,46
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,21,45
+SB 1,883,Senate,2023-10-12,Amended,,21,44
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA10 Creighton,20,43
+SB 1,883,Senate,2023-10-12,Amendment withdrawn,,20,42
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA9 Perry,20,41
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,20,40
+SB 1,883,Senate,2023-10-12,Amended,,20,39
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA8 Perry,20,38
+SB 1,883,Senate,2023-10-12,Record vote,,20,37
+SB 1,883,Senate,2023-10-12,Amendment fails of adoption,,20,36
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA7 Perry,19,35
+SB 1,883,Senate,2023-10-12,Record vote,,19,34
+SB 1,883,Senate,2023-10-12,Amended,,19,33
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA6 Gutierrez,19,32
+SB 1,883,Senate,2023-10-12,Record vote,,19,31
+SB 1,883,Senate,2023-10-12,Amended,,19,30
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA5 Creighton,17,29
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,17,28
+SB 1,883,Senate,2023-10-12,Amended,,17,27
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA4 Creighton,16,26
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,16,25
+SB 1,883,Senate,2023-10-12,Amended,,16,24
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA3 Creighton,15,23
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,15,22
+SB 1,883,Senate,2023-10-12,Amended,,15,21
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA2 Creighton,13,20
+SB 1,883,Senate,2023-10-12,Vote recorded in Journal,,13,19
+SB 1,883,Senate,2023-10-12,Amended,,13,18
+SB 1,883,Senate,2023-10-12,Amendment(s) offered,FA1 Creighton,11,17
+SB 1,883,Senate,2023-10-12,Read 2nd time,,11,16
+SB 1,883,Senate,2023-10-12,Record vote,,11,15
+SB 1,883,Senate,2023-10-12,Rules suspended-Regular order of business,,11,14
+SB 1,883,Senate,2023-10-12,Co-author authorized,,85,13
+SB 1,883,Senate,2023-10-10,Committee report printed and distributed,,,12
+SB 1,883,Senate,2023-10-10,Reported favorably w/o amendments,,10,11
+SB 1,883,Senate,2023-10-10,Vote taken in committee,,,10
+SB 1,883,Senate,2023-10-10,Testimony taken in committee,,,9
+SB 1,883,Senate,2023-10-10,Considered in public hearing,,,8
+SB 1,883,Senate,2023-10-10,Scheduled for public hearing on  . . .,,,7
+SB 1,883,Senate,2023-10-09,Record vote,,6,6
+SB 1,883,Senate,2023-10-09,Posting rule suspended,,6,5
+SB 1,883,Senate,2023-10-09,Referred to Education,,6,4
+SB 1,883,Senate,2023-10-09,Read first time,,6,3
+SB 1,883,Senate,2023-10-09,Filed,,,2
+SB 1,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 2,883,House,2023-10-13,Received from the Senate,,17,74
+SB 2,883,Senate,2023-10-12,Reported engrossed,,89,73
+SB 2,883,Senate,2023-10-12,Statement(s) submitted,,83,72
+SB 2,883,Senate,2023-10-12,Record vote,,83,71
+SB 2,883,Senate,2023-10-12,Passed,,83,70
+SB 2,883,Senate,2023-10-12,Read 3rd time,,83,69
+SB 2,883,Senate,2023-10-12,Record vote,,83,68
+SB 2,883,Senate,2023-10-12,Three day rule suspended,,83,67
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,83,66
+SB 2,883,Senate,2023-10-12,Passed to engrossment as amended,,83,65
+SB 2,883,Senate,2023-10-12,Record vote,,83,64
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,83,63
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA17 Zaffirini,83,62
+SB 2,883,Senate,2023-10-12,Amendment withdrawn,,83,61
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA16 Blanco,82,60
+SB 2,883,Senate,2023-10-12,Record vote,,82,59
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,82,58
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA15 Johnson,80,57
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,80,56
+SB 2,883,Senate,2023-10-12,Amended,,80,55
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA14 Kolkhorst,80,54
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,80,53
+SB 2,883,Senate,2023-10-12,Amendment adopted as amended,FA12 Middleton,80,52
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,80,51
+SB 2,883,Senate,2023-10-12,Amendment amended,,80,50
+SB 2,883,Senate,2023-10-12,Amendment to amendment offered,FA13 Middleton,79,49
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA12 Middleton,78,48
+SB 2,883,Senate,2023-10-12,Record vote,,78,47
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,78,46
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA11 Zaffirini,77,45
+SB 2,883,Senate,2023-10-12,Record vote,,77,44
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,77,43
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA10 Zaffirini,77,42
+SB 2,883,Senate,2023-10-12,Record vote,,77,41
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,77,40
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA9 Gutierrez,76,39
+SB 2,883,Senate,2023-10-12,Record vote,,76,38
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,76,37
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA8 Zaffirini,76,36
+SB 2,883,Senate,2023-10-12,Record vote,,76,35
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,76,34
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA7 Eckhardt,75,33
+SB 2,883,Senate,2023-10-12,Amendment withdrawn,,75,32
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA6 Hinojosa,45,31
+SB 2,883,Senate,2023-10-12,Record vote,,45,30
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,45,29
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA5 Johnson,45,28
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,45,27
+SB 2,883,Senate,2023-10-12,Amended,,45,26
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA4 Nichols,45,25
+SB 2,883,Senate,2023-10-12,Record vote,,44,24
+SB 2,883,Senate,2023-10-12,Amendment fails of adoption,,44,23
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA3 Zaffirini,44,22
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,44,21
+SB 2,883,Senate,2023-10-12,Amended,,44,20
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA2 Huffman,44,19
+SB 2,883,Senate,2023-10-12,Vote recorded in Journal,,44,18
+SB 2,883,Senate,2023-10-12,Amended,,43,17
+SB 2,883,Senate,2023-10-12,Amendment(s) offered,FA1 Creighton,43,16
+SB 2,883,Senate,2023-10-12,Read 2nd time,,43,15
+SB 2,883,Senate,2023-10-12,Laid before the Senate,,43,14
+SB 2,883,Senate,2023-10-12,Co-author authorized,,85,13
+SB 2,883,Senate,2023-10-10,Committee report printed and distributed,,,12
+SB 2,883,Senate,2023-10-10,Reported favorably w/o amendments,,8,11
+SB 2,883,Senate,2023-10-09,Vote taken in committee,,,10
+SB 2,883,Senate,2023-10-09,Testimony taken in committee,,,9
+SB 2,883,Senate,2023-10-09,Considered in public hearing,,,8
+SB 2,883,Senate,2023-10-09,Record vote,,5,7
+SB 2,883,Senate,2023-10-09,Posting rule suspended,,5,6
+SB 2,883,Senate,2023-10-09,Referred to Finance,,4,5
+SB 2,883,Senate,2023-10-09,Read first time,,4,4
+SB 2,883,Senate,2023-10-09,Co-author authorized,,6,3
+SB 2,883,Senate,2023-10-09,Filed,,,2
+SB 2,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 38,883,Senate,2023-10-09,Filed,,,2
+SB 38,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 58,883,Senate,2023-10-10,Filed,,,2
+SB 58,883,Senate,2023-10-10,Received by the Secretary of the Senate,,,1
+SB 77,883,Senate,2023-10-24,Filed,,,2
+SB 77,883,Senate,2023-10-24,Received by the Secretary of the Senate,,,1
+SCR 2,883,Senate,2023-10-09,Filed,,,2
+SCR 2,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 1,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 1,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 1,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 18,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 18,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 18,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SB 41,883,Senate,2023-10-09,Filed,,,2
+SB 41,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 59,883,Senate,2023-10-10,Filed,,,2
+SB 59,883,Senate,2023-10-10,Received by the Secretary of the Senate,,,1
+SB 60,883,Senate,2023-10-10,Filed,,,2
+SB 60,883,Senate,2023-10-10,Received by the Secretary of the Senate,,,1
+SB 61,883,Senate,2023-10-10,Filed,,,2
+SB 61,883,Senate,2023-10-10,Received by the Secretary of the Senate,,,1
+SR 10,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 10,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 10,883,Senate,2023-10-10,Received by the Secretary of the Senate,,,1
+SB 11,883,House,2023-10-16,Left pending in committee,,,48
+SB 11,883,House,2023-10-16,Testimony taken/registration(s) recorded in committee,,,47
+SB 11,883,House,2023-10-16,Considered in public hearing,,,46
+SB 11,883,House,2023-10-16,Scheduled for public hearing on . . .,,,45
+SB 11,883,House,2023-10-13,Referred to State Affairs,,16,44
+SB 11,883,House,2023-10-13,Read first time,,16,43
+SB 11,883,House,2023-10-13,Received from the Senate,,17,42
+SB 11,883,Senate,2023-10-12,Reported engrossed,,89,41
+SB 11,883,Senate,2023-10-12,Record vote,,88,40
+SB 11,883,Senate,2023-10-12,Passed,,88,39
+SB 11,883,Senate,2023-10-12,Read 3rd time,,88,38
+SB 11,883,Senate,2023-10-12,Record vote,,88,37
+SB 11,883,Senate,2023-10-12,Rules suspended-Regular order of business,,88,36
+SB 11,883,Senate,2023-10-12,Record vote,,40,35
+SB 11,883,Senate,2023-10-12,Passed to engrossment,,40,34
+SB 11,883,Senate,2023-10-12,Record vote,,40,33
+SB 11,883,Senate,2023-10-12,Amendment fails of adoption,,40,32
+SB 11,883,Senate,2023-10-12,Amendment(s) offered,FA6 Blanco,39,31
+SB 11,883,Senate,2023-10-12,Amendment withdrawn,,39,30
+SB 11,883,Senate,2023-10-12,Amendment(s) offered,FA5 Eckhardt,38,29
+SB 11,883,Senate,2023-10-12,Record vote,,38,28
+SB 11,883,Senate,2023-10-12,Amendment fails of adoption,,38,27
+SB 11,883,Senate,2023-10-12,Amendment(s) offered,FA4 Zaffirini,37,26
+SB 11,883,Senate,2023-10-12,Amendment withdrawn,,37,25
+SB 11,883,Senate,2023-10-12,Amendment(s) offered,FA3 Blanco,37,24
+SB 11,883,Senate,2023-10-12,Record vote,,37,23
+SB 11,883,Senate,2023-10-12,Amendment fails of adoption,,37,22
+SB 11,883,Senate,2023-10-12,Amendment(s) offered,FA2 Zaffirini,37,21
+SB 11,883,Senate,2023-10-12,Record vote,,37,20
+SB 11,883,Senate,2023-10-12,Amendment fails of adoption,,37,19
+SB 11,883,Senate,2023-10-12,Amendment(s) offered,FA1 Menéndez,36,18
+SB 11,883,Senate,2023-10-12,Read 2nd time,,36,17
+SB 11,883,Senate,2023-10-12,Record vote,,36,16
+SB 11,883,Senate,2023-10-12,Rules suspended-Regular order of business,,36,15
+SB 11,883,Senate,2023-10-12,Co-author authorized,,86,14
+SB 11,883,Senate,2023-10-11,Committee report printed and distributed,,,13
+SB 11,883,Senate,2023-10-11,Reported favorably w/o amendments,,10,12
+SB 11,883,Senate,2023-10-10,Vote taken in committee,,,11
+SB 11,883,Senate,2023-10-10,Testimony taken in committee,,,10
+SB 11,883,Senate,2023-10-10,Considered in public hearing,,,9
+SB 11,883,Senate,2023-10-10,Scheduled for public hearing on  . . .,,,8
+SB 11,883,Senate,2023-10-09,Record vote,,5,7
+SB 11,883,Senate,2023-10-09,Posting rule suspended,,5,6
+SB 11,883,Senate,2023-10-09,Referred to Border Security,,4,5
+SB 11,883,Senate,2023-10-09,Read first time,,4,4
+SB 11,883,Senate,2023-10-09,Co-author authorized,,7,3
+SB 11,883,Senate,2023-10-05,Filed,,,2
+SB 11,883,Senate,2023-10-05,Received by the Secretary of the Senate,,,1
+SR 32,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 32,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 32,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SB 51,883,Senate,2023-10-09,Filed,,,2
+SB 51,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 75,883,Senate,2023-10-18,Filed,,,2
+SB 75,883,Senate,2023-10-18,Received by the Secretary of the Senate,,,1
+SR 67,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 67,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 67,883,Senate,2023-10-31,Received by the Secretary of the Senate,,,1
+SB 39,883,Senate,2023-10-09,Filed,,,2
+SB 39,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 40,883,Senate,2023-10-09,Filed,,,2
+SB 40,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 59,883,Senate,2023-10-30,Reported enrolled,,112,3
+SR 59,883,Senate,2023-10-30,Read & adopted,,112,2
+SR 59,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 60,883,Senate,2023-10-30,Reported enrolled,,112,3
+SR 60,883,Senate,2023-10-30,Read & adopted,,112,2
+SR 60,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 80,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 80,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 80,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 81,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 81,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 81,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 82,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 82,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 82,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 83,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 83,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 83,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 84,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 84,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 84,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 85,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 85,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 85,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 13,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 13,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 13,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SB 66,883,Senate,2023-10-11,Filed,,,2
+SB 66,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 46,883,Senate,2023-10-09,Filed,,,2
+SB 46,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 47,883,Senate,2023-10-09,Filed,,,2
+SB 47,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 48,883,Senate,2023-10-09,Filed,,,2
+SB 48,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 72,883,Senate,2023-10-17,Filed,,,2
+SB 72,883,Senate,2023-10-17,Received by the Secretary of the Senate,,,1
+SR 15,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 15,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 15,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SR 16,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 16,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 16,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SR 17,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 17,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 17,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SR 24,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 24,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 24,883,Senate,2023-10-16,Received by the Secretary of the Senate,,,1
+SR 25,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 25,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 25,883,Senate,2023-10-16,Received by the Secretary of the Senate,,,1
+SR 26,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 26,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 26,883,Senate,2023-10-16,Received by the Secretary of the Senate,,,1
+SR 28,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 28,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 28,883,Senate,2023-10-17,Received by the Secretary of the Senate,,,1
+SR 29,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 29,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 29,883,Senate,2023-10-18,Received by the Secretary of the Senate,,,1
+SR 30,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 30,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 30,883,Senate,2023-10-18,Received by the Secretary of the Senate,,,1
+SR 31,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 31,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 31,883,Senate,2023-10-18,Received by the Secretary of the Senate,,,1
+SR 40,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 40,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 40,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 41,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 41,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 41,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 42,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 42,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 42,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 43,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 43,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 43,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 44,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 44,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 44,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 46,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 46,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 46,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 47,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 47,883,Senate,2023-10-26,Read & adopted,,109,2
+SR 47,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 48,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 48,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 48,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 49,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 49,883,Senate,2023-10-26,Read & adopted,,109,2
+SR 49,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 50,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 50,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 50,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 51,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 51,883,Senate,2023-10-26,Read & adopted,,109,2
+SR 51,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 52,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 52,883,Senate,2023-10-26,Read & adopted,,109,2
+SR 52,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 53,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 53,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 53,883,Senate,2023-10-26,Received by the Secretary of the Senate,,,1
+SR 54,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 54,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 54,883,Senate,2023-10-26,Received by the Secretary of the Senate,,,1
+SR 56,883,Senate,2023-10-30,Reported enrolled,,112,3
+SR 56,883,Senate,2023-10-30,Read & adopted,,112,2
+SR 56,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SB 4,883,Executive,2023-11-21,Effective on . . . . . . . . . . . . . . .,"February 6, 2024",,84
+SB 4,883,Executive,2023-11-21,Signed by the Governor,,138,83
+SB 4,883,Executive,2023-11-02,Sent to the Governor,,127,82
+SB 4,883,House,2023-11-01,Signed in the House,,136,81
+SB 4,883,Senate,2023-10-31,Signed in the Senate,,126,80
+SB 4,883,Senate,2023-10-26,Reported enrolled,,109,79
+SB 4,883,Senate,2023-10-26,House passage reported,,107,78
+SB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,101,77
+SB 4,883,House,2023-10-26,Record vote,RV#58,101,76
+SB 4,883,House,2023-10-26,Passed,,101,75
+SB 4,883,House,2023-10-26,Read 3rd time,,101,74
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,54,73
+SB 4,883,House,2023-10-25,Record vote,RV#20,53,72
+SB 4,883,House,2023-10-25,Passed to 3rd reading,,53,71
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,53,70
+SB 4,883,House,2023-10-25,Record vote,RV#19,52,69
+SB 4,883,House,2023-10-25,Amendment fails of adoption,7-Ramos,52,68
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,52,67
+SB 4,883,House,2023-10-25,Record vote,RV#18,52,66
+SB 4,883,House,2023-10-25,Amendment fails of adoption,6-Moody,50,65
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,50,64
+SB 4,883,House,2023-10-25,Record vote,RV#17,50,63
+SB 4,883,House,2023-10-25,Amendment fails of adoption,5-Garcia,48,62
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,48,61
+SB 4,883,House,2023-10-25,Record vote,RV#16,48,60
+SB 4,883,House,2023-10-25,Amendment fails of adoption,4-Hernandez,47,59
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,47,58
+SB 4,883,House,2023-10-25,Record vote,RV#15,47,57
+SB 4,883,House,2023-10-25,Amendment fails of adoption,3-Perez,46,56
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,46,55
+SB 4,883,House,2023-10-25,Record vote,RV#14,46,54
+SB 4,883,House,2023-10-25,Amendment fails of adoption,2-Flores,45,53
+SB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,45,52
+SB 4,883,House,2023-10-25,Record vote,RV#13,44,51
+SB 4,883,House,2023-10-25,Amendment fails of adoption,1-Moody,44,50
+SB 4,883,House,2023-10-25,Read 2nd time,,44,49
+SB 4,883,House,2023-10-25,Placed on General State Calendar,,,48
+SB 4,883,House,2023-10-24,Considered in Calendars,,,47
+SB 4,883,House,2023-10-24,Committee report sent to Calendars,,,46
+SB 4,883,House,2023-10-23,Committee report distributed,,,45
+SB 4,883,House,2023-10-23,Comte report filed with Committee Coordinator,,98,44
+SB 4,883,House,2023-10-19,Reported favorably w/o amendment(s),,,43
+SB 4,883,House,2023-10-19,Considered in public hearing,,,42
+SB 4,883,House,2023-10-16,Left pending in committee,,,41
+SB 4,883,House,2023-10-16,Testimony taken/registration(s) recorded in committee,,,40
+SB 4,883,House,2023-10-16,Considered in public hearing,,,39
+SB 4,883,House,2023-10-16,Scheduled for public hearing on . . .,,,38
+SB 4,883,House,2023-10-13,Referred to State Affairs,,16,37
+SB 4,883,House,2023-10-13,Read first time,,16,36
+SB 4,883,House,2023-10-13,Received from the Senate,,17,35
+SB 4,883,Senate,2023-10-12,Reported engrossed,,89,34
+SB 4,883,Senate,2023-10-12,Record vote,,36,33
+SB 4,883,Senate,2023-10-12,Passed,,36,32
+SB 4,883,Senate,2023-10-12,Read 3rd time,,36,31
+SB 4,883,Senate,2023-10-12,Record vote,,35,30
+SB 4,883,Senate,2023-10-12,Three day rule suspended,,35,29
+SB 4,883,Senate,2023-10-12,Record vote,,35,28
+SB 4,883,Senate,2023-10-12,Passed to engrossment as amended,,35,27
+SB 4,883,Senate,2023-10-12,Record vote,,35,26
+SB 4,883,Senate,2023-10-12,Amendment fails of adoption,,35,25
+SB 4,883,Senate,2023-10-12,Amendment(s) offered,FA3 Menéndez,34,24
+SB 4,883,Senate,2023-10-12,Record vote,,34,23
+SB 4,883,Senate,2023-10-12,Amendment fails of adoption,,34,22
+SB 4,883,Senate,2023-10-12,Amendment(s) offered,FA2 Johnson,33,21
+SB 4,883,Senate,2023-10-12,Vote recorded in Journal,,33,20
+SB 4,883,Senate,2023-10-12,Amended,,33,19
+SB 4,883,Senate,2023-10-12,Amendment(s) offered,FA1 Flores,32,18
+SB 4,883,Senate,2023-10-12,Read 2nd time,,32,17
+SB 4,883,Senate,2023-10-12,Record vote,,32,16
+SB 4,883,Senate,2023-10-12,Rules suspended-Regular order of business,,32,15
+SB 4,883,Senate,2023-10-12,Co-author authorized,,85,14
+SB 4,883,Senate,2023-10-11,Committee report printed and distributed,,,13
+SB 4,883,Senate,2023-10-11,Reported favorably as substituted,,10,12
+SB 4,883,Senate,2023-10-10,Vote taken in committee,,,11
+SB 4,883,Senate,2023-10-10,Testimony taken in committee,,,10
+SB 4,883,Senate,2023-10-10,Considered in public hearing,,,9
+SB 4,883,Senate,2023-10-10,Scheduled for public hearing on  . . .,,,8
+SB 4,883,Senate,2023-10-09,Record vote,,5,7
+SB 4,883,Senate,2023-10-09,Posting rule suspended,,5,6
+SB 4,883,Senate,2023-10-09,Referred to Border Security,,4,5
+SB 4,883,Senate,2023-10-09,Read first time,,4,4
+SB 4,883,Senate,2023-10-09,Co-author authorized,,6,3
+SB 4,883,Senate,2023-10-09,Filed,,,2
+SB 4,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 34,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 34,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 34,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 35,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 35,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 35,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 36,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 36,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 36,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 37,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 37,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 37,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 38,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 38,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 38,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 39,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 39,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 39,883,Senate,2023-10-19,Received by the Secretary of the Senate,,,1
+SR 61,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 61,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 61,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 62,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 62,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 62,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 63,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 63,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 63,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 64,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 64,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 64,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 65,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 65,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 65,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 86,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 86,883,Senate,2023-11-07,Read & adopted,,137,2
+SR 86,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 71,883,Senate,2023-11-02,Reported enrolled,,132,3
+SR 71,883,Senate,2023-11-02,Read & adopted,,131,2
+SR 71,883,Senate,2023-11-01,Received by the Secretary of the Senate,,,1
+SB 42,883,Senate,2023-10-12,Co-author authorized,,86,3
+SB 42,883,Senate,2023-10-09,Filed,,,2
+SB 42,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 43,883,Senate,2023-10-12,Co-author authorized,,86,3
+SB 43,883,Senate,2023-10-09,Filed,,,2
+SB 43,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 44,883,Senate,2023-10-09,Filed,,,2
+SB 44,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 45,883,Senate,2023-10-09,Filed,,,2
+SB 45,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 6,883,House,2023-11-01,Received from the Senate,,136,38
+SB 6,883,Senate,2023-10-31,Reported engrossed,,124,37
+SB 6,883,Senate,2023-10-31,Statement(s) submitted,,126,36
+SB 6,883,Senate,2023-10-31,Record vote,,126,35
+SB 6,883,Senate,2023-10-31,Passed,,126,34
+SB 6,883,Senate,2023-10-31,Read 3rd time,,126,33
+SB 6,883,Senate,2023-10-31,Record vote,,118,32
+SB 6,883,Senate,2023-10-31,Passed to engrossment,,118,31
+SB 6,883,Senate,2023-10-31,Record vote,,117,30
+SB 6,883,Senate,2023-10-31,Amendment fails of adoption,,117,29
+SB 6,883,Senate,2023-10-31,Amendment(s) offered,FA5 Zaffirini,117,28
+SB 6,883,Senate,2023-10-31,Record vote,,117,27
+SB 6,883,Senate,2023-10-31,Amendment fails of adoption,,117,26
+SB 6,883,Senate,2023-10-31,Amendment(s) offered,FA4 Menéndez,116,25
+SB 6,883,Senate,2023-10-31,Record vote,,116,24
+SB 6,883,Senate,2023-10-31,Amendment fails of adoption,,116,23
+SB 6,883,Senate,2023-10-31,Amendment(s) offered,FA3 Eckhardt,116,22
+SB 6,883,Senate,2023-10-31,Record vote,,116,21
+SB 6,883,Senate,2023-10-31,Amendment fails of adoption,,116,20
+SB 6,883,Senate,2023-10-31,Amendment(s) offered,FA2 Zaffirini,114,19
+SB 6,883,Senate,2023-10-31,Record vote,,114,18
+SB 6,883,Senate,2023-10-31,Amendment fails of adoption,,114,17
+SB 6,883,Senate,2023-10-31,Amendment(s) offered,FA1 Johnson,114,16
+SB 6,883,Senate,2023-10-31,Read 2nd time,,114,15
+SB 6,883,Senate,2023-10-31,Record vote,,114,14
+SB 6,883,Senate,2023-10-31,Rules suspended,,114,13
+SB 6,883,Senate,2023-10-31,Laid before the Senate,,126,12
+SB 6,883,Senate,2023-10-31,Co-author authorized,,123,11
+SB 6,883,Senate,2023-10-30,Committee report printed and distributed,,,10
+SB 6,883,Senate,2023-10-30,Reported favorably as substituted,,112,9
+SB 6,883,Senate,2023-10-30,Vote taken in committee,,,8
+SB 6,883,Senate,2023-10-30,Testimony taken in committee,,,7
+SB 6,883,Senate,2023-10-30,Considered in public hearing,,,6
+SB 6,883,Senate,2023-10-30,Scheduled for public hearing on  . . .,,,5
+SB 6,883,Senate,2023-10-26,Referred to Finance,,108,4
+SB 6,883,Senate,2023-10-26,Read first time,,108,3
+SB 6,883,Senate,2023-10-25,Filed,,,2
+SB 6,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 21,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 21,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 21,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SB 26,883,Senate,2023-10-06,Filed,,,2
+SB 26,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 27,883,Senate,2023-10-06,Filed,,,2
+SB 27,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 52,883,Senate,2023-10-09,Filed,,,2
+SB 52,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 53,883,Senate,2023-10-09,Filed,,,2
+SB 53,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 54,883,Senate,2023-10-09,Filed,,,2
+SB 54,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 55,883,Senate,2023-10-09,Filed,,,2
+SB 55,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 56,883,Senate,2023-10-09,Filed,,,2
+SB 56,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 57,883,Senate,2023-10-09,Filed,,,2
+SB 57,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 78,883,Senate,2023-11-01,Filed,,,2
+SB 78,883,Senate,2023-11-01,Received by the Secretary of the Senate,,,1
+SR 8,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 8,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 8,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 66,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 66,883,Senate,2023-10-31,Read & adopted,,123,2
+SR 66,883,Senate,2023-10-31,Received by the Secretary of the Senate,,,1
+SR 73,883,Senate,2023-11-05,Reported enrolled,,135,3
+SR 73,883,Senate,2023-11-05,Read & adopted,,133,2
+SR 73,883,Senate,2023-11-02,Received by the Secretary of the Senate,,,1
+SR 74,883,Senate,2023-11-05,Reported enrolled,,135,3
+SR 74,883,Senate,2023-11-05,Read & adopted,,133,2
+SR 74,883,Senate,2023-11-02,Received by the Secretary of the Senate,,,1
+SB 68,883,Senate,2023-10-11,Filed,,,2
+SB 68,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 28,883,Senate,2023-10-06,Filed,,,2
+SB 28,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 29,883,Senate,2023-10-06,Filed,,,2
+SB 29,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 30,883,Senate,2023-10-06,Filed,,,2
+SB 30,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 31,883,Senate,2023-10-06,Filed,,,2
+SB 31,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 32,883,Senate,2023-10-06,Filed,,,2
+SB 32,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 33,883,Senate,2023-10-06,Filed,,,2
+SB 33,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 34,883,Senate,2023-10-06,Filed,,,2
+SB 34,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SJR 6,883,Senate,2023-10-06,Filed,,,2
+SJR 6,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 62,883,Senate,2023-10-11,Filed,,,2
+SB 62,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 64,883,Senate,2023-10-11,Filed,,,2
+SB 64,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 65,883,Senate,2023-10-11,Filed,,,2
+SB 65,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 67,883,Senate,2023-10-11,Filed,,,2
+SB 67,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 69,883,Senate,2023-10-11,Filed,,,2
+SB 69,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 70,883,Senate,2023-10-11,Filed,,,2
+SB 70,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SR 45,883,Senate,2023-10-26,Reported enrolled,,109,3
+SR 45,883,Senate,2023-10-26,Read & adopted,,108,2
+SR 45,883,Senate,2023-10-25,Received by the Secretary of the Senate,,,1
+SR 76,883,Senate,2023-11-05,Reported enrolled,,135,3
+SR 76,883,Senate,2023-11-05,Read & adopted,,133,2
+SR 76,883,Senate,2023-11-03,Received by the Secretary of the Senate,,,1
+SB 73,883,Senate,2023-10-18,Filed,,,2
+SB 73,883,Senate,2023-10-18,Received by the Secretary of the Senate,,,1
+SB 74,883,Senate,2023-10-18,Filed,,,2
+SB 74,883,Senate,2023-10-18,Received by the Secretary of the Senate,,,1
+SB 50,883,Senate,2023-10-09,Filed,,,2
+SB 50,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 76,883,Senate,2023-10-20,Filed,,,2
+SB 76,883,Senate,2023-10-20,Received by the Secretary of the Senate,,,1
+SR 4,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 4,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 4,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 5,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 5,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 5,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 6,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 6,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 6,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 7,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 7,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 7,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 12,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 12,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 12,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SR 23,883,Senate,2023-10-16,Reported enrolled,,91,3
+SR 23,883,Senate,2023-10-16,Read & adopted,,91,2
+SR 23,883,Senate,2023-10-16,Received by the Secretary of the Senate,,,1
+SR 55,883,Senate,2023-10-30,Reported enrolled,,112,3
+SR 55,883,Senate,2023-10-30,Read & adopted,,111,2
+SR 55,883,Senate,2023-10-26,Received by the Secretary of the Senate,,,1
+SR 70,883,Senate,2023-11-02,Reported enrolled,,132,3
+SR 70,883,Senate,2023-11-02,Read & adopted,,132,2
+SR 70,883,Senate,2023-11-01,Received by the Secretary of the Senate,,,1
+SB 22,883,Senate,2023-10-06,Filed,,,2
+SB 22,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 23,883,Senate,2023-10-06,Filed,,,2
+SB 23,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 7,883,Executive,2023-11-10,Effective on . . . . . . . . . . . . . . .,"February 6, 2024",,104
+SB 7,883,Executive,2023-11-10,Signed by the Governor,,138,103
+SB 7,883,Executive,2023-11-02,Sent to the Governor,,127,102
+SB 7,883,House,2023-11-01,Signed in the House,,136,101
+SB 7,883,House,2023-11-01,Senate concurs in House amendment(s)-reported,,137,100
+SB 7,883,Senate,2023-10-31,Signed in the Senate,,126,99
+SB 7,883,Senate,2023-10-31,Reported enrolled,,124,98
+SB 7,883,Senate,2023-10-31,Statement(s) submitted,,122,97
+SB 7,883,Senate,2023-10-31,Remarks ordered printed,,122,96
+SB 7,883,Senate,2023-10-31,Remarks ordered printed,,121,95
+SB 7,883,Senate,2023-10-31,Record vote,,120,94
+SB 7,883,Senate,2023-10-31,Senate concurs in House amendment(s),,120,93
+SB 7,883,Senate,2023-10-31,Read,,120,92
+SB 7,883,Senate,2023-10-31,House amendment(s) laid before the Senate,,118,91
+SB 7,883,Senate,2023-10-26,House passage as amended reported,,107,90
+SB 7,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,101,89
+SB 7,883,House,2023-10-26,Record vote,RV#57,100,88
+SB 7,883,House,2023-10-26,Passed,,100,87
+SB 7,883,House,2023-10-26,Read 3rd time,,100,86
+SB 7,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,43,85
+SB 7,883,House,2023-10-25,Record vote,RV#12,43,84
+SB 7,883,House,2023-10-25,Passed to 3rd reading as amended,,43,83
+SB 7,883,House,2023-10-25,Point of order sustained (amendment),"Rule 11, Section 2",42,82
+SB 7,883,House,2023-10-25,Amendment(s) offered,"7-Tinderholt, Toth, Harrison, and Schatzline",42,81
+SB 7,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,41,80
+SB 7,883,House,2023-10-25,Record vote,RV#11,41,79
+SB 7,883,House,2023-10-25,Amended,"6-Toth, Schatzline, Harrison, and Tinderholt",41,78
+SB 7,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,41,77
+SB 7,883,House,2023-10-25,Record vote,RV#10,40,76
+SB 7,883,House,2023-10-25,Amendment fails of adoption,5-Anchía,39,75
+SB 7,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,39,74
+SB 7,883,House,2023-10-25,Record vote,RV#9,38,73
+SB 7,883,House,2023-10-25,Amendment fails of adoption,4-Turner,38,72
+SB 7,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,38,71
+SB 7,883,House,2023-10-25,Record vote,RV#8,37,70
+SB 7,883,House,2023-10-25,Amended,3-Cain,37,69
+SB 7,883,House,2023-10-25,Point of order withdrawn (amendment),"Article III, Section 40",37,68
+SB 7,883,House,2023-10-25,Amendment(s) offered,3-Cain,37,67
+SB 7,883,House,2023-10-25,Point of order sustained (amendment),"Article III, Section 40",37,66
+SB 7,883,House,2023-10-25,Amendment(s) offered,"2-Harrison, Schatzline, Tinderholt, and Toth",36,65
+SB 7,883,House,2023-10-25,Point of order sustained (amendment),"Article III, Section 40",36,64
+SB 7,883,House,2023-10-25,Amendment(s) offered,1-Harrison and Schatzline,35,63
+SB 7,883,House,2023-10-25,Read 2nd time,,35,62
+SB 7,883,House,2023-10-25,Placed on General State Calendar,,,61
+SB 7,883,House,2023-10-24,Considered in Calendars,,,60
+SB 7,883,House,2023-10-24,Committee report sent to Calendars,,,59
+SB 7,883,House,2023-10-23,Committee report distributed,,,58
+SB 7,883,House,2023-10-23,Comte report filed with Committee Coordinator,,98,57
+SB 7,883,House,2023-10-19,Reported favorably as substituted,,,56
+SB 7,883,House,2023-10-19,Committee substitute considered in committee,,,55
+SB 7,883,House,2023-10-19,Considered in public hearing,,,54
+SB 7,883,House,2023-10-16,Left pending in committee,,,53
+SB 7,883,House,2023-10-16,Testimony taken/registration(s) recorded in committee,,,52
+SB 7,883,House,2023-10-16,Committee substitute considered in committee,,,51
+SB 7,883,House,2023-10-16,Considered in public hearing,,,50
+SB 7,883,House,2023-10-16,Scheduled for public hearing on . . .,,,49
+SB 7,883,House,2023-10-13,Referred to State Affairs,,16,48
+SB 7,883,House,2023-10-13,Read first time,,16,47
+SB 7,883,House,2023-10-13,Received from the Senate,,17,46
+SB 7,883,Senate,2023-10-12,Reported engrossed,,89,45
+SB 7,883,Senate,2023-10-12,Record vote,,88,44
+SB 7,883,Senate,2023-10-12,Passed,,88,43
+SB 7,883,Senate,2023-10-12,Read 3rd time,,88,42
+SB 7,883,Senate,2023-10-12,Record vote,,88,41
+SB 7,883,Senate,2023-10-12,Rules suspended-Regular order of business,,88,40
+SB 7,883,Senate,2023-10-12,Record vote,,85,39
+SB 7,883,Senate,2023-10-12,Passed to engrossment as amended,,85,38
+SB 7,883,Senate,2023-10-12,Vote recorded in Journal,,85,37
+SB 7,883,Senate,2023-10-12,Amended,,85,36
+SB 7,883,Senate,2023-10-12,Amendment(s) offered,FA5 Kolkhorst,85,35
+SB 7,883,Senate,2023-10-12,Vote recorded in Journal,,85,34
+SB 7,883,Senate,2023-10-12,Amendment adopted as amended,FA1 Middleton,85,33
+SB 7,883,Senate,2023-10-12,Vote recorded in Journal,,85,32
+SB 7,883,Senate,2023-10-12,Amendment amended,,84,31
+SB 7,883,Senate,2023-10-12,Amendment to amendment offered,FA4 Middleton,84,30
+SB 7,883,Senate,2023-10-12,Vote reconsidered,,84,29
+SB 7,883,Senate,2023-10-12,Vote recorded in Journal,,84,28
+SB 7,883,Senate,2023-10-12,Amended,,84,27
+SB 7,883,Senate,2023-10-12,Amendment(s) offered,FA3 Middleton,84,26
+SB 7,883,Senate,2023-10-12,Laid out as postponed business,,84,25
+SB 7,883,Senate,2023-10-12,Postponed,10/12/23 8:15 PM,32,24
+SB 7,883,Senate,2023-10-12,Record vote,,32,23
+SB 7,883,Senate,2023-10-12,Amendment fails of adoption,,32,22
+SB 7,883,Senate,2023-10-12,Amendment(s) offered,FA2 Miles,31,21
+SB 7,883,Senate,2023-10-12,Record vote,,31,20
+SB 7,883,Senate,2023-10-12,Amended,,31,19
+SB 7,883,Senate,2023-10-12,Amendment(s) offered,FA1 Middleton,30,18
+SB 7,883,Senate,2023-10-12,Read 2nd time,,30,17
+SB 7,883,Senate,2023-10-12,Record vote,,30,16
+SB 7,883,Senate,2023-10-12,Rules suspended-Regular order of business,,30,15
+SB 7,883,Senate,2023-10-12,Co-author authorized,,85,14
+SB 7,883,Senate,2023-10-10,Committee report printed and distributed,,,13
+SB 7,883,Senate,2023-10-10,Reported favorably w/o amendments,,10,12
+SB 7,883,Senate,2023-10-10,Vote taken in committee,,,11
+SB 7,883,Senate,2023-10-10,Testimony taken in committee,,,10
+SB 7,883,Senate,2023-10-10,Considered in public hearing,,,9
+SB 7,883,Senate,2023-10-10,Scheduled for public hearing on  . . .,,,8
+SB 7,883,Senate,2023-10-09,Record vote,,5,7
+SB 7,883,Senate,2023-10-09,Posting rule suspended,,5,6
+SB 7,883,Senate,2023-10-09,Referred to Health & Human Services,,4,5
+SB 7,883,Senate,2023-10-09,Read first time,,4,4
+SB 7,883,Senate,2023-10-09,Co-author authorized,,7,3
+SB 7,883,Senate,2023-10-09,Filed,,,2
+SB 7,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 12,883,Senate,2023-10-06,Filed,,,2
+SB 12,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 13,883,Senate,2023-10-06,Filed,,,2
+SB 13,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 14,883,Senate,2023-10-06,Filed,,,2
+SB 14,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 79,883,Senate,2023-11-02,Filed,,,2
+SB 79,883,Senate,2023-11-02,Received by the Secretary of the Senate,,,1
+SR 3,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 3,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 3,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SB 25,883,Senate,2023-10-06,Filed,,,2
+SB 25,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 63,883,Senate,2023-10-11,Filed,,,2
+SB 63,883,Senate,2023-10-11,Received by the Secretary of the Senate,,,1
+SB 80,883,Senate,2023-11-03,Filed,,,2
+SB 80,883,Senate,2023-11-03,Received by the Secretary of the Senate,,,1
+SCR 1,883,Senate,2023-10-06,Filed,,,2
+SCR 1,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SR 27,883,Senate,2023-10-19,Reported enrolled,,95,3
+SR 27,883,Senate,2023-10-19,Read & adopted,,94,2
+SR 27,883,Senate,2023-10-17,Received by the Secretary of the Senate,,,1
+SR 57,883,Senate,2023-10-30,Reported enrolled,,112,3
+SR 57,883,Senate,2023-10-30,Read & adopted,,112,2
+SR 57,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 58,883,Senate,2023-10-30,Reported enrolled,,112,3
+SR 58,883,Senate,2023-10-30,Read & adopted,,111,2
+SR 58,883,Senate,2023-10-30,Received by the Secretary of the Senate,,,1
+SR 78,883,Senate,2023-11-06,Filed,,,2
+SR 78,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 79,883,Senate,2023-11-06,Filed,,,2
+SR 79,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SR 11,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 11,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 11,883,Senate,2023-10-10,Received by the Secretary of the Senate,,,1
+SR 22,883,Senate,2023-10-16,Reported enrolled,,91,3
+SR 22,883,Senate,2023-10-16,Read & adopted,,91,2
+SR 22,883,Senate,2023-10-13,Received by the Secretary of the Senate,,,1
+SR 87,883,Senate,2023-11-07,Reported enrolled,,138,3
+SR 87,883,Senate,2023-11-07,Read & adopted,,138,2
+SR 87,883,Senate,2023-11-06,Received by the Secretary of the Senate,,,1
+SB 49,883,Senate,2023-10-09,Filed,,,2
+SB 49,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SCR 3,883,Senate,2023-11-01,Filed,,,2
+SCR 3,883,Senate,2023-11-01,Received by the Secretary of the Senate,,,1
+SR 77,883,Senate,2023-11-05,Reported enrolled,,135,3
+SR 77,883,Senate,2023-11-05,Read & adopted,,133,2
+SR 77,883,Senate,2023-11-03,Received by the Secretary of the Senate,,,1
+SB 71,883,Senate,2023-10-16,Filed,,,2
+SB 71,883,Senate,2023-10-16,Received by the Secretary of the Senate,,,1
+SR 9,883,Senate,2023-10-09,Reported enrolled,,8,3
+SR 9,883,Senate,2023-10-09,Read & adopted,,7,2
+SR 9,883,Senate,2023-10-09,Received by the Secretary of the Senate,,,1
+SR 20,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 20,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 20,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SR 68,883,Senate,2023-10-31,Reported enrolled,,124,3
+SR 68,883,Senate,2023-10-31,Read & adopted,,124,2
+SR 68,883,Senate,2023-10-31,Received by the Secretary of the Senate,,,1
+SR 14,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 14,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 14,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SR 19,883,Senate,2023-10-12,Reported enrolled,,89,3
+SR 19,883,Senate,2023-10-12,Read & adopted,,86,2
+SR 19,883,Senate,2023-10-12,Received by the Secretary of the Senate,,,1
+SB 16,883,Senate,2023-10-06,Filed,,,2
+SB 16,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 17,883,Senate,2023-10-09,Transmitted to the Governor,,,3
+SB 17,883,Senate,2023-10-06,Filed,,,2
+SB 17,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 18,883,Senate,2023-10-06,Filed,,,2
+SB 18,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 19,883,Senate,2023-10-06,Filed,,,2
+SB 19,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 20,883,Senate,2023-10-06,Filed,,,2
+SB 20,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 21,883,Senate,2023-10-06,Filed,,,2
+SB 21,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 24,883,Senate,2023-10-06,Filed,,,2
+SB 24,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 35,883,Senate,2023-10-06,Filed,,,2
+SB 35,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 36,883,Senate,2023-10-06,Filed,,,2
+SB 36,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SB 37,883,Senate,2023-10-06,Filed,,,2
+SB 37,883,Senate,2023-10-06,Received by the Secretary of the Senate,,,1
+SR 75,883,Senate,2023-11-05,Reported enrolled,,135,3
+SR 75,883,Senate,2023-11-05,Read & adopted,,133,2
+SR 75,883,Senate,2023-11-02,Received by the Secretary of the Senate,,,1
+HB 71,883,House,2023-10-06,Filed,,,1
+HB 73,883,House,2023-10-06,Filed,,,1
+HB 74,883,House,2023-10-06,Filed,,,1
+HB 76,883,House,2023-10-06,Filed,,,1
+HB 77,883,House,2023-10-06,Filed,,,1
+HB 80,883,House,2023-10-06,Filed,,,1
+HB 86,883,House,2023-10-06,Filed,,,1
+HB 66,883,House,2023-10-06,Filed,,,1
+HB 67,883,House,2023-10-06,Filed,,,1
+HB 168,883,House,2023-10-17,Filed,,,1
+HB 149,883,House,2023-10-12,Filed,,,1
+HCR 3,883,House,2023-10-11,Referred to State Affairs,,10,2
+HCR 3,883,House,2023-10-06,Filed,,,1
+HR 16,883,House,2023-10-11,Referred to State Affairs,,11,2
+HR 16,883,House,2023-10-10,Filed,,,1
+HR 87,883,House,2023-11-02,Reported enrolled,,,5
+HR 87,883,House,2023-11-01,Adopted,,127,4
+HR 87,883,House,2023-11-01,Rules suspended,,127,3
+HR 87,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 87,883,House,2023-10-25,Filed,,,1
+HR 82,883,House,2023-11-02,Reported enrolled,,,5
+HR 82,883,House,2023-11-01,Adopted,,130,4
+HR 82,883,House,2023-11-01,Rules suspended,,130,3
+HR 82,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 82,883,House,2023-10-24,Filed,,,1
+HR 83,883,House,2023-11-02,Reported enrolled,,,5
+HR 83,883,House,2023-11-01,Adopted,,127,4
+HR 83,883,House,2023-11-01,Rules suspended,,127,3
+HR 83,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 83,883,House,2023-10-24,Filed,,,1
+HR 84,883,House,2023-11-02,Reported enrolled,,,5
+HR 84,883,House,2023-11-01,Adopted,,127,4
+HR 84,883,House,2023-11-01,Rules suspended,,127,3
+HR 84,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 84,883,House,2023-10-24,Filed,,,1
+HR 85,883,House,2023-11-02,Reported enrolled,,,5
+HR 85,883,House,2023-11-01,Adopted,,127,4
+HR 85,883,House,2023-11-01,Rules suspended,,127,3
+HR 85,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 85,883,House,2023-10-24,Filed,,,1
+HR 93,883,House,2023-11-02,Reported enrolled,,,5
+HR 93,883,House,2023-11-01,Adopted,,128,4
+HR 93,883,House,2023-11-01,Rules suspended,,128,3
+HR 93,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 93,883,House,2023-10-25,Filed,,,1
+HR 94,883,House,2023-11-02,Reported enrolled,,,5
+HR 94,883,House,2023-11-01,Adopted,,128,4
+HR 94,883,House,2023-11-01,Rules suspended,,128,3
+HR 94,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 94,883,House,2023-10-25,Filed,,,1
+HR 99,883,House,2023-11-02,Reported enrolled,,,5
+HR 99,883,House,2023-11-01,Adopted,,128,4
+HR 99,883,House,2023-11-01,Rules suspended,,128,3
+HR 99,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 99,883,House,2023-10-27,Filed,,,1
+HR 106,883,House,2023-11-02,Reported enrolled,,,5
+HR 106,883,House,2023-11-01,Adopted,,128,4
+HR 106,883,House,2023-11-01,Rules suspended,,128,3
+HR 106,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 106,883,House,2023-10-30,Filed,,,1
+HR 124,883,House,2023-11-02,Reported enrolled,,,4
+HR 124,883,House,2023-11-01,Adopted,,129,3
+HR 124,883,House,2023-11-01,Rules suspended,,129,2
+HR 124,883,House,2023-11-01,Filed,,,1
+HR 126,883,House,2023-11-02,Reported enrolled,,,4
+HR 126,883,House,2023-11-01,Adopted,,129,3
+HR 126,883,House,2023-11-01,Rules suspended,,129,2
+HR 126,883,House,2023-11-01,Filed,,,1
+HR 136,883,House,2023-11-02,Reported enrolled,,,4
+HR 136,883,House,2023-11-01,Adopted,,129,3
+HR 136,883,House,2023-11-01,Rules suspended,,129,2
+HR 136,883,House,2023-11-01,Filed,,,1
+HR 28,883,House,2023-10-25,Reported enrolled,,,5
+HR 28,883,House,2023-10-25,Adopted,,34,4
+HR 28,883,House,2023-10-25,Rules suspended,,34,3
+HR 28,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 28,883,House,2023-10-12,Filed,,,1
+HR 140,883,House,2023-11-07,Reported enrolled,,,4
+HR 140,883,House,2023-11-07,Adopted,,132,3
+HR 140,883,House,2023-11-07,Rules suspended,,132,2
+HR 140,883,House,2023-11-02,Filed,,,1
+HR 141,883,House,2023-11-07,Reported enrolled,,,4
+HR 141,883,House,2023-11-07,Adopted,,132,3
+HR 141,883,House,2023-11-07,Rules suspended,,132,2
+HR 141,883,House,2023-11-02,Filed,,,1
+HR 142,883,House,2023-11-07,Reported enrolled,,,4
+HR 142,883,House,2023-11-07,Adopted,,135,3
+HR 142,883,House,2023-11-07,Rules suspended,,135,2
+HR 142,883,House,2023-11-02,Filed,,,1
+HB 141,883,House,2023-10-12,Filed,,,1
+HB 13,883,House,2023-10-06,Filed,,,1
+HB 20,883,House,2023-10-06,Filed,,,1
+HB 28,883,House,2023-10-06,Filed,,,1
+HB 29,883,House,2023-10-06,Filed,,,1
+HB 60,883,House,2023-10-06,Filed,,,1
+HB 160,883,House,2023-10-16,Filed,,,1
+HB 193,883,House,2023-10-23,Filed,,,1
+HB 207,883,House,2023-11-02,Filed,,,1
+HCR 4,883,House,2023-10-11,Referred to Homeland Security & Public Safety,,10,2
+HCR 4,883,House,2023-10-06,Filed,,,1
+HJR 4,883,House,2023-10-06,Filed,,,1
+HJR 10,883,House,2023-11-02,Filed,,,1
+HB 105,883,House,2023-10-09,Filed,,,1
+HB 206,883,House,2023-11-02,Filed,,,1
+HJR 8,883,House,2023-10-26,Filed,,,1
+HR 34,883,House,2023-11-02,Reported enrolled,,,5
+HR 34,883,House,2023-11-01,Adopted,,130,4
+HR 34,883,House,2023-11-01,Rules suspended,,130,3
+HR 34,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 34,883,House,2023-10-16,Filed,,,1
+HR 35,883,House,2023-11-02,Reported enrolled,,,5
+HR 35,883,House,2023-11-01,Adopted,,126,4
+HR 35,883,House,2023-11-01,Rules suspended,,126,3
+HR 35,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 35,883,House,2023-10-16,Filed,,,1
+HR 36,883,House,2023-11-02,Reported enrolled,,,5
+HR 36,883,House,2023-11-01,Adopted,,130,4
+HR 36,883,House,2023-11-01,Rules suspended,,130,3
+HR 36,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 36,883,House,2023-10-16,Filed,,,1
+HR 37,883,House,2023-11-02,Reported enrolled,,,5
+HR 37,883,House,2023-11-01,Adopted,,130,4
+HR 37,883,House,2023-11-01,Rules suspended,,130,3
+HR 37,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 37,883,House,2023-10-16,Filed,,,1
+HR 139,883,House,2023-11-07,Reported enrolled,,,4
+HR 139,883,House,2023-11-07,Adopted,,135,3
+HR 139,883,House,2023-11-07,Rules suspended,,135,2
+HR 139,883,House,2023-11-01,Filed,,,1
+HB 175,883,House,2023-10-18,Filed,,,1
+HR 10,883,House,2023-10-09,Reported enrolled,,,6
+HR 10,883,House,2023-10-09,Statement(s) of vote recorded in Journal,,4,5
+HR 10,883,House,2023-10-09,Record vote,RV#2,4,4
+HR 10,883,House,2023-10-09,Adopted,,4,3
+HR 10,883,House,2023-10-09,Rules suspended,,3,2
+HR 10,883,House,2023-10-09,Filed,,,1
+HR 13,883,House,2023-11-02,Reported enrolled,,,5
+HR 13,883,House,2023-11-01,Adopted,,125,4
+HR 13,883,House,2023-11-01,Rules suspended,,125,3
+HR 13,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 13,883,House,2023-10-10,Filed,,,1
+HR 19,883,House,2023-10-24,Reported enrolled,,,5
+HR 19,883,House,2023-10-23,Adopted,,30,4
+HR 19,883,House,2023-10-23,Rules suspended,,30,3
+HR 19,883,House,2023-10-19,Referred to Resolutions Calendars,,22,2
+HR 19,883,House,2023-10-11,Filed,,,1
+HR 31,883,House,2023-11-02,Reported enrolled,,,5
+HR 31,883,House,2023-11-01,Adopted,,130,4
+HR 31,883,House,2023-11-01,Rules suspended,,130,3
+HR 31,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 31,883,House,2023-10-13,Filed,,,1
+HR 118,883,House,2023-11-02,Reported enrolled,,,4
+HR 118,883,House,2023-11-01,Adopted,,129,3
+HR 118,883,House,2023-11-01,Rules suspended,,129,2
+HR 118,883,House,2023-11-01,Filed,,,1
+HR 119,883,House,2023-11-02,Reported enrolled,,,4
+HR 119,883,House,2023-11-01,Adopted,,129,3
+HR 119,883,House,2023-11-01,Rules suspended,,129,2
+HR 119,883,House,2023-11-01,Filed,,,1
+HR 120,883,House,2023-11-02,Reported enrolled,,,4
+HR 120,883,House,2023-11-01,Adopted,,129,3
+HR 120,883,House,2023-11-01,Rules suspended,,129,2
+HR 120,883,House,2023-11-01,Filed,,,1
+HR 121,883,House,2023-11-02,Reported enrolled,,,4
+HR 121,883,House,2023-11-01,Adopted,,129,3
+HR 121,883,House,2023-11-01,Rules suspended,,129,2
+HR 121,883,House,2023-11-01,Filed,,,1
+HR 122,883,House,2023-11-02,Reported enrolled,,,4
+HR 122,883,House,2023-11-01,Adopted,,129,3
+HR 122,883,House,2023-11-01,Rules suspended,,129,2
+HR 122,883,House,2023-11-01,Filed,,,1
+HR 151,883,House,2023-11-07,Reported enrolled,,,4
+HR 151,883,House,2023-11-07,Adopted,,132,3
+HR 151,883,House,2023-11-07,Rules suspended,,132,2
+HR 151,883,House,2023-11-03,Filed,,,1
+HR 152,883,House,2023-11-07,Reported enrolled,,,4
+HR 152,883,House,2023-11-07,Adopted,,132,3
+HR 152,883,House,2023-11-07,Rules suspended,,132,2
+HR 152,883,House,2023-11-03,Filed,,,1
+HR 153,883,House,2023-11-07,Reported enrolled,,,4
+HR 153,883,House,2023-11-07,Adopted,,132,3
+HR 153,883,House,2023-11-07,Rules suspended,,132,2
+HR 153,883,House,2023-11-03,Filed,,,1
+HR 154,883,House,2023-11-07,Reported enrolled,,,4
+HR 154,883,House,2023-11-07,Adopted,,132,3
+HR 154,883,House,2023-11-07,Rules suspended,,132,2
+HR 154,883,House,2023-11-03,Filed,,,1
+HR 155,883,House,2023-11-07,Reported enrolled,,,4
+HR 155,883,House,2023-11-07,Adopted,,132,3
+HR 155,883,House,2023-11-07,Rules suspended,,132,2
+HR 155,883,House,2023-11-03,Filed,,,1
+HR 156,883,House,2023-11-07,Reported enrolled,,,4
+HR 156,883,House,2023-11-07,Adopted,,132,3
+HR 156,883,House,2023-11-07,Rules suspended,,132,2
+HR 156,883,House,2023-11-03,Filed,,,1
+HR 161,883,House,2023-11-07,Reported enrolled,,,4
+HR 161,883,House,2023-11-07,Adopted,,133,3
+HR 161,883,House,2023-11-07,Rules suspended,,133,2
+HR 161,883,House,2023-11-06,Filed,,,1
+HR 162,883,House,2023-11-07,Reported enrolled,,,4
+HR 162,883,House,2023-11-07,Adopted,,133,3
+HR 162,883,House,2023-11-07,Rules suspended,,133,2
+HR 162,883,House,2023-11-06,Filed,,,1
+HR 163,883,House,2023-11-07,Reported enrolled,,,4
+HR 163,883,House,2023-11-07,Adopted,,133,3
+HR 163,883,House,2023-11-07,Rules suspended,,133,2
+HR 163,883,House,2023-11-06,Filed,,,1
+HR 164,883,House,2023-11-07,Reported enrolled,,,4
+HR 164,883,House,2023-11-07,Adopted,,133,3
+HR 164,883,House,2023-11-07,Rules suspended,,133,2
+HR 164,883,House,2023-11-06,Filed,,,1
+HR 165,883,House,2023-11-07,Reported enrolled,,,4
+HR 165,883,House,2023-11-07,Adopted,,133,3
+HR 165,883,House,2023-11-07,Rules suspended,,133,2
+HR 165,883,House,2023-11-06,Filed,,,1
+HR 166,883,House,2023-11-07,Reported enrolled,,,4
+HR 166,883,House,2023-11-07,Adopted,,133,3
+HR 166,883,House,2023-11-07,Rules suspended,,133,2
+HR 166,883,House,2023-11-06,Filed,,,1
+HR 167,883,House,2023-11-07,Reported enrolled,,,4
+HR 167,883,House,2023-11-07,Adopted,,133,3
+HR 167,883,House,2023-11-07,Rules suspended,,133,2
+HR 167,883,House,2023-11-06,Filed,,,1
+HR 168,883,House,2023-11-07,Reported enrolled,,,4
+HR 168,883,House,2023-11-07,Adopted,,133,3
+HR 168,883,House,2023-11-07,Rules suspended,,133,2
+HR 168,883,House,2023-11-06,Filed,,,1
+HR 169,883,House,2023-11-07,Reported enrolled,,,4
+HR 169,883,House,2023-11-07,Adopted,,133,3
+HR 169,883,House,2023-11-07,Rules suspended,,133,2
+HR 169,883,House,2023-11-06,Filed,,,1
+HR 170,883,House,2023-11-07,Reported enrolled,,,4
+HR 170,883,House,2023-11-07,Adopted,,133,3
+HR 170,883,House,2023-11-07,Rules suspended,,133,2
+HR 170,883,House,2023-11-06,Filed,,,1
+HR 171,883,House,2023-11-07,Reported enrolled,,,4
+HR 171,883,House,2023-11-07,Adopted,,133,3
+HR 171,883,House,2023-11-07,Rules suspended,,133,2
+HR 171,883,House,2023-11-06,Filed,,,1
+HR 172,883,House,2023-11-07,Reported enrolled,,,4
+HR 172,883,House,2023-11-07,Adopted,,133,3
+HR 172,883,House,2023-11-07,Rules suspended,,133,2
+HR 172,883,House,2023-11-06,Filed,,,1
+HR 173,883,House,2023-11-07,Reported enrolled,,,4
+HR 173,883,House,2023-11-07,Adopted,,133,3
+HR 173,883,House,2023-11-07,Rules suspended,,133,2
+HR 173,883,House,2023-11-06,Filed,,,1
+HR 174,883,House,2023-11-07,Reported enrolled,,,4
+HR 174,883,House,2023-11-07,Adopted,,133,3
+HR 174,883,House,2023-11-07,Rules suspended,,133,2
+HR 174,883,House,2023-11-06,Filed,,,1
+HR 175,883,House,2023-11-07,Reported enrolled,,,4
+HR 175,883,House,2023-11-07,Adopted,,134,3
+HR 175,883,House,2023-11-07,Rules suspended,,134,2
+HR 175,883,House,2023-11-06,Filed,,,1
+HR 176,883,House,2023-11-07,Reported enrolled,,,4
+HR 176,883,House,2023-11-07,Adopted,,134,3
+HR 176,883,House,2023-11-07,Rules suspended,,134,2
+HR 176,883,House,2023-11-06,Filed,,,1
+HR 177,883,House,2023-11-07,Reported enrolled,,,4
+HR 177,883,House,2023-11-07,Adopted,,134,3
+HR 177,883,House,2023-11-07,Rules suspended,,134,2
+HR 177,883,House,2023-11-06,Filed,,,1
+HR 178,883,House,2023-11-07,Reported enrolled,,,4
+HR 178,883,House,2023-11-07,Adopted,,134,3
+HR 178,883,House,2023-11-07,Rules suspended,,134,2
+HR 178,883,House,2023-11-06,Filed,,,1
+HR 179,883,House,2023-11-07,Reported enrolled,,,4
+HR 179,883,House,2023-11-07,Adopted,,134,3
+HR 179,883,House,2023-11-07,Rules suspended,,134,2
+HR 179,883,House,2023-11-06,Filed,,,1
+HR 180,883,House,2023-11-07,Reported enrolled,,,4
+HR 180,883,House,2023-11-07,Adopted,,134,3
+HR 180,883,House,2023-11-07,Rules suspended,,134,2
+HR 180,883,House,2023-11-06,Filed,,,1
+HR 181,883,House,2023-11-07,Reported enrolled,,,4
+HR 181,883,House,2023-11-07,Adopted,,134,3
+HR 181,883,House,2023-11-07,Rules suspended,,134,2
+HR 181,883,House,2023-11-06,Filed,,,1
+HR 182,883,House,2023-11-07,Reported enrolled,,,4
+HR 182,883,House,2023-11-07,Adopted,,134,3
+HR 182,883,House,2023-11-07,Rules suspended,,134,2
+HR 182,883,House,2023-11-06,Filed,,,1
+HR 183,883,House,2023-11-07,Reported enrolled,,,4
+HR 183,883,House,2023-11-07,Adopted,,134,3
+HR 183,883,House,2023-11-07,Rules suspended,,134,2
+HR 183,883,House,2023-11-06,Filed,,,1
+HR 184,883,House,2023-11-07,Reported enrolled,,,4
+HR 184,883,House,2023-11-07,Adopted,,134,3
+HR 184,883,House,2023-11-07,Rules suspended,,134,2
+HR 184,883,House,2023-11-06,Filed,,,1
+HR 185,883,House,2023-11-07,Reported enrolled,,,4
+HR 185,883,House,2023-11-07,Adopted,,134,3
+HR 185,883,House,2023-11-07,Rules suspended,,134,2
+HR 185,883,House,2023-11-06,Filed,,,1
+HR 186,883,House,2023-11-07,Reported enrolled,,,4
+HR 186,883,House,2023-11-07,Adopted,,134,3
+HR 186,883,House,2023-11-07,Rules suspended,,134,2
+HR 186,883,House,2023-11-06,Filed,,,1
+HR 187,883,House,2023-11-07,Reported enrolled,,,4
+HR 187,883,House,2023-11-07,Adopted,,134,3
+HR 187,883,House,2023-11-07,Rules suspended,,134,2
+HR 187,883,House,2023-11-06,Filed,,,1
+HR 188,883,House,2023-11-07,Reported enrolled,,,4
+HR 188,883,House,2023-11-07,Adopted,,134,3
+HR 188,883,House,2023-11-07,Rules suspended,,134,2
+HR 188,883,House,2023-11-06,Filed,,,1
+HR 112,883,House,2023-11-02,Reported enrolled,,,4
+HR 112,883,House,2023-11-01,Adopted,,128,3
+HR 112,883,House,2023-11-01,Rules suspended,,128,2
+HR 112,883,House,2023-10-31,Filed,,,1
+HR 113,883,House,2023-11-02,Reported enrolled,,,4
+HR 113,883,House,2023-11-01,Adopted,,128,3
+HR 113,883,House,2023-11-01,Rules suspended,,128,2
+HR 113,883,House,2023-10-31,Filed,,,1
+HR 114,883,House,2023-11-02,Reported enrolled,,,4
+HR 114,883,House,2023-11-01,Adopted,,128,3
+HR 114,883,House,2023-11-01,Rules suspended,,128,2
+HR 114,883,House,2023-10-31,Filed,,,1
+HB 7,883,House,2023-10-13,Referred to State Affairs,,17,3
+HB 7,883,House,2023-10-13,Read first time,,17,2
+HB 7,883,House,2023-10-13,Filed,,,1
+HR 33,883,House,2023-11-02,Reported enrolled,,,5
+HR 33,883,House,2023-11-01,Adopted,,126,4
+HR 33,883,House,2023-11-01,Rules suspended,,126,3
+HR 33,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 33,883,House,2023-10-16,Filed,,,1
+HR 4,883,House,2023-11-02,Reported enrolled,,,5
+HR 4,883,House,2023-11-01,Adopted,,129,4
+HR 4,883,House,2023-11-01,Rules suspended,,129,3
+HR 4,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 4,883,House,2023-10-06,Filed,,,1
+HCR 5,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 5,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 5,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 5,883,House,2023-11-07,Signed in the House,,136,9
+HCR 5,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 5,883,House,2023-11-07,Senate passage reported,,137,7
+HCR 5,883,Senate,2023-11-05,Read & adopted,,133,6
+HCR 5,883,Senate,2023-11-02,Received from the House,,129,5
+HCR 5,883,House,2023-11-01,Adopted,,124,4
+HCR 5,883,House,2023-11-01,Rules suspended,,124,3
+HCR 5,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 5,883,House,2023-10-06,Filed,,,1
+HCR 6,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 6,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 6,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 6,883,House,2023-11-07,Signed in the House,,136,9
+HCR 6,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 6,883,House,2023-11-07,Senate passage reported,,137,7
+HCR 6,883,Senate,2023-11-05,Read & adopted,,133,6
+HCR 6,883,Senate,2023-11-02,Received from the House,,129,5
+HCR 6,883,House,2023-11-01,Adopted,,124,4
+HCR 6,883,House,2023-11-01,Rules suspended,,124,3
+HCR 6,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 6,883,House,2023-10-06,Filed,,,1
+HCR 7,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 7,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 7,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 7,883,House,2023-11-07,Signed in the House,,136,9
+HCR 7,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 7,883,House,2023-11-07,Senate passage reported,,137,7
+HCR 7,883,Senate,2023-11-05,Read & adopted,,133,6
+HCR 7,883,Senate,2023-11-02,Received from the House,,129,5
+HCR 7,883,House,2023-11-01,Adopted,,124,4
+HCR 7,883,House,2023-11-01,Rules suspended,,124,3
+HCR 7,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 7,883,House,2023-10-06,Filed,,,1
+HCR 8,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 8,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 8,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 8,883,House,2023-11-07,Signed in the House,,136,9
+HCR 8,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 8,883,House,2023-11-07,Senate passage reported,,137,7
+HCR 8,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 8,883,Senate,2023-11-02,Received from the House,,129,5
+HCR 8,883,House,2023-11-01,Adopted,,124,4
+HCR 8,883,House,2023-11-01,Rules suspended,,124,3
+HCR 8,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 8,883,House,2023-10-06,Filed,,,1
+HCR 9,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 9,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 9,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 9,883,House,2023-11-07,Signed in the House,,136,9
+HCR 9,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 9,883,House,2023-11-07,Senate passage reported,,137,7
+HCR 9,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 9,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 9,883,House,2023-11-01,Adopted,,124,4
+HCR 9,883,House,2023-11-01,Rules suspended,,124,3
+HCR 9,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 9,883,House,2023-10-06,Filed,,,1
+HCR 10,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 10,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 10,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 10,883,House,2023-11-07,Signed in the House,,136,9
+HCR 10,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 10,883,House,2023-11-07,Senate passage reported,,137,7
+HCR 10,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 10,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 10,883,House,2023-11-01,Adopted,,124,4
+HCR 10,883,House,2023-11-01,Rules suspended,,124,3
+HCR 10,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 10,883,House,2023-10-06,Filed,,,1
+HCR 11,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 11,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 11,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 11,883,House,2023-11-07,Signed in the House,,136,9
+HCR 11,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 11,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 11,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 11,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 11,883,House,2023-11-01,Adopted,,124,4
+HCR 11,883,House,2023-11-01,Rules suspended,,124,3
+HCR 11,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 11,883,House,2023-10-06,Filed,,,1
+HCR 12,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 12,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 12,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 12,883,House,2023-11-07,Signed in the House,,136,9
+HCR 12,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 12,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 12,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 12,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 12,883,House,2023-11-01,Adopted,,124,4
+HCR 12,883,House,2023-11-01,Rules suspended,,124,3
+HCR 12,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 12,883,House,2023-10-06,Filed,,,1
+HCR 13,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 13,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 13,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 13,883,House,2023-11-07,Signed in the House,,136,9
+HCR 13,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 13,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 13,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 13,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 13,883,House,2023-11-01,Adopted,,124,4
+HCR 13,883,House,2023-11-01,Rules suspended,,124,3
+HCR 13,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 13,883,House,2023-10-06,Filed,,,1
+HCR 14,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 14,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 14,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 14,883,House,2023-11-07,Signed in the House,,136,9
+HCR 14,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 14,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 14,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 14,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 14,883,House,2023-11-01,Adopted,,125,4
+HCR 14,883,House,2023-11-01,Rules suspended,,125,3
+HCR 14,883,House,2023-10-11,Referred to Resolutions Calendars,,8,2
+HCR 14,883,House,2023-10-06,Filed,,,1
+HCR 15,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 15,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 15,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 15,883,House,2023-11-07,Signed in the House,,136,9
+HCR 15,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 15,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 15,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 15,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 15,883,House,2023-11-01,Adopted,,125,4
+HCR 15,883,House,2023-11-01,Rules suspended,,125,3
+HCR 15,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HCR 15,883,House,2023-10-06,Filed,,,1
+HCR 16,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 16,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 16,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 16,883,House,2023-11-07,Signed in the House,,136,9
+HCR 16,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 16,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 16,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 16,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 16,883,House,2023-11-01,Adopted,,125,4
+HCR 16,883,House,2023-11-01,Rules suspended,,125,3
+HCR 16,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HCR 16,883,House,2023-10-06,Filed,,,1
+HCR 17,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 17,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 17,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 17,883,House,2023-11-07,Signed in the House,,136,9
+HCR 17,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 17,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 17,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 17,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 17,883,House,2023-11-01,Adopted,,125,4
+HCR 17,883,House,2023-11-01,Rules suspended,,125,3
+HCR 17,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HCR 17,883,House,2023-10-06,Filed,,,1
+HCR 18,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 18,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 18,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 18,883,House,2023-11-07,Signed in the House,,136,9
+HCR 18,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 18,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 18,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 18,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 18,883,House,2023-11-01,Adopted,,125,4
+HCR 18,883,House,2023-11-01,Rules suspended,,125,3
+HCR 18,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HCR 18,883,House,2023-10-06,Filed,,,1
+HCR 19,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 19,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 19,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 19,883,House,2023-11-07,Signed in the House,,136,9
+HCR 19,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 19,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 19,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 19,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 19,883,House,2023-11-01,Adopted,,125,4
+HCR 19,883,House,2023-11-01,Rules suspended,,125,3
+HCR 19,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HCR 19,883,House,2023-10-06,Filed,,,1
+HCR 25,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 25,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 25,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 25,883,House,2023-11-07,Signed in the House,,136,9
+HCR 25,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 25,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 25,883,Senate,2023-11-05,Read & adopted,,133,6
+HCR 25,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 25,883,House,2023-11-01,Adopted,,129,4
+HCR 25,883,House,2023-11-01,Rules suspended,,129,3
+HCR 25,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HCR 25,883,House,2023-10-25,Filed,,,1
+HCR 26,883,Executive,2023-11-27,Signed by the Governor,,,12
+HCR 26,883,Executive,2023-11-08,Sent to the Governor,,,11
+HCR 26,883,Senate,2023-11-07,Signed in the Senate,,137,10
+HCR 26,883,House,2023-11-07,Signed in the House,,136,9
+HCR 26,883,House,2023-11-07,Reported enrolled,,139,8
+HCR 26,883,House,2023-11-07,Senate passage reported,,138,7
+HCR 26,883,Senate,2023-11-05,Read & adopted,,134,6
+HCR 26,883,Senate,2023-11-02,Received from the House,,130,5
+HCR 26,883,House,2023-11-01,Adopted,,125,4
+HCR 26,883,House,2023-11-01,Rules suspended,,125,3
+HCR 26,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HCR 26,883,House,2023-10-25,Filed,,,1
+HCR 27,883,Executive,2023-11-27,Signed by the Governor,,,11
+HCR 27,883,Executive,2023-11-08,Sent to the Governor,,,10
+HCR 27,883,Senate,2023-11-07,Signed in the Senate,,137,9
+HCR 27,883,House,2023-11-07,Signed in the House,,136,8
+HCR 27,883,House,2023-11-07,Reported enrolled,,139,7
+HCR 27,883,House,2023-11-07,Senate passage reported,,138,6
+HCR 27,883,Senate,2023-11-05,Read & adopted,,133,5
+HCR 27,883,Senate,2023-11-02,Received from the House,,130,4
+HCR 27,883,House,2023-11-01,Adopted,,129,3
+HCR 27,883,House,2023-11-01,Rules suspended,,129,2
+HCR 27,883,House,2023-10-31,Filed,,,1
+HR 80,883,House,2023-11-02,Reported enrolled,,,5
+HR 80,883,House,2023-11-01,Adopted,,130,4
+HR 80,883,House,2023-11-01,Rules suspended,,130,3
+HR 80,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 80,883,House,2023-10-24,Filed,,,1
+HR 97,883,House,2023-11-02,Reported enrolled,,,5
+HR 97,883,House,2023-11-01,Adopted,,130,4
+HR 97,883,House,2023-11-01,Rules suspended,,130,3
+HR 97,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 97,883,House,2023-10-26,Filed,,,1
+HR 149,883,House,2023-11-07,Reported enrolled,,,4
+HR 149,883,House,2023-11-07,Adopted,,132,3
+HR 149,883,House,2023-11-07,Rules suspended,,132,2
+HR 149,883,House,2023-11-03,Filed,,,1
+HR 29,883,House,2023-11-02,Reported enrolled,,,5
+HR 29,883,House,2023-11-01,Adopted,,130,4
+HR 29,883,House,2023-11-01,Rules suspended,,130,3
+HR 29,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 29,883,House,2023-10-13,Filed,,,1
+HR 30,883,House,2023-11-02,Reported enrolled,,,5
+HR 30,883,House,2023-11-01,Adopted,,130,4
+HR 30,883,House,2023-11-01,Rules suspended,,130,3
+HR 30,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 30,883,House,2023-10-13,Filed,,,1
+HR 42,883,House,2023-11-02,Reported enrolled,,,5
+HR 42,883,House,2023-11-01,Adopted,,126,4
+HR 42,883,House,2023-11-01,Rules suspended,,126,3
+HR 42,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 42,883,House,2023-10-17,Filed,,,1
+HR 43,883,House,2023-10-25,Reported enrolled,,,5
+HR 43,883,House,2023-10-25,Adopted,,35,4
+HR 43,883,House,2023-10-25,Rules suspended,,35,3
+HR 43,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 43,883,House,2023-10-17,Filed,,,1
+HR 75,883,House,2023-11-02,Reported enrolled,,,5
+HR 75,883,House,2023-11-01,Adopted,,127,4
+HR 75,883,House,2023-11-01,Rules suspended,,127,3
+HR 75,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 75,883,House,2023-10-23,Filed,,,1
+HB 75,883,House,2023-10-06,Filed,,,1
+HB 79,883,House,2023-10-06,Filed,,,1
+HB 82,883,House,2023-10-06,Filed,,,1
+HCR 21,883,House,2023-10-11,Referred to State Affairs,,10,2
+HCR 21,883,House,2023-10-06,Filed,,,1
+HB 201,883,House,2023-10-31,Filed,,,1
+HB 202,883,House,2023-10-31,Filed,,,1
+HB 203,883,House,2023-10-31,Filed,,,1
+HB 111,883,House,2023-10-10,Filed,,,1
+HB 116,883,House,2023-10-10,Filed,,,1
+HB 123,883,House,2023-10-11,Filed,,,1
+HB 124,883,House,2023-10-11,Filed,,,1
+HB 125,883,House,2023-10-11,Filed,,,1
+HB 142,883,House,2023-10-12,Filed,,,1
+HB 143,883,House,2023-10-12,Filed,,,1
+HB 158,883,House,2023-10-16,Filed,,,1
+HB 180,883,House,2023-10-19,Filed,,,1
+HB 197,883,House,2023-10-25,Filed,,,1
+HR 56,883,House,2023-11-02,Reported enrolled,,,5
+HR 56,883,House,2023-11-01,Adopted,,126,4
+HR 56,883,House,2023-11-01,Rules suspended,,126,3
+HR 56,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 56,883,House,2023-10-19,Filed,,,1
+HB 6,883,Senate,2023-10-26,Referred to Finance,,108,42
+HB 6,883,Senate,2023-10-26,Read first time,,108,41
+HB 6,883,Senate,2023-10-26,Received from the House,,107,40
+HB 6,883,House,2023-10-26,Reported engrossed,,115,39
+HB 6,883,House,2023-10-26,Subject to Art.III Sec.49a Tx. Constitution,,102,38
+HB 6,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,102,37
+HB 6,883,House,2023-10-26,Record vote,RV#59,102,36
+HB 6,883,House,2023-10-26,Passed,,102,35
+HB 6,883,House,2023-10-26,Read 3rd time,,102,34
+HB 6,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,60,33
+HB 6,883,House,2023-10-25,Record vote,RV#24,60,32
+HB 6,883,House,2023-10-25,Passed to engrossment as amended,,60,31
+HB 6,883,House,2023-10-25,Amendment withdrawn,6-Thierry,60,30
+HB 6,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,59,29
+HB 6,883,House,2023-10-25,Record vote,RV#23,59,28
+HB 6,883,House,2023-10-25,Amendment fails of adoption,5-J. González,59,27
+HB 6,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,58,26
+HB 6,883,House,2023-10-25,Record vote,RV#22,58,25
+HB 6,883,House,2023-10-25,Amended,4-Martinez Fischer,57,24
+HB 6,883,House,2023-10-25,Amendment withdrawn,3-Hinojosa,57,23
+HB 6,883,House,2023-10-25,Point of order withdrawn (amendment),"Article III, Section 40",57,22
+HB 6,883,House,2023-10-25,Amendment(s) offered,3-Hinojosa,57,21
+HB 6,883,House,2023-10-25,Amendment withdrawn,2-Martinez Fischer,57,20
+HB 6,883,House,2023-10-25,Point of order withdrawn (amendment),"Article III, Section 40",57,19
+HB 6,883,House,2023-10-25,Amendment(s) offered,2-Martinez Fischer,56,18
+HB 6,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,56,17
+HB 6,883,House,2023-10-25,Record vote,RV#21,55,16
+HB 6,883,House,2023-10-25,Amended,1-Jetton,55,15
+HB 6,883,House,2023-10-25,Point of order withdrawn,"Rule 4, Section 32(c)(1)",55,14
+HB 6,883,House,2023-10-25,Read 2nd time,,54,13
+HB 6,883,House,2023-10-25,Placed on General State Calendar,,,12
+HB 6,883,House,2023-10-24,Considered in Calendars,,,11
+HB 6,883,House,2023-10-24,Committee report sent to Calendars,,,10
+HB 6,883,House,2023-10-23,Committee report distributed,,,9
+HB 6,883,House,2023-10-23,Comte report filed with Committee Coordinator,,98,8
+HB 6,883,House,2023-10-23,Reported favorably w/o amendment(s),,,7
+HB 6,883,House,2023-10-23,Testimony taken/registration(s) recorded in committee,,,6
+HB 6,883,House,2023-10-23,Considered in public hearing,,,5
+HB 6,883,House,2023-10-23,Scheduled for public hearing on . . .,,,4
+HB 6,883,House,2023-10-13,Referred to Appropriations,,17,3
+HB 6,883,House,2023-10-13,Read first time,,17,2
+HB 6,883,House,2023-10-13,Filed,,,1
+HB 12,883,House,2023-10-06,Filed,,,1
+HB 23,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 23,883,House,2023-10-12,Read first time,,11,2
+HB 23,883,House,2023-10-06,Filed,,,1
+HB 61,883,House,2023-10-06,Filed,,,1
+HB 4,883,Senate,2023-11-02,Committee report printed and distributed,,,136
+HB 4,883,Senate,2023-11-02,Reported favorably as substituted,,127,135
+HB 4,883,Senate,2023-11-01,Vote taken in committee,,,134
+HB 4,883,Senate,2023-11-01,Testimony taken in committee,,,133
+HB 4,883,Senate,2023-11-01,Considered in public hearing,,,132
+HB 4,883,Senate,2023-11-01,Scheduled for public hearing on  . . .,,,131
+HB 4,883,Senate,2023-10-26,Referred to Border Security,,108,130
+HB 4,883,Senate,2023-10-26,Read first time,,108,129
+HB 4,883,Senate,2023-10-26,Received from the House,,107,128
+HB 4,883,House,2023-10-26,Reported engrossed,,115,127
+HB 4,883,House,2023-10-26,Reason for vote recorded in Journal,,107,126
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,107,125
+HB 4,883,House,2023-10-26,Record vote,RV#60,106,124
+HB 4,883,House,2023-10-26,Passed,,106,123
+HB 4,883,House,2023-10-26,Read 3rd time,,103,122
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,97,121
+HB 4,883,House,2023-10-26,Record vote,RV#55,97,120
+HB 4,883,House,2023-10-26,Passed to engrossment as amended,,97,119
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,97,118
+HB 4,883,House,2023-10-26,Record vote,RV#54,96,117
+HB 4,883,House,2023-10-26,Motion prevails,,96,116
+HB 4,883,House,2023-10-26,Motion for the previous question,,96,115
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,96,114
+HB 4,883,House,2023-10-26,Record vote,RV#53,95,113
+HB 4,883,House,2023-10-26,Amendment fails of adoption,33-Turner,95,112
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,95,111
+HB 4,883,House,2023-10-26,Record vote,RV#52,94,110
+HB 4,883,House,2023-10-26,Amendment fails of adoption,32-C. Morales,93,109
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,93,108
+HB 4,883,House,2023-10-26,Record vote,RV#51,92,107
+HB 4,883,House,2023-10-26,Amendment fails of adoption,31-Martinez Fischer,92,106
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,92,105
+HB 4,883,House,2023-10-26,Record vote,RV#50,91,104
+HB 4,883,House,2023-10-26,Amendment fails of adoption,30-Ortega,91,103
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,91,102
+HB 4,883,House,2023-10-26,Record vote,RV#49,90,101
+HB 4,883,House,2023-10-26,Amendment fails of adoption,28-Ramos,90,100
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,90,99
+HB 4,883,House,2023-10-26,Record vote,RV#48,90,98
+HB 4,883,House,2023-10-26,Amendment to amendment fails of adoption,29-Talarico,90,97
+HB 4,883,House,2023-10-26,Amendment(s) offered,28-Ramos,89,96
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,89,95
+HB 4,883,House,2023-10-26,Record vote,RV#47,88,94
+HB 4,883,House,2023-10-26,Amendment fails of adoption,27-Hernandez,88,93
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,88,92
+HB 4,883,House,2023-10-26,Record vote,RV#46,88,91
+HB 4,883,House,2023-10-26,Amendment fails of adoption,26-Walle,87,90
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,87,89
+HB 4,883,House,2023-10-26,Record vote,RV#45,87,88
+HB 4,883,House,2023-10-26,Amendment fails of adoption,24-Ramos,87,87
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,86,86
+HB 4,883,House,2023-10-26,Record vote,RV#44,86,85
+HB 4,883,House,2023-10-26,Amendment to amendment fails of adoption,25-Zwiener,86,84
+HB 4,883,House,2023-10-26,Amendment(s) offered,24-Ramos,85,83
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,85,82
+HB 4,883,House,2023-10-26,Record vote,RV#43,84,81
+HB 4,883,House,2023-10-26,Amendment fails of adoption,22-Garcia,84,80
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,84,79
+HB 4,883,House,2023-10-26,Record vote,RV#42,83,78
+HB 4,883,House,2023-10-26,Amendment to amendment fails of adoption,23-Gámez,83,77
+HB 4,883,House,2023-10-26,Amendment(s) offered,22-Garcia,83,76
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,83,75
+HB 4,883,House,2023-10-26,Record vote,RV#41,82,74
+HB 4,883,House,2023-10-26,Amendment fails of adoption,21-Morales Shaw,82,73
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,82,72
+HB 4,883,House,2023-10-26,Record vote,RV#40,81,71
+HB 4,883,House,2023-10-26,Amendment fails of adoption,20-Bucy,81,70
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,80,69
+HB 4,883,House,2023-10-26,Record vote,RV#39,80,68
+HB 4,883,House,2023-10-26,Amendment fails of adoption,19-Turner,79,67
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,79,66
+HB 4,883,House,2023-10-26,Record vote,RV#38,79,65
+HB 4,883,House,2023-10-26,Amendment fails of adoption,18-Moody,78,64
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,78,63
+HB 4,883,House,2023-10-26,Record vote,RV#37,78,62
+HB 4,883,House,2023-10-26,Amendment fails of adoption,17-Wu,78,61
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,77,60
+HB 4,883,House,2023-10-26,Record vote,RV#36,77,59
+HB 4,883,House,2023-10-26,Amendment fails of adoption,16-Goodwin,77,58
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,76,57
+HB 4,883,House,2023-10-26,Record vote,RV#35,76,56
+HB 4,883,House,2023-10-26,Amendment fails of adoption,15-Ortega,76,55
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,75,54
+HB 4,883,House,2023-10-26,Record vote,RV#34,75,53
+HB 4,883,House,2023-10-26,Amendment fails of adoption,14-Goodwin,75,52
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,74,51
+HB 4,883,House,2023-10-26,Record vote,RV#33,74,50
+HB 4,883,House,2023-10-26,Amendment fails of adoption,13-Ordaz,74,49
+HB 4,883,House,2023-10-26,Point of order sustained (amendment),"Article III, Section 40",73,48
+HB 4,883,House,2023-10-26,Amendment(s) offered,"12-Tinderholt, Schatzline, Toth, and Harrison",73,47
+HB 4,883,House,2023-10-26,Amendment adopted as amended,10-C. Morales,73,46
+HB 4,883,House,2023-10-26,Amendment amended,11-C. Morales and Perez,72,45
+HB 4,883,House,2023-10-26,Amendment(s) offered,10-C. Morales,72,44
+HB 4,883,House,2023-10-26,Statement(s) of vote recorded in Journal,,72,43
+HB 4,883,House,2023-10-26,Record vote,RV#32,71,42
+HB 4,883,House,2023-10-26,Amendment fails of adoption,9-Moody,71,41
+HB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,71,40
+HB 4,883,House,2023-10-25,Record vote,RV#31,70,39
+HB 4,883,House,2023-10-25,Amendment fails of adoption,8-Hinojosa,70,38
+HB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,70,37
+HB 4,883,House,2023-10-25,Record vote,RV#30,69,36
+HB 4,883,House,2023-10-25,Amendment fails of adoption,7-Flores,69,35
+HB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,69,34
+HB 4,883,House,2023-10-25,Record vote,RV#29,68,33
+HB 4,883,House,2023-10-25,Amendment fails of adoption,6-Goodwin,68,32
+HB 4,883,House,2023-10-25,Amendment withdrawn,5-C. Morales,67,31
+HB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,67,30
+HB 4,883,House,2023-10-25,Record vote,RV#27,66,29
+HB 4,883,House,2023-10-25,Amendment fails of adoption,4-Garcia,66,28
+HB 4,883,House,2023-10-25,Amendment adopted as amended,2-Spiller,66,27
+HB 4,883,House,2023-10-25,Amendment amended,3-Spiller,65,26
+HB 4,883,House,2023-10-25,Amendment(s) offered,2-Spiller and Schatzline,64,25
+HB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,64,24
+HB 4,883,House,2023-10-25,Record vote,RV#26,64,23
+HB 4,883,House,2023-10-25,Amendment fails of adoption,1-Neave Criado,63,22
+HB 4,883,House,2023-10-25,Statement(s) of vote recorded in Journal,,63,21
+HB 4,883,House,2023-10-25,Record vote,RV#25,62,20
+HB 4,883,House,2023-10-25,Motion prevails,,62,19
+HB 4,883,House,2023-10-25,Motion to limit amendments,,62,18
+HB 4,883,House,2023-10-25,Point of order overruled,"Rule 4, Section 32(c)(1)",62,17
+HB 4,883,House,2023-10-25,Point of order overruled,"Article III, Section 40",61,16
+HB 4,883,House,2023-10-25,Point of order withdrawn,"Article III, Section 40",61,15
+HB 4,883,House,2023-10-25,Point of order withdrawn,"Rule 8, Section 1(a)(1)",61,14
+HB 4,883,House,2023-10-25,Read 2nd time,,61,13
+HB 4,883,House,2023-10-25,Placed on General State Calendar,,,12
+HB 4,883,House,2023-10-24,Considered in Calendars,,,11
+HB 4,883,House,2023-10-24,Committee report sent to Calendars,,,10
+HB 4,883,House,2023-10-23,Committee report distributed,,,9
+HB 4,883,House,2023-10-23,Comte report filed with Committee Coordinator,,98,8
+HB 4,883,House,2023-10-19,Reported favorably w/o amendment(s),,,7
+HB 4,883,House,2023-10-19,Testimony taken/registration(s) recorded in committee,,,6
+HB 4,883,House,2023-10-19,Considered in public hearing,,,5
+HB 4,883,House,2023-10-19,Scheduled for public hearing on . . .,,,4
+HB 4,883,House,2023-10-17,Referred to State Affairs,,22,3
+HB 4,883,House,2023-10-17,Read first time,,22,2
+HB 4,883,House,2023-10-13,Filed,,,1
+HR 51,883,House,2023-11-02,Reported enrolled,,,5
+HR 51,883,House,2023-11-01,Adopted,,130,4
+HR 51,883,House,2023-11-01,Rules suspended,,130,3
+HR 51,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 51,883,House,2023-10-19,Filed,,,1
+HR 52,883,House,2023-11-02,Reported enrolled,,,5
+HR 52,883,House,2023-11-01,Adopted,,130,4
+HR 52,883,House,2023-11-01,Rules suspended,,130,3
+HR 52,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 52,883,House,2023-10-19,Filed,,,1
+HR 53,883,House,2023-11-02,Reported enrolled,,,5
+HR 53,883,House,2023-11-01,Adopted,,130,4
+HR 53,883,House,2023-11-01,Rules suspended,,130,3
+HR 53,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 53,883,House,2023-10-19,Filed,,,1
+HR 54,883,House,2023-11-02,Reported enrolled,,,5
+HR 54,883,House,2023-11-01,Adopted,,130,4
+HR 54,883,House,2023-11-01,Rules suspended,,130,3
+HR 54,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 54,883,House,2023-10-19,Filed,,,1
+HR 55,883,House,2023-11-02,Reported enrolled,,,5
+HR 55,883,House,2023-11-01,Adopted,,130,4
+HR 55,883,House,2023-11-01,Rules suspended,,130,3
+HR 55,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 55,883,House,2023-10-19,Filed,,,1
+HB 99,883,House,2023-10-09,Filed,,,1
+HB 21,883,House,2023-10-06,Filed,,,1
+HB 63,883,House,2023-10-06,Filed,,,1
+HB 208,883,House,2023-11-03,Filed,,,1
+HB 5,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 5,883,House,2023-10-12,Read first time,,11,2
+HB 5,883,House,2023-10-11,Filed,,,1
+HB 126,883,House,2023-10-11,Filed,,,1
+HB 127,883,House,2023-10-11,Filed,,,1
+HB 128,883,House,2023-10-11,Filed,,,1
+HB 129,883,House,2023-10-11,Filed,,,1
+HB 130,883,House,2023-10-11,Filed,,,1
+HB 131,883,House,2023-10-11,Filed,,,1
+HB 132,883,House,2023-10-11,Filed,,,1
+HB 169,883,House,2023-10-18,Filed,,,1
+HB 170,883,House,2023-10-18,Filed,,,1
+HB 171,883,House,2023-10-18,Filed,,,1
+HB 172,883,House,2023-10-18,Filed,,,1
+HB 173,883,House,2023-10-18,Filed,,,1
+HB 174,883,House,2023-10-18,Filed,,,1
+HB 194,883,House,2023-10-24,Filed,,,1
+HB 195,883,House,2023-10-24,Filed,,,1
+HR 14,883,House,2023-11-02,Reported enrolled,,,5
+HR 14,883,House,2023-11-01,Adopted,,125,4
+HR 14,883,House,2023-11-01,Rules suspended,,125,3
+HR 14,883,House,2023-10-11,Referred to Resolutions Calendars,,10,2
+HR 14,883,House,2023-10-10,Filed,,,1
+HR 15,883,House,2023-11-02,Reported enrolled,,,5
+HR 15,883,House,2023-11-01,Adopted,,125,4
+HR 15,883,House,2023-11-01,Rules suspended,,125,3
+HR 15,883,House,2023-10-11,Referred to Resolutions Calendars,,10,2
+HR 15,883,House,2023-10-10,Filed,,,1
+HR 24,883,House,2023-11-02,Reported enrolled,,,5
+HR 24,883,House,2023-11-01,Adopted,,125,4
+HR 24,883,House,2023-11-01,Rules suspended,,125,3
+HR 24,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 24,883,House,2023-10-12,Filed,,,1
+HR 25,883,House,2023-10-19,"Referred to Culture, Recreation & Tourism",,22,2
+HR 25,883,House,2023-10-12,Filed,,,1
+HR 117,883,House,2023-11-02,Reported enrolled,,,4
+HR 117,883,House,2023-11-01,Adopted,,128,3
+HR 117,883,House,2023-11-01,Rules suspended,,128,2
+HR 117,883,House,2023-11-01,Filed,,,1
+HR 127,883,House,2023-11-02,Reported enrolled,,,4
+HR 127,883,House,2023-11-01,Adopted,,129,3
+HR 127,883,House,2023-11-01,Rules suspended,,129,2
+HR 127,883,House,2023-11-01,Filed,,,1
+HR 128,883,House,2023-11-02,Reported enrolled,,,4
+HR 128,883,House,2023-11-01,Adopted,,129,3
+HR 128,883,House,2023-11-01,Rules suspended,,129,2
+HR 128,883,House,2023-11-01,Filed,,,1
+HR 129,883,House,2023-11-02,Reported enrolled,,,4
+HR 129,883,House,2023-11-01,Adopted,,131,3
+HR 129,883,House,2023-11-01,Rules suspended,,131,2
+HR 129,883,House,2023-11-01,Filed,,,1
+HR 130,883,House,2023-11-02,Reported enrolled,,,4
+HR 130,883,House,2023-11-01,Adopted,,131,3
+HR 130,883,House,2023-11-01,Rules suspended,,131,2
+HR 130,883,House,2023-11-01,Filed,,,1
+HR 131,883,House,2023-11-02,Reported enrolled,,,4
+HR 131,883,House,2023-11-01,Adopted,,131,3
+HR 131,883,House,2023-11-01,Rules suspended,,131,2
+HR 131,883,House,2023-11-01,Filed,,,1
+HR 132,883,House,2023-11-02,Reported enrolled,,,4
+HR 132,883,House,2023-11-01,Adopted,,131,3
+HR 132,883,House,2023-11-01,Rules suspended,,131,2
+HR 132,883,House,2023-11-01,Filed,,,1
+HR 133,883,House,2023-11-02,Reported enrolled,,,4
+HR 133,883,House,2023-11-01,Adopted,,131,3
+HR 133,883,House,2023-11-01,Rules suspended,,131,2
+HR 133,883,House,2023-11-01,Filed,,,1
+HR 135,883,House,2023-11-02,Reported enrolled,,,4
+HR 135,883,House,2023-11-01,Adopted,,131,3
+HR 135,883,House,2023-11-01,Rules suspended,,131,2
+HR 135,883,House,2023-11-01,Filed,,,1
+HR 144,883,House,2023-11-07,Reported enrolled,,,4
+HR 144,883,House,2023-11-07,Adopted,,132,3
+HR 144,883,House,2023-11-07,Rules suspended,,132,2
+HR 144,883,House,2023-11-02,Filed,,,1
+HR 150,883,House,2023-11-07,Reported enrolled,,,4
+HR 150,883,House,2023-11-07,Adopted,,135,3
+HR 150,883,House,2023-11-07,Rules suspended,,135,2
+HR 150,883,House,2023-11-03,Filed,,,1
+HB 78,883,House,2023-10-06,Filed,,,1
+HB 85,883,House,2023-10-06,Filed,,,1
+HB 101,883,House,2023-10-09,Filed,,,1
+HB 107,883,House,2023-10-09,Filed,,,1
+HB 147,883,House,2023-10-12,Filed,,,1
+HB 155,883,House,2023-10-16,Filed,,,1
+HB 161,883,House,2023-10-16,Filed,,,1
+HB 167,883,House,2023-10-17,Filed,,,1
+HB 192,883,House,2023-10-23,Filed,,,1
+HCR 2,883,House,2023-10-11,Referred to State Affairs,,10,2
+HCR 2,883,House,2023-10-06,Filed,,,1
+HR 158,883,House,2023-11-06,Filed,,,1
+HB 137,883,House,2023-10-11,Filed,,,1
+HR 5,883,House,2023-11-02,Reported enrolled,,,5
+HR 5,883,House,2023-11-01,Adopted,,129,4
+HR 5,883,House,2023-11-01,Rules suspended,,129,3
+HR 5,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 5,883,House,2023-10-06,Filed,,,1
+HR 76,883,House,2023-11-02,Reported enrolled,,,5
+HR 76,883,House,2023-11-01,Adopted,,130,4
+HR 76,883,House,2023-11-01,Rules suspended,,130,3
+HR 76,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 76,883,House,2023-10-23,Filed,,,1
+HB 119,883,House,2023-10-10,Filed,,,1
+HB 112,883,House,2023-10-10,Filed,,,1
+HB 156,883,House,2023-10-16,Filed,,,1
+HR 32,883,House,2023-11-02,Reported enrolled,,,5
+HR 32,883,House,2023-11-01,Adopted,,126,4
+HR 32,883,House,2023-11-01,Rules suspended,,126,3
+HR 32,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 32,883,House,2023-10-13,Filed,,,1
+HR 74,883,House,2023-10-25,Reported enrolled,,,4
+HR 74,883,House,2023-10-25,Adopted,,34,3
+HR 74,883,House,2023-10-25,Rules suspended,,34,2
+HR 74,883,House,2023-10-23,Filed,,,1
+HR 195,883,House,2023-11-07,Reported enrolled,,,4
+HR 195,883,House,2023-11-07,Adopted,,135,3
+HR 195,883,House,2023-11-07,Rules suspended,,135,2
+HR 195,883,House,2023-11-06,Filed,,,1
+HB 24,883,House,2023-10-06,Filed,,,1
+HR 6,883,House,2023-11-02,Reported enrolled,,,5
+HR 6,883,House,2023-11-01,Adopted,,125,4
+HR 6,883,House,2023-11-01,Rules suspended,,125,3
+HR 6,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 6,883,House,2023-10-06,Filed,,,1
+HR 7,883,House,2023-11-02,Reported enrolled,,,5
+HR 7,883,House,2023-11-01,Adopted,,130,4
+HR 7,883,House,2023-11-01,Rules suspended,,130,3
+HR 7,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 7,883,House,2023-10-06,Filed,,,1
+HR 8,883,House,2023-11-02,Reported enrolled,,,5
+HR 8,883,House,2023-11-01,Adopted,,125,4
+HR 8,883,House,2023-11-01,Rules suspended,,125,3
+HR 8,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 8,883,House,2023-10-06,Filed,,,1
+HR 9,883,House,2023-11-02,Reported enrolled,,,5
+HR 9,883,House,2023-11-01,Adopted,,130,4
+HR 9,883,House,2023-11-01,Rules suspended,,130,3
+HR 9,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 9,883,House,2023-10-09,Filed,,,1
+HR 66,883,House,2023-11-02,Reported enrolled,,,5
+HR 66,883,House,2023-11-01,Adopted,,130,4
+HR 66,883,House,2023-11-01,Rules suspended,,130,3
+HR 66,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 66,883,House,2023-10-23,Filed,,,1
+HR 101,883,House,2023-11-02,Reported enrolled,,,5
+HR 101,883,House,2023-11-01,Adopted,,130,4
+HR 101,883,House,2023-11-01,Rules suspended,,130,3
+HR 101,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 101,883,House,2023-10-30,Filed,,,1
+HR 103,883,House,2023-11-02,Reported enrolled,,,5
+HR 103,883,House,2023-11-01,Adopted,,130,4
+HR 103,883,House,2023-11-01,Rules suspended,,130,3
+HR 103,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 103,883,House,2023-10-30,Filed,,,1
+HR 104,883,House,2023-11-02,Reported enrolled,,,5
+HR 104,883,House,2023-11-01,Adopted,,128,4
+HR 104,883,House,2023-11-01,Rules suspended,,128,3
+HR 104,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 104,883,House,2023-10-30,Filed,,,1
+HR 134,883,House,2023-11-02,Reported enrolled,,,4
+HR 134,883,House,2023-11-01,Adopted,,129,3
+HR 134,883,House,2023-11-01,Rules suspended,,129,2
+HR 134,883,House,2023-11-01,Filed,,,1
+HR 138,883,House,2023-11-02,Reported enrolled,,,4
+HR 138,883,House,2023-11-01,Adopted,,129,3
+HR 138,883,House,2023-11-01,Rules suspended,,129,2
+HR 138,883,House,2023-11-01,Filed,,,1
+HB 117,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 117,883,House,2023-10-12,Read first time,,11,2
+HB 117,883,House,2023-10-10,Filed,,,1
+HR 107,883,House,2023-11-02,Reported enrolled,,,5
+HR 107,883,House,2023-11-01,Adopted,,130,4
+HR 107,883,House,2023-11-01,Rules suspended,,130,3
+HR 107,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 107,883,House,2023-10-30,Filed,,,1
+HR 108,883,House,2023-11-02,Reported enrolled,,,5
+HR 108,883,House,2023-11-01,Adopted,,128,4
+HR 108,883,House,2023-11-01,Rules suspended,,128,3
+HR 108,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 108,883,House,2023-10-30,Filed,,,1
+HB 102,883,House,2023-10-09,Filed,,,1
+HB 151,883,House,2023-10-13,Filed,,,1
+HB 176,883,House,2023-10-19,Filed,,,1
+HR 123,883,House,2023-11-02,Reported enrolled,,,4
+HR 123,883,House,2023-11-01,Adopted,,122,3
+HR 123,883,House,2023-11-01,Rules suspended,,122,2
+HR 123,883,House,2023-11-01,Filed,,,1
+HB 177,883,House,2023-10-19,Filed,,,1
+HR 41,883,House,2023-10-19,Reported enrolled,,,5
+HR 41,883,House,2023-10-19,Adopted,,26,4
+HR 41,883,House,2023-10-19,Rules suspended,,26,3
+HR 41,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 41,883,House,2023-10-16,Filed,,,1
+HR 67,883,House,2023-11-02,Reported enrolled,,,5
+HR 67,883,House,2023-11-01,Adopted,,127,4
+HR 67,883,House,2023-11-01,Rules suspended,,127,3
+HR 67,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 67,883,House,2023-10-23,Filed,,,1
+HB 109,883,House,2023-10-09,Filed,,,1
+HR 50,883,House,2023-11-02,Reported enrolled,,,5
+HR 50,883,House,2023-11-01,Adopted,,126,4
+HR 50,883,House,2023-11-01,Rules suspended,,126,3
+HR 50,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 50,883,House,2023-10-19,Filed,,,1
+HB 62,883,House,2023-10-06,Filed,,,1
+HB 83,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 83,883,House,2023-10-12,Read first time,,11,2
+HB 83,883,House,2023-10-06,Filed,,,1
+HB 84,883,House,2023-10-06,Filed,,,1
+HB 103,883,House,2023-10-09,Filed,,,1
+HB 113,883,House,2023-10-10,Filed,,,1
+HR 27,883,House,2023-11-02,Reported enrolled,,,5
+HR 27,883,House,2023-11-01,Adopted,,130,4
+HR 27,883,House,2023-11-01,Rules suspended,,130,3
+HR 27,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 27,883,House,2023-10-12,Filed,,,1
+HR 47,883,House,2023-11-02,Reported enrolled,,,5
+HR 47,883,House,2023-11-01,Adopted,,126,4
+HR 47,883,House,2023-11-01,Rules suspended,,126,3
+HR 47,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 47,883,House,2023-10-18,Filed,,,1
+HR 157,883,House,2023-11-07,Reported enrolled,,,4
+HR 157,883,House,2023-11-07,Adopted,,132,3
+HR 157,883,House,2023-11-07,Rules suspended,,132,2
+HR 157,883,House,2023-11-06,Filed,,,1
+HR 64,883,House,2023-11-02,Reported enrolled,,,5
+HR 64,883,House,2023-11-01,Adopted,,123,4
+HR 64,883,House,2023-11-01,Rules suspended,,123,3
+HR 64,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 64,883,House,2023-10-20,Filed,,,1
+HB 189,883,House,2023-10-19,Filed,,,1
+HB 120,883,House,2023-10-10,Filed,,,1
+HB 164,883,House,2023-10-16,Filed,,,1
+HB 26,883,House,2023-10-06,Filed,,,1
+HB 30,883,House,2023-10-06,Filed,,,1
+HB 31,883,House,2023-10-06,Filed,,,1
+HB 32,883,House,2023-10-06,Filed,,,1
+HB 33,883,House,2023-10-06,Filed,,,1
+HB 35,883,House,2023-10-06,Filed,,,1
+HB 37,883,House,2023-10-06,Filed,,,1
+HB 38,883,House,2023-10-06,Filed,,,1
+HB 39,883,House,2023-10-06,Filed,,,1
+HB 40,883,House,2023-10-06,Filed,,,1
+HB 41,883,House,2023-10-06,Filed,,,1
+HB 42,883,House,2023-10-06,Filed,,,1
+HB 43,883,House,2023-10-06,Filed,,,1
+HB 44,883,House,2023-10-06,Filed,,,1
+HB 45,883,House,2023-10-06,Filed,,,1
+HB 46,883,House,2023-10-06,Filed,,,1
+HB 47,883,House,2023-10-06,Filed,,,1
+HB 48,883,House,2023-10-06,Filed,,,1
+HB 49,883,House,2023-10-06,Filed,,,1
+HB 50,883,House,2023-10-06,Filed,,,1
+HB 92,883,House,2023-10-09,Filed,,,1
+HB 139,883,House,2023-10-12,Filed,,,1
+HB 140,883,House,2023-10-12,Filed,,,1
+HB 94,883,House,2023-10-09,Filed,,,1
+HB 165,883,House,2023-10-16,Filed,,,1
+HB 11,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 11,883,House,2023-10-12,Read first time,,11,2
+HB 11,883,House,2023-10-06,Filed,,,1
+HB 17,883,House,2023-10-06,Filed,,,1
+HB 19,883,House,2023-10-06,Filed,,,1
+HB 178,883,House,2023-10-19,Filed,,,1
+HCR 1,883,House,2023-10-11,Referred to State Affairs,,10,2
+HCR 1,883,House,2023-10-06,Filed,,,1
+HCR 24,883,House,2023-10-11,"Referred to Culture, Recreation & Tourism",,11,2
+HCR 24,883,House,2023-10-10,Filed,,,1
+HB 93,883,House,2023-10-09,Filed,,,1
+HB 1,883,House,2023-10-19,Filed,,,1
+HR 44,883,House,2023-11-02,Reported enrolled,,,5
+HR 44,883,House,2023-11-01,Adopted,,130,4
+HR 44,883,House,2023-11-01,Rules suspended,,130,3
+HR 44,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 44,883,House,2023-10-17,Filed,,,1
+HR 45,883,House,2023-11-02,Reported enrolled,,,5
+HR 45,883,House,2023-11-01,Adopted,,130,4
+HR 45,883,House,2023-11-01,Rules suspended,,130,3
+HR 45,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 45,883,House,2023-10-17,Filed,,,1
+HR 48,883,House,2023-11-02,Reported enrolled,,,5
+HR 48,883,House,2023-11-01,Adopted,,126,4
+HR 48,883,House,2023-11-01,Rules suspended,,126,3
+HR 48,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 48,883,House,2023-10-18,Filed,,,1
+HR 49,883,House,2023-11-02,Reported enrolled,,,5
+HR 49,883,House,2023-11-01,Adopted,,126,4
+HR 49,883,House,2023-11-01,Rules suspended,,126,3
+HR 49,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 49,883,House,2023-10-18,Filed,,,1
+HB 18,883,House,2023-10-06,Filed,,,1
+HB 25,883,House,2023-10-06,Filed,,,1
+HB 34,883,House,2023-10-06,Filed,,,1
+HB 36,883,House,2023-10-06,Filed,,,1
+HB 51,883,House,2023-10-06,Filed,,,1
+HB 52,883,House,2023-10-06,Filed,,,1
+HB 53,883,House,2023-10-06,Filed,,,1
+HB 54,883,House,2023-10-06,Filed,,,1
+HB 55,883,House,2023-10-06,Filed,,,1
+HB 56,883,House,2023-10-06,Filed,,,1
+HB 57,883,House,2023-10-06,Filed,,,1
+HB 58,883,House,2023-10-06,Filed,,,1
+HB 59,883,House,2023-10-06,Filed,,,1
+HJR 5,883,House,2023-10-06,Filed,,,1
+HR 26,883,House,2023-11-02,Reported enrolled,,,5
+HR 26,883,House,2023-11-01,Adopted,,126,4
+HR 26,883,House,2023-11-01,Rules suspended,,126,3
+HR 26,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 26,883,House,2023-10-12,Filed,,,1
+HR 39,883,House,2023-11-02,Reported enrolled,,,5
+HR 39,883,House,2023-11-01,Adopted,,126,4
+HR 39,883,House,2023-11-01,Rules suspended,,126,3
+HR 39,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 39,883,House,2023-10-16,Filed,,,1
+HR 40,883,House,2023-10-25,Reported enrolled,,,5
+HR 40,883,House,2023-10-25,Adopted,,35,4
+HR 40,883,House,2023-10-25,Rules suspended,,35,3
+HR 40,883,House,2023-10-19,Referred to Resolutions Calendars,,23,2
+HR 40,883,House,2023-10-16,Filed,,,1
+HR 59,883,House,2023-11-02,Reported enrolled,,,5
+HR 59,883,House,2023-11-01,Adopted,,126,4
+HR 59,883,House,2023-11-01,Rules suspended,,126,3
+HR 59,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 59,883,House,2023-10-19,Filed,,,1
+HR 61,883,House,2023-11-02,Reported enrolled,,,5
+HR 61,883,House,2023-11-01,Adopted,,126,4
+HR 61,883,House,2023-11-01,Rules suspended,,126,3
+HR 61,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 61,883,House,2023-10-19,Filed,,,1
+HR 62,883,House,2023-11-02,Reported enrolled,,,5
+HR 62,883,House,2023-11-01,Adopted,,126,4
+HR 62,883,House,2023-11-01,Rules suspended,,126,3
+HR 62,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 62,883,House,2023-10-19,Filed,,,1
+HR 71,883,House,2023-11-02,Reported enrolled,,,5
+HR 71,883,House,2023-11-01,Adopted,,127,4
+HR 71,883,House,2023-11-01,Rules suspended,,127,3
+HR 71,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 71,883,House,2023-10-23,Filed,,,1
+HB 89,883,House,2023-10-06,Filed,,,1
+HB 95,883,House,2023-10-09,Filed,,,1
+HB 96,883,House,2023-10-09,Filed,,,1
+HB 97,883,House,2023-10-09,Filed,,,1
+HB 100,883,House,2023-10-09,Filed,,,1
+HB 204,883,House,2023-11-01,Filed,,,1
+HB 205,883,House,2023-11-01,Filed,,,1
+HJR 6,883,House,2023-10-16,Filed,,,1
+HR 38,883,House,2023-10-17,Reported enrolled,,,4
+HR 38,883,House,2023-10-16,Adopted,,20,3
+HR 38,883,House,2023-10-16,Rules suspended,,20,2
+HR 38,883,House,2023-10-16,Filed,,,1
+HR 88,883,House,2023-11-02,Reported enrolled,,,5
+HR 88,883,House,2023-11-01,Adopted,,127,4
+HR 88,883,House,2023-11-01,Rules suspended,,127,3
+HR 88,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 88,883,House,2023-10-25,Filed,,,1
+HR 89,883,House,2023-11-02,Reported enrolled,,,5
+HR 89,883,House,2023-11-01,Adopted,,127,4
+HR 89,883,House,2023-11-01,Rules suspended,,127,3
+HR 89,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 89,883,House,2023-10-25,Filed,,,1
+HR 90,883,House,2023-11-02,Reported enrolled,,,5
+HR 90,883,House,2023-11-01,Adopted,,127,4
+HR 90,883,House,2023-11-01,Rules suspended,,127,3
+HR 90,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 90,883,House,2023-10-25,Filed,,,1
+HR 91,883,House,2023-11-02,Reported enrolled,,,5
+HR 91,883,House,2023-11-01,Adopted,,127,4
+HR 91,883,House,2023-11-01,Rules suspended,,127,3
+HR 91,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 91,883,House,2023-10-25,Filed,,,1
+HR 92,883,House,2023-11-02,Reported enrolled,,,5
+HR 92,883,House,2023-11-01,Adopted,,128,4
+HR 92,883,House,2023-11-01,Rules suspended,,128,3
+HR 92,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 92,883,House,2023-10-25,Filed,,,1
+HR 111,883,House,2023-11-02,Reported enrolled,,,4
+HR 111,883,House,2023-11-01,Adopted,,130,3
+HR 111,883,House,2023-11-01,Rules suspended,,130,2
+HR 111,883,House,2023-10-30,Filed,,,1
+HB 121,883,House,2023-10-11,Filed,,,1
+HB 122,883,House,2023-10-11,Filed,,,1
+HR 143,883,House,2023-11-07,Reported enrolled,,,4
+HR 143,883,House,2023-11-07,Adopted,,135,3
+HR 143,883,House,2023-11-07,Rules suspended,,135,2
+HR 143,883,House,2023-11-02,Filed,,,1
+HR 57,883,House,2023-11-02,Reported enrolled,,,5
+HR 57,883,House,2023-11-01,Adopted,,126,4
+HR 57,883,House,2023-11-01,Rules suspended,,126,3
+HR 57,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 57,883,House,2023-10-19,Filed,,,1
+HR 58,883,House,2023-11-02,Reported enrolled,,,5
+HR 58,883,House,2023-11-01,Adopted,,130,4
+HR 58,883,House,2023-11-01,Rules suspended,,130,3
+HR 58,883,House,2023-10-23,Referred to Resolutions Calendars,,27,2
+HR 58,883,House,2023-10-19,Filed,,,1
+HR 65,883,House,2023-11-02,Reported enrolled,,,5
+HR 65,883,House,2023-11-01,Adopted,,130,4
+HR 65,883,House,2023-11-01,Rules suspended,,130,3
+HR 65,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 65,883,House,2023-10-20,Filed,,,1
+HB 98,883,House,2023-10-09,Filed,,,1
+HB 14,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 14,883,House,2023-10-12,Read first time,,11,2
+HB 14,883,House,2023-10-06,Filed,,,1
+HB 72,883,House,2023-10-06,Filed,,,1
+HR 11,883,House,2023-10-17,Reported enrolled,,,5
+HR 11,883,House,2023-10-16,Adopted,,20,4
+HR 11,883,House,2023-10-16,Rules suspended,,20,3
+HR 11,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 11,883,House,2023-10-09,Filed,,,1
+HR 12,883,House,2023-11-02,Reported enrolled,,,5
+HR 12,883,House,2023-11-01,Adopted,,125,4
+HR 12,883,House,2023-11-01,Rules suspended,,125,3
+HR 12,883,House,2023-10-11,Referred to Resolutions Calendars,,9,2
+HR 12,883,House,2023-10-09,Filed,,,1
+HR 72,883,House,2023-11-02,Reported enrolled,,,5
+HR 72,883,House,2023-11-01,Adopted,,127,4
+HR 72,883,House,2023-11-01,Rules suspended,,127,3
+HR 72,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 72,883,House,2023-10-23,Filed,,,1
+HR 146,883,House,2023-11-07,Reported enrolled,,,4
+HR 146,883,House,2023-11-07,Adopted,,132,3
+HR 146,883,House,2023-11-07,Rules suspended,,132,2
+HR 146,883,House,2023-11-02,Filed,,,1
+HR 22,883,House,2023-10-12,Reported enrolled,,,4
+HR 22,883,House,2023-10-12,Adopted,,14,3
+HR 22,883,House,2023-10-12,Rules suspended,,14,2
+HR 22,883,House,2023-10-11,Filed,,,1
+HR 189,883,House,2023-11-07,Reported enrolled,,,4
+HR 189,883,House,2023-11-07,Adopted,,135,3
+HR 189,883,House,2023-11-07,Rules suspended,,135,2
+HR 189,883,House,2023-11-06,Filed,,,1
+HR 191,883,House,2023-11-07,Reported enrolled,,,4
+HR 191,883,House,2023-11-07,Adopted,,135,3
+HR 191,883,House,2023-11-07,Rules suspended,,135,2
+HR 191,883,House,2023-11-06,Filed,,,1
+HR 192,883,House,2023-11-07,Reported enrolled,,,4
+HR 192,883,House,2023-11-07,Adopted,,135,3
+HR 192,883,House,2023-11-07,Rules suspended,,135,2
+HR 192,883,House,2023-11-06,Filed,,,1
+HR 193,883,House,2023-11-07,Reported enrolled,,,4
+HR 193,883,House,2023-11-07,Adopted,,135,3
+HR 193,883,House,2023-11-07,Rules suspended,,135,2
+HR 193,883,House,2023-11-06,Filed,,,1
+HR 194,883,House,2023-11-07,Reported enrolled,,,4
+HR 194,883,House,2023-11-07,Adopted,,135,3
+HR 194,883,House,2023-11-07,Rules suspended,,135,2
+HR 194,883,House,2023-11-06,Filed,,,1
+HB 162,883,House,2023-10-16,Filed,,,1
+HB 163,883,House,2023-10-16,Filed,,,1
+HR 102,883,House,2023-11-02,Reported enrolled,,,5
+HR 102,883,House,2023-11-01,Adopted,,128,4
+HR 102,883,House,2023-11-01,Rules suspended,,128,3
+HR 102,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 102,883,House,2023-10-30,Filed,,,1
+HR 115,883,House,2023-11-02,Reported enrolled,,,4
+HR 115,883,House,2023-11-01,Adopted,,128,3
+HR 115,883,House,2023-11-01,Rules suspended,,128,2
+HR 115,883,House,2023-10-31,Filed,,,1
+HB 166,883,House,2023-10-17,Filed,,,1
+HR 95,883,House,2023-11-02,Reported enrolled,,,4
+HR 95,883,House,2023-11-01,Adopted,,123,3
+HR 95,883,House,2023-11-01,Rules suspended,,123,2
+HR 95,883,House,2023-10-25,Filed,,,1
+HB 190,883,House,2023-10-20,Filed,,,1
+HR 78,883,House,2023-10-30,Referred to State Affairs,,111,2
+HR 78,883,House,2023-10-24,Filed,,,1
+HB 138,883,House,2023-10-11,Filed,,,1
+HB 64,883,House,2023-10-06,Filed,,,1
+HB 65,883,House,2023-10-06,Filed,,,1
+HB 104,883,House,2023-10-09,Filed,,,1
+HCR 28,883,House,2023-11-01,Filed,,,1
+HB 91,883,House,2023-10-09,Filed,,,1
+HB 16,883,House,2023-10-06,Filed,,,1
+HB 22,883,House,2023-10-06,Filed,,,1
+HB 27,883,House,2023-10-06,Filed,,,1
+HB 181,883,House,2023-10-19,Filed,,,1
+HB 182,883,House,2023-10-19,Filed,,,1
+HB 183,883,House,2023-10-19,Filed,,,1
+HB 184,883,House,2023-10-19,Filed,,,1
+HB 185,883,House,2023-10-19,Filed,,,1
+HB 186,883,House,2023-10-19,Filed,,,1
+HB 187,883,House,2023-10-19,Filed,,,1
+HB 188,883,House,2023-10-19,Filed,,,1
+HJR 7,883,House,2023-10-19,Filed,,,1
+HB 114,883,House,2023-10-12,Referred to State Affairs,,11,3
+HB 114,883,House,2023-10-12,Read first time,,11,2
+HB 114,883,House,2023-10-10,Filed,,,1
+HR 77,883,House,2023-11-02,Reported enrolled,,,5
+HR 77,883,House,2023-11-01,Adopted,,127,4
+HR 77,883,House,2023-11-01,Rules suspended,,127,3
+HR 77,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 77,883,House,2023-10-23,Filed,,,1
+HR 116,883,House,2023-11-02,Reported enrolled,,,4
+HR 116,883,House,2023-11-01,Adopted,,128,3
+HR 116,883,House,2023-11-01,Rules suspended,,128,2
+HR 116,883,House,2023-10-31,Filed,,,1
+HR 145,883,House,2023-11-07,Reported enrolled,,,4
+HR 145,883,House,2023-11-07,Adopted,,135,3
+HR 145,883,House,2023-11-07,Rules suspended,,135,2
+HR 145,883,House,2023-11-02,Filed,,,1
+HB 68,883,House,2023-10-06,Filed,,,1
+HB 81,883,House,2023-10-06,Filed,,,1
+HB 106,883,House,2023-10-09,Filed,,,1
+HB 133,883,House,2023-10-11,Filed,,,1
+HCR 20,883,House,2023-10-11,Referred to State Affairs,,10,2
+HCR 20,883,House,2023-10-06,Filed,,,1
+HB 146,883,House,2023-10-12,Filed,,,1
+HB 153,883,House,2023-10-16,Filed,,,1
+HB 198,883,House,2023-10-27,Filed,,,1
+HB 199,883,House,2023-10-27,Filed,,,1
+HB 157,883,House,2023-10-16,Filed,,,1
+HB 148,883,House,2023-10-13,Filed,,,1
+HR 23,883,House,2023-11-02,Reported enrolled,,,5
+HR 23,883,House,2023-11-01,Adopted,,125,4
+HR 23,883,House,2023-11-01,Rules suspended,,125,3
+HR 23,883,House,2023-10-19,Referred to Resolutions Calendars,,22,2
+HR 23,883,House,2023-10-12,Filed,,,1
+HB 191,883,House,2023-10-20,Filed,,,1
+HB 196,883,House,2023-10-24,Filed,,,1
+HR 105,883,House,2023-11-02,Reported enrolled,,,5
+HR 105,883,House,2023-11-01,Adopted,,128,4
+HR 105,883,House,2023-11-01,Rules suspended,,128,3
+HR 105,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 105,883,House,2023-10-30,Filed,,,1
+HR 109,883,House,2023-11-02,Reported enrolled,,,5
+HR 109,883,House,2023-11-01,Adopted,,128,4
+HR 109,883,House,2023-11-01,Rules suspended,,128,3
+HR 109,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 109,883,House,2023-10-30,Filed,,,1
+HB 69,883,House,2023-10-06,Filed,,,1
+HB 70,883,House,2023-10-06,Filed,,,1
+HB 145,883,House,2023-10-12,Filed,,,1
+HB 152,883,House,2023-10-16,Filed,,,1
+HJR 9,883,House,2023-11-01,Filed,,,1
+HR 125,883,House,2023-11-02,Reported enrolled,,,4
+HR 125,883,House,2023-11-01,Adopted,,129,3
+HR 125,883,House,2023-11-01,Rules suspended,,129,2
+HR 125,883,House,2023-11-01,Filed,,,1
+HR 159,883,House,2023-11-07,Reported enrolled,,,4
+HR 159,883,House,2023-11-07,Adopted,,135,3
+HR 159,883,House,2023-11-07,Rules suspended,,135,2
+HR 159,883,House,2023-11-06,Filed,,,1
+HR 160,883,House,2023-11-07,Reported enrolled,,,4
+HR 160,883,House,2023-11-07,Adopted,,132,3
+HR 160,883,House,2023-11-07,Rules suspended,,132,2
+HR 160,883,House,2023-11-06,Filed,,,1
+HR 81,883,House,2023-10-24,Filed,,,1
+HB 110,883,House,2023-10-10,Filed,,,1
+HB 179,883,House,2023-10-19,Filed,,,1
+HCR 23,883,House,2023-10-11,"Referred to Culture, Recreation & Tourism",,11,2
+HCR 23,883,House,2023-10-09,Filed,,,1
+HR 147,883,House,2023-11-07,Reported enrolled,,,4
+HR 147,883,House,2023-11-07,Adopted,,135,3
+HR 147,883,House,2023-11-07,Rules suspended,,135,2
+HR 147,883,House,2023-11-02,Filed,,,1
+HR 190,883,House,2023-11-07,Reported enrolled,,,4
+HR 190,883,House,2023-11-07,Adopted,,131,3
+HR 190,883,House,2023-11-07,Rules suspended,,131,2
+HR 190,883,House,2023-11-06,Filed,,,1
+HR 86,883,House,2023-11-02,Reported enrolled,,,5
+HR 86,883,House,2023-11-01,Adopted,,127,4
+HR 86,883,House,2023-11-01,Rules suspended,,127,3
+HR 86,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 86,883,House,2023-10-25,Filed,,,1
+HB 15,883,House,2023-10-06,Filed,,,1
+HB 87,883,House,2023-10-06,Filed,,,1
+HB 88,883,House,2023-10-06,Filed,,,1
+HB 118,883,House,2023-10-10,Filed,,,1
+HCR 22,883,House,2023-10-11,"Referred to Culture, Recreation & Tourism",,10,2
+HCR 22,883,House,2023-10-06,Filed,,,1
+HR 46,883,House,2023-11-02,Reported enrolled,,,5
+HR 46,883,House,2023-11-01,Adopted,,126,4
+HR 46,883,House,2023-11-01,Rules suspended,,126,3
+HR 46,883,House,2023-10-19,Referred to Resolutions Calendars,,24,2
+HR 46,883,House,2023-10-17,Filed,,,1
+HR 68,883,House,2023-11-02,Reported enrolled,,,5
+HR 68,883,House,2023-11-01,Adopted,,127,4
+HR 68,883,House,2023-11-01,Rules suspended,,127,3
+HR 68,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 68,883,House,2023-10-23,Filed,,,1
+HR 69,883,House,2023-11-02,Reported enrolled,,,5
+HR 69,883,House,2023-11-01,Adopted,,127,4
+HR 69,883,House,2023-11-01,Rules suspended,,127,3
+HR 69,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 69,883,House,2023-10-23,Filed,,,1
+HR 70,883,House,2023-11-02,Reported enrolled,,,5
+HR 70,883,House,2023-11-01,Adopted,,127,4
+HR 70,883,House,2023-11-01,Rules suspended,,127,3
+HR 70,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 70,883,House,2023-10-23,Filed,,,1
+HR 73,883,House,2023-11-02,Reported enrolled,,,5
+HR 73,883,House,2023-11-01,Adopted,,127,4
+HR 73,883,House,2023-11-01,Rules suspended,,127,3
+HR 73,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 73,883,House,2023-10-23,Filed,,,1
+HR 79,883,House,2023-11-02,Reported enrolled,,,5
+HR 79,883,House,2023-11-01,Adopted,,127,4
+HR 79,883,House,2023-11-01,Rules suspended,,127,3
+HR 79,883,House,2023-10-30,Referred to Resolutions Calendars,,109,2
+HR 79,883,House,2023-10-24,Filed,,,1
+HR 96,883,House,2023-11-02,Reported enrolled,,,5
+HR 96,883,House,2023-11-01,Adopted,,128,4
+HR 96,883,House,2023-11-01,Rules suspended,,128,3
+HR 96,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 96,883,House,2023-10-26,Filed,,,1
+HR 100,883,House,2023-11-02,Reported enrolled,,,5
+HR 100,883,House,2023-11-01,Adopted,,128,4
+HR 100,883,House,2023-11-01,Rules suspended,,128,3
+HR 100,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 100,883,House,2023-10-27,Filed,,,1
+HR 110,883,House,2023-11-02,Reported enrolled,,,5
+HR 110,883,House,2023-11-01,Adopted,,128,4
+HR 110,883,House,2023-11-01,Rules suspended,,128,3
+HR 110,883,House,2023-10-30,Referred to Resolutions Calendars,,111,2
+HR 110,883,House,2023-10-30,Filed,,,1
+HR 148,883,House,2023-11-07,Reported enrolled,,,4
+HR 148,883,House,2023-11-07,Adopted,,132,3
+HR 148,883,House,2023-11-07,Rules suspended,,132,2
+HR 148,883,House,2023-11-03,Filed,,,1
+HB 154,883,House,2023-10-16,Filed,,,1
+HB 200,883,House,2023-10-27,Filed,,,1
+HR 98,883,House,2023-11-02,Reported enrolled,,,5
+HR 98,883,House,2023-11-01,Adopted,,130,4
+HR 98,883,House,2023-11-01,Rules suspended,,130,3
+HR 98,883,House,2023-10-30,Referred to Resolutions Calendars,,110,2
+HR 98,883,House,2023-10-27,Filed,,,1
+HB 108,883,House,2023-10-09,Filed,,,1
+HB 115,883,House,2023-10-10,Filed,,,1
+HB 90,883,House,2023-10-06,Filed,,,1
+HB 144,883,House,2023-10-12,Filed,,,1
+HB 150,883,House,2023-10-13,Filed,,,1
+HB 159,883,House,2023-10-16,Filed,,,1
+HR 137,883,House,2023-11-02,Reported enrolled,,,4
+HR 137,883,House,2023-11-01,Adopted,,129,3
+HR 137,883,House,2023-11-01,Rules suspended,,129,2
+HR 137,883,House,2023-11-01,Filed,,,1
+HB 134,883,House,2023-10-11,Filed,,,1
+HB 135,883,House,2023-10-11,Filed,,,1
+HB 136,883,House,2023-10-11,Filed,,,1
+HR 60,883,House,2023-10-25,Reported enrolled,,,4
+HR 60,883,House,2023-10-25,Adopted,,34,3
+HR 60,883,House,2023-10-25,Rules suspended,,34,2
+HR 60,883,House,2023-10-19,Filed,,,1
+HR 17,883,House,2023-11-02,Reported enrolled,,,5
+HR 17,883,House,2023-11-01,Adopted,,125,4
+HR 17,883,House,2023-11-01,Rules suspended,,125,3
+HR 17,883,House,2023-10-11,Referred to Resolutions Calendars,,10,2
+HR 17,883,House,2023-10-11,Filed,,,1
+HR 18,883,House,2023-11-02,Reported enrolled,,,5
+HR 18,883,House,2023-11-01,Adopted,,130,4
+HR 18,883,House,2023-11-01,Rules suspended,,130,3
+HR 18,883,House,2023-10-11,Referred to Resolutions Calendars,,10,2
+HR 18,883,House,2023-10-11,Filed,,,1
+HR 20,883,House,2023-11-02,Reported enrolled,,,5
+HR 20,883,House,2023-11-01,Adopted,,125,4
+HR 20,883,House,2023-11-01,Rules suspended,,125,3
+HR 20,883,House,2023-10-19,Referred to Resolutions Calendars,,22,2
+HR 20,883,House,2023-10-11,Filed,,,1
+HR 21,883,House,2023-11-02,Reported enrolled,,,5
+HR 21,883,House,2023-11-01,Adopted,,125,4
+HR 21,883,House,2023-11-01,Rules suspended,,125,3
+HR 21,883,House,2023-10-19,Referred to Resolutions Calendars,,22,2
+HR 21,883,House,2023-10-11,Filed,,,1
+HR 63,883,House,2023-11-02,Reported enrolled,,,5
+HR 63,883,House,2023-11-01,Adopted,,127,4
+HR 63,883,House,2023-11-01,Rules suspended,,127,3
+HR 63,883,House,2023-10-23,Referred to Resolutions Calendars,,28,2
+HR 63,883,House,2023-10-20,Filed,,,1
+SB 81,883,Senate,2023-11-07,Filed,,,2
+SB 81,883,Senate,2023-11-07,Received by the Secretary of the Senate,,,1

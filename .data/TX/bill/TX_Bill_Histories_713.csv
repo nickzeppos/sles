@@ -1,0 +1,3132 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SB 23,713,Senate,1990-03-21,Reported favorably with substitute,,82,6
+SB 23,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 23,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 23,713,Senate,1990-03-15,Referred to Natural Resources,,59,3
+SB 23,713,Senate,1990-03-15,Read first time,,59,2
+SB 23,713,Senate,1990-02-27,Filed,,,1
+SB 22,713,House,1990-03-28,Received from the Senate,,203,14
+SB 22,713,Senate,1990-03-27,Record vote,,100,13
+SB 22,713,Senate,1990-03-27,Passed,,100,12
+SB 22,713,Senate,1990-03-27,Read 3rd time,,100,11
+SB 22,713,Senate,1990-03-27,Record vote,,100,10
+SB 22,713,Senate,1990-03-27,Rules suspended,,100,9
+SB 22,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,100,8
+SB 22,713,Senate,1990-03-27,Rules suspended,,100,7
+SB 22,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,6
+SB 22,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 22,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 22,713,Senate,1990-03-15,Referred to Natural Resources,,59,3
+SB 22,713,Senate,1990-03-15,Read first time,,59,2
+SB 22,713,Senate,1990-02-27,Filed,,,1
+SB 40,713,Senate,1990-03-15,Referred to Finance,,60,3
+SB 40,713,Senate,1990-03-15,Read first time,,60,2
+SB 40,713,Senate,1990-03-06,Filed,,,1
+SB 48,713,Senate,1990-03-14,Referred to S/C on Public Education,,48,4
+SB 48,713,Senate,1990-03-14,Referred to Committee of the Whole,,48,3
+SB 48,713,Senate,1990-03-14,Read first time,,48,2
+SB 48,713,Senate,1990-03-08,Filed,,,1
+SB 67,713,Senate,1990-03-21,Referred to Criminal Justice,,86,3
+SB 67,713,Senate,1990-03-21,Read first time,,86,2
+SB 67,713,Senate,1990-03-20,Filed,,,1
+SB 71,713,Senate,1990-03-23,Referred to Natural Resources,,89,3
+SB 71,713,Senate,1990-03-23,Read first time,,89,2
+SB 71,713,Senate,1990-03-22,Filed,,,1
+SR 11,713,Senate,1990-03-05,Read & adopted,,39,1
+SR 14,713,Senate,1990-03-05,Read & adopted,,39,1
+SR 17,713,Senate,1990-03-06,Read & adopted,,42,1
+SR 23,713,Senate,1990-03-08,Read & adopted,,46,1
+SR 29,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 33,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 34,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 35,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 38,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 39,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 44,713,Senate,1990-03-15,Read & adopted,,61,1
+SR 46,713,Senate,1990-03-15,Read & adopted,,61,1
+SR 49,713,Senate,1990-03-16,Read & adopted,,62,1
+SR 54,713,Senate,1990-03-19,Read & adopted,,81,1
+SR 68,713,Senate,1990-03-23,Read & adopted,,90,1
+SR 74,713,Senate,1990-03-28,Read & adopted,,106,1
+SB 57,713,Senate,1990-03-21,Reported favorably w/amendments,,82,7
+SB 57,713,Senate,1990-03-20,Testimony taken in committee,,,6
+SB 57,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 57,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 57,713,Senate,1990-03-15,Referred to Natural Resources,,60,3
+SB 57,713,Senate,1990-03-15,Read first time,,60,2
+SB 57,713,Senate,1990-03-15,Filed,,,1
+SR 10,713,Senate,1990-03-01,Read & adopted,,36,1
+SR 24,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 72,713,Senate,1990-03-26,Read & adopted,,92,1
+SB 10,713,Senate,1990-03-15,Referred to State Affairs,,58,3
+SB 10,713,Senate,1990-03-15,Read first time,,58,2
+SB 10,713,Senate,1990-02-06,Filed,,,1
+SB 11,713,Senate,1990-03-15,Referred to Finance,,58,3
+SB 11,713,Senate,1990-03-15,Read first time,,58,2
+SB 11,713,Senate,1990-02-12,Filed,,,1
+SB 15,713,House,1990-03-28,Received from the Senate,,203,14
+SB 15,713,Senate,1990-03-27,Record vote,,103,13
+SB 15,713,Senate,1990-03-27,Passed,,103,12
+SB 15,713,Senate,1990-03-27,Read 3rd time,,103,11
+SB 15,713,Senate,1990-03-27,Record vote,,103,10
+SB 15,713,Senate,1990-03-27,Rules suspended,,103,9
+SB 15,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,103,8
+SB 15,713,Senate,1990-03-27,Rules suspended,,103,7
+SB 15,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,6
+SB 15,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 15,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 15,713,Senate,1990-03-15,Referred to Natural Resources,,58,3
+SB 15,713,Senate,1990-03-15,Read first time,,58,2
+SB 15,713,Senate,1990-02-22,Filed,,,1
+SB 17,713,Senate,1990-03-15,Referred to Health & Human Services,,58,3
+SB 17,713,Senate,1990-03-15,Read first time,,58,2
+SB 17,713,Senate,1990-02-23,Filed,,,1
+SB 19,713,Senate,1990-03-15,Referred to Finance,,59,3
+SB 19,713,Senate,1990-03-15,Read first time,,59,2
+SB 19,713,Senate,1990-02-26,Filed,,,1
+SB 44,713,House,1990-03-28,Received from the Senate,,203,14
+SB 44,713,Senate,1990-03-27,Passed,,104,13
+SB 44,713,Senate,1990-03-27,Read 3rd time,,104,12
+SB 44,713,Senate,1990-03-27,Record vote,,104,11
+SB 44,713,Senate,1990-03-27,Rules suspended,,104,10
+SB 44,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,103,9
+SB 44,713,Senate,1990-03-27,Rules suspended,,103,8
+SB 44,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,7
+SB 44,713,Senate,1990-03-20,Testimony taken in committee,,,6
+SB 44,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 44,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 44,713,Senate,1990-03-15,Referred to Natural Resources,,60,3
+SB 44,713,Senate,1990-03-15,Read first time,,60,2
+SB 44,713,Senate,1990-03-07,Filed,,,1
+SB 61,713,Senate,1990-03-19,Referred to Education,,63,3
+SB 61,713,Senate,1990-03-19,Read first time,,63,2
+SB 61,713,Senate,1990-03-16,Filed,,,1
+SB 62,713,Senate,1990-03-19,Referred to Education,,63,3
+SB 62,713,Senate,1990-03-19,Read first time,,63,2
+SB 62,713,Senate,1990-03-16,Filed,,,1
+SB 63,713,Senate,1990-03-19,Referred to Health & Human Services,,63,3
+SB 63,713,Senate,1990-03-19,Read first time,,63,2
+SB 63,713,Senate,1990-03-16,Filed,,,1
+SB 66,713,Senate,1990-03-21,Referred to Education,,86,3
+SB 66,713,Senate,1990-03-21,Read first time,,86,2
+SB 66,713,Senate,1990-03-20,Filed,,,1
+SCR 2,713,Senate,1990-04-17,Signed by the Governor,,116,15
+SCR 2,713,Senate,1990-03-19,Sent to the Governor,,82,14
+SCR 2,713,House,1990-03-15,Signed in the House,,68,13
+SCR 2,713,Senate,1990-03-15,Signed in the Senate,,55,12
+SCR 2,713,Senate,1990-03-14,House passage reported,,49,11
+SCR 2,713,House,1990-03-14,Sent to the Senate,,,10
+SCR 2,713,House,1990-03-14,Adopted,,60,9
+SCR 2,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,8
+SCR 2,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,7
+SCR 2,713,House,1990-03-07,Considered in formal meeting,,,6
+SCR 2,713,House,1990-03-01,Referred to Rules and Resolutions,,23,5
+SCR 2,713,House,1990-03-01,Received from the Senate,,22,4
+SCR 2,713,Senate,1990-02-28,Read & adopted,,13,3
+SCR 2,713,Senate,1990-02-28,Rules suspended,,13,2
+SCR 2,713,Senate,1990-02-28,Filed,,,1
+SCR 3,713,Senate,1990-04-17,Signed by the Governor,,116,15
+SCR 3,713,Senate,1990-03-30,Sent to the Governor,,113,14
+SCR 3,713,House,1990-03-28,Signed in the House,,203,13
+SCR 3,713,Senate,1990-03-27,Signed in the Senate,,93,12
+SCR 3,713,Senate,1990-03-23,House passage reported,,88,11
+SCR 3,713,House,1990-03-23,Sent to the Senate,,,10
+SCR 3,713,House,1990-03-22,Adopted,,90,9
+SCR 3,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,8
+SCR 3,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,7
+SCR 3,713,House,1990-03-19,Considered in formal meeting,,,6
+SCR 3,713,House,1990-03-06,Referred to Rules and Resolutions,,42,5
+SCR 3,713,House,1990-03-05,Received from the Senate,,29,4
+SCR 3,713,Senate,1990-03-01,Read & adopted,,37,3
+SCR 3,713,Senate,1990-03-01,Rules suspended,,37,2
+SCR 3,713,Senate,1990-03-01,Filed,,,1
+SCR 6,713,Senate,1990-04-17,Signed by the Governor,,116,12
+SCR 6,713,Senate,1990-03-26,Sent to the Governor,,92,11
+SCR 6,713,House,1990-03-23,Signed in the House,,180,10
+SCR 6,713,Senate,1990-03-23,Signed in the Senate,,89,9
+SCR 6,713,Senate,1990-03-21,House passage reported,,85,8
+SCR 6,713,House,1990-03-21,Sent to the Senate,,,7
+SCR 6,713,House,1990-03-20,Adopted,,82,6
+SCR 6,713,House,1990-03-20,Rules suspended,,82,5
+SCR 6,713,House,1990-03-20,Received from the Senate,,80,4
+SCR 6,713,Senate,1990-03-19,Read & adopted,,81,3
+SCR 6,713,Senate,1990-03-19,Rules suspended,,81,2
+SCR 6,713,Senate,1990-03-19,Filed,,,1
+SCR 9,713,Senate,1990-03-23,Referred to Jurisprudence,,89,3
+SCR 9,713,Senate,1990-03-23,Read first time,,89,2
+SCR 9,713,Senate,1990-03-22,Filed,,,1
+SCR 11,713,House,1990-03-28,Received from the Senate,,203,4
+SCR 11,713,Senate,1990-03-27,Read & adopted,,105,3
+SCR 11,713,Senate,1990-03-27,Rules suspended,,105,2
+SCR 11,713,Senate,1990-03-27,Filed,,,1
+SR 1,713,Senate,1990-02-27,Record vote,,4,2
+SR 1,713,Senate,1990-02-27,Read & adopted,,4,1
+SR 75,713,Senate,1990-03-27,Read & adopted,,106,1
+SR 76,713,Senate,1990-03-27,Read & adopted,,106,1
+SR 82,713,Senate,1990-03-28,Read & adopted,,107,1
+SB 7,713,Senate,1990-03-15,Referred to Criminal Justice,,58,3
+SB 7,713,Senate,1990-03-15,Read first time,,58,2
+SB 7,713,Senate,1990-01-31,Filed,,,1
+SB 12,713,Senate,1990-03-15,Referred to Criminal Justice,,58,3
+SB 12,713,Senate,1990-03-15,Read first time,,58,2
+SB 12,713,Senate,1990-02-16,Filed,,,1
+SB 26,713,House,1990-03-28,Received from the Senate,,203,17
+SB 26,713,Senate,1990-03-27,Record vote,,116,16
+SB 26,713,Senate,1990-03-27,Passed,,102,15
+SB 26,713,Senate,1990-03-27,Read 3rd time,,102,14
+SB 26,713,Senate,1990-03-27,Record vote,,102,13
+SB 26,713,Senate,1990-03-27,Rules suspended,,102,12
+SB 26,713,Senate,1990-03-27,Passed to engrossment as amended,,101,11
+SB 26,713,Senate,1990-03-27,Amended,,101,10
+SB 26,713,Senate,1990-03-27,Read second time,,101,9
+SB 26,713,Senate,1990-03-27,Rules suspended,,101,8
+SB 26,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,7
+SB 26,713,Senate,1990-03-20,Testimony taken in committee,,,6
+SB 26,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 26,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 26,713,Senate,1990-03-15,Referred to Natural Resources,,59,3
+SB 26,713,Senate,1990-03-15,Read first time,,59,2
+SB 26,713,Senate,1990-02-27,Filed,,,1
+SB 38,713,Senate,1990-03-15,Referred to State Affairs,,59,3
+SB 38,713,Senate,1990-03-15,Read first time,,59,2
+SB 38,713,Senate,1990-03-05,Filed,,,1
+SB 39,713,Senate,1990-03-15,Referred to Health & Human Services,,60,3
+SB 39,713,Senate,1990-03-15,Read first time,,60,2
+SB 39,713,Senate,1990-03-05,Filed,,,1
+SB 59,713,Senate,1990-03-16,Referred to Criminal Justice,,61,3
+SB 59,713,Senate,1990-03-16,Read first time,,61,2
+SB 59,713,Senate,1990-03-15,Filed,,,1
+SB 70,713,Senate,1990-03-23,Referred to Criminal Justice,,89,3
+SB 70,713,Senate,1990-03-23,Read first time,,89,2
+SB 70,713,Senate,1990-03-21,Filed,,,1
+SCR 4,713,Senate,1990-03-15,Referred to Health & Human Services,,57,3
+SCR 4,713,Senate,1990-03-15,Read first time,,57,2
+SCR 4,713,Senate,1990-03-05,Filed,,,1
+SJR 5,713,Senate,1990-03-15,Referred to Criminal Justice,,58,3
+SJR 5,713,Senate,1990-03-15,Read first time,,58,2
+SJR 5,713,Senate,1990-02-27,Filed,,,1
+SJR 6,713,Senate,1990-03-15,Referred to Criminal Justice,,58,3
+SJR 6,713,Senate,1990-03-15,Read first time,,58,2
+SJR 6,713,Senate,1990-02-27,Filed,,,1
+SR 7,713,Senate,1990-02-28,Read & adopted,,13,1
+SR 62,713,Senate,1990-03-19,Read & adopted,,81,1
+SR 63,713,Senate,1990-03-19,Read & adopted,,81,1
+SR 67,713,Senate,1990-03-23,Read & adopted,,90,1
+SR 78,713,Senate,1990-03-28,Read & adopted,,113,1
+SB 68,713,Senate,1990-03-21,Referred to Finance,,86,3
+SB 68,713,Senate,1990-03-21,Read first time,,86,2
+SB 68,713,Senate,1990-03-21,Filed,,,1
+SR 59,713,Senate,1990-03-27,Read & adopted,,94,1
+SB 3,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SB 3,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SB 3,713,Senate,1990-02-27,Read first time,,10,2
+SB 3,713,Senate,1990-01-29,Filed,,,1
+SB 5,713,House,1990-03-28,Received from the Senate,,203,14
+SB 5,713,Senate,1990-03-27,Record vote,,102,13
+SB 5,713,Senate,1990-03-27,Passed,,102,12
+SB 5,713,Senate,1990-03-27,Read 3rd time,,102,11
+SB 5,713,Senate,1990-03-27,Record vote,,102,10
+SB 5,713,Senate,1990-03-27,Rules suspended,,102,9
+SB 5,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,102,8
+SB 5,713,Senate,1990-03-27,Rules suspended,,102,7
+SB 5,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,6
+SB 5,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 5,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 5,713,Senate,1990-03-15,Referred to Intergovernmental Relations,,58,3
+SB 5,713,Senate,1990-03-15,Read first time,,58,2
+SB 5,713,Senate,1990-01-30,Filed,,,1
+SB 13,713,Senate,1990-03-15,Referred to Criminal Justice,,58,3
+SB 13,713,Senate,1990-03-15,Read first time,,58,2
+SB 13,713,Senate,1990-02-21,Filed,,,1
+SB 46,713,House,1990-03-28,Received from the Senate,,203,13
+SB 46,713,Senate,1990-03-27,Passed,,102,12
+SB 46,713,Senate,1990-03-27,Read 3rd time,,102,11
+SB 46,713,Senate,1990-03-27,Record vote,,102,10
+SB 46,713,Senate,1990-03-27,Rules suspended,,102,9
+SB 46,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,102,8
+SB 46,713,Senate,1990-03-27,Rules suspended,,102,7
+SB 46,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,6
+SB 46,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 46,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 46,713,Senate,1990-03-15,Referred to Natural Resources,,60,3
+SB 46,713,Senate,1990-03-15,Read first time,,60,2
+SB 46,713,Senate,1990-03-08,Filed,,,1
+SCR 8,713,Senate,1990-03-23,Referred to Jurisprudence,,89,3
+SCR 8,713,Senate,1990-03-23,Read first time,,89,2
+SCR 8,713,Senate,1990-03-21,Filed,,,1
+SB 6,713,Senate,1990-03-26,Left as pending business in comm.,,,10
+SB 6,713,Senate,1990-03-26,Testimony taken in committee,,,9
+SB 6,713,Senate,1990-03-26,Considered in public hearing,,,8
+SB 6,713,Senate,1990-03-26,Scheduled for public hearing on  . . . . . .,,,7
+SB 6,713,Senate,1990-03-19,Co-author authorized,,63,6
+SB 6,713,Senate,1990-03-16,Co-author authorized,,62,5
+SB 6,713,Senate,1990-03-15,Referred to Finance,,58,4
+SB 6,713,Senate,1990-03-15,Read first time,,58,3
+SB 6,713,Senate,1990-02-27,Co-author authorized,,11,2
+SB 6,713,Senate,1990-01-30,Filed,,,1
+SB 28,713,House,1990-03-28,Received from the Senate,,203,14
+SB 28,713,Senate,1990-03-27,Record vote,,103,13
+SB 28,713,Senate,1990-03-27,Passed,,103,12
+SB 28,713,Senate,1990-03-27,Read 3rd time,,103,11
+SB 28,713,Senate,1990-03-27,Record vote,,103,10
+SB 28,713,Senate,1990-03-27,Rules suspended,,103,9
+SB 28,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,103,8
+SB 28,713,Senate,1990-03-27,Rules suspended,,103,7
+SB 28,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,6
+SB 28,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 28,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 28,713,Senate,1990-03-15,Referred to Natural Resources,,59,3
+SB 28,713,Senate,1990-03-15,Read first time,,59,2
+SB 28,713,Senate,1990-02-28,Filed,,,1
+SB 37,713,Senate,1990-03-21,Referred to Education,,87,8
+SB 37,713,Senate,1990-03-21,Rereferred to committee,,87,7
+SB 37,713,Senate,1990-03-15,Co-author authorized,,48,6
+SB 37,713,Senate,1990-03-14,Co-author authorized,,48,5
+SB 37,713,Senate,1990-03-05,Referred to S/C on Public Education,,38,4
+SB 37,713,Senate,1990-03-05,Referred to Committee of the Whole,,38,3
+SB 37,713,Senate,1990-03-05,Read first time,,38,2
+SB 37,713,Senate,1990-03-05,Filed,,,1
+SB 53,713,Senate,1990-03-15,Referred to Health & Human Services,,60,3
+SB 53,713,Senate,1990-03-15,Read first time,,60,2
+SB 53,713,Senate,1990-03-15,Filed,,,1
+SR 9,713,Senate,1990-02-28,Read & adopted,,13,1
+SR 48,713,Senate,1990-03-21,Read & adopted,,87,1
+SR 52,713,Senate,1990-03-16,Read & adopted,,62,1
+SR 60,713,Senate,1990-03-19,Read & adopted,,81,1
+SR 53,713,Senate,1990-03-19,Read & adopted,,63,1
+SR 61,713,Senate,1990-03-19,Filed,,,1
+SB 51,713,House,1990-03-28,Received from the Senate,,203,16
+SB 51,713,Senate,1990-03-27,Record vote,,105,15
+SB 51,713,Senate,1990-03-27,Passed,,105,14
+SB 51,713,Senate,1990-03-27,Read 3rd time,,105,13
+SB 51,713,Senate,1990-03-27,Record vote,,105,12
+SB 51,713,Senate,1990-03-27,Rules suspended,,105,11
+SB 51,713,Senate,1990-03-27,Passed to engrossment as amended,,105,10
+SB 51,713,Senate,1990-03-27,Amended,,105,9
+SB 51,713,Senate,1990-03-27,Read second time,,105,8
+SB 51,713,Senate,1990-03-27,Rules suspended,,105,7
+SB 51,713,Senate,1990-03-21,Reported favorably w/amendments,,82,6
+SB 51,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 51,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 51,713,Senate,1990-03-15,Referred to Intergovernmental Relations,,60,3
+SB 51,713,Senate,1990-03-15,Read first time,,60,2
+SB 51,713,Senate,1990-03-13,Filed,,,1
+SR 30,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 47,713,Senate,1990-03-15,Read & adopted,,61,1
+SB 4,713,Senate,1990-03-20,No action taken in committee,,,5
+SB 4,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 4,713,Senate,1990-03-15,Referred to Jurisprudence,,58,3
+SB 4,713,Senate,1990-03-15,Read first time,,58,2
+SB 4,713,Senate,1990-01-29,Filed,,,1
+SB 58,713,Senate,1990-03-16,Referred to State Affairs,,61,3
+SB 58,713,Senate,1990-03-16,Read first time,,61,2
+SB 58,713,Senate,1990-03-15,Filed,,,1
+SJR 10,713,Senate,1990-03-28,Co-author authorized,,106,18
+SJR 10,713,Senate,1990-03-27,No action taken in committee,,,17
+SJR 10,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,16
+SJR 10,713,Senate,1990-03-20,Left as pending business in comm.,,,15
+SJR 10,713,Senate,1990-03-20,Testimony taken in committee,,,14
+SJR 10,713,Senate,1990-03-20,Considered in public hearing,,,13
+SJR 10,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,12
+SJR 10,713,Senate,1990-03-15,Left as pending business in comm.,,,11
+SJR 10,713,Senate,1990-03-15,Testimony taken in committee,,,10
+SJR 10,713,Senate,1990-03-15,Considered in public hearing,,,9
+SJR 10,713,Senate,1990-03-15,Scheduled for public hearing on  . . . . . .,,,8
+SJR 10,713,Senate,1990-03-14,Left as pending business in comm.,,,7
+SJR 10,713,Senate,1990-03-14,Testimony taken in committee,,,6
+SJR 10,713,Senate,1990-03-14,Considered in public hearing,,,5
+SJR 10,713,Senate,1990-03-14,Scheduled for public hearing on  . . . . . .,,,4
+SJR 10,713,Senate,1990-03-08,Referred to State Affairs,,43,3
+SJR 10,713,Senate,1990-03-08,Read first time,,43,2
+SJR 10,713,Senate,1990-03-07,Filed,,,1
+SJR 12,713,Senate,1990-03-27,No action taken in committee,,,5
+SJR 12,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SJR 12,713,Senate,1990-03-21,Referred to State Affairs,,86,3
+SJR 12,713,Senate,1990-03-21,Read first time,,86,2
+SJR 12,713,Senate,1990-03-20,Filed,,,1
+SR 19,713,Senate,1990-03-15,Reported favorably w/o amendments,,51,5
+SR 19,713,Senate,1990-03-15,Considered in public hearing,,,4
+SR 19,713,Senate,1990-03-14,Scheduled for public hearing on  . . . . . .,,,3
+SR 19,713,Senate,1990-03-06,Referred to Administration,,40,2
+SR 19,713,Senate,1990-03-06,Read first time,,40,1
+SR 50,713,Senate,1990-03-16,Read & adopted,,62,1
+SR 51,713,Senate,1990-03-16,Read & adopted,,62,1
+SR 65,713,Senate,1990-03-21,Read & adopted,,88,1
+SR 73,713,Senate,1990-03-27,Read & adopted,,106,1
+SB 1,713,Senate,1990-03-16,No action taken in s/c,,,13
+SB 1,713,Senate,1990-03-16,Scheduled for public hearing in s/c,,,12
+SB 1,713,Senate,1990-03-15,No action taken in s/c,,,11
+SB 1,713,Senate,1990-03-15,Scheduled for public hearing in s/c,,,10
+SB 1,713,Senate,1990-03-14,No action taken in s/c,,,9
+SB 1,713,Senate,1990-03-14,Scheduled for public hearing in s/c,,,8
+SB 1,713,Senate,1990-03-01,Left as pending business in comm.,,,7
+SB 1,713,Senate,1990-03-01,Considered in public hearing,,,6
+SB 1,713,Senate,1990-03-01,Scheduled for public hearing in s/c,,,5
+SB 1,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SB 1,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SB 1,713,Senate,1990-02-27,Read first time,,10,2
+SB 1,713,Senate,1990-02-14,Filed,,,1
+SB 52,713,Senate,1990-03-15,Referred to Intergovernmental Relations,,60,3
+SB 52,713,Senate,1990-03-15,Read first time,,60,2
+SB 52,713,Senate,1990-03-14,Filed,,,1
+SJR 1,713,House,1990-03-20,Referred to Public Education,,80,30
+SJR 1,713,House,1990-03-20,Read first time,,80,29
+SJR 1,713,House,1990-03-20,Received from the Senate,,80,28
+SJR 1,713,Senate,1990-03-19,Record vote,,80,27
+SJR 1,713,Senate,1990-03-19,Passed,,80,26
+SJR 1,713,Senate,1990-03-19,Read 3rd time,,80,25
+SJR 1,713,Senate,1990-03-19,Record vote,,80,24
+SJR 1,713,Senate,1990-03-19,Rules suspended,,80,23
+SJR 1,713,Senate,1990-03-19,Read 2nd time & passed to engrossment,,80,22
+SJR 1,713,Senate,1990-03-19,Rules suspended,,80,21
+SJR 1,713,Senate,1990-03-19,Reported favorably w/o amendments,,65,20
+SJR 1,713,Senate,1990-03-19,Considered in public hearing,,,19
+SJR 1,713,Senate,1990-03-08,Reported from s/c favorably w/o amdts.,,,18
+SJR 1,713,Senate,1990-03-07,Testimony taken in s/c,,,17
+SJR 1,713,Senate,1990-03-07,Considered by s/c in public hearing,,,16
+SJR 1,713,Senate,1990-03-07,Scheduled for public hearing in s/c,,,15
+SJR 1,713,Senate,1990-03-06,Left as pending business in s/c,,,14
+SJR 1,713,Senate,1990-03-06,Testimony taken in s/c,,,13
+SJR 1,713,Senate,1990-03-06,Considered by s/c in public hearing,,,12
+SJR 1,713,Senate,1990-03-06,Scheduled for public hearing in s/c,,,11
+SJR 1,713,Senate,1990-03-05,Left as pending business in s/c,,,10
+SJR 1,713,Senate,1990-03-05,Testimony taken in s/c,,,9
+SJR 1,713,Senate,1990-03-05,Considered by s/c in public hearing,,,8
+SJR 1,713,Senate,1990-03-05,Scheduled for public hearing in s/c,,,7
+SJR 1,713,Senate,1990-03-01,No action taken in s/c,,,6
+SJR 1,713,Senate,1990-03-01,Scheduled for public hearing in s/c,,,5
+SJR 1,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SJR 1,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SJR 1,713,Senate,1990-02-27,Read first time,,10,2
+SJR 1,713,Senate,1990-02-14,Filed,,,1
+SR 81,713,Senate,1990-03-28,Read & adopted,,113,1
+SB 27,713,Senate,1990-03-15,Referred to Economic Development,,59,3
+SB 27,713,Senate,1990-03-15,Read first time,,59,2
+SB 27,713,Senate,1990-02-28,Filed,,,1
+SB 32,713,Senate,1990-03-15,Referred to Intergovernmental Relations,,59,3
+SB 32,713,Senate,1990-03-15,Read first time,,59,2
+SB 32,713,Senate,1990-03-01,Filed,,,1
+SR 15,713,Senate,1990-03-05,Read & adopted,,39,1
+SR 16,713,Senate,1990-03-05,Read & adopted,,39,1
+SR 25,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 26,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 45,713,Senate,1990-03-15,Read & adopted,,61,1
+SR 71,713,Senate,1990-03-28,Read & adopted,,110,1
+SB 41,713,Senate,1990-03-15,Referred to Economic Development,,60,3
+SB 41,713,Senate,1990-03-15,Read first time,,60,2
+SB 41,713,Senate,1990-03-06,Filed,,,1
+SR 5,713,Senate,1990-02-27,Read & adopted,,7,1
+SB 24,713,House,1990-03-28,Received from the Senate,,203,13
+SB 24,713,Senate,1990-03-27,Passed,,101,12
+SB 24,713,Senate,1990-03-27,Read 3rd time,,101,11
+SB 24,713,Senate,1990-03-27,Record vote,,101,10
+SB 24,713,Senate,1990-03-27,Rules suspended,,101,9
+SB 24,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,101,8
+SB 24,713,Senate,1990-03-27,Rules suspended,,101,7
+SB 24,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,6
+SB 24,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 24,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 24,713,Senate,1990-03-15,Referred to Jurisprudence,,59,3
+SB 24,713,Senate,1990-03-15,Read first time,,59,2
+SB 24,713,Senate,1990-02-27,Filed,,,1
+SB 25,713,House,1990-03-28,Received from the Senate,,203,14
+SB 25,713,Senate,1990-03-27,Passed,,101,13
+SB 25,713,Senate,1990-03-27,Read 3rd time,,101,12
+SB 25,713,Senate,1990-03-27,Record vote,,101,11
+SB 25,713,Senate,1990-03-27,Rules suspended,,101,10
+SB 25,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,101,9
+SB 25,713,Senate,1990-03-27,Rules suspended,,101,8
+SB 25,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,7
+SB 25,713,Senate,1990-03-20,Testimony taken in committee,,,6
+SB 25,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 25,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 25,713,Senate,1990-03-15,Referred to Jurisprudence,,59,3
+SB 25,713,Senate,1990-03-15,Read first time,,59,2
+SB 25,713,Senate,1990-02-27,Filed,,,1
+SB 33,713,Senate,1990-03-16,No action taken in s/c,,,11
+SB 33,713,Senate,1990-03-16,Scheduled for public hearing in s/c,,,10
+SB 33,713,Senate,1990-03-15,Co-author authorized,,60,9
+SB 33,713,Senate,1990-03-15,No action taken in s/c,,,8
+SB 33,713,Senate,1990-03-15,Scheduled for public hearing in s/c,,,7
+SB 33,713,Senate,1990-03-14,No action taken in s/c,,,6
+SB 33,713,Senate,1990-03-14,Scheduled for public hearing in s/c,,,5
+SB 33,713,Senate,1990-03-05,Referred to S/C on Public Education,,38,4
+SB 33,713,Senate,1990-03-05,Referred to Committee of the Whole,,38,3
+SB 33,713,Senate,1990-03-05,Read first time,,38,2
+SB 33,713,Senate,1990-03-01,Filed,,,1
+SR 6,713,Senate,1990-02-27,Read & adopted,,11,1
+SR 31,713,Senate,1990-03-14,Read & adopted,,48,1
+SB 2,713,Senate,1990-03-28,Co-author authorized,,106,20
+SB 2,713,Senate,1990-03-27,No action taken in committee,,,19
+SB 2,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,18
+SB 2,713,Senate,1990-03-20,Left as pending business in comm.,,,17
+SB 2,713,Senate,1990-03-20,Testimony taken in committee,,,16
+SB 2,713,Senate,1990-03-20,Considered in public hearing,,,15
+SB 2,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,14
+SB 2,713,Senate,1990-03-15,Left as pending business in comm.,,,13
+SB 2,713,Senate,1990-03-15,Testimony taken in committee,,,12
+SB 2,713,Senate,1990-03-15,Considered in public hearing,,,11
+SB 2,713,Senate,1990-03-15,Scheduled for public hearing on  . . . . . .,,,10
+SB 2,713,Senate,1990-03-14,Left as pending business in comm.,,,9
+SB 2,713,Senate,1990-03-14,Testimony taken in committee,,,8
+SB 2,713,Senate,1990-03-14,Considered in public hearing,,,7
+SB 2,713,Senate,1990-03-14,Scheduled for public hearing on  . . . . . .,,,6
+SB 2,713,Senate,1990-03-06,Referred to State Affairs,,40,5
+SB 2,713,Senate,1990-03-06,Rereferred to committee,,40,4
+SB 2,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SB 2,713,Senate,1990-02-27,Read first time,,10,2
+SB 2,713,Senate,1990-01-29,Filed,,,1
+SB 8,713,Senate,1990-03-15,Referred to State Affairs,,58,3
+SB 8,713,Senate,1990-03-15,Read first time,,58,2
+SB 8,713,Senate,1990-01-31,Filed,,,1
+SB 42,713,Senate,1990-03-21,Referred to Education,,87,6
+SB 42,713,Senate,1990-03-21,Rereferred to committee,,87,5
+SB 42,713,Senate,1990-03-08,Referred to S/C on Public Education,,43,4
+SB 42,713,Senate,1990-03-08,Referred to Committee of the Whole,,43,3
+SB 42,713,Senate,1990-03-08,Read first time,,43,2
+SB 42,713,Senate,1990-03-07,Filed,,,1
+SB 45,713,Senate,1990-03-15,Referred to State Affairs,,60,3
+SB 45,713,Senate,1990-03-15,Read first time,,60,2
+SB 45,713,Senate,1990-03-08,Filed,,,1
+SB 69,713,Senate,1990-03-21,Referred to Education,,86,3
+SB 69,713,Senate,1990-03-21,Read first time,,86,2
+SB 69,713,Senate,1990-03-21,Filed,,,1
+SJR 2,713,Senate,1990-03-28,Co-author authorized,,106,20
+SJR 2,713,Senate,1990-03-27,No action taken in committee,,,19
+SJR 2,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,18
+SJR 2,713,Senate,1990-03-20,Left as pending business in comm.,,,17
+SJR 2,713,Senate,1990-03-20,Testimony taken in committee,,,16
+SJR 2,713,Senate,1990-03-20,Considered in public hearing,,,15
+SJR 2,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,14
+SJR 2,713,Senate,1990-03-15,Left as pending business in comm.,,,13
+SJR 2,713,Senate,1990-03-15,Testimony taken in committee,,,12
+SJR 2,713,Senate,1990-03-15,Considered in public hearing,,,11
+SJR 2,713,Senate,1990-03-15,Scheduled for public hearing on  . . . . . .,,,10
+SJR 2,713,Senate,1990-03-14,Left as pending business in comm.,,,9
+SJR 2,713,Senate,1990-03-14,Testimony taken in committee,,,8
+SJR 2,713,Senate,1990-03-14,Considered in public hearing,,,7
+SJR 2,713,Senate,1990-03-14,Scheduled for public hearing on  . . . . . .,,,6
+SJR 2,713,Senate,1990-03-06,Referred to State Affairs,,40,5
+SJR 2,713,Senate,1990-03-06,Rereferred to committee,,40,4
+SJR 2,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SJR 2,713,Senate,1990-02-27,Read first time,,10,2
+SJR 2,713,Senate,1990-01-29,Filed,,,1
+SJR 8,713,Senate,1990-03-06,Referred to S/C on Public Education,,40,4
+SJR 8,713,Senate,1990-03-06,Referred to Committee of the Whole,,40,3
+SJR 8,713,Senate,1990-03-06,Read first time,,40,2
+SJR 8,713,Senate,1990-03-06,Filed,,,1
+SJR 9,713,Senate,1990-03-28,Co-author authorized,,106,18
+SJR 9,713,Senate,1990-03-27,No action taken in committee,,,17
+SJR 9,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,16
+SJR 9,713,Senate,1990-03-20,Left as pending business in comm.,,,15
+SJR 9,713,Senate,1990-03-20,Testimony taken in committee,,,14
+SJR 9,713,Senate,1990-03-20,Considered in public hearing,,,13
+SJR 9,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,12
+SJR 9,713,Senate,1990-03-15,Left as pending business in comm.,,,11
+SJR 9,713,Senate,1990-03-15,Testimony taken in committee,,,10
+SJR 9,713,Senate,1990-03-15,Considered in public hearing,,,9
+SJR 9,713,Senate,1990-03-15,Scheduled for public hearing on  . . . . . .,,,8
+SJR 9,713,Senate,1990-03-14,Left as pending business in comm.,,,7
+SJR 9,713,Senate,1990-03-14,Testimony taken in committee,,,6
+SJR 9,713,Senate,1990-03-14,Considered in public hearing,,,5
+SJR 9,713,Senate,1990-03-14,Scheduled for public hearing on  . . . . . .,,,4
+SJR 9,713,Senate,1990-03-06,Referred to State Affairs,,40,3
+SJR 9,713,Senate,1990-03-06,Read first time,,40,2
+SJR 9,713,Senate,1990-03-06,Filed,,,1
+SR 41,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 42,713,Senate,1990-03-14,Read & adopted,,51,1
+SB 43,713,Senate,1990-03-08,Referred to S/C on Public Education,,43,4
+SB 43,713,Senate,1990-03-08,Referred to Committee of the Whole,,43,3
+SB 43,713,Senate,1990-03-08,Read first time,,43,2
+SB 43,713,Senate,1990-03-07,Filed,,,1
+SB 47,713,Senate,1990-03-15,Referred to Intergovernmental Relations,,60,3
+SB 47,713,Senate,1990-03-15,Read first time,,60,2
+SB 47,713,Senate,1990-03-08,Filed,,,1
+SJR 11,713,Senate,1990-03-08,Referred to S/C on Public Education,,43,4
+SJR 11,713,Senate,1990-03-08,Referred to Committee of the Whole,,43,3
+SJR 11,713,Senate,1990-03-08,Read first time,,43,2
+SJR 11,713,Senate,1990-03-07,Filed,,,1
+SR 70,713,Senate,1990-03-26,Read & adopted,,92,1
+SR 3,713,Senate,1990-02-27,Read & adopted,,11,1
+SR 12,713,Senate,1990-03-05,Read & adopted,,39,1
+SR 40,713,Senate,1990-03-14,Read & adopted,,50,1
+SB 21,713,Senate,1990-03-15,Referred to Economic Development,,59,3
+SB 21,713,Senate,1990-03-15,Read first time,,59,2
+SB 21,713,Senate,1990-02-26,Filed,,,1
+SR 2,713,Senate,1990-02-27,Read & adopted,,9,1
+SB 29,713,Senate,1990-03-15,Referred to Jurisprudence,,59,3
+SB 29,713,Senate,1990-03-15,Read first time,,59,2
+SB 29,713,Senate,1990-02-28,Filed,,,1
+SB 30,713,Senate,1990-03-15,Referred to Jurisprudence,,59,3
+SB 30,713,Senate,1990-03-15,Read first time,,59,2
+SB 30,713,Senate,1990-02-28,Filed,,,1
+SB 54,713,Senate,1990-03-27,No action taken in committee,,,13
+SB 54,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,12
+SB 54,713,Senate,1990-03-20,Left as pending business in comm.,,,11
+SB 54,713,Senate,1990-03-20,Testimony taken in committee,,,10
+SB 54,713,Senate,1990-03-20,Considered in public hearing,,,9
+SB 54,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,8
+SB 54,713,Senate,1990-03-15,Left as pending business in comm.,,,7
+SB 54,713,Senate,1990-03-15,Testimony taken in committee,,,6
+SB 54,713,Senate,1990-03-15,Considered in public hearing,,,5
+SB 54,713,Senate,1990-03-15,Posting rule suspended,,61,4
+SB 54,713,Senate,1990-03-15,Referred to State Affairs,,60,3
+SB 54,713,Senate,1990-03-15,Read first time,,60,2
+SB 54,713,Senate,1990-03-15,Filed,,,1
+SB 55,713,Senate,1990-03-27,No action taken in committee,,,13
+SB 55,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,12
+SB 55,713,Senate,1990-03-20,Left as pending business in comm.,,,11
+SB 55,713,Senate,1990-03-20,Testimony taken in committee,,,10
+SB 55,713,Senate,1990-03-20,Considered in public hearing,,,9
+SB 55,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,8
+SB 55,713,Senate,1990-03-15,Left as pending business in comm.,,,7
+SB 55,713,Senate,1990-03-15,Testimony taken in committee,,,6
+SB 55,713,Senate,1990-03-15,Considered in public hearing,,,5
+SB 55,713,Senate,1990-03-15,Posting rule suspended,,61,4
+SB 55,713,Senate,1990-03-15,Referred to State Affairs,,60,3
+SB 55,713,Senate,1990-03-15,Read first time,,60,2
+SB 55,713,Senate,1990-03-15,Filed,,,1
+SB 56,713,Senate,1990-03-27,No action taken in committee,,,13
+SB 56,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,12
+SB 56,713,Senate,1990-03-20,Left as pending business in comm.,,,11
+SB 56,713,Senate,1990-03-20,Testimony taken in committee,,,10
+SB 56,713,Senate,1990-03-20,Considered in public hearing,,,9
+SB 56,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,8
+SB 56,713,Senate,1990-03-15,Left as pending business in comm.,,,7
+SB 56,713,Senate,1990-03-15,Testimony taken in committee,,,6
+SB 56,713,Senate,1990-03-15,Considered in public hearing,,,5
+SB 56,713,Senate,1990-03-15,Posting rule suspended,,61,4
+SB 56,713,Senate,1990-03-15,Referred to State Affairs,,60,3
+SB 56,713,Senate,1990-03-15,Read first time,,60,2
+SB 56,713,Senate,1990-03-15,Filed,,,1
+SB 72,713,Senate,1990-03-27,Left as pending business in comm.,,,6
+SB 72,713,Senate,1990-03-27,Considered in public hearing,,,5
+SB 72,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SB 72,713,Senate,1990-03-23,Referred to State Affairs,,89,3
+SB 72,713,Senate,1990-03-23,Read first time,,89,2
+SB 72,713,Senate,1990-03-22,Filed,,,1
+SB 73,713,Senate,1990-03-27,No action taken in committee,,,5
+SB 73,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SB 73,713,Senate,1990-03-23,Referred to State Affairs,,89,3
+SB 73,713,Senate,1990-03-23,Read first time,,89,2
+SB 73,713,Senate,1990-03-23,Filed,,,1
+SB 74,713,Senate,1990-03-27,No action taken in committee,,,5
+SB 74,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SB 74,713,Senate,1990-03-23,Referred to State Affairs,,89,3
+SB 74,713,Senate,1990-03-23,Read first time,,89,2
+SB 74,713,Senate,1990-03-23,Filed,,,1
+SB 75,713,Senate,1990-03-27,No action taken in committee,,,5
+SB 75,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SB 75,713,Senate,1990-03-23,Referred to State Affairs,,90,3
+SB 75,713,Senate,1990-03-23,Read first time,,90,2
+SB 75,713,Senate,1990-03-23,Filed,,,1
+SB 76,713,Senate,1990-03-27,No action taken in committee,,,5
+SB 76,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SB 76,713,Senate,1990-03-23,Referred to State Affairs,,90,3
+SB 76,713,Senate,1990-03-23,Read first time,,90,2
+SB 76,713,Senate,1990-03-23,Filed,,,1
+SB 77,713,Senate,1990-03-27,No action taken in committee,,,5
+SB 77,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SB 77,713,Senate,1990-03-23,Referred to State Affairs,,90,3
+SB 77,713,Senate,1990-03-23,Read first time,,90,2
+SB 77,713,Senate,1990-03-23,Filed,,,1
+SJR 13,713,Senate,1990-03-27,No action taken in committee,,,5
+SJR 13,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SJR 13,713,Senate,1990-03-23,Referred to State Affairs,,89,3
+SJR 13,713,Senate,1990-03-23,Read first time,,89,2
+SJR 13,713,Senate,1990-03-23,Filed,,,1
+SJR 14,713,Senate,1990-03-27,No action taken in committee,,,5
+SJR 14,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SJR 14,713,Senate,1990-03-23,Referred to State Affairs,,89,3
+SJR 14,713,Senate,1990-03-23,Read first time,,89,2
+SJR 14,713,Senate,1990-03-23,Filed,,,1
+SJR 15,713,Senate,1990-03-27,No action taken in committee,,,5
+SJR 15,713,Senate,1990-03-27,Scheduled for public hearing on  . . . . . .,,,4
+SJR 15,713,Senate,1990-03-23,Referred to State Affairs,,89,3
+SJR 15,713,Senate,1990-03-23,Read first time,,89,2
+SJR 15,713,Senate,1990-03-23,Filed,,,1
+SR 27,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 36,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 37,713,Senate,1990-03-14,Read & adopted,,50,1
+SR 66,713,Senate,1990-03-21,Read & adopted,,87,1
+SR 80,713,Senate,1990-03-28,Read & adopted,,113,1
+SB 31,713,House,1990-03-22,Record vote,,176,149
+SB 31,713,House,1990-03-22,Failed to pass to 3rd reading,,176,148
+SB 31,713,House,1990-03-22,Amended,,176,147
+SB 31,713,House,1990-03-22,Record vote,,175,146
+SB 31,713,House,1990-03-22,Amended,,175,145
+SB 31,713,House,1990-03-22,Amended,,174,144
+SB 31,713,House,1990-03-22,Motion to table lost,,173,143
+SB 31,713,House,1990-03-22,Amendment(s) offered,,172,142
+SB 31,713,House,1990-03-22,Amended,,172,141
+SB 31,713,House,1990-03-22,Amended,,171,140
+SB 31,713,House,1990-03-22,Amended,,170,139
+SB 31,713,House,1990-03-22,Record vote,,170,138
+SB 31,713,House,1990-03-22,Motion to table lost,,169,137
+SB 31,713,House,1990-03-22,Amendment(s) offered,,169,136
+SB 31,713,House,1990-03-22,Amended,,169,135
+SB 31,713,House,1990-03-22,Amended,,168,134
+SB 31,713,House,1990-03-22,Amendment tabled,,168,133
+SB 31,713,House,1990-03-22,Amendment(s) offered,,167,132
+SB 31,713,House,1990-03-22,Amendment tabled,,167,131
+SB 31,713,House,1990-03-22,Amendment(s) offered,,167,130
+SB 31,713,House,1990-03-22,Amended,,167,129
+SB 31,713,House,1990-03-22,Motion to table lost,,167,128
+SB 31,713,House,1990-03-22,Amendment(s) offered,,167,127
+SB 31,713,House,1990-03-22,Amended,,167,126
+SB 31,713,House,1990-03-22,Amendment tabled,,167,125
+SB 31,713,House,1990-03-22,Amendment(s) offered,,167,124
+SB 31,713,House,1990-03-22,Amended,,166,123
+SB 31,713,House,1990-03-22,Amendment withdrawn,,,122
+SB 31,713,House,1990-03-22,Amended,,166,121
+SB 31,713,House,1990-03-22,Amended,,166,120
+SB 31,713,House,1990-03-22,Record vote,,165,119
+SB 31,713,House,1990-03-22,Motion to table lost,,165,118
+SB 31,713,House,1990-03-22,Amendment(s) offered,,165,117
+SB 31,713,House,1990-03-22,Record vote,,165,116
+SB 31,713,House,1990-03-22,Amended,,165,115
+SB 31,713,House,1990-03-22,Motion to table lost,,164,114
+SB 31,713,House,1990-03-22,Amendment(s) offered,,164,113
+SB 31,713,House,1990-03-22,Amended,,164,112
+SB 31,713,House,1990-03-22,Record vote,,163,111
+SB 31,713,House,1990-03-22,Motion to table lost,,163,110
+SB 31,713,House,1990-03-22,Amendment(s) offered,,163,109
+SB 31,713,House,1990-03-22,Amendment tabled,,163,108
+SB 31,713,House,1990-03-22,Amendment(s) offered,,162,107
+SB 31,713,House,1990-03-22,Amendment tabled,,162,106
+SB 31,713,House,1990-03-22,Amendment(s) offered,,162,105
+SB 31,713,House,1990-03-22,Record vote,,162,104
+SB 31,713,House,1990-03-22,Amendment tabled,,162,103
+SB 31,713,House,1990-03-22,Amendment(s) offered,,162,102
+SB 31,713,House,1990-03-22,Amended,,161,101
+SB 31,713,House,1990-03-22,Amendment withdrawn,,,100
+SB 31,713,House,1990-03-22,Vote reconsidered,,161,99
+SB 31,713,House,1990-03-22,Amended,,161,98
+SB 31,713,House,1990-03-22,Amendment tabled,,160,97
+SB 31,713,House,1990-03-22,Amendment(s) offered,,160,96
+SB 31,713,House,1990-03-22,Amendment withdrawn,,,95
+SB 31,713,House,1990-03-22,Amended,,160,94
+SB 31,713,House,1990-03-22,Amendment tabled,,160,93
+SB 31,713,House,1990-03-22,Amendment(s) offered,,160,92
+SB 31,713,House,1990-03-22,Amendment tabled,,160,91
+SB 31,713,House,1990-03-22,Amendment(s) offered,,159,90
+SB 31,713,House,1990-03-22,Amended,,159,89
+SB 31,713,House,1990-03-22,Motion to table lost,,159,88
+SB 31,713,House,1990-03-22,Amendment(s) offered,,159,87
+SB 31,713,House,1990-03-22,Amended,,159,86
+SB 31,713,House,1990-03-22,Record vote,,158,85
+SB 31,713,House,1990-03-22,Motion to table lost,,158,84
+SB 31,713,House,1990-03-22,Amendment(s) offered,,158,83
+SB 31,713,House,1990-03-22,Amendment tabled,,158,82
+SB 31,713,House,1990-03-22,Amendment(s) offered,,158,81
+SB 31,713,House,1990-03-22,Amended,,158,80
+SB 31,713,House,1990-03-22,Record vote,,157,79
+SB 31,713,House,1990-03-22,Motion to table lost,,157,78
+SB 31,713,House,1990-03-22,Amendment(s) offered,,156,77
+SB 31,713,House,1990-03-22,Amended,,156,76
+SB 31,713,House,1990-03-22,Record vote,,155,75
+SB 31,713,House,1990-03-22,Amendment tabled,,155,74
+SB 31,713,House,1990-03-22,Amendment(s) offered,,155,73
+SB 31,713,House,1990-03-22,Amendment withdrawn,,,72
+SB 31,713,House,1990-03-22,Amended,,155,71
+SB 31,713,House,1990-03-22,Amendment tabled,,155,70
+SB 31,713,House,1990-03-22,Amendment(s) offered,,154,69
+SB 31,713,House,1990-03-22,Record vote,,154,68
+SB 31,713,House,1990-03-22,Amendment tabled,,154,67
+SB 31,713,House,1990-03-22,Amendment(s) offered,,123,66
+SB 31,713,House,1990-03-22,Resumed consideration,,123,65
+SB 31,713,House,1990-03-22,Record vote,,122,64
+SB 31,713,House,1990-03-22,Amendment tabled,,122,63
+SB 31,713,House,1990-03-22,Amendment(s) offered,,96,62
+SB 31,713,House,1990-03-22,Amended,,96,61
+SB 31,713,House,1990-03-22,Amendment withdrawn,,161,60
+SB 31,713,House,1990-03-22,Read 2nd time (comm. substitute),,96,59
+SB 31,713,House,1990-03-22,Placed on General State Calendar,,,58
+SB 31,713,House,1990-03-21,1st Printing sent to Comm. on Cal.,,,57
+SB 31,713,House,1990-03-20,Reported favorably with substitute,,87,56
+SB 31,713,House,1990-03-20,Considered in formal meeting,,,55
+SB 31,713,House,1990-03-20,Referred to Public Education,,80,54
+SB 31,713,House,1990-03-20,Read first time,,80,53
+SB 31,713,House,1990-03-20,Received from the Senate,,80,52
+SB 31,713,Senate,1990-03-19,Member vote recorded in Journal,,80,51
+SB 31,713,Senate,1990-03-19,Passed,,79,50
+SB 31,713,Senate,1990-03-19,Read 3rd time,,79,49
+SB 31,713,Senate,1990-03-19,Record vote,,79,48
+SB 31,713,Senate,1990-03-19,Rules suspended,,79,47
+SB 31,713,Senate,1990-03-19,Member vote recorded in Journal,,79,46
+SB 31,713,Senate,1990-03-19,Passed to engrossment as amended,,79,45
+SB 31,713,Senate,1990-03-19,Amended,,79,44
+SB 31,713,Senate,1990-03-19,Record vote,,79,43
+SB 31,713,Senate,1990-03-19,Motion to table,,79,42
+SB 31,713,Senate,1990-03-19,Amendment(s) offered,,79,41
+SB 31,713,Senate,1990-03-19,Amended,,79,40
+SB 31,713,Senate,1990-03-19,Record vote,,79,39
+SB 31,713,Senate,1990-03-19,Motion to table,,79,38
+SB 31,713,Senate,1990-03-19,Amendment(s) offered,,79,37
+SB 31,713,Senate,1990-03-19,Record vote,,77,36
+SB 31,713,Senate,1990-03-19,Amended,,77,35
+SB 31,713,Senate,1990-03-19,Record vote,,76,34
+SB 31,713,Senate,1990-03-19,Motion to table,,76,33
+SB 31,713,Senate,1990-03-19,Amendment(s) offered,,76,32
+SB 31,713,Senate,1990-03-19,Amendment tabled,,66,31
+SB 31,713,Senate,1990-03-19,Amendment(s) offered,,66,30
+SB 31,713,Senate,1990-03-19,Read second time,,66,29
+SB 31,713,Senate,1990-03-19,Rules suspended,,66,28
+SB 31,713,Senate,1990-03-19,Ordered not printed,,65,27
+SB 31,713,Senate,1990-03-19,Reported favorably with substitute,,65,26
+SB 31,713,Senate,1990-03-19,Considered in public hearing,,,25
+SB 31,713,Senate,1990-03-15,Reported from s/c favorably w/sub.,,,24
+SB 31,713,Senate,1990-03-15,Testimony taken in s/c,,,23
+SB 31,713,Senate,1990-03-15,Considered by s/c in public hearing,,,22
+SB 31,713,Senate,1990-03-15,Scheduled for public hearing in s/c,,,21
+SB 31,713,Senate,1990-03-14,Left as pending business in s/c,,,20
+SB 31,713,Senate,1990-03-14,Testimony taken in s/c,,,19
+SB 31,713,Senate,1990-03-14,Considered by s/c in public hearing,,,18
+SB 31,713,Senate,1990-03-14,Scheduled for public hearing in s/c,,,17
+SB 31,713,Senate,1990-03-07,Left as pending business in s/c,,,16
+SB 31,713,Senate,1990-03-07,Testimony taken in s/c,,,15
+SB 31,713,Senate,1990-03-07,Considered by s/c in public hearing,,,14
+SB 31,713,Senate,1990-03-07,Scheduled for public hearing in s/c,,,13
+SB 31,713,Senate,1990-03-06,Left as pending business in s/c,,,12
+SB 31,713,Senate,1990-03-06,Testimony taken in s/c,,,11
+SB 31,713,Senate,1990-03-06,Considered by s/c in public hearing,,,10
+SB 31,713,Senate,1990-03-06,Scheduled for public hearing in s/c,,,9
+SB 31,713,Senate,1990-03-05,Left as pending business in s/c,,,8
+SB 31,713,Senate,1990-03-05,Testimony taken in s/c,,,7
+SB 31,713,Senate,1990-03-05,Considered by s/c in public hearing,,,6
+SB 31,713,Senate,1990-03-05,Scheduled for public hearing in s/c,,,5
+SB 31,713,Senate,1990-03-01,Referred to S/C on Public Education,,35,4
+SB 31,713,Senate,1990-03-01,Referred to Committee of the Whole,,35,3
+SB 31,713,Senate,1990-03-01,Read first time,,35,2
+SB 31,713,Senate,1990-03-01,Filed,,,1
+SCR 7,713,Senate,1990-04-17,Signed by the Governor,,116,15
+SCR 7,713,Senate,1990-03-30,Sent to the Governor,,113,14
+SCR 7,713,House,1990-03-28,Signed in the House,,203,13
+SCR 7,713,Senate,1990-03-28,Signed in the Senate,,106,12
+SCR 7,713,Senate,1990-03-27,House passage reported,,93,11
+SCR 7,713,House,1990-03-27,Sent to the Senate,,,10
+SCR 7,713,House,1990-03-27,Adopted,,196,9
+SCR 7,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,8
+SCR 7,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,7
+SCR 7,713,House,1990-03-22,Considered in formal meeting,,,6
+SCR 7,713,House,1990-03-22,Referred to Rules and Resolutions,,95,5
+SCR 7,713,House,1990-03-22,Received from the Senate,,90,4
+SCR 7,713,Senate,1990-03-21,Read & adopted,,88,3
+SCR 7,713,Senate,1990-03-21,Rules suspended,,88,2
+SCR 7,713,Senate,1990-03-21,Filed,,,1
+SJR 7,713,Senate,1990-03-19,Record vote,,81,24
+SJR 7,713,Senate,1990-03-19,Motion lost to consider on 3rd reading,,81,23
+SJR 7,713,Senate,1990-03-19,Member vote recorded in Journal,,81,22
+SJR 7,713,Senate,1990-03-19,Read 2nd time & passed to engrossment,,80,21
+SJR 7,713,Senate,1990-03-19,Record vote,,80,20
+SJR 7,713,Senate,1990-03-19,Rules suspended,,80,19
+SJR 7,713,Senate,1990-03-19,Reported favorably w/o amendments,,65,18
+SJR 7,713,Senate,1990-03-19,Considered in public hearing,,,17
+SJR 7,713,Senate,1990-03-08,Reported from s/c favorably w/o amdts.,,,16
+SJR 7,713,Senate,1990-03-07,Testimony taken in s/c,,,15
+SJR 7,713,Senate,1990-03-07,Considered by s/c in public hearing,,,14
+SJR 7,713,Senate,1990-03-07,Scheduled for public hearing in s/c,,,13
+SJR 7,713,Senate,1990-03-06,Left as pending business in s/c,,,12
+SJR 7,713,Senate,1990-03-06,Testimony taken in s/c,,,11
+SJR 7,713,Senate,1990-03-06,Considered by s/c in public hearing,,,10
+SJR 7,713,Senate,1990-03-06,Scheduled for public hearing in s/c,,,9
+SJR 7,713,Senate,1990-03-05,Left as pending business in s/c,,,8
+SJR 7,713,Senate,1990-03-05,Testimony taken in s/c,,,7
+SJR 7,713,Senate,1990-03-05,Considered by s/c in public hearing,,,6
+SJR 7,713,Senate,1990-03-05,Scheduled for public hearing in s/c,,,5
+SJR 7,713,Senate,1990-02-28,Referred to S/C on Public Education,,,4
+SJR 7,713,Senate,1990-02-28,Referred to Committee of the Whole,,13,3
+SJR 7,713,Senate,1990-02-28,Read first time,,13,2
+SJR 7,713,Senate,1990-02-27,Filed,,,1
+SR 4,713,Senate,1990-02-27,Read & adopted,,7,1
+SB 64,713,Senate,1990-03-21,Referred to Natural Resources,,86,3
+SB 64,713,Senate,1990-03-21,Read first time,,86,2
+SB 64,713,Senate,1990-03-20,Filed,,,1
+SR 18,713,Senate,1990-03-06,Read & adopted,,42,1
+SR 28,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 64,713,Senate,1990-03-21,Read & adopted,,86,1
+SR 79,713,Senate,1990-03-28,Read & adopted,,113,1
+SR 83,713,Senate,1990-03-28,Read & adopted,,113,1
+SB 20,713,Senate,1990-03-16,No action taken in s/c,,,13
+SB 20,713,Senate,1990-03-16,Scheduled for public hearing in s/c,,,12
+SB 20,713,Senate,1990-03-15,No action taken in s/c,,,11
+SB 20,713,Senate,1990-03-15,Scheduled for public hearing in s/c,,,10
+SB 20,713,Senate,1990-03-14,No action taken in s/c,,,9
+SB 20,713,Senate,1990-03-14,Scheduled for public hearing in s/c,,,8
+SB 20,713,Senate,1990-03-01,Left as pending business in comm.,,,7
+SB 20,713,Senate,1990-03-01,Considered in public hearing,,,6
+SB 20,713,Senate,1990-03-01,Scheduled for public hearing in s/c,,,5
+SB 20,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SB 20,713,Senate,1990-02-27,Referred to Committee of the Whole,,11,3
+SB 20,713,Senate,1990-02-27,Read first time,,11,2
+SB 20,713,Senate,1990-02-26,Filed,,,1
+SB 49,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,7
+SB 49,713,Senate,1990-03-20,Testimony taken in committee,,,6
+SB 49,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 49,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 49,713,Senate,1990-03-15,Referred to Natural Resources,,60,3
+SB 49,713,Senate,1990-03-15,Read first time,,60,2
+SB 49,713,Senate,1990-03-08,Filed,,,1
+SB 50,713,Senate,1990-03-21,Reported favorably w/o amendments,,82,7
+SB 50,713,Senate,1990-03-20,Testimony taken in committee,,,6
+SB 50,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 50,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 50,713,Senate,1990-03-15,Referred to Natural Resources,,60,3
+SB 50,713,Senate,1990-03-15,Read first time,,60,2
+SB 50,713,Senate,1990-03-08,Filed,,,1
+SB 78,713,Senate,1990-03-27,Referred to Education,,95,3
+SB 78,713,Senate,1990-03-27,Read first time,,95,2
+SB 78,713,Senate,1990-03-23,Filed,,,1
+SB 16,713,House,1990-03-28,Received from the Senate,,203,13
+SB 16,713,Senate,1990-03-27,Passed,,100,12
+SB 16,713,Senate,1990-03-27,Read 3rd time,,100,11
+SB 16,713,Senate,1990-03-27,Record vote,,100,10
+SB 16,713,Senate,1990-03-27,Rules suspended,,100,9
+SB 16,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,100,8
+SB 16,713,Senate,1990-03-27,Rules suspended,,100,7
+SB 16,713,Senate,1990-03-21,Reported favorably with substitute,,82,6
+SB 16,713,Senate,1990-03-20,Considered in public hearing,,,5
+SB 16,713,Senate,1990-03-20,Scheduled for public hearing on  . . . . . .,,,4
+SB 16,713,Senate,1990-03-15,Referred to Natural Resources,,58,3
+SB 16,713,Senate,1990-03-15,Read first time,,58,2
+SB 16,713,Senate,1990-02-22,Filed,,,1
+SB 18,713,Senate,1990-03-15,Referred to Health & Human Services,,58,3
+SB 18,713,Senate,1990-03-15,Read first time,,58,2
+SB 18,713,Senate,1990-02-23,Filed,,,1
+SB 34,713,Senate,1990-03-15,Referred to Health & Human Services,,59,3
+SB 34,713,Senate,1990-03-15,Read first time,,59,2
+SB 34,713,Senate,1990-03-01,Filed,,,1
+SB 60,713,House,1990-03-28,Received from the Senate,,203,14
+SB 60,713,Senate,1990-03-27,Record vote,,104,13
+SB 60,713,Senate,1990-03-27,Passed,,104,12
+SB 60,713,Senate,1990-03-27,Read 3rd time,,104,11
+SB 60,713,Senate,1990-03-27,Record vote,,104,10
+SB 60,713,Senate,1990-03-27,Rules suspended,,104,9
+SB 60,713,Senate,1990-03-27,Read 2nd time & passed to engrossment,,104,8
+SB 60,713,Senate,1990-03-27,Rules suspended,,104,7
+SB 60,713,Senate,1990-03-27,Reported favorably w/o amendments,,93,6
+SB 60,713,Senate,1990-03-26,Testimony taken in committee,,,5
+SB 60,713,Senate,1990-03-26,Considered in public hearing,,,4
+SB 60,713,Senate,1990-03-16,Referred to Finance,,61,3
+SB 60,713,Senate,1990-03-16,Read first time,,61,2
+SB 60,713,Senate,1990-03-16,Filed,,,1
+SCR 1,713,Senate,1990-04-17,Signed by the Governor,,116,12
+SCR 1,713,Senate,1990-03-30,Sent to the Governor,,113,11
+SCR 1,713,Senate,1990-03-28,Signed in the Senate,,112,10
+SCR 1,713,House,1990-03-28,Signed in the House,,207,9
+SCR 1,713,Senate,1990-03-28,House passage reported,,111,8
+SCR 1,713,House,1990-03-28,Sent to the Senate,,,7
+SCR 1,713,House,1990-03-28,Adopted,,204,6
+SCR 1,713,House,1990-03-28,Rules suspended,,204,5
+SCR 1,713,House,1990-03-27,Received from the Senate,,193,4
+SCR 1,713,Senate,1990-03-26,Read & adopted,,91,3
+SCR 1,713,Senate,1990-03-26,Rules suspended,,91,2
+SCR 1,713,Senate,1990-03-26,Filed,,,1
+SCR 5,713,Senate,1990-04-17,Signed by the Governor,,116,15
+SCR 5,713,Senate,1990-03-30,Sent to the Governor,,113,14
+SCR 5,713,House,1990-03-28,Signed in the House,,203,13
+SCR 5,713,Senate,1990-03-27,Signed in the Senate,,93,12
+SCR 5,713,Senate,1990-03-23,House passage reported,,88,11
+SCR 5,713,House,1990-03-23,Sent to the Senate,,,10
+SCR 5,713,House,1990-03-22,Adopted,,90,9
+SCR 5,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,8
+SCR 5,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,7
+SCR 5,713,House,1990-03-19,Considered in formal meeting,,,6
+SCR 5,713,House,1990-03-14,Referred to Rules and Resolutions,,59,5
+SCR 5,713,House,1990-03-14,Received from the Senate,,56,4
+SCR 5,713,Senate,1990-03-08,Read & adopted,,45,3
+SCR 5,713,Senate,1990-03-08,Rules suspended,,45,2
+SCR 5,713,Senate,1990-03-07,Filed,,,1
+SR 8,713,Senate,1990-02-28,Read & adopted,,12,1
+SR 77,713,Senate,1990-03-28,Read & adopted,,112,1
+SB 35,713,Senate,1990-03-15,Referred to Health & Human Services,,65,3
+SB 35,713,Senate,1990-03-15,Read first time,,65,2
+SB 35,713,Senate,1990-03-02,Filed,,,1
+SB 36,713,Senate,1990-03-15,Referred to Intergovernmental Relations,,59,3
+SB 36,713,Senate,1990-03-15,Read first time,,59,2
+SB 36,713,Senate,1990-03-05,Filed,,,1
+SR 13,713,Senate,1990-03-05,Read & adopted,,39,1
+SR 22,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 32,713,Senate,1990-03-14,Read & adopted,,50,1
+SB 9,713,Senate,1990-03-16,No action taken in s/c,,,14
+SB 9,713,Senate,1990-03-16,Scheduled for public hearing in s/c,,,13
+SB 9,713,Senate,1990-03-15,No action taken in s/c,,,12
+SB 9,713,Senate,1990-03-15,Scheduled for public hearing in s/c,,,11
+SB 9,713,Senate,1990-03-14,No action taken in s/c,,,10
+SB 9,713,Senate,1990-03-14,Scheduled for public hearing in s/c,,,9
+SB 9,713,Senate,1990-03-01,Left as pending business in comm.,,,8
+SB 9,713,Senate,1990-03-01,Considered in public hearing,,,7
+SB 9,713,Senate,1990-03-01,Scheduled for public hearing in s/c,,,6
+SB 9,713,Senate,1990-02-27,Referred to S/C on Public Education,,,5
+SB 9,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,4
+SB 9,713,Senate,1990-02-27,Read first time,,10,3
+SB 9,713,Senate,1990-02-27,Co-author authorized,,,2
+SB 9,713,Senate,1990-02-05,Filed,,,1
+SB 14,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SB 14,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SB 14,713,Senate,1990-02-27,Read first time,,10,2
+SB 14,713,Senate,1990-02-22,Filed,,,1
+SCR 10,713,Senate,1990-04-17,Signed by the Governor,,116,12
+SCR 10,713,Senate,1990-03-30,Sent to the Governor,,113,11
+SCR 10,713,House,1990-03-28,Signed in the House,,203,10
+SCR 10,713,Senate,1990-03-27,Signed in the Senate,,93,9
+SCR 10,713,Senate,1990-03-26,Received from House,,91,8
+SCR 10,713,House,1990-03-26,Sent to the Senate,,,7
+SCR 10,713,House,1990-03-26,Adopted,,186,6
+SCR 10,713,House,1990-03-26,Rules suspended,,186,5
+SCR 10,713,House,1990-03-26,Received from the Senate,,181,4
+SCR 10,713,Senate,1990-03-23,Read & adopted,,90,3
+SCR 10,713,Senate,1990-03-23,Rules suspended,,90,2
+SCR 10,713,Senate,1990-03-22,Filed,,,1
+SJR 3,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SJR 3,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SJR 3,713,Senate,1990-02-27,Read first time,,10,2
+SJR 3,713,Senate,1990-01-30,Filed,,,1
+SJR 4,713,Senate,1990-02-27,Referred to S/C on Public Education,,,4
+SJR 4,713,Senate,1990-02-27,Referred to Committee of the Whole,,10,3
+SJR 4,713,Senate,1990-02-27,Read first time,,10,2
+SJR 4,713,Senate,1990-01-30,Filed,,,1
+SR 20,713,Senate,1990-03-06,Read & adopted,,42,1
+SR 69,713,Senate,1990-03-23,Read & adopted,,90,1
+SR 21,713,Senate,1990-03-08,Read & adopted,,45,1
+SR 43,713,Senate,1990-03-14,Read & adopted,,51,1
+SR 55,713,Senate,1990-03-19,Read & adopted,,81,1
+SR 56,713,Senate,1990-03-19,Read & adopted,,64,1
+SR 57,713,Senate,1990-03-19,Read & adopted,,64,1
+SR 58,713,Senate,1990-03-26,Read & adopted,,91,2
+SR 58,713,Senate,1990-03-19,Filed,,,1
+SB 65,713,Senate,1990-03-21,Referred to Natural Resources,,86,3
+SB 65,713,Senate,1990-03-21,Read first time,,86,2
+SB 65,713,Senate,1990-03-20,Filed,,,1
+HB 88,713,House,1990-03-06,Referred to Higher Education,,41,3
+HB 88,713,House,1990-03-06,Read first time,,41,2
+HB 88,713,House,1990-02-28,Filed,,,1
+HCR 3,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 3,713,House,1990-03-28,Sent to the Governor,,207,12
+HCR 3,713,Senate,1990-03-28,Signed in the Senate,,112,11
+HCR 3,713,House,1990-03-28,Signed in the House,,207,10
+HCR 3,713,House,1990-03-28,Reported enrolled,,207,9
+HCR 3,713,House,1990-03-28,Returned from the Senate,,203,8
+HCR 3,713,Senate,1990-03-27,Read & adopted,,105,7
+HCR 3,713,Senate,1990-03-27,Rules suspended,,105,6
+HCR 3,713,Senate,1990-03-21,Received from House,,85,5
+HCR 3,713,House,1990-03-21,Sent to the Senate,,,4
+HCR 3,713,House,1990-03-21,Adopted,,86,3
+HCR 3,713,House,1990-03-21,Rules suspended,,86,2
+HCR 3,713,House,1990-03-20,Filed,,,1
+HR 43,713,House,1990-03-14,Reported enrolled,,,7
+HR 43,713,House,1990-03-14,Adopted,,61,6
+HR 43,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 43,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 43,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 43,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 43,713,House,1990-02-27,Filed,,,1
+HR 132,713,House,1990-03-27,Withdrawn from calendar,,196,6
+HR 132,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 132,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 132,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 132,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 132,713,House,1990-03-21,Filed,,,1
+HR 133,713,House,1990-03-27,Reported enrolled,,,7
+HR 133,713,House,1990-03-27,Adopted,,196,6
+HR 133,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 133,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 133,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 133,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 133,713,House,1990-03-21,Filed,,,1
+HB 132,713,House,1990-03-21,Referred to Human Services,,86,3
+HB 132,713,House,1990-03-21,Read first time,,86,2
+HB 132,713,House,1990-03-19,Filed,,,1
+HCR 20,713,House,1990-03-15,Signed by the Governor,,,13
+HCR 20,713,House,1990-03-08,Sent to the Governor,,53,12
+HCR 20,713,Senate,1990-03-08,Signed in the Senate,,43,11
+HCR 20,713,House,1990-03-07,Signed in the House,,46,10
+HCR 20,713,House,1990-03-06,Reported enrolled,,43,9
+HCR 20,713,House,1990-03-06,Returned from the Senate,,41,8
+HCR 20,713,Senate,1990-03-06,Read & adopted,,42,7
+HCR 20,713,Senate,1990-03-06,Rules suspended,,42,6
+HCR 20,713,Senate,1990-03-05,Received from House,,38,5
+HCR 20,713,House,1990-03-05,Sent to the Senate,,,4
+HCR 20,713,House,1990-03-05,Adopted,,29,3
+HCR 20,713,House,1990-03-05,Rules suspended,,29,2
+HCR 20,713,House,1990-03-05,Filed,,,1
+HCR 49,713,House,1990-03-26,Referred to Judicial Affairs,,185,2
+HCR 49,713,House,1990-03-23,Filed,,,1
+HR 26,713,House,1990-03-05,Reported enrolled,,,7
+HR 26,713,House,1990-03-05,Adopted,,31,6
+HR 26,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 26,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 26,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 26,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 26,713,House,1990-02-21,Filed,,,1
+HR 27,713,House,1990-03-05,Reported enrolled,,,7
+HR 27,713,House,1990-03-05,Adopted,,31,6
+HR 27,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 27,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 27,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 27,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 27,713,House,1990-02-21,Filed,,,1
+HR 114,713,House,1990-03-19,Reported enrolled,,,4
+HR 114,713,House,1990-03-19,Adopted,,75,3
+HR 114,713,House,1990-03-19,Rules suspended,,75,2
+HR 114,713,House,1990-03-15,Filed,,,1
+HR 127,713,House,1990-03-20,Reported enrolled,,,5
+HR 127,713,House,1990-03-20,Adopted,,83,4
+HR 127,713,House,1990-03-20,Rules suspended,,83,3
+HR 127,713,House,1990-03-20,Referred to Rules and Resolutions,,81,2
+HR 127,713,House,1990-03-20,Filed,,,1
+HB 80,713,House,1990-03-01,Referred to Insurance,,25,3
+HB 80,713,House,1990-03-01,Read first time,,25,2
+HB 80,713,House,1990-02-27,Filed,,,1
+HB 92,713,House,1990-03-07,Referred to Urban Affairs,,47,3
+HB 92,713,House,1990-03-07,Read first time,,47,2
+HB 92,713,House,1990-03-05,Filed,,,1
+HCR 24,713,House,1990-03-19,Signed by the Governor,,,13
+HCR 24,713,House,1990-03-15,Sent to the Governor,,68,12
+HCR 24,713,House,1990-03-15,Signed in the House,,68,11
+HCR 24,713,Senate,1990-03-15,Signed in the Senate,,55,10
+HCR 24,713,House,1990-03-14,Reported enrolled,,68,9
+HCR 24,713,House,1990-03-14,Returned from the Senate,,56,8
+HCR 24,713,Senate,1990-03-08,Read & adopted,,44,7
+HCR 24,713,Senate,1990-03-08,Laid before the Senate,,44,6
+HCR 24,713,Senate,1990-03-06,Received from House,,40,5
+HCR 24,713,House,1990-03-06,Sent to the Senate,,,4
+HCR 24,713,House,1990-03-06,Adopted,,34,3
+HCR 24,713,House,1990-03-06,Rules suspended,,34,2
+HCR 24,713,House,1990-03-06,Filed,,,1
+HR 107,713,House,1990-03-15,Reported enrolled,,,4
+HR 107,713,House,1990-03-15,Adopted,,67,3
+HR 107,713,House,1990-03-15,Rules suspended,,67,2
+HR 107,713,House,1990-03-15,Filed,,,1
+HB 117,713,House,1990-03-15,Pending in committee,,,7
+HB 117,713,House,1990-03-15,Considered in public hearing,,,6
+HB 117,713,House,1990-03-14,Coauthor authorized,,,5
+HB 117,713,House,1990-03-14,Posting rule suspended,,62,4
+HB 117,713,House,1990-03-14,Referred to Public Education,,58,3
+HB 117,713,House,1990-03-14,Read first time,,58,2
+HB 117,713,House,1990-03-13,Filed,,,1
+HR 106,713,House,1990-03-15,Reported enrolled,,,4
+HR 106,713,House,1990-03-15,Adopted,,67,3
+HR 106,713,House,1990-03-15,Rules suspended,,67,2
+HR 106,713,House,1990-03-15,Filed,,,1
+HB 89,713,House,1990-03-06,Referred to Public Health,,41,3
+HB 89,713,House,1990-03-06,Read first time,,41,2
+HB 89,713,House,1990-02-28,Filed,,,1
+HB 126,713,House,1990-03-19,Referred to Public Education,,73,3
+HB 126,713,House,1990-03-19,Read first time,,73,2
+HB 126,713,House,1990-03-16,Filed,,,1
+HB 134,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,6
+HB 134,713,House,1990-03-22,Considered in formal meeting,,,5
+HB 134,713,House,1990-03-22,Rules suspended,,123,4
+HB 134,713,House,1990-03-21,Referred to Appropriations,,87,3
+HB 134,713,House,1990-03-21,Read first time,,87,2
+HB 134,713,House,1990-03-20,Filed,,,1
+HB 8,713,House,1990-02-27,Referred to Judiciary,,8,3
+HB 8,713,House,1990-02-27,Read first time,,8,2
+HB 8,713,House,1990-01-29,Filed,,,1
+HB 72,713,House,1990-03-01,Referred to Criminal Jurisprudence,,24,3
+HB 72,713,House,1990-03-01,Read first time,,24,2
+HB 72,713,House,1990-02-26,Filed,,,1
+HCR 51,713,House,1990-03-26,Referred to Labor & Employment Rel.,,185,2
+HCR 51,713,House,1990-03-23,Filed,,,1
+HR 68,713,House,1990-03-14,Reported enrolled,,,7
+HR 68,713,House,1990-03-14,Adopted,,62,6
+HR 68,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 68,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 68,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 68,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 68,713,House,1990-03-06,Filed,,,1
+HR 158,713,House,1990-03-27,Reported enrolled,,,4
+HR 158,713,House,1990-03-27,Adopted,,197,3
+HR 158,713,House,1990-03-27,Rules suspended,,197,2
+HR 158,713,House,1990-03-23,Filed,,,1
+HR 159,713,House,1990-03-27,Reported enrolled,,,4
+HR 159,713,House,1990-03-27,Adopted,,197,3
+HR 159,713,House,1990-03-27,Rules suspended,,197,2
+HR 159,713,House,1990-03-23,Filed,,,1
+HB 145,713,House,1990-03-26,Referred to Environmental Affairs,,186,3
+HB 145,713,House,1990-03-26,Read first time,,186,2
+HB 145,713,House,1990-03-23,Filed,,,1
+HR 105,713,House,1990-03-22,Reported enrolled,,,7
+HR 105,713,House,1990-03-22,Adopted,,92,6
+HR 105,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 105,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 105,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 105,713,House,1990-03-15,Referred to Rules and Resolutions,,66,2
+HR 105,713,House,1990-03-14,Filed,,,1
+HB 119,713,House,1990-03-14,Referred to Business & Commerce,,58,3
+HB 119,713,House,1990-03-14,Read first time,,58,2
+HB 119,713,House,1990-03-14,Filed,,,1
+HR 130,713,House,1990-03-27,Reported enrolled,,,7
+HR 130,713,House,1990-03-27,Adopted,,194,6
+HR 130,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 130,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 130,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 130,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 130,713,House,1990-03-21,Filed,,,1
+HB 39,713,House,1990-02-27,Coauthor authorized,,,4
+HB 39,713,House,1990-02-27,Referred to Public Education,,11,3
+HB 39,713,House,1990-02-27,Read first time,,11,2
+HB 39,713,House,1990-02-06,Filed,,,1
+HB 121,713,House,1990-03-19,Referred to County Affairs,,73,3
+HB 121,713,House,1990-03-19,Read first time,,73,2
+HB 121,713,House,1990-03-15,Filed,,,1
+HR 58,713,House,1990-03-06,Reported enrolled,,,5
+HR 58,713,House,1990-03-06,Adopted,,40,4
+HR 58,713,House,1990-03-06,Rules suspended,,40,3
+HR 58,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 58,713,House,1990-02-28,Filed,,,1
+HR 81,713,House,1990-03-22,Reported enrolled,,,7
+HR 81,713,House,1990-03-22,Adopted,,91,6
+HR 81,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 81,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 81,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 81,713,House,1990-03-07,Referred to Rules and Resolutions,,47,2
+HR 81,713,House,1990-03-07,Filed,,,1
+HR 100,713,House,1990-03-22,Reported enrolled,,,7
+HR 100,713,House,1990-03-22,Adopted,,92,6
+HR 100,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 100,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 100,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 100,713,House,1990-03-15,Referred to Rules and Resolutions,,66,2
+HR 100,713,House,1990-03-14,Filed,,,1
+HR 101,713,House,1990-03-22,Reported enrolled,,,7
+HR 101,713,House,1990-03-22,Adopted,,92,6
+HR 101,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 101,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 101,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 101,713,House,1990-03-15,Referred to Rules and Resolutions,,66,2
+HR 101,713,House,1990-03-14,Filed,,,1
+HR 109,713,House,1990-03-27,Reported enrolled,,,7
+HR 109,713,House,1990-03-27,Adopted,,195,6
+HR 109,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 109,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 109,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 109,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HR 109,713,House,1990-03-15,Filed,,,1
+HR 110,713,House,1990-03-27,Reported enrolled,,,7
+HR 110,713,House,1990-03-27,Adopted,,195,6
+HR 110,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 110,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 110,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 110,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 110,713,House,1990-03-15,Filed,,,1
+HR 147,713,House,1990-03-27,Reported enrolled,,,4
+HR 147,713,House,1990-03-27,Adopted,,197,3
+HR 147,713,House,1990-03-27,Rules suspended,,197,2
+HR 147,713,House,1990-03-22,Filed,,,1
+HR 165,713,House,1990-03-26,Reported enrolled,,,4
+HR 165,713,House,1990-03-26,Adopted,,187,3
+HR 165,713,House,1990-03-26,Rules suspended,,187,2
+HR 165,713,House,1990-03-26,Filed,,,1
+HCR 29,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 29,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 29,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 29,713,House,1990-03-28,Signed in the House,,203,13
+HCR 29,713,House,1990-03-27,Reported enrolled,,207,12
+HCR 29,713,House,1990-03-27,Returned from the Senate,,193,11
+HCR 29,713,Senate,1990-03-26,Read & adopted,,92,10
+HCR 29,713,Senate,1990-03-26,Rules suspended,,92,9
+HCR 29,713,Senate,1990-03-23,Received from House,,88,8
+HCR 29,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 29,713,House,1990-03-22,Adopted,,90,6
+HCR 29,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 29,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 29,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 29,713,House,1990-03-08,Referred to Rules and Resolutions,,51,2
+HCR 29,713,House,1990-03-07,Filed,,,1
+HB 14,713,House,1990-02-27,Referred to State Affairs,,9,3
+HB 14,713,House,1990-02-27,Read first time,,9,2
+HB 14,713,House,1990-01-30,Filed,,,1
+HB 15,713,House,1990-02-27,Referred to County Affairs,,9,3
+HB 15,713,House,1990-02-27,Read first time,,9,2
+HB 15,713,House,1990-01-30,Filed,,,1
+HB 31,713,House,1990-02-27,Referred to Public Health,,10,3
+HB 31,713,House,1990-02-27,Read first time,,10,2
+HB 31,713,House,1990-02-02,Filed,,,1
+HB 37,713,House,1990-02-27,Referred to Insurance,,11,3
+HB 37,713,House,1990-02-27,Read first time,,11,2
+HB 37,713,House,1990-02-05,Filed,,,1
+HJR 4,713,House,1990-02-27,Referred to State Affairs,,7,3
+HJR 4,713,House,1990-02-27,Read first time,,7,2
+HJR 4,713,House,1990-02-05,Filed,,,1
+HR 21,713,House,1990-03-05,Reported enrolled,,,7
+HR 21,713,House,1990-03-05,Adopted,,31,6
+HR 21,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 21,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 21,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 21,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 21,713,House,1990-02-16,Filed,,,1
+HR 22,713,House,1990-03-05,Reported enrolled,,,7
+HR 22,713,House,1990-03-05,Adopted,,29,6
+HR 22,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 22,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 22,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 22,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 22,713,House,1990-02-16,Filed,,,1
+HR 90,713,House,1990-03-22,Reported enrolled,,,7
+HR 90,713,House,1990-03-22,Adopted,,91,6
+HR 90,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 90,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 90,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 90,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 90,713,House,1990-03-12,Filed,,,1
+HR 55,713,House,1990-03-14,Reported enrolled,,,7
+HR 55,713,House,1990-03-14,Adopted,,61,6
+HR 55,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 55,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 55,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 55,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 55,713,House,1990-02-28,Filed,,,1
+HR 56,713,House,1990-03-14,Reported enrolled,,,7
+HR 56,713,House,1990-03-14,Adopted,,61,6
+HR 56,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 56,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 56,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 56,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 56,713,House,1990-02-28,Filed,,,1
+HR 111,713,House,1990-03-27,Reported enrolled,,,7
+HR 111,713,House,1990-03-27,Adopted,,194,6
+HR 111,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 111,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 111,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 111,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 111,713,House,1990-03-15,Filed,,,1
+HR 146,713,House,1990-03-27,Reported enrolled,,,4
+HR 146,713,House,1990-03-27,Adopted,,198,3
+HR 146,713,House,1990-03-27,Rules suspended,,198,2
+HR 146,713,House,1990-03-22,Filed,,,1
+HR 79,713,House,1990-03-22,Reported enrolled,,,7
+HR 79,713,House,1990-03-22,Adopted,,91,6
+HR 79,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 79,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 79,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 79,713,House,1990-03-07,Referred to Rules and Resolutions,,47,2
+HR 79,713,House,1990-03-06,Filed,,,1
+HCR 16,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 16,713,House,1990-03-28,Sent to the Governor,,207,12
+HCR 16,713,Senate,1990-03-28,Signed in the Senate,,112,11
+HCR 16,713,House,1990-03-28,Signed in the House,,207,10
+HCR 16,713,House,1990-03-28,Reported enrolled,,207,9
+HCR 16,713,House,1990-03-28,Returned from the Senate,,203,8
+HCR 16,713,Senate,1990-03-27,Read & adopted,,105,7
+HCR 16,713,Senate,1990-03-27,Rules suspended,,105,6
+HCR 16,713,Senate,1990-02-28,Received from House,,13,5
+HCR 16,713,House,1990-02-28,Sent to the Senate,,,4
+HCR 16,713,House,1990-02-28,Adopted,,18,3
+HCR 16,713,House,1990-02-28,Rules suspended,,18,2
+HCR 16,713,House,1990-02-27,Filed,,,1
+HR 99,713,House,1990-03-14,Reported enrolled,,,4
+HR 99,713,House,1990-03-14,Adopted,,63,3
+HR 99,713,House,1990-03-14,Rules suspended,,63,2
+HR 99,713,House,1990-03-14,Filed,,,1
+HB 101,713,House,1990-03-15,Reported favorably w/o amendment(s),,77,7
+HB 101,713,House,1990-03-15,Considered in public hearing,,,6
+HB 101,713,House,1990-03-15,Posting rule suspended,,68,5
+HB 101,713,House,1990-03-15,Scheduled for public hearing on  . . . . . .,,,4
+HB 101,713,House,1990-03-08,Referred to Higher Education,,51,3
+HB 101,713,House,1990-03-08,Read first time,,51,2
+HB 101,713,House,1990-03-07,Filed,,,1
+HR 153,713,House,1990-03-27,Reported enrolled,,,4
+HR 153,713,House,1990-03-27,Adopted,,197,3
+HR 153,713,House,1990-03-27,Rules suspended,,196,2
+HR 153,713,House,1990-03-23,Filed,,,1
+HB 52,713,House,1990-02-27,Referred to Criminal Jurisprudence,,12,3
+HB 52,713,House,1990-02-27,Read first time,,12,2
+HB 52,713,House,1990-02-12,Filed,,,1
+HB 62,713,House,1990-02-27,Referred to Criminal Jurisprudence,,13,3
+HB 62,713,House,1990-02-27,Read first time,,13,2
+HB 62,713,House,1990-02-21,Filed,,,1
+HR 54,713,House,1990-02-28,Reported enrolled,,,4
+HR 54,713,House,1990-02-28,Adopted,,18,3
+HR 54,713,House,1990-02-28,Rules suspended,,18,2
+HR 54,713,House,1990-02-28,Filed,,,1
+HCR 31,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 31,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 31,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 31,713,House,1990-03-28,Signed in the House,,207,13
+HCR 31,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 31,713,House,1990-03-28,Returned from the Senate,,205,11
+HCR 31,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 31,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 31,713,Senate,1990-03-23,Received from House,,88,8
+HCR 31,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 31,713,House,1990-03-22,Adopted,,90,6
+HCR 31,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 31,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 31,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 31,713,House,1990-03-14,Referred to Rules and Resolutions,,58,2
+HCR 31,713,House,1990-03-12,Filed,,,1
+HR 78,713,House,1990-03-22,Reported enrolled,,,7
+HR 78,713,House,1990-03-22,Adopted,,91,6
+HR 78,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 78,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 78,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 78,713,House,1990-03-07,Referred to Rules and Resolutions,,47,2
+HR 78,713,House,1990-03-06,Filed,,,1
+HR 160,713,House,1990-03-27,Reported enrolled,,,4
+HR 160,713,House,1990-03-27,Adopted,,194,3
+HR 160,713,House,1990-03-27,Rules suspended,,193,2
+HR 160,713,House,1990-03-23,Filed,,,1
+HCR 52,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 52,713,House,1990-03-28,Sent to the Governor,,207,12
+HCR 52,713,Senate,1990-03-28,Signed in the Senate,,112,11
+HCR 52,713,House,1990-03-28,Signed in the House,,203,10
+HCR 52,713,House,1990-03-27,Reported enrolled,,207,9
+HCR 52,713,House,1990-03-27,Returned from the Senate,,193,8
+HCR 52,713,Senate,1990-03-26,Read & adopted,,92,7
+HCR 52,713,Senate,1990-03-26,Rules suspended,,92,6
+HCR 52,713,Senate,1990-03-26,Received from House,,91,5
+HCR 52,713,House,1990-03-26,Sent to the Senate,,,4
+HCR 52,713,House,1990-03-26,Adopted,,187,3
+HCR 52,713,House,1990-03-26,Rules suspended,,187,2
+HCR 52,713,House,1990-03-26,Filed,,,1
+HR 166,713,House,1990-03-26,Reported enrolled,,,4
+HR 166,713,House,1990-03-26,Adopted,,188,3
+HR 166,713,House,1990-03-26,Rules suspended,,188,2
+HR 166,713,House,1990-03-26,Filed,,,1
+HR 167,713,House,1990-03-26,Reported enrolled,,,4
+HR 167,713,House,1990-03-26,Adopted,,188,3
+HR 167,713,House,1990-03-26,Rules suspended,,188,2
+HR 167,713,House,1990-03-26,Filed,,,1
+HR 168,713,House,1990-03-26,Reported enrolled,,,4
+HR 168,713,House,1990-03-26,Adopted,,188,3
+HR 168,713,House,1990-03-26,Rules suspended,,188,2
+HR 168,713,House,1990-03-26,Filed,,,1
+HCR 18,713,House,1990-03-01,Referred to Judicial Affairs,,24,2
+HCR 18,713,House,1990-02-28,Filed,,,1
+HB 133,713,House,1990-03-21,Pending in committee,,,7
+HB 133,713,House,1990-03-21,Testimony received in committee,,,6
+HB 133,713,House,1990-03-21,Considered in public hearing,,,5
+HB 133,713,House,1990-03-21,Posting rule suspended,,87,4
+HB 133,713,House,1990-03-21,Referred to Judicial Affairs,,86,3
+HB 133,713,House,1990-03-21,Read first time,,86,2
+HB 133,713,House,1990-03-20,Filed,,,1
+HB 143,713,House,1990-03-26,Referred to Judiciary,,186,3
+HB 143,713,House,1990-03-26,Read first time,,186,2
+HB 143,713,House,1990-03-22,Filed,,,1
+HJR 7,713,House,1990-03-21,Withdrawn from schedule,,,5
+HJR 7,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HJR 7,713,House,1990-02-27,Referred to Judicial Affairs,,7,3
+HJR 7,713,House,1990-02-27,Read first time,,7,2
+HJR 7,713,House,1990-02-08,Filed,,,1
+HJR 9,713,House,1990-03-21,Withdrawn from schedule,,,5
+HJR 9,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HJR 9,713,House,1990-02-27,Referred to Judicial Affairs,,7,3
+HJR 9,713,House,1990-02-27,Read first time,,7,2
+HJR 9,713,House,1990-02-21,Filed,,,1
+HR 84,713,House,1990-03-22,Reported enrolled,,,7
+HR 84,713,House,1990-03-22,Adopted,,91,6
+HR 84,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 84,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 84,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 84,713,House,1990-03-14,Referred to Rules and Resolutions,,58,2
+HR 84,713,House,1990-03-08,Filed,,,1
+HR 156,713,House,1990-03-23,Filed,,,1
+HR 157,713,House,1990-03-23,Filed,,,1
+HR 37,713,House,1990-03-14,Reported enrolled,,,7
+HR 37,713,House,1990-03-14,Adopted,,60,6
+HR 37,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 37,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 37,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 37,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 37,713,House,1990-02-26,Filed,,,1
+HR 47,713,House,1990-03-05,Reported enrolled,,,7
+HR 47,713,House,1990-03-05,Adopted,,31,6
+HR 47,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 47,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 47,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 47,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 47,713,House,1990-02-27,Filed,,,1
+HR 102,713,House,1990-03-22,Reported enrolled,,,7
+HR 102,713,House,1990-03-22,Adopted,,92,6
+HR 102,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 102,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 102,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 102,713,House,1990-03-15,Referred to Rules and Resolutions,,66,2
+HR 102,713,House,1990-03-14,Filed,,,1
+HB 94,713,House,1990-03-07,Referred to Criminal Jurisprudence,,47,3
+HB 94,713,House,1990-03-07,Read first time,,47,2
+HB 94,713,House,1990-03-06,Filed,,,1
+HR 67,713,House,1990-03-14,Reported enrolled,,,7
+HR 67,713,House,1990-03-14,Adopted,,62,6
+HR 67,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 67,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 67,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 67,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 67,713,House,1990-03-06,Filed,,,1
+HB 38,713,House,1990-03-05,Reported favorably with substitute,,53,7
+HB 38,713,House,1990-03-05,Considered in formal meeting,,,6
+HB 38,713,House,1990-03-05,No action taken in committee,,,5
+HB 38,713,House,1990-03-05,Scheduled for public hearing on  . . . . . .,,,4
+HB 38,713,House,1990-02-27,Referred to Insurance,,11,3
+HB 38,713,House,1990-02-27,Read first time,,11,2
+HB 38,713,House,1990-02-06,Filed,,,1
+HR 3,713,House,1990-03-22,Reported enrolled,,,4
+HR 3,713,House,1990-03-22,Adopted,,93,3
+HR 3,713,House,1990-03-22,Rules suspended,,93,2
+HR 3,713,House,1990-03-21,Filed,,,1
+HB 108,713,House,1990-03-14,Referred to Ways & Means,,57,3
+HB 108,713,House,1990-03-14,Read first time,,57,2
+HB 108,713,House,1990-03-08,Filed,,,1
+HB 127,713,House,1990-03-19,Referred to Financial Institutions,,73,3
+HB 127,713,House,1990-03-19,Read first time,,73,2
+HB 127,713,House,1990-03-16,Filed,,,1
+HJR 15,713,House,1990-03-14,Referred to Ways & Means,,57,3
+HJR 15,713,House,1990-03-14,Read first time,,57,2
+HJR 15,713,House,1990-03-12,Filed,,,1
+HR 116,713,House,1990-03-27,Reported enrolled,,,7
+HR 116,713,House,1990-03-27,Adopted,,195,6
+HR 116,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 116,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 116,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 116,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 116,713,House,1990-03-16,Filed,,,1
+HB 49,713,House,1990-02-27,Referred to Judicial Affairs,,12,3
+HB 49,713,House,1990-02-27,Read first time,,12,2
+HB 49,713,House,1989-02-09,Filed,,,1
+HB 1,713,House,1990-03-19,1st Printing sent to Comm. on Cal.,,,12
+HB 1,713,House,1990-03-17,Reported favorably w/amendment(s),,77,11
+HB 1,713,House,1990-03-17,Testimony received in committee,,,10
+HB 1,713,House,1990-03-17,Considered in public hearing,,,9
+HB 1,713,House,1990-03-16,Pending in committee,,,8
+HB 1,713,House,1990-03-16,Considered in public hearing,,,7
+HB 1,713,House,1990-03-15,Pending in committee,,,6
+HB 1,713,House,1990-03-15,Considered in public hearing,,,5
+HB 1,713,House,1990-03-14,Posting rule suspended,,62,4
+HB 1,713,House,1990-03-14,Referred to Public Education,,57,3
+HB 1,713,House,1990-03-14,Read first time,,57,2
+HB 1,713,House,1990-03-13,Filed,,,1
+HB 78,713,House,1990-03-01,Referred to Public Education,,24,3
+HB 78,713,House,1990-03-01,Read first time,,24,2
+HB 78,713,House,1990-02-27,Filed,,,1
+HB 82,713,House,1990-03-01,Referred to Judicial Affairs,,25,3
+HB 82,713,House,1990-03-01,Read first time,,25,2
+HB 82,713,House,1990-02-27,Filed,,,1
+HCR 14,713,House,1990-03-05,Signed by the Governor,,,13
+HCR 14,713,House,1990-03-01,Sent to the Governor,,43,12
+HCR 14,713,Senate,1990-03-01,Signed in the Senate,,14,11
+HCR 14,713,House,1990-03-01,Signed in the House,,22,10
+HCR 14,713,House,1990-02-28,Reported enrolled,,43,9
+HCR 14,713,House,1990-02-28,Returned from the Senate,,18,8
+HCR 14,713,Senate,1990-02-27,Read & adopted,,10,7
+HCR 14,713,Senate,1990-02-27,Laid before the Senate,,10,6
+HCR 14,713,Senate,1990-02-27,Received from House,,9,5
+HCR 14,713,House,1990-02-27,Sent to the Senate,,,4
+HCR 14,713,House,1990-02-27,Adopted,,4,3
+HCR 14,713,House,1990-02-27,Rules suspended,,4,2
+HCR 14,713,House,1990-02-27,Filed,,,1
+HCR 21,713,House,1990-03-26,Filed w/o the Governor's signature,,,17
+HCR 21,713,House,1990-03-15,Sent to the Governor,,68,16
+HCR 21,713,House,1990-03-15,Signed in the House,,68,15
+HCR 21,713,Senate,1990-03-15,Signed in the Senate,,55,14
+HCR 21,713,House,1990-03-14,Reported enrolled,,68,13
+HCR 21,713,House,1990-03-14,Returned from the Senate,,56,12
+HCR 21,713,Senate,1990-03-08,Adopted,,43,11
+HCR 21,713,Senate,1990-03-08,Laid before the Senate,,43,10
+HCR 21,713,Senate,1990-03-08,Received from House,,42,9
+HCR 21,713,House,1990-03-08,Sent to the Senate,,,8
+HCR 21,713,House,1990-03-07,Nonrecord vote recorded in Journal,,48,7
+HCR 21,713,House,1990-03-07,Adopted,,48,6
+HCR 21,713,House,1990-03-07,Rules suspended,,48,5
+HCR 21,713,House,1990-03-05,Reported favorably w/o amendment(s),,53,4
+HCR 21,713,House,1990-03-05,Considered in formal meeting,,,3
+HCR 21,713,House,1990-03-05,Referred to Public Education,,29,2
+HCR 21,713,House,1990-03-05,Filed,,,1
+HR 12,713,House,1990-03-05,Reported enrolled,,,7
+HR 12,713,House,1990-03-05,Adopted,,30,6
+HR 12,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 12,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 12,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 12,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 12,713,House,1990-02-06,Filed,,,1
+HR 118,713,House,1990-03-19,Reported enrolled,,,4
+HR 118,713,House,1990-03-19,Adopted,,73,3
+HR 118,713,House,1990-03-19,Rules suspended,,72,2
+HR 118,713,House,1990-03-19,Filed,,,1
+HR 48,713,House,1990-02-28,Reported enrolled,,,4
+HR 48,713,House,1990-02-28,Adopted,,17,3
+HR 48,713,House,1990-02-28,Rules suspended,,17,2
+HR 48,713,House,1990-02-27,Filed,,,1
+HR 95,713,House,1990-03-22,Reported enrolled,,,7
+HR 95,713,House,1990-03-22,Adopted,,91,6
+HR 95,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 95,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 95,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 95,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 95,713,House,1990-03-14,Filed,,,1
+HR 171,713,House,1990-03-28,Reported enrolled,,,5
+HR 171,713,House,1990-03-28,Coauthor authorized,,,4
+HR 171,713,House,1990-03-28,Adopted,,206,3
+HR 171,713,House,1990-03-28,Rules suspended,,206,2
+HR 171,713,House,1990-03-28,Filed,,,1
+HB 86,713,House,1990-03-06,"Referred to State, Fed. & Intl. Relations",,41,3
+HB 86,713,House,1990-03-06,Read first time,,41,2
+HB 86,713,House,1990-02-28,Filed,,,1
+HB 90,713,House,1990-03-06,Referred to Ways & Means,,42,3
+HB 90,713,House,1990-03-06,Read first time,,42,2
+HB 90,713,House,1990-03-01,Filed,,,1
+HCR 22,713,House,1990-03-06,Referred to Public Education,,42,2
+HCR 22,713,House,1990-03-05,Filed,,,1
+HR 89,713,House,1990-03-22,Reported enrolled,,,7
+HR 89,713,House,1990-03-22,Adopted,,91,6
+HR 89,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 89,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 89,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 89,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 89,713,House,1990-03-12,Filed,,,1
+HR 91,713,House,1990-03-22,Reported enrolled,,,7
+HR 91,713,House,1990-03-22,Adopted,,91,6
+HR 91,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 91,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 91,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 91,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 91,713,House,1990-03-12,Filed,,,1
+HB 141,713,House,1990-03-26,Referred to Public Education,,185,3
+HB 141,713,House,1990-03-26,Read first time,,185,2
+HB 141,713,House,1990-03-22,Filed,,,1
+HB 7,713,House,1990-02-27,Referred to State Affairs,,8,3
+HB 7,713,House,1990-02-27,Read first time,,8,2
+HB 7,713,House,1990-01-29,Filed,,,1
+HR 64,713,House,1990-03-14,Reported enrolled,,,7
+HR 64,713,House,1990-03-14,Adopted,,62,6
+HR 64,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 64,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 64,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 64,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 64,713,House,1990-03-05,Filed,,,1
+HB 27,713,House,1990-02-27,Referred to Public Education,,10,3
+HB 27,713,House,1990-02-27,Read first time,,10,2
+HB 27,713,House,1990-01-31,Filed,,,1
+HB 28,713,House,1990-02-27,Referred to Public Education,,10,3
+HB 28,713,House,1990-02-27,Read first time,,10,2
+HB 28,713,House,1990-01-31,Filed,,,1
+HB 29,713,House,1990-02-27,Referred to Public Education,,10,3
+HB 29,713,House,1990-02-27,Read first time,,10,2
+HB 29,713,House,1990-01-31,Filed,,,1
+HB 30,713,House,1990-02-27,Referred to Public Education,,10,3
+HB 30,713,House,1990-02-27,Read first time,,10,2
+HB 30,713,House,1990-01-31,Filed,,,1
+HCR 7,713,House,1990-02-27,Referred to State Affairs,,4,2
+HCR 7,713,House,1990-01-31,Filed,,,1
+HB 53,713,House,1990-02-27,Referred to Transportation,,12,3
+HB 53,713,House,1990-02-27,Read first time,,12,2
+HB 53,713,House,1990-02-13,Filed,,,1
+HB 40,713,House,1990-03-21,Reported favorably w/o amendment(s),,181,7
+HB 40,713,House,1990-03-21,Testimony received in committee,,,6
+HB 40,713,House,1990-03-21,Considered in public hearing,,,5
+HB 40,713,House,1990-03-21,Posting rule suspended,,87,4
+HB 40,713,House,1990-02-27,Referred to Judicial Affairs,,11,3
+HB 40,713,House,1990-02-27,Read first time,,11,2
+HB 40,713,House,1990-02-06,Filed,,,1
+HB 59,713,House,1990-03-21,Pending in committee,,,7
+HB 59,713,House,1990-03-21,Testimony received in committee,,,6
+HB 59,713,House,1990-03-21,Considered in public hearing,,,5
+HB 59,713,House,1990-03-21,Posting rule suspended,,87,4
+HB 59,713,House,1990-02-27,Referred to Judicial Affairs,,13,3
+HB 59,713,House,1990-02-27,Read first time,,13,2
+HB 59,713,House,1990-02-15,Filed,,,1
+HB 64,713,House,1990-02-27,Referred to Business & Commerce,,13,3
+HB 64,713,House,1990-02-27,Read first time,,13,2
+HB 64,713,House,1990-02-22,Filed,,,1
+HB 65,713,House,1990-02-27,Referred to Business & Commerce,,13,3
+HB 65,713,House,1990-02-27,Read first time,,13,2
+HB 65,713,House,1990-02-22,Filed,,,1
+HB 81,713,House,1990-03-01,Referred to Criminal Jurisprudence,,25,3
+HB 81,713,House,1990-03-01,Read first time,,25,2
+HB 81,713,House,1990-02-27,Filed,,,1
+HB 128,713,House,1990-03-19,Referred to Judicial Affairs,,73,3
+HB 128,713,House,1990-03-19,Read first time,,73,2
+HB 128,713,House,1990-03-16,Filed,,,1
+HR 9,713,House,1990-03-05,Reported enrolled,,,7
+HR 9,713,House,1990-03-05,Adopted,,30,6
+HR 9,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 9,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 9,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 9,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 9,713,House,1990-01-31,Filed,,,1
+HB 129,713,House,1990-03-19,Referred to Judiciary,,73,3
+HB 129,713,House,1990-03-19,Read first time,,73,2
+HB 129,713,House,1990-03-19,Filed,,,1
+HB 130,713,House,1990-03-19,Referred to Judiciary,,74,3
+HB 130,713,House,1990-03-19,Read first time,,74,2
+HB 130,713,House,1990-03-19,Filed,,,1
+HCR 43,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 43,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 43,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 43,713,House,1990-03-28,Signed in the House,,207,13
+HCR 43,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 43,713,House,1990-03-28,Returned from the Senate,,205,11
+HCR 43,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 43,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 43,713,Senate,1990-03-27,Received from House,,93,8
+HCR 43,713,House,1990-03-27,Sent to the Senate,,,7
+HCR 43,713,House,1990-03-27,Adopted,,195,6
+HCR 43,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 43,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HCR 43,713,House,1990-03-22,Considered in formal meeting,,,3
+HCR 43,713,House,1990-03-20,Referred to Rules and Resolutions,,80,2
+HCR 43,713,House,1990-03-20,Filed,,,1
+HR 86,713,House,1990-03-22,Reported enrolled,,,7
+HR 86,713,House,1990-03-22,Adopted,,91,6
+HR 86,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 86,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 86,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 86,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 86,713,House,1990-03-08,Filed,,,1
+HR 128,713,House,1990-03-27,Reported enrolled,,,7
+HR 128,713,House,1990-03-27,Adopted,,194,6
+HR 128,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 128,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 128,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 128,713,House,1990-03-20,Referred to Rules and Resolutions,,81,2
+HR 128,713,House,1990-03-20,Filed,,,1
+HB 109,713,House,1990-03-14,Referred to Natural Resources,,57,3
+HB 109,713,House,1990-03-14,Read first time,,57,2
+HB 109,713,House,1990-03-08,Filed,,,1
+HR 115,713,House,1990-03-26,Reported enrolled,,,5
+HR 115,713,House,1990-03-26,Adopted,,186,4
+HR 115,713,House,1990-03-26,Rules suspended,,186,3
+HR 115,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 115,713,House,1990-03-15,Filed,,,1
+HR 161,713,House,1990-03-28,Reported enrolled,,,4
+HR 161,713,House,1990-03-28,Adopted,,204,3
+HR 161,713,House,1990-03-28,Rules suspended,,204,2
+HR 161,713,House,1990-03-23,Filed,,,1
+HB 114,713,House,1990-03-14,Referred to County Affairs,,58,3
+HB 114,713,House,1990-03-14,Read first time,,58,2
+HB 114,713,House,1990-03-09,Filed,,,1
+HR 98,713,House,1990-03-14,Reported enrolled,,,4
+HR 98,713,House,1990-03-14,Adopted,,60,3
+HR 98,713,House,1990-03-14,Rules suspended,,60,2
+HR 98,713,House,1990-03-14,Filed,,,1
+HR 120,713,House,1990-03-19,Reported enrolled,,,4
+HR 120,713,House,1990-03-19,Adopted,,72,3
+HR 120,713,House,1990-03-19,Rules suspended,,72,2
+HR 120,713,House,1990-03-19,Filed,,,1
+HB 77,713,House,1990-03-01,Referred to Public Education,,24,3
+HB 77,713,House,1990-03-01,Read first time,,24,2
+HB 77,713,House,1990-02-27,Filed,,,1
+HR 10,713,House,1990-03-05,Reported enrolled,,,7
+HR 10,713,House,1990-03-05,Adopted,,30,6
+HR 10,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 10,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 10,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 10,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 10,713,House,1990-02-05,Filed,,,1
+HR 11,713,House,1990-03-05,Reported enrolled,,,7
+HR 11,713,House,1990-03-05,Adopted,,30,6
+HR 11,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 11,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 11,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 11,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 11,713,House,1990-02-05,Filed,,,1
+HR 41,713,House,1990-02-27,Reported enrolled,,,4
+HR 41,713,House,1990-02-27,Adopted,,3,3
+HR 41,713,House,1990-02-27,Rules suspended,,3,2
+HR 41,713,House,1990-02-27,Filed,,,1
+HR 42,713,House,1990-03-05,Reported enrolled,,,7
+HR 42,713,House,1990-03-05,Adopted,,31,6
+HR 42,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 42,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 42,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 42,713,House,1990-02-27,Referred to Rules and Resolutions,,7,2
+HR 42,713,House,1990-02-27,Filed,,,1
+HR 123,713,House,1990-03-21,Reported enrolled,,,5
+HR 123,713,House,1990-03-21,Adopted,,86,4
+HR 123,713,House,1990-03-21,Rules suspended,,86,3
+HR 123,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 123,713,House,1990-03-19,Filed,,,1
+HB 61,713,House,1990-02-27,Referred to Public Education,,13,3
+HB 61,713,House,1990-02-27,Read first time,,13,2
+HB 61,713,House,1990-02-20,Filed,,,1
+HB 69,713,House,1990-03-21,Reported favorably w/o amendment(s),,181,7
+HB 69,713,House,1990-03-21,Testimony received in committee,,,6
+HB 69,713,House,1990-03-21,Considered in public hearing,,,5
+HB 69,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HB 69,713,House,1990-02-27,Referred to Judicial Affairs,,14,3
+HB 69,713,House,1990-02-27,Read first time,,14,2
+HB 69,713,House,1990-02-23,Filed,,,1
+HB 35,713,House,1990-03-14,No action taken in committee,,,5
+HB 35,713,House,1990-03-14,Scheduled for public hearing on  . . . . . .,,,4
+HB 35,713,House,1990-02-27,Referred to Natural Resources,,11,3
+HB 35,713,House,1990-02-27,Read first time,,11,2
+HB 35,713,House,1990-02-05,Filed,,,1
+HB 44,713,House,1990-03-19,Coauthor authorized,,,6
+HB 44,713,House,1990-03-14,No action taken in committee,,,5
+HB 44,713,House,1990-03-14,Scheduled for public hearing on  . . . . . .,,,4
+HB 44,713,House,1990-02-27,Referred to Natural Resources,,11,3
+HB 44,713,House,1990-02-27,Read first time,,11,2
+HB 44,713,House,1990-02-08,Filed,,,1
+HB 100,713,House,1990-03-07,Referred to Transportation,,48,3
+HB 100,713,House,1990-03-07,Read first time,,48,2
+HB 100,713,House,1990-03-07,Filed,,,1
+HCR 2,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 2,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 2,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 2,713,House,1990-03-28,Signed in the House,,207,13
+HCR 2,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 2,713,House,1990-03-28,Returned from the Senate,,203,11
+HCR 2,713,Senate,1990-03-27,Read & adopted,,105,10
+HCR 2,713,Senate,1990-03-27,Rules suspended,,105,9
+HCR 2,713,Senate,1990-03-27,Received from House,,93,8
+HCR 2,713,House,1990-03-27,Sent to the Senate,,,7
+HCR 2,713,House,1990-03-27,Adopted,,194,6
+HCR 2,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 2,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HCR 2,713,House,1990-03-22,Considered in formal meeting,,,3
+HCR 2,713,House,1990-03-21,Referred to Rules and Resolutions,,87,2
+HCR 2,713,House,1990-03-20,Filed,,,1
+HR 46,713,House,1990-03-14,Reported enrolled,,,7
+HR 46,713,House,1990-03-14,Adopted,,61,6
+HR 46,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 46,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 46,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 46,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 46,713,House,1990-02-27,Filed,,,1
+HCR 5,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 5,713,House,1990-03-28,Sent to the Governor,,207,12
+HCR 5,713,Senate,1990-03-28,Signed in the Senate,,112,11
+HCR 5,713,House,1990-03-28,Signed in the House,,207,10
+HCR 5,713,House,1990-03-28,Reported enrolled,,207,9
+HCR 5,713,House,1990-03-28,Returned from the Senate,,206,8
+HCR 5,713,Senate,1990-03-28,Read & adopted,,112,7
+HCR 5,713,Senate,1990-03-28,Rules suspended,,112,6
+HCR 5,713,Senate,1990-03-26,Received from House,,91,5
+HCR 5,713,House,1990-03-26,Sent to the Senate,,,4
+HCR 5,713,House,1990-03-26,Adopted,,188,3
+HCR 5,713,House,1990-03-26,Rules suspended,,188,2
+HCR 5,713,House,1990-03-22,Filed,,,1
+HCR 15,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 15,713,House,1990-03-23,Sent to the Governor,,190,15
+HCR 15,713,Senate,1990-03-23,Signed in the Senate,,89,14
+HCR 15,713,House,1990-03-22,Signed in the House,,123,13
+HCR 15,713,House,1990-03-22,Reported enrolled,,181,12
+HCR 15,713,House,1990-03-22,Returned from the Senate,,90,11
+HCR 15,713,Senate,1990-03-21,Read & adopted,,87,10
+HCR 15,713,Senate,1990-03-21,Rules suspended,,87,9
+HCR 15,713,Senate,1990-03-14,Received from House,,49,8
+HCR 15,713,House,1990-03-14,Sent to the Senate,,,7
+HCR 15,713,House,1990-03-14,Adopted,,61,6
+HCR 15,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 15,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HCR 15,713,House,1990-03-07,Considered in formal meeting,,,3
+HCR 15,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HCR 15,713,House,1990-02-27,Filed,,,1
+HCR 34,713,House,1990-04-03,Signed by the Governor,,,16
+HCR 34,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 34,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 34,713,House,1990-03-28,Signed in the House,,207,13
+HCR 34,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 34,713,House,1990-03-28,Returned from the Senate,,206,11
+HCR 34,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 34,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 34,713,Senate,1990-03-27,Received from House,,93,8
+HCR 34,713,House,1990-03-27,Sent to the Senate,,,7
+HCR 34,713,House,1990-03-27,Adopted,,195,6
+HCR 34,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 34,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HCR 34,713,House,1990-03-22,Considered in formal meeting,,,3
+HCR 34,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 34,713,House,1990-03-15,Filed,,,1
+HCR 38,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 38,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 38,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 38,713,House,1990-03-28,Signed in the House,,207,13
+HCR 38,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 38,713,House,1990-03-28,Returned from the Senate,,206,11
+HCR 38,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 38,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 38,713,Senate,1990-03-23,Received from House,,88,8
+HCR 38,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 38,713,House,1990-03-22,Adopted,,92,6
+HCR 38,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 38,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 38,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 38,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 38,713,House,1990-03-19,Filed,,,1
+HCR 39,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 39,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 39,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 39,713,House,1990-03-28,Signed in the House,,207,13
+HCR 39,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 39,713,House,1990-03-28,Returned from the Senate,,206,11
+HCR 39,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 39,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 39,713,Senate,1990-03-23,Received from House,,88,8
+HCR 39,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 39,713,House,1990-03-22,Adopted,,92,6
+HCR 39,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 39,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 39,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 39,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 39,713,House,1990-03-19,Filed,,,1
+HCR 40,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 40,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 40,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 40,713,House,1990-03-28,Signed in the House,,207,13
+HCR 40,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 40,713,House,1990-03-28,Returned from the Senate,,206,11
+HCR 40,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 40,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 40,713,Senate,1990-03-23,Received from House,,88,8
+HCR 40,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 40,713,House,1990-03-22,Adopted,,92,6
+HCR 40,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 40,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 40,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 40,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 40,713,House,1990-03-19,Filed,,,1
+HCR 41,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 41,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 41,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 41,713,House,1990-03-28,Signed in the House,,207,13
+HCR 41,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 41,713,House,1990-03-28,Returned from the Senate,,206,11
+HCR 41,713,Senate,1990-03-28,Read & adopted,,112,10
+HCR 41,713,Senate,1990-03-28,Rules suspended,,112,9
+HCR 41,713,Senate,1990-03-23,Received from House,,88,8
+HCR 41,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 41,713,House,1990-03-22,Adopted,,92,6
+HCR 41,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 41,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 41,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 41,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 41,713,House,1990-03-19,Filed,,,1
+HCR 46,713,Senate,1990-03-26,Received from House,,91,5
+HCR 46,713,House,1990-03-26,Sent to the Senate,,,4
+HCR 46,713,House,1990-03-26,Adopted,,189,3
+HCR 46,713,House,1990-03-26,Rules suspended,,189,2
+HCR 46,713,House,1990-03-22,Filed,,,1
+HCR 47,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 47,713,House,1990-03-28,Sent to the Governor,,207,12
+HCR 47,713,Senate,1990-03-28,Signed in the Senate,,112,11
+HCR 47,713,House,1990-03-28,Signed in the House,,207,10
+HCR 47,713,House,1990-03-28,Reported enrolled,,207,9
+HCR 47,713,House,1990-03-28,Returned from the Senate,,206,8
+HCR 47,713,Senate,1990-03-28,Read & adopted,,112,7
+HCR 47,713,Senate,1990-03-28,Rules suspended,,112,6
+HCR 47,713,Senate,1990-03-26,Received from House,,91,5
+HCR 47,713,House,1990-03-26,Sent to the Senate,,,4
+HCR 47,713,House,1990-03-26,Adopted,,189,3
+HCR 47,713,House,1990-03-26,Rules suspended,,189,2
+HCR 47,713,House,1990-03-22,Filed,,,1
+HCR 48,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 48,713,House,1990-03-28,Sent to the Governor,,207,12
+HCR 48,713,Senate,1990-03-28,Signed in the Senate,,112,11
+HCR 48,713,House,1990-03-28,Signed in the House,,207,10
+HCR 48,713,House,1990-03-28,Reported enrolled,,207,9
+HCR 48,713,House,1990-03-28,Returned from the Senate,,206,8
+HCR 48,713,Senate,1990-03-28,Read & adopted,,112,7
+HCR 48,713,Senate,1990-03-28,Rules suspended,,112,6
+HCR 48,713,Senate,1990-03-26,Received from House,,91,5
+HCR 48,713,House,1990-03-26,Sent to the Senate,,,4
+HCR 48,713,House,1990-03-26,Adopted,,189,3
+HCR 48,713,House,1990-03-26,Rules suspended,,189,2
+HCR 48,713,House,1990-03-22,Filed,,,1
+HR 23,713,House,1990-03-05,Reported enrolled,,,7
+HR 23,713,House,1990-03-05,Adopted,,31,6
+HR 23,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 23,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 23,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 23,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 23,713,House,1990-02-20,Filed,,,1
+HR 24,713,House,1990-03-05,Reported enrolled,,,7
+HR 24,713,House,1990-03-05,Adopted,,30,6
+HR 24,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 24,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 24,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 24,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 24,713,House,1990-02-20,Filed,,,1
+HR 25,713,House,1990-03-05,Reported enrolled,,,7
+HR 25,713,House,1990-03-05,Adopted,,30,6
+HR 25,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 25,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 25,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 25,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 25,713,House,1990-02-20,Filed,,,1
+HR 35,713,House,1990-03-05,Reported enrolled,,,7
+HR 35,713,House,1990-03-05,Adopted,,31,6
+HR 35,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 35,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 35,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 35,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 35,713,House,1990-02-26,Filed,,,1
+HB 60,713,House,1990-03-15,Reported favorably w/o amendment(s),,77,8
+HB 60,713,House,1990-03-15,Considered in public hearing,,,7
+HB 60,713,House,1990-03-15,Posting rule suspended,,68,6
+HB 60,713,House,1990-03-15,Scheduled for public hearing on  . . . . . .,,,5
+HB 60,713,House,1990-02-27,Coauthor authorized,,,4
+HB 60,713,House,1990-02-27,Referred to Higher Education,,13,3
+HB 60,713,House,1990-02-27,Read first time,,13,2
+HB 60,713,House,1990-02-20,Filed,,,1
+HR 60,713,House,1990-03-14,Reported enrolled,,,7
+HR 60,713,House,1990-03-14,Adopted,,61,6
+HR 60,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 60,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 60,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 60,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 60,713,House,1990-03-01,Filed,,,1
+HB 58,713,House,1990-02-27,Referred to State Affairs,,13,3
+HB 58,713,House,1990-02-27,Read first time,,13,2
+HB 58,713,House,1990-02-14,Filed,,,1
+HCR 10,713,House,1990-04-17,Signed by the Governor,,,14
+HCR 10,713,House,1990-03-23,Sent to the Governor,,190,13
+HCR 10,713,Senate,1990-03-23,Signed in the Senate,,89,12
+HCR 10,713,House,1990-03-22,Signed in the House,,123,11
+HCR 10,713,House,1990-03-22,Reported enrolled,,181,10
+HCR 10,713,House,1990-03-22,Returned from the Senate,,90,9
+HCR 10,713,Senate,1990-03-21,Read & adopted,,87,8
+HCR 10,713,Senate,1990-03-21,Rules suspended,,87,7
+HCR 10,713,Senate,1990-03-21,Received from House,,85,6
+HCR 10,713,House,1990-03-21,Sent to the Senate,,,5
+HCR 10,713,House,1990-03-20,Adopted,,82,4
+HCR 10,713,House,1990-03-20,Rules suspended,,82,3
+HCR 10,713,House,1990-02-27,Referred to Cultural & His. Resources,,4,2
+HCR 10,713,House,1990-02-12,Filed,,,1
+HCR 35,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 35,713,House,1990-03-23,Sent to the Governor,,190,12
+HCR 35,713,Senate,1990-03-23,Signed in the Senate,,89,11
+HCR 35,713,House,1990-03-22,Signed in the House,,123,10
+HCR 35,713,House,1990-03-22,Reported enrolled,,181,9
+HCR 35,713,House,1990-03-22,Returned from the Senate,,90,8
+HCR 35,713,Senate,1990-03-21,Read & adopted,,88,7
+HCR 35,713,Senate,1990-03-21,Rules suspended,,88,6
+HCR 35,713,Senate,1990-03-21,Received from House,,85,5
+HCR 35,713,House,1990-03-21,Sent to the Senate,,,4
+HCR 35,713,House,1990-03-20,Adopted,,82,3
+HCR 35,713,House,1990-03-20,Rules suspended,,82,2
+HCR 35,713,House,1990-03-16,Filed,,,1
+HJR 14,713,House,1990-03-21,Pending in committee,,,7
+HJR 14,713,House,1990-03-21,Testimony received in committee,,,6
+HJR 14,713,House,1990-03-21,Considered in public hearing,,,5
+HJR 14,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HJR 14,713,House,1990-03-08,Referred to Judicial Affairs,,51,3
+HJR 14,713,House,1990-03-08,Read first time,,51,2
+HJR 14,713,House,1990-03-08,Filed,,,1
+HCR 19,713,House,1990-03-26,No action taken in committee,,,4
+HCR 19,713,House,1990-03-26,Scheduled for public hearing on  . . . . . .,,,3
+HCR 19,713,House,1990-03-01,Referred to State Affairs,,24,2
+HCR 19,713,House,1990-02-28,Filed,,,1
+HCR 37,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 37,713,House,1990-03-21,Sent to the Governor,,181,12
+HCR 37,713,Senate,1990-03-21,Signed in the Senate,,87,11
+HCR 37,713,House,1990-03-21,Signed in the House,,86,10
+HCR 37,713,House,1990-03-20,Reported enrolled,,88,9
+HCR 37,713,House,1990-03-20,Returned from the Senate,,80,8
+HCR 37,713,Senate,1990-03-19,Read & adopted,,81,7
+HCR 37,713,Senate,1990-03-19,Rules suspended,,81,6
+HCR 37,713,Senate,1990-03-19,Received from House,,65,5
+HCR 37,713,House,1990-03-19,Sent to the Senate,,,4
+HCR 37,713,House,1990-03-19,Adopted,,72,3
+HCR 37,713,House,1990-03-19,Rules suspended,,72,2
+HCR 37,713,House,1990-03-19,Filed,,,1
+HR 69,713,House,1990-03-14,Reported enrolled,,,7
+HR 69,713,House,1990-03-14,Adopted,,62,6
+HR 69,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 69,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 69,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 69,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 69,713,House,1990-03-06,Filed,,,1
+HR 70,713,House,1990-03-14,Reported enrolled,,,7
+HR 70,713,House,1990-03-14,Adopted,,62,6
+HR 70,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 70,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 70,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 70,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 70,713,House,1990-03-06,Filed,,,1
+HR 71,713,House,1990-03-14,Reported enrolled,,,7
+HR 71,713,House,1990-03-14,Adopted,,62,6
+HR 71,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 71,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 71,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 71,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 71,713,House,1990-03-06,Filed,,,1
+HR 82,713,House,1990-03-08,Reported enrolled,,,4
+HR 82,713,House,1990-03-08,Adopted,,52,3
+HR 82,713,House,1990-03-08,Rules suspended,,52,2
+HR 82,713,House,1990-03-08,Filed,,,1
+HR 83,713,House,1990-03-08,Reported enrolled,,,4
+HR 83,713,House,1990-03-08,Adopted,,52,3
+HR 83,713,House,1990-03-08,Rules suspended,,52,2
+HR 83,713,House,1990-03-08,Filed,,,1
+HR 121,713,House,1990-03-27,Reported enrolled,,,7
+HR 121,713,House,1990-03-27,Adopted,,195,6
+HR 121,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 121,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 121,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 121,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 121,713,House,1990-03-19,Filed,,,1
+HR 122,713,House,1990-03-27,Reported enrolled,,,7
+HR 122,713,House,1990-03-27,Adopted,,195,6
+HR 122,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 122,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 122,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 122,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 122,713,House,1990-03-19,Filed,,,1
+HR 124,713,House,1990-03-27,Reported enrolled,,,7
+HR 124,713,House,1990-03-27,Adopted,,195,6
+HR 124,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 124,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 124,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 124,713,House,1990-03-20,Referred to Rules and Resolutions,,81,2
+HR 124,713,House,1990-03-19,Filed,,,1
+HR 125,713,House,1990-03-27,Reported enrolled,,,7
+HR 125,713,House,1990-03-27,Adopted,,196,6
+HR 125,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 125,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 125,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 125,713,House,1990-03-20,Referred to Rules and Resolutions,,81,2
+HR 125,713,House,1990-03-19,Filed,,,1
+HR 144,713,House,1990-03-22,Reported enrolled,,,4
+HR 144,713,House,1990-03-22,Adopted,,95,3
+HR 144,713,House,1990-03-22,Rules suspended,,94,2
+HR 144,713,House,1990-03-22,Filed,,,1
+HB 33,713,House,1990-02-27,Coauthor authorized,,,4
+HB 33,713,House,1990-02-27,Referred to Transportation,,10,3
+HB 33,713,House,1990-02-27,Read first time,,10,2
+HB 33,713,House,1990-02-02,Filed,,,1
+HR 108,713,House,1990-03-15,Reported enrolled,,,4
+HR 108,713,House,1990-03-15,Adopted,,67,3
+HR 108,713,House,1990-03-15,Rules suspended,,67,2
+HR 108,713,House,1990-03-15,Filed,,,1
+HB 51,713,House,1990-02-27,Referred to Judiciary,,12,3
+HB 51,713,House,1990-02-27,Read first time,,12,2
+HB 51,713,House,1990-02-12,Filed,,,1
+HR 97,713,House,1990-03-14,Reported enrolled,,,4
+HR 97,713,House,1990-03-14,Adopted,,60,3
+HR 97,713,House,1990-03-14,Rules suspended,,60,2
+HR 97,713,House,1990-03-14,Filed,,,1
+HB 50,713,House,1990-02-27,Referred to Public Education,,12,3
+HB 50,713,House,1990-02-27,Read first time,,12,2
+HB 50,713,House,1990-02-12,Filed,,,1
+HB 54,713,House,1990-02-27,Referred to Business & Commerce,,12,3
+HB 54,713,House,1990-02-27,Read first time,,12,2
+HB 54,713,House,1990-02-14,Filed,,,1
+HB 55,713,House,1990-02-27,Referred to Business & Commerce,,12,3
+HB 55,713,House,1990-02-27,Read first time,,12,2
+HB 55,713,House,1990-02-14,Filed,,,1
+HB 56,713,House,1990-02-27,Referred to Business & Commerce,,12,3
+HB 56,713,House,1990-02-27,Read first time,,12,2
+HB 56,713,House,1990-02-14,Filed,,,1
+HB 66,713,House,1990-02-27,Referred to Public Health,,13,3
+HB 66,713,House,1990-02-27,Read first time,,13,2
+HB 66,713,House,1990-02-22,Filed,,,1
+HB 87,713,House,1990-03-20,Coauthor authorized,,,4
+HB 87,713,House,1990-03-06,Referred to Environmental Affairs,,41,3
+HB 87,713,House,1990-03-06,Read first time,,41,2
+HB 87,713,House,1990-02-28,Filed,,,1
+HB 96,713,House,1990-03-07,Referred to Judiciary,,47,3
+HB 96,713,House,1990-03-07,Read first time,,47,2
+HB 96,713,House,1990-03-06,Filed,,,1
+HR 15,713,House,1990-03-05,Reported enrolled,,,7
+HR 15,713,House,1990-03-05,Adopted,,29,6
+HR 15,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 15,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 15,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 15,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 15,713,House,1990-02-12,Filed,,,1
+HR 16,713,House,1990-03-05,Reported enrolled,,,7
+HR 16,713,House,1990-03-05,Adopted,,30,6
+HR 16,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 16,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 16,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 16,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 16,713,House,1990-02-12,Filed,,,1
+HR 17,713,House,1990-03-05,Reported enrolled,,,7
+HR 17,713,House,1990-03-05,Adopted,,31,6
+HR 17,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 17,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 17,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 17,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 17,713,House,1990-02-12,Filed,,,1
+HR 18,713,House,1990-03-05,Reported enrolled,,,7
+HR 18,713,House,1990-03-05,Adopted,,31,6
+HR 18,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 18,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 18,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 18,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 18,713,House,1990-02-12,Filed,,,1
+HR 103,713,House,1990-03-15,Reported enrolled,,,4
+HR 103,713,House,1990-03-15,Adopted,,67,3
+HR 103,713,House,1990-03-15,Rules suspended,,67,2
+HR 103,713,House,1990-03-14,Filed,,,1
+HR 104,713,House,1990-03-22,Reported enrolled,,,7
+HR 104,713,House,1990-03-22,Adopted,,92,6
+HR 104,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 104,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 104,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 104,713,House,1990-03-15,Referred to Rules and Resolutions,,66,2
+HR 104,713,House,1990-03-14,Filed,,,1
+HR 135,713,House,1990-03-27,Reported enrolled,,,7
+HR 135,713,House,1990-03-27,Adopted,,194,6
+HR 135,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 135,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 135,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 135,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 135,713,House,1990-03-21,Filed,,,1
+HR 136,713,House,1990-03-27,Reported enrolled,,,7
+HR 136,713,House,1990-03-27,Adopted,,194,6
+HR 136,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 136,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 136,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 136,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 136,713,House,1990-03-21,Filed,,,1
+HB 144,713,House,1990-03-26,Referred to County Affairs,,186,3
+HB 144,713,House,1990-03-26,Read first time,,186,2
+HB 144,713,House,1990-03-23,Filed,,,1
+HR 38,713,House,1990-02-27,Reported enrolled,,,4
+HR 38,713,House,1990-02-27,Adopted,,2,3
+HR 38,713,House,1990-02-27,Rules suspended,,,2
+HR 38,713,House,1990-02-27,Filed,,,1
+HR 137,713,House,1990-03-27,Reported enrolled,,,7
+HR 137,713,House,1990-03-27,Adopted,,196,6
+HR 137,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 137,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 137,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 137,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 137,713,House,1990-03-21,Filed,,,1
+HR 138,713,House,1990-03-27,Reported enrolled,,,7
+HR 138,713,House,1990-03-27,Adopted,,196,6
+HR 138,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 138,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 138,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 138,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 138,713,House,1990-03-21,Filed,,,1
+HR 176,713,House,1990-03-28,Reported enrolled,,,4
+HR 176,713,House,1990-03-28,Adopted,,204,3
+HR 176,713,House,1990-03-28,Rules suspended,,204,2
+HR 176,713,House,1990-03-28,Filed,,,1
+HB 93,713,House,1990-03-07,Referred to Agriculture & Livestock,,47,3
+HB 93,713,House,1990-03-07,Read first time,,47,2
+HB 93,713,House,1990-03-05,Filed,,,1
+HCR 25,713,House,1990-03-08,Filed with the Secretary of State,,53,12
+HCR 25,713,Senate,1990-03-08,Signed in the Senate,,43,11
+HCR 25,713,House,1990-03-07,Signed in the House,,46,10
+HCR 25,713,House,1990-03-06,Reported enrolled,,43,9
+HCR 25,713,House,1990-03-06,Returned from the Senate,,41,8
+HCR 25,713,Senate,1990-03-06,Read & adopted,,40,7
+HCR 25,713,Senate,1990-03-06,Laid before the Senate,,40,6
+HCR 25,713,Senate,1990-03-06,Received from House,,40,5
+HCR 25,713,House,1990-03-06,Sent to the Senate,,,4
+HCR 25,713,House,1990-03-06,Adopted,,35,3
+HCR 25,713,House,1990-03-06,Rules suspended,,35,2
+HCR 25,713,House,1990-03-06,Filed,,,1
+HR 173,713,House,1990-03-28,Reported enrolled,,,4
+HR 173,713,House,1990-03-28,Adopted,,205,3
+HR 173,713,House,1990-03-28,Rules suspended,,205,2
+HR 173,713,House,1990-03-28,Filed,,,1
+HR 174,713,House,1990-03-28,Reported enrolled,,,4
+HR 174,713,House,1990-03-28,Adopted,,205,3
+HR 174,713,House,1990-03-28,Rules suspended,,205,2
+HR 174,713,House,1990-03-28,Filed,,,1
+HB 57,713,House,1990-03-21,Withdrawn from schedule,,,5
+HB 57,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HB 57,713,House,1990-02-27,Referred to Judicial Affairs,,13,3
+HB 57,713,House,1990-02-27,Read first time,,13,2
+HB 57,713,House,1990-02-14,Filed,,,1
+HCR 27,713,House,1990-03-08,"Referred to State, Fed. & Intl. Relations",,51,2
+HCR 27,713,House,1990-03-07,Filed,,,1
+HJR 8,713,House,1990-03-21,Withdrawn from schedule,,,5
+HJR 8,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HJR 8,713,House,1990-02-27,Referred to Judicial Affairs,,7,3
+HJR 8,713,House,1990-02-27,Read first time,,7,2
+HJR 8,713,House,1990-02-14,Filed,,,1
+HCR 42,713,House,1990-03-29,Signed by the Governor,,,16
+HCR 42,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 42,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 42,713,House,1990-03-28,Signed in the House,,207,13
+HCR 42,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 42,713,House,1990-03-28,Returned from the Senate,,203,11
+HCR 42,713,Senate,1990-03-27,Read & adopted,,106,10
+HCR 42,713,Senate,1990-03-27,Rules suspended,,106,9
+HCR 42,713,Senate,1990-03-27,Received from House,,93,8
+HCR 42,713,House,1990-03-27,Sent to the Senate,,,7
+HCR 42,713,House,1990-03-27,Adopted,,195,6
+HCR 42,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 42,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HCR 42,713,House,1990-03-22,Considered in formal meeting,,,3
+HCR 42,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 42,713,House,1990-03-19,Filed,,,1
+HR 53,713,House,1990-02-28,Reported enrolled,,,4
+HR 53,713,House,1990-02-28,Adopted,,17,3
+HR 53,713,House,1990-02-28,Rules suspended,,16,2
+HR 53,713,House,1990-02-28,Filed,,,1
+HR 149,713,House,1990-03-26,Reported enrolled,,,4
+HR 149,713,House,1990-03-26,Adopted,,187,3
+HR 149,713,House,1990-03-26,Rules suspended,,187,2
+HR 149,713,House,1990-03-23,Filed,,,1
+HR 150,713,House,1990-03-26,Reported enrolled,,,4
+HR 150,713,House,1990-03-26,Adopted,,187,3
+HR 150,713,House,1990-03-26,Rules suspended,,187,2
+HR 150,713,House,1990-03-23,Filed,,,1
+HR 151,713,House,1990-03-27,Reported enrolled,,,4
+HR 151,713,House,1990-03-27,Adopted,,197,3
+HR 151,713,House,1990-03-27,Rules suspended,,197,2
+HR 151,713,House,1990-03-23,Filed,,,1
+HR 152,713,House,1990-03-27,Reported enrolled,,,4
+HR 152,713,House,1990-03-27,Adopted,,198,3
+HR 152,713,House,1990-03-27,Rules suspended,,198,2
+HR 152,713,House,1990-03-23,Filed,,,1
+HR 162,713,House,1990-03-27,Reported enrolled,,,4
+HR 162,713,House,1990-03-27,Adopted,,198,3
+HR 162,713,House,1990-03-27,Rules suspended,,198,2
+HR 162,713,House,1990-03-23,Filed,,,1
+HR 169,713,House,1990-03-27,Reported enrolled,,,4
+HR 169,713,House,1990-03-27,Adopted,,198,3
+HR 169,713,House,1990-03-27,Rules suspended,,198,2
+HR 169,713,House,1990-03-27,Filed,,,1
+HR 7,713,House,1990-03-20,Reported enrolled,,,9
+HR 7,713,House,1990-03-20,Adopted,,82,8
+HR 7,713,House,1990-03-20,Rules suspended,,81,7
+HR 7,713,House,1990-03-05,Withdrawn from calendar,,30,6
+HR 7,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 7,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 7,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 7,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 7,713,House,1990-01-31,Filed,,,1
+HR 8,713,House,1990-03-05,Reported enrolled,,,7
+HR 8,713,House,1990-03-05,Adopted,,30,6
+HR 8,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 8,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 8,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 8,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 8,713,House,1990-01-31,Filed,,,1
+HR 19,713,House,1990-03-05,Reported enrolled,,,7
+HR 19,713,House,1990-03-05,Adopted,,31,6
+HR 19,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 19,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 19,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 19,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 19,713,House,1990-02-12,Filed,,,1
+HR 33,713,House,1990-02-27,Reported enrolled,,,4
+HR 33,713,House,1990-02-27,Adopted,,3,3
+HR 33,713,House,1990-02-27,Rules suspended,,3,2
+HR 33,713,House,1990-02-26,Filed,,,1
+HB 113,713,House,1990-03-14,Pending in committee,,,7
+HB 113,713,House,1990-03-14,Testimony received in committee,,,6
+HB 113,713,House,1990-03-14,Considered in public hearing,,,5
+HB 113,713,House,1990-03-14,Posting rule suspended,,62,4
+HB 113,713,House,1990-03-14,Referred to Public Education,,58,3
+HB 113,713,House,1990-03-14,Read first time,,58,2
+HB 113,713,House,1990-03-09,Filed,,,1
+HCR 33,713,House,1990-04-17,Signed by the Governor,,,14
+HCR 33,713,House,1990-03-28,Sent to the Governor,,207,13
+HCR 33,713,Senate,1990-03-28,Signed in the Senate,,112,12
+HCR 33,713,House,1990-03-28,Signed in the House,,203,11
+HCR 33,713,House,1990-03-27,Reported enrolled,,207,10
+HCR 33,713,House,1990-03-27,Returned from the Senate,,193,9
+HCR 33,713,Senate,1990-03-26,Read & adopted,,92,8
+HCR 33,713,Senate,1990-03-26,Rules suspended,,92,7
+HCR 33,713,Senate,1990-03-26,Received from House,,90,6
+HCR 33,713,House,1990-03-26,Sent to the Senate,,,5
+HCR 33,713,House,1990-03-23,Adopted,,180,4
+HCR 33,713,House,1990-03-23,Rules suspended,,180,3
+HCR 33,713,House,1990-03-19,Referred to Environmental Affairs,,75,2
+HCR 33,713,House,1990-03-15,Filed,,,1
+HR 14,713,House,1990-03-05,Reported enrolled,,,7
+HR 14,713,House,1990-03-05,Adopted,,30,6
+HR 14,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 14,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 14,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 14,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 14,713,House,1990-02-08,Filed,,,1
+HR 62,713,House,1990-03-14,Reported enrolled,,,7
+HR 62,713,House,1990-03-14,Adopted,,60,6
+HR 62,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 62,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 62,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 62,713,House,1990-03-05,Referred to Rules and Resolutions,,29,2
+HR 62,713,House,1990-03-01,Filed,,,1
+HR 142,713,House,1990-03-22,Reported enrolled,,,4
+HR 142,713,House,1990-03-22,Adopted,,93,3
+HR 142,713,House,1990-03-22,Rules suspended,,93,2
+HR 142,713,House,1990-03-22,Filed,,,1
+HB 34,713,House,1990-03-06,Pending in committee,,,7
+HB 34,713,House,1990-03-06,Testimony received in committee,,,6
+HB 34,713,House,1990-03-06,Considered in public hearing,,,5
+HB 34,713,House,1990-03-06,Scheduled for public hearing on  . . . . . .,,,4
+HB 34,713,House,1990-02-27,Referred to Public Education,,10,3
+HB 34,713,House,1990-02-27,Read first time,,10,2
+HB 34,713,House,1990-02-02,Filed,,,1
+HB 42,713,House,1990-02-27,Referred to County Affairs,,11,3
+HB 42,713,House,1990-02-27,Read first time,,11,2
+HB 42,713,House,1990-02-07,Filed,,,1
+HB 135,713,House,1990-03-26,Referred to Ways & Means,,185,3
+HB 135,713,House,1990-03-26,Read first time,,185,2
+HB 135,713,House,1990-03-20,Filed,,,1
+HB 124,713,House,1990-03-19,Referred to Public Health,,73,3
+HB 124,713,House,1990-03-19,Read first time,,73,2
+HB 124,713,House,1990-03-15,Filed,,,1
+HR 34,713,House,1990-03-05,Reported enrolled,,,7
+HR 34,713,House,1990-03-05,Adopted,,31,6
+HR 34,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 34,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 34,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 34,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 34,713,House,1990-02-26,Filed,,,1
+HR 154,713,House,1990-03-23,Filed,,,1
+HR 155,713,House,1990-03-23,Filed,,,1
+HB 120,713,House,1990-03-23,Recommendations filed with the Spkr.,,199,5
+HB 120,713,House,1990-03-15,Referred to Natural Resources,,66,4
+HB 120,713,House,1990-03-15,Read first time,,66,3
+HB 120,713,House,1990-03-14,Transmitted to the Governor,,77,2
+HB 120,713,House,1990-03-14,Filed,,,1
+HCR 44,713,House,1990-03-21,Referred to Redistricting,,87,2
+HCR 44,713,House,1990-03-20,Filed,,,1
+HCR 45,713,House,1990-03-21,Referred to Redistricting,,87,2
+HCR 45,713,House,1990-03-20,Filed,,,1
+HB 70,713,House,1990-02-27,Referred to Public Education,,14,3
+HB 70,713,House,1990-02-27,Read first time,,14,2
+HB 70,713,House,1990-02-23,Filed,,,1
+HB 102,713,House,1990-03-20,Coauthor authorized,,,4
+HB 102,713,House,1990-03-08,Referred to Public Education,,52,3
+HB 102,713,House,1990-03-08,Read first time,,52,2
+HB 102,713,House,1990-03-07,Filed,,,1
+HJR 12,713,House,1990-03-19,Coauthor authorized,,,4
+HJR 12,713,House,1990-03-07,Referred to State Affairs,,47,3
+HJR 12,713,House,1990-03-07,Read first time,,47,2
+HJR 12,713,House,1990-03-06,Filed,,,1
+HB 47,713,House,1990-02-27,Referred to Elections,,12,3
+HB 47,713,House,1990-02-27,Read first time,,12,2
+HB 47,713,House,1990-02-09,Filed,,,1
+HB 48,713,House,1990-02-27,Referred to Elections,,12,3
+HB 48,713,House,1990-02-27,Read first time,,12,2
+HB 48,713,House,1990-02-09,Filed,,,1
+HB 103,713,House,1990-03-08,Referred to Public Education,,52,3
+HB 103,713,House,1990-03-08,Read first time,,52,2
+HB 103,713,House,1990-03-07,Filed,,,1
+HB 125,713,House,1990-03-19,Referred to Public Education,,73,3
+HB 125,713,House,1990-03-19,Read first time,,73,2
+HB 125,713,House,1990-03-15,Filed,,,1
+HB 137,713,House,1990-03-26,Referred to Public Education,,185,3
+HB 137,713,House,1990-03-26,Read first time,,185,2
+HB 137,713,House,1990-03-21,Filed,,,1
+HCR 28,713,House,1990-03-26,Reported favorably w/o amendment(s),,207,5
+HCR 28,713,House,1990-03-26,Considered in public hearing,,,4
+HCR 28,713,House,1990-03-26,Scheduled for public hearing on  . . . . . .,,,3
+HCR 28,713,House,1990-03-08,Referred to State Affairs,,51,2
+HCR 28,713,House,1990-03-07,Filed,,,1
+HB 5,713,House,1990-03-06,Referred to subcommittee,,,7
+HB 5,713,House,1990-03-06,Testimony received in committee,,,6
+HB 5,713,House,1990-03-06,Considered in public hearing,,,5
+HB 5,713,House,1990-03-06,Scheduled for public hearing on  . . . . . .,,,4
+HB 5,713,House,1990-02-27,Referred to Public Safety,,8,3
+HB 5,713,House,1990-02-27,Read first time,,8,2
+HB 5,713,House,1990-01-29,Filed,,,1
+HB 139,713,House,1990-03-26,Referred to Public Education,,185,3
+HB 139,713,House,1990-03-26,Read first time,,185,2
+HB 139,713,House,1990-03-21,Filed,,,1
+HR 1,713,House,1990-03-27,Reported enrolled,,,7
+HR 1,713,House,1990-03-27,Adopted,,194,6
+HR 1,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 1,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 1,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 1,713,House,1990-03-21,Referred to Rules and Resolutions,,87,2
+HR 1,713,House,1990-03-20,Filed,,,1
+HCR 23,713,House,1990-03-21,Pending in committee,,,6
+HCR 23,713,House,1990-03-21,Testimony received in committee,,,5
+HCR 23,713,House,1990-03-21,Considered in public hearing,,,4
+HCR 23,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,3
+HCR 23,713,House,1990-03-07,Referred to Judicial Affairs,,46,2
+HCR 23,713,House,1990-03-06,Filed,,,1
+HR 63,713,House,1990-03-14,Reported enrolled,,,7
+HR 63,713,House,1990-03-14,Adopted,,62,6
+HR 63,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 63,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 63,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 63,713,House,1990-03-05,Referred to Rules and Resolutions,,29,2
+HR 63,713,House,1990-03-05,Filed,,,1
+HR 113,713,House,1990-03-27,Reported enrolled,,,7
+HR 113,713,House,1990-03-27,Adopted,,195,6
+HR 113,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 113,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 113,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 113,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 113,713,House,1990-03-15,Filed,,,1
+HB 45,713,House,1990-02-27,Referred to County Affairs,,11,3
+HB 45,713,House,1990-02-27,Read first time,,11,2
+HB 45,713,House,1990-02-08,Filed,,,1
+HB 46,713,House,1990-02-27,Referred to County Affairs,,12,3
+HB 46,713,House,1990-02-27,Read first time,,12,2
+HB 46,713,House,1990-02-08,Filed,,,1
+HB 68,713,House,1990-03-14,Reported favorably w/o amendment(s),,77,6
+HB 68,713,House,1990-03-14,Considered in formal meeting,,,5
+HB 68,713,House,1990-03-14,Posting rule suspended,,63,4
+HB 68,713,House,1990-02-27,Referred to State Affairs,,14,3
+HB 68,713,House,1990-02-27,Read first time,,14,2
+HB 68,713,House,1990-02-22,Filed,,,1
+HB 107,713,House,1990-03-22,Meeting canceled,,,5
+HB 107,713,House,1990-03-22,Scheduled for public hearing on  . . . . . .,,,4
+HB 107,713,House,1990-03-14,Referred to Financial Institutions,,57,3
+HB 107,713,House,1990-03-14,Read first time,,57,2
+HB 107,713,House,1990-03-08,Filed,,,1
+HR 32,713,House,1990-02-27,Reported enrolled,,,4
+HR 32,713,House,1990-02-27,Adopted,,3,3
+HR 32,713,House,1990-02-27,Rules suspended,,3,2
+HR 32,713,House,1990-02-23,Filed,,,1
+HR 4,713,House,1990-03-22,Reported enrolled,,,4
+HR 4,713,House,1990-03-22,Adopted,,92,3
+HR 4,713,House,1990-03-22,Rules suspended,,92,2
+HR 4,713,House,1990-03-21,Filed,,,1
+HR 5,713,House,1990-03-22,Reported enrolled,,,4
+HR 5,713,House,1990-03-22,Adopted,,93,3
+HR 5,713,House,1990-03-22,Rules suspended,,92,2
+HR 5,713,House,1990-03-21,Filed,,,1
+HR 129,713,House,1990-03-22,Reported enrolled,,,4
+HR 129,713,House,1990-03-22,Adopted,,93,3
+HR 129,713,House,1990-03-22,Rules suspended,,93,2
+HR 129,713,House,1990-03-21,Filed,,,1
+HR 131,713,House,1990-03-22,Reported enrolled,,,4
+HR 131,713,House,1990-03-22,Adopted,,93,3
+HR 131,713,House,1990-03-22,Rules suspended,,93,2
+HR 131,713,House,1990-03-21,Filed,,,1
+HB 73,713,House,1990-03-01,Referred to Judiciary,,24,3
+HB 73,713,House,1990-03-01,Read first time,,24,2
+HB 73,713,House,1990-02-27,Filed,,,1
+HCR 11,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 11,713,House,1990-03-28,Sent to the Governor,,207,15
+HCR 11,713,Senate,1990-03-28,Signed in the Senate,,112,14
+HCR 11,713,House,1990-03-28,Signed in the House,,207,13
+HCR 11,713,House,1990-03-28,Reported enrolled,,207,12
+HCR 11,713,House,1990-03-28,Returned from the Senate,,203,11
+HCR 11,713,Senate,1990-03-27,Read & adopted,,105,10
+HCR 11,713,Senate,1990-03-27,Rules suspended,,105,9
+HCR 11,713,Senate,1990-03-14,Received from House,,49,8
+HCR 11,713,House,1990-03-14,Sent to the Senate,,,7
+HCR 11,713,House,1990-03-14,Adopted,,61,6
+HCR 11,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 11,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HCR 11,713,House,1990-03-07,Considered in formal meeting,,,3
+HCR 11,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HCR 11,713,House,1990-02-27,Filed,,,1
+HJR 5,713,House,1990-02-27,Referred to Criminal Jurisprudence,,7,3
+HJR 5,713,House,1990-02-27,Read first time,,7,2
+HJR 5,713,House,1990-02-08,Filed,,,1
+HJR 6,713,House,1990-02-27,Referred to Criminal Jurisprudence,,7,3
+HJR 6,713,House,1990-02-27,Read first time,,7,2
+HJR 6,713,House,1990-02-08,Filed,,,1
+HJR 10,713,House,1990-03-01,Referred to State Affairs,,24,3
+HJR 10,713,House,1990-03-01,Read first time,,24,2
+HJR 10,713,House,1990-02-27,Filed,,,1
+HR 119,713,House,1990-03-27,Reported enrolled,,,7
+HR 119,713,House,1990-03-27,Adopted,,195,6
+HR 119,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 119,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 119,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 119,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 119,713,House,1990-03-19,Filed,,,1
+HB 23,713,House,1990-02-27,Referred to Criminal Jurisprudence,,9,3
+HB 23,713,House,1990-02-27,Read first time,,9,2
+HB 23,713,House,1990-01-31,Filed,,,1
+HB 24,713,House,1990-02-27,Referred to Criminal Jurisprudence,,10,3
+HB 24,713,House,1990-02-27,Read first time,,10,2
+HB 24,713,House,1990-01-31,Filed,,,1
+HB 112,713,House,1990-03-21,Recommendations filed with the Spkr.,,181,5
+HB 112,713,House,1990-03-14,Referred to Natural Resources,,57,4
+HB 112,713,House,1990-03-14,Read first time,,57,3
+HB 112,713,House,1990-03-12,Transmitted to the Governor,,77,2
+HB 112,713,House,1990-03-09,Filed,,,1
+HCR 32,713,House,1990-04-17,Signed by the Governor,,,17
+HCR 32,713,House,1990-03-23,Sent to the Governor,,190,16
+HCR 32,713,Senate,1990-03-23,Signed in the Senate,,89,15
+HCR 32,713,House,1990-03-22,Signed in the House,,123,14
+HCR 32,713,House,1990-03-22,Reported enrolled,,181,13
+HCR 32,713,House,1990-03-22,Returned from the Senate,,90,12
+HCR 32,713,Senate,1990-03-21,Read & adopted,,87,11
+HCR 32,713,Senate,1990-03-21,Rules suspended,,87,10
+HCR 32,713,Senate,1990-03-21,Received from House,,85,9
+HCR 32,713,House,1990-03-21,Sent to the Senate,,,8
+HCR 32,713,House,1990-03-20,Adopted,,83,7
+HCR 32,713,House,1990-03-20,Rules suspended,,82,6
+HCR 32,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 32,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 32,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 32,713,House,1990-03-15,Referred to Rules and Resolutions,,66,2
+HCR 32,713,House,1990-03-14,Filed,,,1
+HR 49,713,House,1990-03-14,Reported enrolled,,,7
+HR 49,713,House,1990-03-14,Adopted,,61,6
+HR 49,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 49,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 49,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 49,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 49,713,House,1990-02-28,Filed,,,1
+HR 50,713,House,1990-03-14,Reported enrolled,,,7
+HR 50,713,House,1990-03-14,Adopted,,61,6
+HR 50,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 50,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 50,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 50,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 50,713,House,1990-02-28,Filed,,,1
+HR 51,713,House,1990-03-14,Reported enrolled,,,7
+HR 51,713,House,1990-03-14,Adopted,,61,6
+HR 51,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 51,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 51,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 51,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 51,713,House,1990-02-28,Filed,,,1
+HR 52,713,House,1990-03-14,Reported enrolled,,,7
+HR 52,713,House,1990-03-14,Adopted,,61,6
+HR 52,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 52,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 52,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 52,713,House,1990-02-28,Referred to Rules and Resolutions,,19,2
+HR 52,713,House,1990-02-28,Filed,,,1
+HR 65,713,House,1990-03-14,Reported enrolled,,,7
+HR 65,713,House,1990-03-14,Adopted,,62,6
+HR 65,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 65,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 65,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 65,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 65,713,House,1990-03-05,Filed,,,1
+HR 96,713,House,1990-03-22,Withdrawn from calendar,,92,6
+HR 96,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 96,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 96,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 96,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 96,713,House,1990-03-14,Filed,,,1
+HR 164,713,House,1990-03-27,Reported enrolled,,,4
+HR 164,713,House,1990-03-27,Adopted,,193,3
+HR 164,713,House,1990-03-27,Rules suspended,,193,2
+HR 164,713,House,1990-03-26,Filed,,,1
+HB 67,713,House,1990-02-27,Referred to County Affairs,,13,3
+HB 67,713,House,1990-02-27,Read first time,,13,2
+HB 67,713,House,1990-02-22,Filed,,,1
+HR 74,713,House,1990-03-14,Reported enrolled,,,7
+HR 74,713,House,1990-03-14,Adopted,,62,6
+HR 74,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 74,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 74,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 74,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 74,713,House,1990-03-06,Filed,,,1
+HR 126,713,House,1990-03-27,Reported enrolled,,,7
+HR 126,713,House,1990-03-27,Adopted,,196,6
+HR 126,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 126,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 126,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 126,713,House,1990-03-20,Referred to Rules and Resolutions,,81,2
+HR 126,713,House,1990-03-20,Filed,,,1
+HB 9,713,House,1990-02-27,Referred to Transportation,,8,3
+HB 9,713,House,1990-02-27,Read first time,,8,2
+HB 9,713,House,1990-01-29,Filed,,,1
+HB 10,713,House,1990-02-27,Referred to Transportation,,8,3
+HB 10,713,House,1990-02-27,Read first time,,8,2
+HB 10,713,House,1990-01-29,Filed,,,1
+HB 11,713,House,1990-02-27,Referred to Judiciary,,8,3
+HB 11,713,House,1990-02-27,Read first time,,8,2
+HB 11,713,House,1990-01-29,Filed,,,1
+HB 71,713,House,1990-03-22,Reported favorably w/amendment(s),,189,7
+HB 71,713,House,1990-03-22,Considered in formal meeting,,,6
+HB 71,713,House,1990-03-22,Rules suspended,,123,5
+HB 71,713,House,1990-03-20,Coauthor authorized,,,4
+HB 71,713,House,1990-02-27,Referred to Appropriations,,14,3
+HB 71,713,House,1990-02-27,Read first time,,14,2
+HB 71,713,House,1990-02-23,Filed,,,1
+HB 97,713,House,1990-03-07,Referred to Public Education,,48,3
+HB 97,713,House,1990-03-07,Read first time,,48,2
+HB 97,713,House,1990-03-06,Filed,,,1
+HB 99,713,House,1990-03-07,Referred to Public Education,,48,3
+HB 99,713,House,1990-03-07,Read first time,,48,2
+HB 99,713,House,1990-03-06,Filed,,,1
+HB 104,713,House,1990-03-08,Referred to Public Education,,52,3
+HB 104,713,House,1990-03-08,Read first time,,52,2
+HB 104,713,House,1990-03-08,Filed,,,1
+HB 116,713,House,1990-03-26,Recommendations filed with the Spkr.,,199,5
+HB 116,713,House,1990-03-14,Referred to Natural Resources,,58,4
+HB 116,713,House,1990-03-14,Read first time,,58,3
+HB 116,713,House,1990-03-13,Transmitted to the Governor,,77,2
+HB 116,713,House,1990-03-13,Filed,,,1
+HB 138,713,House,1990-03-26,Referred to Appropriations,,185,3
+HB 138,713,House,1990-03-26,Read first time,,185,2
+HB 138,713,House,1990-03-21,Filed,,,1
+HR 117,713,House,1990-03-26,Reported enrolled,,,8
+HR 117,713,House,1990-03-26,Adopted,,187,7
+HR 117,713,House,1990-03-26,Rules suspended,,186,6
+HR 117,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 117,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 117,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 117,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 117,713,House,1990-03-16,Filed,,,1
+HB 83,713,House,1990-03-01,Referred to Criminal Jurisprudence,,25,3
+HB 83,713,House,1990-03-01,Read first time,,25,2
+HB 83,713,House,1990-02-28,Filed,,,1
+HB 84,713,House,1990-03-01,Referred to Judicial Affairs,,25,3
+HB 84,713,House,1990-03-01,Read first time,,25,2
+HB 84,713,House,1990-02-28,Filed,,,1
+HCR 4,713,House,1990-04-17,Signed by the Governor,,,13
+HCR 4,713,House,1990-03-27,Sent to the Governor,,207,12
+HCR 4,713,Senate,1990-03-27,Signed in the Senate,,93,11
+HCR 4,713,House,1990-03-27,Signed in the House,,193,10
+HCR 4,713,House,1990-03-26,Reported enrolled,,199,9
+HCR 4,713,House,1990-03-26,Returned from the Senate,,184,8
+HCR 4,713,Senate,1990-03-23,Read & adopted,,90,7
+HCR 4,713,Senate,1990-03-23,Rules suspended,,90,6
+HCR 4,713,Senate,1990-03-23,Received from House,,88,5
+HCR 4,713,House,1990-03-23,Sent to the Senate,,,4
+HCR 4,713,House,1990-03-22,Adopted,,94,3
+HCR 4,713,House,1990-03-22,Rules suspended,,94,2
+HCR 4,713,House,1990-03-22,Filed,,,1
+HCR 6,713,House,1990-03-28,Returned from Senate as amended,,203,13
+HCR 6,713,Senate,1990-03-27,Adopted as amended,,104,12
+HCR 6,713,Senate,1990-03-27,Amended,,104,11
+HCR 6,713,Senate,1990-03-27,Laid before the Senate,,104,10
+HCR 6,713,Senate,1990-03-26,Received from House,,90,9
+HCR 6,713,House,1990-03-26,Sent to the Senate,,,8
+HCR 6,713,House,1990-03-23,Adopted,,180,7
+HCR 6,713,House,1990-03-23,Rules suspended,,180,6
+HCR 6,713,House,1990-03-14,Reported favorably w/o amendment(s),,68,5
+HCR 6,713,House,1990-03-14,Considered in formal meeting,,,4
+HCR 6,713,House,1990-03-14,Posting rule suspended,,62,3
+HCR 6,713,House,1990-02-27,Referred to Environmental Affairs,,4,2
+HCR 6,713,House,1990-01-30,Filed,,,1
+HCR 26,713,House,1990-04-17,Signed by the Governor,,,16
+HCR 26,713,House,1990-03-27,Sent to the Governor,,207,15
+HCR 26,713,Senate,1990-03-27,Signed in the Senate,,93,14
+HCR 26,713,House,1990-03-27,Signed in the House,,193,13
+HCR 26,713,House,1990-03-26,Reported enrolled,,199,12
+HCR 26,713,House,1990-03-26,Returned from the Senate,,184,11
+HCR 26,713,Senate,1990-03-23,Read & adopted,,90,10
+HCR 26,713,Senate,1990-03-23,Rules suspended,,90,9
+HCR 26,713,Senate,1990-03-23,Received from House,,88,8
+HCR 26,713,House,1990-03-23,Sent to the Senate,,,7
+HCR 26,713,House,1990-03-22,Adopted,,90,6
+HCR 26,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 26,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HCR 26,713,House,1990-03-19,Considered in formal meeting,,,3
+HCR 26,713,House,1990-03-07,Referred to Rules and Resolutions,,46,2
+HCR 26,713,House,1990-03-06,Filed,,,1
+HR 75,713,House,1990-03-19,Reported enrolled,,,5
+HR 75,713,House,1990-03-19,Adopted,,76,4
+HR 75,713,House,1990-03-19,Rules suspended,,76,3
+HR 75,713,House,1990-03-07,Referred to Rules and Resolutions,,46,2
+HR 75,713,House,1990-03-06,Filed,,,1
+HCR 9,713,House,1990-03-19,Signed by the Governor,,,16
+HCR 9,713,House,1990-03-08,Sent to the Governor,,53,15
+HCR 9,713,Senate,1990-03-08,Signed in the Senate,,43,14
+HCR 9,713,House,1990-03-07,Signed in the House,,46,13
+HCR 9,713,House,1990-03-06,Reported enrolled,,43,12
+HCR 9,713,House,1990-03-06,Returned from the Senate,,41,11
+HCR 9,713,Senate,1990-03-06,Read & adopted,,42,10
+HCR 9,713,Senate,1990-03-06,Rules suspended,,42,9
+HCR 9,713,Senate,1990-03-05,Received from House,,38,8
+HCR 9,713,House,1990-03-05,Sent to the Senate,,,7
+HCR 9,713,House,1990-03-05,Adopted,,30,6
+HCR 9,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 9,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HCR 9,713,House,1990-02-28,Considered in formal meeting,,,3
+HCR 9,713,House,1990-02-27,Referred to Rules and Resolutions,,4,2
+HCR 9,713,House,1990-02-08,Filed,,,1
+HR 28,713,House,1990-03-05,Reported enrolled,,,7
+HR 28,713,House,1990-03-05,Adopted,,31,6
+HR 28,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 28,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 28,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 28,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 28,713,House,1990-02-21,Filed,,,1
+HR 29,713,House,1990-02-28,Reported enrolled,,,5
+HR 29,713,House,1990-02-28,Adopted,,18,4
+HR 29,713,House,1990-02-28,Rules suspended,,18,3
+HR 29,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 29,713,House,1990-02-21,Filed,,,1
+HR 73,713,House,1990-03-14,Reported enrolled,,,7
+HR 73,713,House,1990-03-14,Adopted,,61,6
+HR 73,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 73,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 73,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 73,713,House,1990-03-06,Referred to Rules and Resolutions,,42,2
+HR 73,713,House,1990-03-06,Filed,,,1
+HB 6,713,House,1990-02-27,Referred to Appropriations,,8,3
+HB 6,713,House,1990-02-27,Read first time,,8,2
+HB 6,713,House,1990-01-29,Filed,,,1
+HB 20,713,House,1990-02-27,Referred to Appropriations,,9,3
+HB 20,713,House,1990-02-27,Read first time,,9,2
+HB 20,713,House,1990-01-30,Filed,,,1
+HB 36,713,House,1990-02-27,Referred to Appropriations,,11,3
+HB 36,713,House,1990-02-27,Read first time,,11,2
+HB 36,713,House,1990-02-05,Filed,,,1
+HB 85,713,House,1990-03-06,Referred to Appropriations,,41,3
+HB 85,713,House,1990-03-06,Read first time,,41,2
+HB 85,713,House,1990-02-28,Filed,,,1
+HB 131,713,House,1990-03-19,Referred to Criminal Jurisprudence,,74,3
+HB 131,713,House,1990-03-19,Read first time,,74,2
+HB 131,713,House,1990-03-19,Filed,,,1
+HCR 13,713,House,1990-03-01,Referred to Ways & Means,,23,2
+HCR 13,713,House,1990-02-28,Filed,,,1
+HCR 17,713,House,1990-03-01,Referred to Ways & Means,,23,2
+HCR 17,713,House,1990-02-28,Filed,,,1
+HJR 11,713,House,1990-03-07,Referred to Ways & Means,,47,3
+HJR 11,713,House,1990-03-07,Read first time,,47,2
+HJR 11,713,House,1990-03-05,Filed,,,1
+HJR 13,713,House,1990-03-08,Referred to Ways & Means,,51,3
+HJR 13,713,House,1990-03-08,Read first time,,51,2
+HJR 13,713,House,1990-03-07,Filed,,,1
+HR 6,713,House,1990-03-05,Reported enrolled,,,7
+HR 6,713,House,1990-03-05,Adopted,,29,6
+HR 6,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 6,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 6,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 6,713,House,1990-02-27,Referred to Rules and Resolutions,,4,2
+HR 6,713,House,1990-01-30,Filed,,,1
+HR 143,713,House,1990-03-22,Filed,,,1
+HR 148,713,House,1990-03-22,Filed,,,1
+HB 106,713,House,1990-03-14,Referred to Public Health,,57,3
+HB 106,713,House,1990-03-14,Read first time,,57,2
+HB 106,713,House,1990-03-08,Filed,,,1
+HCR 30,713,House,1990-03-14,"Referred to State, Fed. & Intl. Relations",,58,2
+HCR 30,713,House,1990-03-08,Filed,,,1
+HR 94,713,House,1990-03-14,Reported enrolled,,,4
+HR 94,713,House,1990-03-14,Adopted,,60,3
+HR 94,713,House,1990-03-14,Rules suspended,,59,2
+HR 94,713,House,1990-03-14,Filed,,,1
+HB 41,713,House,1990-03-14,No action taken in committee,,,5
+HB 41,713,House,1990-03-14,Scheduled for public hearing on  . . . . . .,,,4
+HB 41,713,House,1990-02-27,Referred to Natural Resources,,11,3
+HB 41,713,House,1990-02-27,Read first time,,11,2
+HB 41,713,House,1990-02-07,Filed,,,1
+HB 91,713,House,1990-03-14,No action taken in committee,,,7
+HB 91,713,House,1990-03-14,Scheduled for public hearing on  . . . . . .,,,6
+HB 91,713,House,1990-03-14,Recommendations filed with the Spkr.,,69,5
+HB 91,713,House,1990-03-06,Referred to Natural Resources,,42,4
+HB 91,713,House,1990-03-06,Read first time,,42,3
+HB 91,713,House,1990-03-02,Transmitted to the Governor,,77,2
+HB 91,713,House,1990-03-02,Filed,,,1
+HJR 16,713,House,1990-03-21,Pending in committee,,,7
+HJR 16,713,House,1990-03-21,Testimony received in committee,,,6
+HJR 16,713,House,1990-03-21,Considered in public hearing,,,5
+HJR 16,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HJR 16,713,House,1990-03-14,Referred to Judicial Affairs,,57,3
+HJR 16,713,House,1990-03-14,Read first time,,57,2
+HJR 16,713,House,1990-03-14,Filed,,,1
+HJR 17,713,House,1990-03-20,Referred to Judicial Affairs,,81,3
+HJR 17,713,House,1990-03-20,Read first time,,81,2
+HJR 17,713,House,1990-03-20,Filed,,,1
+HR 93,713,House,1990-03-22,Reported enrolled,,,7
+HR 93,713,House,1990-03-22,Adopted,,91,6
+HR 93,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 93,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 93,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 93,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 93,713,House,1990-03-13,Filed,,,1
+HR 172,713,House,1990-03-28,Reported enrolled,,,4
+HR 172,713,House,1990-03-28,Adopted,,206,3
+HR 172,713,House,1990-03-28,Rules suspended,,206,2
+HR 172,713,House,1990-03-28,Filed,,,1
+HR 36,713,House,1990-03-05,Reported enrolled,,,7
+HR 36,713,House,1990-03-05,Adopted,,31,6
+HR 36,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 36,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 36,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 36,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 36,713,House,1990-02-26,Filed,,,1
+HR 170,713,House,1990-03-27,Reported enrolled,,,4
+HR 170,713,House,1990-03-27,Adopted,,196,3
+HR 170,713,House,1990-03-27,Rules suspended,,196,2
+HR 170,713,House,1990-03-27,Filed,,,1
+HR 145,713,House,1990-03-22,Reported enrolled,,,4
+HR 145,713,House,1990-03-22,Adopted,,96,3
+HR 145,713,House,1990-03-22,Rules suspended,,95,2
+HR 145,713,House,1990-03-22,Filed,,,1
+HR 59,713,House,1990-03-14,Reported enrolled,,,7
+HR 59,713,House,1990-03-14,Adopted,,60,6
+HR 59,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 59,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 59,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 59,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 59,713,House,1990-02-28,Filed,,,1
+HR 112,713,House,1990-03-27,Reported enrolled,,,7
+HR 112,713,House,1990-03-27,Adopted,,195,6
+HR 112,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 112,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,4
+HR 112,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 112,713,House,1990-03-19,Referred to Rules and Resolutions,,74,2
+HR 112,713,House,1990-03-15,Filed,,,1
+HR 44,713,House,1990-02-28,Reported enrolled,,,4
+HR 44,713,House,1990-02-28,Adopted,,17,3
+HR 44,713,House,1990-02-28,Rules suspended,,17,2
+HR 44,713,House,1990-02-27,Filed,,,1
+HR 45,713,House,1990-02-28,Reported enrolled,,,4
+HR 45,713,House,1990-02-28,Adopted,,17,3
+HR 45,713,House,1990-02-28,Rules suspended,,17,2
+HR 45,713,House,1990-02-27,Filed,,,1
+HR 66,713,House,1990-03-06,Reported enrolled,,,4
+HR 66,713,House,1990-03-06,Adopted,,35,3
+HR 66,713,House,1990-03-06,Rules suspended,,35,2
+HR 66,713,House,1990-03-05,Filed,,,1
+HB 74,713,House,1990-03-01,Referred to County Affairs,,24,3
+HB 74,713,House,1990-03-01,Read first time,,24,2
+HB 74,713,House,1990-02-27,Filed,,,1
+HB 98,713,House,1990-03-15,No action taken in committee,,,5
+HB 98,713,House,1990-03-14,Scheduled for public hearing on  . . . . . .,,,4
+HB 98,713,House,1990-03-07,Referred to Natural Resources,,48,3
+HB 98,713,House,1990-03-07,Read first time,,48,2
+HB 98,713,House,1990-03-06,Filed,,,1
+HR 30,713,House,1990-03-05,Reported enrolled,,,7
+HR 30,713,House,1990-03-05,Adopted,,30,6
+HR 30,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 30,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 30,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 30,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 30,713,House,1990-02-22,Filed,,,1
+HR 31,713,House,1990-03-05,Reported enrolled,,,7
+HR 31,713,House,1990-03-05,Adopted,,30,6
+HR 31,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 31,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 31,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 31,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 31,713,House,1990-02-22,Filed,,,1
+HB 32,713,House,1990-02-27,Referred to County Affairs,,10,3
+HB 32,713,House,1990-02-27,Read first time,,10,2
+HB 32,713,House,1990-02-02,Filed,,,1
+HB 105,713,House,1990-03-08,Referred to Transportation,,52,3
+HB 105,713,House,1990-03-08,Read first time,,52,2
+HB 105,713,House,1990-03-08,Filed,,,1
+HB 110,713,House,1990-03-14,Referred to Environmental Affairs,,57,3
+HB 110,713,House,1990-03-14,Read first time,,57,2
+HB 110,713,House,1990-03-08,Filed,,,1
+HR 72,713,House,1990-03-06,Reported enrolled,,,4
+HR 72,713,House,1990-03-06,Adopted,,35,3
+HR 72,713,House,1990-03-06,Rules suspended,,34,2
+HR 72,713,House,1990-03-06,Filed,,,1
+HR 139,713,House,1990-03-27,Reported enrolled,,,7
+HR 139,713,House,1990-03-27,Adopted,,196,6
+HR 139,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 139,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 139,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 139,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 139,713,House,1990-03-21,Filed,,,1
+HB 43,713,House,1990-02-27,Referred to Transportation,,11,3
+HB 43,713,House,1990-02-27,Read first time,,11,2
+HB 43,713,House,1990-02-07,Filed,,,1
+HCR 8,713,House,1990-02-27,"Referred to State, Fed. & Intl. Relations",,4,2
+HCR 8,713,House,1990-02-07,Filed,,,1
+HCR 50,713,House,1990-04-17,Signed by the Governor,,,14
+HCR 50,713,House,1990-03-28,Sent to the Governor,,207,13
+HCR 50,713,Senate,1990-03-28,Signed in the Senate,,112,12
+HCR 50,713,House,1990-03-28,Signed in the House,,207,11
+HCR 50,713,House,1990-03-28,Reported enrolled,,207,10
+HCR 50,713,House,1990-03-28,Returned from the Senate,,203,9
+HCR 50,713,Senate,1990-03-27,Read & adopted,,106,8
+HCR 50,713,Senate,1990-03-27,Rules suspended,,106,7
+HCR 50,713,Senate,1990-03-27,Received from House,,93,6
+HCR 50,713,House,1990-03-27,Sent to the Senate,,,5
+HCR 50,713,House,1990-03-27,Adopted,,193,4
+HCR 50,713,House,1990-03-27,Rules suspended,,193,3
+HCR 50,713,House,1990-03-26,Referred to Redistricting,,185,2
+HCR 50,713,House,1990-03-23,Filed,,,1
+HB 122,713,House,1990-03-19,Referred to Transportation,,73,3
+HB 122,713,House,1990-03-19,Read first time,,73,2
+HB 122,713,House,1990-03-15,Filed,,,1
+HR 163,713,House,1990-03-27,Reported enrolled,,,4
+HR 163,713,House,1990-03-27,Adopted,,194,3
+HR 163,713,House,1990-03-27,Rules suspended,,194,2
+HR 163,713,House,1990-03-26,Filed,,,1
+HR 175,713,House,1990-03-28,Reported enrolled,,,4
+HR 175,713,House,1990-03-28,Adopted,,205,3
+HR 175,713,House,1990-03-28,Rules suspended,,205,2
+HR 175,713,House,1990-03-28,Filed,,,1
+HR 57,713,House,1990-03-14,Reported enrolled,,,7
+HR 57,713,House,1990-03-14,Adopted,,61,6
+HR 57,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 57,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 57,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 57,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 57,713,House,1990-02-28,Filed,,,1
+HR 76,713,House,1990-03-22,Reported enrolled,,,7
+HR 76,713,House,1990-03-22,Adopted,,90,6
+HR 76,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 76,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 76,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 76,713,House,1990-03-07,Referred to Rules and Resolutions,,46,2
+HR 76,713,House,1990-03-06,Filed,,,1
+HR 77,713,House,1990-03-22,Reported enrolled,,,7
+HR 77,713,House,1990-03-22,Adopted,,91,6
+HR 77,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 77,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 77,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 77,713,House,1990-03-07,Referred to Rules and Resolutions,,46,2
+HR 77,713,House,1990-03-06,Filed,,,1
+HR 87,713,House,1990-03-22,Reported enrolled,,,7
+HR 87,713,House,1990-03-22,Adopted,,91,6
+HR 87,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 87,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 87,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 87,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 87,713,House,1990-03-08,Filed,,,1
+HB 111,713,House,1990-03-14,Referred to Appropriations,,57,3
+HB 111,713,House,1990-03-14,Read first time,,57,2
+HB 111,713,House,1990-03-08,Filed,,,1
+HB 26,713,House,1990-02-27,Referred to Criminal Jurisprudence,,10,3
+HB 26,713,House,1990-02-27,Read first time,,10,2
+HB 26,713,House,1990-01-31,Filed,,,1
+HR 88,713,House,1990-03-20,Reported enrolled,,,8
+HR 88,713,House,1990-03-20,Adopted,,81,7
+HR 88,713,House,1990-03-20,Rules suspended,,81,6
+HR 88,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 88,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 88,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 88,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 88,713,House,1990-03-12,Filed,,,1
+HCR 36,713,House,1990-04-03,Signed by the Governor,,,18
+HCR 36,713,House,1990-03-28,Sent to the Governor,,207,17
+HCR 36,713,Senate,1990-03-28,Signed in the Senate,,112,16
+HCR 36,713,House,1990-03-28,Signed in the House,,207,15
+HCR 36,713,House,1990-03-28,Reported enrolled,,207,14
+HCR 36,713,House,1990-03-28,Returned from the Senate,,205,13
+HCR 36,713,Senate,1990-03-28,Read & adopted,,114,12
+HCR 36,713,Senate,1990-03-28,Laid before the Senate,,114,11
+HCR 36,713,Senate,1990-03-27,Received from House,,93,10
+HCR 36,713,House,1990-03-27,Sent to the Senate,,,9
+HCR 36,713,House,1990-03-27,Coauthor authorized,,,8
+HCR 36,713,House,1990-03-27,Adopted,,194,7
+HCR 36,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,6
+HCR 36,713,House,1990-03-22,Reported favorably w/o amendment(s),,189,5
+HCR 36,713,House,1990-03-22,Considered in formal meeting,,,4
+HCR 36,713,House,1990-03-20,Coauthor authorized,,,3
+HCR 36,713,House,1990-03-19,Referred to Rules and Resolutions,,75,2
+HCR 36,713,House,1990-03-19,Filed,,,1
+HR 85,713,House,1990-03-22,Reported enrolled,,,7
+HR 85,713,House,1990-03-22,Adopted,,91,6
+HR 85,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 85,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 85,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 85,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 85,713,House,1990-03-08,Filed,,,1
+HR 134,713,House,1990-03-27,Reported enrolled,,,7
+HR 134,713,House,1990-03-27,Adopted,,196,6
+HR 134,713,House,1990-03-27,Placed on Congratulatory & Mem. Cal.,,,5
+HR 134,713,House,1990-03-22,Reported favorably w/o amendment(s),,190,4
+HR 134,713,House,1990-03-22,Considered in formal meeting,,,3
+HR 134,713,House,1990-03-22,Referred to Rules and Resolutions,,95,2
+HR 134,713,House,1990-03-21,Filed,,,1
+HB 115,713,House,1990-03-14,Referred to Appropriations,,58,3
+HB 115,713,House,1990-03-14,Read first time,,58,2
+HB 115,713,House,1990-03-12,Filed,,,1
+HB 75,713,House,1990-03-01,Referred to Insurance,,24,3
+HB 75,713,House,1990-03-01,Read first time,,24,2
+HB 75,713,House,1990-02-27,Filed,,,1
+HB 4,713,House,1990-02-27,Referred to Ways & Means,,8,3
+HB 4,713,House,1990-02-27,Read first time,,8,2
+HB 4,713,House,1990-01-29,Filed,,,1
+HB 12,713,House,1990-03-14,No action taken in committee,,,6
+HB 12,713,House,1990-03-14,Scheduled for public hearing on  . . . . . .,,,5
+HB 12,713,House,1990-03-02,Recommendations filed with the Spkr.,,43,4
+HB 12,713,House,1990-02-27,Referred to Natural Resources,,8,3
+HB 12,713,House,1990-02-27,Read first time,,8,2
+HB 12,713,House,1990-01-30,Filed,,,1
+HB 136,713,House,1990-03-26,Referred to State Affairs,,185,3
+HB 136,713,House,1990-03-26,Read first time,,185,2
+HB 136,713,House,1990-03-21,Filed,,,1
+HB 13,713,House,1990-02-27,Referred to Transportation,,9,3
+HB 13,713,House,1990-02-27,Read first time,,9,2
+HB 13,713,House,1990-01-30,Filed,,,1
+HB 95,713,House,1990-03-07,Referred to County Affairs,,47,3
+HB 95,713,House,1990-03-07,Read first time,,47,2
+HB 95,713,House,1990-03-06,Filed,,,1
+HR 20,713,House,1990-03-05,Reported enrolled,,,7
+HR 20,713,House,1990-03-05,Adopted,,29,6
+HR 20,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 20,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 20,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 20,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 20,713,House,1990-02-13,Filed,,,1
+HR 39,713,House,1990-03-05,Reported enrolled,,,7
+HR 39,713,House,1990-03-05,Adopted,,31,6
+HR 39,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 39,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 39,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 39,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 39,713,House,1990-02-27,Filed,,,1
+HR 40,713,House,1990-03-05,Reported enrolled,,,7
+HR 40,713,House,1990-03-05,Adopted,,30,6
+HR 40,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 40,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 40,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 40,713,House,1990-02-27,Referred to Rules and Resolutions,,6,2
+HR 40,713,House,1990-02-27,Filed,,,1
+HR 92,713,House,1990-03-22,Reported enrolled,,,7
+HR 92,713,House,1990-03-22,Adopted,,90,6
+HR 92,713,House,1990-03-22,Placed on Congratulatory & Mem. Cal.,,,5
+HR 92,713,House,1990-03-19,Reported favorably w/o amendment(s),,83,4
+HR 92,713,House,1990-03-19,Considered in formal meeting,,,3
+HR 92,713,House,1990-03-14,Referred to Rules and Resolutions,,59,2
+HR 92,713,House,1990-03-13,Filed,,,1
+HB 16,713,House,1990-02-27,Referred to Urban Affairs,,9,3
+HB 16,713,House,1990-02-27,Read first time,,9,2
+HB 16,713,House,1990-01-30,Filed,,,1
+HB 17,713,House,1990-02-27,Referred to Ways & Means,,9,3
+HB 17,713,House,1990-02-27,Read first time,,9,2
+HB 17,713,House,1990-01-30,Filed,,,1
+HB 18,713,House,1990-02-27,Referred to State Affairs,,9,3
+HB 18,713,House,1990-02-27,Read first time,,9,2
+HB 18,713,House,1990-01-30,Filed,,,1
+HB 19,713,House,1990-02-27,Referred to State Affairs,,9,3
+HB 19,713,House,1990-02-27,Read first time,,9,2
+HB 19,713,House,1990-01-30,Filed,,,1
+HB 21,713,House,1990-02-27,Referred to Criminal Jurisprudence,,9,3
+HB 21,713,House,1990-02-27,Read first time,,9,2
+HB 21,713,House,1990-01-31,Filed,,,1
+HB 22,713,House,1990-02-27,Referred to Liquor Regulation,,9,3
+HB 22,713,House,1990-02-27,Read first time,,9,2
+HB 22,713,House,1990-01-31,Filed,,,1
+HB 25,713,House,1990-02-27,Referred to Urban Affairs,,10,3
+HB 25,713,House,1990-02-27,Read first time,,10,2
+HB 25,713,House,1990-01-31,Filed,,,1
+HB 79,713,House,1990-03-01,Referred to Public Health,,25,3
+HB 79,713,House,1990-03-01,Read first time,,25,2
+HB 79,713,House,1990-02-27,Filed,,,1
+HB 118,713,House,1990-03-14,Referred to Ways & Means,,58,3
+HB 118,713,House,1990-03-14,Read first time,,58,2
+HB 118,713,House,1990-03-14,Filed,,,1
+HJR 3,713,House,1990-02-27,Referred to Ways & Means,,7,3
+HJR 3,713,House,1990-02-27,Read first time,,7,2
+HJR 3,713,House,1990-01-30,Filed,,,1
+HR 2,713,House,1990-03-22,Reported enrolled,,,4
+HR 2,713,House,1990-03-22,Adopted,,94,3
+HR 2,713,House,1990-03-22,Rules suspended,,94,2
+HR 2,713,House,1990-03-21,Filed,,,1
+HR 13,713,House,1990-03-05,Withdrawn from calendar,,30,6
+HR 13,713,House,1990-03-05,Placed on Congratulatory & Mem. Cal.,,,5
+HR 13,713,House,1990-02-28,Reported favorably w/o amendment(s),,43,4
+HR 13,713,House,1990-02-28,Considered in formal meeting,,,3
+HR 13,713,House,1990-02-27,Referred to Rules and Resolutions,,5,2
+HR 13,713,House,1990-02-07,Filed,,,1
+HR 140,713,House,1990-03-22,Reported enrolled,,,4
+HR 140,713,House,1990-03-22,Adopted,,94,3
+HR 140,713,House,1990-03-22,Rules suspended,,94,2
+HR 140,713,House,1990-03-22,Filed,,,1
+HR 141,713,House,1990-03-22,Reported enrolled,,,4
+HR 141,713,House,1990-03-22,Adopted,,94,3
+HR 141,713,House,1990-03-22,Rules suspended,,94,2
+HR 141,713,House,1990-03-22,Filed,,,1
+HB 63,713,House,1990-03-21,Reported favorably w/o amendment(s),,189,7
+HB 63,713,House,1990-03-21,Testimony received in committee,,,6
+HB 63,713,House,1990-03-21,Considered in public hearing,,,5
+HB 63,713,House,1990-03-21,Scheduled for public hearing on  . . . . . .,,,4
+HB 63,713,House,1990-02-27,Referred to Judicial Affairs,,13,3
+HB 63,713,House,1990-02-27,Read first time,,13,2
+HB 63,713,House,1990-02-21,Filed,,,1
+HB 123,713,House,1990-03-19,Referred to State Affairs,,73,3
+HB 123,713,House,1990-03-19,Read first time,,73,2
+HB 123,713,House,1990-03-15,Filed,,,1
+HB 140,713,House,1990-03-26,Referred to Corrections,,185,3
+HB 140,713,House,1990-03-26,Read first time,,185,2
+HB 140,713,House,1990-03-21,Filed,,,1
+HB 142,713,House,1990-03-26,Referred to State Affairs,,186,3
+HB 142,713,House,1990-03-26,Read first time,,186,2
+HB 142,713,House,1990-03-22,Filed,,,1
+HB 76,713,House,1990-03-01,Referred to Energy,,24,3
+HB 76,713,House,1990-03-01,Read first time,,24,2
+HB 76,713,House,1990-02-27,Filed,,,1
+HCR 12,713,House,1990-03-01,Referred to Energy,,23,2
+HCR 12,713,House,1990-02-27,Filed,,,1
+HR 61,713,House,1990-03-14,Reported enrolled,,,7
+HR 61,713,House,1990-03-14,Adopted,,61,6
+HR 61,713,House,1990-03-14,Placed on Congratulatory & Mem. Cal.,,,5
+HR 61,713,House,1990-03-07,Reported favorably w/o amendment(s),,53,4
+HR 61,713,House,1990-03-07,Considered in formal meeting,,,3
+HR 61,713,House,1990-03-01,Referred to Rules and Resolutions,,23,2
+HR 61,713,House,1990-03-01,Filed,,,1
+HR 80,713,House,1990-03-07,Reported enrolled,,,4
+HR 80,713,House,1990-03-07,Adopted,,46,3
+HR 80,713,House,1990-03-07,Rules suspended,,46,2
+HR 80,713,House,1990-03-07,Filed,,,1

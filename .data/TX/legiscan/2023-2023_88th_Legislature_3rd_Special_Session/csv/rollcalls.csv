@@ -1,0 +1,119 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1779737,1355867,2023-10-09,Senate,"Posting rule suspended",19,12,0,0,31
+1779737,1356007,2023-10-12,Senate,"Rules suspended-Regular order of business",19,12,0,0,31
+1779737,1356008,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779737,1356009,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779737,1356010,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779737,1356011,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779737,1356012,2023-10-12,Senate,"Record vote",19,12,0,0,31
+1779737,1356013,2023-10-12,Senate,"Rules suspended-Regular order of business",19,12,0,0,31
+1779737,1356014,2023-10-12,Senate,"Read 3rd time",19,12,0,0,31
+1779868,1355869,2023-10-09,Senate,"Posting rule suspended",19,12,0,0,31
+1779868,1356001,2023-10-12,Senate,"Rules suspended-Regular order of business",29,2,0,0,31
+1779868,1356002,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779868,1356003,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779868,1356004,2023-10-12,Senate,"Record vote",29,2,0,0,31
+1779868,1356005,2023-10-12,Senate,"Three day rule suspended",29,2,0,0,31
+1779868,1356006,2023-10-12,Senate,"Read 3rd time",19,12,0,0,31
+1779868,1356499,2023-10-25,House,"Amendment fails of adoption RV#13",59,85,1,4,149
+1779868,1356500,2023-10-25,House,"Amendment fails of adoption RV#14",60,85,1,3,149
+1779868,1356501,2023-10-25,House,"Amendment fails of adoption RV#15",59,86,1,3,149
+1779868,1356502,2023-10-25,House,"Amendment fails of adoption RV#16",61,85,1,2,149
+1779868,1356503,2023-10-25,House,"Amendment fails of adoption RV#17",61,84,1,3,149
+1779868,1356504,2023-10-25,House,"Amendment fails of adoption RV#18",63,83,2,1,149
+1779868,1356543,2023-10-25,House,"Amendment fails of adoption RV#19",61,84,2,2,149
+1779868,1356544,2023-10-25,House,"Statement(s) of vote recorded in Journal RV#20",90,57,1,1,149
+1779868,1356574,2023-10-26,House,"Read 3rd time RV#58",92,54,1,2,149
+1779899,1355871,2023-10-09,Senate,"Posting rule suspended",19,12,0,0,31
+1779899,1356023,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356024,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356025,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356026,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356027,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356028,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356029,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356030,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779899,1356031,2023-10-12,Senate,"Amendment fails of adoption",0,1,0,0,1
+1779899,1356032,2023-10-12,Senate,"Three day rule suspended",0,1,0,0,1
+1779900,1355866,2023-10-09,House,"Adopted RV#2",147,0,0,2,149
+1779908,1355868,2023-10-09,Senate,"Posting rule suspended",19,12,0,0,31
+1779908,1356015,2023-10-12,Senate,"Rules suspended-Regular order of business",18,13,0,0,31
+1779908,1356016,2023-10-12,Senate,"FA1 Middleton",18,13,0,0,31
+1779908,1356017,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779908,1356018,2023-10-12,Senate,"Vote recorded in Journal",19,12,0,0,31
+1779908,1356019,2023-10-12,Senate,"Rules suspended-Regular order of business",19,12,0,0,31
+1779908,1356020,2023-10-12,Senate,"Read 3rd time",19,12,0,0,31
+1779908,1356490,2023-10-25,House,"Article III, Section 40 RV#8",88,59,1,1,149
+1779908,1356491,2023-10-25,House,"Amendment fails of adoption RV#9",61,84,1,3,149
+1779908,1356492,2023-10-25,House,"Amendment fails of adoption RV#10",62,83,1,3,149
+1779908,1356493,2023-10-25,House,RV#11,87,57,4,1,149
+1779908,1356494,2023-10-25,House,"Point of order sustained (amendment) RV#12",90,57,1,1,149
+1779908,1356582,2023-10-26,House,"Read 3rd time RV#57",91,54,1,3,149
+1779908,1356776,2023-10-31,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+1779908,1356838,2023-10-31,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+1779908,1356910,2023-10-31,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+1779933,1355872,2023-10-09,Senate,"Posting rule suspended",19,12,0,0,31
+1779933,1356039,2023-10-12,Senate,"Rules suspended-Regular order of business",18,13,0,0,31
+1779933,1356040,2023-10-12,Senate,"FA5 Creighton",19,12,0,0,31
+1779933,1356041,2023-10-12,Senate,"FA6 Gutierrez",22,9,0,0,31
+1779933,1356042,2023-10-12,Senate,"Amendment fails of adoption",6,25,0,0,31
+1779933,1356043,2023-10-12,Senate,"Amendment fails of adoption",15,16,0,0,31
+1779933,1356044,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779933,1356045,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779933,1356046,2023-10-12,Senate,"Amendment fails of adoption",13,18,0,0,31
+1779933,1356047,2023-10-12,Senate,"Amendment fails of adoption",12,19,0,0,31
+1779933,1356048,2023-10-12,Senate,"FA19 Creighton",19,12,0,0,31
+1779933,1356049,2023-10-12,Senate,"Amendment adopted as amended",23,8,0,0,31
+1779933,1356050,2023-10-12,Senate,"Amendment withdrawn",18,13,0,0,31
+1779933,1356051,2023-10-12,Senate,"Read 3rd time",19,12,0,0,31
+1780473,1356524,2023-10-25,House,"Rule 4, Section 32(c)(1) RV#21",134,4,2,9,149
+1780473,1356525,2023-10-25,House,"3-Hinojosa RV#22",141,0,2,6,149
+1780473,1356526,2023-10-25,House,"Amendment fails of adoption RV#23",62,82,1,4,149
+1780473,1356527,2023-10-25,House,"Amendment withdrawn RV#24",84,61,1,3,149
+1780473,1356575,2023-10-26,House,"Read 3rd time RV#59",84,61,1,3,149
+1780499,1356562,2023-10-25,House,"Motion prevails RV#25",76,52,1,20,149
+1780499,1356563,2023-10-25,House,"Amendment fails of adoption RV#26",61,84,1,3,149
+1780499,1356564,2023-10-25,House,"Amendment fails of adoption RV#27",62,84,1,2,149
+1780499,1356565,2023-10-25,House,"Amendment fails of adoption RV#29",61,83,2,3,149
+1780499,1356566,2023-10-25,House,"Amendment fails of adoption RV#30",62,83,2,2,149
+1780499,1356567,2023-10-25,House,"Amendment fails of adoption RV#31",61,83,1,4,149
+1780499,1356568,2023-10-26,House,"Amendment fails of adoption RV#32",61,83,1,4,149
+1780499,1356569,2023-10-26,House,"Amendment fails of adoption RV#33",59,85,1,4,149
+1780499,1356570,2023-10-26,House,"Amendment fails of adoption RV#34",60,84,1,4,149
+1780499,1356571,2023-10-26,House,"Amendment fails of adoption RV#35",61,84,1,3,149
+1780499,1356572,2023-10-26,House,"Amendment fails of adoption RV#36",60,84,1,4,149
+1780499,1356573,2023-10-26,House,"Amendment fails of adoption RV#37",60,84,1,4,149
+1780499,1356583,2023-10-26,House,"Amendment fails of adoption RV#38",59,84,1,5,149
+1780499,1356584,2023-10-26,House,"Amendment fails of adoption RV#39",62,83,1,3,149
+1780499,1356585,2023-10-26,House,"Amendment fails of adoption RV#40",61,81,2,5,149
+1780499,1356586,2023-10-26,House,"Amendment fails of adoption RV#41",62,82,2,3,149
+1780499,1356587,2023-10-26,House,"Amendment to amendment fails of adoption RV#42",58,80,2,9,149
+1780499,1356588,2023-10-26,House,"Amendment fails of adoption RV#43",62,83,1,3,149
+1780499,1356589,2023-10-26,House,"Amendment to amendment fails of adoption RV#44",59,83,1,6,149
+1780499,1356590,2023-10-26,House,"Amendment fails of adoption RV#45",59,83,1,6,149
+1780499,1356591,2023-10-26,House,"Amendment fails of adoption RV#46",61,81,2,5,149
+1780499,1356592,2023-10-26,House,"Amendment fails of adoption RV#47",62,83,1,3,149
+1780499,1356593,2023-10-26,House,"Amendment to amendment fails of adoption RV#48",61,83,1,4,149
+1780499,1356594,2023-10-26,House,"Amendment fails of adoption RV#49",60,83,1,5,149
+1780499,1356595,2023-10-26,House,"Amendment fails of adoption RV#50",61,84,1,3,149
+1780499,1356596,2023-10-26,House,"Amendment fails of adoption RV#51",62,82,1,4,149
+1780499,1356597,2023-10-26,House,"Amendment fails of adoption RV#52",61,83,2,3,149
+1780499,1356598,2023-10-26,House,"Amendment fails of adoption RV#53",60,83,1,5,149
+1780499,1356599,2023-10-26,House,"Motion prevails RV#54",83,62,1,3,149
+1780499,1356600,2023-10-26,House,"Statement(s) of vote recorded in Journal RV#55",83,63,1,2,149
+1780499,1356601,2023-10-26,House,"Read 3rd time RV#60",84,60,2,3,149
+1781689,1356766,2023-10-31,Senate,"Rules suspended",17,11,0,3,31
+1781689,1356767,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356768,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356769,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356770,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356771,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356772,2023-10-31,Senate,"Record vote",31,0,0,0,31
+1781689,1356829,2023-10-31,Senate,"Rules suspended",17,11,0,3,31
+1781689,1356830,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356831,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356832,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356833,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356834,2023-10-31,Senate,"Amendment fails of adoption",11,17,0,3,31
+1781689,1356835,2023-10-31,Senate,"Record vote",31,0,0,0,31
+1781689,1356909,2023-10-31,Senate,"Read 3rd time",17,11,0,3,31

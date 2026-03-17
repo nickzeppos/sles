@@ -1,0 +1,187 @@
+bill_id,session,chamber,location,action_date,action,vote,vote_url,order
+H.B. 3001,2024-S3,,Legislative Research and General Counsel,2024-06-14,Bill Numbered but not Distributed,,,1
+H.B. 3001,2024-S3,,Legislative Research and General Counsel,2024-06-14,Numbered Bill Publicly Distributed,,,2
+H.B. 3001,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-14,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 3001,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-18,LFA/ fiscal note publicly available,,,4
+H.B. 3001,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,5
+H.B. 3001,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,6
+H.B. 3001,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,7
+H.B. 3001,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,8
+H.B. 3001,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,9
+H.B. 3001,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ floor amendment,,,10
+H.B. 3001,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,72 0 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=4&house=H,11
+H.B. 3001,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,12
+H.B. 3001,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,13
+H.B. 3001,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,14
+H.B. 3001,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,15
+H.B. 3001,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,26 0 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=7&house=S,16
+H.B. 3001,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,17
+H.B. 3001,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,18
+H.B. 3001,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,19
+H.B. 3001,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,20
+H.B. 3001,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,21
+H.B. 3001,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,22
+H.B. 3001,2024-S3,,Clerk of the House,2024-06-20,Enrolled Bill Returned to House or Senate,,,23
+H.B. 3001,2024-S3,House,Clerk of the House,2024-06-20,House/ enrolled bill to Printing,,,24
+H.B. 3001,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,25
+H.B. 3001,2024-S3,House,Executive Branch - Governor,2024-06-21,House/ to Governor,,,26
+H.B. 3001,2024-S3,,Lieutenant Governor's office for filing,2024-06-21,Governor Signed,,,27
+H.B. 3002,2024-S3,,Legislative Research and General Counsel,2024-06-14,Bill Numbered but not Distributed,,,1
+H.B. 3002,2024-S3,,Legislative Research and General Counsel,2024-06-14,Numbered Bill Publicly Distributed,,,2
+H.B. 3002,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ to Printing with fiscal note,,,3
+H.B. 3002,2024-S3,Fiscal,House 3rd Reading Calendar for House bills,2024-06-19,LFA/ fiscal note sent to sponsor,,,4
+H.B. 3002,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,5
+H.B. 3002,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,6
+H.B. 3002,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,7
+H.B. 3002,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,8
+H.B. 3002,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,9
+H.B. 3002,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ substituted from # 0 to # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=5&house=H,10
+H.B. 3002,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,62 10 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=6&house=H,11
+H.B. 3002,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,12
+H.B. 3002,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,13
+H.B. 3002,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,14
+H.B. 3002,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,15
+H.B. 3002,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ floor amendment failed # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=9&house=S,16
+H.B. 3002,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,22 5 2,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=10&house=S,17
+H.B. 3002,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,18
+H.B. 3002,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,19
+H.B. 3002,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,20
+H.B. 3002,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,21
+H.B. 3002,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,22
+H.B. 3002,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,23
+H.B. 3002,2024-S3,,Clerk of the House,2024-06-20,Enrolled Bill Returned to House or Senate,,,24
+H.B. 3002,2024-S3,House,Clerk of the House,2024-06-20,House/ enrolled bill to Printing,,,25
+H.B. 3002,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,26
+H.B. 3002,2024-S3,House,Executive Branch - Governor,2024-06-21,House/ to Governor,,,27
+H.B. 3002,2024-S3,,Lieutenant Governor's office for filing,2024-06-21,Governor Signed,,,28
+H.B. 3003,2024-S3,,Legislative Research and General Counsel,2024-06-15,Bill Numbered but not Distributed,,,1
+H.B. 3003,2024-S3,,Legislative Research and General Counsel,2024-06-15,Numbered Bill Publicly Distributed,,,2
+H.B. 3003,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-15,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 3003,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-18,LFA/ fiscal note publicly available,,,4
+H.B. 3003,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,5
+H.B. 3003,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,6
+H.B. 3003,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,7
+H.B. 3003,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,8
+H.B. 3003,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,9
+H.B. 3003,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ floor amendment # 3,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=11&house=H,10
+H.B. 3003,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ floor amendment failed # 2,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=12&house=H,11
+H.B. 3003,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,65 7 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=13&house=H,12
+H.B. 3003,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,13
+H.B. 3003,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,14
+H.B. 3003,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,15
+H.B. 3003,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,16
+H.B. 3003,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,23 1 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=15&house=S,17
+H.B. 3003,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,18
+H.B. 3003,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,19
+H.B. 3003,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,20
+H.B. 3003,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,21
+H.B. 3003,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,22
+H.B. 3003,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,23
+H.B. 3003,2024-S3,,Clerk of the House,2024-06-20,Enrolled Bill Returned to House or Senate,,,24
+H.B. 3003,2024-S3,House,Clerk of the House,2024-06-20,House/ enrolled bill to Printing,,,25
+H.B. 3003,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,26
+H.B. 3003,2024-S3,House,Executive Branch - Governor,2024-06-21,House/ to Governor,,,27
+H.B. 3003,2024-S3,,Lieutenant Governor's office for filing,2024-06-21,Governor Signed,,,28
+H.B. 3004,2024-S3,,Legislative Research and General Counsel,2024-06-17,Bill Numbered but not Distributed,,,1
+H.B. 3004,2024-S3,,Legislative Research and General Counsel,2024-06-17,Numbered Bill Publicly Distributed,,,2
+H.B. 3004,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-19,LFA/ fiscal note sent to sponsor,,,3
+H.B. 3004,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ to Printing with fiscal note,,,4
+H.B. 3004,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,5
+H.B. 3004,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,6
+H.B. 3004,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,7
+H.B. 3004,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,8
+H.B. 3004,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,9
+H.B. 3004,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ substituted from # 0 to # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=7&house=H,10
+H.B. 3004,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,66 6 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=8&house=H,11
+H.B. 3004,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,12
+H.B. 3004,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,13
+H.B. 3004,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,14
+H.B. 3004,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,15
+H.B. 3004,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,27 0 2,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=11&house=S,16
+H.B. 3004,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,17
+H.B. 3004,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,18
+H.B. 3004,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,19
+H.B. 3004,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,20
+H.B. 3004,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,21
+H.B. 3004,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,22
+H.B. 3004,2024-S3,,Clerk of the House,2024-06-20,Enrolled Bill Returned to House or Senate,,,23
+H.B. 3004,2024-S3,House,Clerk of the House,2024-06-20,House/ enrolled bill to Printing,,,24
+H.B. 3004,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,25
+H.B. 3004,2024-S3,House,Executive Branch - Governor,2024-06-21,House/ to Governor,,,26
+H.B. 3004,2024-S3,,Lieutenant Governor's office for filing,2024-06-21,Governor Signed,,,27
+H.B. 3005,2024-S3,,Legislative Research and General Counsel,2024-06-17,Bill Numbered but not Distributed,,,1
+H.B. 3005,2024-S3,,Legislative Research and General Counsel,2024-06-17,Numbered Bill Publicly Distributed,,,2
+H.B. 3005,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-17,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 3005,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-17,LFA/ fiscal note publicly available,,,4
+H.B. 3005,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,5
+H.B. 3005,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,6
+H.B. 3005,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,7
+H.B. 3005,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,8
+H.B. 3005,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,9
+H.B. 3005,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,70 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=2&house=H,10
+H.B. 3005,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,11
+H.B. 3005,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,12
+H.B. 3005,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,13
+H.B. 3005,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,14
+H.B. 3005,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,27 0 2,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=8&house=S,15
+H.B. 3005,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,16
+H.B. 3005,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,17
+H.B. 3005,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,18
+H.B. 3005,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,19
+H.B. 3005,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,20
+H.B. 3005,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,21
+H.B. 3005,2024-S3,,Clerk of the House,2024-06-21,Enrolled Bill Returned to House or Senate,,,22
+H.B. 3005,2024-S3,House,Clerk of the House,2024-06-21,House/ enrolled bill to Printing,,,23
+H.B. 3005,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,24
+H.B. 3005,2024-S3,House,Executive Branch - Governor,2024-06-21,House/ to Governor,,,25
+H.B. 3005,2024-S3,,Lieutenant Governor's office for filing,2024-06-21,Governor Signed,,,26
+H.C.R. 301,2024-S3,,Legislative Research and General Counsel,2024-06-18,Bill Numbered but not Distributed,,,1
+H.C.R. 301,2024-S3,,Legislative Research and General Counsel,2024-06-19,Numbered Bill Publicly Distributed,,,2
+H.C.R. 301,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,3
+H.C.R. 301,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,4
+H.C.R. 301,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,5
+H.C.R. 301,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,6
+H.C.R. 301,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,7
+H.C.R. 301,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,57 14 4,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=10&house=H,8
+H.C.R. 301,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,9
+H.C.R. 301,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,10
+H.C.R. 301,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,11
+H.C.R. 301,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,12
+H.C.R. 301,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ floor amendment failed # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=13&house=S,13
+H.C.R. 301,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,20 6 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=14&house=S,14
+H.C.R. 301,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,15
+H.C.R. 301,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,16
+H.C.R. 301,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,17
+H.C.R. 301,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,18
+H.C.R. 301,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,19
+H.C.R. 301,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,20
+H.C.R. 301,2024-S3,,Clerk of the House,2024-06-20,Enrolled Bill Returned to House or Senate,,,21
+H.C.R. 301,2024-S3,House,Clerk of the House,2024-06-20,House/ enrolled bill to Printing,,,22
+H.C.R. 301,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,23
+H.C.R. 301,2024-S3,House,Executive Branch - Governor,2024-06-21,House/ to Governor,,,24
+H.C.R. 301,2024-S3,,Lieutenant Governor's office for filing,2024-06-21,Governor Signed,,,25
+H.J.R. 301,2024-S3,,Legislative Research and General Counsel,2024-06-18,Bill Numbered but not Distributed,,,1
+H.J.R. 301,2024-S3,,Legislative Research and General Counsel,2024-06-18,Numbered Bill Publicly Distributed,,,2
+H.J.R. 301,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-18,LFA/ bill sent to agencies for fiscal input,,,3
+H.J.R. 301,2024-S3,Fiscal,Legislative Research and General Counsel,2024-06-19,LFA/ fiscal note publicly available,,,4
+H.J.R. 301,2024-S3,House,Clerk of the House,2024-06-19,House/ received bill from Legislative Printing,,,5
+H.J.R. 301,2024-S3,House,House Rules Committee,2024-06-19,House/ 1st reading (Introduced),,,6
+H.J.R. 301,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ Rules to 3rd Reading Calendar,,,7
+H.J.R. 301,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 2nd reading,,,8
+H.J.R. 301,2024-S3,House,House 3rd Reading Calendar for House bills,2024-06-19,House/ 3rd reading,,,9
+H.J.R. 301,2024-S3,House,Senate Secretary,2024-06-19,House/ passed 3rd reading,57 14 4,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=9&house=H,10
+H.J.R. 301,2024-S3,House,Senate Secretary,2024-06-19,House/ to Senate,,,11
+H.J.R. 301,2024-S3,Senate,Waiting for Introduction in the Senate,2024-06-19,Senate/ received from House,,,12
+H.J.R. 301,2024-S3,Senate,Senate Rules Committee,2024-06-19,Senate/ 1st reading (Introduced),,,13
+H.J.R. 301,2024-S3,Senate,Senate 2nd Reading Calendar,2024-06-19,Senate/ 2nd & 3rd readings/ suspension,,,14
+H.J.R. 301,2024-S3,Senate,Senate President,2024-06-19,Senate/ passed 2nd & 3rd readings/ suspension,20 6 3,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2024S3&voteid=12&house=S,15
+H.J.R. 301,2024-S3,Senate,House Speaker,2024-06-19,Senate/ signed by President/ returned to House,,,16
+H.J.R. 301,2024-S3,Senate,House Speaker,2024-06-19,Senate/ to House,,,17
+H.J.R. 301,2024-S3,House,House Speaker,2024-06-19,House/ received from Senate,,,18
+H.J.R. 301,2024-S3,House,Legislative Research and General Counsel / Enrolling,2024-06-19,House/ signed by Speaker/ sent for enrolling,,,19
+H.J.R. 301,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Bill Received from House for Enrolling,,,20
+H.J.R. 301,2024-S3,,Legislative Research and General Counsel / Enrolling,2024-06-20,Draft of Enrolled Bill Prepared,,,21
+H.J.R. 301,2024-S3,,Clerk of the House,2024-06-20,Enrolled Bill Returned to House or Senate,,,22
+H.J.R. 301,2024-S3,House,Clerk of the House,2024-06-20,House/ enrolled bill to Printing,,,23
+H.J.R. 301,2024-S3,House,Clerk of the House,2024-06-21,House/ received enrolled bill from Printing,,,24
+H.J.R. 301,2024-S3,House,Lieutenant Governor's office for filing,2024-06-21,House/ to Lieutenant Governor,,,25

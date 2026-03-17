@@ -1,0 +1,42 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1881889,3007907,text,105725,application/pdf,Introduced,https://legiscan.com/OH/text/HB1/id/3007907,https://www.legislature.ohio.gov/files/special-session/hb1_00_IN.pdf
+1881889,3007908,text,69090,application/pdf,"Comm Sub",https://legiscan.com/OH/text/HB1/id/3007908,https://www.legislature.ohio.gov/files/special-session/hb1_01_RH.pdf
+1881889,3007909,text,71956,application/pdf,Engrossed,https://legiscan.com/OH/text/HB1/id/3007909,https://www.legislature.ohio.gov/files/special-session/hb1_02_PH.pdf
+1881889,3007910,text,72385,application/pdf,Engrossed,https://legiscan.com/OH/text/HB1/id/3007910,https://www.legislature.ohio.gov/files/special-session/hb1_03_PS.pdf
+1881890,3007911,text,62012,application/pdf,Introduced,https://legiscan.com/OH/text/HB2/id/3007911,https://www.legislature.ohio.gov/files/special-session/hb2_00_IN.pdf
+1881890,3007912,text,57584,application/pdf,"Comm Sub",https://legiscan.com/OH/text/HB2/id/3007912,https://www.legislature.ohio.gov/files/special-session/hb2_01_RH.pdf
+1881890,3007913,text,58180,application/pdf,Engrossed,https://legiscan.com/OH/text/HB2/id/3007913,https://www.legislature.ohio.gov/files/special-session/hb2_02_PH.pdf
+1881890,3007914,text,58545,application/pdf,Engrossed,https://legiscan.com/OH/text/HB2/id/3007914,https://www.legislature.ohio.gov/files/special-session/hb2_03_PS.pdf
+1881891,3007915,text,67904,application/pdf,Introduced,https://legiscan.com/OH/text/HB271/id/3007915,https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_135/bills/hb271/IN/00/hb271_00_IN?format=pdf
+1881891,3007916,text,68754,application/pdf,"Comm Sub",https://legiscan.com/OH/text/HB271/id/3007916,https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_135/bills/hb271/RH/01/hb271_01_RH?format=pdf
+1881891,3007917,text,70758,application/pdf,Engrossed,https://legiscan.com/OH/text/HB271/id/3007917,https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_135/bills/hb271/PH/02/hb271_02_PH?format=pdf
+1881891,3007918,text,72385,application/pdf,Engrossed,https://legiscan.com/OH/text/HB271/id/3007918,https://www.legislature.ohio.gov/files/special-session/hb1_03_PS.pdf
+1881892,3007919,text,59290,application/pdf,Introduced,https://legiscan.com/OH/text/SB279/id/3007919,https://www.legislature.ohio.gov/files/special-session/sb279_00_IN.pdf
+1881893,3007920,text,77563,application/pdf,Introduced,https://legiscan.com/OH/text/SB280/id/3007920,https://www.legislature.ohio.gov/files/special-session/sb280_00_IN.pdf
+1881889,475322,supplement,681963,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB1/id/475322,https://www.legislature.ohio.gov/files/special-session/ANHB0001IN(SS)-135.pdf
+1881889,475323,supplement,523974,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB1/id/475323,https://www.legislature.ohio.gov/files/special-session/FNHB0001IN-135-SS.pdf
+1881889,475324,supplement,527394,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB1/id/475324,https://www.legislature.ohio.gov/files/special-session/FNHB0001H1-B-135-SS.pdf
+1881889,475325,supplement,674694,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB1/id/475325,https://www.legislature.ohio.gov/files/special-session/R-3960(SS)-135.pdf
+1881889,475326,supplement,516694,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB1/id/475326,https://www.legislature.ohio.gov/files/special-session/FNHB0001RH-135-SS.pdf
+1881889,475327,supplement,669465,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB1/id/475327,https://www.legislature.ohio.gov/files/special-session/R-3975(SS)-135.pdf
+1881889,475328,supplement,516526,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB1/id/475328,https://www.legislature.ohio.gov/files/special-session/FNHB0001PH-135-SS.pdf
+1881889,475329,supplement,516508,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB1/id/475329,https://www.legislature.ohio.gov/files/special-session/FNHB0001PS-135-SS.pdf
+1881889,475330,supplement,667109,application/pdf,Misc,https://legiscan.com/OH/supplement/HB1/id/475330,https://www.legislature.ohio.gov/files/special-session/R3959-6(SS)-135.pdf
+1881889,475331,supplement,475556,application/pdf,Misc,https://legiscan.com/OH/supplement/HB1/id/475331,https://www.legislature.ohio.gov/files/special-session/SYHB0001-135.pdf
+1881890,475333,supplement,496706,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB2/id/475333,https://www.legislature.ohio.gov/files/special-session/FNHB0002IN-135-SS.pdf
+1881890,475332,supplement,526601,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB2/id/475332,https://www.legislature.ohio.gov/files/special-session/ANHB0002IN(SS)-135.pdf
+1881890,475334,supplement,529028,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB2/id/475334,https://www.legislature.ohio.gov/files/special-session/R-3964(SS)-135.pdf
+1881890,475335,supplement,497143,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB2/id/475335,https://www.legislature.ohio.gov/files/special-session/FNHB0002RH-135-SS.pdf
+1881890,475336,supplement,527067,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB2/id/475336,https://www.legislature.ohio.gov/files/special-session/R-3976(SS)-135.pdf
+1881890,475337,supplement,496011,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB2/id/475337,https://www.legislature.ohio.gov/files/special-session/FNHB0002PH-135-SS.pdf
+1881890,475338,supplement,496399,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB2/id/475338,https://www.legislature.ohio.gov/files/special-session/FNHB0002PS-135-SS.pdf
+1881890,475339,supplement,475556,application/pdf,Misc,https://legiscan.com/OH/supplement/HB2/id/475339,https://www.legislature.ohio.gov/files/special-session/SYHB0001-135.pdf
+1881891,475340,supplement,528340,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB271/id/475340,https://www.legislature.ohio.gov/download?key=21570&format=pdf
+1881891,475341,supplement,495447,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB271/id/475341,https://www.legislature.ohio.gov/download?key=22048&format=pdf
+1881891,475342,supplement,498113,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB271/id/475342,https://www.legislature.ohio.gov/download?key=22434&format=pdf
+1881891,475343,supplement,531018,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB271/id/475343,https://www.legislature.ohio.gov/download?key=22505&format=pdf
+1881891,475344,supplement,496902,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB271/id/475344,https://www.legislature.ohio.gov/download?key=22622&format=pdf
+1881891,475345,supplement,644750,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB271/id/475345,https://www.legislature.ohio.gov/download?key=22655&format=pdf
+1881891,475346,supplement,726583,application/pdf,Analysis,https://legiscan.com/OH/supplement/HB271/id/475346,https://www.legislature.ohio.gov/files/special-session/R-3945(SS)-135.pdf
+1881891,475347,supplement,536410,application/pdf,"Fiscal Note",https://legiscan.com/OH/supplement/HB271/id/475347,https://www.legislature.ohio.gov/files/special-session/FNHB0271PS-135-SS.pdf
+1881891,475348,supplement,516105,application/pdf,Misc,https://legiscan.com/OH/supplement/HB271/id/475348,https://www.legislature.ohio.gov/files/special-session/SYRB3944-A-135.pdf

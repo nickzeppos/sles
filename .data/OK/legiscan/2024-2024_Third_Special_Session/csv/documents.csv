@@ -1,0 +1,12 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1829728,2904805,text,277834,application/pdf,Introduced,https://legiscan.com/OK/text/HB1001/id/2904805,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/hB/HB1001XXX%20INT.PDF
+1829728,2907038,text,314286,application/pdf,Amended,https://legiscan.com/OK/text/HB1001/id/2907038,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20FLR/HFLR/HB1001XXX%20HFLR.PDF
+1829780,2904856,text,197582,application/pdf,Introduced,https://legiscan.com/OK/text/HB1002/id/2904856,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/hB/HB1002XXX%20INT.PDF
+1829780,2907058,text,232667,application/pdf,Amended,https://legiscan.com/OK/text/HB1002/id/2907058,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20FLR/HFLR/HB1002XXX%20HFLR.PDF
+1829780,2909352,text,204589,application/pdf,Engrossed,https://legiscan.com/OK/text/HB1002/id/2909352,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20ENGR/hB/HB1002XXX%20ENGR.PDF
+1830632,2905888,text,102439,application/pdf,Introduced,https://legiscan.com/OK/text/HB1003/id/2905888,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/hB/HB1003XXX%20INT.PDF
+1830632,2907077,text,136611,application/pdf,Amended,https://legiscan.com/OK/text/HB1003/id/2907077,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20FLR/HFLR/HB1003XXX%20HFLR.PDF
+1829452,2904300,text,159368,application/pdf,Introduced,https://legiscan.com/OK/text/SB1/id/2904300,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/SB/SB1XXX%20INT.PDF
+1829728,418129,supplement,11449,application/pdf,"Fiscal Note/Analysis",https://legiscan.com/OK/supplement/HB1001/id/418129,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20SUPPORT%20DOCUMENTS/BILLSUM/House/HB1001XXX%20INT%20BILLSUM.PDF
+1829780,418146,supplement,10745,application/pdf,"Fiscal Note/Analysis",https://legiscan.com/OK/supplement/HB1002/id/418146,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20SUPPORT%20DOCUMENTS/BILLSUM/House/HB1002XXX%20INT%20BILLSUM.PDF
+1830632,418599,supplement,18921,application/pdf,"Fiscal Note/Analysis",https://legiscan.com/OK/supplement/HB1003/id/418599,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20SUPPORT%20DOCUMENTS/BILLSUM/House/HB1003XXX%20INT%20BILLSUM.PDF

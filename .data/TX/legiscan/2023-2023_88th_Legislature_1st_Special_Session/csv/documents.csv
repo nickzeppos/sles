@@ -1,0 +1,219 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1769293,2820611,text,32636,text/html,Introduced,https://legiscan.com/TX/text/HB1/id/2820611,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00001I.htm
+1769293,2821096,text,32858,text/html,"Comm Sub",https://legiscan.com/TX/text/HB1/id/2821096,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00001H.htm
+1769293,2821366,text,34438,text/html,Engrossed,https://legiscan.com/TX/text/HB1/id/2821366,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00001E.htm
+1769272,2820598,text,87429,text/html,Introduced,https://legiscan.com/TX/text/HB2/id/2820598,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00002I.htm
+1769272,2821128,text,87668,text/html,"Comm Sub",https://legiscan.com/TX/text/HB2/id/2821128,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00002H.htm
+1769272,2824500,text,91156,text/html,"Comm Sub",https://legiscan.com/TX/text/HB2/id/2824500,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00002S.htm
+1769272,2821529,text,90038,text/html,Engrossed,https://legiscan.com/TX/text/HB2/id/2821529,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00002E.htm
+1769168,2820469,text,87426,text/html,Introduced,https://legiscan.com/TX/text/HB3/id/2820469,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00003I.htm
+1769179,2820711,text,7624,text/html,Introduced,https://legiscan.com/TX/text/HB4/id/2820711,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00004I.htm
+1769163,2820810,text,20067,text/html,Introduced,https://legiscan.com/TX/text/HB5/id/2820810,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00005I.htm
+1769206,2821142,text,10413,text/html,Introduced,https://legiscan.com/TX/text/HB6/id/2821142,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00006I.htm
+1769199,2820787,text,18820,text/html,Introduced,https://legiscan.com/TX/text/HB7/id/2820787,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00007I.htm
+1769172,2821254,text,23273,text/html,Introduced,https://legiscan.com/TX/text/HB8/id/2821254,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00008I.htm
+1769177,2821286,text,106644,text/html,Introduced,https://legiscan.com/TX/text/HB9/id/2821286,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00009I.htm
+1769192,2821457,text,84769,text/html,Introduced,https://legiscan.com/TX/text/HB10/id/2821457,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00010I.htm
+1769203,2820977,text,16415,text/html,Introduced,https://legiscan.com/TX/text/HB11/id/2820977,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00011I.htm
+1769188,2821288,text,6156,text/html,Introduced,https://legiscan.com/TX/text/HB12/id/2821288,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00012I.htm
+1769174,2821244,text,43882,text/html,Introduced,https://legiscan.com/TX/text/HB13/id/2821244,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00013I.htm
+1769296,2821178,text,18873,text/html,Introduced,https://legiscan.com/TX/text/HB14/id/2821178,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00014I.htm
+1769252,2821488,text,45731,text/html,Introduced,https://legiscan.com/TX/text/HB15/id/2821488,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00015I.htm
+1769227,2821275,text,21388,text/html,Introduced,https://legiscan.com/TX/text/HB16/id/2821275,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00016I.htm
+1769259,2821504,text,102746,text/html,Introduced,https://legiscan.com/TX/text/HB17/id/2821504,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00017I.htm
+1769249,2821276,text,14716,text/html,Introduced,https://legiscan.com/TX/text/HB18/id/2821276,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00018I.htm
+1769278,2821282,text,17287,text/html,Introduced,https://legiscan.com/TX/text/HB19/id/2821282,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00019I.htm
+1769284,2821519,text,38878,text/html,Introduced,https://legiscan.com/TX/text/HB20/id/2821519,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00020I.htm
+1769303,2821479,text,15009,text/html,Introduced,https://legiscan.com/TX/text/HB21/id/2821479,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00021I.htm
+1769237,2821642,text,16915,text/html,Introduced,https://legiscan.com/TX/text/HB22/id/2821642,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00022I.htm
+1769290,2821528,text,59125,text/html,Introduced,https://legiscan.com/TX/text/HB23/id/2821528,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00023I.htm
+1769281,2821618,text,25351,text/html,Introduced,https://legiscan.com/TX/text/HB24/id/2821618,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00024I.htm
+1769216,2821435,text,6469,text/html,Introduced,https://legiscan.com/TX/text/HB25/id/2821435,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00025I.htm
+1769262,2821623,text,42165,text/html,Introduced,https://legiscan.com/TX/text/HB26/id/2821623,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00026I.htm
+1769233,2821485,text,9521,text/html,Introduced,https://legiscan.com/TX/text/HB27/id/2821485,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00027I.htm
+1769274,2821515,text,95186,text/html,Introduced,https://legiscan.com/TX/text/HB28/id/2821515,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00028I.htm
+1769239,2821510,text,18987,text/html,Introduced,https://legiscan.com/TX/text/HB29/id/2821510,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00029I.htm
+1769308,2821372,text,8915,text/html,Introduced,https://legiscan.com/TX/text/HB30/id/2821372,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00030I.htm
+1769306,2820620,text,15245,text/html,Introduced,https://legiscan.com/TX/text/HB31/id/2820620,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00031I.htm
+1769287,2821702,text,132352,text/html,Introduced,https://legiscan.com/TX/text/HB32/id/2821702,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00032I.htm
+1769310,2821530,text,23425,text/html,Introduced,https://legiscan.com/TX/text/HB33/id/2821530,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00033I.htm
+1769331,2821712,text,20567,text/html,Introduced,https://legiscan.com/TX/text/HB34/id/2821712,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00034I.htm
+1769354,2821710,text,57589,text/html,Introduced,https://legiscan.com/TX/text/HB35/id/2821710,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00035I.htm
+1769347,2821537,text,17394,text/html,Introduced,https://legiscan.com/TX/text/HB36/id/2821537,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00036I.htm
+1769326,2821454,text,31077,text/html,Introduced,https://legiscan.com/TX/text/HB37/id/2821454,https://capitol.texas.gov/tlodocs/881/billtext/html/HB00037I.htm
+1769317,2820904,text,11877,text/html,Introduced,https://legiscan.com/TX/text/HCR1/id/2820904,https://capitol.texas.gov/tlodocs/881/billtext/html/HC00001I.htm
+1769338,2820924,text,13383,text/html,Introduced,https://legiscan.com/TX/text/HCR2/id/2820924,https://capitol.texas.gov/tlodocs/881/billtext/html/HC00002I.htm
+1769350,2821970,text,2437,text/html,Introduced,https://legiscan.com/TX/text/HCR3/id/2821970,https://capitol.texas.gov/tlodocs/881/billtext/html/HC00003I.htm
+1769218,2820559,text,10195,text/html,Introduced,https://legiscan.com/TX/text/HJR1/id/2820559,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00001I.htm
+1769218,2821078,text,10417,text/html,"Comm Sub",https://legiscan.com/TX/text/HJR1/id/2821078,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00001H.htm
+1769218,2821357,text,10417,text/html,Engrossed,https://legiscan.com/TX/text/HJR1/id/2821357,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00001E.htm
+1769264,2821277,text,5988,text/html,Introduced,https://legiscan.com/TX/text/HJR2/id/2821277,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00002I.htm
+1769299,2821709,text,9203,text/html,Introduced,https://legiscan.com/TX/text/HJR3/id/2821709,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00003I.htm
+1769276,2821706,text,8821,text/html,Introduced,https://legiscan.com/TX/text/HJR4/id/2821706,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00004I.htm
+1769255,2821494,text,10559,text/html,Introduced,https://legiscan.com/TX/text/HJR5/id/2821494,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00005I.htm
+1769230,2821638,text,7733,text/html,Introduced,https://legiscan.com/TX/text/HJR6/id/2821638,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00006I.htm
+1769352,2821647,text,11021,text/html,Introduced,https://legiscan.com/TX/text/HJR7/id/2821647,https://capitol.texas.gov/tlodocs/881/billtext/html/HJ00007I.htm
+1769267,2820594,text,150733,text/html,Introduced,https://legiscan.com/TX/text/SB1/id/2820594,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00001I.htm
+1769267,2820659,text,152516,text/html,Engrossed,https://legiscan.com/TX/text/SB1/id/2820659,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00001E.htm
+1769322,2820909,text,20959,text/html,Introduced,https://legiscan.com/TX/text/SB2/id/2820909,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00002I.htm
+1769322,2824021,text,24244,text/html,"Comm Sub",https://legiscan.com/TX/text/SB2/id/2824021,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00002S.htm
+1769322,2825006,text,20884,text/html,Engrossed,https://legiscan.com/TX/text/SB2/id/2825006,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00002E.htm
+1769183,2820702,text,8055,text/html,Introduced,https://legiscan.com/TX/text/SB3/id/2820702,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00003I.htm
+1769196,2820733,text,10844,text/html,Introduced,https://legiscan.com/TX/text/SB4/id/2820733,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00004I.htm
+1769247,2820581,text,87428,text/html,Introduced,https://legiscan.com/TX/text/SB5/id/2820581,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00005I.htm
+1769247,2824002,text,90701,text/html,"Comm Sub",https://legiscan.com/TX/text/SB5/id/2824002,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00005S.htm
+1769224,2820565,text,26515,text/html,Introduced,https://legiscan.com/TX/text/SB6/id/2820565,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00006I.htm
+1769243,2820578,text,249867,text/html,Introduced,https://legiscan.com/TX/text/SB7/id/2820578,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00007I.htm
+1769497,2822188,text,80711,text/html,Introduced,https://legiscan.com/TX/text/SB8/id/2822188,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00008I.htm
+1769497,2824005,text,84141,text/html,"Comm Sub",https://legiscan.com/TX/text/SB8/id/2824005,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00008S.htm
+1769497,2824995,text,80779,text/html,Engrossed,https://legiscan.com/TX/text/SB8/id/2824995,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00008E.htm
+1770047,2823493,text,18623,text/html,Introduced,https://legiscan.com/TX/text/SB9/id/2823493,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00009I.htm
+1770047,2827793,text,20391,text/html,"Comm Sub",https://legiscan.com/TX/text/SB9/id/2827793,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00009S.htm
+1769334,2822158,text,13579,text/html,Introduced,https://legiscan.com/TX/text/SB16/id/2822158,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00016I.htm
+1770638,2824954,text,7048,text/html,Introduced,https://legiscan.com/TX/text/SB17/id/2824954,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00017I.htm
+1770638,2828052,text,8393,text/html,"Comm Sub",https://legiscan.com/TX/text/SB17/id/2828052,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00017S.htm
+1770623,2825808,text,27050,text/html,Introduced,https://legiscan.com/TX/text/SB18/id/2825808,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00018I.htm
+1770675,2825468,text,33756,text/html,Introduced,https://legiscan.com/TX/text/SB19/id/2825468,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00019I.htm
+1770675,2828047,text,35535,text/html,"Comm Sub",https://legiscan.com/TX/text/SB19/id/2828047,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00019S.htm
+1771376,2826964,text,297336,text/html,Introduced,https://legiscan.com/TX/text/SB20/id/2826964,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00020I.htm
+1772284,2828829,text,103179,text/html,Introduced,https://legiscan.com/TX/text/SB21/id/2828829,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00021I.htm
+1772283,2828823,text,35225,text/html,Introduced,https://legiscan.com/TX/text/SB22/id/2828823,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00022I.htm
+1772280,2828827,text,103015,text/html,Introduced,https://legiscan.com/TX/text/SB23/id/2828827,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00023I.htm
+1772287,2828830,text,127259,text/html,Introduced,https://legiscan.com/TX/text/SB24/id/2828830,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00024I.htm
+1772288,2828832,text,17777,text/html,Introduced,https://legiscan.com/TX/text/SB25/id/2828832,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00025I.htm
+1772303,2828815,text,164673,text/html,Introduced,https://legiscan.com/TX/text/SB26/id/2828815,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00026I.htm
+1772303,2828960,text,164570,text/html,Engrossed,https://legiscan.com/TX/text/SB26/id/2828960,https://capitol.texas.gov/tlodocs/881/billtext/html/SB00026E.htm
+1769973,2822929,text,9509,text/html,Introduced,https://legiscan.com/TX/text/SR1/id/2822929,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00001I.htm
+1769973,2826385,text,13928,text/html,Enrolled,https://legiscan.com/TX/text/SR1/id/2826385,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00001F.htm
+1770391,2826323,text,10391,text/html,Introduced,https://legiscan.com/TX/text/SR2/id/2826323,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00002I.htm
+1770391,2826324,text,18031,text/html,Enrolled,https://legiscan.com/TX/text/SR2/id/2826324,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00002F.htm
+1770419,2826325,text,13579,text/html,Introduced,https://legiscan.com/TX/text/SR3/id/2826325,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00003I.htm
+1770419,2826326,text,19743,text/html,Enrolled,https://legiscan.com/TX/text/SR3/id/2826326,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00003F.htm
+1770405,2826321,text,9884,text/html,Introduced,https://legiscan.com/TX/text/SR4/id/2826321,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00004I.htm
+1770405,2826322,text,16240,text/html,Enrolled,https://legiscan.com/TX/text/SR4/id/2826322,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00004F.htm
+1770665,2824979,text,11001,text/html,Introduced,https://legiscan.com/TX/text/SR5/id/2824979,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00005I.htm
+1770665,2824980,text,15878,text/html,Enrolled,https://legiscan.com/TX/text/SR5/id/2824980,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00005F.htm
+1770609,2826448,text,8793,text/html,Enrolled,https://legiscan.com/TX/text/SR6/id/2826448,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00006F.htm
+1770650,2826443,text,12344,text/html,Introduced,https://legiscan.com/TX/text/SR7/id/2826443,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00007I.htm
+1770650,2826444,text,17511,text/html,Enrolled,https://legiscan.com/TX/text/SR7/id/2826444,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00007F.htm
+1770756,2826807,text,10731,text/html,Introduced,https://legiscan.com/TX/text/SR8/id/2826807,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00008I.htm
+1770756,2826808,text,15889,text/html,Enrolled,https://legiscan.com/TX/text/SR8/id/2826808,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00008F.htm
+1770776,2826805,text,8691,text/html,Introduced,https://legiscan.com/TX/text/SR9/id/2826805,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00009I.htm
+1770776,2826806,text,14199,text/html,Enrolled,https://legiscan.com/TX/text/SR9/id/2826806,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00009F.htm
+1770766,2826802,text,8357,text/html,Introduced,https://legiscan.com/TX/text/SR10/id/2826802,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00010I.htm
+1770766,2826803,text,13569,text/html,Enrolled,https://legiscan.com/TX/text/SR10/id/2826803,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00010F.htm
+1770975,2826148,text,11838,text/html,Introduced,https://legiscan.com/TX/text/SR11/id/2826148,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00011I.htm
+1770975,2826494,text,16802,text/html,Enrolled,https://legiscan.com/TX/text/SR11/id/2826494,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00011F.htm
+1771161,2826100,text,10040,text/html,Introduced,https://legiscan.com/TX/text/SR12/id/2826100,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00012I.htm
+1771161,2826493,text,15702,text/html,Enrolled,https://legiscan.com/TX/text/SR12/id/2826493,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00012F.htm
+1771287,2828611,text,9994,text/html,Introduced,https://legiscan.com/TX/text/SR13/id/2828611,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00013I.htm
+1771287,2828612,text,14960,text/html,Enrolled,https://legiscan.com/TX/text/SR13/id/2828612,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00013F.htm
+1771296,2826513,text,12354,text/html,Introduced,https://legiscan.com/TX/text/SR14/id/2826513,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00014I.htm
+1771296,2828146,text,18229,text/html,Enrolled,https://legiscan.com/TX/text/SR14/id/2828146,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00014F.htm
+1771291,2826509,text,16285,text/html,Introduced,https://legiscan.com/TX/text/SR15/id/2826509,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00015I.htm
+1771291,2828870,text,23222,text/html,Enrolled,https://legiscan.com/TX/text/SR15/id/2828870,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00015F.htm
+1771452,2827006,text,9372,text/html,Introduced,https://legiscan.com/TX/text/SR16/id/2827006,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00016I.htm
+1771452,2828819,text,14219,text/html,Enrolled,https://legiscan.com/TX/text/SR16/id/2828819,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00016F.htm
+1771687,2827515,text,12602,text/html,Introduced,https://legiscan.com/TX/text/SR17/id/2827515,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00017I.htm
+1771687,2828817,text,18658,text/html,Enrolled,https://legiscan.com/TX/text/SR17/id/2828817,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00017F.htm
+1771660,2827481,text,9809,text/html,Introduced,https://legiscan.com/TX/text/SR18/id/2827481,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00018I.htm
+1771660,2828835,text,15669,text/html,Enrolled,https://legiscan.com/TX/text/SR18/id/2828835,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00018F.htm
+1771673,2827871,text,12407,text/html,Introduced,https://legiscan.com/TX/text/SR19/id/2827871,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00019I.htm
+1771673,2828863,text,17034,text/html,Enrolled,https://legiscan.com/TX/text/SR19/id/2828863,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00019F.htm
+1771822,2827798,text,9898,text/html,Introduced,https://legiscan.com/TX/text/SR20/id/2827798,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00020I.htm
+1771822,2828075,text,14696,text/html,Enrolled,https://legiscan.com/TX/text/SR20/id/2828075,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00020F.htm
+1772072,2828509,text,9207,text/html,Introduced,https://legiscan.com/TX/text/SR21/id/2828509,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00021I.htm
+1772072,2830561,text,15073,text/html,Enrolled,https://legiscan.com/TX/text/SR21/id/2830561,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00021F.htm
+1772060,2828514,text,9269,text/html,Introduced,https://legiscan.com/TX/text/SR22/id/2828514,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00022I.htm
+1772060,2828885,text,15127,text/html,Enrolled,https://legiscan.com/TX/text/SR22/id/2828885,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00022F.htm
+1772077,2828122,text,9818,text/html,Introduced,https://legiscan.com/TX/text/SR23/id/2828122,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00023I.htm
+1772077,2830557,text,15674,text/html,Enrolled,https://legiscan.com/TX/text/SR23/id/2830557,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00023F.htm
+1772056,2828515,text,8966,text/html,Introduced,https://legiscan.com/TX/text/SR24/id/2828515,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00024I.htm
+1772056,2830566,text,14828,text/html,Enrolled,https://legiscan.com/TX/text/SR24/id/2830566,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00024F.htm
+1772067,2828118,text,9217,text/html,Introduced,https://legiscan.com/TX/text/SR25/id/2828118,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00025I.htm
+1772067,2830564,text,14883,text/html,Enrolled,https://legiscan.com/TX/text/SR25/id/2830564,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00025F.htm
+1772074,2828513,text,9252,text/html,Introduced,https://legiscan.com/TX/text/SR26/id/2828513,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00026I.htm
+1772074,2830567,text,15117,text/html,Enrolled,https://legiscan.com/TX/text/SR26/id/2830567,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00026F.htm
+1772064,2828511,text,9711,text/html,Introduced,https://legiscan.com/TX/text/SR27/id/2828511,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00027I.htm
+1772064,2830555,text,15367,text/html,Enrolled,https://legiscan.com/TX/text/SR27/id/2830555,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00027F.htm
+1772052,2828113,text,8972,text/html,Introduced,https://legiscan.com/TX/text/SR28/id/2828113,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00028I.htm
+1772052,2830565,text,15032,text/html,Enrolled,https://legiscan.com/TX/text/SR28/id/2830565,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00028F.htm
+1772049,2828512,text,11286,text/html,Introduced,https://legiscan.com/TX/text/SR29/id/2828512,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00029I.htm
+1772049,2829073,text,16959,text/html,Enrolled,https://legiscan.com/TX/text/SR29/id/2829073,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00029F.htm
+1772298,2828797,text,12656,text/html,Introduced,https://legiscan.com/TX/text/SR30/id/2828797,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00030I.htm
+1772298,2828892,text,17499,text/html,Enrolled,https://legiscan.com/TX/text/SR30/id/2828892,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00030F.htm
+1772295,2828796,text,13895,text/html,Introduced,https://legiscan.com/TX/text/SR31/id/2828796,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00031I.htm
+1772295,2828888,text,18340,text/html,Enrolled,https://legiscan.com/TX/text/SR31/id/2828888,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00031F.htm
+1772300,2828889,text,9698,text/html,Introduced,https://legiscan.com/TX/text/SR32/id/2828889,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00032I.htm
+1772300,2828890,text,15545,text/html,Enrolled,https://legiscan.com/TX/text/SR32/id/2828890,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00032F.htm
+1772310,2828956,text,12313,text/html,Introduced,https://legiscan.com/TX/text/SR33/id/2828956,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00033I.htm
+1772310,2828957,text,18364,text/html,Enrolled,https://legiscan.com/TX/text/SR33/id/2828957,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00033F.htm
+1772305,2828895,text,11807,text/html,Introduced,https://legiscan.com/TX/text/SR34/id/2828895,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00034I.htm
+1772305,2828896,text,17857,text/html,Enrolled,https://legiscan.com/TX/text/SR34/id/2828896,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00034F.htm
+1772560,2829466,text,179718,text/html,Introduced,https://legiscan.com/TX/text/SR35/id/2829466,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00035I.htm
+1772560,2829467,text,183054,text/html,Enrolled,https://legiscan.com/TX/text/SR35/id/2829467,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00035F.htm
+1772557,2829461,text,6596,text/html,Introduced,https://legiscan.com/TX/text/SR36/id/2829461,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00036I.htm
+1772557,2829462,text,9799,text/html,Enrolled,https://legiscan.com/TX/text/SR36/id/2829462,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00036F.htm
+1772535,2830765,text,11859,text/html,Introduced,https://legiscan.com/TX/text/SR37/id/2830765,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00037I.htm
+1772535,2830766,text,17017,text/html,Enrolled,https://legiscan.com/TX/text/SR37/id/2830766,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00037F.htm
+1772739,2830080,text,10605,text/html,Introduced,https://legiscan.com/TX/text/SR38/id/2830080,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00038I.htm
+1772739,2830081,text,15421,text/html,Enrolled,https://legiscan.com/TX/text/SR38/id/2830081,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00038F.htm
+1772993,2830757,text,10243,text/html,Introduced,https://legiscan.com/TX/text/SR39/id/2830757,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00039I.htm
+1772993,2831487,text,15023,text/html,Enrolled,https://legiscan.com/TX/text/SR39/id/2831487,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00039F.htm
+1772994,2830756,text,7435,text/html,Introduced,https://legiscan.com/TX/text/SR40/id/2830756,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00040I.htm
+1772994,2831203,text,12949,text/html,Enrolled,https://legiscan.com/TX/text/SR40/id/2831203,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00040F.htm
+1772992,2830661,text,10226,text/html,Introduced,https://legiscan.com/TX/text/SR41/id/2830661,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00041I.htm
+1772992,2831172,text,15199,text/html,Enrolled,https://legiscan.com/TX/text/SR41/id/2831172,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00041F.htm
+1773188,2831620,text,9768,text/html,Introduced,https://legiscan.com/TX/text/SR42/id/2831620,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00042I.htm
+1773188,2831086,text,14935,text/html,Enrolled,https://legiscan.com/TX/text/SR42/id/2831086,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00042F.htm
+1773210,2831635,text,11206,text/html,Introduced,https://legiscan.com/TX/text/SR43/id/2831635,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00043I.htm
+1773210,2831103,text,16363,text/html,Enrolled,https://legiscan.com/TX/text/SR43/id/2831103,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00043F.htm
+1773229,2831120,text,17868,text/html,Enrolled,https://legiscan.com/TX/text/SR44/id/2831120,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00044F.htm
+1773201,2831626,text,9651,text/html,Introduced,https://legiscan.com/TX/text/SR45/id/2831626,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00045I.htm
+1773201,2831096,text,14430,text/html,Enrolled,https://legiscan.com/TX/text/SR45/id/2831096,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00045F.htm
+1773221,2831628,text,7884,text/html,Introduced,https://legiscan.com/TX/text/SR46/id/2831628,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00046I.htm
+1773221,2831111,text,13196,text/html,Enrolled,https://legiscan.com/TX/text/SR46/id/2831111,https://capitol.texas.gov/tlodocs/881/billtext/html/SR00046F.htm
+1769343,2822108,text,17126,text/html,Introduced,https://legiscan.com/TX/text/SCR1/id/2822108,https://capitol.texas.gov/tlodocs/881/billtext/html/SC00001I.htm
+1769435,2821893,text,7302,text/html,Introduced,https://legiscan.com/TX/text/SCR2/id/2821893,https://capitol.texas.gov/tlodocs/881/billtext/html/SC00002I.htm
+1769220,2820562,text,40410,text/html,Introduced,https://legiscan.com/TX/text/SJR1/id/2820562,https://capitol.texas.gov/tlodocs/881/billtext/html/SJ00001I.htm
+1769220,2820673,text,40712,text/html,Engrossed,https://legiscan.com/TX/text/SJR1/id/2820673,https://capitol.texas.gov/tlodocs/881/billtext/html/SJ00001E.htm
+1772307,2828811,text,40410,text/html,Introduced,https://legiscan.com/TX/text/SJR2/id/2828811,https://capitol.texas.gov/tlodocs/881/billtext/html/SJ00002I.htm
+1772307,2828959,text,40712,text/html,Engrossed,https://legiscan.com/TX/text/SJR2/id/2828959,https://capitol.texas.gov/tlodocs/881/billtext/html/SJ00002E.htm
+1769293,186907,amendment,2885,text/html,"House Amendment (H 2) 1-Meyer",https://legiscan.com/TX/amendment/HB1/id/186907,https://capitol.texas.gov/tlodocs/881/amendments/html/HB00001H21.HTM
+1769272,186911,amendment,2019,text/html,"House Amendment (H 2) 1-Guillen",https://legiscan.com/TX/amendment/HB2/id/186911,https://capitol.texas.gov/tlodocs/881/amendments/html/HB00002H21.HTM
+1769272,186531,amendment,1974,text/html,"Senate Amendment (S 3) F1-Hinojosa",https://legiscan.com/TX/amendment/HB2/id/186531,https://capitol.texas.gov/tlodocs/881/amendments/html/HB00002S3F1.HTM
+1769322,186525,amendment,2578,text/html,"Senate Amendment (S 2) F1-Menéndez",https://legiscan.com/TX/amendment/SB2/id/186525,https://capitol.texas.gov/tlodocs/881/amendments/html/SB00002S2F1.HTM
+1769497,186516,amendment,1669,text/html,"Senate Amendment (S 2) F1-Menéndez",https://legiscan.com/TX/amendment/SB8/id/186516,https://capitol.texas.gov/tlodocs/881/amendments/html/SB00008S2F1.HTM
+1769497,186517,amendment,1421,text/html,"Senate Amendment (S 2) F2-Menéndez",https://legiscan.com/TX/amendment/SB8/id/186517,https://capitol.texas.gov/tlodocs/881/amendments/html/SB00008S2F2.HTM
+1769497,186518,amendment,2199,text/html,"Senate Amendment (S 2) F3-Menéndez",https://legiscan.com/TX/amendment/SB8/id/186518,https://capitol.texas.gov/tlodocs/881/amendments/html/SB00008S2F3.HTM
+1769293,379856,supplement,12450,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/HB1/id/379856,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/HB00001I.htm
+1769293,380055,supplement,11695,text/html,Analysis,https://legiscan.com/TX/supplement/HB1/id/380055,https://capitol.texas.gov/tlodocs/881/analysis/html/HB00001H.htm
+1769272,379849,supplement,8273,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/HB2/id/379849,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/HB00002I.htm
+1769272,380068,supplement,19761,text/html,Analysis,https://legiscan.com/TX/supplement/HB2/id/380068,https://capitol.texas.gov/tlodocs/881/analysis/html/HB00002H.htm
+1769272,381187,supplement,39737,text/html,Analysis,https://legiscan.com/TX/supplement/HB2/id/381187,https://capitol.texas.gov/tlodocs/881/analysis/html/HB00002E.htm
+1769272,381720,supplement,8218,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/HB2/id/381720,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/HB00002E.htm
+1769272,382625,supplement,8279,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/HB2/id/382625,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/HB00002S.htm
+1769272,382626,supplement,38726,text/html,Analysis,https://legiscan.com/TX/supplement/HB2/id/382626,https://capitol.texas.gov/tlodocs/881/analysis/html/HB00002S.htm
+1769272,383219,supplement,8219,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/HB2/id/383219,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/HB00002A.htm
+1769218,379833,supplement,6125,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/HJR1/id/379833,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/HJ00001I.htm
+1769218,380051,supplement,6172,text/html,Analysis,https://legiscan.com/TX/supplement/HJR1/id/380051,https://capitol.texas.gov/tlodocs/881/analysis/html/HJ00001H.htm
+1769267,379848,supplement,12490,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB1/id/379848,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00001I.htm
+1769267,380084,supplement,70469,text/html,Analysis,https://legiscan.com/TX/supplement/SB1/id/380084,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00001I.htm
+1769322,381134,supplement,17696,text/html,Analysis,https://legiscan.com/TX/supplement/SB2/id/381134,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00002I.htm
+1769322,381713,supplement,6780,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB2/id/381713,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00002I.htm
+1769247,381306,supplement,37621,text/html,Analysis,https://legiscan.com/TX/supplement/SB5/id/381306,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00005I.htm
+1769247,381723,supplement,8278,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB5/id/381723,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00005I.htm
+1769497,381199,supplement,42050,text/html,Analysis,https://legiscan.com/TX/supplement/SB8/id/381199,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00008I.htm
+1769497,381877,supplement,9715,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB8/id/381877,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00008I.htm
+1770047,383968,supplement,4738,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB9/id/383968,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00009I.htm
+1770047,383969,supplement,14196,text/html,Analysis,https://legiscan.com/TX/supplement/SB9/id/383969,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00009I.htm
+1770638,383978,supplement,4781,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB17/id/383978,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00017I.htm
+1770638,383979,supplement,7042,text/html,Analysis,https://legiscan.com/TX/supplement/SB17/id/383979,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00017I.htm
+1770675,383941,supplement,5262,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB19/id/383941,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00019I.htm
+1770675,383942,supplement,22894,text/html,Analysis,https://legiscan.com/TX/supplement/SB19/id/383942,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00019I.htm
+1772303,385535,supplement,14738,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SB26/id/385535,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SB00026I.htm
+1772303,385536,supplement,79374,text/html,Analysis,https://legiscan.com/TX/supplement/SB26/id/385536,https://capitol.texas.gov/tlodocs/881/analysis/html/SB00026I.htm
+1769220,379834,supplement,7001,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SJR1/id/379834,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SJ00001I.htm
+1769220,379909,supplement,16718,text/html,Analysis,https://legiscan.com/TX/supplement/SJR1/id/379909,https://capitol.texas.gov/tlodocs/881/analysis/html/SJ00001I.htm
+1772307,385529,supplement,6105,text/html,"Fiscal Note",https://legiscan.com/TX/supplement/SJR2/id/385529,https://capitol.texas.gov/tlodocs/881/fiscalnotes/html/SJ00002I.htm
+1772307,385530,supplement,17603,text/html,Analysis,https://legiscan.com/TX/supplement/SJR2/id/385530,https://capitol.texas.gov/tlodocs/881/analysis/html/SJ00002I.htm

@@ -1,0 +1,1167 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1637160,1335033,2023-05-30,Senate,"Accept Majority Ought To Pass As Amended Report RC #192",26,4,0,5,35
+1637160,1336934,2023-06-01,House,"Enactment RC #114",83,58,0,9,150
+1637213,1230445,2022-12-07,House,"Adoption RC #2",140,3,0,8,151
+1637221,1230474,2022-12-07,Senate,"Commit RC #1",9,20,0,6,35
+1637221,1230475,2022-12-07,Senate,"Enact-emer 2/3 Elect RC #2",21,8,0,6,35
+1639153,1230978,2023-01-04,House,"Indef Pp Of H-a (h-2) RC #3",79,64,0,8,151
+1639153,1230979,2023-01-04,House,"Enactment - Emer RC #4",114,29,0,8,151
+1639153,1230981,2023-01-04,Senate,"Adopt S-1 RC #3",13,21,0,1,35
+1639153,1230982,2023-01-04,Senate,"Adopt B S-2 RC #4",13,21,0,1,35
+1639153,1230983,2023-01-04,Senate,"Adopt C-3 RC #5",10,24,0,1,35
+1640106,1286337,2023-03-28,House,"Reconsider RC #9",78,58,0,14,150
+1640106,1286338,2023-03-28,House,"Reconsider RC #10",79,58,0,13,150
+1640106,1286339,2023-03-28,House,"Table Until Later RC #11",118,18,0,14,150
+1640106,1286340,2023-03-28,House,"Passage To Be Engrossed RC #12",122,12,0,16,150
+1640108,1303707,2023-04-18,House,"Acc Maj Otp As Amended Rep RC #32",76,62,0,12,150
+1640108,1306261,2023-04-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #95",21,9,0,5,35
+1640126,1280111,2023-03-21,House,"Acc Maj Ought To Pass Rep RC #8",81,58,0,11,150
+1640126,1282654,2023-03-23,Senate,"Accept Maj Otp Rpt RC #51",20,9,0,6,35
+1640129,1340954,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #248",21,12,0,2,35
+1640132,1318694,2023-05-04,Senate,"Adopt Senate Amendment (s-65) To Committee Amendment RC #119",16,19,0,0,35
+1641390,1319239,2023-05-04,House,"Commit Back To Committee RC #52",65,73,0,12,150
+1641390,1319240,2023-05-04,House,"Acc Maj Ought Not To Pass Rep RC #53",75,61,0,14,150
+1641390,1321007,2023-05-09,Senate,"Accept Majority Ought Not To Pass Report RC #125",19,11,0,5,35
+1641420,1321197,2023-05-09,House,"Acc Maj Otp As Amended Rep RC #61",82,60,0,8,150
+1641420,1323542,2023-05-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #134",21,10,0,4,35
+1641427,1343718,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #201",69,73,0,8,150
+1641427,1344679,2023-06-15,Senate,"Accept Majority Ought To Pass As Amended Report RC #354",11,24,0,0,35
+1641435,1343142,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #178",78,65,0,7,150
+1641435,1343757,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #302",20,13,0,2,35
+1641443,1343847,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #203",76,67,0,7,150
+1641443,1344060,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #323",22,13,0,0,35
+1641460,1428137,2024-04-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #747",26,6,0,3,35
+1641460,1428138,2024-04-16,Senate,"Adopt Sas-717 RC #748",31,2,0,2,35
+1641460,1429276,2024-04-17,House,"Acc Maj Otp As Amended Rep RC #538",96,47,0,7,150
+1641460,1430214,2024-04-17,Senate,"Enactment RC #761",27,6,0,2,35
+1642328,1344142,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #227",79,68,0,3,150
+1642328,1344143,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #345",22,13,0,0,35
+1642328,1344144,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #346",23,12,0,0,35
+1643647,1347154,2023-06-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #453",22,10,0,3,35
+1643763,1340204,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #131",66,64,0,20,150
+1643763,1340205,2023-06-06,House,"Indef Pp Hah-285 RC #132",67,61,0,22,150
+1643763,1340206,2023-06-06,House,"Passage To Be Engrossed RC #133",64,61,0,25,150
+1643763,1341054,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #246",18,16,0,1,35
+1643763,1341055,2023-06-07,Senate,"Adopt Sas-146 RC #247",22,12,0,1,35
+1643763,1342804,2023-06-12,House,"Recede And Concur RC #162",75,63,0,12,150
+1643763,1343457,2023-06-13,House,"Enactment RC #191",72,70,0,8,150
+1643763,1350923,2023-07-25,Senate,"Enactment RC #489",20,7,0,8,35
+1644150,1343155,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #288",24,7,0,4,35
+1644150,1343631,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #192",77,65,0,8,150
+1644229,1303024,2023-04-18,Senate,"Accept Majority Ought Not To Pass Report RC #90",17,12,0,6,35
+1644229,1303025,2023-04-18,Senate,"Accept Majority Ought Not To Pass Report RC #91",17,12,0,6,35
+1644229,1306378,2023-04-20,House,"Acc Maj Ought Not To Pass Rep RC #33",78,55,0,17,150
+1644262,1395653,2024-02-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #557",21,12,0,2,35
+1644262,1398862,2024-02-29,House,"Acc Maj Otp As Amended Rep RC #386",75,61,0,14,150
+1644473,1331056,2023-05-23,Senate,"Accept Majority Ought Not To Pass Report RC #154",21,12,0,2,35
+1644552,1289996,2023-03-30,House,"Acc Maj Otp As Amended Rep RC #15",137,7,0,6,150
+1644799,1419880,2024-04-03,Senate,"Accept Majority Ought To Pass As Amended Report RC #656",22,7,0,6,35
+1644799,1422637,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #462",82,61,0,7,150
+1644872,1289168,2023-03-30,House,"Acc Maj Otp As Amended Rep RC #13",80,63,0,7,150
+1646086,1341885,2023-06-08,Senate,"Accept Majority Ought Not To Pass Report RC #262",17,15,0,3,35
+1646086,1342821,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #165",74,65,0,11,150
+1647237,1310090,2023-04-25,House,"Acc Maj Otp As Amended Rep RC #37",82,60,0,8,150
+1647237,1313211,2023-04-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #106",23,10,0,2,35
+1653845,1271987,2023-03-09,Senate,"Accept Maj Otp Rpt RC #41",19,11,0,5,35
+1653901,1347414,2023-06-26,House,"Acc Report 'a' Otp As Amend RC #335",69,68,0,14,151
+1653901,1347415,2023-06-26,House,"Adopt Hah-664 To Cah-623 RC #336",70,65,0,16,151
+1653901,1347699,2023-06-27,Senate,"Accept Report 'a' Ought To Pass As Amended RC #464",13,21,0,1,35
+1653901,1347966,2023-06-27,House,"Recede And Concur RC #346",66,73,0,12,151
+1653901,1349719,2023-07-06,Senate,"Insist RC #466",20,12,0,3,35
+1653922,1339344,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #121",73,66,0,11,150
+1653922,1340784,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #226",21,14,0,0,35
+1654063,1339245,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #123",73,65,0,12,150
+1654304,1350924,2023-07-25,Senate,"Enactment RC #495",25,1,0,9,35
+1654342,1408027,2024-03-12,House,"Acc Maj Otp As Amended Rep RC #401",49,83,0,19,151
+1654342,1408699,2024-03-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #582",15,20,0,0,35
+1658025,1346360,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #433",28,6,0,1,35
+1661283,1347400,2023-06-26,House,"Acc Maj Otp As Amended Rep RC #337",78,61,0,12,151
+1661283,1349683,2023-07-06,House,"Adopt Hbh-720 To Cah-103 RC #349",79,61,0,11,151
+1661283,1349729,2023-07-06,Senate,"Insist RC #477",17,14,0,4,35
+1661394,1254412,2023-02-16,House,"Enactment - Emer RC #5",113,21,0,17,151
+1666702,1309360,2023-04-25,Senate,"Accept Majority Ought Not To Pass Report RC #101",22,11,0,2,35
+1666702,1312530,2023-04-27,House,"Acc Maj Ought Not To Pass Rep RC #42",77,65,0,8,150
+1668054,1424688,2024-04-10,House,"Acc Maj Otp As Amended Rep RC #494",80,70,0,0,150
+1668054,1424689,2024-04-10,House,"Reconsider RC #495",66,84,0,0,150
+1668054,1425857,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #690",21,13,0,1,35
+1668054,1426385,2024-04-12,Senate,"Enactment RC #700",21,13,0,1,35
+1668131,1331086,2023-05-23,House,"Acc Maj Ought Not To Pass Rep RC #97",80,64,0,6,150
+1668131,1333011,2023-05-25,Senate,"Accept Majority Ought Not To Pass Report RC #184",19,12,0,4,35
+1668585,1330810,2023-05-23,House,"Acc Maj Otp As Amended Rep RC #96",88,53,0,9,150
+1668669,1294880,2023-04-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #76",23,11,0,1,35
+1668706,1344751,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #240",75,68,0,8,151
+1677294,1343241,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #291",23,8,0,4,35
+1677294,1343850,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #200",78,64,0,8,150
+1677435,1392144,2024-02-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #542",20,12,0,3,35
+1677435,1397392,2024-02-28,House,"Acc Maj Otp As Amended Rep RC #379",74,62,0,14,150
+1677576,1349695,2023-07-06,House,"Acc Maj Otp As Amended Rep RC #350",80,58,0,13,151
+1677576,1349848,2023-07-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #478",22,9,0,4,35
+1677576,1349849,2023-07-06,Senate,"Enactment RC #484",22,9,0,4,35
+1677617,1330401,2023-05-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #160",20,13,0,2,35
+1677617,1335075,2023-05-30,House,"Acc Maj Otp As Amended Rep RC #102",77,64,0,9,150
+1681798,1346440,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #304",71,65,0,15,151
+1681798,1346684,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #440",21,12,0,2,35
+1681809,1344126,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #334",22,13,0,0,35
+1681809,1344426,2023-06-15,House,"Acc Maj Otp As Amended Rep RC #233",79,66,0,6,151
+1681947,1330323,2023-05-23,House,"Acc Maj Otp As Amended Rep RC #95",84,58,0,8,150
+1681947,1333069,2023-05-25,Senate,"Accept Majority Ought To Pass As Amended Report RC #183",19,13,0,3,35
+1682054,1344688,2023-06-15,Senate,"Accept Majority Ought To Pass As Amended Report RC #352",22,13,0,0,35
+1682107,1321388,2023-05-09,House,"Acc Maj Ought Not To Pass Rep RC #62",77,63,0,10,150
+1682107,1323177,2023-05-11,Senate,"Accept Majority Ought Not To Pass Report RC #135",22,9,0,4,35
+1682148,1343803,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #208",77,64,0,9,150
+1682148,1344245,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #328",22,13,0,0,35
+1682148,1350916,2023-07-25,Senate,"Adopt Com Ament ""a' As Amended By Senate Amend B RC #498",19,5,0,11,35
+1682181,1339231,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #214",22,13,0,0,35
+1682181,1350936,2023-07-25,Senate,"Adopt Senate Amendment (s-447) To Committee Amendment RC #493",20,6,0,9,35
+1682181,1350937,2023-07-25,Senate,"Enactment RC #501",19,3,0,13,35
+1682213,1342888,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #281",22,11,0,2,35
+1682213,1343508,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #194",77,64,0,9,150
+1682288,1405731,2024-03-07,House,"Acc Maj Otp As Amended Rep RC #398",80,64,0,7,151
+1682288,1407682,2024-03-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #581",21,13,0,1,35
+1682300,1345715,2023-06-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #387",20,12,0,3,35
+1682300,1345716,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #285",80,64,0,7,151
+1682329,1298774,2023-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #78",33,0,0,2,35
+1682434,1350932,2023-07-25,Senate,"Adopt Senate Amendment (s-446) To Committee Amendment RC #492",22,4,0,9,35
+1682434,1350933,2023-07-25,Senate,"Enactment RC #500",19,3,0,13,35
+1682446,1340216,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #216",23,12,0,0,35
+1682446,1341895,2023-06-08,House,"Acc Maj Otp As Amended Rep RC #136",75,63,0,12,150
+1682446,1343837,2023-06-13,Senate,"Passage To Be Engrossed As Amended RC #310",25,9,0,1,35
+1682662,1346802,2023-06-22,House,"Acc Maj Ought Not To Pass Rep RC #308",76,66,0,9,151
+1682852,1293725,2023-04-05,House,"Acc Maj Ought Not To Pass Rep RC #27",76,63,0,11,150
+1682852,1294901,2023-04-06,Senate,"Accept Majority Ought Not To Pass Report RC #75",22,12,0,1,35
+1683057,1417942,2024-04-01,Senate,"Accept Majority Ought To Pass As Amended Report RC #646",20,13,0,2,35
+1683057,1418693,2024-04-02,House,"Acc Maj Otp As Amended Rep RC #448",81,65,0,5,151
+1684128,1425102,2024-04-10,House,"Passage To Be Engrossed RC #489",96,52,0,2,150
+1684128,1426000,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #688",27,8,0,0,35
+1684158,1343860,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #204",75,66,0,9,150
+1684158,1344035,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #324",27,8,0,0,35
+1684158,1344579,2023-06-15,Senate,"Adopt Senate Amendment (s-333) To Committee Amendment RC #348",12,22,0,1,35
+1685369,1343866,2023-06-13,House,"Acc Min Ought Not To Pass Rep RC #211",76,65,0,9,150
+1685556,1350920,2023-07-25,Senate,"Accept Majority Ought Not To Pass Report RC #497",20,6,0,9,35
+1685797,1426435,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #705",23,11,0,1,35
+1685797,1429170,2024-04-16,House,"Acc Maj Otp As Amended Rep RC #532",74,71,0,5,150
+1685797,1429171,2024-04-16,House,"Adopt Hah-966 To Cas-688 RC #533",71,74,0,5,150
+1685797,1430412,2024-04-17,Senate,"Enactment RC #762",20,13,0,2,35
+1685797,1430413,2024-04-17,House,"Enactment RC #541",77,64,0,9,150
+1685871,1426356,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #703",21,13,0,1,35
+1685871,1426357,2024-04-12,Senate,"Adopt Sas-690 RC #704",21,13,0,1,35
+1685871,1426358,2024-04-12,House,"Acc Maj Otp As Amended Rep RC #510",74,65,0,11,150
+1685871,1426955,2024-04-15,House,"Enactment RC #513",70,69,0,11,150
+1685871,1428217,2024-04-16,Senate,"Enactment RC #746",21,12,0,2,35
+1685871,1442064,2024-05-10,Senate,"Reconsideration - Veto RC #796",21,13,0,1,35
+1687444,1290133,2023-03-30,House,"Final Passage - Emer RC #23",78,46,0,26,150
+1687593,1323175,2023-05-11,House,"Acc Maj Ought To Pass Rep RC #70",72,57,0,21,150
+1687593,1330333,2023-05-23,Senate,"Accept Majority Ought To Pass Rpt RC #162",21,12,0,2,35
+1687593,1335159,2023-05-30,House,"Recede And Concur RC #104",79,63,0,8,150
+1687593,1336740,2023-06-01,House,"Final Passage RC #115",78,63,0,9,150
+1689691,1346488,2023-06-21,House,"Acc Rep A Otp-am RC #298",117,25,0,9,151
+1689691,1346489,2023-06-21,Senate,"Adopt Senate Amendment (s-405) To Committee Amendment RC #437",18,16,0,1,35
+1689814,1345997,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #296",73,71,0,7,151
+1689814,1349726,2023-07-06,House,"Recede And Concur RC #352",73,56,0,22,151
+1689814,1349727,2023-07-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #473",20,12,0,3,35
+1689814,1349728,2023-07-06,Senate,"Adopt Senate Amendment (s-423) To Committee Amendment ""a"" RC #474",21,10,0,4,35
+1689814,1350915,2023-07-25,House,"Reconsideration - Veto RC #355",61,61,0,28,150
+1689939,1349835,2023-07-06,Senate,"Table Until Later RC #485",4,27,0,4,35
+1689939,1349836,2023-07-06,Senate,"Indefinitely Postpone RC #486",26,5,0,4,35
+1690006,1346656,2023-06-21,House,"Acc Min Otp As Amended Rep RC #300",73,67,0,11,151
+1690044,1289525,2023-03-30,House,"Acc Maj Ought Not To Pass Rep RC #14",80,64,0,6,150
+1690044,1294157,2023-04-05,Senate,"Accept Majority Ought Not To Pass Report RC #73",24,9,0,2,35
+1690124,1325991,2023-05-16,House,"Acc Maj Otp As Amended Rep RC #73",121,20,0,9,150
+1690287,1345941,2023-06-21,Senate,"Accept Minority Ought To Pass As Amended ""b"" (s-347) Report RC #415",7,27,0,1,35
+1690308,1327375,2023-05-18,Senate,"Accept Report 'a' Ought To Pass As Amended RC #148",20,10,0,5,35
+1690437,1309557,2023-04-25,House,"Acc Maj Ought Not To Pass Rep RC #38",78,63,0,9,150
+1690437,1313242,2023-04-27,Senate,"Accept Majority Ought Not To Pass Report RC #107",24,9,0,2,35
+1690541,1289152,2023-03-30,House,"Acc Maj Otp As Amended Rep RC #16",81,63,0,6,150
+1690541,1289153,2023-03-30,House,"Adopt Hah-14 To Cah-12 RC #17",79,64,0,7,150
+1690541,1290057,2023-03-30,House,"Indef Pp Hbh-16 To Cah-12 RC #18",80,63,0,7,150
+1690541,1290058,2023-03-30,House,"Adopt Hdh-18 To Cah-12 RC #19",141,0,0,9,150
+1690541,1290059,2023-03-30,House,"Indef Pp Heh-19 To Cah-12 RC #20",76,64,0,10,150
+1690541,1290060,2023-03-30,House,"Indef Pp Hfh-20 To Cah-12 RC #21",81,60,0,9,150
+1690541,1290061,2023-03-30,House,"Passage To Be Engrossed RC #22",79,61,0,10,150
+1690541,1290062,2023-03-30,House,"Enactment RC #24",76,48,0,26,150
+1690541,1290063,2023-03-30,Senate,"Accept Majority Ought To Pass As Amended Report RC #61",22,11,0,2,35
+1690541,1290064,2023-03-30,Senate,"Indefinitely Postpone Sbs -14 RC #62",22,11,0,2,35
+1690541,1290065,2023-03-30,Senate,"Indefinitely Postpone Scs -15 RC #63",22,11,0,2,35
+1690541,1290066,2023-03-30,Senate,"Indefinitely Postpone Sas -13 RC #64",33,0,0,2,35
+1690541,1290067,2023-03-30,Senate,"Pass To Be Engrossed As Amended RC #65",22,11,0,2,35
+1690541,1290068,2023-03-30,Senate,"Enactment RC #67",22,9,0,4,35
+1690581,1419092,2024-04-02,Senate,"Accept Report 'a' Ought To Pass As Amended RC #649",21,11,0,3,35
+1690581,1419918,2024-04-03,House,"Report ""a"" Ought To Pass Am RC #459",78,64,0,9,151
+1694869,1327550,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #79",65,74,0,11,150
+1694970,1340762,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #237",22,13,0,0,35
+1694970,1342571,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #168",79,63,0,8,150
+1695055,1442146,2024-05-10,Senate,"Enactment RC #799",12,20,0,3,35
+1695055,1442147,2024-05-10,Senate,"Reconsider RC #807",18,12,0,5,35
+1695055,1442148,2024-05-10,Senate,"Enactment RC #808",18,12,0,5,35
+1695137,1321403,2023-05-09,House,"Acc Maj Ought To Pass Rep RC #60",79,63,0,8,150
+1695137,1323182,2023-05-11,Senate,"Accept Majority Ought To Pass Rpt RC #133",22,9,0,4,35
+1695152,1312318,2023-04-27,House,"Acc Maj Otp As Amended Rep RC #44",81,61,0,8,150
+1695152,1316114,2023-05-02,Senate,"Accept Majority Ought To Pass As Amended Report RC #112",22,11,0,2,35
+1695171,1330864,2023-05-23,House,"Enactment - Emer RC #93",81,63,0,6,150
+1695450,1295116,2023-04-06,House,"Acc Maj Ought Not To Pass Rep RC #28",73,66,0,11,150
+1695450,1297264,2023-04-11,Senate,"Accept Majority Ought Not To Pass Report RC #77",18,9,0,8,35
+1695870,1345693,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #269",79,65,0,7,151
+1695870,1345809,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #403",22,12,0,1,35
+1697926,1316801,2023-05-02,Senate,"Accept Majority Ought To Pass Rpt RC #115",20,13,0,2,35
+1697926,1319427,2023-05-04,House,"Acc Maj Ought To Pass Rep RC #49",74,63,0,13,150
+1698026,1341870,2023-06-08,Senate,"Accept Majority Ought To Pass As Amended Report RC #259",20,14,0,1,35
+1698026,1343148,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #166",77,63,0,10,150
+1698125,1422943,2024-04-09,Senate,"Accept Majority Ought To Pass As Amended Report RC #664",21,13,0,1,35
+1698125,1424249,2024-04-10,House,"Acc Maj Otp As Amended Rep RC #486",76,67,0,7,150
+1698224,1339289,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #215",22,13,0,0,35
+1698224,1341797,2023-06-08,House,"Acc Maj Otp As Amended Rep RC #135",75,65,0,10,150
+1699375,1343163,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #175",78,65,0,7,150
+1699434,1341809,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #140",76,63,0,11,150
+1699564,1321306,2023-05-09,House,"Acc Maj Ought Not To Pass Rep RC #64",77,61,0,12,150
+1699564,1323610,2023-05-11,Senate,"Accept Majority Ought Not To Pass Report RC #137",21,10,0,4,35
+1699625,1299841,2023-04-13,House,"Acc Maj Ought Not To Pass Rep RC #31",77,60,0,13,150
+1699625,1303063,2023-04-18,Senate,"Accept Majority Ought Not To Pass Report RC #89",22,7,0,6,35
+1699625,1303064,2023-04-18,Senate,"Accept Majority Ought Not To Pass Report RC #90",22,7,0,6,35
+1699765,1423940,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #478",74,66,0,10,150
+1699765,1424303,2024-04-10,Senate,"Accept Majority Ought To Pass As Amended Report RC #679",21,12,0,2,35
+1699765,1442077,2024-05-10,House,"Reconsideration - Veto RC #554",53,67,0,29,149
+1699820,1321451,2023-05-09,House,"Acc Maj Ought Not To Pass Rep RC #63",72,67,0,11,150
+1699820,1323198,2023-05-11,Senate,"Accept Majority Ought Not To Pass Report RC #136",21,10,0,4,35
+1699943,1319195,2023-05-04,House,"Acc Min Ought Not To Pass Rep RC #51",76,62,0,12,150
+1700061,1342973,2023-06-12,Senate,"Accept Report 'a' Ought To Pass As Amended RC #285",16,17,0,2,35
+1700061,1345144,2023-06-16,Senate,"Recede And Concur RC #376",22,10,0,3,35
+1700111,1343186,2023-06-12,House,"Acc Min Otp As Amended Rep RC #185",60,82,0,8,150
+1700111,1343814,2023-06-13,Senate,"Accept Minority Ought To Pass As Amended Report RC #314",18,15,0,2,35
+1700111,1345538,2023-06-20,Senate,"Recede And Concur RC #395",12,22,0,1,35
+1700280,1343660,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #202",77,66,0,7,150
+1700280,1344692,2023-06-15,Senate,"Accept Majority Ought Not To Pass Report RC #355",8,27,0,0,35
+1700280,1345057,2023-06-16,House,"Recede And Concur RC #254",66,76,0,9,151
+1700318,1321417,2023-05-09,House,"Acc Maj Ought Not To Pass Rep RC #66",82,57,0,11,150
+1700345,1306315,2023-04-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #96",23,7,0,5,35
+1700345,1312390,2023-04-27,House,"Acc Maj Otp As Amended Rep RC #41",80,61,0,9,150
+1700364,1426587,2024-04-12,Senate,"Enactment RC #722",30,3,0,2,35
+1700416,1347388,2023-06-26,House,"Acc Rep A Otp-am RC #334",73,60,0,18,151
+1700416,1347674,2023-06-27,Senate,"Accept Report 'a' Ought To Pass As Amended RC #465",20,14,0,1,35
+1700416,1347960,2023-06-27,House,"Enactment RC #347",71,65,0,15,151
+1700416,1349692,2023-07-06,Senate,"Enactment RC #471",19,12,0,4,35
+1700430,1312469,2023-04-27,House,"Acc Maj Ought Not To Pass Rep RC #43",79,63,0,8,150
+1700513,1345525,2023-06-20,House,"Acc Min Ought Not To Pass Rep RC #273",73,72,0,6,151
+1700513,1346024,2023-06-21,Senate,"Accept Minority Ought Not To Pass Report RC #404",22,12,0,1,35
+1702059,1331499,2023-05-23,Senate,"Accept Report 'a' Ought To Pass As Amended RC #164",22,11,0,2,35
+1702240,1350934,2023-07-25,Senate,"Enactment RC #490",21,5,0,9,35
+1703891,1343262,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #181",74,68,0,8,150
+1703955,1339133,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #122",75,63,0,12,150
+1703955,1340772,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #227",22,13,0,0,35
+1703969,1306067,2023-04-20,House,"Acc Report ""a"" Ought Not To Pas RC #36",76,58,0,16,150
+1703969,1309428,2023-04-25,Senate,"Accept Majority Ought Not To Pass Report RC #100",25,7,0,3,35
+1704004,1327730,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #85",78,57,0,15,150
+1704004,1330301,2023-05-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #155",21,12,0,2,35
+1704888,1344168,2023-06-14,Senate,"Accept Report 'b' Ought To Pass As Amended RC #332",21,14,0,0,35
+1704958,1313053,2023-04-27,House,"Acc Maj Ought Not To Pass Rep RC #45",75,67,0,8,150
+1704958,1319847,2023-05-02,Senate,"Accept Majority Ought Not To Pass Report RC #113",19,14,0,2,35
+1705094,1345134,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #365",10,24,0,1,35
+1705133,1397257,2024-02-28,House,"Enactment - Emer RC #384",139,0,0,11,150
+1705194,1345469,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #277",79,66,0,6,151
+1705194,1345971,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #402",23,11,0,1,35
+1705294,1309924,2023-04-25,House,"Acc Maj Ought Not To Pass Rep RC #39",81,61,0,8,150
+1705315,1343643,2023-06-13,House,"Acc Min Ought Not To Pass Rep RC #206",76,65,0,9,150
+1705315,1344111,2023-06-14,Senate,"Accept Minority Ought Not To Pass Report RC #326",22,13,0,0,35
+1705449,1330953,2023-05-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #156",21,12,0,2,35
+1705491,1327924,2023-05-18,House,"Acc Min Otp As Amended Rep RC #90",32,101,0,17,150
+1708530,1341767,2023-06-08,Senate,"Accept Ought To Pass As Amended Report RC #258",29,5,0,1,35
+1708571,1320871,2023-05-09,Senate,"Accept Report 'b' Ought To Pass As Amended RC #132",11,18,0,6,35
+1708571,1323208,2023-05-11,House,"Acc Report 'c' Ontp RC #69",70,59,0,21,150
+1708583,1340875,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #245",22,11,0,2,35
+1708583,1342653,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #171",79,63,0,8,150
+1708583,1430241,2024-04-17,Senate,"Suspend Rules (2/3) RC #773",20,12,0,3,35
+1708644,1341784,2023-06-08,Senate,"Accept Majority Ought Not To Pass Report RC #261",11,21,0,3,35
+1708660,1347409,2023-06-26,House,"Acc Maj Otp As Amended Rep RC #333",73,60,0,18,151
+1708821,1345145,2023-06-16,Senate,"Accept Report 'b' Ought Not To Pass RC #375",24,9,0,2,35
+1708821,1345459,2023-06-20,Senate,"Recede And Concur RC #393",11,23,0,1,35
+1708852,1345456,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #265",80,63,0,8,151
+1708863,1346220,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #431",21,13,0,1,35
+1708863,1346221,2023-06-21,Senate,"Passage To Be Engrossed As Amended RC #432",21,13,0,1,35
+1708879,1339367,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #126",91,47,0,12,150
+1708879,1340830,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #230",30,4,0,1,35
+1708945,1388323,2024-02-20,House,"Acc Maj Ought Not To Pass Rep RC #369",77,60,0,13,150
+1708945,1392100,2024-02-22,Senate,"Accept Majority Ought Not To Pass Report RC #545",21,10,0,4,35
+1708975,1309680,2023-04-25,House,"Acc Maj Ought Not To Pass Rep RC #40",76,66,0,8,150
+1708975,1312821,2023-04-27,Senate,"Accept Majority Ought Not To Pass Report RC #108",23,10,0,2,35
+1708992,1297250,2023-04-11,House,"Acc Maj Ought To Pass Rep RC #29",83,55,0,12,150
+1709004,1342787,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #172",78,65,0,7,150
+1709004,1343438,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #297",21,12,0,2,35
+1709020,1337025,2023-06-01,House,"Acc Maj Otp As Amended Rep RC #109",76,66,0,8,150
+1709020,1339229,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #208",23,12,0,0,35
+1709157,1306251,2023-04-20,House,"Acc Maj Ought Not To Pass Rep RC #34",77,56,0,17,150
+1709157,1309544,2023-04-25,Senate,"Accept Majority Ought Not To Pass Report RC #98",22,10,0,3,35
+1709175,1345143,2023-06-16,Senate,"Accept Minority Ought Not To Pass Report RC #366",20,14,0,1,35
+1709199,1347240,2023-06-23,House,"Acc Rep A Ontp RC #326",76,52,0,23,151
+1709199,1347241,2023-06-23,Senate,"Accept Report 'a' Ought Not To Pass RC #458",20,12,0,3,35
+1709299,1330305,2023-05-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #157",21,12,0,2,35
+1709364,1320774,2023-05-09,House,"Acc Maj Otp As Amended Rep RC #65",77,63,0,10,150
+1709396,1335028,2023-05-30,Senate,"Accept Majority Ought Not To Pass Report RC #190",12,18,0,5,35
+1709396,1336599,2023-06-01,House,"Recede And Concur RC #105",42,101,0,7,150
+1709396,1336600,2023-06-01,House,"Insist RC #106",105,36,0,9,150
+1709435,1319225,2023-05-04,House,"Insist/ask Com Of Conf RC #47",63,76,0,11,150
+1709435,1319226,2023-05-04,House,"Recede And Concur RC #48",63,77,0,10,150
+1709435,1320808,2023-05-09,Senate,"Recede And Concur RC #124",10,20,0,5,35
+1709463,1306310,2023-04-20,House,"Acc Maj Ought Not To Pass Rep RC #35",76,58,0,16,150
+1709463,1309464,2023-04-25,Senate,"Accept Majority Ought Not To Pass Report RC #99",24,8,0,3,35
+1709476,1327740,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #86",81,55,0,14,150
+1709476,1350921,2023-07-25,Senate,"Adopt Committee Amendment As Amended By Senate Amendment RC #494",20,6,0,9,35
+1709505,1312513,2023-04-27,Senate,"Accept Report 'a' Ought Not To Pass RC #109",29,3,0,3,35
+1709587,1343848,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #212",69,71,0,10,150
+1709597,1345949,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #408",20,14,0,1,35
+1716048,1343257,2023-06-12,House,"Acc Report A Otp-am RC #184",54,87,0,9,150
+1716078,1327825,2023-05-18,House,"Acc Maj Ought Not To Pass Rep RC #89",85,50,0,15,150
+1716078,1330332,2023-05-23,Senate,"Accept Majority Ought Not To Pass Report RC #159",22,11,0,2,35
+1716188,1345089,2023-06-16,House,"Acc Rep A Ontp RC #257",113,30,0,8,151
+1716200,1340194,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #130",98,34,0,18,150
+1716363,1344238,2023-06-14,House,"Acc Min Ought Not To Pass Rep RC #223",78,69,0,3,150
+1716363,1344239,2023-06-14,Senate,"Accept Minority Ought Not To Pass Report RC #341",19,16,0,0,35
+1716415,1345933,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #360",22,12,0,1,35
+1716438,1344769,2023-06-15,House,"Acc Maj Otp As Amended Rep RC #242",75,67,0,9,151
+1716438,1345136,2023-06-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #372",21,11,0,3,35
+1716438,1430230,2024-04-17,Senate,"Suspend Rules (2/3) RC #774",20,12,0,3,35
+1716466,1317579,2023-05-03,Senate,"Accept Majority Ought Not To Pass Report RC #118",30,2,0,3,35
+1716477,1344649,2023-06-15,House,"Acc Rep B Ontp RC #239",76,68,0,7,151
+1716477,1345138,2023-06-16,Senate,"Accept Report 'b' Ought Not To Pass RC #363",22,12,0,1,35
+1716534,1327450,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #78",114,24,0,12,150
+1716553,1344039,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #228",110,37,0,3,150
+1716553,1344271,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #347",23,12,0,0,35
+1716565,1339350,2023-06-06,Senate,"Accept Majority Ought Not To Pass Report RC #222",23,12,0,0,35
+1716565,1339351,2023-06-06,Senate,"Accept Majority Ought Not To Pass Report RC #223",22,13,0,0,35
+1716565,1341392,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #137",73,65,0,12,150
+1716589,1316030,2023-05-02,Senate,"Accept Majority Ought To Pass As Amended Report RC #116",21,13,0,1,35
+1716589,1319230,2023-05-04,House,"Acc Maj Otp As Amended Rep RC #50",79,59,0,12,150
+1716602,1417950,2024-04-01,Senate,"Accept Majority Ought To Pass As Amended Report RC #644",20,13,0,2,35
+1716602,1422770,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #466",76,68,0,6,150
+1716602,1423599,2024-04-09,House,"Final Passage - Con Res RC #479",75,65,0,10,150
+1716602,1442092,2024-05-10,Senate,"Final Passage-conres 2/3 Vote RC #798",21,13,0,1,35
+1716613,1341882,2023-06-08,Senate,"Accept Majority Ought Not To Pass Report RC #254",21,13,0,1,35
+1716613,1345709,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #272",79,66,0,6,151
+1716624,1420006,2024-04-03,Senate,"Accept Minority Ought To Pass As Amended Report RC #652",22,8,0,5,35
+1716653,1320794,2023-05-09,Senate,"Accept Majority Ought Not To Pass Report RC #131",20,9,0,6,35
+1716653,1323660,2023-05-11,House,"Acc Maj Ought Not To Pass Rep RC #68",72,56,0,22,150
+1716704,1321068,2023-05-09,Senate,"Accept Majority Ought Not To Pass Report RC #130",20,9,0,6,35
+1716704,1323324,2023-05-11,House,"Acc Maj Ought Not To Pass Rep RC #67",72,56,0,22,150
+1716801,1341866,2023-06-08,Senate,"Accept Majority Ought Not To Pass Report RC #252",21,13,0,1,35
+1716801,1342839,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #169",79,63,0,8,150
+1716829,1344064,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #335",22,13,0,0,35
+1716829,1344654,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #234",79,65,0,7,151
+1716853,1345139,2023-06-16,Senate,"Accept Report 'a' Ought To Pass As Amended RC #364",30,4,0,1,35
+1716875,1341865,2023-06-08,Senate,"Accept Majority Ought To Pass As Amended Report RC #256",21,13,0,1,35
+1716915,1347445,2023-06-26,House,"Acc Maj Ought To Pass Rep RC #340",104,35,0,12,151
+1716952,1343604,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #306",28,4,0,3,35
+1716952,1343993,2023-06-14,House,"Acc Maj Otp As Amended Rep RC #215",80,65,0,5,150
+1717730,1318668,2023-05-04,Senate,"Accept Report 'a' Ought Not To Pass RC #123",21,14,0,0,35
+1717730,1321101,2023-05-09,House,"Acc Report 'a' Ought Not To Pas RC #59",78,65,0,7,150
+1717805,1327314,2023-05-18,House,"Acc Maj Ought Not To Pass Rep RC #83",108,31,0,11,150
+1717932,1342946,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #290",23,8,0,4,35
+1717932,1343571,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #198",78,63,0,9,150
+1717983,1412128,2024-03-20,Senate,"Accept Minority Ought To Pass As Amended Report RC #603",22,12,0,1,35
+1717983,1412129,2024-03-20,Senate,"Adopt Sas-590 To Cas-565 RC #604",23,11,0,1,35
+1717983,1412130,2024-03-20,Senate,"Passage To Be Engrossed As Amended RC #605",23,11,0,1,35
+1717983,1416276,2024-03-27,House,"Acc Maj Ought Not To Pass Rep RC #431",82,63,0,6,151
+1717983,1418677,2024-04-02,House,"Insist RC #445",80,64,0,7,151
+1720901,1341949,2023-06-08,Senate,"Commit RC #255",13,21,0,1,35
+1720922,1325225,2023-05-16,House,"Acc Maj Otp As Amended Rep RC #76",76,65,0,9,150
+1721041,1318616,2023-05-04,Senate,"Accept Majority Ought Not To Pass Report RC #120",22,12,0,1,35
+1721041,1321014,2023-05-09,House,"Acc Maj Ought Not To Pass Rep RC #58",77,66,0,7,150
+1721062,1343573,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #309",15,19,0,1,35
+1721062,1344063,2023-06-14,House,"Acc Min Ought Not To Pass Rep RC #217",76,70,0,4,150
+1721263,1341976,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #148",78,58,0,14,150
+1721263,1345128,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #270",25,8,0,2,35
+1721292,1339474,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #212",25,10,0,0,35
+1721350,1344777,2023-06-15,House,"Acc Maj Otp As Amended Rep RC #245",74,68,0,9,151
+1721350,1345132,2023-06-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #373",2,30,0,3,35
+1721350,1345419,2023-06-20,House,"Recede And Concur RC #263",73,72,0,6,151
+1723616,1341946,2023-06-08,Senate,"Accept Majority Ought To Pass As Amended Report RC #260",24,9,0,2,35
+1723616,1343160,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #167",80,61,0,9,150
+1723721,1327382,2023-05-18,Senate,"Accept Majority Ought To Pass As Amended Report RC #147",22,8,0,5,35
+1723740,1345938,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #367",21,13,0,1,35
+1723762,1345410,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #391",24,9,0,2,35
+1723769,1343096,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #186",81,61,0,8,150
+1723769,1343682,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #313",24,9,0,2,35
+1723789,1341814,2023-06-08,House,"Acc Maj Ought To Pass Rep RC #158",76,54,0,20,150
+1723789,1342686,2023-06-12,Senate,"Accept Majority Ought To Pass Rpt RC #273",27,5,0,3,35
+1723800,1342098,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #159",65,65,0,20,150
+1723800,1342099,2023-06-08,House,"Table Until Later RC #160",72,58,0,20,150
+1723800,1379836,2024-02-08,House,"Acc Maj Ought Not To Pass Rep RC #366",73,61,0,16,150
+1723904,1346456,2023-06-21,House,"Acc Maj Ought Not To Pass Rep RC #291",77,65,0,9,151
+1723915,1344053,2023-06-14,Senate,"Accept Report 'a' Ought Not To Pass RC #331",6,29,0,0,35
+1723915,1344648,2023-06-15,House,"Acc Rep A Ontp RC #237",76,69,0,6,151
+1723915,1345442,2023-06-20,House,"Recede And Concur RC #258",62,79,0,10,151
+1723996,1339190,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #124",78,59,0,13,150
+1723996,1340813,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #228",22,13,0,0,35
+1724017,1336862,2023-06-01,House,"Acc Maj Otp As Amended Rep RC #113",77,65,0,8,150
+1724017,1339493,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #213",22,13,0,0,35
+1724017,1430240,2024-04-17,Senate,"Suspend Rules (2/3) RC #775",19,13,0,3,35
+1724135,1323231,2023-05-11,House,"Acc Maj Ought Not To Pass Rep RC #71",72,56,0,22,150
+1724135,1325214,2023-05-16,Senate,"Accept Majority Ought Not To Pass Report RC #139",20,12,0,3,35
+1724147,1343213,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #182",67,75,0,8,150
+1724147,1343460,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #305",23,11,0,1,35
+1724147,1344259,2023-06-14,Senate,"Recede And Concur RC #338",21,14,0,0,35
+1724147,1344745,2023-06-15,Senate,"Enactment RC #350",13,22,0,0,35
+1724147,1344979,2023-06-16,House,"Recede And Concur RC #253",73,71,0,7,151
+1724210,1306609,2023-04-20,Senate,"Accept Majority Ought Not To Pass Report RC #94",26,4,0,5,35
+1724220,1346776,2023-06-21,House,"Acc Rep A Otp-am RC #299",77,64,0,10,151
+1724220,1346777,2023-06-21,Senate,"Accept Report 'a' Ought To Pass As Amended RC #438",22,12,0,1,35
+1724230,1345542,2023-06-20,House,"Commit To Hcifs RC #280",63,79,0,9,151
+1724230,1345543,2023-06-20,House,"Acc Rep A Otp-am By Ca ""a"" RC #281",75,67,0,9,151
+1724230,1346038,2023-06-21,Senate,"Accept Report 'a' Ought To Pass As Amended RC #410",22,12,0,1,35
+1724239,1330999,2023-05-23,House,"Acc Maj Otp As Amended Rep RC #94",78,61,0,11,150
+1724239,1332976,2023-05-25,Senate,"Accept Majority Ought To Pass As Amended Report RC #182",28,5,0,2,35
+1724239,1345078,2023-06-16,House,"Adopt Hah-575 To Cah-173 RC #252",75,68,0,8,151
+1724239,1430318,2024-04-17,Senate,"Suspend Rules (2/3) RC #776",21,12,0,2,35
+1724290,1424854,2024-04-10,House,"Enactment RC #491",89,58,0,3,150
+1724385,1346095,2023-06-21,House,"Acc Maj Ought Not To Pass Rep RC #294",81,65,0,5,151
+1724385,1346096,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #428",22,11,0,2,35
+1726326,1327739,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #84",80,58,0,12,150
+1726326,1331176,2023-05-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #153",23,10,0,2,35
+1726366,1270765,2023-03-07,House,"Indefinitely Postpone RC #6",62,78,0,10,150
+1726366,1270766,2023-03-07,House,"Adoption RC #7",87,54,0,9,150
+1726366,1271773,2023-03-09,Senate,"Adoption RC #37",27,4,0,4,35
+1726401,1344315,2023-06-14,House,"Acc Rep B Ontp RC #230",83,62,0,5,150
+1726443,1326025,2023-05-16,Senate,"Accept Majority Ought Not To Pass Report RC #141",20,11,0,4,35
+1726514,1345549,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #278",134,11,0,6,151
+1726514,1345550,2023-06-20,House,"Hah-634 To Cah-433 RC #279",70,75,0,6,151
+1727257,1325629,2023-05-16,Senate,"Pass To Be Engrossed As Amended RC #146",17,15,0,3,35
+1727257,1327287,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #80",67,72,0,11,150
+1727257,1327288,2023-05-18,House,"Reconsider RC #81",72,67,0,11,150
+1727257,1327818,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #82",71,67,0,12,150
+1727257,1330368,2023-05-23,House,"Reconsider RC #91",77,65,0,8,150
+1727257,1330369,2023-05-23,House,"Passage To Be Engrossed RC #92",71,72,0,7,150
+1727257,1333091,2023-05-25,Senate,"Recede And Concur RC #166",17,15,0,3,35
+1727277,1306156,2023-04-20,Senate,"Passage To Be Engrossed RC #97",30,0,0,5,35
+1727283,1343175,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #176",79,64,0,7,150
+1727283,1343816,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #300",27,6,0,2,35
+1727316,1342591,2023-06-12,Senate,"Commit RC #282",11,22,0,2,35
+1727316,1342592,2023-06-12,Senate,"Accept Minority Ought Not To Pass Report RC #283",21,12,0,2,35
+1727341,1333113,2023-05-25,Senate,"Accept Majority Ought To Pass As Amended Report RC #181",21,12,0,2,35
+1727351,1376754,2024-02-06,Senate,"Accept Majority Ought Not To Pass Report RC #511",24,10,0,1,35
+1727383,1343223,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #188",81,61,0,8,150
+1727383,1343512,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #315",22,11,0,2,35
+1727429,1346769,2023-06-22,Senate,"Recede And Concur RC #448",33,0,0,2,35
+1727449,1344791,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #241",0,136,0,15,151
+1727449,1345135,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #369",20,14,0,1,35
+1727449,1345413,2023-06-20,Senate,"Recede And Concur RC #394",12,22,0,1,35
+1727451,1344260,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #336",34,1,0,0,35
+1727451,1344661,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #236",92,53,0,6,151
+1727485,1397304,2024-02-28,House,"Acc Maj Otp As Amended Rep RC #382",75,64,0,11,150
+1727485,1402717,2024-03-05,Senate,"Accept Majority Ought To Pass As Amended Report RC #575",20,12,0,3,35
+1727495,1345032,2023-06-16,House,"Acc Min Otp-am By Ca ""a"" RC #256",66,78,0,7,151
+1727497,1346330,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #424",29,5,0,1,35
+1727531,1342944,2023-06-12,Senate,"Accept Minority Ought To Pass As Amended Report RC #284",17,16,0,2,35
+1727531,1343852,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #195",68,73,0,9,150
+1727531,1343853,2023-06-13,House,"Table Until Later RC #196",66,75,0,9,150
+1727531,1344513,2023-06-15,Senate,"Enactment RC #349",15,20,0,0,35
+1727531,1345382,2023-06-20,Senate,"Recede And Concur RC #377",13,20,0,2,35
+1727550,1345082,2023-06-16,House,"Acc Maj Ought To Pass Rep RC #248",75,65,0,11,151
+1727550,1345083,2023-06-16,House,"Reconsider Ipp H-a RC #249",68,75,0,8,151
+1727550,1345375,2023-06-20,Senate,"Accept Majority Ought To Pass Report RC #379",23,10,0,2,35
+1727550,1345376,2023-06-20,Senate,"Adopt Senate Amendment (s-362) To Ld 1040 RC #380",12,21,0,2,35
+1727550,1345377,2023-06-20,Senate,"Adopt Sas-362 RC #381",11,22,0,2,35
+1727550,1345378,2023-06-20,Senate,"Passage To Be Engrossed RC #382",23,10,0,2,35
+1727559,1343633,2023-06-13,Senate,"Accept Minority Ought Not To Pass Report RC #307",18,16,0,1,35
+1727559,1344136,2023-06-14,House,"Acc Min Ought Not To Pass Rep RC #218",78,69,0,3,150
+1727572,1343260,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #187",68,74,0,8,150
+1727572,1344543,2023-06-15,House,"Enactment RC #231",88,54,0,9,151
+1727575,1312927,2023-04-27,House,"Acc Maj Ought Not To Pass Rep RC #46",80,60,0,10,150
+1727575,1316464,2023-05-02,Senate,"Accept Majority Ought Not To Pass Report RC #114",22,11,0,2,35
+1729447,1320769,2023-05-09,Senate,"Accept Majority Ought To Pass As Amended Report RC #129",23,6,0,6,35
+1729552,1318628,2023-05-04,Senate,"Accept Majority Ought Not To Pass Report RC #121",24,10,0,1,35
+1729873,1326002,2023-05-16,House,"Acc Maj Otp As Amended Rep RC #77",66,72,0,12,150
+1729873,1333493,2023-05-25,House,"Recede And Concur RC #99",64,78,0,8,150
+1729887,1345437,2023-06-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #378",21,12,0,2,35
+1729979,1344212,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #224",82,65,0,3,150
+1730086,1341732,2023-06-08,House,"Acc Maj Otp As Amended Rep RC #146",70,67,0,13,150
+1730086,1342883,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #268",22,10,0,3,35
+1730112,1319185,2023-05-04,House,"Acc Maj Ought Not To Pass Rep RC #54",76,62,0,12,150
+1730112,1321192,2023-05-09,Senate,"Accept Majority Ought Not To Pass Report RC #126",19,11,0,5,35
+1730127,1344264,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #219",86,60,0,4,150
+1730152,1346795,2023-06-22,House,"Enactment RC #306",105,38,0,8,151
+1730264,1326197,2023-05-16,House,"Acc Min Ought Not To Pass Rep RC #75",61,80,0,9,150
+1730264,1331098,2023-05-23,Senate,"Accept Minority Ought Not To Pass Report RC #165",20,11,0,4,35
+1730264,1335038,2023-05-30,Senate,"Recede And Concur RC #188",13,17,0,5,35
+1730313,1325218,2023-05-16,House,"Acc Maj Ought Not To Pass Rep RC #74",73,68,0,9,150
+1730330,1343687,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #213",83,56,0,11,150
+1730343,1377767,2024-02-06,House,"Acc Min Otp As Amended Rep RC #365",42,92,0,16,150
+1730343,1379254,2024-02-08,Senate,"Accept Majority Ought Not To Pass Report RC #512",21,12,0,2,35
+1731698,1345694,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #282",80,65,0,6,151
+1731698,1346101,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #417",22,12,0,1,35
+1732483,1413738,2024-03-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #614",22,10,0,3,35
+1732483,1414563,2024-03-25,House,"Acc Maj Otp As Amended Rep RC #419",72,59,0,20,151
+1732483,1442140,2024-05-10,Senate,"Enactment RC #800",20,11,0,4,35
+1732627,1318704,2023-05-04,Senate,"Accept Majority Ought Not To Pass Report RC #122",21,14,0,0,35
+1732627,1321085,2023-05-09,House,"Acc Maj Ought Not To Pass Rep RC #57",78,64,0,8,150
+1733076,1397994,2024-02-28,House,"Acc Maj Ought Not To Pass Rep RC #383",115,23,0,12,150
+1733101,1345739,2023-06-20,Senate,"Indefinitely Postpone RC #389",11,22,0,2,35
+1733101,1345740,2023-06-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #390",22,11,0,2,35
+1733101,1345741,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #288",78,66,0,7,151
+1733101,1430341,2024-04-17,Senate,"Suspend Rules (2/3) RC #777",20,13,0,2,35
+1733190,1427895,2024-04-16,Senate,"Enactment-bond Issue RC #745",29,3,0,3,35
+1733200,1345329,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #262",76,68,0,7,151
+1733200,1345734,2023-06-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #399",22,11,0,2,35
+1733269,1341696,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #156",75,54,0,21,150
+1733355,1350922,2023-07-25,Senate,"Enactment RC #496",17,10,0,8,35
+1733366,1343646,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #205",81,60,0,9,150
+1733366,1344120,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #325",22,13,0,0,35
+1733377,1430249,2024-04-17,Senate," RC #765",25,8,0,2,35
+1733377,1430250,2024-04-17,Senate,"Enactment RC #766",27,6,0,2,35
+1733465,1327859,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #87",79,57,0,14,150
+1733465,1330923,2023-05-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #158",21,12,0,2,35
+1734121,1342001,2023-06-08,Senate,"Accept Majority Ought To Pass As Amended Report RC #257",34,0,0,1,35
+1738276,1323725,2023-05-11,House,"Acc Maj Ought Not To Pass Rep RC #72",109,19,0,22,150
+1738291,1339140,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #117",77,63,0,10,150
+1738291,1340534,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #224",22,12,0,1,35
+1738306,1341816,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #141",76,64,0,10,150
+1738306,1342734,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #264",22,11,0,2,35
+1738403,1345434,2023-06-20,House,"Acc Report A Ontp RC #274",79,66,0,6,151
+1738403,1345927,2023-06-21,Senate,"Accept Report 'a' Ought Not To Pass RC #411",24,10,0,1,35
+1742359,1319329,2023-05-04,House,"Acc Maj Ought Not To Pass Rep RC #55",72,65,0,13,150
+1742359,1321092,2023-05-09,Senate,"Accept Majority Ought Not To Pass Report RC #127",19,11,0,5,35
+1743477,1346291,2023-06-21,Senate,"Accept Report 'a' Ought To Pass As Amended RC #435",18,16,0,1,35
+1743604,1333515,2023-05-25,Senate,"Accept Minority Ought Not To Pass Report RC #185",19,12,0,4,35
+1743604,1335039,2023-05-30,House,"Acc Min Ought Not To Pass Rep RC #100",76,64,0,10,150
+1743637,1333016,2023-05-25,Senate,"Accept Majority Ought Not To Pass Report RC #186",19,12,0,4,35
+1743637,1335022,2023-05-30,House,"Acc Maj Ought Not To Pass Rep RC #101",77,62,0,11,150
+1743985,1325236,2023-05-16,Senate,"Accept Minority Ought Not To Pass Report RC #145",19,13,0,3,35
+1743985,1330391,2023-05-23,Senate,"Recede And Concur RC #149",12,20,0,3,35
+1744028,1341229,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #238",21,13,0,1,35
+1744140,1345919,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #293",78,68,0,5,151
+1744140,1346333,2023-06-21,Senate,"Accept Minority Ought Not To Pass Report RC #427",22,12,0,1,35
+1744146,1333235,2023-05-25,House,"Acc Maj Ought Not To Pass Rep RC #98",78,63,0,9,150
+1744146,1335142,2023-05-30,Senate,"Accept Majority Ought Not To Pass Report RC #191",18,12,0,5,35
+1744160,1423434,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #469",88,57,0,5,150
+1744160,1424478,2024-04-10,Senate,"Accept Majority Ought To Pass As Amended Report RC #680",22,12,0,1,35
+1744160,1426583,2024-04-12,Senate,"Enactment RC #716",20,13,0,2,35
+1744160,1442084,2024-05-10,House,"Reconsideration - Veto RC #556",57,65,0,27,149
+1744194,1345395,2023-06-20,House,"Acc Report A Ontp RC #271",81,64,0,6,151
+1744194,1345844,2023-06-21,Senate,"Accept Report 'a' Ought Not To Pass RC #413",26,8,0,1,35
+1744319,1345455,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #261",82,62,0,7,151
+1744332,1319326,2023-05-04,House,"Acc Maj Ought Not To Pass Rep RC #56",76,60,0,14,150
+1744332,1321079,2023-05-09,Senate,"Accept Majority Ought Not To Pass Report RC #128",19,11,0,5,35
+1744342,1341760,2023-06-08,House,"Report A Otp As Amended RC #157",71,59,0,20,150
+1744342,1342616,2023-06-12,Senate,"Accept Report 'a' Ought To Pass As Amended RC #279",19,14,0,2,35
+1744366,1339633,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #125",76,61,0,13,150
+1744366,1340734,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #229",21,13,0,1,35
+1744386,1344280,2023-06-14,House,"Acc Rep A Otp-am RC #229",82,64,0,4,150
+1744982,1343909,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #320",24,9,0,2,35
+1744982,1344151,2023-06-14,House,"Acc Maj Otp As Amended Rep RC #216",80,65,0,5,150
+1744991,1344277,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #225",80,67,0,3,150
+1744991,1344278,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #342",19,16,0,0,35
+1745031,1340369,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #129",74,58,0,18,150
+1745178,1417831,2024-04-01,House,"Acc Maj Otp As Amended Rep RC #443",65,73,0,13,151
+1745178,1418775,2024-04-02,Senate,"Accept Majority Ought To Pass As Amended Report RC #648",11,21,0,3,35
+1745196,1344262,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #222",81,66,0,3,150
+1745196,1344263,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #340",25,10,0,0,35
+1745534,1340695,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #239",21,13,0,1,35
+1745677,1317908,2023-05-03,Senate,"Accept Minority Ought Not To Pass Report RC #117",19,12,0,4,35
+1745708,1330287,2023-05-23,Senate,"Accept Majority Ought Not To Pass Report RC #161",20,13,0,2,35
+1746402,1325759,2023-05-16,Senate,"Accept Majority Ought Not To Pass Report RC #142",15,17,0,3,35
+1746402,1325760,2023-05-16,Senate,"Table Until Later RC #143",20,12,0,3,35
+1746402,1331155,2023-05-23,Senate,"Accept Majority Ought Not To Pass Report RC #163",21,12,0,2,35
+1747342,1325537,2023-05-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #140",21,11,0,3,35
+1747646,1424322,2024-04-10,Senate,"Accept Majority Ought To Pass As Amended Report RC #675",23,10,0,2,35
+1747646,1424760,2024-04-10,House,"Enactment RC #492",80,67,0,3,150
+1747655,1416916,2024-03-28,House,"Acc Maj Otp As Amended Rep RC #439",82,63,0,6,151
+1747655,1417924,2024-04-01,Senate,"Accept Majority Ought To Pass As Amended Report RC #641",21,12,0,2,35
+1747655,1417925,2024-04-01,Senate,"Accept Majority Ought To Pass As Amended Report RC #642",22,11,0,2,35
+1747662,1343596,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #316",23,10,0,2,35
+1747689,1344544,2023-06-15,House,"Acc Rep A Otp-am RC #235",77,66,0,8,151
+1747689,1345465,2023-06-20,Senate,"Accept Report 'a' Ought To Pass As Amended RC #401",16,18,0,1,35
+1747695,1345556,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #283",80,65,0,6,151
+1747695,1346058,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #422",22,12,0,1,35
+1747701,1347731,2023-06-27,House,"Acc Min Ought Not To Pass Rep RC #342",66,79,0,6,151
+1747701,1347732,2023-06-27,House,"Adopt Hah-714 To Cah-605 RC #343",92,51,0,8,151
+1747701,1349696,2023-07-06,Senate,"Accept Minority Ought Not To Pass Report RC #469",20,12,0,3,35
+1747701,1349843,2023-07-06,Senate,"Recede And Concur RC #479",11,20,0,4,35
+1747701,1349844,2023-07-06,Senate,"Insist/ask For Committee Of Conference RC #480",13,18,0,4,35
+1747704,1342033,2023-06-08,House,"Acc Maj Otp As Amended Rep RC #150",73,63,0,14,150
+1747704,1342729,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #274",22,11,0,2,35
+1747723,1342063,2023-06-08,House,"Acc Maj Otp As Amended Rep RC #155",68,62,0,20,150
+1747723,1342692,2023-06-12,Senate,"Accept Report 'a' Ought To Pass As Amended RC #280",20,13,0,2,35
+1747729,1341960,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #149",74,63,0,13,150
+1747729,1342927,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #271",22,11,0,2,35
+1747750,1347083,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #443",23,9,0,3,35
+1747750,1347168,2023-06-23,Senate,"Recede And Concur RC #451",12,20,0,3,35
+1747750,1347169,2023-06-23,Senate,"Insist RC #452",12,20,0,3,35
+1747750,1347170,2023-06-23,House,"Indefinitely Postpone RC #322",97,33,0,21,151
+1747755,1345684,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #276",82,63,0,6,151
+1747755,1345800,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #405",28,6,0,1,35
+1747768,1345131,2023-06-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #361",29,4,0,2,35
+1747795,1344760,2023-06-15,House,"Acc Maj Otp As Amended Rep RC #244",76,66,0,9,151
+1747795,1345142,2023-06-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #371",12,21,0,2,35
+1747795,1345440,2023-06-20,House,"Recede And Concur RC #264",66,78,0,7,151
+1747800,1347126,2023-06-23,House,"Acc Min Ought Not To Pass Rep RC #324",48,82,0,21,151
+1747800,1347253,2023-06-23,Senate,"Accept Minority Ought Not To Pass Report RC #454",14,18,0,3,35
+1747800,1349723,2023-07-06,Senate,"Adopt Senate Amendment (s-438) To Committee Amendment ""a"" RC #475",25,6,0,4,35
+1747800,1349724,2023-07-06,Senate,"Passage To Be Engrossed As Amended RC #476",14,17,0,4,35
+1747804,1339486,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #217",22,13,0,0,35
+1747812,1371856,2024-01-30,House,"Acc Min Otp As Amended Rep RC #362",55,82,0,13,150
+1747825,1347262,2023-06-23,House,"Acc Maj Otp As Amended Rep RC #329",113,13,0,25,151
+1747825,1347263,2023-06-23,House,"Adopt Hbh-601 To Cah-384 RC #330",11,111,0,29,151
+1747825,1347655,2023-06-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #460",26,7,0,2,35
+1747832,1346589,2023-06-21,House,"Acc Min Otp-am Report RC #301",45,94,0,12,151
+1747837,1343055,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #189",71,70,0,9,150
+1747837,1343669,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #317",22,11,0,2,35
+1748016,1327820,2023-05-18,House,"Acc Maj Otp As Amended Rep RC #88",82,50,0,18,150
+1748858,1343082,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #190",76,63,0,11,150
+1748932,1419056,2024-04-02,House,"Report A Ought To Pass Am RC #455",101,41,0,9,151
+1748932,1426591,2024-04-12,Senate,"Accept Report 'a' Ought To Pass As Amended RC #714",29,4,0,2,35
+1748932,1426592,2024-04-12,Senate,"Adopt Sbs-694 RC #715",29,4,0,2,35
+1749237,1345496,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #392",31,2,0,2,35
+1749300,1343717,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #319",19,14,0,2,35
+1749300,1417781,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #319",19,14,0,2,35
+1749917,1341829,2023-06-08,House,"Acc Maj Ought To Pass Rep RC #151",73,62,0,15,150
+1749917,1343030,2023-06-12,Senate,"Accept Majority Ought To Pass Rpt RC #275",22,11,0,2,35
+1750040,1347750,2023-06-27,House,"Acc Maj Otp As Amended Rep RC #344",99,43,0,9,151
+1750040,1349682,2023-07-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #470",25,7,0,3,35
+1750101,1342690,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #272",14,19,0,2,35
+1750213,1418903,2024-04-02,House,"Acc Maj Otp As Amended Rep RC #451",81,66,0,4,151
+1750213,1442145,2024-05-10,Senate,"Enactment RC #801",20,10,0,5,35
+1750295,1339476,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #119",116,22,0,12,150
+1750340,1340704,2023-06-07,Senate,"Accept Majority Ought To Pass Rpt RC #242",20,13,0,2,35
+1750467,1344765,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #238",81,63,0,7,151
+1750467,1345813,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #362",23,11,0,1,35
+1750551,1343822,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #209",77,64,0,9,150
+1750551,1344258,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #329",24,11,0,0,35
+1750594,1335144,2023-05-30,House,"Acc Maj Otp As Amended Rep RC #103",86,57,0,7,150
+1750594,1340897,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #231",23,12,0,0,35
+1750594,1340898,2023-06-07,Senate,"Adopt Senate Amendment (s-207) To Committee Amendment RC #232",11,24,0,0,35
+1750594,1344677,2023-06-15,Senate,"Enactment RC #353",24,11,0,0,35
+1750679,1345987,2023-06-21,House,"Final Passage - Con Res RC #290",82,64,0,5,151
+1750703,1345283,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #259",73,72,0,6,151
+1750703,1346516,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #439",15,18,0,2,35
+1751282,1289742,2023-03-30,Senate,"Passage RC #66",22,9,0,4,35
+1751282,1289743,2023-03-30,House,"Passage RC #25",75,42,0,33,150
+1752221,1294086,2023-04-05,Senate,"Adoption RC #72",12,20,0,3,35
+1752370,1429348,2024-04-17,House,"Acc Maj Otp As Amended Rep RC #539",80,63,0,7,150
+1752380,1418853,2024-04-02,House,"Acc Maj Otp As Amended Rep RC #449",120,25,0,6,151
+1752400,1346503,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #429",22,12,0,1,35
+1752430,1341790,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #154",72,59,0,19,150
+1752441,1336679,2023-06-01,House,"Acc Maj Ought Not To Pass Rep RC #111",78,63,0,9,150
+1752441,1339491,2023-06-06,Senate,"Accept Majority Ought Not To Pass Report RC #210",23,12,0,0,35
+1752464,1410859,2024-03-19,House,"Acc Maj Otp As Amended Rep RC #414",74,63,0,14,151
+1752464,1410860,2024-03-19,House,"Table Until Later RC #415",63,72,0,16,151
+1752464,1410861,2024-03-19,House,"Adopt Hah-838 To Cah-831 RC #416",74,64,0,13,151
+1752464,1411966,2024-03-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #602",21,13,0,1,35
+1752493,1396195,2024-02-27,House,"Acc Maj Otp As Amended Rep RC #377",78,62,0,10,150
+1752493,1397911,2024-02-28,Senate,"Accept Majority Ought To Pass As Amended Report RC #562",20,11,0,4,35
+1752493,1409055,2024-03-14,House,"Enactment RC #407",79,56,0,16,151
+1752493,1418698,2024-04-02,House,"Reconsideration - Veto RC #446",74,72,0,5,151
+1752514,1344759,2023-06-15,House,"Acc Maj Otp As Amended Rep RC #247",75,64,0,12,151
+1752514,1345140,2023-06-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #370",25,9,0,1,35
+1752560,1341758,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #142",76,64,0,10,150
+1752560,1342581,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #265",22,11,0,2,35
+1752578,1345540,2023-06-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #396",22,12,0,1,35
+1752590,1430272,2024-04-17,Senate,"Suspend Rules (2/3) RC #778",21,12,0,2,35
+1752601,1339407,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #118",76,63,0,11,150
+1752621,1341891,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #147",71,67,0,12,150
+1752621,1342824,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #269",22,11,0,2,35
+1752644,1410882,2024-03-19,House,"Acc Maj Otp As Amended Rep RC #409",75,60,0,16,151
+1752644,1442080,2024-05-10,Senate,"Enactment RC #802",18,12,0,5,35
+1752658,1341116,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #240",22,13,0,0,35
+1752706,1343913,2023-06-13,House,"Acc Maj Otp As Amended Rep RC #210",98,43,0,9,150
+1752721,1426370,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #701",33,1,0,1,35
+1752721,1426371,2024-04-12,Senate,"Adopt Sas-686 RC #702",23,11,0,1,35
+1752733,1333541,2023-05-25,Senate,"Accept Majority Ought To Pass As Amended Report RC #187",19,12,0,4,35
+1752733,1337105,2023-06-01,House,"Acc Maj Otp As Amended Rep RC #107",77,64,0,9,150
+1752733,1430375,2024-04-17,Senate,"Suspend Rules (2/3) RC #785",20,13,0,2,35
+1752733,1442164,2024-05-10,Senate,"Suspend Rules (2/3) RC #795",21,13,0,1,35
+1752806,1339537,2023-06-06,Senate,"Accept Report 'a' Ought Not To Pass RC #221",23,12,0,0,35
+1752830,1392300,2024-02-22,Senate,"Accept Majority Ought Not To Pass Report RC #543",21,10,0,4,35
+1752830,1392301,2024-02-22,Senate,"Accept Majority Ought Not To Pass Report RC #544",20,11,0,4,35
+1752830,1396764,2024-02-27,House,"Acc Maj Ought Not To Pass Rep RC #376",74,63,0,13,150
+1752852,1425592,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #686",17,18,0,0,35
+1752852,1426028,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #685",17,18,0,0,35
+1753426,1344281,2023-06-14,House,"Acc Maj Otp As Amended Rep RC #220",82,65,0,3,150
+1753471,1325600,2023-05-16,Senate,"Accept Minority Ought To Pass As Amended Report RC #144",23,9,0,3,35
+1753471,1345130,2023-06-16,Senate,"Recede And Concur RC #359",5,29,0,1,35
+1753511,1342951,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #179",76,67,0,7,150
+1753511,1343582,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #303",20,13,0,2,35
+1753534,1345477,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #268",79,64,0,8,151
+1753534,1345983,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #407",26,8,0,1,35
+1753848,1345677,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #388",22,12,0,1,35
+1753848,1345678,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #286",79,65,0,7,151
+1754111,1388606,2024-02-20,Senate,"Accept Majority Ought Not To Pass Report RC #534",19,11,0,5,35
+1754114,1402963,2024-03-05,House,"Acc Report 'b' Otp As Amend RC #392",74,67,0,9,150
+1754114,1408505,2024-03-13,Senate,"Accept Report 'a' Ought Not To Pass RC #583",15,20,0,0,35
+1754114,1408506,2024-03-13,Senate,"Accept Report 'b' Ought To Pass As Amended RC #584",22,13,0,0,35
+1754114,1408507,2024-03-13,Senate,"Passage To Be Engrossed As Amended RC #585",23,12,0,0,35
+1754114,1408508,2024-03-13,Senate,"Reconsider RC #588",11,24,0,0,35
+1754114,1410887,2024-03-19,House,"Table Until Later RC #411",74,63,0,14,151
+1754114,1418749,2024-04-02,House,"Enactment RC #453",73,72,0,6,151
+1754114,1419579,2024-04-03,Senate,"Indefinitely Postpone RC #654",11,19,0,5,35
+1754114,1419580,2024-04-03,Senate,"Enactment RC #655",18,12,0,5,35
+1754116,1341943,2023-06-08,Senate,"Accept Majority Ought Not To Pass Report RC #253",19,15,0,1,35
+1754116,1342520,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #170",77,64,0,9,150
+1754120,1341806,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #143",78,62,0,10,150
+1754120,1342698,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #266",23,10,0,2,35
+1754127,1345531,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #287",80,64,0,7,151
+1754127,1346030,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #418",22,11,0,2,35
+1754130,1345730,2023-06-20,Senate,"Accept Report 'a' Ought To Pass As Amended RC #400",29,5,0,1,35
+1754131,1339662,2023-06-06,Senate,"Accept Majority Ought Not To Pass Report RC #209",23,12,0,0,35
+1754136,1339533,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #116",74,66,0,10,150
+1754139,1342035,2023-06-08,House,"Adjourn RC #152",60,73,0,17,150
+1754139,1342036,2023-06-08,House,"Acc Maj Otp As Amended Rep RC #153",71,62,0,17,150
+1754139,1342737,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #276",22,11,0,2,35
+1754141,1343282,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #289",21,10,0,4,35
+1754141,1343465,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #197",75,65,0,10,150
+1754150,1343676,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #207",76,65,0,9,150
+1754151,1372784,2024-01-30,House,"Table Until Later RC #363",77,59,0,14,150
+1754154,1339618,2023-06-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #220",35,0,0,0,35
+1754158,1343261,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #180",73,69,0,8,150
+1754158,1343859,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #304",22,10,0,3,35
+1754273,1346928,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #447",19,12,0,4,35
+1754313,1345468,2023-06-20,House,"Acc Report A Ontp RC #275",79,66,0,6,151
+1754313,1345973,2023-06-21,Senate,"Accept Report 'a' Ought Not To Pass RC #412",25,9,0,1,35
+1754342,1347260,2023-06-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #457",19,13,0,3,35
+1754342,1350914,2023-07-25,House,"Reconsideration - Veto RC #356",73,50,0,27,150
+1754604,1339422,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #120",76,64,0,10,150
+1754604,1340613,2023-06-07,Senate,"Indefinitely Postpone RC #225",12,23,0,0,35
+1754653,1346491,2023-06-22,House,"Acc Maj Otp As Amended Rep RC #305",98,48,0,5,151
+1754653,1346891,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #445",31,0,0,4,35
+1754700,1298565,2023-04-12,House,"Reference RC #30",72,61,0,17,150
+1754700,1347054,2023-06-22,House,"Acc Maj Ought To Pass Rep RC #312",74,72,0,5,151
+1754700,1347055,2023-06-22,House,"Motion To Adjourn RC #313",66,79,0,6,151
+1754700,1347056,2023-06-22,House,"Reconsider Adopting Ca-a RC #314",68,77,0,6,151
+1754700,1347057,2023-06-22,House,"Suspension Of Joint Rule 308 RC #315",78,65,0,8,151
+1754700,1347058,2023-06-22,House,"Commit To Comm Judiciary RC #316",69,74,0,8,151
+1754700,1347059,2023-06-22,House,"Indefinitely Postpone RC #317",66,76,0,9,151
+1754700,1347060,2023-06-22,House,"Adjournment RC #318",65,77,0,9,151
+1754700,1347061,2023-06-22,House,"Ruling Of The Chair RC #319",87,54,0,10,151
+1754700,1347062,2023-06-22,House,"Passage To Be Engrossed RC #320",75,62,0,14,151
+1754700,1347667,2023-06-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #461",21,13,0,1,35
+1754700,1347668,2023-06-27,Senate,"Indefinitely Postpone Sas-431 RC #462",23,11,0,1,35
+1754700,1347669,2023-06-27,Senate,"Passage To Be Engrossed As Amended RC #463",21,13,0,1,35
+1754700,1347786,2023-06-27,House,"Enactment RC #345",73,69,0,9,151
+1754700,1349840,2023-07-06,Senate,"Enactment RC #483",20,11,0,4,35
+1754713,1343862,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #308",21,13,0,1,35
+1754721,1344768,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #246",74,67,0,10,151
+1754721,1345137,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #368",24,10,0,1,35
+1754734,1416270,2024-03-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #626",22,13,0,0,35
+1754776,1341890,2023-06-08,Senate,"Accept Majority Ought Not To Pass Report RC #263",30,2,0,3,35
+1754800,1339646,2023-06-06,Senate,"Accept Majority Ought Not To Pass Report RC #218",22,13,0,0,35
+1754800,1341671,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #138",76,63,0,11,150
+1754896,1344762,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #243",79,63,0,9,151
+1754896,1345141,2023-06-16,Senate,"Accept Majority Ought Not To Pass Report RC #374",21,11,0,3,35
+1754914,1340889,2023-06-07,Senate,"Accept Minority Ought Not To Pass Report RC #241",22,12,0,1,35
+1754914,1342525,2023-06-12,House,"Insist RC #163",77,61,0,12,150
+1754914,1343623,2023-06-13,Senate,"Recede And Concur RC #292",13,18,0,4,35
+1754928,1341480,2023-06-08,House,"Acc Maj Ought Not To Pass Rep RC #144",75,66,0,9,150
+1754928,1342575,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #267",22,11,0,2,35
+1754969,1350930,2023-07-25,House,"Recede And Concur RC #357",84,12,0,54,150
+1755016,1425757,2024-04-11,House,"Report ""a"" Otp-am By Ca ""a"" RC #504",79,67,0,4,150
+1755016,1425758,2024-04-11,Senate,"Accept Report 'a' Ought To Pass As Amended RC #696",26,7,0,2,35
+1755107,1347248,2023-06-23,Senate,"Accept Report 'b' Ought Not To Pass RC #450",18,13,0,4,35
+1755111,1342730,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #278",23,10,0,2,35
+1755117,1377334,2024-02-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #510",21,13,0,1,35
+1755117,1385326,2024-02-15,House,"Acc Maj Otp As Amended Rep RC #367",76,56,0,18,150
+1755160,1344100,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #330",23,11,0,1,35
+1755169,1417259,2024-03-28,House,"Acc Maj Otp As Amended Rep RC #438",81,64,0,6,151
+1755169,1418381,2024-04-01,Senate,"Accept Majority Ought To Pass As Amended Report RC #640",20,13,0,2,35
+1755172,1346504,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #436",28,6,0,1,35
+1755172,1347082,2023-06-22,House,"Acc Maj Otp As Amended Rep RC #307",78,63,0,10,151
+1755498,1346352,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #434",23,11,0,1,35
+1755498,1347226,2023-06-23,House,"Acc Maj Otp As Amended Rep RC #323",73,55,0,23,151
+1755523,1422759,2024-04-09,Senate,"Accept Majority Ought Not To Pass Report RC #665",8,26,0,1,35
+1755523,1424211,2024-04-10,House,"Acc Maj Ought Not To Pass Rep RC #487",75,70,0,5,150
+1755537,1344369,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #337",13,21,0,1,35
+1755537,1344690,2023-06-15,Senate,"Insist RC #351",31,3,0,1,35
+1755664,1425950,2024-04-11,House,"Report ""a' Otp-am By Ca ""a"" RC #506",76,72,0,2,150
+1755664,1426574,2024-04-12,Senate,"Accept Report 'a' Ought To Pass As Amended RC #710",13,20,0,2,35
+1755664,1427010,2024-04-15,House,"Recede And Concur RC #518",71,69,0,10,150
+1755672,1344229,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #327",22,13,0,0,35
+1755680,1339949,2023-06-06,House,"Acc Maj Otp As Amended Rep RC #134",73,51,0,26,150
+1755680,1340831,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #243",27,6,0,2,35
+1755685,1442136,2024-05-10,Senate,"Final Passage RC #804",20,11,0,4,35
+1755692,1343123,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #173",79,63,0,8,150
+1755692,1343756,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #298",13,20,0,2,35
+1755694,1340316,2023-06-06,House,"Acc Maj Ought To Pass Rep RC #127",112,20,0,18,150
+1755697,1344997,2023-06-16,House,"Acc Maj Ought Not To Pass Rep RC #250",75,66,0,10,151
+1755697,1345332,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #383",21,12,0,2,35
+1755701,1341892,2023-06-08,Senate,"Accept Majority Ought To Pass As Amended Report RC #251",33,1,0,1,35
+1755730,1344256,2023-06-14,Senate,"Accept Minority Ought Not To Pass Report RC #343",20,15,0,0,35
+1755730,1347264,2023-06-23,Senate,"Recede And Concur RC #459",16,11,0,8,35
+1755740,1339555,2023-06-06,House,"Acc Maj Ought Not To Pass Rep RC #128",75,57,0,18,150
+1755740,1341123,2023-06-07,Senate,"Accept Majority Ought Not To Pass Report RC #244",20,13,0,2,35
+1755748,1430357,2024-04-17,House,"Recede And Concur RC #548",99,39,0,12,150
+1755748,1430358,2024-04-17,Senate,"Suspend Rules (2/3) RC #786",32,1,0,2,35
+1755748,1430359,2024-04-17,Senate,"Adopt Sas-731 RC #787",32,1,0,2,35
+1756469,1342738,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #286",22,11,0,2,35
+1756583,1343625,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #311",33,1,0,1,35
+1756788,1345736,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #284",80,64,0,7,151
+1756788,1345849,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #419",21,13,0,1,35
+1756839,1408435,2024-03-13,House,"Acc Maj Ought Not To Pass Rep RC #404",30,106,0,15,151
+1756848,1346882,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #302",80,58,0,13,151
+1756972,1339468,2023-06-06,Senate,"Accept Majority Ought To Pass Rpt RC #219",23,12,0,0,35
+1756972,1341396,2023-06-08,House,"Acc Maj Ought To Pass Rep RC #139",75,66,0,9,150
+1756972,1349845,2023-07-06,Senate,"Adopt Sbs-436 RC #481",22,9,0,4,35
+1756972,1349846,2023-07-06,Senate,"Passage To Be Engrossed As Amended RC #482",22,9,0,4,35
+1756972,1349847,2023-07-06,House,"Recede And Concur RC #354",76,52,0,23,151
+1757065,1306335,2023-04-20,Senate,"Table Until Later RC #93",17,13,0,5,35
+1757065,1388399,2024-02-20,Senate,"Accept Majority Ought To Pass Report RC #535",12,18,0,5,35
+1757149,1345922,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #409",21,13,0,1,35
+1757228,1345850,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #420",12,22,0,1,35
+1758082,1343800,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #318",22,11,0,2,35
+1758082,1344240,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #214",82,65,0,3,150
+1758098,1423706,2024-04-09,Senate,"Accept Report 'a' Ought To Pass As Amended RC #666",22,12,0,1,35
+1758098,1424735,2024-04-10,House,"Report 'a' Otp-am By Ca 'a' RC #488",82,66,0,2,150
+1758098,1442156,2024-05-10,Senate,"Final Passage RC #805",20,11,0,4,35
+1758117,1399029,2024-02-29,House,"Enactment - Emer RC #388",124,13,0,13,150
+1758132,1402742,2024-03-05,House,"Acc Maj Otp As Amended Rep RC #391",81,60,0,9,150
+1758132,1404139,2024-03-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #577",21,13,0,1,35
+1758150,1422950,2024-04-09,House,"Reconsider RC #470",139,4,0,7,150
+1758150,1423700,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #471",71,74,0,5,150
+1758150,1424256,2024-04-10,Senate,"Accept Majority Ought To Pass As Amended Report RC #681",14,20,0,1,35
+1758150,1424257,2024-04-10,Senate,"Table Until Later RC #682",27,7,0,1,35
+1758150,1427825,2024-04-16,Senate,"Accept Minority Ought Not To Pass Report RC #737",15,19,0,1,35
+1758150,1427826,2024-04-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #738",18,16,0,1,35
+1758150,1427827,2024-04-16,Senate,"Adopt Sas-706 RC #739",12,22,0,1,35
+1758150,1427828,2024-04-16,Senate,"Indefinitely Postpone RC #740",14,20,0,1,35
+1758150,1427829,2024-04-16,Senate,"Suspend Rules (2/3) RC #741",15,19,0,1,35
+1758150,1427830,2024-04-16,Senate,"Passage To Be Engrossed As Amended RC #743",19,13,0,3,35
+1758150,1428312,2024-04-16,House,"Recede And Concur RC #529",70,75,0,5,150
+1758150,1429376,2024-04-17,Senate,"Recede And Concur RC #753",12,21,0,2,35
+1758177,1345848,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #423",31,3,0,1,35
+1758185,1345031,2023-06-16,House,"Acc Maj Ought Not To Pass Rep RC #251",99,44,0,8,151
+1758185,1345381,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #384",30,3,0,2,35
+1758199,1416912,2024-03-28,House,"Acc Maj Ought Not To Pass Rep RC #436",72,73,0,6,151
+1758199,1416913,2024-03-28,House,"Acc Min Otp As Amended Rep RC #437",75,70,0,6,151
+1758199,1418126,2024-04-01,Senate,"Accept Minority Ought To Pass As Amended Report RC #639",19,14,0,2,35
+1758199,1418821,2024-04-02,House,"Enactment RC #452",79,67,0,5,151
+1758208,1426597,2024-04-12,House,"Acc Maj Otp As Amended Rep RC #511",76,63,0,11,150
+1758208,1426598,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #720",22,11,0,2,35
+1758295,1336927,2023-06-01,House,"Acc Maj Ought To Pass Rep RC #110",76,66,0,8,150
+1758301,1349694,2023-07-06,Senate,"Remove From Special Study Table RC #472",11,20,0,4,35
+1758310,1426585,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #721",27,6,0,2,35
+1758329,1335025,2023-05-30,Senate,"Accept Majority Ought Not To Pass Report RC #193",19,11,0,5,35
+1758329,1336602,2023-06-01,House,"Acc Maj Ought Not To Pass Rep RC #108",78,65,0,7,150
+1758338,1344040,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #322",22,13,0,0,35
+1758338,1344571,2023-06-15,House,"Acc Maj Ought Not To Pass Rep RC #232",80,66,0,5,151
+1758358,1345514,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #270",79,63,0,9,151
+1758358,1346012,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #406",23,11,0,1,35
+1758889,1345738,2023-06-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #398",26,7,0,2,35
+1759187,1425495,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #498",84,60,0,6,150
+1759212,1345235,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #385",12,21,0,2,35
+1759223,1416217,2024-03-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #625",22,13,0,0,35
+1759223,1416958,2024-03-28,House,"Acc Maj Otp As Amended Rep RC #435",78,66,0,7,151
+1759273,1345986,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #416",5,29,0,1,35
+1759292,1343232,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #177",80,63,0,7,150
+1759292,1345147,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #301",21,12,0,2,35
+1759378,1336914,2023-06-01,House,"Acc Maj Ought To Pass Rep RC #112",78,64,0,8,150
+1759378,1339401,2023-06-06,Senate,"Accept Majority Ought To Pass Rpt RC #211",22,13,0,0,35
+1759402,1405727,2024-03-07,House,"Acc Maj Otp As Amended Rep RC #399",81,60,0,10,151
+1759402,1410814,2024-03-19,House,"Enactment RC #412",76,60,0,15,151
+1759585,1341236,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #233",22,13,0,0,35
+1759585,1344756,2023-06-15,Senate,"Enactment RC #356",25,9,0,1,35
+1759639,1341068,2023-06-07,Senate,"Accept Majority Ought To Pass As Amended Report RC #234",25,10,0,0,35
+1759639,1341069,2023-06-07,Senate,"Adopt Senate Amendment (s-211) To Committee Amendment RC #235",22,13,0,0,35
+1759639,1341070,2023-06-07,Senate,"Pass To Be Engrossed As Amended RC #236",22,13,0,0,35
+1759639,1341848,2023-06-08,House,"Adopt Sas-211 To Cas-183 RC #145",69,68,0,13,150
+1759639,1342723,2023-06-12,House,"Enactment RC #161",73,64,0,13,150
+1759639,1343811,2023-06-13,Senate,"Enactment RC #321",22,11,0,2,35
+1759639,1349691,2023-07-06,Senate,"Reconsideration - Veto RC #467",21,11,0,3,35
+1759663,1347166,2023-06-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #449",20,10,0,5,35
+1759663,1347420,2023-06-26,House,"Acc Maj Otp As Amended Rep RC #331",72,56,0,23,151
+1759953,1404516,2024-03-06,Senate,"Accept Majority Ought Not To Pass Report RC #578",20,14,0,1,35
+1759953,1405728,2024-03-07,House,"Acc Maj Ought Not To Pass Rep RC #397",77,64,0,10,151
+1759955,1345232,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #386",22,12,0,1,35
+1759963,1342715,2023-06-12,Senate,"Accept Majority Ought Not To Pass Report RC #287",22,11,0,2,35
+1759963,1343864,2023-06-13,House,"Acc Maj Ought Not To Pass Rep RC #199",77,64,0,9,150
+1759972,1344572,2023-06-15,Senate,"Accept Majority Ought To Pass As Amended Report RC #357",23,11,0,1,35
+1759972,1344573,2023-06-15,Senate,"Adopt Senate Amendment (s-341) To Ld 1874 RC #358",23,11,0,1,35
+1759972,1345072,2023-06-16,House,"Acc Maj Otp As Amended Rep RC #255",78,63,0,10,151
+1760137,1388719,2024-02-20,House,"Acc Maj Otp As Amended Rep RC #370",73,61,0,16,150
+1760137,1389838,2024-02-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #536",17,10,0,8,35
+1760145,1343165,2023-06-12,House,"Acc Maj Otp As Amended Rep RC #183",79,62,0,9,150
+1760145,1343817,2023-06-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #312",22,12,0,1,35
+1760146,1347224,2023-06-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #456",20,11,0,4,35
+1760153,1344071,2023-06-14,House,"Acc Maj Ought Not To Pass Rep RC #226",81,65,0,4,150
+1760153,1344272,2023-06-14,Senate,"Accept Majority Ought Not To Pass Report RC #344",22,13,0,0,35
+1760156,1346449,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #292",74,68,0,9,151
+1760156,1346450,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #426",20,13,0,2,35
+1760163,1346578,2023-06-21,House,"Acc Maj Ought Not To Pass Rep RC #297",76,64,0,11,151
+1760165,1346045,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #421",21,13,0,1,35
+1760167,1343238,2023-06-12,House,"Acc Maj Ought Not To Pass Rep RC #174",75,67,0,8,150
+1760167,1345146,2023-06-13,Senate,"Accept Majority Ought Not To Pass Report RC #299",20,13,0,2,35
+1760705,1345415,2023-06-20,House,"Acc Maj Ought Not To Pass Rep RC #260",76,68,0,7,151
+1760705,1345416,2023-06-20,Senate,"Accept Majority Ought Not To Pass Report RC #397",23,11,0,1,35
+1760736,1346885,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #441",23,9,0,3,35
+1760749,1347171,2023-06-23,House,"Acc Maj Ought Not To Pass Rep RC #325",68,61,0,22,151
+1760749,1347172,2023-06-23,Senate,"Accept Majority Ought Not To Pass Report RC #455",20,12,0,3,35
+1761084,1345339,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #266",80,64,0,7,151
+1761090,1346603,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #442",20,13,0,2,35
+1761090,1347012,2023-06-22,House,"Acc Maj Otp As Amended Rep RC #311",74,68,0,9,151
+1761090,1347243,2023-06-23,House,"Enactment RC #327",72,55,0,24,151
+1761090,1350917,2023-07-25,Senate,"Commit RC #487",8,19,0,8,35
+1761090,1350918,2023-07-25,Senate,"Adopt Senate Amendment (s-503) To Committee Amendment RC #488",19,8,0,8,35
+1761090,1350919,2023-07-25,House,"Recede And Concur RC #358",59,40,0,51,150
+1761090,1350978,2023-07-25,House,"Recede And Concur RC #357",59,40,0,51,150
+1761103,1389879,2024-02-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #538",17,9,0,9,35
+1761103,1397295,2024-02-28,House,"Acc Maj Otp As Amended Rep RC #381",73,65,0,12,150
+1761587,1344268,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #333",22,13,0,0,35
+1761587,1350935,2023-07-25,Senate,"Enactment RC #491",19,8,0,8,35
+1761862,1419642,2024-04-03,Senate,"Passage To Be Engrossed As Amended RC #657",23,6,0,6,35
+1761875,1345432,2023-06-20,House,"Acc Maj Otp As Amended Rep RC #267",79,65,0,7,151
+1761968,1423961,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #477",79,65,0,6,150
+1761968,1426559,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #723",0,33,0,2,35
+1763065,1419078,2024-04-02,House,"Acc Maj Ought Not To Pass Rep RC #447",81,65,0,5,151
+1763065,1420008,2024-04-03,Senate,"Recede And Concur RC #651",16,14,0,5,35
+1763080,1423642,2024-04-09,House,"Report ""a"" Otp-am By Cah A RC #472",76,69,0,5,150
+1763080,1423643,2024-04-09,House,"Adopt Hah-941 To Cah-929 RC #473",78,67,0,5,150
+1763080,1424224,2024-04-10,Senate,"Accept Report 'a' Ought To Pass As Amended RC #683",20,14,0,1,35
+1763080,1424225,2024-04-10,Senate,"Adopt Hah-941 RC #684",20,13,0,2,35
+1764300,1346113,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #303",78,60,0,13,151
+1764312,1347702,2023-06-27,House,"Acc Maj Otp As Amended Rep RC #341",100,44,0,7,151
+1764312,1349722,2023-07-06,Senate,"Accept Majority Ought To Pass As Amended Report RC #468",22,10,0,3,35
+1764339,1344274,2023-06-14,House,"Acc Maj Otp As Amended Rep RC #221",81,66,0,3,150
+1764339,1344275,2023-06-14,Senate,"Accept Majority Ought To Pass As Amended Report RC #339",22,13,0,0,35
+1764344,1342709,2023-06-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #277",22,11,0,2,35
+1764814,1345911,2023-06-21,House,"Acc Maj Ought Not To Pass Rep RC #295",78,67,0,6,151
+1764814,1346331,2023-06-21,Senate,"Accept Majority Ought Not To Pass Report RC #430",24,10,0,1,35
+1765099,1423057,2024-04-09,Senate,"Accept Majority Ought Not To Pass Report RC #669",21,13,0,1,35
+1765099,1424279,2024-04-10,House,"Acc Maj Ought Not To Pass Rep RC #484",76,68,0,6,150
+1765164,1427071,2024-04-15,Senate,"Accept Majority Ought To Pass As Amended Report RC #726",19,13,0,3,35
+1765164,1427072,2024-04-15,House,"Acc Maj Otp-am By Amendment ""a"" RC #519",75,65,0,10,150
+1765237,1402637,2024-03-05,Senate,"Accept Majority Ought To Pass As Amended Report RC #576",20,12,0,3,35
+1765434,1343372,2023-06-13,House,"Enactment - Emer RC #193",120,20,0,10,150
+1765449,1350927,2023-07-25,Senate,"Adopt Sas-505 RC #499",12,12,0,11,35
+1765461,1346069,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #414",22,12,0,1,35
+1765461,1346639,2023-06-22,House,"Acc Maj Otp As Amended Rep RC #309",79,65,0,7,151
+1765461,1347026,2023-06-22,House,"Adopt Hah-703 To Cas-385 RC #310",63,77,0,11,151
+1765461,1347242,2023-06-23,House,"Enactment RC #328",74,52,0,25,151
+1765473,1425516,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #501",80,64,0,6,150
+1765473,1425856,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #692",21,12,0,2,35
+1765630,1363649,2024-01-09,House,"Acc Maj Otp As Amended Rep RC #359",88,50,0,12,150
+1765630,1367697,2024-01-23,Senate,"Accept Majority Ought To Pass As Amended Report RC #504",21,12,0,2,35
+1765630,1373880,2024-02-01,House,"Enactment RC #364",81,51,0,18,150
+1765747,1389243,2024-02-20,House,"Acc Maj Otp As Amended Rep RC #371",74,60,0,16,150
+1765747,1390648,2024-02-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #537",18,9,0,8,35
+1766065,1428087,2024-04-16,Senate,"Accept Majority Ought Not To Pass Report RC #744",18,14,0,3,35
+1766065,1429271,2024-04-17,House,"Acc Maj Ought Not To Pass Rep RC #537",81,63,0,6,150
+1766105,1346927,2023-06-22,Senate,"Enact-emer 2/3 Elect RC #446",32,0,0,3,35
+1766116,1425768,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #508",74,69,0,7,150
+1766116,1426586,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #718",19,14,0,2,35
+1766116,1426958,2024-04-15,House,"Enactment RC #514",70,68,0,12,150
+1766447,1411092,2024-03-19,House,"Recede And Concur RC #408",69,59,0,23,151
+1766499,1424741,2024-04-10,Senate,"Accept Majority Ought To Pass As Amended Report RC #678",22,12,0,1,35
+1766499,1425823,2024-04-11,Senate,"Recede And Concur RC #695",13,20,0,2,35
+1766499,1425824,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #500",59,87,0,4,150
+1766499,1429764,2024-04-17,Senate,"Recede And Concur RC #757",13,20,0,2,35
+1766499,1429765,2024-04-17,House,"Recede And Concur RC #540",68,75,0,7,150
+1766512,1346898,2023-06-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #444",20,13,0,2,35
+1766512,1347159,2023-06-23,House,"Acc Maj Otp As Amended Rep RC #321",69,65,0,17,151
+1766512,1347390,2023-06-26,House,"Enactment RC #332",62,69,0,20,151
+1766512,1347452,2023-06-26,House,"Reconsider RC #338",73,65,0,13,151
+1766512,1347453,2023-06-26,House,"Passage To Be Enacted RC #339",63,76,0,12,151
+1766512,1349838,2023-07-06,House,"Recede And Concur RC #353",77,52,0,22,151
+1766525,1429124,2024-04-16,House,"Acc Maj Otp As Amended Rep RC #530",75,70,0,5,150
+1766525,1429125,2024-04-16,House,"Adopt Hah-984 To Cah-975 RC #531",77,67,0,6,150
+1766525,1429277,2024-04-17,Senate,"Accept Majority Ought To Pass As Amended Report RC #752",15,18,0,2,35
+1766525,1429657,2024-04-17,House,"Recede And Concur RC #542",57,85,0,8,150
+1767203,1411239,2024-03-19,House,"Acc Maj Otp As Amended Rep RC #410",74,61,0,16,151
+1767203,1412465,2024-03-20,Senate,"Accept Majority Ought To Pass As Amended Report RC #601",21,12,0,2,35
+1767211,1426925,2024-04-15,House,"Acc Maj Otp As Amended Rep RC #512",75,63,0,12,150
+1767211,1427410,2024-04-15,Senate,"Accept Majority Ought To Pass As Amended Report RC #729",16,18,0,1,35
+1767211,1429701,2024-04-17,Senate,"Recede And Concur RC #758",14,19,0,2,35
+1767493,1425688,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #503",79,66,0,5,150
+1767537,1405272,2024-03-07,Senate,"Accept Minority Ought To Pass As Amended Report RC #580",21,13,0,1,35
+1767537,1409384,2024-03-14,Senate,"Recede And Concur RC #589",13,19,0,3,35
+1767588,1391768,2024-02-22,House,"Acc Maj Otp As Amended Rep RC #373",77,54,0,19,150
+1767588,1395934,2024-02-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #556",24,9,0,2,35
+1767635,1416352,2024-03-27,House,"Acc Maj Otp As Amended Rep RC #427",82,62,0,7,151
+1769184,1345852,2023-06-21,House,"Acc Maj Otp As Amended Rep RC #289",100,47,0,4,151
+1769184,1346586,2023-06-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #425",26,8,0,1,35
+1769184,1349997,2023-07-06,House,"Reconsideration - Veto RC #348",84,57,0,10,151
+1769640,1418881,2024-04-02,House,"Report A Ought To Pass Am RC #454",82,62,0,7,151
+1769640,1422555,2024-04-09,Senate,"Accept Report 'a' Ought To Pass As Amended RC #668",29,5,0,1,35
+1769640,1423977,2024-04-09,House,"Enactment RC #481",78,61,0,11,150
+1769895,1342719,2023-06-12,House,"Recede And Concur RC #164",74,64,0,12,150
+1773239,1349834,2023-07-06,House,"Enactment - Emer RC #351",114,15,0,22,151
+1791666,1413151,2024-03-21,Senate,"Accept Minority Ought To Pass As Amended B Report RC #615",21,11,0,3,35
+1791666,1414543,2024-03-25,House,"Acc Min Otp As Amended Rep RC #420",71,62,0,18,151
+1791666,1416209,2024-03-27,House,"Enactment RC #433",78,64,0,9,151
+1791673,1408589,2024-03-13,House,"Acc Min Otp As Amended Rep RC #403",49,88,0,14,151
+1791689,1385293,2024-02-15,House,"Acc Maj Ought To Pass Rep RC #368",74,59,0,17,150
+1791690,1415221,2024-03-26,Senate,"Accept Majority Ought To Pass As Amended Report RC #622",28,6,0,1,35
+1791690,1416176,2024-03-27,House,"Acc Maj Otp As Amended Rep RC #426",118,25,0,8,151
+1791696,1397309,2024-02-28,Senate,"Accept Majority Ought To Pass Report RC #564",20,11,0,4,35
+1791696,1402707,2024-03-05,House,"Acc Maj Ought To Pass Rep RC #390",85,55,0,10,150
+1791705,1408742,2024-03-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #587",24,11,0,0,35
+1791705,1409382,2024-03-14,House,"Acc Maj Otp As Amended Rep RC #406",79,57,0,15,151
+1791705,1411196,2024-03-19,House,"Enactment RC #413",75,60,0,16,151
+1794086,1418701,2024-04-02,House,"Acc Maj Otp As Amended Rep RC #450",80,67,0,4,151
+1794113,1399612,2024-02-29,House,"Acc Maj Ought To Pass Rep RC #387",76,61,0,13,150
+1795202,1399050,2024-02-29,Senate,"Accept Majority Ought To Pass As Amended Report RC #566",32,0,0,3,35
+1795212,1391865,2024-02-22,House,"Acc Maj Otp As Amended Rep RC #374",74,58,0,18,150
+1795212,1397888,2024-02-28,Senate,"Accept Majority Ought To Pass As Amended Report RC #563",2,29,0,4,35
+1795215,1397314,2024-02-28,House,"Acc Maj Otp As Amended Rep RC #380",74,63,0,13,150
+1795217,1411831,2024-03-20,House,"Acc Maj Otp As Amended Rep RC #418",135,1,0,15,151
+1795217,1412894,2024-03-21,Senate,"Accept Majority Ought To Pass As Amended Report RC #613",34,0,0,1,35
+1795220,1426010,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #687",22,13,0,0,35
+1795220,1426191,2024-04-12,House,"Acc Maj Otp As Amended Rep RC #509",75,66,0,9,150
+1795220,1427510,2024-04-15,Senate,"Recede And Concur RC #730",21,13,0,1,35
+1795231,1397133,2024-02-27,House,"Acc Maj Ought Not To Pass Rep RC #378",64,76,0,10,150
+1795231,1399306,2024-02-29,Senate,"Accept Minority Ought To Pass Report RC #574",32,0,0,3,35
+1795236,1409510,2024-03-14,House,"Acc Maj Ought Not To Pass Rep RC #405",78,59,0,14,151
+1795248,1416284,2024-03-27,House,"Acc Maj Otp As Amended Rep RC #425",107,36,0,8,151
+1795260,1417838,2024-04-01,House,"Acc Maj Otp As Amended Rep RC #444",102,36,0,13,151
+1795273,1399019,2024-02-29,Senate,"Accept Majority Ought To Pass As Amended Report RC #573",32,0,0,3,35
+1795291,1425942,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #505",82,66,0,2,150
+1795291,1426537,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #708",22,12,0,1,35
+1795296,1426451,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #709",19,15,0,1,35
+1795296,1427641,2024-04-16,House,"Acc Maj Otp As Amended Rep RC #521",73,72,0,5,150
+1795296,1427642,2024-04-16,House,"Passage To Be Engrossed RC #522",74,72,0,4,150
+1795296,1427643,2024-04-16,House,"Reconsider RC #523",65,78,0,7,150
+1795296,1429250,2024-04-17,House,"Enactment RC #534",74,68,0,8,150
+1795296,1429572,2024-04-17,Senate,"Enactment RC #759",19,15,0,1,35
+1795296,1442099,2024-05-10,Senate,"Reconsideration - Veto RC #797",18,16,0,1,35
+1795335,1405729,2024-03-07,House,"Acc Maj Otp As Amended Rep RC #400",79,62,0,10,151
+1795340,1419547,2024-04-03,House,"Report A Ought To Pass Am RC #461",74,66,0,11,151
+1795354,1408787,2024-03-13,House,"Acc Maj Otp As Amended Rep RC #402",79,58,0,14,151
+1795356,1414989,2024-03-25,House,"Acc Maj Ought Not To Pass Rep RC #422",116,19,0,16,151
+1795356,1415816,2024-03-26,Senate,"Accept Minority Ought To Pass As Amended Report RC #621",13,21,0,1,35
+1795361,1408443,2024-03-13,Senate,"Accept Majority Ought To Pass As Amended Report RC #586",19,16,0,0,35
+1795361,1416327,2024-03-27,House,"Acc Maj Otp As Amended Rep RC #430",74,69,0,8,151
+1795364,1419806,2024-04-03,Senate,"Accept Majority Ought Not To Pass Report RC #653",29,1,0,5,35
+1795369,1418668,2024-04-02,Senate,"Adopt Sbs-639 RC #650",16,16,0,3,35
+1795369,1419413,2024-04-03,House,"Table Until Later RC #456",66,74,0,11,151
+1795369,1419986,2024-04-03,House,"Recede And Concur RC #457",76,68,0,7,151
+1795369,1424012,2024-04-09,House,"Adopt Hah-940 RC #474",79,65,0,6,150
+1795369,1442160,2024-05-10,House,"Reconsideration - Veto RC #555",51,72,0,26,149
+1795377,1389961,2024-02-21,House,"Acc Maj Otp As Amended Rep RC #372",66,60,0,24,150
+1795377,1391783,2024-02-22,Senate,"Accept Majority Ought To Pass As Amended Report RC #541",18,14,0,3,35
+1795377,1398916,2024-02-29,House,"Table Until Later RC #389",74,68,0,8,150
+1795377,1419507,2024-04-03,House,"Enactment RC #460",72,71,0,8,151
+1795377,1422738,2024-04-09,Senate,"Reconsider RC #670",16,18,0,1,35
+1795377,1422739,2024-04-09,Senate,"Enactment RC #671",20,14,0,1,35
+1795385,1416312,2024-03-27,House,"Acc Report Otp-am Report ""a"" RC #429",80,64,0,7,151
+1798893,1423679,2024-04-09,House,"Report A Otp-am By Ca ""a"" RC #475",74,70,0,6,150
+1798893,1423680,2024-04-09,House,"Adopt Hah A H-492 To Cah H-843 RC #476",89,55,0,6,150
+1798893,1425098,2024-04-10,House,"Reconsider RC #496",70,77,0,3,150
+1813862,1366547,2024-01-18,House,"Dispense With The Reading RC #360",58,73,0,19,150
+1813862,1366548,2024-01-18,House,"Adoption RC #361",74,55,0,21,150
+1813862,1367680,2024-01-23,Senate,"Adoption RC #503",23,10,0,2,35
+1820943,1424176,2024-04-10,Senate,"Accept Minority Ought To Pass As Amended Report RC #677",24,10,0,1,35
+1820943,1425707,2024-04-11,House,"Acc Maj Ought Not To Pass Rep RC #499",91,55,0,4,150
+1820943,1425976,2024-04-11,Senate,"Recede And Concur RC #694",11,22,0,2,35
+1820943,1426584,2024-04-12,Senate,"Adopt Sas-700 RC #717",21,12,0,2,35
+1820943,1427406,2024-04-15,Senate,"Recede And Concur RC #731",12,22,0,1,35
+1820943,1427407,2024-04-15,Senate,"Recede And Concur RC #733",12,22,0,1,35
+1821477,1416467,2024-03-27,House,"Report A Otp-am RC #432",67,75,0,9,151
+1821477,1418239,2024-04-01,Senate,"Accept Report 'a' Ought To Pass As Amended RC #645",3,30,0,2,35
+1821925,1410815,2024-03-19,Senate,"Accept Majority Ought To Pass As Amended Report RC #600",19,12,0,4,35
+1821925,1411665,2024-03-20,House,"Acc Maj Otp As Amended Rep RC #417",76,58,0,17,151
+1823389,1405490,2024-03-07,Senate,"Accept Majority Ought To Pass Report RC #579",22,12,0,1,35
+1823389,1405730,2024-03-06,House,"Acc Maj Ought To Pass Rep RC #395",75,63,0,13,151
+1823505,1430379,2024-04-17,Senate,"Final Passage-emergency 2/3 Elected RC #767",33,0,0,2,35
+1823536,1430305,2024-04-16,Senate,"Enactment-emergency RC #736",32,2,0,1,35
+1833109,1422797,2024-04-09,Senate,"Accept Majority Ought Not To Pass Report RC #667",9,25,0,1,35
+1833109,1424218,2024-04-10,House,"Acc Maj Ought Not To Pass Rep RC #485",60,84,0,6,150
+1833655,1425696,2024-04-11,House,"Acc Maj Otp As Amended Rep RC #502",81,64,0,5,150
+1833655,1425974,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #693",20,13,0,2,35
+1833797,1415038,2024-03-25,House,"Acc Maj Otp As Amended Rep RC #423",71,64,0,16,151
+1837410,1423516,2024-04-09,House,"Acc Min Ought Not To Pass Rep RC #467",84,61,0,5,150
+1846756,1417829,2024-04-01,House,"Acc Maj Otp As Amended Rep RC #442",74,64,0,13,151
+1846756,1418762,2024-04-02,Senate,"Accept Majority Ought To Pass As Amended Report RC #647",20,12,0,3,35
+1846756,1442071,2024-05-10,Senate,"Enactment RC #803",20,10,0,5,35
+1847712,1429244,2024-04-17,Senate,"Accept Report 'a' Ought To Pass As Amended RC #750",24,9,0,2,35
+1847712,1429245,2024-04-17,Senate,"Adopt Sas-714 RC #751",16,17,0,2,35
+1847712,1429246,2024-04-17,Senate,"Adopt Committee Amendment As Amended By Senate Amendment RC #754",16,17,0,2,35
+1847712,1430342,2024-04-17,Senate,"Indefinitely Postpone RC #779",16,17,0,2,35
+1847712,1430343,2024-04-17,Senate,"Reconsider RC #780",20,13,0,2,35
+1847712,1430344,2024-04-17,Senate,"Indefinitely Postpone RC #781",16,17,0,2,35
+1847712,1430345,2024-04-17,Senate,"Indefinitely Postpone RC #788",14,19,0,2,35
+1847712,1430346,2024-04-17,Senate,"Adopt Sbs-727 RC #789",20,13,0,2,35
+1847712,1430347,2024-04-17,Senate,"Indefinitely Postpone RC #790",13,20,0,2,35
+1847712,1430348,2024-04-17,Senate,"Adopt Committee Amendment As Amended By Senate Amendment RC #791",20,13,0,2,35
+1847712,1430349,2024-04-17,Senate,"Suspend Rules (2/3) RC #792",22,11,0,2,35
+1847712,1430350,2024-04-17,Senate,"Indefinitely Postpone RC #793",13,20,0,2,35
+1847712,1430351,2024-04-17,House,"Report A Otp-am RC #552",93,40,0,17,150
+1847963,1429613,2024-04-17,House,"Acc Maj Otp As Amended Rep RC #545",77,67,0,6,150
+1847963,1429614,2024-04-17,House,"Ipp House Amendment A-988 RC #546",75,68,0,7,150
+1847963,1430153,2024-04-17,House,"Passage To Be Engrossed RC #547",75,66,0,9,150
+1847963,1430364,2024-04-17,House,"Enactment RC #549",75,63,0,12,150
+1847963,1430365,2024-04-17,Senate,"Accept Majority Ought To Pass As Amended Report RC #763",20,13,0,2,35
+1847963,1430366,2024-04-17,Senate,"Indefinitely Postpone RC #764",18,15,0,2,35
+1847963,1430367,2024-04-17,Senate,"Indefinitely Postpone RC #768",16,17,0,2,35
+1847963,1430368,2024-04-17,Senate,"Indefinitely Postpone RC #769",30,3,0,2,35
+1847963,1430369,2024-04-17,Senate,"Passage To Be Engrossed As Amended RC #770",15,18,0,2,35
+1847963,1430370,2024-04-17,Senate,"Table Until Later RC #771",14,19,0,2,35
+1847963,1430371,2024-04-17,Senate,"Reconsider RC #772",20,13,0,2,35
+1847963,1430372,2024-04-17,Senate,"Recede And Concur RC #784",19,14,0,2,35
+1847963,1430373,2024-04-17,Senate,"Enactment RC #794",19,14,0,2,35
+1848064,1423972,2024-04-09,House,"Acc Maj Ought To Pass Rep RC #468",81,63,0,6,150
+1848064,1425836,2024-04-11,Senate,"Accept Majority Ought To Pass Report RC #686",22,13,0,0,35
+1848834,1425911,2024-04-11,House,"Acc Maj Ought To Pass Rep RC #507",87,59,0,4,150
+1848834,1426152,2024-04-12,Senate,"Accept Majority Ought To Pass Report RC #706",25,9,0,1,35
+1850562,1422329,2024-04-09,House,"Otp-am Report ""a"" RC #463",60,83,0,7,150
+1851645,1391769,2024-02-22,Senate,"Reference RC #540",20,12,0,3,35
+1851645,1395887,2024-02-27,House,"Reference In Concurrence RC #375",74,65,0,11,150
+1851645,1426443,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #707",19,15,0,1,35
+1851645,1427018,2024-04-15,House,"Acc Maj Otp As Amended Rep RC #515",73,66,0,11,150
+1851645,1427019,2024-04-15,House,"Passage To Be Engrossed RC #516",73,66,0,11,150
+1851645,1427614,2024-04-16,House,"Enactment RC #520",75,68,0,7,150
+1851645,1430352,2024-04-17,Senate,"Enactment RC #783",18,15,0,2,35
+1852426,1426555,2024-04-12,Senate,"Table Until Later RC #712",16,17,0,2,35
+1852426,1426556,2024-04-12,Senate,"Adopt Sas-701 RC #713",20,13,0,2,35
+1852426,1427191,2024-04-15,Senate,"Adopt Sbs-710 RC #728",23,11,0,1,35
+1852426,1428969,2024-04-16,House,"Adopt Hah-980 To Cah-894 RC #528",76,69,0,5,150
+1853249,1418461,2024-04-01,Senate,"Accept Majority Ought Not To Pass Report RC #643",19,14,0,2,35
+1853565,1430530,2024-04-17,Senate,"Recede And Concur RC #755",31,0,0,4,35
+1855388,1416256,2024-03-27,House,"Acc Maj Otp As Amended Rep RC #428",81,64,0,6,151
+1855388,1417001,2024-03-28,Senate,"Accept Majority Ought To Pass As Amended Report RC #631",22,11,0,2,35
+1855562,1424732,2024-04-10,House,"Acc Maj Otp As Amended Rep RC #490",90,57,0,3,150
+1855562,1425838,2024-04-11,Senate,"Accept Majority Ought To Pass As Amended Report RC #689",27,8,0,0,35
+1855687,1398804,2024-02-28,Senate,"Ruling RC #558",20,11,0,4,35
+1855687,1398805,2024-02-28,Senate,"Table Until Later RC #559",11,20,0,4,35
+1855687,1398806,2024-02-28,Senate,"Indefinitely Postpone RC #560",10,21,0,4,35
+1855687,1398807,2024-02-28,Senate,"Reference RC #561",20,11,0,4,35
+1855687,1398808,2024-02-28,House,"Ruling Of The Chair RC #385",74,64,0,12,150
+1855687,1426429,2024-04-12,Senate,"Accept Report 'a' Ought To Pass As Amended RC #711",18,17,0,0,35
+1855687,1428012,2024-04-16,House,"Report A Otp-am By Ca-a RC #524",74,73,0,3,150
+1855687,1429492,2024-04-17,Senate,"Enactment RC #760",18,17,0,0,35
+1855687,1429493,2024-04-17,House,"Enactment RC #535",73,70,0,7,150
+1858924,1424651,2024-04-10,Senate,"Enactment-emergency RC #685",31,0,0,4,35
+1859087,1428332,2024-04-16,Senate,"Accept Majority Ought To Pass As Amended Report RC #742",22,12,0,1,35
+1859248,1414670,2024-03-25,House,"Acc Maj Otp As Amended Rep RC #421",74,61,0,16,151
+1859248,1416476,2024-03-27,Senate,"Accept Majority Ought To Pass As Amended Report RC #627",19,15,0,1,35
+1859248,1416943,2024-03-28,House,"Enactment RC #440",77,65,0,9,151
+1859248,1425549,2024-04-10,House,"Reconsideration - Veto RC #482",59,77,0,14,150
+1859865,1405726,2024-03-06,House,"Adoption (2/3) RC #393",40,97,0,14,151
+1860301,1405967,2024-03-07,House,"Passage RC #396",60,77,0,14,151
+1861013,1426599,2024-04-12,Senate,"Accept Majority Ought To Pass As Amended Report RC #719",20,13,0,2,35
+1861013,1427029,2024-04-15,House,"Acc Maj Otp As Amended Rep RC #517",62,78,0,10,150
+1861013,1428034,2024-04-16,House,"Reconsider Minority Ontp Report RC #526",105,41,0,4,150
+1861013,1428035,2024-04-16,House,"Acc Min Ought Not To Pass Rep RC #527",56,90,0,4,150
+1861013,1429375,2024-04-17,House,"Enactment RC #536",92,52,0,6,150
+1861013,1430545,2024-04-17,Senate,"Enactment RC #782",20,13,0,2,35
+1863594,1426637,2024-04-11,House,"Insist RC #497",67,80,0,3,150
+1863632,1428510,2024-04-16,House,"Acc Maj Ought Not To Pass Rep RC #525",112,32,0,6,150
+1863632,1430393,2024-04-17,Senate,"Accept Majority Ought Not To Pass Report RC #749",27,6,0,2,35
+1863652,1422792,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #465",65,80,0,5,150
+1863652,1427101,2024-04-15,Senate,"Accept Majority Ought To Pass As Amended Report RC #734",21,13,0,1,35
+1863652,1429737,2024-04-17,House,"Enactment RC #543",77,65,0,8,150
+1865923,1442153,2024-05-10,Senate,"Enactment-emergency RC #806",31,0,0,4,35
+1865949,1422411,2024-04-09,House,"Acc Maj Otp As Amended Rep RC #464",72,70,0,8,150
+1865949,1424262,2024-04-10,Senate,"Accept Majority Ought To Pass As Amended Report RC #676",23,11,0,1,35
+1865949,1425109,2024-04-10,House,"Enactment RC #493",77,70,0,3,150
+1865949,1442052,2024-05-10,House,"Reconsideration - Veto RC #553",54,69,0,26,149
+1867166,1416347,2024-03-27,House,"Passage RC #424",65,79,0,7,151
+1868067,1416956,2024-03-28,Senate,"Accept Majority Ought To Pass Report RC #632",32,1,0,2,35
+1868198,1424715,2024-04-10,Senate,"Passage (2/3) Present RC #672",21,12,0,2,35
+1868198,1425830,2024-04-11,Senate,"Recede And Concur RC #691",20,13,0,2,35
+1868260,1417036,2024-03-28,House,"Indefinitely Postpone RC #434",67,77,0,7,151
+1868260,1417037,2024-03-28,Senate,"Indefinitely Postpone RC #633",13,19,0,3,35
+1868260,1417038,2024-03-28,Senate,"Table Until Later RC #634",13,19,0,3,35
+1868260,1417039,2024-03-28,Senate,"Reference RC #635",20,12,0,3,35
+1868845,1417848,2024-04-01,House,"Passage (2/3) RC #441",72,65,0,14,151
+1869511,1420337,2024-04-03,Senate,"Adoption RC #658",29,0,0,6,35
+1869778,1420340,2024-04-03,House,"Passage RC #458",58,80,0,13,151
+1870514,1424017,2024-04-09,House,"Final Passage - Emer RC #480",93,47,0,10,150
+1871197,1425127,2024-04-10,House,"Passage RC #483",64,74,0,12,150
+1872340,1427006,2024-04-15,Senate,"Passage RC #727",19,13,0,3,35
+1872340,1427483,2024-04-15,Senate,"Recede And Concur RC #732",12,22,0,1,35
+1872813,1429169,2024-04-16,Senate,"Passage RC #735",21,13,0,1,35
+1873216,1430518,2024-04-17,Senate,"Passage RC #756",30,2,0,3,35
+1873216,1430519,2024-04-17,House,"Passage RC #544",78,66,0,6,150
+1873272,1431172,2024-04-17,House,"Indefinitely Postpone RC #550",63,75,0,12,150
+1873272,1431173,2024-04-17,House,"Passage RC #551",75,63,0,12,150

@@ -1,0 +1,1453 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SR 5,782,Senate,2003-07-29,Received by the Secretary of the Senate,,,1
+SR 7,782,Senate,2003-07-29,Received by the Secretary of the Senate,,,1
+SR 15,782,Senate,2003-08-04,Received by the Secretary of the Senate,,,1
+SB 6,782,Senate,2003-08-07,Filed,,,2
+SB 6,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 11,782,Senate,2003-07-30,Received by the Secretary of the Senate,,,1
+SR 2,782,Senate,2003-07-28,Received by the Secretary of the Senate,,,1
+SR 3,782,Senate,2003-07-28,Received by the Secretary of the Senate,,,1
+SB 5,782,Senate,2003-08-05,Filed,,,2
+SB 5,782,Senate,2003-08-05,Received by the Secretary of the Senate,,,1
+SB 7,782,Senate,2003-08-11,Filed,,,2
+SB 7,782,Senate,2003-08-11,Received by the Secretary of the Senate,,,1
+SB 8,782,Senate,2003-08-15,Filed,,,2
+SB 8,782,Senate,2003-08-15,Received by the Secretary of the Senate,,,1
+SR 9,782,Senate,2003-07-30,Received by the Secretary of the Senate,,,1
+SR 10,782,Senate,2003-07-30,Received by the Secretary of the Senate,,,1
+SR 14,782,Senate,2003-08-01,Received by the Secretary of the Senate,,,1
+SR 19,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 20,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 21,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 22,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 23,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SB 3,782,Senate,2003-07-29,Filed,,,2
+SB 3,782,Senate,2003-07-29,Received by the Secretary of the Senate,,,1
+SCR 1,782,Senate,2003-07-31,Filed,,,2
+SCR 1,782,Senate,2003-07-31,Received by the Secretary of the Senate,,,1
+SR 6,782,Senate,2003-07-29,Received by the Secretary of the Senate,,,1
+SR 13,782,Senate,2003-07-31,Received by the Secretary of the Senate,,,1
+SCR 2,782,Senate,2003-08-06,Filed,,,2
+SCR 2,782,Senate,2003-08-06,Received by the Secretary of the Senate,,,1
+SB 1,782,Senate,2003-07-28,Filed,,,2
+SB 1,782,Senate,2003-07-28,Received by the Secretary of the Senate,,,1
+SB 4,782,Senate,2003-07-30,Filed,,,2
+SB 4,782,Senate,2003-07-30,Received by the Secretary of the Senate,,,1
+SR 8,782,Senate,2003-07-30,Received by the Secretary of the Senate,,,1
+SB 2,782,Senate,2003-07-28,Filed,,,2
+SB 2,782,Senate,2003-07-28,Received by the Secretary of the Senate,,,1
+SR 4,782,Senate,2003-07-29,Received by the Secretary of the Senate,,,1
+SR 12,782,Senate,2003-07-30,Received by the Secretary of the Senate,,,1
+SR 17,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 18,782,Senate,2003-08-07,Received by the Secretary of the Senate,,,1
+SR 16,782,Senate,2003-08-05,Received by the Secretary of the Senate,,,1
+HB 52,782,House,2003-08-26,Filed,,,1
+HJR 2,782,House,2003-08-26,Filed,,,1
+HR 79,782,House,2003-08-11,Reported enrolled,,,4
+HR 79,782,House,2003-08-08,Adopted,,66,3
+HR 79,782,House,2003-08-08,Rules suspended,,66,2
+HR 79,782,House,2003-08-08,Filed,,,1
+HR 104,782,House,2003-08-13,Filed,,,1
+HR 107,782,House,2003-08-14,Reported enrolled,,,4
+HR 107,782,House,2003-08-13,Adopted,,86,3
+HR 107,782,House,2003-08-13,Rules suspended,,86,2
+HR 107,782,House,2003-08-13,Filed,,,1
+HR 108,782,House,2003-08-14,Reported enrolled,,,4
+HR 108,782,House,2003-08-13,Adopted,,86,3
+HR 108,782,House,2003-08-13,Rules suspended,,86,2
+HR 108,782,House,2003-08-13,Filed,,,1
+HR 175,782,House,2003-08-25,Reported enrolled,,,4
+HR 175,782,House,2003-08-22,Adopted,,100,3
+HR 175,782,House,2003-08-22,Rules suspended,,100,2
+HR 175,782,House,2003-08-22,Filed,,,1
+HR 26,782,House,2003-08-07,Reported enrolled,,,4
+HR 26,782,House,2003-08-05,Adopted,,,3
+HR 26,782,House,2003-08-05,Rules suspended,,,2
+HR 26,782,House,2003-08-04,Filed,,,1
+HR 110,782,House,2003-08-19,Reported enrolled,,,4
+HR 110,782,House,2003-08-18,Adopted,,91,3
+HR 110,782,House,2003-08-18,Rules suspended,,91,2
+HR 110,782,House,2003-08-13,Filed,,,1
+HR 129,782,House,2003-08-25,Reported enrolled,,,4
+HR 129,782,House,2003-08-22,Adopted,,117,3
+HR 129,782,House,2003-08-22,Rules suspended,,117,2
+HR 129,782,House,2003-08-18,Filed,,,1
+HR 130,782,House,2003-08-25,Reported enrolled,,,4
+HR 130,782,House,2003-08-22,Adopted,,103,3
+HR 130,782,House,2003-08-22,Rules suspended,,103,2
+HR 130,782,House,2003-08-18,Filed,,,1
+HR 11,782,House,2003-07-29,Reported enrolled,,,4
+HR 11,782,House,2003-07-29,Adopted,,,3
+HR 11,782,House,2003-07-29,Rules suspended,,,2
+HR 11,782,House,2003-07-29,Filed,,,1
+HR 12,782,House,2003-07-29,Reported enrolled,,,4
+HR 12,782,House,2003-07-29,Adopted,,,3
+HR 12,782,House,2003-07-29,Rules suspended,,,2
+HR 12,782,House,2003-07-29,Filed,,,1
+HR 42,782,House,2003-08-07,Reported enrolled,,,4
+HR 42,782,House,2003-08-05,Adopted,,55,3
+HR 42,782,House,2003-08-05,Rules suspended,,55,2
+HR 42,782,House,2003-08-05,Filed,,,1
+HR 123,782,House,2003-08-19,Reported enrolled,,,4
+HR 123,782,House,2003-08-18,Adopted,,94,3
+HR 123,782,House,2003-08-18,Rules suspended,,94,2
+HR 123,782,House,2003-08-18,Filed,,,1
+HR 23,782,House,2003-08-06,Reported enrolled,,,4
+HR 23,782,House,2003-08-05,Adopted,,50,3
+HR 23,782,House,2003-08-05,Rules suspended,,50,2
+HR 23,782,House,2003-08-04,Filed,,,1
+HR 24,782,House,2003-08-07,Reported enrolled,,,4
+HR 24,782,House,2003-08-05,Adopted,,50,3
+HR 24,782,House,2003-08-05,Rules suspended,,50,2
+HR 24,782,House,2003-08-04,Filed,,,1
+HR 68,782,House,2003-08-11,Reported enrolled,,,4
+HR 68,782,House,2003-08-08,Adopted,,61,3
+HR 68,782,House,2003-08-08,Rules suspended,,61,2
+HR 68,782,House,2003-08-08,Filed,,,1
+HR 153,782,House,2003-08-22,Filed,,,1
+HR 154,782,House,2003-08-25,Reported enrolled,,,4
+HR 154,782,House,2003-08-22,Adopted,,111,3
+HR 154,782,House,2003-08-22,Rules suspended,,111,2
+HR 154,782,House,2003-08-22,Filed,,,1
+HR 126,782,House,2003-08-19,Reported enrolled,,,4
+HR 126,782,House,2003-08-18,Adopted,,95,3
+HR 126,782,House,2003-08-18,Rules suspended,,95,2
+HR 126,782,House,2003-08-18,Filed,,,1
+HR 184,782,House,2003-08-25,Reported enrolled,,,4
+HR 184,782,House,2003-08-22,Adopted,,109,3
+HR 184,782,House,2003-08-22,Rules suspended,,109,2
+HR 184,782,House,2003-08-22,Filed,,,1
+HJR 1,782,House,2003-08-05,Referred to State Affairs,,57,3
+HJR 1,782,House,2003-08-05,Read first time,,57,2
+HJR 1,782,House,2003-08-05,Filed,,,1
+HR 80,782,House,2003-08-14,Reported enrolled,,,4
+HR 80,782,House,2003-08-13,Adopted,,80,3
+HR 80,782,House,2003-08-13,Rules suspended,,80,2
+HR 80,782,House,2003-08-08,Filed,,,1
+HR 82,782,House,2003-08-14,Reported enrolled,,,4
+HR 82,782,House,2003-08-13,Adopted,,75,3
+HR 82,782,House,2003-08-13,Rules suspended,,75,2
+HR 82,782,House,2003-08-11,Filed,,,1
+HR 111,782,House,2003-08-19,Reported enrolled,,,4
+HR 111,782,House,2003-08-18,Adopted,,91,3
+HR 111,782,House,2003-08-18,Rules suspended,,91,2
+HR 111,782,House,2003-08-14,Filed,,,1
+HR 116,782,House,2003-08-19,Reported enrolled,,,4
+HR 116,782,House,2003-08-18,Adopted,,93,3
+HR 116,782,House,2003-08-18,Rules suspended,,93,2
+HR 116,782,House,2003-08-15,Filed,,,1
+HR 117,782,House,2003-08-19,Reported enrolled,,,4
+HR 117,782,House,2003-08-18,Adopted,,93,3
+HR 117,782,House,2003-08-18,Rules suspended,,93,2
+HR 117,782,House,2003-08-15,Filed,,,1
+HR 118,782,House,2003-08-19,Reported enrolled,,,4
+HR 118,782,House,2003-08-18,Adopted,,93,3
+HR 118,782,House,2003-08-18,Rules suspended,,93,2
+HR 118,782,House,2003-08-15,Filed,,,1
+HR 119,782,House,2003-08-19,Reported enrolled,,,4
+HR 119,782,House,2003-08-18,Adopted,,93,3
+HR 119,782,House,2003-08-18,Rules suspended,,93,2
+HR 119,782,House,2003-08-15,Filed,,,1
+HB 50,782,House,2003-08-13,"Referred to Ethics, Select",,88,3
+HB 50,782,House,2003-08-13,Read first time,,88,2
+HB 50,782,House,2003-08-13,Filed,,,1
+HB 26,782,House,2003-07-29,Referred to Appropriations,,,3
+HB 26,782,House,2003-07-29,Read first time,,,2
+HB 26,782,House,2003-07-29,Filed,,,1
+HB 27,782,House,2003-07-29,Referred to Public Health,,,3
+HB 27,782,House,2003-07-29,Read first time,,,2
+HB 27,782,House,2003-07-29,Filed,,,1
+HR 44,782,House,2003-08-07,Reported enrolled,,,4
+HR 44,782,House,2003-08-05,Adopted,,,3
+HR 44,782,House,2003-08-05,Rules suspended,,,2
+HR 44,782,House,2003-08-05,Filed,,,1
+HR 158,782,House,2003-08-25,Reported enrolled,,,4
+HR 158,782,House,2003-08-22,Adopted,,118,3
+HR 158,782,House,2003-08-22,Rules suspended,,118,2
+HR 158,782,House,2003-08-22,Filed,,,1
+HR 159,782,House,2003-08-25,Reported enrolled,,,4
+HR 159,782,House,2003-08-22,Adopted,,103,3
+HR 159,782,House,2003-08-22,Rules suspended,,103,2
+HR 159,782,House,2003-08-22,Filed,,,1
+HR 160,782,House,2003-08-25,Reported enrolled,,,4
+HR 160,782,House,2003-08-22,Adopted,,119,3
+HR 160,782,House,2003-08-22,Rules suspended,,119,2
+HR 160,782,House,2003-08-22,Filed,,,1
+HB 41,782,House,2003-08-05,Referred to Appropriations,,57,3
+HB 41,782,House,2003-08-05,Read first time,,57,2
+HB 41,782,House,2003-08-01,Filed,,,1
+HB 43,782,House,2003-08-05,Referred to Appropriations,,57,3
+HB 43,782,House,2003-08-05,Read first time,,57,2
+HB 43,782,House,2003-08-04,Filed,,,1
+HR 64,782,House,2003-08-11,Reported enrolled,,,4
+HR 64,782,House,2003-08-08,Adopted,,62,3
+HR 64,782,House,2003-08-08,Rules suspended,,62,2
+HR 64,782,House,2003-08-08,Filed,,,1
+HR 65,782,House,2003-08-11,Reported enrolled,,,4
+HR 65,782,House,2003-08-08,Adopted,,63,3
+HR 65,782,House,2003-08-08,Rules suspended,,63,2
+HR 65,782,House,2003-08-08,Filed,,,1
+HR 207,782,House,2003-08-25,Filed,,,1
+HR 100,782,House,2003-08-14,Reported enrolled,,,4
+HR 100,782,House,2003-08-13,Adopted,,75,3
+HR 100,782,House,2003-08-13,Rules suspended,,75,2
+HR 100,782,House,2003-08-13,Filed,,,1
+HB 44,782,House,2003-08-05,Referred to Environmental Regulation,,57,3
+HB 44,782,House,2003-08-05,Read first time,,57,2
+HB 44,782,House,2003-08-05,Filed,,,1
+HCR 3,782,House,2003-08-05,Referred to State Affairs,,57,2
+HCR 3,782,House,2003-07-31,Filed,,,1
+HCR 8,782,House,2003-08-13,Adopted,,81,3
+HCR 8,782,House,2003-08-13,Rules suspended,,81,2
+HCR 8,782,House,2003-08-13,Filed,,,1
+HR 112,782,House,2003-08-19,Reported enrolled,,,4
+HR 112,782,House,2003-08-18,Adopted,,92,3
+HR 112,782,House,2003-08-18,Rules suspended,,92,2
+HR 112,782,House,2003-08-14,Filed,,,1
+HR 113,782,House,2003-08-19,Reported enrolled,,,4
+HR 113,782,House,2003-08-18,Adopted,,92,3
+HR 113,782,House,2003-08-18,Rules suspended,,92,2
+HR 113,782,House,2003-08-14,Filed,,,1
+HR 114,782,House,2003-08-19,Reported enrolled,,,4
+HR 114,782,House,2003-08-18,Adopted,,92,3
+HR 114,782,House,2003-08-18,Rules suspended,,92,2
+HR 114,782,House,2003-08-14,Filed,,,1
+HR 179,782,House,2003-08-25,Reported enrolled,,,4
+HR 179,782,House,2003-08-22,Adopted,,109,3
+HR 179,782,House,2003-08-22,Rules suspended,,109,2
+HR 179,782,House,2003-08-22,Filed,,,1
+HR 71,782,House,2003-08-11,Reported enrolled,,,4
+HR 71,782,House,2003-08-08,Adopted,,63,3
+HR 71,782,House,2003-08-08,Rules suspended,,63,2
+HR 71,782,House,2003-08-08,Filed,,,1
+HR 72,782,House,2003-08-11,Reported enrolled,,,4
+HR 72,782,House,2003-08-08,Adopted,,63,3
+HR 72,782,House,2003-08-08,Rules suspended,,63,2
+HR 72,782,House,2003-08-08,Filed,,,1
+HR 127,782,House,2003-08-19,Reported enrolled,,,4
+HR 127,782,House,2003-08-18,Adopted,,95,3
+HR 127,782,House,2003-08-18,Rules suspended,,95,2
+HR 127,782,House,2003-08-18,Filed,,,1
+HB 45,782,House,2003-08-08,Referred to Public Health,,72,3
+HB 45,782,House,2003-08-08,Read first time,,72,2
+HB 45,782,House,2003-08-05,Filed,,,1
+HB 46,782,House,2003-08-08,Referred to Ways & Means,,72,3
+HB 46,782,House,2003-08-08,Read first time,,72,2
+HB 46,782,House,2003-08-05,Filed,,,1
+HCR 2,782,House,2003-08-05,Referred to Environmental Regulation,,57,2
+HCR 2,782,House,2003-07-29,Filed,,,1
+HR 128,782,House,2003-08-19,Reported enrolled,,,4
+HR 128,782,House,2003-08-18,Adopted,,97,3
+HR 128,782,House,2003-08-18,Rules suspended,,97,2
+HR 128,782,House,2003-08-18,Filed,,,1
+HCR 4,782,House,2003-08-05,Adopted,,,3
+HCR 4,782,House,2003-08-05,Rules suspended,,,2
+HCR 4,782,House,2003-08-04,Filed,,,1
+HB 1,782,House,2003-07-29,Reported engrossed,,57,26
+HB 1,782,House,2003-07-29,Reason for vote recorded in Journal,,,25
+HB 1,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,24
+HB 1,782,House,2003-07-29,Record vote,RV#10,,23
+HB 1,782,House,2003-07-29,Passed,,,22
+HB 1,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,21
+HB 1,782,House,2003-07-29,Record vote,RV#9,,20
+HB 1,782,House,2003-07-29,Motion Prevails,,,19
+HB 1,782,House,2003-07-29,Motion for the previous question,,,18
+HB 1,782,House,2003-07-29,Read 3rd time,,,17
+HB 1,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,16
+HB 1,782,House,2003-07-29,Record vote,RV#8,,15
+HB 1,782,House,2003-07-29,Constitutional three day rule suspended,,,14
+HB 1,782,House,2003-07-29,Reason for vote recorded in Journal,,,13
+HB 1,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,12
+HB 1,782,House,2003-07-29,Record vote,RV#7,,11
+HB 1,782,House,2003-07-29,Passed to engrossment,,,10
+HB 1,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,9
+HB 1,782,House,2003-07-29,Record vote,RV#6,,8
+HB 1,782,House,2003-07-29,Motion Prevails,,,7
+HB 1,782,House,2003-07-29,Motion for the previous question,,,6
+HB 1,782,House,2003-07-29,Read 2nd time,,,5
+HB 1,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 1,782,House,2003-07-29,Record vote,RV#5,,3
+HB 1,782,House,2003-07-29,Rules suspended,,,2
+HB 1,782,House,2003-07-28,Filed,,,1
+HR 133,782,House,2003-08-25,Reported enrolled,,,4
+HR 133,782,House,2003-08-22,Adopted,,115,3
+HR 133,782,House,2003-08-22,Rules suspended,,115,2
+HR 133,782,House,2003-08-20,Filed,,,1
+HR 134,782,House,2003-08-25,Reported enrolled,,,4
+HR 134,782,House,2003-08-22,Adopted,,115,3
+HR 134,782,House,2003-08-22,Rules suspended,,115,2
+HR 134,782,House,2003-08-20,Filed,,,1
+HR 135,782,House,2003-08-25,Reported enrolled,,,4
+HR 135,782,House,2003-08-22,Adopted,,116,3
+HR 135,782,House,2003-08-22,Rules suspended,,116,2
+HR 135,782,House,2003-08-20,Filed,,,1
+HR 195,782,House,2003-08-25,Reported enrolled,,,4
+HR 195,782,House,2003-08-22,Adopted,,116,3
+HR 195,782,House,2003-08-22,Rules suspended,,116,2
+HR 195,782,House,2003-08-22,Filed,,,1
+HR 22,782,House,2003-08-06,Reported enrolled,,,4
+HR 22,782,House,2003-08-05,Adopted,,,3
+HR 22,782,House,2003-08-05,Rules suspended,,,2
+HR 22,782,House,2003-08-01,Filed,,,1
+HR 76,782,House,2003-08-11,Reported enrolled,,,4
+HR 76,782,House,2003-08-08,Adopted,,66,3
+HR 76,782,House,2003-08-08,Rules suspended,,66,2
+HR 76,782,House,2003-08-08,Filed,,,1
+HR 31,782,House,2003-08-07,Reported enrolled,,,4
+HR 31,782,House,2003-08-05,Adopted,,,3
+HR 31,782,House,2003-08-05,Rules suspended,,,2
+HR 31,782,House,2003-08-04,Filed,,,1
+HR 131,782,House,2003-08-25,Reported enrolled,,,4
+HR 131,782,House,2003-08-22,Adopted,,110,3
+HR 131,782,House,2003-08-22,Rules suspended,,110,2
+HR 131,782,House,2003-08-18,Filed,,,1
+HR 149,782,House,2003-08-25,Reported enrolled,,,4
+HR 149,782,House,2003-08-22,Adopted,,105,3
+HR 149,782,House,2003-08-22,Rules suspended,,105,2
+HR 149,782,House,2003-08-21,Filed,,,1
+HR 150,782,House,2003-08-25,Reported enrolled,,,4
+HR 150,782,House,2003-08-22,Adopted,,105,3
+HR 150,782,House,2003-08-22,Rules suspended,,105,2
+HR 150,782,House,2003-08-21,Filed,,,1
+HR 156,782,House,2003-08-25,Reported enrolled,,,4
+HR 156,782,House,2003-08-22,Adopted,,105,3
+HR 156,782,House,2003-08-22,Rules suspended,,105,2
+HR 156,782,House,2003-08-22,Filed,,,1
+HR 157,782,House,2003-08-25,Reported enrolled,,,4
+HR 157,782,House,2003-08-22,Adopted,,106,3
+HR 157,782,House,2003-08-22,Rules suspended,,106,2
+HR 157,782,House,2003-08-22,Filed,,,1
+HCR 7,782,House,2003-08-08,Adopted,,68,3
+HCR 7,782,House,2003-08-08,Rules suspended,,68,2
+HCR 7,782,House,2003-08-08,Filed,,,1
+HCR 9,782,House,2003-08-18,Adopted,,90,3
+HCR 9,782,House,2003-08-18,Rules suspended,,90,2
+HCR 9,782,House,2003-08-18,Filed,,,1
+HR 106,782,House,2003-08-19,Reported enrolled,,,4
+HR 106,782,House,2003-08-18,Adopted,,95,3
+HR 106,782,House,2003-08-18,Rules suspended,,95,2
+HR 106,782,House,2003-08-13,Filed,,,1
+HR 39,782,House,2003-08-07,Reported enrolled,,,4
+HR 39,782,House,2003-08-05,Adopted,,,3
+HR 39,782,House,2003-08-05,Rules suspended,,,2
+HR 39,782,House,2003-08-05,Filed,,,1
+HR 40,782,House,2003-08-07,Reported enrolled,,,4
+HR 40,782,House,2003-08-05,Adopted,,,3
+HR 40,782,House,2003-08-05,Rules suspended,,,2
+HR 40,782,House,2003-08-05,Filed,,,1
+HR 53,782,House,2003-08-06,Reported enrolled,,,4
+HR 53,782,House,2003-08-05,Adopted,,54,3
+HR 53,782,House,2003-08-05,Rules suspended,,54,2
+HR 53,782,House,2003-08-05,Filed,,,1
+HR 77,782,House,2003-08-11,Reported enrolled,,,4
+HR 77,782,House,2003-08-08,Adopted,,65,3
+HR 77,782,House,2003-08-08,Rules suspended,,65,2
+HR 77,782,House,2003-08-08,Filed,,,1
+HR 155,782,House,2003-08-25,Reported enrolled,,,4
+HR 155,782,House,2003-08-22,Adopted,,118,3
+HR 155,782,House,2003-08-22,Rules suspended,,118,2
+HR 155,782,House,2003-08-22,Filed,,,1
+HR 69,782,House,2003-08-11,Reported enrolled,,,4
+HR 69,782,House,2003-08-08,Adopted,,61,3
+HR 69,782,House,2003-08-08,Rules suspended,,61,2
+HR 69,782,House,2003-08-08,Filed,,,1
+HR 89,782,House,2003-08-14,Reported enrolled,,,4
+HR 89,782,House,2003-08-13,Adopted,,77,3
+HR 89,782,House,2003-08-13,Rules suspended,,77,2
+HR 89,782,House,2003-08-12,Filed,,,1
+HR 90,782,House,2003-08-14,Reported enrolled,,,4
+HR 90,782,House,2003-08-13,Adopted,,77,3
+HR 90,782,House,2003-08-13,Rules suspended,,77,2
+HR 90,782,House,2003-08-12,Filed,,,1
+HR 91,782,House,2003-08-14,Reported enrolled,,,4
+HR 91,782,House,2003-08-13,Adopted,,78,3
+HR 91,782,House,2003-08-13,Rules suspended,,78,2
+HR 91,782,House,2003-08-12,Filed,,,1
+HR 92,782,House,2003-08-14,Reported enrolled,,,4
+HR 92,782,House,2003-08-13,Adopted,,78,3
+HR 92,782,House,2003-08-13,Rules suspended,,78,2
+HR 92,782,House,2003-08-12,Filed,,,1
+HR 95,782,House,2003-08-14,Reported enrolled,,,4
+HR 95,782,House,2003-08-13,Adopted,,78,3
+HR 95,782,House,2003-08-13,Rules suspended,,78,2
+HR 95,782,House,2003-08-13,Filed,,,1
+HR 115,782,House,2003-08-19,Reported enrolled,,,4
+HR 115,782,House,2003-08-18,Adopted,,91,3
+HR 115,782,House,2003-08-18,Rules suspended,,91,2
+HR 115,782,House,2003-08-14,Filed,,,1
+HR 136,782,House,2003-08-25,Reported enrolled,,,4
+HR 136,782,House,2003-08-22,Adopted,,101,3
+HR 136,782,House,2003-08-22,Rules suspended,,101,2
+HR 136,782,House,2003-08-20,Filed,,,1
+HR 137,782,House,2003-08-25,Reported enrolled,,,4
+HR 137,782,House,2003-08-22,Adopted,,101,3
+HR 137,782,House,2003-08-22,Rules suspended,,101,2
+HR 137,782,House,2003-08-20,Filed,,,1
+HR 138,782,House,2003-08-25,Reported enrolled,,,4
+HR 138,782,House,2003-08-22,Adopted,,101,3
+HR 138,782,House,2003-08-22,Rules suspended,,101,2
+HR 138,782,House,2003-08-20,Filed,,,1
+HR 139,782,House,2003-08-25,Reported enrolled,,,4
+HR 139,782,House,2003-08-22,Adopted,,101,3
+HR 139,782,House,2003-08-22,Rules suspended,,101,2
+HR 139,782,House,2003-08-20,Filed,,,1
+HR 140,782,House,2003-08-25,Reported enrolled,,,4
+HR 140,782,House,2003-08-22,Adopted,,102,3
+HR 140,782,House,2003-08-22,Rules suspended,,102,2
+HR 140,782,House,2003-08-20,Filed,,,1
+HR 142,782,House,2003-08-25,Reported enrolled,,,4
+HR 142,782,House,2003-08-22,Adopted,,102,3
+HR 142,782,House,2003-08-22,Rules suspended,,102,2
+HR 142,782,House,2003-08-21,Filed,,,1
+HR 143,782,House,2003-08-25,Reported enrolled,,,4
+HR 143,782,House,2003-08-22,Adopted,,102,3
+HR 143,782,House,2003-08-22,Rules suspended,,102,2
+HR 143,782,House,2003-08-21,Filed,,,1
+HR 174,782,House,2003-08-25,Reported enrolled,,,4
+HR 174,782,House,2003-08-22,Adopted,,102,3
+HR 174,782,House,2003-08-22,Rules suspended,,102,2
+HR 174,782,House,2003-08-22,Filed,,,1
+HR 81,782,House,2003-08-14,Reported enrolled,,,4
+HR 81,782,House,2003-08-13,Adopted,,79,3
+HR 81,782,House,2003-08-13,Rules suspended,,79,2
+HR 81,782,House,2003-08-08,Filed,,,1
+HR 168,782,House,2003-08-25,Reported enrolled,,,4
+HR 168,782,House,2003-08-22,Adopted,,112,3
+HR 168,782,House,2003-08-22,Rules suspended,,112,2
+HR 168,782,House,2003-08-22,Filed,,,1
+HR 169,782,House,2003-08-25,Reported enrolled,,,4
+HR 169,782,House,2003-08-22,Adopted,,113,3
+HR 169,782,House,2003-08-22,Rules suspended,,113,2
+HR 169,782,House,2003-08-22,Filed,,,1
+HR 170,782,House,2003-08-25,Reported enrolled,,,4
+HR 170,782,House,2003-08-22,Adopted,,113,3
+HR 170,782,House,2003-08-22,Rules suspended,,113,2
+HR 170,782,House,2003-08-22,Filed,,,1
+HR 171,782,House,2003-08-25,Reported enrolled,,,4
+HR 171,782,House,2003-08-22,Adopted,,113,3
+HR 171,782,House,2003-08-22,Rules suspended,,113,2
+HR 171,782,House,2003-08-22,Filed,,,1
+HR 198,782,House,2003-08-25,Reported enrolled,,,4
+HR 198,782,House,2003-08-22,Adopted,,113,3
+HR 198,782,House,2003-08-22,Rules suspended,,113,2
+HR 198,782,House,2003-08-22,Filed,,,1
+HR 186,782,House,2003-08-25,Reported enrolled,,,4
+HR 186,782,House,2003-08-22,Adopted,,118,3
+HR 186,782,House,2003-08-22,Rules suspended,,118,2
+HR 186,782,House,2003-08-22,Filed,,,1
+HR 56,782,House,2003-08-11,Reported enrolled,,,4
+HR 56,782,House,2003-08-08,Adopted,,64,3
+HR 56,782,House,2003-08-08,Rules suspended,,64,2
+HR 56,782,House,2003-08-06,Filed,,,1
+HR 57,782,House,2003-08-11,Reported enrolled,,,4
+HR 57,782,House,2003-08-08,Adopted,,64,3
+HR 57,782,House,2003-08-08,Rules suspended,,64,2
+HR 57,782,House,2003-08-06,Filed,,,1
+HR 58,782,House,2003-08-14,Reported enrolled,,,4
+HR 58,782,House,2003-08-13,Adopted,,81,3
+HR 58,782,House,2003-08-13,Rules suspended,,81,2
+HR 58,782,House,2003-08-06,Filed,,,1
+HR 3,782,House,2003-08-11,Reported enrolled,,,4
+HR 3,782,House,2003-08-08,Adopted,,67,3
+HR 3,782,House,2003-08-08,Rules suspended,,67,2
+HR 3,782,House,2003-07-29,Filed,,,1
+HR 36,782,House,2003-08-07,Reported enrolled,,,4
+HR 36,782,House,2003-08-05,Adopted,,50,3
+HR 36,782,House,2003-08-05,Rules suspended,,50,2
+HR 36,782,House,2003-08-05,Filed,,,1
+HR 165,782,House,2003-08-25,Reported enrolled,,,4
+HR 165,782,House,2003-08-22,Adopted,,116,3
+HR 165,782,House,2003-08-22,Rules suspended,,116,2
+HR 165,782,House,2003-08-22,Filed,,,1
+HR 166,782,House,2003-08-25,Reported enrolled,,,4
+HR 166,782,House,2003-08-22,Adopted,,117,3
+HR 166,782,House,2003-08-22,Rules suspended,,117,2
+HR 166,782,House,2003-08-22,Filed,,,1
+HR 180,782,House,2003-08-25,Reported enrolled,,,4
+HR 180,782,House,2003-08-22,Adopted,,117,3
+HR 180,782,House,2003-08-22,Rules suspended,,117,2
+HR 180,782,House,2003-08-22,Filed,,,1
+HB 48,782,House,2003-08-13,Referred to Corrections,,87,3
+HB 48,782,House,2003-08-13,Read first time,,87,2
+HB 48,782,House,2003-08-13,Filed,,,1
+HR 96,782,House,2003-08-14,Reported enrolled,,,4
+HR 96,782,House,2003-08-13,Adopted,,75,3
+HR 96,782,House,2003-08-13,Rules suspended,,75,2
+HR 96,782,House,2003-08-13,Filed,,,1
+HR 25,782,House,2003-08-06,Reported enrolled,,,4
+HR 25,782,House,2003-08-05,Adopted,,,3
+HR 25,782,House,2003-08-05,Rules suspended,,,2
+HR 25,782,House,2003-08-04,Filed,,,1
+HR 2,782,House,2003-07-29,Reported enrolled,,,4
+HR 2,782,House,2003-07-29,Adopted,,,3
+HR 2,782,House,2003-07-29,Rules suspended,,,2
+HR 2,782,House,2003-07-29,Filed,,,1
+HR 51,782,House,2003-08-07,Reported enrolled,,,4
+HR 51,782,House,2003-08-05,Adopted,,54,3
+HR 51,782,House,2003-08-05,Rules suspended,,54,2
+HR 51,782,House,2003-08-05,Filed,,,1
+HR 204,782,House,2003-08-25,Filed,,,1
+HR 205,782,House,2003-08-25,Filed,,,1
+HR 206,782,House,2003-08-25,Filed,,,1
+HR 78,782,House,2003-08-11,Reported enrolled,,,4
+HR 78,782,House,2003-08-08,Adopted,,67,3
+HR 78,782,House,2003-08-08,Rules suspended,,67,2
+HR 78,782,House,2003-08-08,Filed,,,1
+HR 199,782,House,2003-08-22,Filed,,,1
+HR 200,782,House,2003-08-22,Filed,,,1
+HR 10,782,House,2003-07-29,Reported enrolled,,,4
+HR 10,782,House,2003-07-29,Adopted,,,3
+HR 10,782,House,2003-07-29,Rules suspended,,,2
+HR 10,782,House,2003-07-29,Filed,,,1
+HR 193,782,House,2003-08-25,Reported enrolled,,,4
+HR 193,782,House,2003-08-22,Adopted,,112,3
+HR 193,782,House,2003-08-22,Rules suspended,,112,2
+HR 193,782,House,2003-08-22,Filed,,,1
+HR 194,782,House,2003-08-25,Reported enrolled,,,4
+HR 194,782,House,2003-08-22,Adopted,,112,3
+HR 194,782,House,2003-08-22,Rules suspended,,112,2
+HR 194,782,House,2003-08-22,Filed,,,1
+HB 33,782,House,2003-08-05,Referred to Public Education,,56,3
+HB 33,782,House,2003-08-05,Read first time,,56,2
+HB 33,782,House,2003-07-30,Filed,,,1
+HB 49,782,House,2003-08-13,Referred to State Affairs,,87,3
+HB 49,782,House,2003-08-13,Read first time,,87,2
+HB 49,782,House,2003-08-13,Filed,,,1
+HR 185,782,House,2003-08-25,Reported enrolled,,,4
+HR 185,782,House,2003-08-22,Adopted,,109,3
+HR 185,782,House,2003-08-22,Rules suspended,,109,2
+HR 185,782,House,2003-08-22,Filed,,,1
+HR 70,782,House,2003-08-11,Reported enrolled,,,4
+HR 70,782,House,2003-08-08,Adopted,,63,3
+HR 70,782,House,2003-08-08,Rules suspended,,63,2
+HR 70,782,House,2003-08-08,Filed,,,1
+HR 105,782,House,2003-08-14,Reported enrolled,,,4
+HR 105,782,House,2003-08-13,Adopted,,80,3
+HR 105,782,House,2003-08-13,Rules suspended,,80,2
+HR 105,782,House,2003-08-13,Filed,,,1
+HR 124,782,House,2003-08-19,Reported enrolled,,,4
+HR 124,782,House,2003-08-18,Adopted,,94,3
+HR 124,782,House,2003-08-18,Rules suspended,,94,2
+HR 124,782,House,2003-08-18,Filed,,,1
+HCR 6,782,House,2003-08-05,Adopted,,,3
+HCR 6,782,House,2003-08-05,Rules suspended,,,2
+HCR 6,782,House,2003-08-05,Filed,,,1
+HR 7,782,House,2003-08-06,Reported enrolled,,,4
+HR 7,782,House,2003-08-05,Adopted,,53,3
+HR 7,782,House,2003-08-05,Rules suspended,,53,2
+HR 7,782,House,2003-07-29,Filed,,,1
+HR 8,782,House,2003-08-06,Reported enrolled,,,4
+HR 8,782,House,2003-08-05,Adopted,,53,3
+HR 8,782,House,2003-08-05,Rules suspended,,53,2
+HR 8,782,House,2003-07-29,Filed,,,1
+HR 9,782,House,2003-08-06,Reported enrolled,,,4
+HR 9,782,House,2003-08-05,Adopted,,53,3
+HR 9,782,House,2003-08-05,Rules suspended,,53,2
+HR 9,782,House,2003-07-29,Filed,,,1
+HR 19,782,House,2003-08-06,Reported enrolled,,,4
+HR 19,782,House,2003-08-05,Adopted,,53,3
+HR 19,782,House,2003-08-05,Rules suspended,,53,2
+HR 19,782,House,2003-07-31,Filed,,,1
+HR 20,782,House,2003-08-06,Reported enrolled,,,4
+HR 20,782,House,2003-08-05,Adopted,,54,3
+HR 20,782,House,2003-08-05,Rules suspended,,54,2
+HR 20,782,House,2003-07-31,Filed,,,1
+HR 35,782,House,2003-08-06,Reported enrolled,,,4
+HR 35,782,House,2003-08-05,Adopted,,51,3
+HR 35,782,House,2003-08-05,Rules suspended,,51,2
+HR 35,782,House,2003-08-05,Filed,,,1
+HR 45,782,House,2003-08-06,Reported enrolled,,,4
+HR 45,782,House,2003-08-05,Adopted,,51,3
+HR 45,782,House,2003-08-05,Rules suspended,,51,2
+HR 45,782,House,2003-08-05,Filed,,,1
+HR 46,782,House,2003-08-06,Reported enrolled,,,4
+HR 46,782,House,2003-08-05,Adopted,,51,3
+HR 46,782,House,2003-08-05,Rules suspended,,51,2
+HR 46,782,House,2003-08-05,Filed,,,1
+HR 47,782,House,2003-08-06,Reported enrolled,,,4
+HR 47,782,House,2003-08-05,Adopted,,52,3
+HR 47,782,House,2003-08-05,Rules suspended,,52,2
+HR 47,782,House,2003-08-05,Filed,,,1
+HR 48,782,House,2003-08-06,Reported enrolled,,,4
+HR 48,782,House,2003-08-05,Adopted,,52,3
+HR 48,782,House,2003-08-05,Rules suspended,,52,2
+HR 48,782,House,2003-08-05,Filed,,,1
+HR 49,782,House,2003-08-06,Reported enrolled,,,4
+HR 49,782,House,2003-08-05,Adopted,,52,3
+HR 49,782,House,2003-08-05,Rules suspended,,52,2
+HR 49,782,House,2003-08-05,Filed,,,1
+HR 50,782,House,2003-08-07,Reported enrolled,,,4
+HR 50,782,House,2003-08-05,Adopted,,52,3
+HR 50,782,House,2003-08-05,Rules suspended,,52,2
+HR 50,782,House,2003-08-05,Filed,,,1
+HR 93,782,House,2003-08-14,Reported enrolled,,,4
+HR 93,782,House,2003-08-13,Adopted,,80,3
+HR 93,782,House,2003-08-13,Rules suspended,,80,2
+HR 93,782,House,2003-08-12,Filed,,,1
+HR 94,782,House,2003-08-14,Reported enrolled,,,4
+HR 94,782,House,2003-08-13,Adopted,,80,3
+HR 94,782,House,2003-08-13,Rules suspended,,80,2
+HR 94,782,House,2003-08-12,Filed,,,1
+HR 121,782,House,2003-08-19,Reported enrolled,,,4
+HR 121,782,House,2003-08-18,Adopted,,92,3
+HR 121,782,House,2003-08-18,Rules suspended,,92,2
+HR 121,782,House,2003-08-15,Filed,,,1
+HR 146,782,House,2003-08-25,Reported enrolled,,,4
+HR 146,782,House,2003-08-22,Adopted,,110,3
+HR 146,782,House,2003-08-22,Rules suspended,,110,2
+HR 146,782,House,2003-08-21,Filed,,,1
+HR 147,782,House,2003-08-25,Reported enrolled,,,4
+HR 147,782,House,2003-08-22,Adopted,,111,3
+HR 147,782,House,2003-08-22,Rules suspended,,111,2
+HR 147,782,House,2003-08-21,Filed,,,1
+HR 182,782,House,2003-08-25,Reported enrolled,,,4
+HR 182,782,House,2003-08-22,Adopted,,111,3
+HR 182,782,House,2003-08-22,Rules suspended,,111,2
+HR 182,782,House,2003-08-22,Filed,,,1
+HR 183,782,House,2003-08-25,Reported enrolled,,,4
+HR 183,782,House,2003-08-22,Adopted,,111,3
+HR 183,782,House,2003-08-22,Rules suspended,,111,2
+HR 183,782,House,2003-08-22,Filed,,,1
+HR 1,782,House,2003-07-29,Reported enrolled,,,4
+HR 1,782,House,2003-07-29,Adopted,,,3
+HR 1,782,House,2003-07-29,Rules suspended,,,2
+HR 1,782,House,2003-07-29,Filed,,,1
+HR 37,782,House,2003-08-06,Reported enrolled,,,4
+HR 37,782,House,2003-08-05,Adopted,,,3
+HR 37,782,House,2003-08-05,Rules suspended,,,2
+HR 37,782,House,2003-08-05,Filed,,,1
+HR 38,782,House,2003-08-06,Reported enrolled,,,4
+HR 38,782,House,2003-08-05,Adopted,,,3
+HR 38,782,House,2003-08-05,Rules suspended,,,2
+HR 38,782,House,2003-08-05,Filed,,,1
+HR 144,782,House,2003-08-25,Reported enrolled,,,4
+HR 144,782,House,2003-08-22,Adopted,,103,3
+HR 144,782,House,2003-08-22,Rules suspended,,103,2
+HR 144,782,House,2003-08-21,Filed,,,1
+HR 145,782,House,2003-08-25,Reported enrolled,,,4
+HR 145,782,House,2003-08-22,Adopted,,104,3
+HR 145,782,House,2003-08-22,Rules suspended,,104,2
+HR 145,782,House,2003-08-21,Filed,,,1
+HR 63,782,House,2003-08-11,Reported enrolled,,,4
+HR 63,782,House,2003-08-08,Adopted,,62,3
+HR 63,782,House,2003-08-08,Rules suspended,,62,2
+HR 63,782,House,2003-08-07,Filed,,,1
+HB 29,782,House,2003-07-29,Reported engrossed,,57,15
+HB 29,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,14
+HB 29,782,House,2003-07-29,Record vote,RV#22,,13
+HB 29,782,House,2003-07-29,Passed,,,12
+HB 29,782,House,2003-07-29,Read 3rd time,,,11
+HB 29,782,House,2003-07-29,Record vote,RV#21,,10
+HB 29,782,House,2003-07-29,Constitutional three day rule suspended,,,9
+HB 29,782,House,2003-07-29,Passed to engrossment,,,8
+HB 29,782,House,2003-07-29,Record vote,RV#20,,7
+HB 29,782,House,2003-07-29,Amendment tabled,1-Alonzo,,6
+HB 29,782,House,2003-07-29,Read 2nd time,,,5
+HB 29,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 29,782,House,2003-07-29,Record vote,RV#5,,3
+HB 29,782,House,2003-07-29,Rules suspended,,,2
+HB 29,782,House,2003-07-29,Filed,,,1
+HR 109,782,House,2003-08-14,Reported enrolled,,,4
+HR 109,782,House,2003-08-13,Adopted,,87,3
+HR 109,782,House,2003-08-13,Rules suspended,,87,2
+HR 109,782,House,2003-08-13,Filed,,,1
+HR 163,782,House,2003-08-25,Reported enrolled,,,4
+HR 163,782,House,2003-08-22,Adopted,,104,3
+HR 163,782,House,2003-08-22,Rules suspended,,104,2
+HR 163,782,House,2003-08-22,Filed,,,1
+HR 164,782,House,2003-08-25,Reported enrolled,,,4
+HR 164,782,House,2003-08-22,Adopted,,104,3
+HR 164,782,House,2003-08-22,Rules suspended,,104,2
+HR 164,782,House,2003-08-22,Filed,,,1
+HCR 10,782,House,2003-08-22,Filed,,,1
+HR 181,782,House,2003-08-25,Reported enrolled,,,4
+HR 181,782,House,2003-08-22,Adopted,,107,3
+HR 181,782,House,2003-08-22,Rules suspended,,107,2
+HR 181,782,House,2003-08-22,Filed,,,1
+HR 21,782,House,2003-08-06,Reported enrolled,,,4
+HR 21,782,House,2003-08-05,Adopted,,51,3
+HR 21,782,House,2003-08-05,Rules suspended,,51,2
+HR 21,782,House,2003-08-01,Filed,,,1
+HR 152,782,House,2003-08-25,Reported enrolled,,,4
+HR 152,782,House,2003-08-22,Adopted,,112,3
+HR 152,782,House,2003-08-22,Rules suspended,,112,2
+HR 152,782,House,2003-08-22,Filed,,,1
+HB 31,782,House,2003-07-29,Referred to Judicial Affairs,,,3
+HB 31,782,House,2003-07-29,Read first time,,,2
+HB 31,782,House,2003-07-29,Filed,,,1
+HB 37,782,House,2003-08-13,Meeting cancelled,,,5
+HB 37,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,4
+HB 37,782,House,2003-08-05,Referred to Elections,,56,3
+HB 37,782,House,2003-08-05,Read first time,,56,2
+HB 37,782,House,2003-07-31,Filed,,,1
+HR 27,782,House,2003-08-07,Reported enrolled,,,4
+HR 27,782,House,2003-08-05,Adopted,,55,3
+HR 27,782,House,2003-08-05,Rules suspended,,55,2
+HR 27,782,House,2003-08-04,Filed,,,1
+HR 141,782,House,2003-08-25,Reported enrolled,,,4
+HR 141,782,House,2003-08-22,Adopted,,117,3
+HR 141,782,House,2003-08-22,Rules suspended,,117,2
+HR 141,782,House,2003-08-20,Filed,,,1
+HB 25,782,House,2003-07-29,Reported engrossed,,57,28
+HB 25,782,House,2003-07-29,Nonrecord vote recorded in Journal,,,27
+HB 25,782,House,2003-07-29,Passed,,,26
+HB 25,782,House,2003-07-29,Read 3rd time,,,25
+HB 25,782,House,2003-07-29,Record vote,RV#19,,24
+HB 25,782,House,2003-07-29,Constitutional three day rule suspended,,,23
+HB 25,782,House,2003-07-29,Record vote,RV#18,,22
+HB 25,782,House,2003-07-29,Vote reconsidered,,,21
+HB 25,782,House,2003-07-29,Record vote,RV#17,,20
+HB 25,782,House,2003-07-29,Motion to suspend rules fails,,,19
+HB 25,782,House,2003-07-29,Passed to engrossment as amended,,,18
+HB 25,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,17
+HB 25,782,House,2003-07-29,Record vote,RV#16,,16
+HB 25,782,House,2003-07-29,Amendment tabled,6-Hochberg,,15
+HB 25,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,14
+HB 25,782,House,2003-07-29,Record vote,RV#15,,13
+HB 25,782,House,2003-07-29,Amendment tabled,5-McReynolds,,12
+HB 25,782,House,2003-07-29,Amendment tabled,4-Coleman,,11
+HB 25,782,House,2003-07-29,Record vote,RV#14,,10
+HB 25,782,House,2003-07-29,Amendment tabled,3-Coleman,,9
+HB 25,782,House,2003-07-29,Record vote,RV#13,,8
+HB 25,782,House,2003-07-29,Amendment tabled,2-Alonzo,,7
+HB 25,782,House,2003-07-29,Amended,1-Krusee,,6
+HB 25,782,House,2003-07-29,Read 2nd time,,,5
+HB 25,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 25,782,House,2003-07-29,Record vote,RV#5,,3
+HB 25,782,House,2003-07-29,Rules suspended,,,2
+HB 25,782,House,2003-07-29,Filed,,,1
+HR 75,782,House,2003-08-11,Reported enrolled,,,4
+HR 75,782,House,2003-08-08,Adopted,,66,3
+HR 75,782,House,2003-08-08,Rules suspended,,66,2
+HR 75,782,House,2003-08-08,Filed,,,1
+HR 125,782,House,2003-08-19,Reported enrolled,,,4
+HR 125,782,House,2003-08-18,Adopted,,95,3
+HR 125,782,House,2003-08-18,Rules suspended,,95,2
+HR 125,782,House,2003-08-18,Filed,,,1
+HCR 5,782,House,2003-08-05,Adopted,,,3
+HCR 5,782,House,2003-08-05,Rules suspended,,,2
+HCR 5,782,House,2003-08-05,Filed,,,1
+HR 43,782,House,2003-08-06,Reported enrolled,,,4
+HR 43,782,House,2003-08-05,Adopted,,,3
+HR 43,782,House,2003-08-05,Rules suspended,,,2
+HR 43,782,House,2003-08-05,Filed,,,1
+HR 202,782,House,2003-08-25,Filed,,,1
+HR 203,782,House,2003-08-25,Filed,,,1
+HCR 1,782,House,2003-07-29,Reason for vote recorded in Journal,,,5
+HCR 1,782,House,2003-07-29,Nonrecord vote recorded in Journal,,,4
+HCR 1,782,House,2003-07-29,Adopted,,,3
+HCR 1,782,House,2003-07-29,Rules suspended,,,2
+HCR 1,782,House,2003-07-29,Filed,,,1
+HB 34,782,House,2003-08-05,Referred to Appropriations,,56,3
+HB 34,782,House,2003-08-05,Read first time,,56,2
+HB 34,782,House,2003-07-31,Filed,,,1
+HR 178,782,House,2003-08-25,Reported enrolled,,,4
+HR 178,782,House,2003-08-22,Adopted,,110,3
+HR 178,782,House,2003-08-22,Rules suspended,,110,2
+HR 178,782,House,2003-08-22,Filed,,,1
+HR 209,782,House,2003-08-26,Filed,,,1
+HB 2,782,House,2003-07-29,Reported engrossed,,57,15
+HB 2,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,14
+HB 2,782,House,2003-08-29,Subject to Art.III Sec.49a Tx. Constitution,,,13
+HB 2,782,House,2003-07-29,Record vote,RV#12,,12
+HB 2,782,House,2003-07-29,Passed,,,11
+HB 2,782,House,2003-07-29,Read 3rd time,,,10
+HB 2,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,9
+HB 2,782,House,2003-07-29,Record vote,RV#11,,8
+HB 2,782,House,2003-07-29,Constitutional three day rule suspended,,,7
+HB 2,782,House,2003-07-29,Passed to engrossment,,,6
+HB 2,782,House,2003-07-29,Read 2nd time,,,5
+HB 2,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 2,782,House,2003-07-29,Record vote,RV#5,,3
+HB 2,782,House,2003-07-29,Rules suspended,,,2
+HB 2,782,House,2003-07-29,Filed,,,1
+HR 73,782,House,2003-08-11,Reported enrolled,,,4
+HR 73,782,House,2003-08-08,Adopted,,64,3
+HR 73,782,House,2003-08-08,Rules suspended,,64,2
+HR 73,782,House,2003-08-08,Filed,,,1
+HR 74,782,House,2003-08-11,Reported enrolled,,,4
+HR 74,782,House,2003-08-08,Adopted,,64,3
+HR 74,782,House,2003-08-08,Rules suspended,,64,2
+HR 74,782,House,2003-08-08,Filed,,,1
+HR 101,782,House,2003-08-14,Reported enrolled,,,4
+HR 101,782,House,2003-08-13,Adopted,,79,3
+HR 101,782,House,2003-08-13,Rules suspended,,79,2
+HR 101,782,House,2003-08-13,Filed,,,1
+HR 102,782,House,2003-08-14,Reported enrolled,,,4
+HR 102,782,House,2003-08-13,Adopted,,79,3
+HR 102,782,House,2003-08-13,Rules suspended,,79,2
+HR 102,782,House,2003-08-13,Filed,,,1
+HB 36,782,House,2003-08-13,Left pending in committee,,,9
+HB 36,782,House,2003-08-13,Testimony taken in committee,,,8
+HB 36,782,House,2003-08-13,Considered in public hearing,,,7
+HB 36,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,6
+HB 36,782,House,2003-08-12,Meeting cancelled,,,5
+HB 36,782,House,2003-08-12,Scheduled for public hearing on . . . .,,,4
+HB 36,782,House,2003-08-05,Referred to Business & Industry,,56,3
+HB 36,782,House,2003-08-05,Read first time,,56,2
+HB 36,782,House,2003-07-31,Filed,,,1
+HR 6,782,House,2003-07-29,Reported enrolled,,,4
+HR 6,782,House,2003-07-29,Adopted,,,3
+HR 6,782,House,2003-07-29,Rules suspended,,,2
+HR 6,782,House,2003-07-29,Filed,,,1
+HB 30,782,House,2003-07-29,Referred to Redistricting,,,3
+HB 30,782,House,2003-07-29,Read first time,,,2
+HB 30,782,House,2003-07-29,Filed,,,1
+HB 51,782,House,2003-08-20,Committee report sent to Calendars,,,9
+HB 51,782,House,2003-08-19,Committee report printed and distributed,,,8
+HB 51,782,House,2003-08-19,Comte report filed with Committee Coordinator,,120,7
+HB 51,782,House,2003-08-18,Reported favorably w/o amendment(s),,,6
+HB 51,782,House,2003-08-18,Considered in formal meeting,,,5
+HB 51,782,House,2003-08-18,Scheduled for formal meeting on . . . .,,,4
+HB 51,782,House,2003-08-13,Referred to Border and International Affairs,,88,3
+HB 51,782,House,2003-08-13,Read first time,,88,2
+HB 51,782,House,2003-08-13,Filed,,,1
+HR 103,782,House,2003-08-14,Reported enrolled,,,4
+HR 103,782,House,2003-08-13,Adopted,,79,3
+HR 103,782,House,2003-08-13,Rules suspended,,79,2
+HR 103,782,House,2003-08-13,Filed,,,1
+HR 177,782,House,2003-08-25,Reported enrolled,,,4
+HR 177,782,House,2003-08-22,Adopted,,166,3
+HR 177,782,House,2003-08-22,Rules suspended,,166,2
+HR 177,782,House,2003-08-22,Filed,,,1
+HR 122,782,House,2003-08-19,Reported enrolled,,,4
+HR 122,782,House,2003-08-18,Adopted,,91,3
+HR 122,782,House,2003-08-18,Rules suspended,,91,2
+HR 122,782,House,2003-08-18,Filed,,,1
+HR 5,782,House,2003-07-29,Reported enrolled,,,4
+HR 5,782,House,2003-07-29,Adopted,,,3
+HR 5,782,House,2003-07-29,Rules suspended,,,2
+HR 5,782,House,2003-07-29,Filed,,,1
+HR 41,782,House,2003-08-07,Reported enrolled,,,4
+HR 41,782,House,2003-08-05,Adopted,,,3
+HR 41,782,House,2003-08-05,Rules suspended,,,2
+HR 41,782,House,2003-08-05,Filed,,,1
+HR 52,782,House,2003-08-07,Reported enrolled,,,4
+HR 52,782,House,2003-08-05,Adopted,,50,3
+HR 52,782,House,2003-08-05,Rules suspended,,50,2
+HR 52,782,House,2003-08-05,Filed,,,1
+HR 84,782,House,2003-08-14,Reported enrolled,,,4
+HR 84,782,House,2003-08-13,Adopted,,75,3
+HR 84,782,House,2003-08-13,Rules suspended,,75,2
+HR 84,782,House,2003-08-12,Filed,,,1
+HR 85,782,House,2003-08-14,Reported enrolled,,,4
+HR 85,782,House,2003-08-13,Adopted,,76,3
+HR 85,782,House,2003-08-13,Rules suspended,,76,2
+HR 85,782,House,2003-08-12,Filed,,,1
+HR 86,782,House,2003-08-14,Reported enrolled,,,4
+HR 86,782,House,2003-08-13,Adopted,,76,3
+HR 86,782,House,2003-08-13,Rules suspended,,76,2
+HR 86,782,House,2003-08-12,Filed,,,1
+HR 87,782,House,2003-08-14,Reported enrolled,,,4
+HR 87,782,House,2003-08-13,Adopted,,76,3
+HR 87,782,House,2003-08-13,Rules suspended,,76,2
+HR 87,782,House,2003-08-12,Filed,,,1
+HR 97,782,House,2003-08-14,Reported enrolled,,,4
+HR 97,782,House,2003-08-13,Adopted,,76,3
+HR 97,782,House,2003-08-13,Rules suspended,,76,2
+HR 97,782,House,2003-08-13,Filed,,,1
+HR 98,782,House,2003-08-14,Reported enrolled,,,4
+HR 98,782,House,2003-08-13,Adopted,,77,3
+HR 98,782,House,2003-08-13,Rules suspended,,77,2
+HR 98,782,House,2003-08-13,Filed,,,1
+HR 196,782,House,2003-08-25,Reported enrolled,,,4
+HR 196,782,House,2003-08-22,Adopted,,108,3
+HR 196,782,House,2003-08-22,Rules suspended,,108,2
+HR 196,782,House,2003-08-22,Filed,,,1
+HR 197,782,House,2003-08-25,Reported enrolled,,,4
+HR 197,782,House,2003-08-22,Adopted,,108,3
+HR 197,782,House,2003-08-22,Rules suspended,,108,2
+HR 197,782,House,2003-08-22,Filed,,,1
+HR 151,782,House,2003-08-25,Reported enrolled,,,4
+HR 151,782,House,2003-08-22,Adopted,,108,3
+HR 151,782,House,2003-08-22,Rules suspended,,108,2
+HR 151,782,House,2003-08-21,Filed,,,1
+HB 32,782,House,2003-08-05,Referred to Appropriations,,56,3
+HB 32,782,House,2003-08-05,Read first time,,56,2
+HB 32,782,House,2003-07-30,Filed,,,1
+HR 201,782,House,2003-08-25,Filed,,,1
+HR 4,782,House,2003-07-29,Reported enrolled,,,4
+HR 4,782,House,2003-07-29,Adopted,,,3
+HR 4,782,House,2003-07-29,Rules suspended,,,2
+HR 4,782,House,2003-07-29,Filed,,,1
+HR 167,782,House,2003-08-25,Reported enrolled,,,4
+HR 167,782,House,2003-08-22,Adopted,,106,3
+HR 167,782,House,2003-08-22,Rules suspended,,106,2
+HR 167,782,House,2003-08-22,Filed,,,1
+HR 54,782,House,2003-08-11,Reported enrolled,,,4
+HR 54,782,House,2003-08-08,Adopted,,65,3
+HR 54,782,House,2003-08-08,Rules suspended,,65,2
+HR 54,782,House,2003-08-05,Filed,,,1
+HR 55,782,House,2003-08-11,Reported enrolled,,,4
+HR 55,782,House,2003-08-08,Adopted,,65,3
+HR 55,782,House,2003-08-08,Rules suspended,,65,2
+HR 55,782,House,2003-08-05,Filed,,,1
+HR 18,782,House,2003-08-07,Reported enrolled,,,4
+HR 18,782,House,2003-08-05,Adopted,,54,3
+HR 18,782,House,2003-08-05,Rules suspended,,54,2
+HR 18,782,House,2003-07-30,Filed,,,1
+HR 161,782,House,2003-08-25,Reported enrolled,,,4
+HR 161,782,House,2003-08-22,Adopted,,118,3
+HR 161,782,House,2003-08-22,Rules suspended,,118,2
+HR 161,782,House,2003-08-22,Filed,,,1
+HR 83,782,House,2003-08-14,Reported enrolled,,,4
+HR 83,782,House,2003-08-13,Adopted,,78,3
+HR 83,782,House,2003-08-13,Rules suspended,,78,2
+HR 83,782,House,2003-08-11,Filed,,,1
+HB 28,782,House,2003-08-14,Reported engrossed,,98,18
+HB 28,782,House,2003-08-13,Passed as amended,,84,17
+HB 28,782,House,2003-08-13,Amended,1-W. Smith,84,16
+HB 28,782,House,2003-08-13,Read 3rd time,,84,15
+HB 28,782,House,2003-08-05,Record vote,RV#25,,14
+HB 28,782,House,2003-08-05,Passed to engrossment,,,13
+HB 28,782,House,2003-08-05,Read 2nd time,,,12
+HB 28,782,House,2003-08-05,Placed on Major State Calendar,,,11
+HB 28,782,House,2003-07-30,Considered in Calendars,,,10
+HB 28,782,House,2003-07-29,Committee report sent to Calendars,,,9
+HB 28,782,House,2003-07-29,Committee report printed and distributed,,,8
+HB 28,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,7
+HB 28,782,House,2003-07-29,Reported favorably w/o amendment(s),,,6
+HB 28,782,House,2003-07-29,Considered in formal meeting,,,5
+HB 28,782,House,2003-07-29,Scheduled for formal meeting on . . . .,,,4
+HB 28,782,House,2003-07-29,Referred to Environmental Regulation,,,3
+HB 28,782,House,2003-07-29,Read first time,,,2
+HB 28,782,House,2003-07-29,Filed,,,1
+HR 33,782,House,2003-08-07,Reported enrolled,,,4
+HR 33,782,House,2003-08-05,Adopted,,,3
+HR 33,782,House,2003-08-05,Rules suspended,,,2
+HR 33,782,House,2003-08-05,Filed,,,1
+HR 187,782,House,2003-08-25,Reported enrolled,,,4
+HR 187,782,House,2003-08-22,Adopted,,114,3
+HR 187,782,House,2003-08-22,Rules suspended,,114,2
+HR 187,782,House,2003-08-22,Filed,,,1
+HR 188,782,House,2003-08-25,Reported enrolled,,,4
+HR 188,782,House,2003-08-22,Adopted,,114,3
+HR 188,782,House,2003-08-22,Rules suspended,,114,2
+HR 188,782,House,2003-08-22,Filed,,,1
+HR 189,782,House,2003-08-25,Reported enrolled,,,4
+HR 189,782,House,2003-08-22,Adopted,,114,3
+HR 189,782,House,2003-08-22,Rules suspended,,114,2
+HR 189,782,House,2003-08-22,Filed,,,1
+HR 190,782,House,2003-08-25,Reported enrolled,,,4
+HR 190,782,House,2003-08-22,Adopted,,114,3
+HR 190,782,House,2003-08-22,Rules suspended,,114,2
+HR 190,782,House,2003-08-22,Filed,,,1
+HR 191,782,House,2003-08-25,Reported enrolled,,,4
+HR 191,782,House,2003-08-22,Adopted,,115,3
+HR 191,782,House,2003-08-22,Rules suspended,,115,2
+HR 191,782,House,2003-08-22,Filed,,,1
+HR 192,782,House,2003-08-25,Reported enrolled,,,4
+HR 192,782,House,2003-08-22,Adopted,,115,3
+HR 192,782,House,2003-08-22,Rules suspended,,115,2
+HR 192,782,House,2003-08-22,Filed,,,1
+HB 3,782,House,2003-08-18,Reported engrossed,,121,27
+HB 3,782,House,2003-08-18,Passed,,96,26
+HB 3,782,House,2003-08-18,Read 3rd time,,96,25
+HB 3,782,House,2003-08-13,Nonrecord vote recorded in Journal,,84,24
+HB 3,782,House,2003-08-13,Passed to engrossment as amended,,84,23
+HB 3,782,House,2003-08-13,Amended,1-McCall,82,22
+HB 3,782,House,2003-08-13,Laid out as postponed business,,82,21
+HB 3,782,House,2003-08-08,Postponed,,,20
+HB 3,782,House,2003-08-08,Laid out as postponed business,,69,19
+HB 3,782,House,2003-08-05,Postponed,8/08/03  2:00PM,69,18
+HB 3,782,House,2003-08-05,Read 2nd time,,,17
+HB 3,782,House,2003-08-05,Corrected committee report sent to Calendars,,,16
+HB 3,782,House,2003-08-05,Corrected comm. report printed & distributed,,,15
+HB 3,782,House,2003-08-05,Corrected com rept filed w/ Comte Coordinator,,72,14
+HB 3,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 3,782,House,2003-07-30,Considered in Calendars,,,12
+HB 3,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 3,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 3,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 3,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 3,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 3,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 3,782,House,2003-07-29,Read first time,,,5
+HB 3,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 3,782,House,2003-07-29,Record vote,RV#5,,3
+HB 3,782,House,2003-07-29,Rules suspended,,,2
+HB 3,782,House,2003-07-29,Filed,,,1
+HB 4,782,House,2003-08-11,Reported engrossed,,88,18
+HB 4,782,House,2003-08-08,Passed,,69,17
+HB 4,782,House,2003-08-08,Read 3rd time,,69,16
+HB 4,782,House,2003-08-05,Passed to engrossment,,,15
+HB 4,782,House,2003-08-05,Read 2nd time,,,14
+HB 4,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 4,782,House,2003-07-30,Considered in Calendars,,,12
+HB 4,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 4,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 4,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 4,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 4,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 4,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 4,782,House,2003-07-29,Read first time,,,5
+HB 4,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 4,782,House,2003-07-29,Record vote,RV#5,,3
+HB 4,782,House,2003-07-29,Rules suspended,,,2
+HB 4,782,House,2003-07-29,Filed,,,1
+HB 5,782,House,2003-08-05,Laid on the table subject to call,,,15
+HB 5,782,House,2003-08-05,Read 2nd time,,,14
+HB 5,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 5,782,House,2003-07-30,Considered in Calendars,,,12
+HB 5,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 5,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 5,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 5,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 5,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 5,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 5,782,House,2003-07-29,Read first time,,,5
+HB 5,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 5,782,House,2003-07-29,Record vote,RV#5,,3
+HB 5,782,House,2003-07-29,Rules suspended,,,2
+HB 5,782,House,2003-07-29,Filed,,,1
+HB 6,782,House,2003-08-20,Committee report sent to Calendars,,,18
+HB 6,782,House,2003-08-19,Committee report printed and distributed,,,17
+HB 6,782,House,2003-08-19,Comte report filed with Committee Coordinator,,121,16
+HB 6,782,House,2003-08-13,Reported favorably as substituted,,,15
+HB 6,782,House,2003-08-13,Testimony taken in committee,,,14
+HB 6,782,House,2003-08-13,Committee substitute considered in committee,,,13
+HB 6,782,House,2003-08-13,Considered in public hearing,,,12
+HB 6,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,11
+HB 6,782,House,2003-08-08,Left pending in committee,,,10
+HB 6,782,House,2003-08-08,Testimony taken in committee,,,9
+HB 6,782,House,2003-08-08,Committee substitute considered in committee,,,8
+HB 6,782,House,2003-08-08,Considered in public hearing,,,7
+HB 6,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 6,782,House,2003-08-05,No action taken in committee,,,5
+HB 6,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 6,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 6,782,House,2003-07-29,Read first time,,,2
+HB 6,782,House,2003-07-29,Filed,,,1
+HB 7,782,House,2003-08-11,Reported engrossed,,88,18
+HB 7,782,House,2003-08-08,Passed,,69,17
+HB 7,782,House,2003-08-08,Read 3rd time,,69,16
+HB 7,782,House,2003-08-05,Passed to engrossment,,,15
+HB 7,782,House,2003-08-05,Read 2nd time,,,14
+HB 7,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 7,782,House,2003-07-30,Considered in Calendars,,,12
+HB 7,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 7,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 7,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 7,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 7,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 7,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 7,782,House,2003-07-29,Read first time,,,5
+HB 7,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 7,782,House,2003-07-29,Record vote,RV#5,,3
+HB 7,782,House,2003-07-29,Rules suspended,,,2
+HB 7,782,House,2003-07-29,Filed,,,1
+HB 8,782,House,2003-08-11,Reported engrossed,,88,21
+HB 8,782,House,2003-08-08,Passed,,69,20
+HB 8,782,House,2003-08-08,Read 3rd time,,69,19
+HB 8,782,House,2003-08-05,Record vote,RV#24,,18
+HB 8,782,House,2003-08-05,Passed to engrossment as amended,,,17
+HB 8,782,House,2003-08-05,Amendment tabled,2-Coleman,,16
+HB 8,782,House,2003-08-05,Amended,1-Hochberg,,15
+HB 8,782,House,2003-08-05,Read 2nd time,,,14
+HB 8,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 8,782,House,2003-07-30,Considered in Calendars,,,12
+HB 8,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 8,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 8,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 8,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 8,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 8,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 8,782,House,2003-07-29,Read first time,,,5
+HB 8,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 8,782,House,2003-07-29,Record vote,RV#5,,3
+HB 8,782,House,2003-07-29,Rules suspended,,,2
+HB 8,782,House,2003-07-29,Filed,,,1
+HB 9,782,House,2003-08-14,Reported engrossed,,98,24
+HB 9,782,House,2003-08-13,Passed as amended,,85,23
+HB 9,782,House,2003-08-13,Amended,1-Hughes,,22
+HB 9,782,House,2003-08-13,Laid before the House,,84,21
+HB 9,782,House,2003-08-08,Postponed,,70,20
+HB 9,782,House,2003-08-08,Read 3rd time,,70,19
+HB 9,782,House,2003-08-05,Passed to engrossment as amended,,,18
+HB 9,782,House,2003-08-05,Amended,3-Isett,,17
+HB 9,782,House,2003-08-05,Amended,2-Hughes,,16
+HB 9,782,House,2003-08-05,Amended,1-Swinford,85,15
+HB 9,782,House,2003-08-05,Read 2nd time,,,14
+HB 9,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 9,782,House,2003-07-30,Considered in Calendars,,,12
+HB 9,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 9,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 9,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 9,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 9,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 9,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 9,782,House,2003-07-29,Read first time,,,5
+HB 9,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 9,782,House,2003-07-29,Record vote,RV#5,,3
+HB 9,782,House,2003-07-29,Rules suspended,,,2
+HB 9,782,House,2003-07-29,Filed,,,1
+HB 10,782,House,2003-08-05,No action taken in committee,,,5
+HB 10,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 10,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 10,782,House,2003-07-29,Read first time,,,2
+HB 10,782,House,2003-07-29,Filed,,,1
+HB 11,782,House,2003-08-13,Reported engrossed,,98,22
+HB 11,782,House,2003-08-13,Nonrecord vote recorded in Journal,,,21
+HB 11,782,House,2003-08-13,Passed,,85,20
+HB 11,782,House,2003-08-13,Laid before the House,,85,19
+HB 11,782,House,2003-08-08,Postponed,,70,18
+HB 11,782,House,2003-08-08,Read 3rd time,,70,17
+HB 11,782,House,2003-08-05,Nonrecord vote recorded in Journal,,85,16
+HB 11,782,House,2003-08-05,Passed to engrossment,,,15
+HB 11,782,House,2003-08-05,Read 2nd time,,,14
+HB 11,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 11,782,House,2003-07-30,Considered in Calendars,,,12
+HB 11,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 11,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 11,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 11,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 11,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 11,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 11,782,House,2003-07-29,Read first time,,,5
+HB 11,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 11,782,House,2003-07-29,Record vote,RV#5,,3
+HB 11,782,House,2003-07-29,Rules suspended,,,2
+HB 11,782,House,2003-07-29,Filed,,,1
+HB 12,782,House,2003-08-22,Record vote,RV#31,119,22
+HB 12,782,House,2003-08-22,Motion to pass,,119,21
+HB 12,782,House,2003-08-22,Amended,1-Swinford,119,20
+HB 12,782,House,2003-08-22,Laid out as postponed business,,119,19
+HB 12,782,House,2003-08-18,Postponed,8/22/03 11:00AM,96,18
+HB 12,782,House,2003-08-18,Read 3rd time,,96,17
+HB 12,782,House,2003-08-13,Nonrecord vote recorded in Journal,,86,16
+HB 12,782,House,2003-08-13,Passed to engrossment as amended,,86,15
+HB 12,782,House,2003-08-13,Amended,1-Solomons,86,14
+HB 12,782,House,2003-08-13,Point of order overruled,,85,13
+HB 12,782,House,2003-08-13,Read 2nd time,,85,12
+HB 12,782,House,2003-08-08,Placed on Major State Calendar,,,11
+HB 12,782,House,2003-08-05,Considered in Calendars,,,10
+HB 12,782,House,2003-08-05,Committee report sent to Calendars,,,9
+HB 12,782,House,2003-08-05,Committee report printed and distributed,,,8
+HB 12,782,House,2003-08-05,Comte report filed with Committee Coordinator,,72,7
+HB 12,782,House,2003-08-05,Reported favorably w/o amendment(s),,,6
+HB 12,782,House,2003-08-05,Considered in public hearing,,,5
+HB 12,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 12,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 12,782,House,2003-07-29,Read first time,,,2
+HB 12,782,House,2003-07-29,Filed,,,1
+HB 13,782,House,2003-08-11,Reported engrossed,,88,18
+HB 13,782,House,2003-08-08,Passed,,70,17
+HB 13,782,House,2003-08-08,Read 3rd time,,70,16
+HB 13,782,House,2003-08-05,Passed to engrossment,,,15
+HB 13,782,House,2003-08-05,Read 2nd time,,,14
+HB 13,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 13,782,House,2003-07-30,Considered in Calendars,,,12
+HB 13,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 13,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 13,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 13,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 13,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 13,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 13,782,House,2003-07-29,Read first time,,,5
+HB 13,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 13,782,House,2003-07-29,Record vote,RV#5,,3
+HB 13,782,House,2003-07-29,Rules suspended,,,2
+HB 13,782,House,2003-07-29,Filed,,,1
+HB 14,782,House,2003-08-11,Reported engrossed,,88,20
+HB 14,782,House,2003-08-08,Passed,,70,19
+HB 14,782,House,2003-08-08,Read 3rd time,,70,18
+HB 14,782,House,2003-08-05,Passed to engrossment as amended,,,17
+HB 14,782,House,2003-08-05,Amended,2-Callegari,,16
+HB 14,782,House,2003-08-05,Amended,1-Wohlgemuth,,15
+HB 14,782,House,2003-08-05,Read 2nd time,,,14
+HB 14,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 14,782,House,2003-07-30,Considered in Calendars,,,12
+HB 14,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 14,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 14,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 14,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 14,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 14,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 14,782,House,2003-07-29,Read first time,,,5
+HB 14,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 14,782,House,2003-07-29,Record vote,RV#5,,3
+HB 14,782,House,2003-07-29,Rules suspended,,,2
+HB 14,782,House,2003-07-29,Filed,,,1
+HB 15,782,House,2003-08-11,Reported engrossed,,88,18
+HB 15,782,House,2003-08-08,Passed,,70,17
+HB 15,782,House,2003-08-08,Read 3rd time,,70,16
+HB 15,782,House,2003-08-05,Passed to engrossment,,,15
+HB 15,782,House,2003-08-05,Read 2nd time,,,14
+HB 15,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 15,782,House,2003-07-30,Considered in Calendars,,,12
+HB 15,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 15,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 15,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 15,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 15,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 15,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 15,782,House,2003-07-29,Read first time,,,5
+HB 15,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 15,782,House,2003-07-29,Record vote,RV#5,,3
+HB 15,782,House,2003-07-29,Rules suspended,,,2
+HB 15,782,House,2003-07-29,Filed,,,1
+HB 16,782,House,2003-08-13,Reported engrossed,,98,26
+HB 16,782,House,2003-08-13,Nonrecord vote recorded in Journal,,,25
+HB 16,782,House,2003-08-13,Passed,,82,24
+HB 16,782,House,2003-08-13,Resumed consideration,,82,23
+HB 16,782,House,2003-08-13,Statement(s) of vote recorded in Journal,,,22
+HB 16,782,House,2003-08-08,Statement(s) of vote recorded in Journal,,87,21
+HB 16,782,House,2003-08-08,Record vote,RV#27,,20
+HB 16,782,House,2003-08-08,Motion to pass,,70,19
+HB 16,782,House,2003-08-08,Read 3rd time,,70,18
+HB 16,782,House,2003-08-05,Nonrecord vote recorded in Journal,,82,17
+HB 16,782,House,2003-08-05,Passed to engrossment as amended,,,16
+HB 16,782,House,2003-08-05,Amended,1-Swinford,,15
+HB 16,782,House,2003-08-05,Read 2nd time,,,14
+HB 16,782,House,2003-08-05,Placed on Major State Calendar,,,13
+HB 16,782,House,2003-07-30,Considered in Calendars,,,12
+HB 16,782,House,2003-07-29,Committee report sent to Calendars,,,11
+HB 16,782,House,2003-07-29,Committee report printed and distributed,,,10
+HB 16,782,House,2003-07-29,Comte report filed with Committee Coordinator,,57,9
+HB 16,782,House,2003-07-29,Reported favorably w/o amendment(s),,,8
+HB 16,782,House,2003-07-29,Considered in formal meeting,,,7
+HB 16,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 16,782,House,2003-07-29,Read first time,,,5
+HB 16,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,71,4
+HB 16,782,House,2003-07-29,Record vote,RV#5,70,3
+HB 16,782,House,2003-07-29,Rules suspended,,,2
+HB 16,782,House,2003-07-29,Filed,,,1
+HB 17,782,House,2003-08-18,Committee report sent to Calendars,,,17
+HB 17,782,House,2003-08-15,Committee report printed and distributed,,,16
+HB 17,782,House,2003-08-15,Comte report filed with Committee Coordinator,,97,15
+HB 17,782,House,2003-08-13,Reported favorably as substituted,,,14
+HB 17,782,House,2003-08-13,Committee substitute considered in committee,,,13
+HB 17,782,House,2003-08-13,Considered in public hearing,,,12
+HB 17,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,11
+HB 17,782,House,2003-08-08,Left pending in committee,,,10
+HB 17,782,House,2003-08-08,Testimony taken in committee,,,9
+HB 17,782,House,2003-08-08,Committee substitute considered in committee,,,8
+HB 17,782,House,2003-08-08,Considered in public hearing,,,7
+HB 17,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 17,782,House,2003-08-05,No action taken in committee,,,5
+HB 17,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 17,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 17,782,House,2003-07-29,Read first time,,,2
+HB 17,782,House,2003-07-29,Filed,,,1
+HB 18,782,House,2003-08-14,Committee report sent to Calendars,,,15
+HB 18,782,House,2003-08-14,Committee report printed and distributed,,,14
+HB 18,782,House,2003-08-13,Comte report filed with Committee Coordinator,,97,13
+HB 18,782,House,2003-08-13,Reported favorably w/o amendment(s),,,12
+HB 18,782,House,2003-08-13,Testimony taken in committee,,,11
+HB 18,782,House,2003-08-13,Considered in public hearing,,,10
+HB 18,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,9
+HB 18,782,House,2003-08-08,Left pending in committee,,,8
+HB 18,782,House,2003-08-08,Considered in public hearing,,,7
+HB 18,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 18,782,House,2003-08-05,No action taken in committee,,,5
+HB 18,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 18,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 18,782,House,2003-07-29,Read first time,,,2
+HB 18,782,House,2003-07-29,Filed,,,1
+HB 19,782,House,2003-08-18,Committee report sent to Calendars,,,15
+HB 19,782,House,2003-08-15,Committee report printed and distributed,,,14
+HB 19,782,House,2003-08-15,Comte report filed with Committee Coordinator,,97,13
+HB 19,782,House,2003-08-13,Reported favorably as substituted,,,12
+HB 19,782,House,2003-08-13,Committee substitute considered in committee,,,11
+HB 19,782,House,2003-08-13,Considered in public hearing,,,10
+HB 19,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,9
+HB 19,782,House,2003-08-08,Left pending in committee,,,8
+HB 19,782,House,2003-08-08,Considered in public hearing,,,7
+HB 19,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 19,782,House,2003-08-05,No action taken in committee,,,5
+HB 19,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 19,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 19,782,House,2003-07-29,Read first time,,,2
+HB 19,782,House,2003-07-29,Filed,,,1
+HB 20,782,House,2003-08-13,Left pending in committee,,,15
+HB 20,782,House,2003-08-13,Testimony taken in committee,,,14
+HB 20,782,House,2003-08-13,Committee substitute considered in committee,,,13
+HB 20,782,House,2003-08-13,Considered in public hearing,,,12
+HB 20,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,11
+HB 20,782,House,2003-08-08,Left pending in committee,,,10
+HB 20,782,House,2003-08-08,Testimony taken in committee,,,9
+HB 20,782,House,2003-08-08,Committee substitute considered in committee,,,8
+HB 20,782,House,2003-08-08,Considered in public hearing,,,7
+HB 20,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 20,782,House,2003-08-05,No action taken in committee,,,5
+HB 20,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 20,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 20,782,House,2003-07-29,Read first time,,,2
+HB 20,782,House,2003-07-29,Filed,,,1
+HB 21,782,House,2003-08-14,Committee report sent to Calendars,,,14
+HB 21,782,House,2003-08-14,Committee report printed and distributed,,,13
+HB 21,782,House,2003-08-13,Comte report filed with Committee Coordinator,,97,12
+HB 21,782,House,2003-08-13,Reported favorably w/o amendment(s),,,11
+HB 21,782,House,2003-08-13,Considered in public hearing,,,10
+HB 21,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,9
+HB 21,782,House,2003-08-08,Left pending in committee,,,8
+HB 21,782,House,2003-08-08,Considered in public hearing,,,7
+HB 21,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 21,782,House,2003-08-05,No action taken in committee,,,5
+HB 21,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 21,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 21,782,House,2003-07-29,Read first time,,,2
+HB 21,782,House,2003-07-29,Filed,,,1
+HB 22,782,House,2003-08-14,Committee report sent to Calendars,,,14
+HB 22,782,House,2003-08-14,Committee report printed and distributed,,,13
+HB 22,782,House,2003-08-13,Comte report filed with Committee Coordinator,,97,12
+HB 22,782,House,2003-08-13,Reported favorably w/o amendment(s),,,11
+HB 22,782,House,2003-08-13,Considered in public hearing,,,10
+HB 22,782,House,2003-08-13,Scheduled for public hearing on . . . .,,,9
+HB 22,782,House,2003-08-08,Left pending in committee,,,8
+HB 22,782,House,2003-08-08,Considered in public hearing,,,7
+HB 22,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 22,782,House,2003-08-05,No action taken in committee,,,5
+HB 22,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 22,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 22,782,House,2003-07-29,Read first time,,,2
+HB 22,782,House,2003-07-29,Filed,,,1
+HB 23,782,House,2003-08-19,Reported engrossed,,121,23
+HB 23,782,House,2003-08-18,Nonrecord vote recorded in Journal,,97,22
+HB 23,782,House,2003-08-18,Passed as amended,,97,21
+HB 23,782,House,2003-08-18,Amended,1-Hodge,96,20
+HB 23,782,House,2003-08-18,Read 3rd time,,96,19
+HB 23,782,House,2003-08-13,Nonrecord vote recorded in Journal,,86,18
+HB 23,782,House,2003-08-13,Passed to engrossment,,86,17
+HB 23,782,House,2003-08-13,Read 2nd time,,86,16
+HB 23,782,House,2003-08-08,Placed on Major State Calendar,,,15
+HB 23,782,House,2003-08-05,Considered in Calendars,,,14
+HB 23,782,House,2003-08-05,Committee report sent to Calendars,,,13
+HB 23,782,House,2003-08-05,Committee report printed and distributed,,,12
+HB 23,782,House,2003-08-05,Comte report filed with Committee Coordinator,,72,11
+HB 23,782,House,2003-08-05,Reported favorably as substituted,,,10
+HB 23,782,House,2003-08-05,Committee substitute considered in committee,,,9
+HB 23,782,House,2003-08-05,Considered in public hearing,,,8
+HB 23,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,7
+HB 23,782,House,2003-07-29,Referred to Government Reform,,,6
+HB 23,782,House,2003-07-29,Read first time,,,5
+HB 23,782,House,2003-07-29,Statement(s) of vote recorded in Journal,,,4
+HB 23,782,House,2003-07-29,Record vote,RV#5,,3
+HB 23,782,House,2003-07-29,Rules suspended,,,2
+HB 23,782,House,2003-07-29,Filed,,,1
+HB 24,782,House,2003-08-08,No action taken in committee,,,7
+HB 24,782,House,2003-08-08,Scheduled for public hearing on . . . .,,,6
+HB 24,782,House,2003-08-05,No action taken in committee,,,5
+HB 24,782,House,2003-08-05,Scheduled for public hearing on . . . .,,,4
+HB 24,782,House,2003-07-29,Referred to Government Reform,,,3
+HB 24,782,House,2003-07-29,Read first time,,,2
+HB 24,782,House,2003-07-29,Filed,,,1
+HB 47,782,House,2003-08-08,Referred to Economic Development,,72,3
+HB 47,782,House,2003-08-08,Read first time,,72,2
+HB 47,782,House,2003-08-08,Filed,,,1
+HR 13,782,House,2003-08-07,Reported enrolled,,,4
+HR 13,782,House,2003-08-05,Adopted,,,3
+HR 13,782,House,2003-08-05,Rules suspended,,,2
+HR 13,782,House,2003-07-29,Filed,,,1
+HR 14,782,House,2003-08-06,Reported enrolled,,,4
+HR 14,782,House,2003-08-05,Adopted,,,3
+HR 14,782,House,2003-08-05,Rules suspended,,,2
+HR 14,782,House,2003-07-29,Filed,,,1
+HR 176,782,House,2003-08-25,Reported enrolled,,,4
+HR 176,782,House,2003-08-22,Adopted,,110,3
+HR 176,782,House,2003-08-22,Rules suspended,,110,2
+HR 176,782,House,2003-08-22,Filed,,,1
+HR 59,782,House,2003-08-11,Reported enrolled,,,4
+HR 59,782,House,2003-08-08,Adopted,,67,3
+HR 59,782,House,2003-08-08,Rules suspended,,67,2
+HR 59,782,House,2003-08-07,Filed,,,1
+HR 60,782,House,2003-08-11,Reported enrolled,,,4
+HR 60,782,House,2003-08-08,Adopted,,67,3
+HR 60,782,House,2003-08-08,Rules suspended,,67,2
+HR 60,782,House,2003-08-07,Filed,,,1
+HR 61,782,House,2003-08-11,Reported enrolled,,,4
+HR 61,782,House,2003-08-08,Adopted,,68,3
+HR 61,782,House,2003-08-08,Rules suspended,,68,2
+HR 61,782,House,2003-08-07,Filed,,,1
+HR 62,782,House,2003-08-11,Reported enrolled,,,4
+HR 62,782,House,2003-08-08,Adopted,,68,3
+HR 62,782,House,2003-08-08,Rules suspended,,68,2
+HR 62,782,House,2003-08-07,Filed,,,1
+HB 35,782,House,2003-08-05,Referred to Criminal Jurisprudence,,56,3
+HB 35,782,House,2003-08-05,Read first time,,56,2
+HB 35,782,House,2003-07-31,Filed,,,1
+HR 66,782,House,2003-08-11,Reported enrolled,,,4
+HR 66,782,House,2003-08-08,Adopted,,65,3
+HR 66,782,House,2003-08-08,Rules suspended,,65,2
+HR 66,782,House,2003-08-08,Filed,,,1
+HR 67,782,House,2003-08-11,Reported enrolled,,,4
+HR 67,782,House,2003-08-08,Adopted,,66,3
+HR 67,782,House,2003-08-08,Rules suspended,,66,2
+HR 67,782,House,2003-08-08,Filed,,,1
+HR 132,782,House,2003-08-25,Reported enrolled,,,4
+HR 132,782,House,2003-08-22,Adopted,,107,3
+HR 132,782,House,2003-08-22,Rules suspended,,107,2
+HR 132,782,House,2003-08-20,Filed,,,1
+HR 99,782,House,2003-08-14,Reported enrolled,,,4
+HR 99,782,House,2003-08-13,Adopted,,74,3
+HR 99,782,House,2003-08-13,Rules suspended,,74,2
+HR 99,782,House,2003-08-13,Filed,,,1
+HR 172,782,House,2003-08-25,Reported enrolled,,,4
+HR 172,782,House,2003-08-22,Adopted,,106,3
+HR 172,782,House,2003-08-22,Rules suspended,,106,2
+HR 172,782,House,2003-08-22,Filed,,,1
+HR 173,782,House,2003-08-25,Reported enrolled,,,4
+HR 173,782,House,2003-08-22,Adopted,,107,3
+HR 173,782,House,2003-08-22,Rules suspended,,107,2
+HR 173,782,House,2003-08-22,Filed,,,1
+HR 162,782,House,2003-08-25,Reported enrolled,,,4
+HR 162,782,House,2003-08-22,Adopted,,107,3
+HR 162,782,House,2003-08-22,Rules suspended,,107,2
+HR 162,782,House,2003-08-22,Filed,,,1
+HR 88,782,House,2003-08-14,Reported enrolled,,,4
+HR 88,782,House,2003-08-13,Adopted,,77,3
+HR 88,782,House,2003-08-13,Rules suspended,,77,2
+HR 88,782,House,2003-08-12,Filed,,,1
+HR 34,782,House,2003-08-07,Reported enrolled,,,4
+HR 34,782,House,2003-08-05,Adopted,,,3
+HR 34,782,House,2003-08-05,Rules suspended,,,2
+HR 34,782,House,2003-08-05,Filed,,,1
+HB 38,782,House,2003-08-05,Referred to Law Enforcement,,56,3
+HB 38,782,House,2003-08-05,Read first time,,56,2
+HB 38,782,House,2003-07-31,Filed,,,1
+HB 39,782,House,2003-08-05,Referred to Criminal Jurisprudence,,56,3
+HB 39,782,House,2003-08-05,Read first time,,56,2
+HB 39,782,House,2003-07-31,Filed,,,1
+HB 40,782,House,2003-08-05,Referred to Appropriations,,57,3
+HB 40,782,House,2003-08-05,Read first time,,57,2
+HB 40,782,House,2003-07-31,Filed,,,1
+HB 42,782,House,2003-08-05,Referred to Defense Affairs & State-Fed Rel,,57,3
+HB 42,782,House,2003-08-05,Read first time,,57,2
+HB 42,782,House,2003-08-04,Filed,,,1
+HR 15,782,House,2003-08-07,Reported enrolled,,,4
+HR 15,782,House,2003-08-05,Adopted,,,3
+HR 15,782,House,2003-08-05,Rules suspended,,,2
+HR 15,782,House,2003-07-30,Filed,,,1
+HR 16,782,House,2003-08-11,Reported enrolled,,,4
+HR 16,782,House,2003-08-08,Adopted,,61,3
+HR 16,782,House,2003-08-08,Rules suspended,,61,2
+HR 16,782,House,2003-07-30,Filed,,,1
+HR 17,782,House,2003-08-06,Reported enrolled,,,4
+HR 17,782,House,2003-08-05,Adopted,,,3
+HR 17,782,House,2003-08-05,Rules suspended,,,2
+HR 17,782,House,2003-07-30,Filed,,,1
+HR 28,782,House,2003-08-07,Reported enrolled,,,4
+HR 28,782,House,2003-08-05,Adopted,,,3
+HR 28,782,House,2003-08-05,Rules suspended,,,2
+HR 28,782,House,2003-08-04,Filed,,,1
+HR 29,782,House,2003-08-11,Reported enrolled,,,4
+HR 29,782,House,2003-08-08,Adopted,,62,3
+HR 29,782,House,2003-08-08,Rules suspended,,62,2
+HR 29,782,House,2003-08-04,Filed,,,1
+HR 30,782,House,2003-08-07,Reported enrolled,,,4
+HR 30,782,House,2003-08-05,Adopted,,,3
+HR 30,782,House,2003-08-05,Rules suspended,,,2
+HR 30,782,House,2003-08-04,Filed,,,1
+HR 32,782,House,2003-08-07,Reported enrolled,,,4
+HR 32,782,House,2003-08-05,Adopted,,,3
+HR 32,782,House,2003-08-05,Rules suspended,,,2
+HR 32,782,House,2003-08-05,Filed,,,1
+HR 120,782,House,2003-08-19,Reported enrolled,,,4
+HR 120,782,House,2003-08-18,Adopted,,94,3
+HR 120,782,House,2003-08-18,Rules suspended,,94,2
+HR 120,782,House,2003-08-15,Filed,,,1
+HR 148,782,House,2003-08-25,Reported enrolled,,,4
+HR 148,782,House,2003-08-22,Adopted,,108,3
+HR 148,782,House,2003-08-22,Rules suspended,,108,2
+HR 148,782,House,2003-08-21,Filed,,,1
+HR 208,782,House,2003-08-25,Filed,,,1

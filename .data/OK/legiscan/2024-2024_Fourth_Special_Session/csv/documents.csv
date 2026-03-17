@@ -1,0 +1,3 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1884535,3014644,text,71573,application/pdf,Introduced,https://legiscan.com/OK/text/SR1/id/3014644,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20INT/SRES/SR1XXXX%20INT.PDF
+1884535,3014645,text,59553,application/pdf,Enrolled,https://legiscan.com/OK/text/SR1/id/3014645,http://webserver1.lsb.state.ok.us/cf_pdf/2023-24%20ENR/SRES/SR1XXXX%20ENR.PDF

@@ -1,0 +1,113 @@
+bill_id,session,chamber,location,action_date,action,vote,vote_url,order
+H.B. 1001,2023-S1,,Legislative Research and General Counsel,2023-05-12,Bill Numbered but not Distributed,,,1
+H.B. 1001,2023-S1,,Legislative Research and General Counsel,2023-05-12,Numbered Bill Publicly Distributed,,,2
+H.B. 1001,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-12,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 1001,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-15,LFA/ fiscal note sent to sponsor,,,4
+H.B. 1001,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-16,LFA/ fiscal note publicly available,,,5
+H.B. 1001,2023-S1,House,Clerk of the House,2023-05-17,House/ received bill from Legislative Printing,,,6
+H.B. 1001,2023-S1,House,House Rules Committee,2023-05-17,House/ 1st reading (Introduced),,,7
+H.B. 1001,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ Rules to 3rd Reading Calendar,,,8
+H.B. 1001,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd suspended,,,9
+H.B. 1001,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd reading,,,10
+H.B. 1001,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 3rd reading,,,11
+H.B. 1001,2023-S1,House,Senate Secretary,2023-05-17,House/ passed 3rd reading,70 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=6&house=H,12
+H.B. 1001,2023-S1,House,Senate Secretary,2023-05-17,House/ to Senate,,,13
+H.B. 1001,2023-S1,Senate,Waiting for Introduction in the Senate,2023-05-17,Senate/ received from House,,,14
+H.B. 1001,2023-S1,Senate,Senate Rules Committee,2023-05-17,Senate/ 1st reading (Introduced),,,15
+H.B. 1001,2023-S1,Senate,Senate 2nd Reading Calendar,2023-05-17,Senate/ 2nd & 3rd readings/ suspension,,,16
+H.B. 1001,2023-S1,Senate,Senate President,2023-05-17,Senate/ passed 2nd & 3rd readings/ suspension,24 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=8&house=S,17
+H.B. 1001,2023-S1,Senate,House Speaker,2023-05-17,Senate/ signed by President/ returned to House,,,18
+H.B. 1001,2023-S1,Senate,House Speaker,2023-05-17,Senate/ to House,,,19
+H.B. 1001,2023-S1,House,House Speaker,2023-05-17,House/ received from Senate,,,20
+H.B. 1001,2023-S1,House,Legislative Research and General Counsel / Enrolling,2023-05-17,House/ signed by Speaker/ sent for enrolling,,,21
+H.B. 1001,2023-S1,,Legislative Research and General Counsel,2023-05-18,Bill Received from House for Enrolling,,,22
+H.B. 1001,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Bill Received from House for Enrolling,,,23
+H.B. 1001,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Draft of Enrolled Bill Prepared,,,24
+H.B. 1001,2023-S1,,Clerk of the House,2023-05-18,Enrolled Bill Returned to House or Senate,,,25
+H.B. 1001,2023-S1,House,Clerk of the House,2023-05-18,House/ enrolled bill to Printing,,,26
+H.B. 1001,2023-S1,House,Clerk of the House,2023-05-18,House/ received enrolled bill from Printing,,,27
+H.B. 1001,2023-S1,House,Executive Branch - Governor,2023-05-18,House/ to Governor,,,28
+H.B. 1001,2023-S1,,Lieutenant Governor's office for filing,2023-05-18,Governor Signed,,,29
+H.B. 1002,2023-S1,,Legislative Research and General Counsel,2023-05-11,Bill Numbered but not Distributed,,,1
+H.B. 1002,2023-S1,,Legislative Research and General Counsel,2023-05-11,Numbered Bill Publicly Distributed,,,2
+H.B. 1002,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-11,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 1002,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-16,LFA/ fiscal note publicly available,,,4
+H.B. 1002,2023-S1,House,Clerk of the House,2023-05-17,House/ received bill from Legislative Printing,,,5
+H.B. 1002,2023-S1,House,House Rules Committee,2023-05-17,House/ 1st reading (Introduced),,,6
+H.B. 1002,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ Rules to 3rd Reading Calendar,,,7
+H.B. 1002,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd suspended,,,8
+H.B. 1002,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd reading,,,9
+H.B. 1002,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 3rd reading,,,10
+H.B. 1002,2023-S1,House,Senate Secretary,2023-05-17,House/ passed 3rd reading,70 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=7&house=H,11
+H.B. 1002,2023-S1,House,Senate Secretary,2023-05-17,House/ to Senate,,,12
+H.B. 1002,2023-S1,Senate,Waiting for Introduction in the Senate,2023-05-17,Senate/ received from House,,,13
+H.B. 1002,2023-S1,Senate,Senate Rules Committee,2023-05-17,Senate/ 1st reading (Introduced),,,14
+H.B. 1002,2023-S1,Senate,Senate 2nd Reading Calendar,2023-05-17,Senate/ 2nd & 3rd readings/ suspension,,,15
+H.B. 1002,2023-S1,Senate,Senate President,2023-05-17,Senate/ passed 2nd & 3rd readings/ suspension,24 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=9&house=S,16
+H.B. 1002,2023-S1,Senate,House Speaker,2023-05-17,Senate/ signed by President/ returned to House,,,17
+H.B. 1002,2023-S1,Senate,House Speaker,2023-05-17,Senate/ to House,,,18
+H.B. 1002,2023-S1,House,House Speaker,2023-05-17,House/ received from Senate,,,19
+H.B. 1002,2023-S1,House,Legislative Research and General Counsel / Enrolling,2023-05-17,House/ signed by Speaker/ sent for enrolling,,,20
+H.B. 1002,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Bill Received from House for Enrolling,,,21
+H.B. 1002,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Draft of Enrolled Bill Prepared,,,22
+H.B. 1002,2023-S1,,Clerk of the House,2023-05-18,Enrolled Bill Returned to House or Senate,,,23
+H.B. 1002,2023-S1,House,Clerk of the House,2023-05-18,House/ enrolled bill to Printing,,,24
+H.B. 1002,2023-S1,House,Clerk of the House,2023-05-18,House/ received enrolled bill from Printing,,,25
+H.B. 1002,2023-S1,House,Executive Branch - Governor,2023-05-18,House/ to Governor,,,26
+H.B. 1002,2023-S1,,Lieutenant Governor's office for filing,2023-05-18,Governor Signed,,,27
+H.B. 1003,2023-S1,,Legislative Research and General Counsel,2023-05-16,Bill Numbered but not Distributed,,,1
+H.B. 1003,2023-S1,,Legislative Research and General Counsel,2023-05-16,Numbered Bill Publicly Distributed,,,2
+H.B. 1003,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-16,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 1003,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-16,LFA/ fiscal note sent to sponsor,,,4
+H.B. 1003,2023-S1,Fiscal,Legislative Research and General Counsel,2023-05-17,LFA/ fiscal note publicly available,,,5
+H.B. 1003,2023-S1,House,Clerk of the House,2023-05-17,House/ received bill from Legislative Research,,,6
+H.B. 1003,2023-S1,House,Clerk of the House,2023-05-17,House/ received fiscal note from Fiscal Analyst,,,7
+H.B. 1003,2023-S1,House,House Rules Committee,2023-05-17,House/ 1st reading (Introduced),,,8
+H.B. 1003,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ Rules to 3rd Reading Calendar,,,9
+H.B. 1003,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd suspended,,,10
+H.B. 1003,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd reading,,,11
+H.B. 1003,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 3rd reading,,,12
+H.B. 1003,2023-S1,House,Senate Secretary,2023-05-17,House/ passed 3rd reading,70 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=8&house=H,13
+H.B. 1003,2023-S1,House,Senate Secretary,2023-05-17,House/ to Senate,,,14
+H.B. 1003,2023-S1,Senate,Waiting for Introduction in the Senate,2023-05-17,Senate/ received from House,,,15
+H.B. 1003,2023-S1,Senate,Senate Rules Committee,2023-05-17,Senate/ 1st reading (Introduced),,,16
+H.B. 1003,2023-S1,Senate,Senate 2nd Reading Calendar,2023-05-17,Senate/ 2nd & 3rd readings/ suspension,,,17
+H.B. 1003,2023-S1,Senate,Senate President,2023-05-17,Senate/ passed 2nd & 3rd readings/ suspension,24 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=10&house=S,18
+H.B. 1003,2023-S1,Senate,House Speaker,2023-05-17,Senate/ signed by President/ returned to House,,,19
+H.B. 1003,2023-S1,Senate,House Speaker,2023-05-17,Senate/ to House,,,20
+H.B. 1003,2023-S1,House,House Speaker,2023-05-17,House/ received from Senate,,,21
+H.B. 1003,2023-S1,House,Legislative Research and General Counsel / Enrolling,2023-05-17,House/ signed by Speaker/ sent for enrolling,,,22
+H.B. 1003,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Bill Received from House for Enrolling,,,23
+H.B. 1003,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Draft of Enrolled Bill Prepared,,,24
+H.B. 1003,2023-S1,,Clerk of the House,2023-05-18,Enrolled Bill Returned to House or Senate,,,25
+H.B. 1003,2023-S1,House,Clerk of the House,2023-05-18,House/ enrolled bill to Printing,,,26
+H.B. 1003,2023-S1,House,Clerk of the House,2023-05-18,House/ received enrolled bill from Printing,,,27
+H.B. 1003,2023-S1,House,Executive Branch - Governor,2023-05-18,House/ to Governor,,,28
+H.B. 1003,2023-S1,,Lieutenant Governor's office for filing,2023-05-18,Governor Signed,,,29
+H.J.R. 101,2023-S1,,Legislative Research and General Counsel,2023-05-12,Bill Numbered but not Distributed,,,1
+H.J.R. 101,2023-S1,,Legislative Research and General Counsel,2023-05-12,Numbered Bill Publicly Distributed,,,2
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-16,House/ to Printing with fiscal note,,,3
+H.J.R. 101,2023-S1,House,Clerk of the House,2023-05-17,House/ received bill from Legislative Printing,,,4
+H.J.R. 101,2023-S1,House,House Rules Committee,2023-05-17,House/ 1st reading (Introduced),,,5
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ Rules to 3rd Reading Calendar,,,6
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd suspended,,,7
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 2nd reading,,,8
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ 3rd reading,,,9
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ substituted from # 0 to # 1,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=3&house=H,10
+H.J.R. 101,2023-S1,House,House 3rd Reading Calendar for House bills,2023-05-17,House/ floor amendment failed,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=4&house=H,11
+H.J.R. 101,2023-S1,House,Senate Secretary,2023-05-17,House/ passed 3rd reading,70 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=5&house=H,12
+H.J.R. 101,2023-S1,House,Senate Secretary,2023-05-17,House/ to Senate,,,13
+H.J.R. 101,2023-S1,Senate,Waiting for Introduction in the Senate,2023-05-17,Senate/ received from House,,,14
+H.J.R. 101,2023-S1,Senate,Senate Rules Committee,2023-05-17,Senate/ 1st reading (Introduced),,,15
+H.J.R. 101,2023-S1,Senate,Senate 2nd Reading Calendar,2023-05-17,Senate/ 2nd & 3rd readings/ suspension,,,16
+H.J.R. 101,2023-S1,Senate,Senate President,2023-05-17,Senate/ passed 2nd & 3rd readings/ suspension,24 0 5,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S1&voteid=7&house=S,17
+H.J.R. 101,2023-S1,Senate,House Speaker,2023-05-17,Senate/ signed by President/ returned to House,,,18
+H.J.R. 101,2023-S1,Senate,House Speaker,2023-05-17,Senate/ to House,,,19
+H.J.R. 101,2023-S1,House,House Speaker,2023-05-17,House/ received from Senate,,,20
+H.J.R. 101,2023-S1,House,Legislative Research and General Counsel / Enrolling,2023-05-17,House/ signed by Speaker/ sent for enrolling,,,21
+H.J.R. 101,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Bill Received from House for Enrolling,,,22
+H.J.R. 101,2023-S1,,Legislative Research and General Counsel / Enrolling,2023-05-18,Draft of Enrolled Bill Prepared,,,23
+H.J.R. 101,2023-S1,,Clerk of the House,2023-05-18,Enrolled Bill Returned to House or Senate,,,24
+H.J.R. 101,2023-S1,House,Clerk of the House,2023-05-18,House/ enrolled bill to Printing,,,25
+H.J.R. 101,2023-S1,House,Clerk of the House,2023-05-18,House/ received enrolled bill from Printing,,,26
+H.J.R. 101,2023-S1,House,Lieutenant Governor's office for filing,2023-05-18,House/ to Lieutenant Governor,,,27

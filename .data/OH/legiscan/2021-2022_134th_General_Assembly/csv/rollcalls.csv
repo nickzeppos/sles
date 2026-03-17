@@ -1,0 +1,1237 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1393004,1009754,2021-01-04,House,"House Adopted",88,0,0,0,88
+1393027,1013610,2021-01-04,House,"House Adopted",86,0,0,0,86
+1393049,1013603,2021-01-04,House,"House Adopted",89,0,0,0,89
+1393073,1013600,2021-01-04,House,"House Adopted",91,0,0,0,91
+1393096,1013616,2021-01-04,House,"House Adopted",91,0,0,0,91
+1393118,1013620,2021-01-04,House,"House Adopted",90,0,0,0,90
+1393141,1013664,2021-01-04,House,"House Adopted",91,0,0,0,91
+1393165,1016773,2021-01-04,House,"House Adopted",90,0,0,0,90
+1393187,1016967,2021-01-04,House,"House Adopted",92,0,0,0,92
+1393210,1009812,2021-01-04,House,"House Adopted",92,0,0,0,92
+1393231,1016968,2021-01-04,House,"House Adopted",91,0,0,0,91
+1396713,1010508,2021-01-04,Senate,"Senate Adopted",30,0,0,0,30
+1396714,1010509,2021-01-04,Senate,"Senate Adopted",31,0,0,0,31
+1407169,1076632,2021-05-12,Senate,"Senate Favorable Passage",7,0,0,0,7
+1407169,1076633,2021-05-12,Senate,"Senate Passed",32,0,0,0,32
+1407169,1109061,2021-09-22,House,"House Favorable Passage",14,0,0,0,14
+1407169,1109391,2021-09-29,House,"House Passed",91,1,0,0,92
+1407312,1002767,2021-02-10,Senate,"Senate Favorable Passage",5,0,0,0,5
+1407312,1009761,2021-02-10,Senate,"Senate Passed",32,0,0,0,32
+1407312,1035102,2021-03-23,House,"House Favorable Passage",11,0,0,0,11
+1407312,1038313,2021-03-25,House,"House Passed",95,0,0,0,95
+1410324,994953,2021-02-03,Senate,"Senate Favorable Passage",7,0,0,0,7
+1410324,1010349,2021-02-03,Senate,"Senate Passed",32,0,0,0,32
+1410324,1026024,2021-03-10,House,"House Favorable Passage",15,1,0,0,16
+1410324,1030364,2021-03-17,House,"House Passed",95,2,0,0,97
+1410545,1003494,2021-02-10,Senate,"Senate Favorable Passage",5,0,0,0,5
+1410545,1010516,2021-02-17,Senate,"Senate Passed",33,0,0,0,33
+1410545,1059336,2021-04-21,House,"House Favorable Passage",13,0,0,0,13
+1410545,1076700,2021-05-12,House,"House Passed",83,10,0,0,93
+1410771,1030265,2021-03-17,Senate,"Senate Favorable Passage",6,1,0,0,7
+1410771,1058829,2021-04-21,Senate,"Senate Passed",32,1,0,0,33
+1410771,1098082,2021-06-15,House,"House Favorable Passage",14,0,0,0,14
+1410771,1100665,2021-06-23,House,"House Passed",95,0,0,0,95
+1410996,1002774,2021-02-10,Senate,"Senate Favorable Passage",5,2,0,0,7
+1410996,1016592,2021-02-24,Senate,"Senate Passed",23,8,0,0,31
+1410996,1095432,2021-06-09,House,"House Favorable Passage",9,4,0,0,13
+1410996,1100636,2021-06-23,House,"House Passed",60,35,0,0,95
+1411223,995079,2021-02-03,Senate,"Senate Favorable Passage",7,0,0,0,7
+1411223,1009749,2021-02-03,Senate,"Senate Passed",32,0,0,0,32
+1411223,1026013,2021-03-10,House,"House Favorable Passage",15,1,0,0,16
+1411223,1030298,2021-03-17,House,"House Passed",96,1,0,0,97
+1416235,1073102,2021-05-05,Senate,"Senate Favorable Passage",13,0,0,0,13
+1416235,1086132,2021-05-26,Senate,"Senate Passed",32,0,0,0,32
+1416427,1003704,2021-02-10,Senate,"Senate Favorable Passage",7,0,0,0,7
+1416427,1010515,2021-02-10,Senate,"Senate Passed",32,0,0,0,32
+1416427,1139245,2022-02-09,House,"House Favorable Passage",14,0,0,0,14
+1416427,1167151,2022-03-09,House,"House Passed",95,0,0,0,95
+1416427,1167153,2022-03-09,House,"House Passed",61,32,0,0,93
+1416427,1167154,2022-03-09,House,"House Passed",61,32,0,0,93
+1416617,1001810,2021-02-09,Senate,"Senate Favorable Passage",11,0,0,0,11
+1416617,1010518,2021-02-10,Senate,"Senate Passed",32,0,0,0,32
+1416796,1019530,2021-03-02,Senate,"Senate Favorable Passage",4,2,0,0,6
+1416796,1025984,2021-03-10,Senate,"Senate Passed",25,8,0,0,33
+1416796,1139225,2022-02-09,House,"House Favorable Passage",7,5,0,0,12
+1416796,1161414,2022-03-02,House,"House Passed",61,33,0,0,94
+1416986,1001908,2021-02-09,Senate,"Senate Favorable Passage",10,0,0,0,10
+1416986,1009750,2021-02-17,Senate,"Senate Passed",33,0,0,0,33
+1417174,994952,2021-02-03,Senate,"Senate Favorable Passage",7,0,0,0,7
+1417174,1009803,2021-02-03,Senate,"Senate Passed",1,0,0,0,1
+1417174,1014461,2021-02-24,House,"House Favorable Passage",14,0,0,0,14
+1417174,1016816,2021-02-25,House,"House Passed",95,0,0,0,95
+1423056,1024568,2021-03-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1423056,1030350,2021-03-17,Senate,"Senate Passed",33,0,0,0,33
+1423056,1165666,2022-03-08,House,"House Favorable Passage",15,0,0,0,15
+1423056,1184950,2022-04-06,House,"House Passed",96,0,0,0,96
+1423151,1020230,2021-03-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1423151,1026298,2021-03-10,Senate,"Senate Passed",32,1,0,0,33
+1423151,1079959,2021-05-19,House,"House Favorable Passage",15,0,0,0,15
+1423151,1085635,2021-05-26,House,"House Passed",76,18,0,0,94
+1423197,1099023,2021-06-17,Senate,"Senate Favorable Passage",6,1,0,0,7
+1423197,1108886,2021-09-15,Senate,"Senate Passed",29,1,0,0,30
+1423197,1180344,2022-03-30,House,"House Favorable Passage",11,0,0,0,11
+1423197,1184491,2022-04-06,House,"House Passed",86,10,0,0,96
+1423238,1085297,2021-05-26,Senate,"Senate Favorable Passage",4,2,0,0,6
+1423238,1090216,2021-06-02,Senate,"Senate Passed",33,0,0,0,33
+1423238,1230743,2022-12-14,House,"House Favorable Passage",8,4,0,0,12
+1423238,1230744,2022-12-14,House,"House Passed",58,20,0,0,78
+1423288,1012167,2021-02-23,Senate,"Senate Favorable Passage",6,0,0,0,6
+1423288,1016986,2021-02-24,Senate,"Senate Passed",31,0,0,0,31
+1423288,1100680,2021-06-23,House,"House Favorable Passage",11,6,0,0,17
+1423288,1102704,2021-06-28,House,"House Passed",61,36,0,0,97
+1423288,1115852,2021-11-10,Senate,"Senate Failed",1,32,0,0,33
+1423335,1002571,2021-02-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1423335,1010513,2021-02-10,Senate,"Senate Passed",32,0,0,0,32
+1423335,1036220,2021-03-24,House,"House Favorable Passage",17,0,0,0,17
+1423335,1036221,2021-03-24,House,"House Passed",98,0,0,0,98
+1423385,1020626,2021-03-03,Senate,"Senate Favorable Passage",7,0,0,0,7
+1423385,1020627,2021-03-03,Senate,"Senate Passed",32,0,0,0,32
+1423385,1079343,2021-05-18,House,"House Favorable Passage",13,0,0,0,13
+1423385,1096995,2021-06-10,House,"House Passed",91,0,0,0,91
+1423434,1073073,2021-05-05,Senate,"Senate Favorable Passage",13,0,0,0,13
+1423434,1073074,2021-05-05,Senate,"Senate Passed",33,0,0,0,33
+1423434,1079447,2021-05-18,House,"House Favorable Passage",13,0,0,0,13
+1423484,1024575,2021-03-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1423484,1030407,2021-03-17,Senate,"Senate Passed",33,0,0,0,33
+1423533,1008101,2021-02-17,Senate,"Senate Favorable Passage",5,2,0,0,7
+1423533,1009943,2021-02-17,Senate,"Senate Passed",25,8,0,0,33
+1423533,1025837,2021-03-10,House,"House Favorable Passage",9,5,0,0,14
+1423533,1025838,2021-03-10,House,"House Passed",57,38,0,0,95
+1424915,1030646,2021-03-17,Senate,"Senate Favorable Passage",7,0,0,0,7
+1424915,1058835,2021-04-21,Senate,"Senate Passed",33,0,0,0,33
+1425069,1014018,2021-02-24,Senate,"Senate Favorable Passage",7,0,0,0,7
+1425069,1016974,2021-02-24,Senate,"Senate Passed",31,0,0,0,31
+1425069,1079314,2021-05-18,House,"House Favorable Passage",10,0,0,0,10
+1425069,1085788,2021-05-26,House,"House Passed",93,1,0,0,94
+1425377,1003125,2021-02-10,Senate,"Senate Favorable Passage",6,0,0,0,6
+1425377,1010602,2021-02-17,Senate,"Senate Passed",33,0,0,0,33
+1425377,1057577,2021-04-20,House,"House Favorable Passage",13,0,0,0,13
+1425377,1061191,2021-04-22,House,"House Passed",69,23,0,0,92
+1433749,1012144,2021-02-23,Senate,"Senate Favorable Passage",12,0,0,0,12
+1433749,1020587,2021-03-03,Senate,"Senate Passed",32,0,0,0,32
+1433834,1064924,2021-04-28,Senate,"Senate Favorable Passage",7,0,0,0,7
+1433834,1073200,2021-05-05,Senate,"Senate Passed",33,0,0,0,33
+1433834,1100903,2021-06-23,House,"House Favorable Passage",16,1,0,0,17
+1433834,1101796,2021-06-24,House,"House Passed",95,0,0,0,95
+1433875,1015385,2021-02-24,Senate,"Senate Favorable Passage",7,0,0,0,7
+1433875,1021293,2021-03-03,Senate,"Senate Passed",32,0,0,0,32
+1433875,1058870,2021-04-21,House,"House Favorable Passage",15,0,0,0,15
+1433875,1096972,2021-06-10,House,"House Passed",90,0,0,0,90
+1433918,1229966,2022-11-16,Senate,"Senate Favorable Passage",6,0,0,0,6
+1433918,1229991,2022-11-16,Senate,"Senate Passed",32,0,0,0,32
+1433918,1230739,2022-12-14,House,"House Favorable Passage",10,6,0,0,16
+1433918,1230740,2022-12-14,House,"House Passed",56,32,0,0,88
+1434001,1020654,2021-03-03,Senate,"Senate Favorable Passage",7,0,0,0,7
+1434001,1059434,2021-04-21,Senate,"Senate Passed",33,0,0,0,33
+1434001,1098244,2021-06-15,House,"House Favorable Passage",15,0,0,0,15
+1434130,1020731,2021-03-03,Senate,"Senate Favorable Passage",7,0,0,0,7
+1434130,1020732,2021-03-03,Senate,"Senate Passed",32,0,0,0,32
+1434130,1110496,2021-10-25,House,"House Favorable Passage",12,0,0,0,12
+1434130,1110703,2021-10-27,House,"House Passed",95,1,0,0,96
+1434933,1020667,2021-03-03,Senate,"Senate Favorable Passage",6,0,0,0,6
+1434933,1030207,2021-03-17,Senate,"Senate Adopted",33,0,0,0,33
+1434933,1084130,2021-05-25,House,"House Favorable Passage",11,0,0,0,11
+1434933,1097181,2021-06-10,House,"House Adopted",89,0,0,0,89
+1436138,1108893,2021-09-15,Senate,"Senate Favorable Passage",5,0,0,0,5
+1436138,1109023,2021-09-22,Senate,"Senate Passed",25,7,0,0,32
+1436138,1167016,2022-03-09,House,"House Favorable Passage",8,4,0,0,12
+1436138,1175426,2022-03-23,House,"House Passed",56,37,0,0,93
+1436139,1161465,2022-03-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1436139,1161466,2022-03-02,Senate,"Senate Passed",32,1,0,0,33
+1436585,1020232,2021-02-03,House,"House Adopted",58,35,0,0,93
+1436631,1013645,2021-02-03,Senate,"Senate Adopted",1,0,0,0,1
+1437020,1026026,2021-03-10,House,"House Favorable Passage",11,0,0,0,11
+1437020,1030841,2021-03-17,House,"House Passed",96,1,0,0,97
+1437020,1109045,2021-09-22,Senate,"Senate Favorable Passage",12,0,0,0,12
+1437020,1109258,2021-09-28,Senate,"Senate Passed",32,0,0,0,32
+1437038,1014854,2021-02-24,House,"House Favorable Passage",14,0,0,0,14
+1437038,1021311,2021-03-03,House,"House Passed",98,0,0,0,98
+1437038,1073312,2021-05-05,Senate,"Senate Favorable Passage",5,0,0,0,5
+1437038,1073313,2021-05-05,Senate,"Senate Passed",33,0,0,0,33
+1437054,1015393,2021-02-24,House,"House Favorable Passage",16,0,0,0,16
+1437054,1021305,2021-03-03,House,"House Passed",98,0,0,0,98
+1437073,1053836,2021-04-14,House,"House Favorable Passage",11,3,0,0,14
+1437116,1020776,2021-03-03,House,"House Favorable Passage",11,0,0,0,11
+1437133,1021121,2021-03-03,House,"House Favorable Passage",9,0,0,0,9
+1437151,1101524,2021-06-24,House,"House Favorable Passage",8,5,0,0,13
+1437151,1102190,2021-06-25,House,"House Passed",61,33,0,0,94
+1437199,1026337,2021-03-10,House,"House Favorable Passage",11,0,0,0,11
+1437199,1055060,2021-04-15,House,"House Passed",85,6,0,0,91
+1437199,1171257,2022-03-16,Senate,"Senate Favorable Passage",13,0,0,0,13
+1437199,1205594,2022-05-18,Senate,"Senate Passed",31,0,0,0,31
+1437237,1021398,2021-03-03,House,"House Favorable Passage",14,0,0,0,14
+1437237,1026071,2021-03-10,House,"House Passed",93,1,0,0,94
+1437271,1110498,2021-10-25,House,"House Re-referred",12,0,0,0,12
+1437271,1110581,2021-10-26,House,"House Favorable Passage",10,0,0,0,10
+1437271,1110702,2021-10-27,House,"House Passed",92,4,0,0,96
+1437283,1008103,2021-02-17,House,"House Favorable Passage",29,0,0,0,29
+1437283,1015352,2021-02-18,House,"House Passed",37,2,0,0,39
+1437283,1063649,2021-04-27,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437283,1064546,2021-04-28,Senate,"Senate Passed",32,0,0,0,32
+1437322,1067944,2021-05-03,House,"House Favorable Passage",14,0,0,0,14
+1437322,1072919,2021-05-05,House,"House Passed",92,3,0,0,95
+1437322,1128946,2022-01-26,Senate,"Senate Favorable Passage",6,1,0,0,7
+1437322,1139324,2022-02-09,Senate,"Senate Passed",30,1,0,0,31
+1437358,1022439,2021-03-04,House,"House Favorable Passage",13,0,0,0,13
+1437358,1026132,2021-03-10,House,"House Passed",91,2,0,0,93
+1437358,1090328,2021-06-02,Senate,"Senate Favorable Passage",6,0,0,0,6
+1437358,1101682,2021-06-24,Senate,"Senate Passed",31,0,0,0,31
+1437358,1102639,2021-06-28,House,"House Failed",0,97,0,0,97
+1437374,1213654,2022-06-01,House,"House Favorable Passage",12,1,0,0,13
+1437422,1084619,2021-05-25,House,"House Favorable Passage",15,0,0,0,15
+1437422,1085967,2021-05-26,House,"House Passed",92,2,0,0,94
+1437422,1128715,2022-01-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437422,1139093,2022-02-09,Senate,"Senate Passed",31,0,0,0,31
+1437442,1026033,2021-03-10,House,"House Favorable Passage",11,0,0,0,11
+1437475,1021958,2021-03-04,House,"House Favorable Passage",12,3,0,0,15
+1437475,1021959,2021-03-04,House,"House Passed",93,1,0,0,94
+1437475,1030471,2021-03-17,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437475,1030472,2021-03-17,Senate,"Senate Passed",32,1,0,0,33
+1437512,1184748,2022-04-06,House,"House Favorable Passage",13,0,0,0,13
+1437527,1073785,2021-05-06,House,"House Favorable Passage",14,0,0,0,14
+1437527,1076684,2021-05-12,House,"House Passed",94,0,0,0,94
+1437566,1146673,2022-02-16,House,"House Favorable Passage",13,0,0,0,13
+1437566,1161296,2022-03-02,House,"House Passed",84,9,0,0,93
+1437581,1053924,2021-04-14,House,"House Favorable Passage",15,0,0,0,15
+1437581,1059040,2021-04-21,House,"House Passed",86,9,0,0,95
+1437581,1230613,2022-12-13,Senate,"Senate Favorable Passage",6,0,0,0,6
+1437597,1054943,2021-04-15,House,"House Favorable Passage",12,0,0,0,12
+1437597,1054944,2021-04-15,House,"House Passed",90,0,0,0,90
+1437597,1076801,2021-05-12,Senate,"Senate Favorable Passage",6,0,0,0,6
+1437597,1076802,2021-05-12,Senate,"Senate Passed",32,0,0,0,32
+1437631,1059679,2021-04-21,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437631,1073292,2021-05-05,Senate,"Senate Passed",33,0,0,0,33
+1437631,1097140,2021-06-10,House,"House Favorable Passage",11,0,0,0,11
+1437631,1098766,2021-06-16,House,"House Passed",90,3,0,0,93
+1437661,1013839,2021-02-23,House,"House Favorable Passage",13,0,0,0,13
+1437661,1017274,2021-02-25,House,"House Passed",93,2,0,0,95
+1437661,1080207,2021-05-19,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437661,1101805,2021-06-24,Senate,"Senate Passed",32,0,0,0,32
+1437701,1015752,2021-02-25,House,"House Favorable Passage",14,0,0,0,14
+1437701,1020697,2021-03-03,House,"House Passed",96,2,0,0,98
+1437701,1075829,2021-05-11,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437701,1076799,2021-05-12,Senate,"Senate Passed",32,0,0,0,32
+1437718,1021308,2021-03-03,House,"House Favorable Passage",11,0,0,0,11
+1437747,1034524,2021-03-23,House,"House Favorable Passage",10,0,0,0,10
+1437747,1054907,2021-04-15,House,"House Passed",90,2,0,0,92
+1437747,1230268,2022-12-06,Senate,"Senate Favorable Passage",5,0,0,0,5
+1437747,1230425,2022-12-07,Senate,"Senate Passed",29,0,0,0,29
+1437765,1012780,2021-02-23,House,"House Favorable Passage",14,0,0,0,14
+1437765,1016965,2021-02-25,House,"House Passed",87,7,0,0,94
+1437765,1073297,2021-05-05,Senate,"Senate Favorable Passage",7,0,0,0,7
+1437765,1100683,2021-06-23,Senate,"Senate Passed",33,0,0,0,33
+1437784,1021415,2021-03-03,House,"House Favorable Passage",11,0,0,0,11
+1437800,1020708,2021-03-03,House,"House Favorable Passage",10,0,0,0,10
+1437850,1097996,2021-06-15,House,"House Favorable Passage",9,1,0,0,10
+1437850,1101499,2021-06-24,House,"House Passed",89,7,0,0,96
+1437915,1101536,2021-06-24,House,"House Favorable Passage",13,0,0,0,13
+1437915,1102002,2021-06-25,House,"House Passed",83,10,0,0,93
+1437950,1074259,2021-05-06,House,"House Favorable Passage",12,0,0,0,12
+1437950,1080105,2021-05-19,House,"House Passed",86,11,0,0,97
+1438033,1116269,2021-11-17,House,"House Favorable Passage",16,0,0,0,16
+1438033,1117069,2021-12-08,House,"House Passed",93,0,0,0,93
+1438033,1230733,2022-12-14,Senate,"Senate Passed",30,0,0,0,30
+1438052,1014156,2021-02-24,House,"House Favorable Passage",16,0,0,0,16
+1438052,1021053,2021-03-03,House,"House Passed",98,0,0,0,98
+1438052,1127516,2022-01-25,Senate,"Senate Favorable Passage",7,0,0,0,7
+1438052,1128708,2022-01-26,Senate,"Senate Passed",33,0,0,0,33
+1438170,1128681,2022-01-26,House,"House Favorable Passage",9,2,0,0,11
+1438170,1161381,2022-03-02,House,"House Passed",77,14,0,0,91
+1438192,1230601,2022-12-13,House,"House Favorable Passage",14,2,0,0,16
+1438192,1230738,2022-12-14,House,"House Passed",74,11,0,0,85
+1439576,1036838,2021-03-24,House,"House Favorable Passage",11,0,0,0,11
+1439576,1038086,2021-03-25,House,"House Adopted",73,10,0,0,83
+1443540,1076748,2021-05-12,House,"House Favorable Passage",11,0,0,0,11
+1443540,1079803,2021-05-19,House,"House Passed",79,18,0,0,97
+1443557,1129086,2022-01-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443557,1139013,2022-02-09,Senate,"Senate Passed",31,0,0,0,31
+1443573,1080165,2021-05-19,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443573,1080166,2021-05-19,Senate,"Senate Passed",32,0,0,0,32
+1443573,1111141,2021-11-01,House,"House Favorable Passage",12,0,0,0,12
+1443573,1116320,2021-11-18,House,"House Passed",87,0,0,0,87
+1443588,1079469,2021-05-18,House,"House Favorable Passage",10,3,0,0,13
+1443588,1097106,2021-06-10,House,"House Passed",75,19,0,0,94
+1443623,1026555,2021-03-10,House,"House Favorable Passage",12,0,0,0,12
+1443638,1076298,2021-05-11,House,"House Re-referred",12,0,0,0,12
+1443638,1076299,2021-05-11,House,"House Re-referred",14,0,0,0,14
+1443638,1076662,2021-05-12,House,"House Favorable Passage",28,2,0,0,30
+1443638,1076663,2021-05-12,House,"House Passed",92,2,0,0,94
+1443638,1090011,2021-06-02,Senate,"Senate Favorable Passage",13,0,0,0,13
+1443638,1090012,2021-06-02,Senate,"Senate Passed",33,0,0,0,33
+1443638,1096801,2021-06-10,House,"House Failed",34,60,0,0,94
+1443672,1014460,2021-02-24,House,"House Favorable Passage",14,0,0,0,14
+1443672,1016842,2021-02-25,House,"House Passed",95,0,0,0,95
+1443672,1128769,2022-01-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443672,1128770,2022-01-26,Senate,"Senate Passed",33,0,0,0,33
+1443721,1025486,2021-03-09,House,"House Favorable Passage",14,0,0,0,14
+1443721,1030639,2021-03-17,House,"House Passed",97,0,0,0,97
+1443721,1109035,2021-09-22,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443721,1109036,2021-09-22,Senate,"Senate Passed",32,0,0,0,32
+1443739,1086082,2021-05-26,House,"House Favorable Passage",14,0,0,0,14
+1443739,1096858,2021-06-10,House,"House Passed",94,0,0,0,94
+1443739,1100604,2021-06-23,Senate,"Senate Favorable Passage",6,0,0,0,6
+1443739,1100605,2021-06-23,Senate,"Senate Passed",32,1,0,0,33
+1443754,1045655,2021-04-06,Senate,"Senate Favorable Passage",4,1,0,0,5
+1443754,1085248,2021-05-26,Senate,"Senate Passed",31,1,0,0,32
+1443754,1110734,2021-10-27,House,"House Favorable Passage",13,0,0,0,13
+1443754,1116251,2021-11-17,House,"House Passed",85,2,0,0,87
+1443769,1115821,2021-11-10,House,"House Favorable Passage",7,5,0,0,12
+1443769,1116244,2021-11-17,House,"House Passed",59,33,0,0,92
+1443769,1211984,2022-06-01,Senate,"Senate Favorable Passage",4,2,0,0,6
+1443769,1211985,2022-06-01,Senate,"Senate Passed",23,9,0,0,32
+1443804,1026761,2021-03-10,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443804,1065405,2021-04-28,Senate,"Senate Passed",32,0,0,0,32
+1443804,1101635,2021-06-24,House,"House Favorable Passage",11,0,0,0,11
+1443804,1109837,2021-10-12,House,"House Re-referred",12,0,0,0,12
+1443804,1116283,2021-11-17,House,"House Passed",88,0,0,0,88
+1443820,1026579,2021-03-10,House,"House Favorable Passage",12,0,0,0,12
+1443835,1026273,2021-03-10,House,"House Favorable Passage",14,0,0,0,14
+1443835,1036815,2021-03-24,House,"House Passed",98,0,0,0,98
+1443835,1071668,2021-05-04,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443835,1073502,2021-05-05,Senate,"Senate Passed",33,0,0,0,33
+1443853,1090206,2021-06-02,Senate,"Senate Favorable Passage",7,5,0,0,12
+1443853,1090207,2021-06-02,Senate,"Senate Passed",20,13,0,0,33
+1443853,1102682,2021-06-28,House,"House Favorable Passage",10,7,0,0,17
+1443853,1102683,2021-06-28,House,"House Passed",52,44,0,0,96
+1443900,1077023,2021-05-12,Senate,"Senate Favorable Passage",6,0,0,0,6
+1443900,1079801,2021-05-19,Senate,"Senate Passed",31,0,0,0,31
+1443900,1116273,2021-11-17,House,"House Favorable Passage",11,2,0,0,13
+1443900,1129212,2022-01-26,House,"House Passed",91,2,0,0,93
+1443900,1162634,2022-03-02,Senate,"Senate Failed",0,32,0,0,32
+1443934,1100671,2021-06-23,House,"House Favorable Passage",10,0,0,0,10
+1443934,1101733,2021-06-24,House,"House Passed",95,0,0,0,95
+1443949,1029697,2021-03-16,House,"House Favorable Passage",12,0,0,0,12
+1443949,1103010,2021-06-28,House,"House Passed",96,1,0,0,97
+1443949,1183279,2022-04-05,Senate,"Senate Favorable Passage",7,0,0,0,7
+1443949,1184521,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1443968,1027479,2021-03-11,House,"House Favorable Passage",11,0,0,0,11
+1443968,1029048,2021-03-16,House,"House Re-referred",10,0,0,0,10
+1443968,1038237,2021-03-25,House,"House Passed",94,1,0,0,95
+1443968,1079059,2021-05-18,Senate,"Senate Favorable Passage",13,0,0,0,13
+1443968,1079818,2021-05-19,Senate,"Senate Passed",32,0,0,0,32
+1443998,1079342,2021-05-18,House,"House Favorable Passage",14,0,0,0,14
+1443998,1102267,2021-06-25,House,"House Passed",91,0,0,0,91
+1444033,1021413,2021-03-03,House,"House Favorable Passage",11,0,0,0,11
+1444049,1146700,2022-02-16,House,"House Favorable Passage",11,0,0,0,11
+1444049,1161059,2022-03-02,House,"House Passed",75,16,0,0,91
+1444066,1012163,2021-02-23,Senate,"Senate Favorable Passage",6,0,0,0,6
+1444066,1017295,2021-02-24,Senate,"Senate Passed",31,0,0,0,31
+1444066,1037416,2021-03-24,House,"House Favorable Passage",17,0,0,0,17
+1444066,1038491,2021-03-25,House,"House Passed",95,0,0,0,95
+1444116,1080275,2021-05-19,Senate,"Senate Favorable Passage",6,1,0,0,7
+1444163,1020557,2021-03-03,House,"House Favorable Passage",29,4,0,0,33
+1444163,1021919,2021-03-04,House,"House Passed",87,8,0,0,95
+1444163,1036201,2021-03-24,Senate,"Senate Favorable Passage",13,0,0,0,13
+1444163,1036202,2021-03-24,Senate,"Senate Passed",32,0,0,0,32
+1444179,1025948,2021-03-10,House,"House Favorable Passage",9,5,0,0,14
+1444941,1026500,2021-03-10,House,"House Favorable Passage",9,0,0,0,9
+1445077,1026709,2021-03-10,House,"House Favorable Passage",11,0,0,0,11
+1445209,1013396,2021-02-10,Senate,"Senate Adopted",31,0,0,0,31
+1445209,1017688,2021-02-18,House,"House Adopted",94,2,0,0,96
+1445356,1085511,2021-05-26,House,"House Favorable Passage",13,1,0,0,14
+1445356,1096769,2021-06-10,House,"House Passed",86,8,0,0,94
+1445624,1109943,2021-10-13,House,"House Favorable Passage",12,0,0,0,12
+1445624,1109944,2021-10-13,House,"House Passed",93,2,0,0,95
+1452618,1058865,2021-04-21,House,"House Favorable Passage",11,6,0,0,17
+1452618,1085810,2021-05-26,House,"House Passed",57,36,0,0,93
+1452671,1115805,2021-11-10,House,"House Favorable Passage",12,0,0,0,12
+1452671,1116266,2021-11-17,House,"House Passed",89,0,0,0,89
+1452861,1038183,2021-03-25,House,"House Favorable Passage",14,0,0,0,14
+1452861,1054937,2021-04-15,House,"House Passed",93,0,0,0,93
+1452861,1117034,2021-12-08,Senate,"Senate Favorable Passage",6,0,0,0,6
+1452861,1117035,2021-12-08,Senate,"Senate Passed",33,0,0,0,33
+1452886,1100631,2021-06-23,House,"House Favorable Passage",10,0,0,0,10
+1452886,1102008,2021-06-25,House,"House Passed",81,9,0,0,90
+1452886,1230267,2022-12-06,Senate,"Senate Favorable Passage",6,0,0,0,6
+1452944,1115832,2021-11-10,House,"House Favorable Passage",7,5,0,0,12
+1452944,1146262,2022-02-16,House,"House Passed",60,35,0,0,95
+1452972,1059351,2021-04-21,House,"House Favorable Passage",15,0,0,0,15
+1452972,1061065,2021-04-22,House,"House Passed",92,0,0,0,92
+1452972,1090309,2021-06-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1452972,1101717,2021-06-24,Senate,"Senate Passed",32,0,0,0,32
+1452999,1036667,2021-03-24,House,"House Favorable Passage",12,5,0,0,17
+1452999,1055039,2021-04-15,House,"House Passed",62,31,0,0,93
+1452999,1117029,2021-12-08,Senate,"Senate Favorable Passage",5,2,0,0,7
+1452999,1119616,2021-12-15,Senate,"Senate Passed",24,7,0,0,31
+1452999,1161074,2022-03-02,House,"House Failed",0,90,0,0,90
+1453026,1035806,2021-03-23,House,"House Favorable Passage",12,2,0,0,14
+1453026,1038347,2021-03-25,House,"House Passed",89,2,0,0,91
+1453026,1184540,2022-04-06,Senate,"Senate Favorable Passage",7,0,0,0,7
+1453026,1184541,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1453053,1026323,2021-03-10,House,"House Favorable Passage",14,3,0,0,17
+1453053,1026324,2021-03-10,House,"House Passed",86,7,0,0,93
+1453053,1036646,2021-03-24,Senate,"Senate Favorable Passage",13,0,0,0,13
+1453053,1036647,2021-03-24,Senate,"Senate Passed",33,0,0,0,33
+1453134,1025771,2021-03-10,House,"House Favorable Passage",11,0,0,0,11
+1453160,1060003,2021-04-22,House,"House Favorable Passage",9,5,0,0,14
+1453160,1073049,2021-05-05,House,"House Re-referred",12,0,0,0,12
+1453187,1058485,2021-04-21,House,"House Favorable Passage",24,9,0,0,33
+1453187,1058486,2021-04-21,House,"House Passed",70,27,0,0,97
+1453187,1095628,2021-06-09,Senate,"Senate Favorable Passage",10,3,0,0,13
+1453187,1095629,2021-06-09,Senate,"Senate Passed",25,8,0,0,33
+1453187,1096926,2021-06-10,House,"House Failed",8,86,0,0,94
+1453752,1025802,2021-03-10,House,"House Favorable Passage",11,1,0,0,12
+1453752,1038197,2021-03-25,House,"House Passed",71,23,0,0,94
+1453752,1100607,2021-06-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1453752,1101799,2021-06-24,Senate,"Senate Passed",32,0,0,0,32
+1453752,1102705,2021-06-28,House,"House Failed",1,95,0,0,96
+1453998,1025845,2021-03-10,House,"House Favorable Passage",11,0,0,0,11
+1454241,1028947,2021-03-16,House,"House Favorable Passage",10,0,0,0,10
+1454241,1030519,2021-03-17,House,"House Passed",97,0,0,0,97
+1454241,1075612,2021-05-11,Senate,"Senate Favorable Passage",7,0,0,0,7
+1454241,1076665,2021-05-12,Senate,"Senate Passed",32,0,0,0,32
+1454585,1029360,2021-03-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1454585,1064695,2021-04-28,Senate,"Senate Passed",32,0,0,0,32
+1454585,1230605,2022-12-13,House,"House Favorable Passage",11,1,0,0,12
+1454585,1230606,2022-12-13,House,"House Passed",90,1,0,0,91
+1454627,1128981,2022-01-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1454627,1128982,2022-01-26,Senate,"Senate Passed",32,1,0,0,33
+1454627,1200434,2022-05-05,House,"House Favorable Passage",11,1,0,0,12
+1454627,1209192,2022-05-25,House,"House Passed",81,13,0,0,94
+1455373,1029204,2021-03-16,House,"House Favorable Passage",16,0,0,0,16
+1455373,1180002,2022-03-30,House,"House Passed",89,0,0,0,89
+1455435,1095434,2021-06-09,House,"House Favorable Passage",9,0,0,0,9
+1455435,1098684,2021-06-16,House,"House Passed",93,0,0,0,93
+1455435,1161655,2022-03-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1455435,1171228,2022-03-16,Senate,"Senate Passed",30,0,0,0,30
+1455500,1028952,2021-03-16,House,"House Favorable Passage",16,0,0,0,16
+1455500,1076724,2021-05-12,House,"House Passed",91,3,0,0,94
+1455500,1128834,2022-01-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1455500,1161316,2022-03-02,Senate,"Senate Passed",33,0,0,0,33
+1455636,1017900,2021-02-18,House,"House Adopted",96,0,0,0,96
+1455703,1053215,2021-04-14,House,"House Favorable Passage",10,5,0,0,15
+1455703,1060013,2021-04-22,House,"House Passed",60,33,0,0,93
+1455703,1212005,2022-06-01,Senate,"Senate Favorable Passage",5,2,0,0,7
+1455703,1212006,2022-06-01,Senate,"Senate Passed",22,10,0,0,32
+1455778,1074205,2021-05-06,House,"House Favorable Passage",14,0,0,0,14
+1455778,1076837,2021-05-12,House,"House Passed",94,0,0,0,94
+1455778,1090197,2021-06-02,Senate,"Senate Favorable Passage",6,0,0,0,6
+1455778,1100727,2021-06-23,Senate,"Senate Passed",33,0,0,0,33
+1461424,1058286,2021-04-21,Senate,"Senate Passed",24,9,0,0,33
+1461424,1059846,2021-04-21,Senate,"Senate Favorable Passage",5,2,0,0,7
+1461424,1098969,2021-06-17,House,"House Favorable Passage",8,0,0,0,8
+1461424,1102088,2021-06-25,House,"House Passed",52,37,0,0,89
+1461768,1080314,2021-05-19,Senate,"Senate Favorable Passage",7,0,0,0,7
+1461768,1080315,2021-05-19,Senate,"Senate Passed",32,0,0,0,32
+1461768,1117076,2021-12-08,House,"House Re-referred",10,0,0,0,10
+1461873,1096980,2021-06-10,House,"House Favorable Passage",8,4,0,0,12
+1461873,1100641,2021-06-23,House,"House Passed",57,38,0,0,95
+1461953,1209021,2022-05-25,House,"House Favorable Passage",13,0,0,0,13
+1461953,1213595,2022-06-01,House,"House Passed",57,30,0,0,87
+1461992,1072235,2021-05-04,House,"House Re-referred",15,0,0,0,15
+1461992,1207386,2022-05-23,House,"House Favorable Passage",14,1,0,0,15
+1461992,1213660,2022-06-01,House,"House Passed",82,3,0,0,85
+1462122,1060543,2021-04-22,House,"House Re-referred",13,0,0,0,13
+1462122,1229974,2022-11-16,House,"House Favorable Passage",25,0,0,0,25
+1462122,1229983,2022-11-16,House,"House Passed",76,0,0,0,76
+1462600,1096294,2021-06-09,Senate,"Senate Passed",33,0,0,0,33
+1464973,1079889,2021-05-19,House,"House Favorable Passage",12,5,0,0,17
+1464973,1085549,2021-05-26,House,"House Passed",63,31,0,0,94
+1465237,1030218,2021-03-17,House,"House Favorable Passage",12,0,0,0,12
+1470877,1076833,2021-05-12,Senate,"Senate Favorable Passage",6,0,0,0,6
+1470877,1090359,2021-06-02,Senate,"Senate Passed",33,0,0,0,33
+1470877,1116331,2021-11-18,House,"House Favorable Passage",15,0,0,0,15
+1470877,1129165,2022-01-26,House,"House Passed",92,1,0,0,93
+1470923,1085989,2021-05-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1470923,1085990,2021-05-26,Senate,"Senate Passed",31,1,0,0,32
+1470923,1117074,2021-12-08,House,"House Favorable Passage",13,0,0,0,13
+1470923,1117075,2021-12-08,House,"House Passed",88,7,0,0,95
+1470946,1090136,2021-06-02,Senate,"Senate Favorable Passage",5,1,0,0,6
+1470946,1090137,2021-06-02,Senate,"Senate Passed",26,7,0,0,33
+1470946,1101483,2021-06-24,House,"House Favorable Passage",7,3,0,0,10
+1470946,1101484,2021-06-24,House,"House Passed",67,27,0,0,94
+1471011,1031035,2021-03-17,Senate,"Senate Favorable Passage",13,0,0,0,13
+1471011,1031036,2021-03-17,Senate,"Senate Passed",33,0,0,0,33
+1471011,1063445,2021-04-27,House,"House Re-referred",11,0,0,0,11
+1471011,1073038,2021-05-05,House,"House Favorable Passage",31,0,0,0,31
+1471011,1073039,2021-05-05,House,"House Passed",94,1,0,0,95
+1471030,1030424,2021-03-17,Senate,"Senate Favorable Passage",13,0,0,0,13
+1471030,1030425,2021-03-17,Senate,"Senate Passed",33,0,0,0,33
+1471030,1063328,2021-04-27,House,"House Re-referred",11,0,0,0,11
+1471030,1073232,2021-05-05,House,"House Favorable Passage",30,1,0,0,31
+1471030,1073233,2021-05-05,House,"House Passed",93,2,0,0,95
+1471056,1128900,2022-01-26,Senate,"Senate Favorable Passage",7,0,0,0,7
+1471056,1139412,2022-02-09,Senate,"Senate Passed",31,0,0,0,31
+1471118,1030161,2021-03-17,Senate,"Senate Favorable Passage",13,0,0,0,13
+1471118,1030162,2021-03-17,Senate,"Senate Passed",33,0,0,0,33
+1471118,1230191,2022-12-01,House,"House Favorable Passage",24,2,0,0,26
+1471118,1230192,2022-12-01,House,"House Passed",63,18,0,0,81
+1471137,1036490,2021-03-24,Senate,"Senate Favorable Passage",13,0,0,0,13
+1471137,1036491,2021-03-24,Senate,"Senate Passed",33,0,0,0,33
+1471137,1099974,2021-06-22,House,"House Favorable Passage",24,2,0,0,26
+1471137,1101760,2021-06-24,House,"House Passed",62,34,0,0,96
+1471172,1036893,2021-03-24,House,"House Re-referred",12,0,0,0,12
+1471172,1054930,2021-04-15,House,"House Favorable Passage",33,0,0,0,33
+1471172,1054931,2021-04-15,House,"House Passed",91,0,0,0,91
+1471172,1117012,2021-12-08,Senate,"Senate Favorable Passage",13,0,0,0,13
+1471172,1117013,2021-12-08,Senate,"Senate Passed",32,1,0,0,33
+1471194,1036549,2021-03-24,House,"House Favorable Passage",11,0,0,0,11
+1471238,1067722,2021-05-03,House,"House Favorable Passage",12,0,0,0,12
+1471260,1137141,2022-02-08,House,"House Favorable Passage",12,0,0,0,12
+1471260,1139007,2022-02-09,House,"House Passed",89,4,0,0,93
+1471282,1030457,2021-03-17,House,"House Favorable Passage",14,0,0,0,14
+1471282,1034485,2021-03-23,House,"House Re-referred",10,0,0,0,10
+1471282,1054917,2021-04-15,House,"House Passed",91,0,0,0,91
+1471282,1085226,2021-05-26,Senate,"Senate Favorable Passage",12,0,0,0,12
+1471282,1085227,2021-05-26,Senate,"Senate Passed",32,0,0,0,32
+1471311,1055264,2021-04-15,House,"House Favorable Passage",33,0,0,0,33
+1471311,1055265,2021-04-15,House,"House Passed",92,0,0,0,92
+1471311,1064980,2021-04-28,Senate,"Senate Favorable Passage",10,0,0,0,10
+1471311,1064981,2021-04-28,Senate,"Senate Passed",32,0,0,0,32
+1471332,1100725,2021-06-23,House,"House Favorable Passage",16,1,0,0,17
+1471332,1116237,2021-11-17,House,"House Passed",89,0,0,0,89
+1471353,1060596,2021-04-22,House,"House Favorable Passage",12,0,0,0,12
+1471353,1096978,2021-06-10,House,"House Passed",82,12,0,0,94
+1471378,1036580,2021-03-24,House,"House Re-referred",12,0,0,0,12
+1471378,1054908,2021-04-15,House,"House Favorable Passage",33,0,0,0,33
+1471378,1054909,2021-04-15,House,"House Passed",92,0,0,0,92
+1471378,1100726,2021-06-23,Senate,"Senate Favorable Passage",12,0,0,0,12
+1471378,1101773,2021-06-24,Senate,"Senate Passed",32,0,0,0,32
+1471399,1137076,2022-02-08,House,"House Favorable Passage",12,0,0,0,12
+1471399,1139298,2022-02-09,House,"House Passed",92,1,0,0,93
+1471440,1073871,2021-05-06,House,"House Favorable Passage",12,0,0,0,12
+1471440,1080673,2021-05-19,House,"House Passed",96,1,0,0,97
+1471440,1146202,2022-02-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1471440,1161367,2022-03-02,Senate,"Senate Passed",33,0,0,0,33
+1472199,1109235,2021-09-28,House,"House Favorable Passage",7,3,0,0,10
+1472199,1109387,2021-09-29,House,"House Passed",61,33,0,0,94
+1472199,1179963,2022-03-30,Senate,"Senate Favorable Passage",5,2,0,0,7
+1472199,1179964,2022-03-30,Senate,"Senate Passed",25,8,0,0,33
+1472263,1054900,2021-04-15,House,"House Favorable Passage",10,5,0,0,15
+1472263,1073923,2021-05-06,House,"House Adopted",62,33,0,0,95
+1472263,1098428,2021-06-16,Senate,"Senate Favorable Passage",5,2,0,0,7
+1472263,1100618,2021-06-23,Senate,"Senate Adopted",25,8,0,0,33
+1472389,1076306,2021-05-11,Senate,"Senate Favorable Passage",7,0,0,0,7
+1472389,1090896,2021-06-02,Senate,"Senate Passed",33,0,0,0,33
+1472389,1109401,2021-09-29,House,"House Favorable Passage",11,0,0,0,11
+1472389,1116333,2021-11-18,House,"House Passed",83,0,0,0,83
+1472452,1061053,2021-04-22,House,"House Favorable Passage",11,0,0,0,11
+1472452,1073890,2021-05-06,House,"House Passed",73,24,0,0,97
+1472452,1110714,2021-10-27,Senate,"Senate Favorable Passage",6,0,0,0,6
+1472452,1110715,2021-10-27,Senate,"Senate Passed",26,5,0,0,31
+1472514,1030750,2021-03-17,House,"House Favorable Passage",12,0,0,0,12
+1473272,1030429,2021-03-17,House,"House Favorable Passage",12,0,0,0,12
+1473433,1068013,2021-05-03,House,"House Favorable Passage",16,0,0,0,16
+1473433,1072912,2021-05-05,House,"House Passed",95,0,0,0,95
+1473433,1109041,2021-09-22,Senate,"Senate Favorable Passage",5,1,0,0,6
+1473433,1109211,2021-09-28,Senate,"Senate Passed",31,1,0,0,32
+1473586,1109914,2021-10-13,House,"House Favorable Passage",12,0,0,0,12
+1473586,1109915,2021-10-13,House,"House Passed",87,8,0,0,95
+1473586,1230593,2022-12-13,Senate,"Senate Passed",31,0,0,0,31
+1473738,1055132,2021-04-15,House,"House Favorable Passage",14,0,0,0,14
+1473738,1074080,2021-05-06,House,"House Passed",95,2,0,0,97
+1473738,1110278,2021-10-19,Senate,"Senate Favorable Passage",6,0,0,0,6
+1473738,1115895,2021-11-10,Senate,"Senate Passed",33,0,0,0,33
+1473814,1054889,2021-04-15,House,"House Re-referred",12,0,0,0,12
+1473814,1054890,2021-04-15,House,"House Re-referred",12,0,0,0,12
+1476329,1100965,2021-06-23,House,"House Favorable Passage",13,0,0,0,13
+1476329,1102233,2021-06-25,House,"House Passed",91,0,0,0,91
+1476329,1116198,2021-11-16,Senate,"Senate Favorable Passage",12,1,0,0,13
+1476329,1165142,2022-03-08,Senate,"Senate Passed",30,0,0,0,30
+1476491,1098093,2021-06-15,House,"House Favorable Passage",15,0,0,0,15
+1476491,1100682,2021-06-23,House,"House Passed",95,0,0,0,95
+1476491,1211993,2022-06-01,Senate,"Senate Favorable Passage",6,1,0,0,7
+1476491,1211994,2022-06-01,Senate,"Senate Passed",31,1,0,0,32
+1476535,1099950,2021-06-22,House,"House Favorable Passage",11,0,0,0,11
+1476535,1100854,2021-06-23,House,"House Passed",95,0,0,0,95
+1476535,1116226,2021-11-17,Senate,"Senate Favorable Passage",11,0,0,0,11
+1476535,1146911,2022-02-16,Senate,"Senate Passed",33,0,0,0,33
+1476556,1068093,2021-05-03,House,"House Favorable Passage",16,0,0,0,16
+1476556,1080893,2021-05-19,House,"House Passed",97,0,0,0,97
+1476655,1209383,2022-05-25,House,"House Favorable Passage",12,2,0,0,14
+1476655,1230183,2022-12-01,House,"House Passed",69,12,0,0,81
+1476726,1030214,2021-03-17,House,"House Favorable Passage",9,0,0,0,9
+1476726,1036069,2021-03-24,House,"House Passed",98,0,0,0,98
+1476726,1100639,2021-06-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1476726,1101874,2021-06-24,Senate,"Senate Passed",32,0,0,0,32
+1476750,1074000,2021-05-06,House,"House Favorable Passage",11,0,0,0,11
+1476750,1097424,2021-06-10,House,"House Passed",92,2,0,0,94
+1476775,1117045,2021-12-08,House,"House Favorable Passage",16,0,0,0,16
+1476775,1117209,2021-12-09,House,"House Passed",94,0,0,0,94
+1476797,1096956,2021-06-10,House,"House Favorable Passage",11,0,0,0,11
+1476797,1098583,2021-06-16,House,"House Passed",93,0,0,0,93
+1477711,1187306,2022-04-12,House,"House Favorable Passage",10,4,0,0,14
+1477711,1214354,2022-06-01,House,"House Passed",56,33,0,0,89
+1477784,1068047,2021-05-03,House,"House Favorable Passage",8,5,0,0,13
+1477784,1073932,2021-05-06,House,"House Passed",65,32,0,0,97
+1477784,1098467,2021-06-16,Senate,"Senate Favorable Passage",8,3,0,0,11
+1477784,1101703,2021-06-24,Senate,"Senate Passed",25,7,0,0,32
+1477860,1096273,2021-06-09,House,"House Favorable Passage",17,0,0,0,17
+1477860,1139489,2022-02-09,House,"House Passed",92,0,0,0,92
+1477978,1026596,2021-03-10,Senate,"Senate Adopted",33,0,0,0,33
+1478055,1230867,2022-12-14,House,"House Favorable Passage",15,2,0,0,17
+1478348,1060952,2021-04-22,Senate,"Senate Favorable Passage",6,0,0,0,6
+1478348,1073560,2021-05-05,Senate,"Senate Passed",33,0,0,0,33
+1478530,1098548,2021-06-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1478530,1098549,2021-06-16,Senate,"Senate Passed",33,0,0,0,33
+1478530,1101478,2021-06-24,House,"House Favorable Passage",13,0,0,0,13
+1478530,1102180,2021-06-25,House,"House Passed",89,0,0,0,89
+1479506,1059092,2021-04-21,House,"House Favorable Passage",11,0,0,0,11
+1479506,1077123,2021-05-12,House,"House Passed",83,10,0,0,93
+1479506,1212039,2022-06-01,Senate,"Senate Favorable Passage",7,0,0,0,7
+1479506,1212040,2022-06-01,Senate,"Senate Passed",29,3,0,0,32
+1479696,1096024,2021-06-09,House,"House Favorable Passage",11,0,0,0,11
+1483125,1036701,2021-03-24,House,"House Favorable Passage",10,0,0,0,10
+1483137,1059149,2021-04-21,House,"House Favorable Passage",13,0,0,0,13
+1483137,1074274,2021-05-06,House,"House Passed",77,17,0,0,94
+1483137,1115866,2021-11-10,Senate,"Senate Favorable Passage",6,0,0,0,6
+1483137,1116152,2021-11-16,Senate,"Senate Passed",31,0,0,0,31
+1483186,1116322,2021-11-18,House,"House Favorable Passage",8,5,0,0,13
+1483186,1116323,2021-11-18,House,"House Passed",58,32,0,0,90
+1483196,1110762,2021-10-27,House,"House Favorable Passage",9,0,0,0,9
+1483230,1073033,2021-05-05,House,"House Favorable Passage",12,0,0,0,12
+1483230,1079856,2021-05-19,House,"House Passed",96,0,0,0,96
+1483283,1210128,2022-05-27,Senate,"Senate Favorable Passage",7,0,0,0,7
+1483283,1211986,2022-06-01,Senate,"Senate Passed",31,0,0,0,31
+1483283,1230616,2022-12-13,House,"House Favorable Passage",14,0,0,0,14
+1483283,1230871,2022-12-14,House,"House Passed",87,3,0,0,90
+1483297,1089553,2021-06-01,House,"House Favorable Passage",12,0,0,0,12
+1483297,1096889,2021-06-10,House,"House Re-referred",11,0,0,0,11
+1483309,1073091,2021-05-05,Senate,"Senate Favorable Passage",6,0,0,0,6
+1483309,1077057,2021-05-12,Senate,"Senate Passed",32,0,0,0,32
+1483331,1079460,2021-05-18,House,"House Favorable Passage",11,2,0,0,13
+1483940,1098451,2021-06-16,Senate,"Senate Favorable Passage",5,2,0,0,7
+1483940,1098452,2021-06-16,Senate,"Senate Passed",31,2,0,0,33
+1483940,1184581,2022-04-06,House,"House Favorable Passage",12,0,0,0,12
+1483940,1184582,2022-04-06,House,"House Passed",96,0,0,0,96
+1483955,1079463,2021-05-18,House,"House Favorable Passage",11,2,0,0,13
+1484063,1117078,2021-12-08,House,"House Favorable Passage",10,5,0,0,15
+1484063,1117206,2021-12-09,House,"House Passed",65,28,0,0,93
+1484063,1230276,2022-12-06,Senate,"Senate Favorable Passage",4,2,0,0,6
+1484063,1230426,2022-12-07,Senate,"Senate Passed",23,6,0,0,29
+1484095,1098727,2021-06-16,Senate,"Senate Favorable Passage",11,0,0,0,11
+1484095,1098728,2021-06-16,Senate,"Senate Adopted",33,0,0,0,33
+1484130,1059301,2021-04-21,House,"House Favorable Passage",13,0,0,0,13
+1484130,1074260,2021-05-06,House,"House Passed",96,0,0,0,96
+1484130,1098607,2021-06-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1484130,1101779,2021-06-24,Senate,"Senate Passed",31,1,0,0,32
+1484239,1053805,2021-04-14,House,"House Favorable Passage",11,0,0,0,11
+1484239,1060510,2021-04-22,House,"House Adopted",92,0,0,0,92
+1484239,1096247,2021-06-09,Senate,"Senate Favorable Passage",6,0,0,0,6
+1484239,1098605,2021-06-16,Senate,"Senate Adopted",33,0,0,0,33
+1487271,1068102,2021-05-03,House,"House Favorable Passage",9,3,0,0,12
+1487271,1076826,2021-05-12,House,"House Passed",65,29,0,0,94
+1487271,1117021,2021-12-08,Senate,"Senate Favorable Passage",5,1,0,0,6
+1487271,1128826,2022-01-26,Senate,"Senate Passed",25,8,0,0,33
+1487279,1111152,2021-11-01,House,"House Favorable Passage",8,5,0,0,13
+1487279,1116257,2021-11-17,House,"House Passed",60,32,0,0,92
+1487297,1117505,2021-12-09,House,"House Favorable Passage",11,0,0,0,11
+1487297,1129016,2022-01-26,House,"House Adopted",93,0,0,0,93
+1487304,1110541,2021-10-25,House,"House Favorable Passage",12,0,0,0,12
+1487304,1110744,2021-10-27,House,"House Passed",94,2,0,0,96
+1487351,1080570,2021-05-19,House,"House Favorable Passage",17,0,0,0,17
+1487351,1086033,2021-05-26,House,"House Passed",91,1,0,0,92
+1487351,1110717,2021-10-27,Senate,"Senate Favorable Passage",5,0,0,0,5
+1487351,1110718,2021-10-27,Senate,"Senate Passed",31,0,0,0,31
+1487366,1111178,2021-11-01,House,"House Favorable Passage",11,0,0,0,11
+1487366,1116260,2021-11-17,House,"House Passed",88,0,0,0,88
+1487816,1037213,2021-03-24,Senate,"Senate Adopted",33,0,0,0,33
+1488268,1117042,2021-12-08,Senate,"Senate Favorable Passage",13,0,0,0,13
+1488339,1213909,2022-06-01,House,"House Favorable Passage",10,1,0,0,11
+1488364,1138953,2022-02-09,House,"House Favorable Passage",13,0,0,0,13
+1488364,1138954,2022-02-09,House,"House Passed",83,10,0,0,93
+1490122,1117235,2021-12-09,House,"House Favorable Passage",8,4,0,0,12
+1490122,1117236,2021-12-09,House,"House Passed",57,36,0,0,93
+1490147,1098177,2021-06-15,House,"House Re-referred",13,1,0,0,14
+1490147,1230603,2022-12-13,House,"House Favorable Passage",20,3,0,0,23
+1490179,1095084,2021-06-08,House,"House Re-referred",10,0,0,0,10
+1490206,1058919,2021-04-21,House,"House Favorable Passage",11,0,0,0,11
+1490232,1096379,2021-06-09,House,"House Favorable Passage",10,0,0,0,10
+1490232,1098750,2021-06-16,House,"House Passed",94,0,0,0,94
+1490232,1117054,2021-12-08,Senate,"Senate Favorable Passage",7,0,0,0,7
+1490232,1146514,2022-02-16,Senate,"Senate Passed",33,0,0,0,33
+1490245,1076954,2021-05-12,House,"House Favorable Passage",14,0,0,0,14
+1490245,1080622,2021-05-19,House,"House Passed",97,0,0,0,97
+1490245,1098719,2021-06-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1490245,1102570,2021-06-28,Senate,"Senate Passed",25,8,0,0,33
+1490271,1167126,2022-03-09,House,"House Favorable Passage",12,0,0,0,12
+1490271,1205954,2022-05-18,House,"House Passed",90,1,0,0,91
+1491760,1077049,2021-05-12,House,"House Favorable Passage",15,0,0,0,15
+1491760,1079816,2021-05-19,House,"House Passed",97,0,0,0,97
+1491850,1089636,2021-06-01,Senate,"Senate Favorable Passage",7,0,0,0,7
+1491850,1106254,2021-06-09,Senate,"Senate Passed",33,0,0,0,33
+1493200,1059280,2021-04-21,House,"House Favorable Passage",11,0,0,0,11
+1493211,1072489,2021-05-04,House,"House Favorable Passage",14,0,0,0,14
+1493211,1073933,2021-05-06,House,"House Passed",96,0,0,0,96
+1493211,1090199,2021-06-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1493211,1100855,2021-06-23,Senate,"Senate Passed",33,0,0,0,33
+1493985,1110265,2021-10-19,House,"House Favorable Passage",10,0,0,0,10
+1493985,1110757,2021-10-27,House,"House Passed",94,2,0,0,96
+1494330,1110383,2021-10-20,Senate,"Senate Favorable Passage",4,2,0,0,6
+1494330,1110384,2021-10-20,Senate,"Senate Passed",23,7,0,0,30
+1494330,1187465,2022-04-12,House,"House Favorable Passage",8,4,0,0,12
+1494330,1214431,2022-06-01,House,"House Passed",59,32,0,0,91
+1495443,1110694,2021-10-27,Senate,"Senate Favorable Passage",4,2,0,0,6
+1495443,1110695,2021-10-27,Senate,"Senate Passed",25,6,0,0,31
+1495443,1117058,2021-12-08,House,"House Favorable Passage",10,4,0,0,14
+1495443,1117059,2021-12-08,House,"House Passed",61,35,0,0,96
+1496068,1090211,2021-06-02,Senate,"Senate Favorable Passage",6,0,0,0,6
+1496068,1095621,2021-06-09,Senate,"Senate Passed",33,0,0,0,33
+1496068,1204034,2022-05-12,House,"House Favorable Passage",11,0,0,0,11
+1496068,1213781,2022-06-01,House,"House Passed",90,0,0,0,90
+1500385,1098207,2021-06-15,House,"House Favorable Passage",17,0,0,0,17
+1500385,1109095,2021-09-22,House,"House Passed",94,0,0,0,94
+1500407,1111186,2021-11-01,House,"House Favorable Passage",10,4,0,0,14
+1500407,1117185,2021-12-09,House,"House Adopted",60,34,0,0,94
+1500407,1170149,2022-03-15,Senate,"Senate Favorable Passage",6,0,0,0,6
+1500639,1211989,2022-06-01,Senate,"Senate Favorable Passage",6,0,0,0,6
+1500639,1211990,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1500639,1230617,2022-12-13,House,"House Favorable Passage",12,0,0,0,12
+1500639,1230735,2022-12-14,House,"House Passed",77,9,0,0,86
+1500716,1072146,2021-05-04,House,"House Favorable Passage",10,0,0,0,10
+1500766,1100848,2021-06-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1500766,1100849,2021-06-23,Senate,"Senate Passed",33,0,0,0,33
+1500766,1116204,2021-11-16,House,"House Favorable Passage",10,0,0,0,10
+1500766,1117050,2021-12-08,House,"House Passed",95,1,0,0,96
+1501713,1071654,2021-05-04,House,"House Favorable Passage",10,0,0,0,10
+1502349,1098448,2021-06-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1502349,1098449,2021-06-16,Senate,"Senate Passed",33,0,0,0,33
+1502349,1116326,2021-11-18,House,"House Favorable Passage",14,1,0,0,15
+1502349,1117193,2021-12-09,House,"House Passed",89,0,0,0,89
+1502380,1102135,2021-06-25,House,"House Favorable Passage",15,0,0,0,15
+1502380,1109422,2021-09-29,House,"House Passed",93,1,0,0,94
+1502380,1139030,2022-02-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1502380,1145794,2022-02-16,Senate,"Senate Passed",33,0,0,0,33
+1502947,1117046,2021-12-08,House,"House Favorable Passage",7,5,0,0,12
+1502947,1117047,2021-12-08,House,"House Passed",75,20,0,0,95
+1502947,1179810,2022-03-30,Senate,"Senate Favorable Passage",7,0,0,0,7
+1502947,1179811,2022-03-30,Senate,"Senate Passed",33,0,0,0,33
+1502968,1109598,2021-10-06,Senate,"Senate Favorable Passage",5,2,0,0,7
+1502968,1139240,2022-02-09,Senate,"Senate Passed",23,8,0,0,31
+1503000,1080376,2021-05-19,House,"House Favorable Passage",11,6,0,0,17
+1504032,1177599,2022-03-28,House,"House Favorable Passage",13,0,0,0,13
+1504032,1179996,2022-03-30,House,"House Passed",87,4,0,0,91
+1505588,1096438,2021-06-09,House,"House Favorable Passage",13,0,0,0,13
+1505588,1098571,2021-06-16,House,"House Passed",93,1,0,0,94
+1505634,1100928,2021-06-23,House,"House Favorable Passage",14,0,0,0,14
+1505634,1102104,2021-06-25,House,"House Passed",90,0,0,0,90
+1505634,1212019,2022-06-01,Senate,"Senate Favorable Passage",5,0,0,0,5
+1505772,1229892,2022-11-15,House,"House Favorable Passage",12,0,0,0,12
+1505772,1229984,2022-11-16,House,"House Passed",77,14,0,0,91
+1506038,1100681,2021-06-23,House,"House Favorable Passage",9,5,0,0,14
+1506038,1180372,2022-03-30,House,"House Passed",60,31,0,0,91
+1506038,1230432,2022-12-07,Senate,"Senate Favorable Passage",6,0,0,0,6
+1506038,1230433,2022-12-07,Senate,"Senate Passed",25,4,0,0,29
+1506055,1098242,2021-06-15,House,"House Favorable Passage",9,5,0,0,14
+1506055,1102139,2021-06-25,House,"House Adopted",60,34,0,0,94
+1506105,1098238,2021-06-15,House,"House Favorable Passage",9,5,0,0,14
+1506105,1102170,2021-06-25,House,"House Adopted",60,34,0,0,94
+1506140,1089384,2021-06-01,House,"House Favorable Passage",8,5,0,0,13
+1506140,1096975,2021-06-10,House,"House Adopted",62,29,0,0,91
+1506507,1100851,2021-06-23,House,"House Favorable Passage",11,0,0,0,11
+1506507,1101789,2021-06-24,House,"House Passed",95,0,0,0,95
+1506507,1109576,2021-10-06,Senate,"Senate Favorable Passage",12,0,0,0,12
+1506507,1109577,2021-10-06,Senate,"Senate Passed",32,0,0,0,32
+1506828,1098370,2021-06-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1506828,1098371,2021-06-16,Senate,"Senate Passed",30,2,0,0,32
+1506972,1110729,2021-10-27,House,"House Favorable Passage",11,1,0,0,12
+1506972,1116321,2021-11-18,House,"House Passed",81,10,0,0,91
+1507011,1230567,2022-12-12,House,"House Favorable Passage",7,5,0,0,12
+1507856,1131685,2022-02-01,House,"House Favorable Passage",12,0,0,0,12
+1507856,1139254,2022-02-09,House,"House Passed",79,14,0,0,93
+1507985,1100421,2021-06-22,House,"House Favorable Passage",9,2,0,0,11
+1508039,1230412,2022-12-07,Senate,"Senate Favorable Passage",5,1,0,0,6
+1508039,1230413,2022-12-07,Senate,"Senate Passed",22,7,0,0,29
+1508418,1096006,2021-06-09,House,"House Favorable Passage",11,0,0,0,11
+1509894,1096103,2021-06-09,House,"House Favorable Passage",17,0,0,0,17
+1509894,1116298,2021-11-17,House,"House Passed",89,0,0,0,89
+1510101,1090043,2021-06-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1510101,1095725,2021-06-09,Senate,"Senate Passed",33,0,0,0,33
+1510101,1110747,2021-10-27,House,"House Favorable Passage",15,0,0,0,15
+1510101,1139353,2022-02-09,House,"House Passed",91,0,0,0,91
+1510350,1214359,2022-06-01,House,"House Favorable Passage",10,2,0,0,12
+1510419,1116887,2021-12-07,Senate,"Senate Favorable Passage",6,0,0,0,6
+1510419,1119602,2021-12-15,Senate,"Senate Passed",31,0,0,0,31
+1512055,1139319,2022-02-09,House,"House Favorable Passage",8,5,0,0,13
+1512055,1146675,2022-02-16,House,"House Passed",64,35,0,0,99
+1512061,1173242,2022-03-21,House,"House Favorable Passage",9,0,0,0,9
+1512098,1146786,2022-02-16,House,"House Favorable Passage",14,1,0,0,15
+1512098,1161181,2022-03-02,House,"House Passed",93,0,0,0,93
+1512114,1098387,2021-06-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1512114,1098388,2021-06-16,Senate,"Senate Passed",33,0,0,0,33
+1512114,1101397,2021-06-24,House,"House Favorable Passage",14,1,0,0,15
+1512114,1101398,2021-06-24,House,"House Passed",58,36,0,0,94
+1512138,1116324,2021-11-18,House,"House Favorable Passage",12,0,0,0,12
+1512138,1117291,2021-12-09,House,"House Passed",87,4,0,0,91
+1512138,1171237,2022-03-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1512138,1206026,2022-05-18,Senate,"Senate Passed",30,1,0,0,31
+1512164,1109572,2021-10-06,Senate,"Senate Favorable Passage",5,2,0,0,7
+1512164,1110372,2021-10-20,Senate,"Senate Passed",23,7,0,0,30
+1512164,1230189,2022-12-01,House,"House Favorable Passage",8,5,0,0,13
+1512164,1230190,2022-12-01,House,"House Passed",57,22,0,0,79
+1512164,1230372,2022-12-07,Senate,"Senate Failed",1,28,0,0,29
+1512478,1098030,2021-06-15,House,"House Favorable Passage",10,0,0,0,10
+1513656,1184719,2022-04-06,House,"House Favorable Passage",10,2,0,0,12
+1513656,1205955,2022-05-18,House,"House Passed",72,19,0,0,91
+1514051,1184535,2022-04-06,Senate,"Senate Favorable Passage",6,1,0,0,7
+1514051,1184536,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1514817,1230875,2022-12-14,House,"House Favorable Passage",9,5,0,0,14
+1514854,1116205,2021-11-16,House,"House Favorable Passage",9,1,0,0,10
+1514854,1117275,2021-12-09,House,"House Passed",90,1,0,0,91
+1514854,1205899,2022-05-18,Senate,"Senate Favorable Passage",11,1,0,0,12
+1514854,1205900,2022-05-18,Senate,"Senate Passed",30,1,0,0,31
+1514859,1111143,2021-11-01,House,"House Favorable Passage",14,0,0,0,14
+1514859,1117077,2021-12-08,House,"House Passed",94,0,0,0,94
+1514859,1205655,2022-05-18,Senate,"Senate Favorable Passage",7,0,0,0,7
+1514859,1209435,2022-05-25,Senate,"Senate Passed",30,0,0,0,30
+1514999,1098546,2021-06-16,House,"House Adopted",75,21,0,0,96
+1515016,1203940,2022-05-12,House,"House Favorable Passage",9,0,0,0,9
+1515016,1205956,2022-05-18,House,"House Passed",90,1,0,0,91
+1515034,1111181,2021-11-01,House,"House Favorable Passage",10,5,0,0,15
+1515034,1116261,2021-11-17,House,"House Adopted",59,26,0,0,85
+1515034,1205791,2022-05-18,Senate,"Senate Favorable Passage",5,0,0,0,5
+1515453,1117055,2021-12-08,House,"House Favorable Passage",12,0,0,0,12
+1515453,1117181,2021-12-09,House,"House Passed",91,0,0,0,91
+1516538,1161709,2022-03-02,Senate,"Senate Favorable Passage",4,0,0,0,4
+1516538,1171123,2022-03-16,Senate,"Senate Passed",30,0,0,0,30
+1516538,1230088,2022-11-30,House,"House Favorable Passage",13,0,0,0,13
+1516538,1230193,2022-12-01,House,"House Passed",71,6,0,0,77
+1516554,1205777,2022-05-18,House,"House Favorable Passage",9,0,0,0,9
+1516671,1116270,2021-11-17,House,"House Favorable Passage",10,2,0,0,12
+1516671,1117060,2021-12-08,House,"House Passed",90,1,0,0,91
+1516705,1184751,2022-04-06,House,"House Favorable Passage",12,0,0,0,12
+1516705,1205957,2022-05-18,House,"House Passed",88,1,0,0,89
+1517011,1209120,2022-05-25,Senate,"Senate Favorable Passage",6,0,0,0,6
+1517011,1209121,2022-05-25,Senate,"Senate Passed",30,0,0,0,30
+1517011,1230884,2022-12-14,House,"House Favorable Passage",13,1,0,0,14
+1517011,1230885,2022-12-14,House,"House Passed",66,24,0,0,90
+1517482,1101962,2021-06-24,House,"House Adopted",96,0,0,0,96
+1517931,1102641,2021-06-28,House,"House Adopted",60,0,0,0,60
+1517951,1109652,2021-10-06,Senate,"Senate Favorable Passage",6,0,0,0,6
+1517951,1115828,2021-11-10,Senate,"Senate Passed",33,0,0,0,33
+1517951,1207425,2022-05-23,House,"House Favorable Passage",9,0,0,0,9
+1517951,1208952,2022-05-25,House,"House Passed",93,0,0,0,93
+1518021,1102934,2021-06-28,House,"House Adopted",96,0,0,0,96
+1518281,1203291,2022-05-11,House,"House Favorable Passage",12,0,0,0,12
+1518281,1205958,2022-05-18,House,"House Passed",74,15,0,0,89
+1518281,1230621,2022-12-13,Senate,"Senate Favorable Passage",9,3,0,0,12
+1518281,1230622,2022-12-13,Senate,"Senate Passed",23,8,0,0,31
+1518694,1203107,2022-05-11,House,"House Favorable Passage",7,4,0,0,11
+1518694,1205959,2022-05-18,House,"House Passed",83,7,0,0,90
+1518703,1111142,2021-11-01,House,"House Favorable Passage",12,0,0,0,12
+1518703,1116325,2021-11-18,House,"House Passed",89,2,0,0,91
+1518703,1212008,2022-06-01,Senate,"Senate Favorable Passage",7,0,0,0,7
+1518703,1212009,2022-06-01,Senate,"Senate Passed",31,1,0,0,32
+1519039,1139431,2022-02-09,House,"House Favorable Passage",8,5,0,0,13
+1519156,1230609,2022-12-13,Senate,"Senate Favorable Passage",5,1,0,0,6
+1519163,1115885,2021-11-10,Senate,"Senate Favorable Passage",5,1,0,0,6
+1519163,1116148,2021-11-16,Senate,"Senate Passed",30,1,0,0,31
+1519163,1230111,2022-11-30,House,"House Favorable Passage",14,0,0,0,14
+1519163,1230188,2022-12-01,House,"House Passed",76,2,0,0,78
+1519326,1204461,2022-05-16,House,"House Favorable Passage",23,1,0,0,24
+1519326,1205960,2022-05-18,House,"House Passed",79,11,0,0,90
+1519326,1211970,2022-06-01,Senate,"Senate Favorable Passage",13,0,0,0,13
+1519326,1211971,2022-06-01,Senate,"Senate Passed",31,1,0,0,32
+1520070,1116207,2021-11-16,House,"House Favorable Passage",12,0,0,0,12
+1520926,1119614,2021-12-15,Senate,"Senate Favorable Passage",5,2,0,0,7
+1520926,1119615,2021-12-15,Senate,"Senate Passed",23,8,0,0,31
+1520926,1161062,2022-03-02,House,"House Favorable Passage",8,5,0,0,13
+1520926,1161063,2022-03-02,House,"House Passed",58,36,0,0,94
+1521050,1116203,2021-11-16,House,"House Favorable Passage",10,0,0,0,10
+1521425,1109389,2021-09-29,Senate,"Senate Favorable Passage",7,0,0,0,7
+1521425,1109621,2021-10-06,Senate,"Senate Passed",32,0,0,0,32
+1521425,1116365,2021-11-23,House,"House Favorable Passage",12,0,0,0,12
+1521425,1117056,2021-12-08,House,"House Passed",89,5,0,0,94
+1521661,1116332,2021-11-18,House,"House Favorable Passage",17,0,0,0,17
+1521835,1117071,2021-12-08,House,"House Favorable Passage",10,0,0,0,10
+1521835,1117072,2021-12-08,House,"House Passed",90,1,0,0,91
+1521843,1109936,2021-10-13,House,"House Favorable Passage",11,0,0,0,11
+1521846,1109934,2021-10-13,House,"House Favorable Passage",11,0,0,0,11
+1521853,1117073,2021-12-08,House,"House Favorable Passage",10,0,0,0,10
+1521859,1177543,2022-03-28,House,"House Favorable Passage",13,0,0,0,13
+1521859,1180412,2022-03-30,House,"House Passed",91,0,0,0,91
+1521933,1229972,2022-11-16,Senate,"Senate Favorable Passage",13,0,0,0,13
+1521933,1230184,2022-11-30,Senate,"Senate Passed",31,0,0,0,31
+1522104,1117052,2021-12-08,House,"House Favorable Passage",11,1,0,0,12
+1522104,1117053,2021-12-08,House,"House Passed",89,2,0,0,91
+1522104,1184576,2022-04-06,Senate,"Senate Favorable Passage",6,0,0,0,6
+1522104,1184577,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1522561,1175592,2022-03-23,House,"House Favorable Passage",13,0,0,0,13
+1522561,1229985,2022-11-16,House,"House Passed",91,0,0,0,91
+1522571,1145267,2022-02-15,House,"House Favorable Passage",11,0,0,0,11
+1522571,1146261,2022-02-16,House,"House Passed",98,1,0,0,99
+1522571,1230624,2022-12-13,Senate,"Senate Favorable Passage",6,0,0,0,6
+1522571,1230625,2022-12-13,Senate,"Senate Passed",31,0,0,0,31
+1522811,1146726,2022-02-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1522811,1205741,2022-05-18,Senate,"Senate Adopted",31,0,0,0,31
+1522828,1108692,2021-09-14,Senate,"Senate Favorable Passage",9,2,0,0,11
+1522828,1108894,2021-09-15,Senate,"Senate Adopted",25,5,0,0,30
+1522834,1203844,2022-05-12,House,"House Favorable Passage",9,0,0,0,9
+1522857,1108691,2021-09-14,Senate,"Senate Favorable Passage",9,2,0,0,11
+1522857,1108887,2021-09-15,Senate,"Senate Adopted",25,5,0,0,30
+1523006,1170042,2022-03-15,Senate,"Senate Favorable Passage",6,0,0,0,6
+1523006,1171183,2022-03-16,Senate,"Senate Passed",29,1,0,0,30
+1523006,1209069,2022-05-25,House,"House Favorable Passage",13,0,0,0,13
+1523006,1213793,2022-06-01,House,"House Passed",92,0,0,0,92
+1523028,1110758,2021-10-27,House,"House Favorable Passage",12,0,0,0,12
+1523035,1138769,2022-02-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1523035,1146173,2022-02-16,Senate,"Senate Passed",33,0,0,0,33
+1523035,1213761,2022-06-01,House,"House Favorable Passage",16,0,0,0,16
+1523035,1213762,2022-06-01,House,"House Passed",87,5,0,0,92
+1523385,1110390,2021-10-20,Senate,"Senate Favorable Passage",6,0,0,0,6
+1523385,1110391,2021-10-20,Senate,"Senate Passed",30,0,0,0,30
+1523385,1116179,2021-11-16,House,"House Favorable Passage",15,0,0,0,15
+1523385,1116317,2021-11-18,House,"House Passed",82,2,0,0,84
+1523429,1229906,2022-11-15,House,"House Favorable Passage",12,0,0,0,12
+1523429,1229986,2022-11-16,House,"House Passed",92,0,0,0,92
+1523572,1115731,2021-11-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1523572,1115804,2021-11-10,Senate,"Senate Passed",33,0,0,0,33
+1523572,1214447,2022-06-01,House,"House Favorable Passage",14,0,0,0,14
+1523572,1214448,2022-06-01,House,"House Passed",92,0,0,0,92
+1523627,1164987,2022-03-08,House,"House Favorable Passage",9,6,0,0,15
+1523627,1205961,2022-05-18,House,"House Passed",68,22,0,0,90
+1523817,1203294,2022-05-11,House,"House Favorable Passage",13,0,0,0,13
+1523817,1209506,2022-05-25,House,"House Passed",95,1,0,0,96
+1523817,1230611,2022-12-13,Senate,"Senate Favorable Passage",6,0,0,0,6
+1523817,1230612,2022-12-13,Senate,"Senate Passed",31,0,0,0,31
+1523822,1137145,2022-02-08,House,"House Favorable Passage",12,0,0,0,12
+1523822,1146779,2022-02-16,House,"House Passed",98,0,0,0,98
+1523822,1209063,2022-05-25,Senate,"Senate Favorable Passage",6,0,0,0,6
+1523822,1209064,2022-05-25,Senate,"Senate Passed",30,0,0,0,30
+1523826,1117232,2021-12-09,House,"House Favorable Passage",10,0,0,0,10
+1523826,1128763,2022-01-26,House,"House Passed",92,1,0,0,93
+1523952,1146529,2022-02-16,House,"House Favorable Passage",12,0,0,0,12
+1523952,1161507,2022-03-02,House,"House Passed",91,0,0,0,91
+1523952,1210670,2022-05-31,Senate,"Senate Favorable Passage",10,2,0,0,12
+1523952,1212014,2022-06-01,Senate,"Senate Passed",25,6,0,0,31
+1524073,1175473,2022-03-23,House,"House Favorable Passage",12,0,0,0,12
+1524073,1180478,2022-03-30,House,"House Passed",90,1,0,0,91
+1524081,1117234,2021-12-09,House,"House Re-referred",8,2,0,0,10
+1524097,1109905,2021-10-13,House,"House Favorable Passage",12,0,0,0,12
+1524097,1128936,2022-01-26,House,"House Adopted",78,15,0,0,93
+1524107,1117233,2021-12-09,House,"House Favorable Passage",11,0,0,0,11
+1524107,1129166,2022-01-26,House,"House Adopted",93,0,0,0,93
+1524107,1230274,2022-12-06,Senate,"Senate Favorable Passage",5,0,0,0,5
+1524107,1230435,2022-12-07,Senate,"Senate Adopted",29,0,0,0,29
+1524132,1184817,2022-04-06,House,"House Favorable Passage",10,2,0,0,12
+1524132,1205983,2022-05-18,House,"House Adopted",51,31,0,0,82
+1524133,1128107,2022-01-25,Senate,"Senate Favorable Passage",7,0,0,0,7
+1524133,1139425,2022-02-09,Senate,"Senate Passed",31,0,0,0,31
+1524133,1230859,2022-12-14,House,"House Favorable Passage",14,0,0,0,14
+1524449,1109388,2021-09-29,House,"House Favorable Passage",11,3,0,0,14
+1524453,1146884,2022-02-16,House,"House Favorable Passage",8,4,0,0,12
+1524453,1175291,2022-03-23,House,"House Passed",75,18,0,0,93
+1524456,1214336,2022-06-01,House,"House Favorable Passage",8,4,0,0,12
+1524456,1229994,2022-11-16,House,"House Passed",73,19,0,0,92
+1524587,1119657,2021-12-15,Senate,"Senate Favorable Passage",13,0,0,0,13
+1524587,1129412,2022-01-26,Senate,"Senate Passed",33,0,0,0,33
+1524587,1187370,2022-04-12,House,"House Favorable Passage",9,0,0,0,9
+1524587,1205977,2022-05-18,House,"House Passed",85,0,0,0,85
+1524730,1213807,2022-06-01,House,"House Favorable Passage",10,3,0,0,13
+1524730,1229987,2022-11-16,House,"House Passed",75,17,0,0,92
+1524745,1229973,2022-11-16,Senate,"Senate Favorable Passage",12,0,0,0,12
+1524745,1229988,2022-11-16,Senate,"Senate Passed",32,0,0,0,32
+1524862,1117044,2021-12-08,House,"House Favorable Passage",12,0,0,0,12
+1524862,1117238,2021-12-09,House,"House Passed",91,0,0,0,91
+1524862,1179832,2022-03-30,Senate,"Senate Favorable Passage",7,0,0,0,7
+1524862,1184494,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1524887,1119632,2021-12-15,Senate,"Senate Favorable Passage",7,0,0,0,7
+1524887,1128853,2022-01-26,Senate,"Senate Passed",33,0,0,0,33
+1524923,1161389,2022-03-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1524923,1161390,2022-03-02,Senate,"Senate Passed",33,0,0,0,33
+1524923,1214408,2022-06-01,House,"House Favorable Passage",14,0,0,0,14
+1524923,1214409,2022-06-01,House,"House Passed",61,31,0,0,92
+1525345,1230055,2022-11-22,Senate,"Senate Favorable Passage",7,0,0,0,7
+1525345,1230627,2022-12-13,Senate,"Senate Passed",31,0,0,0,31
+1525350,1119646,2021-12-15,Senate,"Senate Favorable Passage",7,0,0,0,7
+1525350,1161116,2022-03-02,Senate,"Senate Passed",33,0,0,0,33
+1525350,1229975,2022-11-16,House,"House Favorable Passage",12,0,0,0,12
+1525350,1230091,2022-11-30,House,"House Passed",82,0,0,0,82
+1525368,1170161,2022-03-15,Senate,"Senate Favorable Passage",6,0,0,0,6
+1525368,1171258,2022-03-16,Senate,"Senate Passed",30,0,0,0,30
+1525368,1214326,2022-06-01,House,"House Favorable Passage",12,0,0,0,12
+1525368,1214327,2022-06-01,House,"House Passed",88,2,0,0,90
+1525464,1117065,2021-12-08,House,"House Favorable Passage",13,0,0,0,13
+1525464,1117066,2021-12-08,House,"House Passed",90,1,0,0,91
+1525473,1200455,2022-05-05,House,"House Favorable Passage",8,4,0,0,12
+1525476,1229967,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1525487,1139718,2022-02-09,House,"House Favorable Passage",12,0,0,0,12
+1525487,1146668,2022-02-16,House,"House Passed",97,0,0,0,97
+1525487,1210157,2022-05-27,Senate,"Senate Favorable Passage",11,0,0,0,11
+1525487,1211962,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1526014,1117048,2021-12-08,House,"House Favorable Passage",13,0,0,0,13
+1526014,1128722,2022-01-26,House,"House Passed",93,0,0,0,93
+1526195,1139756,2022-02-09,House,"House Favorable Passage",13,0,0,0,13
+1526203,1117239,2021-12-09,House,"House Favorable Passage",11,0,0,0,11
+1526203,1128882,2022-01-26,House,"House Adopted",93,0,0,0,93
+1526203,1230273,2022-12-06,Senate,"Senate Favorable Passage",5,0,0,0,5
+1526203,1230429,2022-12-07,Senate,"Senate Adopted",29,0,0,0,29
+1526223,1109887,2021-10-13,House,"House Adopted",95,0,0,0,95
+1526723,1117079,2021-12-08,House,"House Favorable Passage",11,5,0,0,16
+1526723,1117192,2021-12-09,House,"House Passed",68,22,0,0,90
+1526723,1230599,2022-12-13,Senate,"Senate Favorable Passage",5,1,0,0,6
+1526723,1230600,2022-12-13,Senate,"Senate Passed",24,7,0,0,31
+1526740,1230097,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1526740,1230098,2022-11-30,House,"House Passed",77,5,0,0,82
+1526768,1230106,2022-11-30,House,"House Favorable Passage",10,1,0,0,11
+1526831,1205661,2022-05-18,Senate,"Senate Favorable Passage",12,0,0,0,12
+1526831,1212187,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1526854,1119604,2021-12-15,Senate,"Senate Favorable Passage",13,0,0,0,13
+1526854,1128825,2022-01-26,Senate,"Senate Passed",33,0,0,0,33
+1526854,1175572,2022-03-23,House,"House Favorable Passage",12,0,0,0,12
+1526854,1180268,2022-03-30,House,"House Passed",91,0,0,0,91
+1526983,1116880,2021-12-07,Senate,"Senate Favorable Passage",5,1,0,0,6
+1526983,1230160,2022-11-30,Senate,"Senate Adopted",25,6,0,0,31
+1527564,1230086,2022-11-30,House,"House Favorable Passage",10,1,0,0,11
+1527564,1230087,2022-11-30,House,"House Passed",68,14,0,0,82
+1527579,1205758,2022-05-18,House,"House Re-referred",10,1,0,0,11
+1527584,1230092,2022-11-30,House,"House Favorable Passage",10,0,0,0,10
+1527715,1209161,2022-05-25,House,"House Favorable Passage",8,5,0,0,13
+1527715,1210868,2022-05-31,House,"House Re-referred",12,0,0,0,12
+1527738,1116272,2021-11-17,House,"House Favorable Passage",7,5,0,0,12
+1527738,1116330,2021-11-18,House,"House Adopted",54,27,0,0,81
+1527988,1173153,2022-03-21,House,"House Favorable Passage",9,0,0,0,9
+1527988,1209043,2022-05-25,House,"House Passed",96,0,0,0,96
+1528021,1116171,2021-11-16,Senate,"Senate Favorable Passage",5,2,0,0,7
+1528021,1116172,2021-11-16,Senate,"Senate Passed",24,7,0,0,31
+1528021,1116249,2021-11-17,House,"House Favorable Passage",8,5,0,0,13
+1528021,1116318,2021-11-18,House,"House Passed",55,37,0,0,92
+1528037,1116162,2021-11-16,House,"House Favorable Passage",10,0,0,0,10
+1528543,1117049,2021-12-08,House,"House Favorable Passage",10,0,0,0,10
+1528567,1180497,2022-03-30,House,"House Favorable Passage",12,0,0,0,12
+1528567,1184904,2022-04-06,House,"House Passed",95,1,0,0,96
+1528678,1180087,2022-03-30,Senate,"Senate Favorable Passage",7,0,0,0,7
+1528678,1184849,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1528678,1230186,2022-12-01,House,"House Favorable Passage",11,0,0,0,11
+1528678,1230187,2022-12-01,House,"House Passed",77,1,0,0,78
+1532548,1175751,2022-03-23,House,"House Favorable Passage",14,2,0,0,16
+1532548,1180360,2022-03-30,House,"House Passed",84,7,0,0,91
+1532759,1117032,2021-12-08,Senate,"Senate Favorable Passage",7,0,0,0,7
+1532759,1119591,2021-12-15,Senate,"Senate Passed",26,5,0,0,31
+1532841,1116327,2021-11-18,House,"House Favorable Passage",14,0,0,0,14
+1532841,1116328,2021-11-18,House,"House Adopted",78,0,0,0,78
+1532884,1184594,2022-04-06,House,"House Favorable Passage",11,2,0,0,13
+1532884,1214469,2022-06-01,House,"House Passed",60,27,0,0,87
+1532897,1161111,2022-03-02,House,"House Favorable Passage",12,1,0,0,13
+1532897,1175901,2022-03-23,House,"House Passed",82,13,0,0,95
+1532897,1230610,2022-12-13,Senate,"Senate Favorable Passage",6,0,0,0,6
+1533743,1180193,2022-03-30,Senate,"Senate Favorable Passage",6,1,0,0,7
+1533743,1180194,2022-03-30,Senate,"Senate Passed",32,1,0,0,33
+1533743,1213797,2022-06-01,House,"House Favorable Passage",12,0,0,0,12
+1533743,1213798,2022-06-01,House,"House Passed",91,1,0,0,92
+1533750,1209081,2022-05-25,House,"House Favorable Passage",12,1,0,0,13
+1533750,1213602,2022-06-01,House,"House Passed",64,25,0,0,89
+1533750,1213603,2022-06-01,House,"House Passed",56,29,0,0,85
+1533750,1213604,2022-06-01,House,"House Passed",51,35,0,0,86
+1534063,1158463,2022-03-01,Senate,"Senate Favorable Passage",7,0,0,0,7
+1534063,1179894,2022-03-30,Senate,"Senate Adopted",33,0,0,0,33
+1534774,1167159,2022-03-09,House,"House Favorable Passage",13,0,0,0,13
+1535021,1212022,2022-06-01,Senate,"Senate Favorable Passage",7,0,0,0,7
+1535021,1212023,2022-06-01,Senate,"Senate Passed",30,2,0,0,32
+1535055,1209071,2022-05-25,House,"House Favorable Passage",13,0,0,0,13
+1535055,1213632,2022-06-01,House,"House Passed",82,10,0,0,92
+1537183,1209468,2022-05-25,House,"House Favorable Passage",14,0,0,0,14
+1537183,1214460,2022-06-01,House,"House Passed",89,2,0,0,91
+1537183,1230588,2022-12-13,Senate,"Senate Favorable Passage",6,0,0,0,6
+1537183,1230589,2022-12-13,Senate,"Senate Passed",30,1,0,0,31
+1537214,1139692,2022-02-09,House,"House Favorable Passage",13,0,0,0,13
+1537225,1177570,2022-03-28,House,"House Favorable Passage",13,0,0,0,13
+1537225,1184871,2022-04-06,House,"House Passed",95,1,0,0,96
+1537241,1229978,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1537253,1230054,2022-11-22,House,"House Favorable Passage",7,3,0,0,10
+1537253,1230093,2022-11-30,House,"House Passed",58,24,0,0,82
+1537663,1117033,2021-12-08,Senate,"Senate Adopted",32,0,0,0,32
+1537675,1180913,2022-03-31,House,"House Favorable Passage",7,0,0,0,7
+1537675,1184445,2022-04-06,House,"House Passed",96,0,0,0,96
+1537675,1230357,2022-12-07,Senate,"Senate Favorable Passage",5,1,0,0,6
+1537675,1230358,2022-12-07,Senate,"Senate Passed",22,7,0,0,29
+1537815,1183353,2022-04-05,Senate,"Senate Favorable Passage",13,0,0,0,13
+1537815,1184392,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1537815,1213775,2022-06-01,House,"House Favorable Passage",10,0,0,0,10
+1537815,1213776,2022-06-01,House,"House Passed",92,0,0,0,92
+1537847,1175384,2022-03-23,House,"House Favorable Passage",13,0,0,0,13
+1537847,1175385,2022-03-23,House,"House Passed",92,1,0,0,93
+1537847,1230353,2022-12-07,Senate,"Senate Passed",29,0,0,0,29
+1537847,1230436,2022-12-07,Senate,"Senate Favorable Passage",7,0,0,0,7
+1538359,1205892,2022-05-18,House,"House Re-referred",9,0,0,0,9
+1538371,1209447,2022-05-25,House,"House Favorable Passage",14,0,0,0,14
+1538371,1214458,2022-06-01,House,"House Passed",90,0,0,0,90
+1541471,1161317,2022-03-02,House,"House Favorable Passage",13,0,0,0,13
+1541471,1167186,2022-03-09,House,"House Passed",96,0,0,0,96
+1541471,1212053,2022-06-01,Senate,"Senate Favorable Passage",6,0,0,0,6
+1541471,1212054,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1541475,1146413,2022-02-16,House,"House Favorable Passage",12,0,0,0,12
+1541484,1175606,2022-03-23,House,"House Favorable Passage",13,3,0,0,16
+1541484,1180068,2022-03-30,House,"House Passed",61,29,0,0,90
+1541490,1209104,2022-05-25,House,"House Favorable Passage",11,0,0,0,11
+1541494,1175454,2022-03-23,House,"House Favorable Passage",16,0,0,0,16
+1541494,1180493,2022-03-30,House,"House Passed",91,0,0,0,91
+1541494,1210669,2022-05-31,Senate,"Senate Favorable Passage",7,0,0,0,7
+1541494,1212015,2022-06-01,Senate,"Senate Passed",31,0,0,0,31
+1541499,1146457,2022-02-16,House,"House Favorable Passage",12,0,0,0,12
+1542417,1180326,2022-03-30,House,"House Favorable Passage",12,0,0,0,12
+1542492,1175081,2022-03-23,Senate,"Senate Favorable Passage",7,0,0,0,7
+1542492,1205947,2022-05-18,Senate,"Senate Passed",31,0,0,0,31
+1542492,1230200,2022-12-01,House,"House Favorable Passage",11,0,0,0,11
+1542492,1230201,2022-12-01,House,"House Passed",75,3,0,0,78
+1542541,1139765,2022-02-09,House,"House Favorable Passage",13,0,0,0,13
+1542566,1230126,2022-11-30,House,"House Favorable Passage",10,0,0,0,10
+1542615,1230116,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1552414,1180175,2022-03-30,House,"House Favorable Passage",9,0,0,0,9
+1552414,1184418,2022-04-06,House,"House Passed",96,0,0,0,96
+1552708,1144646,2022-02-15,Senate,"Senate Favorable Passage",5,2,0,0,7
+1552708,1161085,2022-03-02,Senate,"Senate Adopted",25,8,0,0,33
+1553594,1161400,2022-03-02,House,"House Favorable Passage",13,0,0,0,13
+1553594,1167150,2022-03-09,House,"House Passed",96,0,0,0,96
+1553594,1230604,2022-12-13,Senate,"Senate Favorable Passage",6,0,0,0,6
+1561392,1230129,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1561589,1230130,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1569949,1171263,2022-03-16,Senate,"Senate Favorable Passage",13,0,0,0,13
+1569949,1171264,2022-03-16,Senate,"Senate Passed",30,0,0,0,30
+1569949,1205779,2022-05-18,House,"House Favorable Passage",9,0,0,0,9
+1570023,1229971,2022-11-16,Senate,"Senate Favorable Passage",12,0,0,0,12
+1570023,1229989,2022-11-16,Senate,"Senate Passed",32,0,0,0,32
+1570092,1171448,2022-03-16,Senate,"Senate Favorable Passage",13,0,0,0,13
+1570092,1184595,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1570092,1229968,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1570246,1203156,2022-05-11,House,"House Favorable Passage",14,0,0,0,14
+1570246,1205923,2022-05-18,House,"House Passed",89,0,0,0,89
+1570305,1167146,2022-03-09,House,"House Favorable Passage",12,0,0,0,12
+1570305,1176041,2022-03-23,House,"House Passed",93,1,0,0,94
+1570305,1211965,2022-06-01,Senate,"Senate Favorable Passage",7,0,0,0,7
+1570305,1211966,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1570331,1203113,2022-05-11,House,"House Favorable Passage",11,0,0,0,11
+1570331,1205962,2022-05-18,House,"House Passed",88,1,0,0,89
+1570331,1230134,2022-11-30,Senate,"Senate Favorable Passage",5,2,0,0,7
+1570331,1230135,2022-11-30,Senate,"Senate Passed",24,7,0,0,31
+1570414,1229980,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1573341,1129007,2022-01-26,House,"House Adopted",88,0,0,0,88
+1578573,1230120,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1578665,1167142,2022-03-09,House,"House Favorable Passage",13,0,0,0,13
+1578760,1209077,2022-05-25,House,"House Favorable Passage",13,0,0,0,13
+1578760,1213805,2022-06-01,House,"House Passed",90,0,0,0,90
+1578856,1180501,2022-03-30,House,"House Favorable Passage",12,0,0,0,12
+1578856,1184832,2022-04-06,House,"House Passed",96,0,0,0,96
+1578954,1205780,2022-05-18,House,"House Favorable Passage",12,0,0,0,12
+1578954,1209084,2022-05-25,House,"House Passed",95,0,0,0,95
+1580170,1230161,2022-11-30,Senate,"Senate Favorable Passage",6,1,0,0,7
+1580170,1230162,2022-11-30,Senate,"Senate Passed",29,2,0,0,31
+1580170,1230741,2022-12-14,House,"House Favorable Passage",13,0,0,0,13
+1580170,1230742,2022-12-14,House,"House Passed",79,9,0,0,88
+1580471,1183231,2022-04-05,Senate,"Senate Favorable Passage",6,0,0,0,6
+1580471,1184772,2022-04-06,Senate,"Senate Passed",32,0,0,0,32
+1580471,1214405,2022-06-01,House,"House Favorable Passage",8,0,0,0,8
+1580471,1214406,2022-06-01,House,"House Passed",92,0,0,0,92
+1585406,1203003,2022-05-11,House,"House Favorable Passage",9,4,0,0,13
+1585468,1187108,2022-04-12,House,"House Favorable Passage",12,2,0,0,14
+1585468,1205963,2022-05-18,House,"House Passed",70,19,0,0,89
+1585531,1171270,2022-03-16,Senate,"Senate Favorable Passage",4,2,0,0,6
+1585531,1171271,2022-03-16,Senate,"Senate Adopted",22,8,0,0,30
+1585561,1171395,2022-03-16,Senate,"Senate Favorable Passage",13,0,0,0,13
+1585561,1180000,2022-03-30,Senate,"Senate Passed",33,0,0,0,33
+1585561,1229979,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1586397,1138768,2022-02-09,Senate,"Senate Adopted",31,0,0,0,31
+1586526,1205492,2022-05-05,House,"House Favorable Passage",12,0,0,0,12
+1586526,1205936,2022-05-18,House,"House Passed",84,1,0,0,85
+1586616,1138776,2022-02-09,Senate,"Senate Adopted",31,0,0,0,31
+1590972,1205784,2022-05-18,House,"House Favorable Passage",9,0,0,0,9
+1590972,1209088,2022-05-25,House,"House Passed",95,0,0,0,95
+1591109,1208570,2022-05-24,Senate,"Senate Favorable Passage",5,1,0,0,6
+1591109,1209030,2022-05-25,Senate,"Senate Passed",24,6,0,0,30
+1591122,1230199,2022-12-01,House,"House Favorable Passage",11,0,0,0,11
+1591122,1230614,2022-12-13,House,"House Passed",92,0,0,0,92
+1591901,1146811,2022-02-16,House,"House Adopted",99,0,0,0,99
+1591987,1209127,2022-05-25,House,"House Favorable Passage",9,0,0,0,9
+1591987,1214459,2022-06-01,House,"House Passed",90,0,0,0,90
+1591987,1230566,2022-12-12,Senate,"Senate Favorable Passage",11,0,0,0,11
+1592073,1230127,2022-11-30,House,"House Favorable Passage",9,0,0,0,9
+1592158,1146807,2022-02-16,House,"House Adopted",34,0,0,0,34
+1595442,1205782,2022-05-18,House,"House Favorable Passage",10,0,0,0,10
+1595442,1214457,2022-06-01,House,"House Passed",90,0,0,0,90
+1595680,1229961,2022-11-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1595680,1229990,2022-11-16,Senate,"Senate Passed",32,0,0,0,32
+1598879,1175830,2022-03-23,House,"House Re-referred",10,3,0,0,13
+1598879,1180007,2022-03-30,House,"House Favorable Passage",21,2,0,0,23
+1598879,1180008,2022-03-30,House,"House Passed",80,10,0,0,90
+1598879,1209072,2022-05-25,Senate,"Senate Favorable Passage",5,1,0,0,6
+1598879,1209073,2022-05-25,Senate,"Senate Passed",24,6,0,0,30
+1598958,1175326,2022-03-23,House,"House Favorable Passage",10,0,0,0,10
+1599037,1209607,2022-05-26,House,"House Favorable Passage",10,0,0,0,10
+1600000,1230157,2022-11-30,Senate,"Senate Favorable Passage",12,0,0,0,12
+1600000,1230158,2022-11-30,Senate,"Senate Passed",31,0,0,0,31
+1600000,1230881,2022-12-14,House,"House Favorable Passage",10,2,0,0,12
+1600000,1230882,2022-12-14,House,"House Passed",68,22,0,0,90
+1600033,1208925,2022-05-25,Senate,"Senate Favorable Passage",6,0,0,0,6
+1600063,1207561,2022-05-23,House,"House Favorable Passage",8,2,0,0,10
+1600063,1213659,2022-06-01,House,"House Adopted",58,29,0,0,87
+1601267,1160919,2022-03-02,House,"House Adopted",90,0,0,0,90
+1601279,1160920,2022-03-02,Senate,"Senate Adopted",33,0,0,0,33
+1601294,1230607,2022-12-13,Senate,"Senate Favorable Passage",10,2,0,0,12
+1601294,1230608,2022-12-13,Senate,"Senate Adopted",25,6,0,0,31
+1602297,1175455,2022-03-23,House,"House Favorable Passage",10,0,0,0,10
+1604333,1205789,2022-05-18,House,"House Favorable Passage",11,0,0,0,11
+1604333,1209070,2022-05-25,House,"House Passed",93,1,0,0,94
+1604368,1230062,2022-11-22,House,"House Favorable Passage",10,0,0,0,10
+1604368,1230131,2022-11-30,House,"House Passed",55,26,0,0,81
+1604386,1209101,2022-05-25,House,"House Favorable Passage",11,0,0,0,11
+1604936,1167246,2022-03-09,House,"House Adopted",90,0,0,0,90
+1605012,1167245,2022-03-09,House,"House Adopted",58,2,0,0,60
+1608017,1175422,2022-03-23,House,"House Favorable Passage",22,0,0,0,22
+1608017,1175423,2022-03-23,House,"House Passed",94,0,0,0,94
+1608017,1180005,2022-03-30,Senate,"Senate Favorable Passage",12,0,0,0,12
+1608017,1180006,2022-03-30,Senate,"Senate Passed",33,0,0,0,33
+1608170,1171121,2022-03-16,Senate,"Senate Adopted",30,0,0,0,30
+1609624,1229977,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1609925,1213886,2022-06-01,House,"House Favorable Passage",7,0,0,0,7
+1609925,1213887,2022-06-01,House,"House Adopted",89,0,0,0,89
+1611458,1203896,2022-05-12,House,"House Favorable Passage",7,2,0,0,9
+1611665,1204053,2022-05-12,House,"House Favorable Passage",7,2,0,0,9
+1611665,1209042,2022-05-25,House,"House Adopted",63,33,0,0,96
+1611665,1211973,2022-06-01,Senate,"Senate Adopted",25,7,0,0,32
+1611789,1205937,2022-05-18,House,"House Favorable Passage",12,0,0,0,12
+1611789,1209449,2022-05-25,House,"House Passed",93,1,0,0,94
+1611950,1209099,2022-05-25,Senate,"Senate Favorable Passage",5,1,0,0,6
+1611950,1209100,2022-05-25,Senate,"Senate Adopted",24,6,0,0,30
+1612141,1209845,2022-05-26,House,"House Re-referred",11,0,0,0,11
+1612141,1230112,2022-11-30,House,"House Favorable Passage",12,1,0,0,13
+1615387,1212048,2022-06-01,Senate,"Senate Favorable Passage",12,0,0,0,12
+1615387,1212049,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1616232,1208971,2022-05-25,House,"House Favorable Passage",11,0,0,0,11
+1619722,1230421,2022-12-07,Senate,"Senate Favorable Passage",7,0,0,0,7
+1619937,1213811,2022-06-01,House,"House Favorable Passage",12,1,0,0,13
+1619937,1213812,2022-06-01,House,"House Passed",65,26,0,0,91
+1619939,1230619,2022-12-13,House,"House Favorable Passage",16,0,0,0,16
+1619939,1230620,2022-12-13,House,"House Passed",90,2,0,0,92
+1620071,1230124,2022-11-30,House,"House Favorable Passage",9,0,0,0,9
+1620763,1230085,2022-11-30,House,"House Favorable Passage",9,2,0,0,11
+1620763,1230618,2022-12-13,House,"House Passed",67,25,0,0,92
+1621005,1229953,2022-11-16,Senate,"Senate Favorable Passage",7,0,0,0,7
+1621005,1229992,2022-11-16,Senate,"Senate Passed",32,0,0,0,32
+1621042,1229969,2022-11-16,Senate,"Senate Favorable Passage",6,0,0,0,6
+1621042,1229993,2022-11-16,Senate,"Senate Passed",32,0,0,0,32
+1621061,1209051,2022-05-25,House,"House Favorable Passage",8,3,0,0,11
+1621061,1209052,2022-05-25,House,"House Adopted",68,28,0,0,96
+1621061,1212024,2022-06-01,Senate,"Senate Favorable Passage",6,0,0,0,6
+1621061,1212025,2022-06-01,Senate,"Senate Adopted",32,0,0,0,32
+1621369,1205809,2022-05-18,House,"House Adopted",28,0,0,0,28
+1622432,1230847,2022-12-14,House,"House Favorable Passage",16,1,0,0,17
+1622439,1229976,2022-11-16,House,"House Favorable Passage",11,0,0,0,11
+1622447,1212020,2022-06-01,Senate,"Senate Passed",32,0,0,0,32
+1622447,1213621,2022-06-01,House,"House Favorable Passage",24,3,0,0,27
+1622447,1213622,2022-06-01,House,"House Passed",84,8,0,0,92
+1622455,1209027,2022-05-25,House,"House Adopted",92,1,0,0,93
+1623008,1230419,2022-12-07,Senate,"Senate Favorable Passage",7,0,0,0,7
+1623008,1230420,2022-12-07,Senate,"Senate Passed",29,0,0,0,29
+1623477,1212016,2022-06-01,Senate,"Senate Adopted",24,8,0,0,32
+1623477,1213832,2022-06-01,House,"House Adopted",60,29,0,0,89
+1623939,1214466,2022-06-07,Senate,"Senate Adopted",6,0,0,0,6
+1623966,1230117,2022-11-30,House,"House Favorable Passage",8,0,0,0,8
+1623967,1230119,2022-11-30,House,"House Favorable Passage",8,0,0,0,8
+1627211,1230122,2022-11-30,House,"House Favorable Passage",9,0,0,0,9
+1628403,1230121,2022-11-30,House,"House Favorable Passage",8,0,0,0,8
+1628737,1230123,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1631515,1230125,2022-11-30,House,"House Favorable Passage",8,0,0,0,8
+1631519,1230115,2022-11-30,House,"House Favorable Passage",8,0,0,0,8
+1631779,1230185,2022-12-01,House,"House Favorable Passage",11,0,0,0,11
+1631924,1230118,2022-11-30,House,"House Favorable Passage",11,0,0,0,11
+1632014,1230275,2022-12-06,House,"House Favorable Passage",14,0,0,0,14
+1633481,1229954,2022-11-16,Senate,"Senate Adopted",31,0,0,0,31
+1633494,1229955,2022-11-16,Senate,"Senate Adopted",7,0,0,0,7
+1633518,1230013,2022-11-16,Senate,"Senate Adopted",31,0,0,0,31
+1633531,1229995,2022-11-16,House,"House Adopted",29,0,0,0,29
+1633687,1230202,2022-12-01,House,"House Favorable Passage",11,0,0,0,11
+1633687,1230623,2022-12-13,House,"House Adopted",92,0,0,0,92
+1633984,1230565,2022-12-12,House,"House Favorable Passage",7,5,0,0,12
+1634373,1230182,2022-11-30,Senate,"Senate Adopted",30,0,0,0,30
+1638547,1230615,2022-12-13,House,"House Adopted",88,0,0,0,88

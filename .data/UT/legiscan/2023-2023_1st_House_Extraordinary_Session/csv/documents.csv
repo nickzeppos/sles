@@ -1,0 +1,12 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1784070,2850527,text,76165,application/pdf,Introduced,https://legiscan.com/UT/text/HR0901/id/2850527,https://le.utah.gov/~2023Y1/bills/hbillint/HR0901S02.pdf
+1784070,2850528,text,83541,application/pdf,Amended,https://legiscan.com/UT/text/HR0901/id/2850528,https://le.utah.gov/~2023Y1/bills/hbillamd/HR0901S02.pdf
+1784070,2850908,text,60848,application/pdf,Enrolled,https://legiscan.com/UT/text/HR0901/id/2850908,https://le.utah.gov/~2023Y1/bills/hbillenr/HR0901.pdf
+1784070,188249,amendment,70104,application/pdf,"House Floor Amendment 1",https://legiscan.com/UT/amendment/HR0901/id/188249,https://le.utah.gov/~2023Y1/pamend/hr0901s02.hfa.01.pdf
+1784070,188250,amendment,65590,application/pdf,"House Floor Amendment 2",https://legiscan.com/UT/amendment/HR0901/id/188250,https://le.utah.gov/~2023Y1/pamend/hr0901s02.hfvp.02.pdf
+1784070,188251,amendment,64850,application/pdf,"House Floor Amendment 3",https://legiscan.com/UT/amendment/HR0901/id/188251,https://le.utah.gov/~2023Y1/pamend/hr0901s02.hfvf.03.pdf
+1784070,393923,supplement,86859,application/pdf,Analysis,https://legiscan.com/UT/supplement/HR0901/id/393923,https://le.utah.gov/~2023Y1/bills/hbillint/HR0901S01_ComparedWith_HR0901.pdf
+1784070,393921,supplement,1390832,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HR0901/id/393921,https://le.utah.gov/lfa/fnotes/2023Y1/HR0901.fn.pdf
+1784070,393922,supplement,1390844,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HR0901/id/393922,https://le.utah.gov/lfa/fnotes/2023Y1/HR0901S01.fn.pdf
+1784070,393924,supplement,1390844,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HR0901/id/393924,https://le.utah.gov/lfa/fnotes/2023Y1/HR0901S02.fn.pdf
+1784070,393925,supplement,86487,application/pdf,Analysis,https://legiscan.com/UT/supplement/HR0901/id/393925,https://le.utah.gov/~2023Y1/bills/hbillint/HR0901S02_ComparedWith_HR0901S01.pdf

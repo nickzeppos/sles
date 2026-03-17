@@ -1,0 +1,231 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1765511,1330454,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,0,0,0,18
+1765511,1330455,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765511,1332041,2023-05-24,House,"House: THIRD READING",98,2,0,1,101
+1765511,1334196,2023-05-26,Senate,"Senate: THIRD READING",42,2,0,4,48
+1765512,1330410,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765512,1332699,2023-05-24,House,"House: THIRD READING",101,0,0,0,101
+1765512,1334099,2023-05-26,Senate,"Senate: THIRD READING",44,0,0,4,48
+1765513,1330483,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,2,0,0,20
+1765513,1330484,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",32,0,0,0,32
+1765513,1332199,2023-05-24,House,"House: THIRD READING",91,0,0,10,101
+1765513,1334289,2023-05-26,Senate,"Senate: THIRD READING",43,2,0,3,48
+1765514,1330447,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765514,1330955,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765514,1332378,2023-05-24,House,"House: THIRD READING",84,12,0,5,101
+1765514,1334039,2023-05-26,Senate,"Senate: THIRD READING",43,2,0,3,48
+1765518,1330520,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,1,0,0,19
+1765518,1330521,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765518,1332366,2023-05-24,House,"House: THIRD READING",95,4,0,2,101
+1765518,1334335,2023-05-26,Senate,"Senate: THIRD READING",37,7,0,4,48
+1765519,1330470,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",16,5,0,0,21
+1765519,1330471,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",32,0,0,0,32
+1765519,1332146,2023-05-24,House,"House: THIRD READING",97,0,2,2,101
+1765519,1334269,2023-05-26,Senate,"Senate: THIRD READING",33,11,0,4,48
+1765520,1330451,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,1,0,0,19
+1765520,1330452,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",32,1,0,0,33
+1765520,1332058,2023-05-24,House,"House: THIRD READING",57,41,0,3,101
+1765520,1332059,2023-05-24,House,"House: RECONSIDER EMERGENCY",67,12,0,22,101
+1765520,1332060,2023-05-24,House,"House: EMERGENCY",62,35,0,4,101
+1765520,1334170,2023-05-26,Senate,"Senate: THIRD READING",40,4,0,4,48
+1765521,1330491,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,1,0,0,22
+1765521,1330492,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",33,2,0,0,35
+1765521,1332275,2023-05-24,House,"House: THIRD READING",82,13,0,6,101
+1765521,1334021,2023-05-26,Senate,"Senate: THIRD READING",40,4,0,4,48
+1765521,1342651,2023-06-12,House,"House: VETO OVERRIDE WITHOUT EMER",74,11,0,16,101
+1765521,1351246,2023-07-24,Senate,"Senate: VETO OVERRIDE NO EMERGENCY",34,7,0,7,48
+1765522,1330297,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",16,5,0,0,21
+1765522,1330490,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",31,5,0,0,36
+1765522,1332213,2023-05-24,House,"House: THIRD READING",80,21,0,0,101
+1765522,1334019,2023-05-26,Senate,"Senate: THIRD READING",35,10,0,3,48
+1765523,1330518,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765523,1331249,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765523,1332382,2023-05-24,House,"House: THIRD READING",93,4,0,4,101
+1765523,1334332,2023-05-26,Senate,"Senate: THIRD READING",42,3,0,3,48
+1765524,1330290,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",15,6,0,0,21
+1765524,1330566,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",29,5,0,0,34
+1765524,1332547,2023-05-24,House,"House: THIRD READING",84,15,0,2,101
+1765524,1334074,2023-05-26,Senate,"Senate: THIRD READING",39,6,0,3,48
+1765528,1330463,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,2,0,0,20
+1765528,1330464,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",32,3,0,0,35
+1765528,1332115,2023-05-24,House,"House: THIRD READING",88,9,0,4,101
+1765528,1334246,2023-05-26,Senate,"Senate: THIRD READING",27,16,0,5,48
+1765529,1330529,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",19,0,0,0,19
+1765529,1330530,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765529,1331725,2023-05-24,House,"House: THIRD READING",98,1,0,2,101
+1765529,1334360,2023-05-26,Senate,"Senate: THIRD READING",41,3,0,4,48
+1765530,1330281,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765530,1330382,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",37,0,0,0,37
+1765530,1332171,2023-05-24,House,"House: THIRD READING",97,0,0,4,101
+1765530,1334310,2023-05-26,Senate,"Senate: THIRD READING",45,0,0,3,48
+1765531,1330523,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765531,1332435,2023-05-24,House,"House: THIRD READING",95,4,0,2,101
+1765531,1334040,2023-05-26,Senate,"Senate: appearance before certain joint",45,0,0,3,48
+1765532,1330387,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765532,1330560,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",19,0,0,0,19
+1765532,1331751,2023-05-24,House,"House: THIRD READING",96,2,0,3,101
+1765532,1334379,2023-05-26,Senate,"Senate: THIRD READING",38,6,0,4,48
+1765533,1330434,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765533,1331988,2023-05-24,House,"House: THIRD READING",97,3,0,1,101
+1765533,1334180,2023-05-26,Senate,"Senate: Relief and Imipacts Revolving",45,0,0,3,48
+1765534,1330461,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765534,1330462,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765534,1332085,2023-05-24,Senate,"Senate: THIRD READING",44,0,0,4,48
+1765534,1334268,2023-05-26,House,"House: THIRD READING",93,1,0,7,101
+1765536,1330569,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765536,1330570,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765536,1332521,2023-05-24,Senate,"Senate: THIRD READING",39,5,0,4,48
+1765536,1334066,2023-05-26,House,"House: THIRD READING",84,10,0,7,101
+1765537,1330526,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765537,1332373,2023-05-24,House,"House: THIRD READING",86,7,0,8,101
+1765537,1334345,2023-05-26,Senate,"Senate: THIRD READING",45,0,0,3,48
+1765538,1330472,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",17,1,0,0,18
+1765538,1330473,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765538,1332135,2023-05-24,House,"House: THIRD READING",92,4,0,5,101
+1765538,1334371,2023-05-26,Senate,"Senate: THIRD READING",41,3,0,4,48
+1765539,1330535,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765539,1332450,2023-05-24,House,"House: THIRD READING",94,0,0,7,101
+1765539,1334058,2023-05-26,Senate,"Senate: THIRD READING",45,0,0,3,48
+1765540,1330356,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765540,1330357,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",33,2,0,0,35
+1765540,1332322,2023-05-24,House,"House: THIRD READING",52,42,0,7,101
+1765540,1332323,2023-05-24,House,"House: EMERGENCY",51,36,0,14,101
+1765540,1334023,2023-05-26,Senate,"Senate: THIRD READING",42,2,0,4,48
+1765542,1330288,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765542,1330468,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765542,1332112,2023-05-24,Senate,"Senate: THIRD READING",37,8,0,3,48
+1765542,1334254,2023-05-26,House,"House: THIRD READING",83,7,0,11,101
+1765543,1330448,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765543,1330449,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",28,5,0,0,33
+1765543,1332042,2023-05-24,Senate,"Senate: THIRD READING",35,9,0,4,48
+1765544,1330524,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,2,0,0,20
+1765544,1330525,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",30,5,0,0,35
+1765544,1332393,2023-05-24,House,"House: THIRD READING",51,45,0,5,101
+1765544,1334041,2023-05-26,Senate,"Senate: THIRD READING",15,29,0,4,48
+1765545,1330498,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",17,2,1,0,20
+1765545,1330499,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",33,2,0,0,35
+1765545,1332182,2023-05-24,House,"House: THIRD READING",72,26,0,3,101
+1765545,1334301,2023-05-26,Senate,"Senate: THIRD READING",25,18,1,4,48
+1765546,1330487,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",19,0,0,0,19
+1765546,1330488,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765546,1332251,2023-05-24,House,"House: THIRD READING",99,0,0,2,101
+1765546,1334305,2023-05-26,Senate,"Senate: THIRD READING",42,2,0,4,48
+1765548,1330532,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",14,6,0,0,20
+1765548,1330533,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",27,6,0,0,33
+1765548,1332476,2023-05-24,House,"House: THIRD READING",77,20,0,4,101
+1765548,1334072,2023-05-26,Senate,"Senate: THIRD READING",36,9,0,3,48
+1765549,1330450,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",30,1,0,0,31
+1765549,1330974,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",19,1,0,0,20
+1765549,1332027,2023-05-24,House,"House: THIRD READING",89,5,0,7,101
+1765549,1334228,2023-05-26,Senate,"Senate: THIRD READING",40,5,0,3,48
+1765551,1330435,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,2,0,0,20
+1765551,1330436,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",29,7,0,0,36
+1765551,1331975,2023-05-24,Senate,"Senate: THIRD READING",41,4,0,3,48
+1765551,1334148,2023-05-26,House,"House: THIRD READING",60,36,0,5,101
+1765551,1334149,2023-05-26,House,"House: EMERGENCY",64,33,0,4,101
+1765551,1334427,2023-05-26,House,"House: RECONSIDER EMERGENCY",55,17,0,29,101
+1765553,1330286,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765553,1330547,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765553,1332469,2023-05-24,Senate,"Senate: THIRD READING",45,0,0,3,48
+1765553,1334359,2023-05-26,House,"House: THIRD READING",93,0,0,8,101
+1765554,1330478,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",25,8,0,0,33
+1765554,1331077,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",12,7,0,0,19
+1765554,1332140,2023-05-24,House,"House: THIRD READING",81,20,0,0,101
+1765554,1334242,2023-05-26,Senate,"Senate: THIRD READING",30,14,0,4,48
+1765555,1330459,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,1,0,0,21
+1765555,1330460,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",33,2,0,0,35
+1765555,1331747,2023-05-24,Senate,"Senate: THIRD READING",39,6,0,3,48
+1765555,1334077,2023-05-26,House,"House: THIRD READING",88,8,0,5,101
+1765555,1350979,2023-07-31,House,"House: VETO OVERRIDE WITHOUT EMER",72,16,0,13,101
+1765555,1351245,2023-07-24,Senate,"Senate: VETO OVERRIDE NO EMERGENCY",34,7,0,7,48
+1765556,1330503,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765556,1330504,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765556,1332201,2023-05-24,Senate,"Senate: THIRD READING",40,4,0,4,48
+1765556,1334308,2023-05-26,House,"House: THIRD READING",94,0,0,7,101
+1765558,1330272,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765560,1330485,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,1,0,0,19
+1765560,1331127,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765560,1332178,2023-05-24,Senate,"Senate: THIRD READING",41,3,0,4,48
+1765560,1334324,2023-05-26,House,"House: THIRD READING",93,0,0,8,101
+1765561,1330466,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,1,0,0,21
+1765561,1330467,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",32,0,0,0,32
+1765561,1332134,2023-05-24,House,"House: THIRD READING",91,3,0,7,101
+1765561,1334255,2023-05-26,Senate,"Senate: THIRD READING",43,2,0,3,48
+1765562,1330929,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765562,1332013,2023-05-24,Senate,"Senate: THIRD READING",44,0,0,4,48
+1765562,1334162,2023-05-26,House,"House: THIRD READING",91,5,0,5,101
+1765563,1330558,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",19,1,0,0,20
+1765563,1330559,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,1,0,0,36
+1765563,1331737,2023-05-24,Senate,"Senate: THIRD READING",45,0,0,3,48
+1765563,1334070,2023-05-26,House,"House: THIRD READING",88,5,0,8,101
+1765565,1330501,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,0,0,0,18
+1765565,1330502,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765565,1332253,2023-05-24,Senate,"Senate: THIRD READING",44,1,0,3,48
+1765565,1334306,2023-05-26,House,"House: THIRD READING",90,2,0,9,101
+1765566,1330508,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",16,5,0,0,21
+1765566,1330509,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,0,0,0,35
+1765566,1332290,2023-05-24,House,"House: THIRD READING",96,2,0,3,101
+1765566,1334331,2023-05-26,Senate,"Senate: THIRD READING",26,17,0,5,48
+1765567,1330479,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765567,1331104,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765567,1332155,2023-05-24,Senate,"Senate: THIRD READING",40,4,0,4,48
+1765567,1334282,2023-05-26,House,"House: THIRD READING",63,32,0,6,101
+1765567,1334283,2023-05-26,House,"House: EMERGENCY",68,21,0,12,101
+1765568,1330361,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765568,1331008,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765568,1332078,2023-05-24,Senate,"Senate: THIRD READING",42,3,0,3,48
+1765568,1334248,2023-05-26,House,"House: THIRD READING",94,0,0,7,101
+1765569,1330548,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",18,3,0,0,21
+1765569,1330549,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765569,1332509,2023-05-24,Senate,"Senate: THIRD READING",42,2,0,4,48
+1765569,1334056,2023-05-26,House,"House: THIRD READING",89,4,0,8,101
+1765572,1330289,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765572,1330531,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765572,1332417,2023-05-24,Senate,"Senate: intermediate care facilities for",32,13,0,3,48
+1765572,1334030,2023-05-26,House,"House: THIRD READING",91,5,0,5,101
+1765573,1330438,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",13,6,0,0,19
+1765573,1330439,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",28,6,0,0,34
+1765573,1332004,2023-05-24,House,"House: THIRD READING",70,24,0,7,101
+1765573,1334200,2023-05-26,Senate,"Senate: THIRD READING",13,31,0,4,48
+1765574,1330457,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765574,1332076,2023-05-24,Senate,"Senate: THIRD READING",45,0,0,3,48
+1765574,1334219,2023-05-26,House,"House: THIRD READING",94,1,0,6,101
+1765576,1330291,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,1,0,21
+1765576,1330441,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765576,1332003,2023-05-24,Senate,"Senate: THIRD READING",43,1,0,4,48
+1765576,1334161,2023-05-26,House,"House: THIRD READING",95,1,0,5,101
+1765578,1330443,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765578,1330444,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765578,1332029,2023-05-24,Senate,"Senate: THIRD READING",31,13,0,4,48
+1765578,1334202,2023-05-26,House,"House: THIRD READING",70,27,0,4,101
+1765580,1330495,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,1,0,0,21
+1765580,1330496,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765580,1331665,2023-05-24,Senate,"Senate: THIRD READING",34,11,0,3,48
+1765580,1334317,2023-05-26,House,"House: THIRD READING",85,12,0,4,101
+1765581,1330432,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765581,1330433,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765581,1331937,2023-05-24,Senate,"Senate: THIRD READING",44,0,0,4,48
+1765581,1334181,2023-05-26,House,"House: THIRD READING",92,0,0,9,101
+1765582,1330271,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765582,1330528,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765582,1332403,2023-05-24,Senate,"Senate: THIRD READING",43,0,0,5,48
+1765583,1330465,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",34,0,0,0,34
+1765583,1331025,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",19,0,0,0,19
+1765583,1332044,2023-05-24,Senate,"Senate: THIRD READING",41,3,0,4,48
+1765583,1334201,2023-05-26,House,"House: THIRD READING",90,6,0,5,101
+1765585,1330277,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765585,1330519,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",31,3,0,0,34
+1765585,1331669,2023-05-24,Senate,"Senate: THIRD READING",25,19,0,4,48
+1765587,1330542,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765587,1330543,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",33,0,0,0,33
+1765587,1332540,2023-05-24,Senate,"Senate: THIRD READING",40,4,0,4,48
+1765587,1334065,2023-05-26,House,"House: THIRD READING",83,13,0,5,101
+1765589,1330480,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",20,0,0,0,20
+1765589,1330481,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",36,0,0,0,36
+1765589,1332163,2023-05-24,Senate,"Senate: THIRD READING",44,1,0,3,48
+1765589,1334256,2023-05-26,House,"House: THIRD READING",84,4,0,13,101
+1765590,1330298,2023-05-23,Senate,"Senate: Committee On Appropriations And Budget: DO PASS",21,0,0,0,21
+1765590,1330456,2023-05-23,House,"House: Joint Committee on Appropriations and Budget Committee: DO PASS AS AMENDED BY CS",35,1,0,0,36
+1765590,1332079,2023-05-24,Senate,"Senate: THIRD READING",29,16,0,3,48
+1765590,1334223,2023-05-26,House,"House: THIRD READING",75,19,0,7,101
+1771251,1342585,2023-06-12,House,"House: THIRD READING",79,5,0,17,101

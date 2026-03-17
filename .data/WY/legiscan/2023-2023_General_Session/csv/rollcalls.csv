@@ -1,0 +1,1529 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1634355,1232041,2023-01-16,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1634355,1233465,2023-01-19,House,"3rd Reading:Passed 53-7-2-0-0",53,7,0,2,62
+1634355,1243747,2023-02-06,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1634356,1233328,2023-01-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1634356,1235859,2023-01-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1634356,1258166,2023-02-22,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1634356,1261466,2023-02-24,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1634356,1262850,2023-02-27,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1634357,1231919,2023-01-13,House,"H10 - Labor:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1634357,1232509,2023-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1634357,1246029,2023-02-08,House,"3rd Reading:Passed 34-28-0-0-0",34,28,0,0,62
+1634357,1258036,2023-02-22,Senate,"S10 - Labor:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1634357,1260140,2023-02-23,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1634357,1265235,2023-03-01,Senate,"3rd Reading:Passed 16-14-1-0-0",16,14,0,1,31
+1634364,1231675,2023-01-12,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1634364,1232177,2023-01-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1634364,1246228,2023-02-08,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1634364,1248459,2023-02-13,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1634364,1250073,2023-02-14,Senate,"Concur:Passed 30-0-1-0-0",30,0,0,1,31
+1634368,1231806,2023-01-13,Senate,"S10 - Labor:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1634368,1232245,2023-01-17,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1634368,1246453,2023-02-08,House,"H10 - Labor:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1634368,1253190,2023-02-16,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1634371,1231473,2023-01-11,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1634371,1231768,2023-01-13,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1634371,1247765,2023-02-10,House,"H10 - Labor:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1634371,1252189,2023-02-15,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1634376,1232226,2023-01-17,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-0-0-1",4,0,1,0,5
+1634376,1233164,2023-01-19,Senate,"3rd Reading:Failed 14-14-0-0-3",14,14,3,0,31
+1634380,1231647,2023-01-12,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1634380,1232176,2023-01-16,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1634380,1246360,2023-02-08,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1634380,1249000,2023-02-13,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1634385,1231482,2023-01-11,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1634385,1231780,2023-01-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1634385,1243602,2023-02-06,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1634385,1247090,2023-02-09,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1634388,1231824,2023-01-13,Senate,"S10 - Labor:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1634388,1232342,2023-01-17,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1634388,1247855,2023-02-10,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1634388,1252214,2023-02-15,House,"3rd Reading:Failed 31-30-1-0-0",31,30,0,1,62
+1634388,1252215,2023-02-15,House,"3rd Reading:H Bill Reconsideration Motion Passed by Roll Call 35-27-0-0-0",35,27,0,0,62
+1634388,1252216,2023-02-15,House,"3rd Reading:Passed 35-27-0-0-0",35,27,0,0,62
+1634388,1253666,2023-02-16,Senate,"Concur:Failed 6-24-1-0-0",6,24,0,1,31
+1634388,1254979,2023-02-17,Senate,"Adopted SF0009JC001: 23-7-1-0-0",23,7,0,1,31
+1634388,1257486,2023-02-21,House,"Adopted SF0009JC001: 36-26-0-0-0",36,26,0,0,62
+1634393,1232925,2023-01-18,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1634393,1233918,2023-01-20,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1634393,1247831,2023-02-10,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1634393,1252204,2023-02-15,House,"3rd Reading:Passed 48-8-6-0-0",48,8,0,6,62
+1634396,1231224,2023-01-10,Senate,"Introduced and Referred to {NextAssignedTo} 5-0-0-0-0",5,0,0,0,5
+1634396,1231686,2023-01-12,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1634396,1232175,2023-01-16,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1634396,1243411,2023-02-06,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1634396,1246648,2023-02-09,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1634398,1231993,2023-01-16,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1634398,1232611,2023-01-18,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1634398,1246235,2023-02-08,House,"H10 - Labor:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1634398,1253405,2023-02-16,House,"3rd Reading:Passed 39-23-0-0-0",39,23,0,0,62
+1634398,1254443,2023-02-17,Senate,"Concur:Passed 28-2-1-0-0",28,2,0,1,31
+1634404,1231573,2023-01-12,House,"H07 - Corporations:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1634409,1231632,2023-01-12,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1634409,1232261,2023-01-17,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1634409,1246809,2023-02-09,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1634409,1250055,2023-02-14,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1634409,1252190,2023-02-15,House,"Concur:Passed 55-0-7-0-0",55,0,0,7,62
+1634414,1232350,2023-01-17,House,"H03 - Revenue:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1634414,1233876,2023-01-20,House,"3rd Reading:Passed 36-25-1-0-0",36,25,0,1,62
+1634414,1246681,2023-02-09,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1634414,1253142,2023-02-16,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1634414,1254658,2023-02-17,House,"Concur:Passed 40-21-1-0-0",40,21,0,1,62
+1634459,1232035,2023-01-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1634459,1232878,2023-01-18,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1634459,1244554,2023-02-07,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1634459,1248916,2023-02-13,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1634484,1232036,2023-01-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1634484,1232888,2023-01-18,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1634484,1244535,2023-02-07,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1634484,1249214,2023-02-13,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1634489,1232166,2023-01-17,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1634489,1232638,2023-01-18,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1634489,1233708,2023-01-20,Senate,"3rd Reading:Failed 13-18-0-0-0",13,18,0,0,31
+1634489,1233709,2023-01-20,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 16-15-0-0-0",16,15,0,0,31
+1634489,1233710,2023-01-20,Senate,"3rd Reading:Failed 15-16-0-0-0",15,16,0,0,31
+1634497,1231723,2023-01-12,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1634497,1232178,2023-01-16,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1634497,1251318,2023-02-14,House,"H08 - Transportation:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1634497,1257664,2023-02-21,House,"3rd Reading:Passed 33-29-0-0-0",33,29,0,0,62
+1634497,1257665,2023-02-21,Senate,"Concur:Passed 16-13-2-0-0",16,13,0,2,31
+1634504,1232157,2023-01-17,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1634504,1233263,2023-01-19,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1634504,1251010,2023-02-14,House,"H08 - Transportation:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1634504,1256649,2023-02-21,House,"3rd Reading:Passed 42-20-0-0-0",42,20,0,0,62
+1634504,1257412,2023-02-21,Senate,"Concur:Passed 17-14-0-0-0",17,14,0,0,31
+1634512,1233414,2023-01-19,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-0-0-1",4,0,1,0,5
+1634512,1234760,2023-01-24,Senate,"3rd Reading:Passed 20-8-0-0-3",20,8,3,0,31
+1634512,1243453,2023-02-06,House,"H07 - Corporations:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1634512,1246667,2023-02-09,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1634512,1248506,2023-02-13,Senate,"Concur:Passed 25-4-0-0-2",25,4,2,0,31
+1634512,1248507,2023-02-13,Senate,"Concur:S Bill Reconsideration Motion Passed by Roll Call 30-1-0-0-0",30,1,0,0,31
+1634512,1248508,2023-02-13,Senate,"Concur:Passed 24-4-0-0-3",24,4,3,0,31
+1634521,1234779,2023-01-24,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1634521,1236378,2023-01-26,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1634521,1244526,2023-02-07,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1634521,1249246,2023-02-13,House,"3rd Reading:Passed 45-17-0-0-0",45,17,0,0,62
+1634527,1231716,2023-01-12,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1634527,1232180,2023-01-16,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1634527,1247553,2023-02-09,House,"H08 - Transportation:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1634527,1250607,2023-02-14,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1634532,1231567,2023-01-12,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1634532,1232179,2023-01-16,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1634532,1247551,2023-02-09,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1634539,1231572,2023-01-12,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1634539,1232031,2023-01-16,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1634539,1232836,2023-01-18,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1634539,1247552,2023-02-09,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1634539,1250985,2023-02-14,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1635259,1231408,2023-01-11,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1635259,1232190,2023-01-16,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1635259,1245793,2023-02-08,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635259,1249611,2023-02-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1635259,1250738,2023-02-14,House,"Concur:Failed 0-59-3-0-0",0,59,0,3,62
+1635259,1261604,2023-02-24,House,"Adopted HB0009JC001: 58-2-2-0-0",58,2,0,2,62
+1635259,1261605,2023-02-24,Senate,"Adopted HB0009JC001: 27-0-4-0-0",27,0,0,4,31
+1635261,1232030,2023-01-16,House,"H01 - Judiciary:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1635261,1232308,2023-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1635261,1233924,2023-01-20,House,"3rd Reading:Passed 35-26-1-0-0",35,26,0,1,62
+1635261,1243762,2023-02-06,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1635261,1245772,2023-02-08,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1635261,1249010,2023-02-13,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1635261,1250983,2023-02-14,House,"Concur:Failed 8-53-1-0-0",8,53,0,1,62
+1635261,1265816,2023-03-01,House,"Adopted HB0014JC002: 42-19-1-0-0",42,19,0,1,62
+1635261,1267347,2023-03-02,Senate,"Adopted HB0014JC002: 20-9-2-0-0",20,9,0,2,31
+1635265,1231827,2023-01-13,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1635265,1232513,2023-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1635265,1233893,2023-01-20,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1635265,1258200,2023-02-22,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635265,1259809,2023-02-23,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635265,1262823,2023-02-27,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1635269,1231409,2023-01-11,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1635269,1232191,2023-01-16,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1635269,1245746,2023-02-08,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1635269,1249067,2023-02-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1635269,1251100,2023-02-14,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1635272,1233102,2023-01-18,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1635272,1234982,2023-01-24,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1635272,1244519,2023-02-07,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635272,1246971,2023-02-09,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1635275,1232027,2023-01-16,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1635275,1233453,2023-01-19,House,"3rd Reading:Passed 35-25-2-0-0",35,25,0,2,62
+1635275,1244516,2023-02-07,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635275,1246982,2023-02-09,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1635279,1233109,2023-01-18,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1635279,1234997,2023-01-24,House,"3rd Reading:Passed 39-22-1-0-0",39,22,0,1,62
+1635279,1246664,2023-02-09,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635279,1250752,2023-02-14,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1635279,1252074,2023-02-15,House,"Concur:Passed 44-10-8-0-0",44,10,0,8,62
+1635283,1231966,2023-01-16,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1635283,1232619,2023-01-18,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1635283,1246230,2023-02-08,House,"H10 - Labor:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1635283,1248527,2023-02-13,House,"3rd Reading:Passed 36-26-0-0-0",36,26,0,0,62
+1635284,1232709,2023-01-18,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1635284,1233332,2023-01-19,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635284,1235848,2023-01-25,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1635284,1243730,2023-02-06,House,"H01 - Judiciary:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1635284,1247108,2023-02-09,House,"3rd Reading:Passed 42-20-0-0-0",42,20,0,0,62
+1635287,1232023,2023-01-16,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635287,1232554,2023-01-18,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1635287,1247837,2023-02-10,House,"H01 - Judiciary:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1635287,1251890,2023-02-15,House,"3rd Reading:Passed 48-14-0-0-0",48,14,0,0,62
+1635290,1233801,2023-01-20,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635290,1236552,2023-01-26,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1635290,1246363,2023-02-08,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1635290,1251097,2023-02-14,House,"3rd Reading:Passed 36-25-1-0-0",36,25,0,1,62
+1635295,1233818,2023-01-20,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1635295,1235836,2023-01-25,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1635295,1244571,2023-02-07,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1635295,1249277,2023-02-13,House,"3rd Reading:Passed 56-6-0-0-0",56,6,0,0,62
+1635299,1231656,2023-01-12,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1635299,1232312,2023-01-17,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1635299,1245893,2023-02-08,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1635299,1249242,2023-02-13,Senate,"3rd Reading:Passed 29-0-0-0-2",29,0,2,0,31
+1635299,1250762,2023-02-14,House,"Concur:Failed 0-61-1-0-0",0,61,0,1,62
+1635299,1258852,2023-02-22,House,"Adopted HB0016JC001: 61-1-0-0-0",61,1,0,0,62
+1635299,1258853,2023-02-22,Senate,"Adopted HB0016JC001: 27-2-0-0-2",27,2,2,0,31
+1635303,1231658,2023-01-12,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1635303,1232313,2023-01-17,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1635303,1258522,2023-02-22,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1635303,1264170,2023-02-28,Senate,"3rd Reading:Passed 27-2-0-0-2",27,2,2,0,31
+1635303,1264171,2023-02-28,House,"Concur:Passed 57-5-0-0-0",57,5,0,0,62
+1635311,1231478,2023-01-11,Senate,"S05 - Agriculture:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1635311,1231775,2023-01-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1635311,1251341,2023-02-14,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1635311,1254793,2023-02-17,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1636135,1233349,2023-01-19,House,"H10 - Labor:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1636135,1241485,2023-02-02,House,"3rd Reading:Passed 48-14-0-0-0",48,14,0,0,62
+1636135,1243279,2023-02-06,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1636135,1244540,2023-02-07,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1636135,1250779,2023-02-14,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1636376,1232198,2023-01-17,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1636376,1233208,2023-01-19,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1636376,1244704,2023-02-07,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1636376,1248640,2023-02-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1636376,1250966,2023-02-14,House,"Concur:Passed 61-0-1-0-0",61,0,0,1,62
+1636529,1233324,2023-01-19,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1636529,1236580,2023-01-26,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1636529,1249029,2023-02-13,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1636529,1252030,2023-02-15,Senate,"3rd Reading:Passed 29-0-0-0-2",29,0,2,0,31
+1636529,1253652,2023-02-16,House,"Concur:Passed 61-1-0-0-0",61,1,0,0,62
+1636702,1234927,2023-01-24,House,"H05 - Agriculture:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1636702,1237304,2023-01-27,House,"3rd Reading:Passed 52-9-1-0-0",52,9,0,1,62
+1636702,1245924,2023-02-08,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1636702,1249312,2023-02-13,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1636702,1250739,2023-02-14,House,"Concur:Passed 52-9-1-0-0",52,9,0,1,62
+1636958,1232913,2023-01-18,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1636958,1233894,2023-01-20,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1636958,1247827,2023-02-10,House,"H01 - Judiciary:Do Pass Failed 2-7-0-0-0",2,7,0,0,9
+1636965,1234896,2023-01-24,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1636965,1237296,2023-01-27,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1636965,1244563,2023-02-07,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1636965,1249231,2023-02-13,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1636971,1232025,2023-01-16,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1636971,1232838,2023-01-18,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1636971,1247820,2023-02-10,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1636971,1251914,2023-02-15,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1636976,1232045,2023-01-16,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1636976,1232871,2023-01-18,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1636976,1252756,2023-02-15,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1636976,1256550,2023-02-21,House,"3rd Reading:Passed 59-3-0-0-0",59,3,0,0,62
+1636976,1257758,2023-02-21,Senate,"Concur:Failed 4-26-1-0-0",4,26,0,1,31
+1636976,1261463,2023-02-24,Senate,"Concur:Recede from Non-Concurrence pursuant to JR 2-4 Passed by Roll Call 31-0-0-0-0",31,0,0,0,31
+1637036,1235343,2023-01-24,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637036,1238048,2023-01-30,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1637036,1251813,2023-02-15,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1637036,1255002,2023-02-17,Senate,"3rd Reading:Passed 27-1-1-0-2",27,1,2,1,31
+1637036,1257795,2023-02-21,House,"Concur:Failed 2-59-1-0-0",2,59,0,1,62
+1637036,1264350,2023-02-28,House,"Adopted HB0022JC001: 61-0-1-0-0",61,0,0,1,62
+1637036,1264351,2023-02-28,Senate,"Adopted HB0022JC001: 25-4-0-0-2",25,4,2,0,31
+1637235,1232240,2023-01-17,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637235,1232753,2023-01-18,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637235,1235056,2023-01-24,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1637235,1252768,2023-02-15,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1637235,1254272,2023-02-16,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-0-1-0-0",6,0,0,1,7
+1637887,1231467,2023-01-11,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637887,1231766,2023-01-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1637889,1232015,2023-01-16,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1637889,1232783,2023-01-18,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1637889,1244191,2023-02-07,House,"H02 - Appropriations:Recommend Do Pass 5-1-1-0-0",5,1,0,1,7
+1637889,1248511,2023-02-13,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1637894,1232437,2023-01-17,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1637894,1236312,2023-01-26,House,"3rd Reading:Passed 49-12-1-0-0",49,12,0,1,62
+1637894,1242077,2023-02-02,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1637894,1247122,2023-02-09,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1637894,1248015,2023-02-10,House,"Concur:Passed 61-0-1-0-0",61,0,0,1,62
+1637897,1233347,2023-01-19,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1637897,1234984,2023-01-24,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1637897,1251310,2023-02-14,House,"H08 - Transportation:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1637897,1257509,2023-02-21,House,"3rd Reading:Passed 36-25-1-0-0",36,25,0,1,62
+1637897,1257510,2023-02-21,Senate,"Concur:Passed 23-8-0-0-0",23,8,0,0,31
+1637902,1231829,2023-01-13,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1637902,1232873,2023-01-18,Senate,"3rd Reading:Passed 21-9-1-0-0",21,9,0,1,31
+1637902,1249608,2023-02-13,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1637902,1253067,2023-02-16,House,"3rd Reading:Passed 37-25-0-0-0",37,25,0,0,62
+1637902,1254565,2023-02-17,Senate,"Concur:Passed 22-8-1-0-0",22,8,0,1,31
+1637910,1233211,2023-01-19,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637910,1234890,2023-01-24,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1637910,1249961,2023-02-13,House,"H07 - Corporations:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1637910,1253489,2023-02-16,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1637911,1233292,2023-01-19,House,"H04 - Education:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1637911,1233796,2023-01-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1637911,1237276,2023-01-27,House,"3rd Reading:Passed 35-26-1-0-0",35,26,0,1,62
+1637911,1260028,2023-02-23,Senate,"S04 - Education:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1637912,1235649,2023-01-25,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1637912,1243547,2023-02-06,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1637912,1251777,2023-02-15,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637912,1254759,2023-02-17,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1637913,1231965,2023-01-16,House,"H04 - Education:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1637913,1232311,2023-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1637913,1233753,2023-01-20,House,"3rd Reading:Passed 37-24-1-0-0",37,24,0,1,62
+1637913,1251682,2023-02-15,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1637913,1253839,2023-02-16,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637913,1258188,2023-02-22,Senate,"Amendment failed 15-15-1-0-0",15,15,0,1,31
+1637913,1259489,2023-02-23,Senate,"Amendment adopted 25-6-0-0-0",25,6,0,0,31
+1637913,1259490,2023-02-23,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1637913,1260581,2023-02-23,House,"Concur:Failed 10-50-2-0-0",10,50,0,2,62
+1637913,1266982,2023-03-02,House,"Adopted HB0033JC001: 39-17-6-0-0",39,17,0,6,62
+1637913,1268059,2023-03-03,Senate,"Adopted HB0033JC001: 24-4-3-0-0",24,4,0,3,31
+1637915,1233492,2023-01-19,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1637915,1235407,2023-01-25,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1637915,1247187,2023-02-09,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637915,1250316,2023-02-14,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1637915,1251452,2023-02-15,Senate,"Concur:Passed 21-10-0-0-0",21,10,0,0,31
+1637916,1233814,2023-01-20,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637917,1238156,2023-01-30,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1637917,1241450,2023-02-02,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1637917,1249636,2023-02-13,House,"H07 - Corporations:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1637917,1252976,2023-02-16,House,"3rd Reading:Passed 37-25-0-0-0",37,25,0,0,62
+1637917,1254969,2023-02-17,Senate,"Concur:Passed 20-10-1-0-0",20,10,0,1,31
+1637918,1231773,2023-01-13,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1637918,1232154,2023-01-17,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1637918,1244705,2023-02-07,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637918,1246800,2023-02-09,House,"H02 - Appropriations:Amend and Do Not Pass: 5-2-0-0-0",5,2,0,0,7
+1637918,1248798,2023-02-13,House,"3rd Reading:Passed 46-16-0-0-0",46,16,0,0,62
+1637918,1250557,2023-02-14,Senate,"Concur:Failed 1-30-0-0-0",1,30,0,0,31
+1637918,1267943,2023-03-03,Senate,"Adopted SF0042JC001: 25-3-3-0-0",25,3,0,3,31
+1637918,1268148,2023-03-03,House,"Adopted SF0042JC001: 48-9-5-0-0",48,9,0,5,62
+1637921,1232242,2023-01-17,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637921,1233460,2023-01-19,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1637921,1244517,2023-02-07,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1637921,1246976,2023-02-09,House,"COW:Failed 19-43-0-0-0",19,43,0,0,62
+1637922,1232017,2023-01-16,House,"H04 - Education:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1637922,1233440,2023-01-19,House,"3rd Reading:Passed 46-14-2-0-0",46,14,0,2,62
+1637922,1251707,2023-02-15,Senate,"S04 - Education:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1637922,1254721,2023-02-17,Senate,"3rd Reading:Failed 14-16-1-0-0",14,16,0,1,31
+1637922,1254722,2023-02-17,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 16-14-1-0-0",16,14,0,1,31
+1637922,1254723,2023-02-17,Senate,"3rd Reading:Passed 16-14-1-0-0",16,14,0,1,31
+1637923,1232162,2023-01-17,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637923,1234700,2023-01-24,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1637923,1238406,2023-01-31,House,"3rd Reading:Passed 37-25-0-0-0",37,25,0,0,62
+1637923,1255038,2023-01-31,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1637924,1233823,2023-01-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1637924,1236555,2023-01-26,House,"3rd Reading:Passed 37-24-1-0-0",37,24,0,1,62
+1637927,1231568,2023-01-12,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1637927,1232345,2023-01-17,House,"3rd Reading:Passed 37-23-2-0-0",37,23,0,2,62
+1637927,1243178,2023-02-06,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637927,1246691,2023-02-09,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1637929,1231651,2023-01-12,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637929,1232192,2023-01-16,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1637929,1243740,2023-02-06,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637929,1247124,2023-02-09,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1637931,1232273,2023-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1637931,1233905,2023-01-20,House,"3rd Reading:Passed 49-12-1-0-0",49,12,0,1,62
+1637931,1245801,2023-02-08,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637931,1249063,2023-02-13,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1637942,1232138,2023-01-16,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1637942,1233475,2023-01-19,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1637942,1246359,2023-02-08,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1637942,1247863,2023-02-10,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1637942,1251672,2023-02-15,House,"3rd Reading:Passed 45-16-1-0-0",45,16,0,1,62
+1637942,1254252,2023-02-16,Senate,"Concur:Failed 0-29-2-0-0",0,29,0,2,31
+1637946,1239746,2023-02-01,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637946,1243347,2023-02-06,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1637946,1257024,2023-02-21,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1637946,1261485,2023-02-24,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1637950,1231815,2023-01-13,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1637950,1232253,2023-01-17,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1637950,1249958,2023-02-13,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1637950,1250625,2023-02-14,House,"COW:Failed 12-47-3-0-0",12,47,0,3,62
+1637954,1232787,2023-01-18,Senate,"S04 - Education:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1637959,1231412,2023-01-11,Senate,"S04 - Education:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1637959,1231798,2023-01-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1637959,1243470,2023-02-06,House,"H04 - Education:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1637959,1246669,2023-02-09,House,"3rd Reading:Passed 44-18-0-0-0",44,18,0,0,62
+1637959,1248590,2023-02-13,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1637959,1268000,2023-03-03,Senate,"Adopted SF0048JC001: 26-1-4-0-0",26,1,0,4,31
+1637959,1268001,2023-03-03,House,"Did Not Adopt SF0048JC001: 5-50-7-0-0",5,50,0,7,62
+1637963,1239699,2023-02-01,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1637970,1231476,2023-01-11,Senate,"S04 - Education:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1637970,1231770,2023-01-13,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1637970,1243536,2023-02-06,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638258,1233515,2023-01-19,House,"H09 - Minerals:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1638258,1233516,2023-01-19,House,"COW:Failed 23-38-1-0-0",23,38,0,1,62
+1638260,1231847,2023-01-13,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638260,1232339,2023-01-17,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1638260,1245041,2023-02-07,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638260,1247104,2023-02-09,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1638262,1235682,2023-01-25,House,"H04 - Education:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1638262,1238428,2023-01-31,House,"3rd Reading:Passed 56-6-0-0-0",56,6,0,0,62
+1638262,1243169,2023-02-06,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1638262,1246654,2023-02-09,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1638262,1249170,2023-02-13,House,"Concur:Passed 53-7-2-0-0",53,7,0,2,62
+1638264,1233847,2023-01-20,House,"H08 - Transportation:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1638264,1235801,2023-01-25,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1638264,1245978,2023-02-08,House,"3rd Reading:Passed 41-21-0-0-0",41,21,0,0,62
+1638264,1253281,2023-02-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638264,1254696,2023-02-17,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638264,1260328,2023-02-23,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1638267,1232033,2023-01-16,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1638267,1232898,2023-01-18,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1638267,1252759,2023-02-15,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638267,1257674,2023-02-21,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1638268,1232026,2023-01-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638268,1233101,2023-01-18,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1638268,1234988,2023-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1638268,1254265,2023-02-16,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1638268,1254719,2023-02-17,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1638268,1261436,2023-02-24,House,"3rd Reading:Passed 47-15-0-0-0",47,15,0,0,62
+1638269,1232512,2023-01-17,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1638269,1233848,2023-01-20,House,"3rd Reading:Passed 55-6-1-0-0",55,6,0,1,62
+1638269,1250488,2023-02-14,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638269,1254833,2023-02-17,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1638271,1231838,2023-01-13,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638273,1232773,2023-01-18,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1638273,1233882,2023-01-20,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1638273,1245066,2023-02-07,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1638273,1246021,2023-02-08,Senate,"Amendment adopted 30-0-1-0-0",30,0,0,1,31
+1638273,1247107,2023-02-09,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1638273,1248000,2023-02-10,House,"Concur:Failed 2-59-1-0-0",2,59,0,1,62
+1638273,1252198,2023-02-15,House,"Adopted HB0041JC001: 56-0-6-0-0",56,0,0,6,62
+1638273,1253110,2023-02-16,Senate,"Adopted HB0041JC001: 28-1-2-0-0",28,1,0,2,31
+1638274,1232510,2023-01-17,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638274,1233836,2023-01-20,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1638274,1245112,2023-02-07,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1638274,1247085,2023-02-09,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1638339,1232016,2023-01-16,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638339,1232805,2023-01-18,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1638339,1249965,2023-02-13,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638339,1253569,2023-02-16,House,"3rd Reading:Passed 59-3-0-0-0",59,3,0,0,62
+1638365,1232696,2023-01-18,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1638365,1233641,2023-01-19,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638365,1236459,2023-01-26,Senate,"3rd Reading:Failed 15-16-0-0-0",15,16,0,0,31
+1638365,1236460,2023-01-26,Senate,"3rd Reading:S Bill Reconsideration Motion Failed by Roll Call 10-21-0-0-0",10,21,0,0,31
+1638455,1232038,2023-01-16,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1638455,1233470,2023-01-19,House,"3rd Reading:Passed 33-27-2-0-0",33,27,0,2,62
+1638455,1244543,2023-02-07,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1638455,1248766,2023-02-13,Senate,"Amendment failed 12-19-0-0-0",12,19,0,0,31
+1638455,1248767,2023-02-13,Senate,"Amendment failed 5-26-0-0-0",5,26,0,0,31
+1638455,1248768,2023-02-13,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1638455,1249954,2023-02-13,House,"Concur:Failed 6-54-2-0-0",6,54,0,2,62
+1638455,1257556,2023-02-21,House,"Concur:Recede from Non-Concurrence pursuant to JR 2-4 Passed by Roll Call 34-28-0-0-0",34,28,0,0,62
+1638546,1232204,2023-01-17,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1638546,1233457,2023-01-19,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1638546,1250047,2023-02-14,House,"H01 - Judiciary:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1638546,1256521,2023-02-21,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1638546,1261029,2023-02-24,House,"3rd Reading:Passed 54-8-0-0-0",54,8,0,0,62
+1638593,1231491,2023-01-11,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638593,1231784,2023-01-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1638593,1245884,2023-02-08,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1638593,1249258,2023-02-13,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1638766,1231721,2023-01-12,House,"H06 - Travel:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1638768,1231665,2023-01-12,Senate,"S06 - Travel:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1638768,1232181,2023-01-16,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1638768,1251340,2023-02-14,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638768,1257151,2023-02-21,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1638790,1231607,2023-01-12,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1638790,1231720,2023-01-12,Senate,"COW:Failed 10-20-1-0-0",10,20,0,1,31
+1638811,1231578,2023-01-12,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638811,1231813,2023-01-13,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1638811,1232833,2023-01-18,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1638811,1240778,2023-02-02,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638811,1246770,2023-02-09,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1638833,1231608,2023-01-12,Senate,"S06 - Travel:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1638833,1232182,2023-01-16,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1638833,1247189,2023-02-09,House,"H06 - Travel:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1638833,1250355,2023-02-14,House,"3rd Reading:Passed 41-20-1-0-0",41,20,0,1,62
+1638853,1233478,2023-01-19,Senate,"S12 - Rules:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1638853,1233932,2023-01-20,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1638853,1236546,2023-01-26,Senate,"Amendment failed 12-19-0-0-0",12,19,0,0,31
+1638853,1236547,2023-01-26,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1638853,1236548,2023-01-26,Senate,"3rd Reading:S Bill Reconsideration Motion Failed by Roll Call 6-25-0-0-0",6,25,0,0,31
+1638853,1251298,2023-02-14,House,"H03 - Revenue:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1638853,1251760,2023-02-15,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1638853,1254760,2023-02-17,House,"Amendment failed 28-31-1-0-2",28,31,2,1,62
+1638853,1257660,2023-02-21,House,"3rd Reading:Passed 33-28-1-0-0",33,28,0,1,62
+1638853,1258843,2023-02-22,Senate,"Concur:Failed 5-26-0-0-0",5,26,0,0,31
+1638853,1261520,2023-02-24,Senate,"Adopted SF0061JC001: 19-12-0-0-0",19,12,0,0,31
+1638853,1264368,2023-02-28,House,"Adopted SF0061JC001: 33-29-0-0-0",33,29,0,0,62
+1638873,1231765,2023-01-13,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1638873,1243100,2023-02-06,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1638873,1245620,2023-02-08,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1638873,1265139,2023-03-01,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1638873,1265988,2023-03-01,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1638896,1234007,2023-01-20,House,"H07 - Corporations:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1638916,1233336,2023-01-19,Senate,"S12 - Rules:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1638916,1235676,2023-01-25,Senate,"S02 - Appropriations:Recommend Do Not Pass 4-1-0-0-0",4,1,0,0,5
+1638916,1235677,2023-01-25,Senate,"COW:Failed 9-22-0-0-0",9,22,0,0,31
+1638956,1233342,2023-01-19,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1638956,1236563,2023-01-26,House,"3rd Reading:Failed 30-31-1-0-0",30,31,0,1,62
+1638956,1236564,2023-01-26,House,"3rd Reading:H Bill Reconsideration Motion Passed by Roll Call 32-29-1-0-0",32,29,0,1,62
+1638956,1236565,2023-01-26,House,"3rd Reading:Passed 33-28-1-0-0",33,28,0,1,62
+1638956,1242104,2023-02-02,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1638956,1247129,2023-02-09,Senate,"3rd Reading:Failed 5-26-0-0-0",5,26,0,0,31
+1639061,1231841,2023-01-13,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1639061,1232348,2023-01-17,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1639061,1247547,2023-02-09,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1639061,1250060,2023-02-14,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1639453,1232107,2023-01-16,House,"H07 - Corporations:Recommend Amend and Do Pass 5-3-1-0-0",5,3,0,1,9
+1639453,1232341,2023-01-17,House,"COW:Failed 12-49-1-0-0",12,49,0,1,62
+1639533,1235345,2023-01-24,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1639533,1237271,2023-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1639533,1253339,2023-02-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1639533,1257627,2023-02-21,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1639549,1234996,2023-01-24,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1639549,1238919,2023-01-31,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1639549,1246837,2023-02-09,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1639549,1250065,2023-02-14,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1639549,1252147,2023-02-15,House,"Concur:Passed 54-0-8-0-0",54,0,0,8,62
+1639566,1233962,2023-01-20,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1639566,1235798,2023-01-25,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1639566,1252771,2023-02-15,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1639566,1256501,2023-02-21,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1640026,1233330,2023-01-19,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1640026,1234978,2023-01-24,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1640026,1257022,2023-02-21,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1640026,1261482,2023-02-24,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1640029,1233800,2023-01-20,House,"H08 - Transportation:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1640029,1235742,2023-01-25,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1640029,1246028,2023-02-08,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1640029,1253288,2023-02-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1640029,1254693,2023-02-17,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1640029,1260232,2023-02-23,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1640037,1231577,2023-01-12,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1640037,1231819,2023-01-13,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1640037,1232556,2023-01-18,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1640037,1240775,2023-02-02,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1640037,1244751,2023-02-07,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1640037,1248448,2023-02-13,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1640037,1251076,2023-02-14,House,"Concur:Passed 61-0-1-0-0",61,0,0,1,62
+1640040,1232743,2023-01-18,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1640040,1233843,2023-01-20,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1640040,1252278,2023-02-15,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1640040,1256531,2023-02-21,House,"3rd Reading:Passed 51-11-0-0-0",51,11,0,0,62
+1640040,1258860,2023-02-22,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1640040,1267949,2023-03-03,Senate,"Concur:Passed 27-1-3-0-0",27,1,0,3,31
+1640189,1232021,2023-01-16,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1640189,1233279,2023-01-19,House,"3rd Reading:Passed 46-15-1-0-0",46,15,0,1,62
+1640189,1251839,2023-02-15,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1640189,1256882,2023-02-21,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1640410,1232918,2023-01-18,House,"H09 - Minerals:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1640410,1235082,2023-01-24,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1640410,1253924,2023-02-16,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1640410,1258815,2023-02-22,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1640410,1258816,2023-02-22,House,"Concur:Passed 41-20-1-0-0",41,20,0,1,62
+1640421,1232716,2023-01-18,House,"H07 - Corporations:Do Pass Failed 3-5-1-0-0",3,5,0,1,9
+1640430,1233810,2023-01-20,House,"H10 - Labor:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1640430,1237671,2023-01-30,House,"Amendment adopted 36-25-1-0-0",36,25,0,1,62
+1640430,1237672,2023-01-30,House,"3rd Reading:Failed 29-32-1-0-0",29,32,0,1,62
+1640440,1232018,2023-01-16,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1640440,1232812,2023-01-18,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1640440,1249960,2023-02-13,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1640440,1253674,2023-02-16,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1640450,1231821,2023-01-13,House,"H03 - Revenue:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1640450,1232272,2023-01-17,House,"H02 - Appropriations:Recommend Do Pass 5-2-0-0-0",5,2,0,0,7
+1640450,1233725,2023-01-20,House,"Amendment failed 30-31-1-0-0",30,31,0,1,62
+1640450,1235492,2023-01-25,House,"3rd Reading:Passed 38-23-1-0-0",38,23,0,1,62
+1640450,1248678,2023-02-13,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1640450,1251734,2023-02-15,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1640450,1253498,2023-02-16,House,"Concur:Passed 40-22-0-0-0",40,22,0,0,62
+1640459,1235335,2023-01-24,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1640459,1238001,2023-01-30,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1640459,1254575,2023-02-17,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1640459,1259924,2023-02-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1640459,1259925,2023-02-23,House,"Concur:Failed 20-41-1-0-0",20,41,0,1,62
+1640459,1268359,2023-03-03,House,"Adopted HB0064JC001: 55-0-7-0-0",55,0,0,7,62
+1640459,1268360,2023-03-03,Senate,"Adopted HB0064JC001: 25-0-6-0-0",25,0,0,6,31
+1640469,1232816,2023-01-18,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1640469,1235032,2023-01-24,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1640469,1247548,2023-02-09,House,"H05 - Agriculture:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1640469,1251968,2023-02-15,House,"3rd Reading:Passed 51-10-1-0-0",51,10,0,1,62
+1640469,1253611,2023-02-16,Senate,"Concur:Passed 26-4-1-0-0",26,4,0,1,31
+1641381,1232019,2023-01-16,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1641381,1232820,2023-01-18,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1641381,1248905,2023-02-13,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1641381,1253694,2023-02-16,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1641381,1262999,2023-02-27,Senate," Veto Override 30-1-0-0-0",30,1,0,0,31
+1641381,1265814,2023-03-01,House,"Amendment Reconsideration Motion Passed by Roll Call 55-6-1-0-0",55,6,0,1,62
+1641381,1265815,2023-03-01,House,"Veto Override 55-6-1-0-0",55,6,0,1,62
+1641406,1232047,2023-01-16,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1641406,1233176,2023-01-19,House,"3rd Reading:Passed 55-5-2-0-0",55,5,0,2,62
+1641406,1242671,2023-02-03,Senate,"S09 - Minerals:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1641406,1246583,2023-02-09,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1641406,1247891,2023-02-10,House,"Concur:Passed 56-5-1-0-0",56,5,0,1,62
+1641463,1232654,2023-01-18,House,"H03 - Revenue:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1641463,1232782,2023-01-18,House,"COW:Failed 23-38-1-0-0",23,38,0,1,62
+1641521,1232152,2023-01-17,House,"H07 - Corporations:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1641521,1233750,2023-01-20,House,"3rd Reading:Passed 39-22-1-0-0",39,22,0,1,62
+1641521,1250434,2023-02-14,Senate,"S07 - Corporations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1641579,1234023,2023-01-20,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1641579,1236224,2023-01-26,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1641579,1246201,2023-02-08,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1641579,1249142,2023-02-13,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1641628,1232644,2023-01-18,House,"H06 - Travel:Recommend Amend and Do Pass 6-2-1-0-0",6,2,0,1,9
+1641628,1233820,2023-01-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1641628,1237095,2023-01-27,House,"3rd Reading:Passed 35-26-1-0-0",35,26,0,1,62
+1641628,1257335,2023-02-21,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1641628,1257336,2023-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1641628,1263432,2023-02-28,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1641628,1264172,2023-02-28,House,"Concur:Passed 57-5-0-0-0",57,5,0,0,62
+1643146,1233755,2023-01-20,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1643146,1236169,2023-01-26,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1643146,1261182,2023-02-24,House,"H10 - Labor:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1643146,1265787,2023-03-01,House,"3rd Reading:Failed 28-32-2-0-0",28,32,0,2,62
+1643171,1233474,2023-01-19,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1643171,1233687,2023-01-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1643171,1236319,2023-01-26,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1643171,1253005,2023-02-16,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1643171,1253656,2023-02-16,House,"H02 - Appropriations:Recommend Amend and Do Pass 5-1-1-0-0",5,1,0,1,7
+1643171,1265173,2023-03-01,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1643171,1266575,2023-03-02,Senate,"Concur:Failed 1-29-1-0-0",1,29,0,1,31
+1643171,1267338,2023-03-02,Senate,"Adopted SF0076JC001: 28-1-2-0-0",28,1,0,2,31
+1643171,1267339,2023-03-02,House,"Adopted SF0076JC001: 43-14-5-0-0",43,14,0,5,62
+1643197,1231849,2023-01-13,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1643197,1232336,2023-01-17,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1643197,1247555,2023-02-09,House,"H05 - Agriculture:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1643197,1249018,2023-02-13,House,"COW:Failed 24-36-2-0-0",24,36,0,2,62
+1643223,1231479,2023-01-11,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1643223,1232332,2023-01-17,Senate,"3rd Reading:Failed 4-27-0-0-0",4,27,0,0,31
+1643247,1231609,2023-01-12,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1643247,1232184,2023-01-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1643247,1243501,2023-02-06,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1643247,1246684,2023-02-09,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1643247,1250303,2023-02-14,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1643273,1232255,2023-01-17,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1643273,1233471,2023-01-19,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1643273,1254271,2023-02-16,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1643273,1260091,2023-02-23,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1643298,1231710,2023-01-12,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1643298,1232183,2023-01-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1643298,1243540,2023-02-06,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1643298,1247137,2023-02-09,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1643330,1235071,2023-01-24,House,"H03 - Revenue:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1643338,1233830,2023-01-20,House,"H06 - Travel:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1643338,1236279,2023-01-26,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1643338,1236822,2023-01-26,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1643338,1261144,2023-02-24,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1643338,1265762,2023-03-01,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1643338,1265763,2023-03-01,House,"Concur:Failed 4-56-2-0-0",4,56,0,2,62
+1643338,1267258,2023-03-02,House,"Adopted HB0076JC001: 44-13-5-0-0",44,13,0,5,62
+1643338,1268292,2023-03-03,House,"JCC Report Reconsideration Motion Passed by Roll Call 54-0-8-0-0",54,0,0,8,62
+1643338,1268293,2023-03-03,House,"Did Not Adopt HB0076JC001: 0-54-8-0-0",0,54,0,8,62
+1643338,1268294,2023-03-03,House,"Adopted HB0076JC001: 43-12-7-0-0",43,12,0,7,62
+1643338,1268295,2023-03-03,Senate,"Adopted HB0076JC001: 26-1-4-0-0",26,1,0,4,31
+1643354,1234882,2023-01-24,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1643354,1237804,2023-01-30,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1643354,1250902,2023-02-14,Senate,"S06 - Travel:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1643354,1257429,2023-02-21,Senate,"3rd Reading:Failed 8-23-0-0-0",8,23,0,0,31
+1643362,1235157,2023-01-24,House,"H06 - Travel:Do Pass Failed 4-4-1-0-0",4,4,0,1,9
+1643378,1232290,2023-01-17,House,"H10 - Labor:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1643378,1233160,2023-01-19,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1643378,1236567,2023-01-26,House,"3rd Reading:Passed 36-25-1-0-0",36,25,0,1,62
+1643378,1248919,2023-02-13,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1643378,1254273,2023-02-16,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1643378,1258067,2023-02-22,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1643378,1258765,2023-02-22,House,"Concur:Passed 35-26-1-0-0",35,26,0,1,62
+1643386,1233321,2023-01-19,House,"H03 - Revenue:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1643394,1233983,2023-01-20,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1643394,1236542,2023-01-26,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1643394,1243743,2023-02-06,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1643394,1246859,2023-02-09,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1643394,1249099,2023-02-13,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1643402,1235051,2023-01-24,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1643402,1237035,2023-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1643402,1244309,2023-02-07,Senate,"S06 - Travel:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1643402,1251533,2023-02-15,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1643415,1236087,2023-01-25,House,"H07 - Corporations:Recommend Do Pass 5-3-1-0-0",5,3,0,1,9
+1643555,1233100,2023-01-18,House,"H07 - Corporations:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1643555,1234947,2023-01-24,House,"3rd Reading:Passed 55-6-1-0-0",55,6,0,1,62
+1643555,1246827,2023-02-09,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1643555,1250638,2023-02-14,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1643555,1251991,2023-02-15,House,"Concur:Passed 41-13-8-0-0",41,13,0,8,62
+1643697,1241220,2023-02-02,House,"H03 - Revenue:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1644118,1232916,2023-01-18,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1644118,1233935,2023-01-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1644118,1249959,2023-02-13,House,"H10 - Labor:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1644118,1261097,2023-02-24,House,"3rd Reading:Passed 47-15-0-0-0",47,15,0,0,62
+1644118,1262934,2023-02-27,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1644231,1237285,2023-01-27,House,"H05 - Agriculture:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1644231,1239435,2023-02-01,House,"H02 - Appropriations:Recommend Do Not Pass 7-0-0-0-0",7,0,0,0,7
+1644655,1237392,2023-01-27,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1644655,1246012,2023-02-08,House,"3rd Reading:Passed 56-6-0-0-0",56,6,0,0,62
+1644655,1254712,2023-02-17,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1644655,1264154,2023-02-28,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1644655,1264155,2023-02-28,House,"Concur:Passed 50-9-3-0-0",50,9,0,3,62
+1645363,1234020,2023-01-20,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1645363,1234775,2023-01-24,House,"Amendment adopted 33-28-1-0-0",33,28,0,1,62
+1645363,1236359,2023-01-26,House,"3rd Reading:Passed 50-11-1-0-0",50,11,0,1,62
+1645363,1248910,2023-02-13,Senate,"S01 - Judiciary:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1645595,1238154,2023-01-30,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1645595,1242522,2023-02-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1645595,1259338,2023-02-22,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1645595,1264057,2023-02-28,House,"3rd Reading:Passed 56-2-4-0-0",56,2,0,4,62
+1645595,1264058,2023-02-28,Senate,"Concur:Passed 29-1-1-0-0",29,1,0,1,31
+1648875,1232924,2023-01-18,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1648875,1234920,2023-01-24,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1648875,1254662,2023-02-17,Senate,"S01 - Judiciary:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1648918,1241790,2023-02-02,House,"H06 - Travel:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1648961,1241776,2023-02-02,House,"H03 - Revenue:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1648961,1243131,2023-02-06,House,"H02 - Appropriations:Recommend Do Pass 4-3-0-0-0",4,3,0,0,7
+1648961,1245890,2023-02-08,House,"3rd Reading:Passed 46-15-1-0-0",46,15,0,1,62
+1648961,1257387,2023-02-21,Senate,"S03 - Revenue:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1649005,1241775,2023-02-02,House,"H03 - Revenue:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1649005,1246187,2023-02-08,House,"Amendment failed 29-33-0-0-0",29,33,0,0,62
+1649005,1246188,2023-02-08,House,"3rd Reading:Failed 37-25-0-0-0",37,25,0,0,62
+1649048,1233107,2023-01-18,House,"H01 - Judiciary:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1649048,1235039,2023-01-24,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1649048,1248922,2023-02-13,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1649048,1253669,2023-02-16,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1649048,1254984,2023-02-17,House,"Concur:Passed 61-0-1-0-0",61,0,0,1,62
+1649092,1233826,2023-01-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1649092,1236570,2023-01-26,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1649092,1242375,2023-02-03,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649092,1246992,2023-02-09,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1649138,1236077,2023-01-25,House,"H09 - Minerals:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1649186,1232511,2023-01-17,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1649186,1233339,2023-01-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1649186,1235830,2023-01-25,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1649186,1245709,2023-02-08,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1649186,1246840,2023-02-09,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 3-0-2-0-0",3,0,0,2,5
+1649186,1249035,2023-02-13,Senate,"Amendment adopted 23-8-0-0-0",23,8,0,0,31
+1649186,1249036,2023-02-13,Senate,"Amendment failed 13-18-0-0-0",13,18,0,0,31
+1649186,1251071,2023-02-14,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1649186,1251072,2023-02-14,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1649186,1257565,2023-02-21,House,"Concur:Failed 3-59-0-0-0",3,59,0,0,62
+1649186,1267948,2023-03-03,House,"Adopted HB0093JC001: 52-3-7-0-0",52,3,0,7,62
+1649186,1268518,2023-03-03,Senate,"Adopted HB0093JC001: 27-0-4-0-0",27,0,0,4,31
+1649229,1239183,2023-01-31,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1649229,1245980,2023-02-08,House,"3rd Reading:Failed 30-32-0-0-0",30,32,0,0,62
+1649273,1232643,2023-01-18,Senate,"S05 - Agriculture:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1649273,1233774,2023-01-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649273,1236292,2023-01-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1649273,1254338,2023-02-17,House,"H02 - Appropriations:Do Pass Failed 1-6-0-0-0",1,6,0,0,7
+1649317,1236413,2023-01-26,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1649317,1240848,2023-02-02,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1649317,1253606,2023-02-16,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649317,1256990,2023-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1649317,1261223,2023-02-24,Senate,"Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1649317,1261224,2023-02-24,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1649317,1262084,2023-02-27,House,"Concur:Passed 50-12-0-0-0",50,12,0,0,62
+1649359,1232140,2023-01-16,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649359,1233396,2023-01-19,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1649359,1250515,2023-02-14,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1649359,1257675,2023-02-21,House,"3rd Reading:Failed 20-38-4-0-0",20,38,0,4,62
+1649404,1238952,2023-01-31,House,"H03 - Revenue:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1649404,1239434,2023-02-01,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1649404,1243101,2023-02-06,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1649404,1246715,2023-02-09,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649404,1251489,2023-02-15,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649404,1256971,2023-02-21,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1649404,1256972,2023-02-21,House,"Concur:Passed 60-2-0-0-0",60,2,0,0,62
+1649447,1232032,2023-01-16,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1649447,1233487,2023-01-19,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1649447,1259361,2023-02-22,House,"H04 - Education:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1649447,1264038,2023-02-28,House,"3rd Reading:Passed 58-0-4-0-0",58,0,0,4,62
+1649447,1264039,2023-02-28,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1651228,1242860,2023-02-03,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1651228,1245802,2023-02-08,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1651228,1251772,2023-02-15,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1651228,1254586,2023-02-17,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1651228,1257248,2023-02-21,House,"Concur:Passed 59-3-0-0-0",59,3,0,0,62
+1651232,1233454,2023-01-19,Senate,"S03 - Revenue:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1651232,1237123,2023-01-27,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1651334,1235900,2023-01-25,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1651334,1236538,2023-01-26,Senate,"COW:Failed 9-15-7-0-0",9,15,0,7,31
+1651439,1232271,2023-01-17,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1651439,1233446,2023-01-19,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1651439,1247549,2023-02-09,House,"H06 - Travel:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1651439,1253375,2023-02-16,House,"3rd Reading:Failed 22-40-0-0-0",22,40,0,0,62
+1651546,1233433,2023-01-19,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1651546,1234777,2023-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1651755,1233828,2023-01-20,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1651755,1235852,2023-01-25,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1651755,1251336,2023-02-14,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1651755,1257737,2023-02-21,House,"3rd Reading:Passed 46-16-0-0-0",46,16,0,0,62
+1651859,1232917,2023-01-18,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1651859,1233901,2023-01-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1651859,1249966,2023-02-13,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1651859,1253591,2023-02-16,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1651859,1258941,2023-02-22,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1651962,1233717,2023-01-20,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1651962,1238045,2023-01-30,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1651962,1254256,2023-02-16,House,"H03 - Revenue:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1653749,1232544,2023-01-18,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1653749,1233921,2023-01-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1653749,1254263,2023-02-16,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1653749,1260238,2023-02-23,House,"3rd Reading:Passed 56-2-4-0-0",56,2,0,4,62
+1653749,1262664,2023-02-27,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1653781,1235124,2023-01-24,House,"H06 - Travel:Recommend Amend and Do Pass 6-2-1-0-0",6,2,0,1,9
+1653781,1237298,2023-01-27,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1653781,1241208,2023-02-02,Senate,"S06 - Travel:Recommend Amend and Do Pass 8-2-0-0-0",4,1,0,0,5
+1653781,1249394,2023-02-13,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1653781,1251266,2023-02-14,House,"Concur:Failed 1-61-0-0-0",1,61,0,0,62
+1653781,1254530,2023-02-17,House,"Adopted HB0104JC001: 57-4-1-0-0",57,4,0,1,62
+1653781,1256738,2023-02-21,Senate,"Adopted HB0104JC001: 27-4-0-0-0",27,4,0,0,31
+1653814,1236390,2023-01-26,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1653814,1237524,2023-01-30,Senate,"3rd Reading:Passed 18-11-1-0-1",18,11,1,1,31
+1653848,1238044,2023-01-30,House,"H07 - Corporations:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1653848,1240987,2023-02-02,House,"3rd Reading:Passed 51-9-2-0-0",51,9,0,2,62
+1653848,1246700,2023-02-09,Senate,"S07 - Corporations:Do Pass Failed 1-3-1-0-0",1,3,0,1,5
+1653848,1250277,2023-02-14,Senate,"S:Recall from Committee passed Pursuant to SR 5-5 19-12-0-0-0",19,12,0,0,31
+1653848,1250278,2023-02-14,Senate,"S:Motion to Rerefer Pursuant to SR 8-6 Passed by Roll Call 16-14-1-0-0",16,14,0,1,31
+1653848,1253598,2023-02-16,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1653848,1259734,2023-02-23,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1653848,1261350,2023-02-24,Senate,"Amendment failed 15-16-0-0-0",15,16,0,0,31
+1653848,1261351,2023-02-24,Senate,"3rd Reading:Passed 19-11-1-0-0",19,11,0,1,31
+1653884,1243529,2023-02-06,House,"H02 - Appropriations:Recommend Do Not Pass 4-3-0-0-0",4,3,0,0,7
+1653952,1234853,2023-01-24,Senate,"S07 - Corporations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1653988,1232039,2023-01-16,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1653988,1232857,2023-01-18,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1653988,1252793,2023-02-15,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1653988,1257244,2023-02-21,House,"3rd Reading:Passed 54-8-0-0-0",54,8,0,0,62
+1654024,1232919,2023-01-18,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654024,1233895,2023-01-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1654024,1253371,2023-02-16,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1654024,1261508,2023-02-24,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1654059,1232141,2023-01-16,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1654059,1233468,2023-01-19,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1654059,1259280,2023-02-22,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1654059,1265800,2023-03-01,House,"3rd Reading:Passed 46-15-1-0-0",46,15,0,1,62
+1654093,1232746,2023-01-18,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1654093,1234883,2023-01-24,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1654093,1251483,2023-02-15,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1654093,1265250,2023-03-01,House,"3rd Reading:Passed 39-21-2-0-0",39,21,0,2,62
+1654093,1265251,2023-03-01,Senate,"Concur:Passed 22-7-2-0-0",22,7,0,2,31
+1654134,1233316,2023-01-19,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654134,1236506,2023-01-26,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1654134,1251343,2023-02-14,House,"H03 - Revenue:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1654134,1264101,2023-02-28,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1654134,1266680,2023-03-02,Senate,"Concur:Passed 22-8-1-0-0",22,8,0,1,31
+1654165,1234916,2023-01-24,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1654165,1237383,2023-01-27,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1654165,1242357,2023-02-03,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654165,1247023,2023-02-09,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1654202,1232262,2023-01-17,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1654202,1233803,2023-01-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1654235,1236084,2023-01-25,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1654272,1232752,2023-01-18,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654272,1235846,2023-01-25,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1654272,1254266,2023-02-16,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1654272,1261470,2023-02-24,House,"3rd Reading:Passed 50-12-0-0-0",50,12,0,0,62
+1654272,1262807,2023-02-27,Senate,"Concur:Passed 24-7-0-0-0",24,7,0,0,31
+1654307,1235103,2023-01-24,House,"H05 - Agriculture:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1654307,1237081,2023-01-27,House,"3rd Reading:Passed 41-20-1-0-0",41,20,0,1,62
+1654307,1250290,2023-02-14,Senate,"S07 - Corporations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1654307,1253333,2023-02-16,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1654307,1262200,2023-02-27,House,"Did Not Override Veto 38-24-0-0-0",38,24,0,0,62
+1654341,1232705,2023-01-18,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1654341,1233327,2023-01-19,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654341,1235751,2023-01-25,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1654341,1257598,2023-02-21,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1654341,1262836,2023-02-27,House,"3rd Reading:Passed 60-2-0-0-0",60,2,0,0,62
+1654341,1264145,2023-02-28,Senate,"Concur:Failed 0-30-1-0-0",0,30,0,1,31
+1654341,1268348,2023-03-03,Senate,"Adopted SF0096JC001: 27-1-3-0-0",27,1,0,3,31
+1654341,1268349,2023-03-03,House,"Adopted SF0096JC001: 52-2-8-0-0",52,2,0,8,62
+1654375,1234021,2023-01-20,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1654375,1236367,2023-01-26,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1654375,1242370,2023-02-03,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654375,1246630,2023-02-09,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1654411,1241780,2023-02-02,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1654411,1245903,2023-02-08,House,"3rd Reading:Passed 55-5-2-0-0",55,5,0,2,62
+1654411,1254579,2023-02-17,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1654411,1259555,2023-02-23,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1654411,1260483,2023-02-23,House,"Concur:Passed 59-1-2-0-0",59,1,0,2,62
+1655871,1237197,2023-01-27,House,"H05 - Agriculture:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1655871,1240178,2023-02-01,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1655871,1243677,2023-02-06,House,"COW:Failed 23-39-0-0-0",23,39,0,0,62
+1655934,1238102,2023-01-30,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1655934,1240949,2023-02-02,House,"3rd Reading:Passed 44-18-0-0-0",44,18,0,0,62
+1655934,1248764,2023-02-13,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1655994,1237405,2023-01-27,House,"H09 - Minerals:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1655994,1237926,2023-01-30,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1655994,1246100,2023-02-08,House,"3rd Reading:Passed 48-14-0-0-0",48,14,0,0,62
+1655994,1251676,2023-02-15,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1655994,1254343,2023-02-17,Senate,"3rd Reading:Passed 27-2-1-0-1",27,2,1,1,31
+1655994,1257586,2023-02-21,House,"Concur:Failed 31-31-0-0-0",31,31,0,0,62
+1655994,1258900,2023-02-22,House,"Concur:Recede from Non-Concurrence pursuant to JR 2-4 Passed by Roll Call 40-21-1-0-0",40,21,0,1,62
+1656057,1242121,2023-02-02,House,"H03 - Revenue:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1656120,1236857,2023-01-26,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1656120,1241567,2023-02-02,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1656120,1261049,2023-02-24,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1656120,1266233,2023-03-01,House,"Amendment failed 27-34-1-0-0",27,34,0,1,62
+1656120,1266234,2023-03-01,House,"3rd Reading:Failed 6-55-1-0-0",6,55,0,1,62
+1656366,1232755,2023-01-18,Senate,"S03 - Revenue:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1656366,1233108,2023-01-18,Senate,"COW:Failed 7-23-1-0-0",7,23,0,1,31
+1656466,1233939,2023-01-20,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1656466,1235632,2023-01-25,Senate,"3rd Reading:Failed 15-16-0-0-0",15,16,0,0,31
+1656466,1235633,2023-01-25,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 21-10-0-0-0",21,10,0,0,31
+1656466,1235634,2023-01-25,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1656466,1251321,2023-02-14,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1656466,1257192,2023-02-21,House,"3rd Reading:Passed 50-12-0-0-0",50,12,0,0,62
+1656562,1239743,2023-02-01,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1656562,1242043,2023-02-02,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1656562,1246022,2023-02-08,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1656562,1254255,2023-02-16,House,"H05 - Agriculture:Recommend Amend and Do Pass 5-3-1-0-0",5,3,0,1,9
+1656562,1265690,2023-03-01,House,"3rd Reading:Failed 2-59-1-0-0",2,59,0,1,62
+1656664,1234870,2023-01-24,Senate,"S07 - Corporations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1656864,1233749,2023-01-20,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1656864,1235385,2023-01-25,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1656864,1250863,2023-02-14,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1656864,1257451,2023-02-21,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1656864,1257992,2023-02-22,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1657019,1233802,2023-01-20,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1657019,1236477,2023-01-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1657019,1259332,2023-02-22,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1657019,1264041,2023-02-28,House,"3rd Reading:Passed 46-12-4-0-0",46,12,0,4,62
+1657127,1236450,2023-01-26,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1657127,1237192,2023-01-27,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1657127,1240837,2023-02-02,House,"3rd Reading:Passed 42-20-0-0-0",42,20,0,0,62
+1657127,1258533,2023-02-22,Senate,"S03 - Revenue:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1657183,1236371,2023-01-26,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1657183,1237950,2023-01-30,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1657183,1254264,2023-02-16,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1657183,1264143,2023-02-28,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1657238,1237648,2023-01-30,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1657238,1240916,2023-02-02,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1657292,1236963,2023-01-27,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1657292,1243145,2023-02-06,Senate,"3rd Reading:Failed 14-17-0-0-0",14,17,0,0,31
+1657346,1235669,2023-01-25,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1657346,1237253,2023-01-27,Senate,"Amendment failed 8-21-2-0-0",8,21,0,2,31
+1657346,1237254,2023-01-27,Senate,"3rd Reading:Passed 23-6-2-0-0",23,6,0,2,31
+1657346,1261067,2023-02-24,House,"H03 - Revenue:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1657346,1265939,2023-03-01,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1657346,1266583,2023-03-02,Senate,"Concur:Passed 26-4-1-0-0",26,4,0,1,31
+1657400,1236080,2023-01-25,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1657400,1241425,2023-02-02,House,"3rd Reading:Passed 57-5-0-0-0",57,5,0,0,62
+1657400,1246808,2023-02-09,Senate,"S06 - Travel:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1657455,1235960,2023-01-25,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1657455,1241328,2023-02-02,House,"3rd Reading:Passed 34-28-0-0-0",34,28,0,0,62
+1657455,1257177,2023-02-21,Senate,"S03 - Revenue:Do Pass Failed 0-5-0-0-0",0,5,0,0,5
+1657509,1240211,2023-02-01,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1657509,1243125,2023-02-06,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1657509,1251775,2023-02-15,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1657509,1254791,2023-02-17,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1657563,1236856,2023-01-26,House,"H06 - Travel:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1657563,1243103,2023-02-06,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1657563,1254549,2023-02-17,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1657563,1261248,2023-02-24,Senate,"3rd Reading:Failed 14-14-3-0-0",14,14,0,3,31
+1657563,1262099,2023-02-27,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 19-12-0-0-0",19,12,0,0,31
+1657563,1262100,2023-02-27,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1657563,1262700,2023-02-27,House,"Concur:Passed 44-17-1-0-0",44,17,0,1,62
+1657615,1237137,2023-01-27,House,"H10 - Labor:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1657665,1242113,2023-02-02,House,"H06 - Travel:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1657665,1245983,2023-02-08,House,"3rd Reading:Passed 57-5-0-0-0",57,5,0,0,62
+1657665,1254770,2023-02-17,Senate,"S05 - Agriculture:Do Pass Failed 2-2-1-0-0",2,2,0,1,5
+1658998,1236082,2023-01-25,House,"H07 - Corporations:Recommend Amend and Do Pass 5-3-1-0-0",5,3,0,1,9
+1658998,1238857,2023-01-31,House,"COW:Failed 24-36-2-0-0",24,36,0,2,62
+1659058,1242509,2023-02-03,House,"H09 - Minerals:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1659088,1242126,2023-02-02,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1659088,1243112,2023-02-06,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1659120,1237476,2023-01-30,House,"H07 - Corporations:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1659151,1235695,2023-01-25,House,"H10 - Labor:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1659181,1234886,2023-01-24,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1659212,1236062,2023-01-25,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1659212,1241384,2023-02-02,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1659212,1258283,2023-02-22,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1659212,1260947,2023-02-24,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1659245,1233298,2023-01-19,Senate,"S07 - Corporations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1659245,1234923,2023-01-24,Senate,"3rd Reading:Failed 12-18-1-0-0",12,18,0,1,31
+1659245,1234924,2023-01-24,Senate,"3rd Reading:S Bill Reconsideration Motion Failed by Roll Call 9-22-0-0-0",9,22,0,0,31
+1659276,1233797,2023-01-20,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1659276,1236533,2023-01-26,Senate,"3rd Reading:Failed 15-16-0-0-0",15,16,0,0,31
+1659276,1236534,2023-01-26,Senate,"3rd Reading:S Bill Reconsideration Motion Failed by Roll Call 14-17-0-0-0",14,17,0,0,31
+1659337,1234658,2023-01-24,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1659337,1237063,2023-01-27,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1659337,1257407,2023-02-21,House,"Pursuant to HR 4-7(b) Suspension of Rules Failed by Roll Call 27-34-1-0-0",27,34,0,1,62
+1659368,1233815,2023-01-20,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1659368,1236384,2023-01-26,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1659368,1253478,2023-02-16,Senate,"S07 - Corporations:Recommend Do Pass 4-0-0-0-1",4,0,1,0,5
+1659368,1256950,2023-02-21,Senate,"3rd Reading:Passed 27-0-0-0-4",27,0,4,0,31
+1659398,1234878,2023-01-24,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1659398,1237229,2023-01-27,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1659398,1257608,2023-02-21,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1659398,1261433,2023-02-24,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1659429,1233817,2023-01-20,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1659429,1236326,2023-01-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1659429,1259279,2023-02-22,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1659429,1264198,2023-02-28,House,"3rd Reading:Passed 58-1-3-0-0",58,1,0,3,62
+1659459,1236338,2023-01-26,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1659459,1238016,2023-01-30,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1659459,1244786,2023-02-07,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1659459,1250766,2023-02-14,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1659488,1233691,2023-01-20,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1659488,1236287,2023-01-26,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1659488,1252473,2023-02-15,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1659488,1260991,2023-02-24,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1659488,1262253,2023-02-27,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1659629,1237320,2023-01-27,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1659629,1243620,2023-02-06,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1659629,1254775,2023-02-17,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1659629,1261472,2023-02-24,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1659632,1232747,2023-01-18,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1659632,1235004,2023-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1659632,1246364,2023-02-08,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1659632,1248990,2023-02-13,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1660176,1238375,2023-01-31,Senate,"S08 - Transportation:Do Pass Failed 0-5-0-0-0",0,5,0,0,5
+1660177,1233162,2023-01-19,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1660177,1235022,2023-01-24,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1660177,1254262,2023-02-16,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1660177,1260097,2023-02-23,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1660177,1261424,2023-02-24,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1660201,1236049,2023-01-25,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1660201,1238703,2023-01-31,House,"3rd Reading:Failed 28-34-0-0-0",28,34,0,0,62
+1660212,1234024,2023-01-20,House,"H07 - Corporations:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1660212,1236425,2023-01-26,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1660212,1251078,2023-02-14,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1660212,1253663,2023-02-16,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1660220,1236067,2023-01-25,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1660220,1241421,2023-02-02,House,"3rd Reading:Passed 39-23-0-0-0",39,23,0,0,62
+1660220,1248893,2023-02-13,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1660220,1248894,2023-02-13,Senate,"COW:Failed 8-20-3-0-0",8,20,0,3,31
+1660229,1233459,2023-01-19,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1660237,1242124,2023-02-02,House,"H08 - Transportation:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1660237,1246066,2023-02-08,House,"3rd Reading:Passed 39-23-0-0-0",39,23,0,0,62
+1660237,1250025,2023-02-14,Senate,"S08 - Transportation:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1660256,1243048,2023-02-03,House,"H04 - Education:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1660272,1234025,2023-01-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1660272,1236513,2023-01-26,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1660272,1253447,2023-02-16,Senate,"S07 - Corporations:Recommend Do Pass 4-0-0-0-1",4,0,1,0,5
+1660272,1256995,2023-02-21,Senate,"3rd Reading:Passed 20-7-0-0-4",20,7,4,0,31
+1660285,1235183,2023-01-24,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1660285,1238213,2023-01-30,House,"3rd Reading:Passed 56-3-3-0-0",56,3,0,3,62
+1660285,1254730,2023-02-17,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1660285,1260322,2023-02-23,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1660285,1262882,2023-02-27,House,"Concur:Failed 22-40-0-0-0",22,40,0,0,62
+1660285,1265813,2023-03-01,House,"Adopted HB0144JC001: 54-7-1-0-0",54,7,0,1,62
+1660285,1267355,2023-03-02,Senate,"Adopted HB0144JC001: 19-11-1-0-0",19,11,0,1,31
+1660293,1233819,2023-01-20,House,"H09 - Minerals:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1660310,1238130,2023-01-30,House,"H04 - Education:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1660310,1243754,2023-02-06,House,"COW:Failed 15-47-0-0-0",15,47,0,0,62
+1660320,1233546,2023-01-19,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1660320,1235069,2023-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1660320,1245716,2023-02-08,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1660320,1248940,2023-02-13,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1660328,1242840,2023-02-03,House,"H10 - Labor:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1660328,1244271,2023-02-07,House,"Amendment failed 26-36-0-0-0",26,36,0,0,62
+1660328,1245738,2023-02-08,House,"3rd Reading:Failed 29-32-1-0-0",29,32,0,1,62
+1660337,1240712,2023-02-01,House,"H01 - Judiciary:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1660337,1244303,2023-02-07,House,"Amendment failed 6-56-0-0-0",6,56,0,0,62
+1660337,1245965,2023-02-08,House,"Amendment adopted 34-28-0-0-0",34,28,0,0,62
+1660337,1245966,2023-02-08,House,"3rd Reading:Passed 46-16-0-0-0",46,16,0,0,62
+1660337,1259940,2023-02-23,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1660337,1266009,2023-03-01,Senate,"3rd Reading:Passed 25-5-1-0-0",25,5,0,1,31
+1660337,1266464,2023-03-02,House,"Concur:Passed 49-10-3-0-0",49,10,0,3,62
+1660345,1237518,2023-01-30,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1660345,1238366,2023-01-31,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1660345,1241442,2023-02-02,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1660345,1256887,2023-02-21,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1660345,1260185,2023-02-23,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1660345,1265407,2023-03-01,House,"3rd Reading:Passed 34-27-1-0-0",34,27,0,1,62
+1660345,1266820,2023-03-02,Senate,"Concur:Failed 5-25-1-0-0",5,25,0,1,31
+1660345,1267483,2023-03-02,Senate,"Adopted SF0120JC001: 28-1-2-0-0",28,1,0,2,31
+1660345,1267484,2023-03-02,House,"Adopted SF0120JC001: 42-15-5-0-0",42,15,0,5,62
+1660355,1239370,2023-01-31,House,"H08 - Transportation:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1660355,1242041,2023-02-02,House,"COW:Failed 28-32-2-0-0",28,32,0,2,62
+1660364,1237168,2023-01-27,House,"H06 - Travel:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1660364,1241397,2023-02-02,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1660364,1246805,2023-02-09,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1660364,1250775,2023-02-14,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1662601,1234022,2023-01-20,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1662601,1235899,2023-01-25,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1663254,1237331,2023-01-27,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1664570,1236085,2023-01-25,House,"H07 - Corporations:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1664570,1246396,2023-02-08,House,"3rd Reading:Failed 31-31-0-0-0",31,31,0,0,62
+1664570,1246397,2023-02-08,House,"3rd Reading:H Bill Reconsideration Motion Failed by Roll Call 31-31-0-0-0",31,31,0,0,62
+1664574,1241792,2023-02-02,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1664578,1239364,2023-01-31,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1664578,1243452,2023-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1664578,1252485,2023-02-15,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1664578,1254583,2023-02-17,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1664578,1257888,2023-02-21,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1664582,1242112,2023-02-02,House,"H03 - Revenue:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1664586,1235463,2023-01-25,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1664586,1245368,2023-02-07,House,"3rd Reading:Passed 37-25-0-0-0",37,25,0,0,62
+1664590,1237873,2023-01-30,House,"H07 - Corporations:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1664594,1236543,2023-01-26,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1664594,1243554,2023-02-06,House,"COW:Failed 8-53-1-0-0",8,53,0,1,62
+1664599,1242809,2023-02-03,House,"H03 - Revenue:Recommend Amend and Do Pass 5-3-1-0-0",5,3,0,1,9
+1664599,1243508,2023-02-06,House,"H02 - Appropriations:Recommend Do Not Pass 6-0-1-0-0",6,0,0,1,7
+1664604,1238310,2023-01-30,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1664604,1243564,2023-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1664604,1251769,2023-02-15,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664604,1254808,2023-02-17,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1664608,1238623,2023-01-31,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1664608,1241759,2023-02-02,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1664608,1245532,2023-02-08,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1664608,1261548,2023-02-24,House,"H04 - Education:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1664608,1262927,2023-02-27,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1664608,1265824,2023-03-01,House,"Amendment adopted 42-19-1-0-0",42,19,0,1,62
+1664608,1265825,2023-03-01,House,"3rd Reading:Passed 51-10-1-0-0",51,10,0,1,62
+1664608,1266481,2023-03-02,Senate,"Concur:Passed 27-3-1-0-0",27,3,0,1,31
+1664612,1235464,2023-01-25,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1664612,1237483,2023-01-30,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1664616,1235893,2023-01-25,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1664616,1237132,2023-01-27,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1664616,1240921,2023-02-02,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1664616,1261649,2023-02-24,House,"H07 - Corporations:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1664616,1262831,2023-02-27,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1664616,1264903,2023-03-01,House,"3rd Reading:Passed 36-25-1-0-0",36,25,0,1,62
+1664616,1265390,2023-03-01,Senate,"Concur:Passed 20-9-2-0-0",20,9,0,2,31
+1664624,1235511,2023-01-25,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1664624,1237540,2023-01-30,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1664629,1241772,2023-02-02,House,"H05 - Agriculture:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1664633,1235687,2023-01-25,Senate,"S02 - Appropriations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1664638,1239374,2023-01-31,House,"H05 - Agriculture:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1664638,1244665,2023-02-07,House,"3rd Reading:Passed 45-17-0-0-0",45,17,0,0,62
+1664638,1248889,2023-02-13,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664638,1252187,2023-02-15,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1664641,1240828,2023-02-02,Senate,"S07 - Corporations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1664641,1243122,2023-02-06,Senate,"3rd Reading:Passed 17-13-1-0-0",17,13,0,1,31
+1664641,1260993,2023-02-24,House,"H03 - Revenue:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1664641,1263065,2023-02-27,House,"COW:Failed 21-41-0-0-0",21,41,0,0,62
+1664645,1235373,2023-01-25,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1664649,1237927,2023-01-30,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664649,1241436,2023-02-02,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1664649,1252789,2023-02-15,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1664649,1260181,2023-02-23,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1664653,1235347,2023-01-24,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1664653,1237191,2023-01-27,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1664653,1244066,2023-02-06,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1664653,1249412,2023-02-13,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1664653,1250769,2023-02-14,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1664658,1236473,2023-01-26,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1664658,1240840,2023-02-02,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1664658,1246619,2023-02-09,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664658,1250111,2023-02-14,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1664662,1237400,2023-01-27,House,"H10 - Labor:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1664666,1236075,2023-01-25,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1664666,1238825,2023-01-31,House,"3rd Reading:Passed 54-8-0-0-0",54,8,0,0,62
+1664666,1256917,2023-02-21,Senate,"S07 - Corporations:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1664670,1237399,2023-01-27,House,"H01 - Judiciary:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1664670,1240999,2023-02-02,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1664670,1245733,2023-02-08,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1664675,1238137,2023-01-30,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1664675,1238378,2023-01-31,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1664679,1237889,2023-01-30,House,"H04 - Education:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1664684,1239376,2023-01-31,House,"H06 - Travel:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1664684,1244776,2023-02-07,House,"3rd Reading:Passed 36-26-0-0-0",36,26,0,0,62
+1664684,1261238,2023-02-24,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1664684,1265662,2023-03-01,Senate,"3rd Reading:Passed 28-1-1-0-1",28,1,1,1,31
+1664684,1265663,2023-03-01,House,"Concur:Passed 40-20-2-0-0",40,20,0,2,62
+1664688,1242119,2023-02-02,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1664688,1245996,2023-02-08,House,"3rd Reading:Passed 49-13-0-0-0",49,13,0,0,62
+1664688,1250978,2023-02-14,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664688,1254992,2023-02-17,Senate,"3rd Reading:Passed 26-3-1-0-1",26,3,1,1,31
+1664700,1240608,2023-02-01,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1664704,1237943,2023-01-30,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1664704,1238814,2023-01-31,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1664704,1241398,2023-02-02,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1664709,1237858,2023-01-30,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664714,1238637,2023-01-31,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1664714,1243567,2023-02-06,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1664714,1252750,2023-02-15,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1664714,1264148,2023-02-28,House,"3rd Reading:Passed 54-5-3-0-0",54,5,0,3,62
+1664714,1264149,2023-02-28,Senate,"Concur:Passed 20-10-1-0-0",20,10,0,1,31
+1664722,1235485,2023-01-25,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1664722,1241106,2023-02-02,House,"3rd Reading:Passed 43-19-0-0-0",43,19,0,0,62
+1664722,1244804,2023-02-07,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1664722,1263446,2023-02-28,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1664726,1234915,2023-01-24,House,"H03 - Revenue:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1664726,1237537,2023-01-30,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1664730,1239782,2023-02-01,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1664734,1236343,2023-01-26,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1664734,1237898,2023-01-30,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1664734,1254253,2023-02-16,House,"H06 - Travel:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1664734,1261457,2023-02-24,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1665423,1235344,2023-01-24,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1665423,1237347,2023-01-27,Senate,"Amendment failed 14-16-1-0-0",14,16,0,1,31
+1665423,1237424,2023-01-27,Senate,"Amendment adopted 20-10-1-0-0",20,10,0,1,31
+1665423,1237489,2023-01-30,Senate,"Amendment adopted 18-12-1-0-0",18,12,0,1,31
+1665423,1237490,2023-01-30,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1665423,1238215,2023-01-30,Senate,"3rd Reading:S Bill Reconsideration Motion Failed by Roll Call 7-23-1-0-0",7,23,0,1,31
+1665423,1261120,2023-02-24,House,"H03 - Revenue:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1665423,1263138,2023-02-27,House,"H02 - Appropriations:Do Pass Failed 7-0-0-0-0",7,0,0,0,7
+1665565,1235380,2023-01-25,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1665565,1237058,2023-01-27,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1665565,1254015,2023-02-16,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1665565,1265769,2023-03-01,House,"3rd Reading:Passed 51-9-2-0-0",51,9,0,2,62
+1665565,1266460,2023-03-02,Senate,"Concur:Passed 28-2-1-0-0",28,2,0,1,31
+1665706,1239381,2023-01-31,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1665706,1242624,2023-02-03,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1665706,1245990,2023-02-08,House,"3rd Reading:Passed 58-4-0-0-0",58,4,0,0,62
+1665706,1251690,2023-02-15,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1665706,1254260,2023-02-16,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1665706,1258876,2023-02-22,Senate,"3rd Reading:Passed 29-1-0-0-1",29,1,1,0,31
+1665706,1260300,2023-02-23,House,"Concur:Passed 57-3-2-0-0",57,3,0,2,62
+1665990,1237118,2023-01-27,House,"H07 - Corporations:Do Pass Failed 4-4-1-0-0",4,4,0,1,9
+1666134,1238806,2023-01-31,House,"H01 - Judiciary:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1666701,1234868,2023-01-24,Senate,"S03 - Revenue:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1667121,1241047,2023-02-02,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1667121,1242891,2023-02-03,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1667536,1235943,2023-01-25,House,"H09 - Minerals:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1667536,1236488,2023-01-26,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1667536,1240945,2023-02-02,House,"3rd Reading:Passed 37-25-0-0-0",37,25,0,0,62
+1667536,1249561,2023-02-13,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1667536,1253440,2023-02-16,Senate,"S02 - Appropriations:Recommend Do Not Pass 3-2-0-0-0",3,2,0,0,5
+1667538,1238343,2023-01-31,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1667538,1240798,2023-02-02,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1667538,1249640,2023-02-13,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1667538,1253052,2023-02-16,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1667595,1236310,2023-01-26,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1667595,1237149,2023-01-27,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1667595,1242652,2023-02-03,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1667595,1257910,2023-02-21,House,"H08 - Transportation:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1667595,1259545,2023-02-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1667653,1242155,2023-02-03,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1667653,1245621,2023-02-08,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1667711,1239605,2023-02-01,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1667711,1241630,2023-02-02,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1667711,1245501,2023-02-08,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1667711,1251511,2023-02-15,House,"H02 - Appropriations:Do Pass Failed 2-5-0-0-0",2,5,0,0,7
+1667769,1241170,2023-02-02,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1667769,1243403,2023-02-06,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1667769,1256498,2023-02-21,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1667769,1261458,2023-02-24,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1672522,1236840,2023-01-26,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1672590,1237792,2023-01-30,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1672590,1238372,2023-01-31,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1672590,1240824,2023-02-02,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1672735,1240638,2023-02-01,Senate,"Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1672735,1240639,2023-02-01,Senate,"Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1672735,1240640,2023-02-01,Senate,"Amendment failed 12-19-0-0-0",12,19,0,0,31
+1672735,1240641,2023-02-01,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672735,1240642,2023-02-01,Senate,"Amendment adopted 26-5-0-0-0",26,5,0,0,31
+1672735,1240643,2023-02-01,Senate,"Amendment failed 8-23-0-0-0",8,23,0,0,31
+1672735,1240644,2023-02-01,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672735,1240645,2023-02-01,Senate,"Amendment adopted 23-8-0-0-0",23,8,0,0,31
+1672735,1240646,2023-02-01,Senate,"Amendment failed 9-22-0-0-0",9,22,0,0,31
+1672735,1240647,2023-02-01,Senate,"Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1672735,1240648,2023-02-01,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672735,1240649,2023-02-01,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1672735,1240650,2023-02-01,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672735,1240651,2023-02-01,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1672735,1240652,2023-02-01,Senate,"Amendment adopted 28-3-0-0-0",28,3,0,0,31
+1672735,1240653,2023-02-01,Senate,"Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1672735,1240654,2023-02-01,Senate,"Amendment failed 13-18-0-0-0",13,18,0,0,31
+1672735,1240655,2023-02-01,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1672735,1240656,2023-02-01,Senate,"Amendment adopted 27-4-0-0-0",27,4,0,0,31
+1672735,1240657,2023-02-01,Senate,"Amendment failed 11-20-0-0-0",11,20,0,0,31
+1672735,1240658,2023-02-01,Senate,"Amendment failed 8-23-0-0-0",8,23,0,0,31
+1672735,1240659,2023-02-01,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1672735,1240660,2023-02-01,Senate,"Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1672735,1240661,2023-02-01,Senate,"Amendment failed 2-29-0-0-0",2,29,0,0,31
+1672735,1240662,2023-02-01,Senate,"Amendment adopted 22-9-0-0-0",22,9,0,0,31
+1672735,1240663,2023-02-01,Senate,"Amendment adopted 29-2-0-0-0",29,2,0,0,31
+1672735,1240664,2023-02-01,Senate,"Amendment failed 8-23-0-0-0",8,23,0,0,31
+1672735,1240665,2023-02-01,Senate,"Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1672735,1240666,2023-02-01,Senate,"Amendment adopted 30-1-0-0-0",30,1,0,0,31
+1672735,1240667,2023-02-01,Senate,"Amendment failed 13-18-0-0-0",13,18,0,0,31
+1672735,1240668,2023-02-01,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1672735,1240669,2023-02-01,Senate,"Amendment adopted 25-6-0-0-0",25,6,0,0,31
+1672735,1240670,2023-02-01,Senate,"Amendment failed 8-22-0-0-1",8,22,1,0,31
+1672735,1240671,2023-02-01,Senate,"Amendment failed 15-16-0-0-0",15,16,0,0,31
+1672735,1240672,2023-02-01,Senate,"Amendment failed 15-16-0-0-0",15,16,0,0,31
+1672735,1240673,2023-02-01,Senate,"Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1672735,1240674,2023-02-01,Senate,"Amendment failed 5-26-0-0-0",5,26,0,0,31
+1672735,1240675,2023-02-01,Senate,"Amendment failed 7-24-0-0-0",7,24,0,0,31
+1672735,1242474,2023-02-03,Senate,"Amendment adopted 22-9-0-0-0",22,9,0,0,31
+1672735,1242475,2023-02-03,Senate,"Amendment failed 12-19-0-0-0",12,19,0,0,31
+1672735,1242476,2023-02-03,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1672735,1242477,2023-02-03,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672735,1242478,2023-02-03,Senate,"Amendment failed 15-16-0-0-0",15,16,0,0,31
+1672735,1242479,2023-02-03,Senate,"Amendment failed 12-19-0-0-0",12,19,0,0,31
+1672735,1242480,2023-02-03,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1672735,1242481,2023-02-03,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672735,1242482,2023-02-03,Senate,"Amendment adopted 28-2-1-0-0",28,2,0,1,31
+1672735,1242483,2023-02-03,Senate,"Amendment failed 9-21-1-0-0",9,21,0,1,31
+1672735,1242484,2023-02-03,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1672735,1242485,2023-02-03,Senate,"Amendment adopted 24-6-1-0-0",24,6,0,1,31
+1672735,1242486,2023-02-03,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1672735,1242487,2023-02-03,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1672735,1242488,2023-02-03,Senate,"Amendment adopted 30-0-1-0-0",30,0,0,1,31
+1672735,1242489,2023-02-03,Senate,"Amendment failed 15-15-1-0-0",15,15,0,1,31
+1672735,1242490,2023-02-03,Senate,"Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1672735,1242491,2023-02-03,Senate,"Amendment failed 13-18-0-0-0",13,18,0,0,31
+1672735,1242492,2023-02-03,Senate,"Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1672735,1242493,2023-02-03,Senate,"Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1672735,1242494,2023-02-03,Senate,"Amendment Reconsideration Motion Passed by Roll Call 17-14-0-0-0",17,14,0,0,31
+1672735,1242495,2023-02-03,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1672735,1242496,2023-02-03,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1672804,1237009,2023-01-27,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1672804,1244576,2023-02-07,Senate,"Amendment adopted 25-5-1-0-0",25,5,0,1,31
+1672804,1244577,2023-02-07,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1672804,1244578,2023-02-07,Senate,"Amendment adopted 28-3-0-0-0",28,3,0,0,31
+1672804,1244579,2023-02-07,Senate,"Amendment adopted 30-1-0-0-0",30,1,0,0,31
+1672804,1245675,2023-02-07,Senate,"Amendment failed 3-28-0-0-0",3,28,0,0,31
+1672804,1245676,2023-02-07,Senate,"Amendment failed 5-26-0-0-0",5,26,0,0,31
+1672804,1246204,2023-02-08,Senate,"Amendment adopted 20-11-0-0-0",20,11,0,0,31
+1672804,1246205,2023-02-08,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1672804,1246206,2023-02-08,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1672804,1260413,2023-02-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1672804,1264190,2023-02-28,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1672804,1265041,2023-03-01,Senate,"Concur:Passed 18-13-0-0-0",18,13,0,0,31
+1672878,1242207,2023-02-03,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1672878,1245505,2023-02-08,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1672878,1258957,2023-02-22,House,"H02 - Appropriations:Recommend Do Not Pass 5-2-0-0-0",5,2,0,0,7
+1672953,1240777,2023-02-02,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1672953,1246181,2023-02-08,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1672953,1251478,2023-02-15,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1672953,1256544,2023-02-21,Senate,"Amendment adopted 28-3-0-0-0",28,3,0,0,31
+1672953,1256545,2023-02-21,Senate,"Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1672953,1256546,2023-02-21,Senate,"Amendment failed 5-26-0-0-0",5,26,0,0,31
+1672953,1256547,2023-02-21,Senate,"Amendment adopted 26-5-0-0-0",26,5,0,0,31
+1672953,1258088,2023-02-22,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1672953,1260343,2023-02-23,House,"Concur:Failed 2-59-1-0-0",2,59,0,1,62
+1672953,1267137,2023-03-02,House,"Adopted HB0195JC001: 33-24-5-0-0",33,24,0,5,62
+1672953,1267950,2023-03-03,Senate,"Adopted HB0195JC001: 19-9-3-0-0",19,9,0,3,31
+1673024,1240075,2023-02-01,House,"Amendment adopted 35-26-1-0-0",35,26,0,1,62
+1673024,1240076,2023-02-01,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1673024,1240077,2023-02-01,House,"Amendment failed 26-36-0-0-0",26,36,0,0,62
+1673024,1240078,2023-02-01,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1673024,1240079,2023-02-01,House,"Amendment adopted 45-17-0-0-0",45,17,0,0,62
+1673024,1240080,2023-02-01,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1673024,1240081,2023-02-01,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1673024,1240082,2023-02-01,House,"Amendment adopted 35-26-1-0-0",35,26,0,1,62
+1673024,1240083,2023-02-01,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1673024,1240084,2023-02-01,House,"Amendment adopted 37-24-1-0-0",37,24,0,1,62
+1673024,1240085,2023-02-01,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1673024,1240086,2023-02-01,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1673024,1240087,2023-02-01,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1673024,1240088,2023-02-01,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1673024,1240089,2023-02-01,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1673024,1240090,2023-02-01,House,"Amendment adopted 34-28-0-0-0",34,28,0,0,62
+1673024,1242758,2023-02-03,House,"Amendment failed 30-31-1-0-0",30,31,0,1,62
+1673024,1242759,2023-02-03,House,"Amendment failed 30-31-1-0-0",30,31,0,1,62
+1673024,1242760,2023-02-03,House,"Amendment adopted 60-1-1-0-0",60,1,0,1,62
+1673024,1242761,2023-02-03,House,"Amendment failed 25-35-2-0-0",25,35,0,2,62
+1673024,1242762,2023-02-03,House,"Amendment adopted 34-26-2-0-0",34,26,0,2,62
+1673024,1242763,2023-02-03,House,"Amendment adopted 35-26-1-0-0",35,26,0,1,62
+1673024,1242764,2023-02-03,House,"Amendment adopted 37-24-1-0-0",37,24,0,1,62
+1673024,1242765,2023-02-03,House,"Amendment adopted 38-23-1-0-0",38,23,0,1,62
+1673024,1242766,2023-02-03,House,"Amendment adopted 35-26-1-0-0",35,26,0,1,62
+1673024,1242767,2023-02-03,House,"Amendment adopted 46-15-1-0-0",46,15,0,1,62
+1673024,1242768,2023-02-03,House,"3rd Reading:Passed 37-24-1-0-0",37,24,0,1,62
+1673024,1243522,2023-02-03,House,"3rd Reading:Passed 36-25-1-0-0",36,25,0,1,62
+1673024,1253969,2023-02-16,House,"Adopted HB0001JC001: 37-25-0-0-0",37,25,0,0,62
+1673024,1253970,2023-02-16,Senate,"Adopted HB0001JC001: 20-10-1-0-0",20,10,0,1,31
+1673024,1253971,2023-02-16,Senate,"Adopted HB0001JC001: 20-10-1-0-0",20,10,0,1,31
+1673024,1253972,2023-02-16,Senate,"Adopted HB0001JC001: 20-10-1-0-0",20,10,0,1,31
+1673024,1253973,2023-02-16,House,"Adopted HB0001JC001: 37-25-0-0-0",37,25,0,0,62
+1673024,1253974,2023-02-16,Senate,"Adopted HB0001JC001: 20-10-1-0-0",20,10,0,1,31
+1673024,1268423,2023-03-01,House,"Line Item Veto Override 61-0-1-0-0",61,0,0,1,62
+1673024,1268424,2023-03-01,House,"Line Item Veto Override 60-1-1-0-0",60,1,0,1,62
+1673024,1268425,2023-03-01,House,"Line Item Veto Override 61-0-1-0-0",61,0,0,1,62
+1673024,1268426,2023-03-01,House,"Line Item Veto Override 59-2-1-0-0",59,2,0,1,62
+1673024,1268427,2023-03-01,House,"Line Item Veto Override 59-2-1-0-0",59,2,0,1,62
+1673024,1268428,2023-03-01,House,"Line Item Veto Override 60-1-1-0-0",60,1,0,1,62
+1673024,1268429,2023-03-01,Senate,"Line Item Veto Override 27-3-1-0-0",27,3,0,1,31
+1673024,1268430,2023-03-01,Senate,"Line Item Veto Override 29-1-1-0-0",29,1,0,1,31
+1673024,1268431,2023-03-01,Senate,"Line Item Veto Override 27-3-1-0-0",27,3,0,1,31
+1673024,1268432,2023-03-01,Senate,"Line Item Veto Override 29-1-1-0-0",29,1,0,1,31
+1673024,1268433,2023-03-01,Senate,"Line Item Veto Override 27-3-1-0-0",27,3,0,1,31
+1673024,1268434,2023-03-01,Senate,"Line Item Veto Override 23-7-1-0-0",23,7,0,1,31
+1674731,1236848,2023-01-26,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1674731,1246040,2023-02-08,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1674731,1258263,2023-02-22,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1674731,1264028,2023-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1674733,1238306,2023-01-30,House,"H07 - Corporations:Recommend Do Pass 5-3-1-0-0",5,3,0,1,9
+1674739,1236849,2023-01-26,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1674739,1246030,2023-02-08,House,"3rd Reading:Passed 58-4-0-0-0",58,4,0,0,62
+1674739,1256991,2023-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1674739,1264173,2023-02-28,Senate,"Amendment adopted 30-1-0-0-0",30,1,0,0,31
+1674739,1264174,2023-02-28,Senate,"Amendment adopted 21-10-0-0-0",21,10,0,0,31
+1674739,1265534,2023-03-01,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1674739,1265535,2023-03-01,House,"Concur:Failed 23-37-2-0-0",23,37,0,2,62
+1674744,1237491,2023-01-30,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1674744,1240803,2023-02-02,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1674744,1252483,2023-02-15,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1674744,1260990,2023-02-24,House,"3rd Reading:Passed 60-2-0-0-0",60,2,0,0,62
+1674744,1263377,2023-02-28,Senate,"Concur:Passed 17-14-0-0-0",17,14,0,0,31
+1674754,1242117,2023-02-02,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1674754,1246011,2023-02-08,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1674754,1259275,2023-02-22,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1674754,1265692,2023-03-01,House,"3rd Reading:Passed 52-9-1-0-0",52,9,0,1,62
+1674754,1265693,2023-03-01,Senate,"Concur:Passed 28-2-1-0-0",28,2,0,1,31
+1674757,1242896,2023-02-03,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1674760,1240972,2023-02-02,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1674762,1242120,2023-02-02,House,"H08 - Transportation:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1674762,1245997,2023-02-08,House,"3rd Reading:Passed 47-15-0-0-0",47,15,0,0,62
+1674762,1258482,2023-02-22,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1674762,1258483,2023-02-22,Senate,"COW:Passed 19-12-0-0-0",19,12,0,0,31
+1674762,1261386,2023-02-24,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1674765,1238118,2023-01-30,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1674768,1241007,2023-02-02,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1674771,1237852,2023-01-30,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1674771,1241416,2023-02-02,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1674775,1239735,2023-02-01,Senate,"S03 - Revenue:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1674778,1242884,2023-02-03,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1674781,1238998,2023-01-31,House,"H06 - Travel:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1674781,1245607,2023-02-08,House,"3rd Reading:Passed 43-19-0-0-0",43,19,0,0,62
+1674781,1259645,2023-02-23,Senate,"S06 - Travel:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1674781,1262219,2023-02-27,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1674784,1242548,2023-02-03,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1674784,1246027,2023-02-08,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1674784,1252223,2023-02-15,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1674784,1260122,2023-02-23,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1674789,1242447,2023-02-03,House,"H07 - Corporations:Do Pass Failed 1-6-0-2-0",1,6,0,2,9
+1674792,1240839,2023-02-02,House,"H01 - Judiciary:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1674792,1243345,2023-02-06,House,"COW:Failed 27-35-0-0-0",27,35,0,0,62
+1674796,1237866,2023-01-30,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1674796,1241253,2023-02-02,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1674796,1261186,2023-02-24,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1674796,1265018,2023-03-01,House,"3rd Reading:Passed 49-12-1-0-0",49,12,0,1,62
+1674799,1239883,2023-02-01,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1674802,1239448,2023-02-01,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1674802,1241726,2023-02-02,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1674802,1245572,2023-02-08,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1674802,1258186,2023-02-22,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1674802,1258969,2023-02-22,House,"H02 - Appropriations:Do Pass Failed 4-3-0-0-0",4,3,0,0,7
+1674802,1264049,2023-02-28,House,"Amendment failed 21-41-0-0-0",21,41,0,0,62
+1674802,1265938,2023-03-01,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1674802,1266540,2023-03-02,Senate,"Concur:Passed 19-11-1-0-0",19,11,0,1,31
+1674805,1237406,2023-01-27,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1674805,1238805,2023-01-31,House,"COW:Failed 16-46-0-0-0",16,46,0,0,62
+1674807,1237319,2023-01-27,House,"H09 - Minerals:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1674807,1238038,2023-01-30,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1674807,1241505,2023-02-02,House,"COW:Failed 21-40-1-0-0",21,40,0,1,62
+1674810,1238633,2023-01-31,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1674810,1242083,2023-02-02,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1674810,1245992,2023-02-08,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1674810,1259124,2023-02-22,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1674810,1260194,2023-02-23,House,"H02 - Appropriations:Recommend Do Pass 5-1-1-0-0",5,1,0,1,7
+1674810,1264996,2023-03-01,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1674810,1265799,2023-03-01,Senate,"Concur:Passed 27-3-1-0-0",27,3,0,1,31
+1674819,1238134,2023-01-30,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1674819,1238363,2023-01-31,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1674822,1238103,2023-01-30,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1674822,1243110,2023-02-06,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1674822,1246703,2023-02-09,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1674822,1252969,2023-02-16,Senate,"3rd Reading:Failed 11-19-1-0-0",11,19,0,1,31
+1675039,1238667,2023-01-31,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1675039,1243430,2023-02-06,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1675039,1252104,2023-02-15,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1675039,1261445,2023-02-24,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1675256,1236365,2023-01-26,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1675256,1237935,2023-01-30,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1675256,1247864,2023-02-10,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1675256,1248814,2023-02-13,House,"COW:Failed 3-55-4-0-0",3,55,0,4,62
+1676046,1242111,2023-02-02,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1676046,1243435,2023-02-06,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1676046,1245982,2023-02-08,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1676046,1261133,2023-02-24,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1676046,1262384,2023-02-27,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1676046,1265430,2023-03-01,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1676046,1266355,2023-03-01,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1676088,1242218,2023-02-03,Senate,"S07 - Corporations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1676135,1240612,2023-02-01,House,"H04 - Education:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1676135,1242400,2023-02-03,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1676226,1239730,2023-02-01,Senate,"S01 - Judiciary:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1676272,1238724,2023-01-31,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1676272,1243181,2023-02-06,Senate,"3rd Reading:Passed 30-0-0-0-1",30,0,1,0,31
+1676272,1259316,2023-02-22,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1676272,1265707,2023-03-01,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1676272,1265708,2023-03-01,Senate,"Concur:Passed 29-0-2-0-0",29,0,0,2,31
+1676316,1239439,2023-02-01,Senate,"S03 - Revenue:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1676316,1244260,2023-02-07,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1676316,1258601,2023-02-22,House,"H02 - Appropriations:Recommend Do Not Pass 7-0-0-0-0",7,0,0,0,7
+1676450,1241162,2023-02-02,Senate,"S07 - Corporations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1676493,1242791,2023-02-03,House,"H10 - Labor:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1677305,1242094,2023-02-02,Senate,"S03 - Revenue:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1677358,1239465,2023-02-01,Senate,"S03 - Revenue:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1677358,1244304,2023-02-07,Senate,"Amendment adopted 27-4-0-0-0",27,4,0,0,31
+1677358,1244305,2023-02-07,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1677358,1259257,2023-02-22,House,"H02 - Appropriations:Recommend Do Not Pass 7-0-0-0-0",7,0,0,0,7
+1677462,1242582,2023-02-03,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1677462,1246007,2023-02-08,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1677518,1236850,2023-01-26,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1677518,1243663,2023-02-06,Senate,"COW:Failed 12-18-1-0-0",12,18,0,1,31
+1677568,1237931,2023-01-30,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1677568,1241126,2023-02-02,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1677568,1261122,2023-02-24,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1677568,1265433,2023-03-01,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1677619,1236468,2023-01-26,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1677619,1240926,2023-02-02,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1677619,1256925,2023-02-21,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1677619,1261103,2023-02-24,House,"3rd Reading:Passed 51-11-0-0-0",51,11,0,0,62
+1677619,1262074,2023-02-27,Senate,"Concur:Passed 29-2-0-0-0",29,2,0,0,31
+1677757,1236325,2023-01-26,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1677757,1237936,2023-01-30,Senate,"3rd Reading:Passed 25-5-1-0-0",25,5,0,1,31
+1677757,1251293,2023-02-14,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1677757,1257264,2023-02-21,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1677757,1257265,2023-02-21,Senate,"Concur:Passed 18-12-1-0-0",18,12,0,1,31
+1677824,1237795,2023-01-30,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1677824,1243138,2023-02-06,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1677824,1260538,2023-02-23,House,"H04 - Education:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1677824,1264185,2023-02-28,House,"Amendment failed 21-41-0-0-0",21,41,0,0,62
+1677824,1264186,2023-02-28,House,"3rd Reading:Passed 54-8-0-0-0",54,8,0,0,62
+1677824,1265380,2023-03-01,Senate,"Concur:Passed 20-11-0-0-0",20,11,0,0,31
+1677888,1238656,2023-01-31,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1677888,1241021,2023-02-02,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1677888,1245781,2023-02-08,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1677888,1250734,2023-02-14,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1677888,1252210,2023-02-15,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1678018,1239771,2023-02-01,Senate,"S01 - Judiciary:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1678018,1243570,2023-02-06,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1678018,1259339,2023-02-22,House,"H01 - Judiciary:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1678018,1265711,2023-03-01,House,"3rd Reading:Failed 23-38-1-0-0",23,38,0,1,62
+1678084,1239601,2023-02-01,Senate,"S04 - Education:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1678213,1238638,2023-01-31,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1678213,1241020,2023-02-02,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1678213,1249651,2023-02-13,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1678213,1253215,2023-02-16,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1678435,1240622,2023-02-01,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1678538,1239361,2023-01-31,House,"H08 - Transportation:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1678538,1239740,2023-02-01,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1678538,1243177,2023-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1678538,1247039,2023-02-09,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1678538,1251465,2023-02-15,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1678538,1257460,2023-02-21,Senate,"Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1678538,1257461,2023-02-21,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1678538,1258928,2023-02-22,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1678772,1240306,2023-02-01,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1678772,1243504,2023-02-06,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1678772,1250591,2023-02-14,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1678772,1253305,2023-02-16,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1678915,1242795,2023-02-03,House,"H10 - Labor:Do Pass Failed 2-7-0-0-0",2,7,0,0,9
+1678940,1242780,2023-02-03,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1678954,1243050,2023-02-03,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1679430,1242870,2023-02-03,House,"H09 - Minerals:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1679729,1240202,2023-02-01,House,"H10 - Labor:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1680229,1240091,2023-02-01,House,"H10 - Labor:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1680729,1239970,2023-02-01,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1681382,1237329,2023-01-27,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1681441,1242607,2023-02-03,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1681441,1243568,2023-02-06,House,"COW:Passed 32-29-0-0-1",32,29,1,0,62
+1681441,1246312,2023-02-08,House,"3rd Reading:Passed 34-27-0-0-1",34,27,1,0,62
+1681441,1256936,2023-02-21,Senate,"S07 - Corporations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1681441,1261728,2023-02-24,Senate,"COW:Failed 10-16-5-0-0",10,16,0,5,31
+1681499,1242086,2023-02-02,House,"H05 - Agriculture:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1681499,1243106,2023-02-06,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1682523,1240841,2023-02-02,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1682523,1245989,2023-02-08,House,"3rd Reading:Passed 39-23-0-0-0",39,23,0,0,62
+1682523,1254750,2023-02-17,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1682523,1261460,2023-02-24,Senate,"3rd Reading:Passed 16-12-3-0-0",16,12,0,3,31
+1682523,1262832,2023-02-27,House,"Concur:Passed 44-18-0-0-0",44,18,0,0,62
+1682673,1242114,2023-02-02,House,"H08 - Transportation:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1682721,1241009,2023-02-02,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1682721,1243209,2023-02-06,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1682721,1258261,2023-02-22,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1682721,1258262,2023-02-22,Senate,"COW:Failed 15-15-1-0-0",15,15,0,1,31
+1682767,1238050,2023-01-30,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1682925,1239309,2023-01-31,House,"H03 - Revenue:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1682980,1242234,2023-02-03,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1682980,1245534,2023-02-08,House,"3rd Reading:Passed 39-23-0-0-0",39,23,0,0,62
+1682980,1253425,2023-02-16,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1682980,1258087,2023-02-22,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1683031,1243049,2023-02-03,House,"H07 - Corporations:Recommend Do Pass 6-1-2-0-0",6,1,0,2,9
+1683031,1245879,2023-02-08,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1683031,1253314,2023-02-16,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1683031,1256495,2023-02-21,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31

@@ -1,0 +1,748 @@
+﻿state,chamber,term,sponsor,data_name,legiscan_id,district,party,LES,not_actually_in_chamber
+AL,House,2019_2022,Berry Forte,NA,12543,HD-084,D,0,FALSE
+AL,House,2019_2022,Mac McCutcheon,NA,3411,HD-025,R,0,FALSE
+AL,Senate,2019_2022,Priscilla Dunn,NA,3480,SD-019,D,0,FALSE
+AR,House,2019_2020,Cameron Cooper,NA,20765,HD-044,R,0,FALSE
+AR,House,2019_2020,Denise Ennett,NA,21594,HD-036,D,0,FALSE
+AR,House,2019_2020,Gary Deffenbaugh,NA,11686,HD-079,R,0,FALSE
+AR,House,2019_2020,John Walker,NA,12481,HD-034,D,0,FALSE
+AR,House,2019_2020,Joy Springer,NA,21629,HD-034,D,0,FALSE
+AR,House,2019_2020,Milton Nicks,NA,16917,HD-050,D,0,FALSE
+AR,House,2019_2020,Richard McGrew,NA,21628,HD-022,R,0,FALSE
+AR,House,2019_2020,Stan Berry,NA,20763,HD-068,R,0,FALSE
+AR,House,2021_2022,Deborah Ferguson,NA,14942,HD-051,D,0,FALSE
+AR,House,2021_2022,Denise Garner,NA,20770,HD-084,D,0,FALSE
+AR,House,2021_2022,Gary Deffenbaugh,NA,11686,HD-079,R,0,FALSE
+AR,House,2021_2022,Joy Springer,NA,21629,HD-034,D,0,FALSE
+AR,House,2021_2022,Mark McElroy,NA,14955,HD-011,R,0,FALSE
+AR,House,2021_2022,Milton Nicks,NA,16917,HD-050,D,0,FALSE
+AR,House,2021_2022,Ron Mcnair,NA,16916,HD-098,R,0,FALSE
+AR,House,2021_2022,Stan Berry,NA,20763,HD-068,R,0,FALSE
+AR,Senate,2021_2022,Colby Fulfer,NA,23105,SD-007,R,0,FALSE
+AR,Senate,2021_2022,Jim Dotson,NA,14940,SD-034,R,0,FALSE
+AR,Senate,2021_2022,Matthew Pitsch,NA,16918,SD-008,R,0,FALSE
+AR,Senate,2021_2022,Stephanie Flowers,NA,12236,SD-025,D,0,FALSE
+AZ,House,2019_2020,Robert Meza,NA,4310,HD-030,D,0,FALSE
+CA,House,2019_2020,Anthony Rendon,NA,14120,HD-063,D,0,FALSE
+CA,Senate,2019_2020,Melissa Melendez,NA,14114,SD-028,R,0,FALSE
+CA,Senate,2019_2020,Monique Limon,NA,18075,SD-019,D,0,TRUE
+CA,Senate,2019_2020,Susan Eggman,NA,14101,SD-005,D,0,TRUE
+CA,Senate,2019_2020,Ted Gaines,NA,1527,SD-001,R,0,TRUE
+CA,House,2021_2022,Anthony Rendon,NA,14120,HD-063,D,0,FALSE
+CA,House,2021_2022,David Alvarez,NA,23152,HD-080,D,0,FALSE
+CA,House,2021_2022,Lori Wilson,NA,23128,HD-011,D,0,FALSE
+CA,House,2021_2022,Matt Haney,NA,23137,HD-017,D,0,FALSE
+CA,House,2021_2022,Shirley Weber,NA,14124,HD-079,D,0,TRUE
+CA,House,2021_2022,Tina McKinnor,NA,23155,HD-062,D,0,FALSE
+CO,House,2019_2020,Perry Will,NA,21293,HD-057,R,0,FALSE
+CO,House,2019_2020,Richard Champion,NA,21604,HD-038,R,0,FALSE
+CO,Senate,2019_2020,Daniel Kagan,NA,3275,SD-026,D,0,TRUE
+CO,Senate,2019_2020,Randy Baumgardner,NA,3337,SD-008,R,0,TRUE
+CO,Senate,2019_2020,Timothy Neville,NA,13709,SD-016,R,0,TRUE
+CO,Senate,2021_2022,Timothy Neville,NA,13709,SD-016,R,0,TRUE
+CT,House,2017_2018,Geoffrey Luxenberg,NA,10813,HD-012,D,0,TRUE
+CT,House,2017_2018,Julio Concepcion,NA,19662,HD-004,D,0,FALSE
+CT,House,2017_2018,Kenneth Green,NA,5698,HD-001,D,0,TRUE
+CT,House,2017_2018,Timothy LeGeyt,NA,5797,HD-017,R,0,FALSE
+CT,House,2019_2020,Andre Baker,NA,17222,HD-124,D,0,FALSE
+CT,House,2019_2020,Bill Simanski,NA,10440,HD-062,R,0,FALSE
+CT,House,2019_2020,Harry Arora,NA,21615,HD-151,R,0,FALSE
+CT,House,2019_2020,Jill Barry,NA,21033,HD-031,D,0,FALSE
+CT,House,2019_2020,Joseph Zullo,NA,21321,HD-099,R,0,FALSE
+CT,House,2021_2022,Andre Baker,NA,17222,HD-124,D,0,FALSE
+CT,House,2021_2022,Antonio Felipe,NA,21361,HD-130,D,0,FALSE
+CT,House,2021_2022,Christopher Perone,NA,5652,HD-137,D,0,FALSE
+CT,House,2021_2022,Joe De la cruz,NA,18261,HD-041,D,0,FALSE
+FL,House,2019_2020,Jose Oliva,NA,13713,HD-110,R,0,FALSE
+FL,House,2019_2020,Travis Cummings,NA,14561,HD-018,R,0,FALSE
+FL,Senate,2019_2020,Bill Galvano,NA,1651,SD-021,R,0,FALSE
+FL,Senate,2019_2020,Tina Polsky,NA,19940,SD-029,D,0,TRUE
+FL,House,2021_2022,Chris Sprowls,NA,16444,HD-065,R,0,FALSE
+FL,House,2021_2022,Daniel Perez,NA,19426,HD-116,R,0,FALSE
+FL,House,2021_2022,Daryl Campbell,NA,23066,HD-099,D,0,TRUE
+FL,House,2021_2022,Jervonte Edmonds,NA,23116,HD-088,D,0,FALSE
+FL,House,2021_2022,Paul Renner,NA,17686,HD-024,R,0,FALSE
+FL,Senate,2021_2022,Debbie Mayfield,NA,1678,SD-017,R,0,FALSE
+FL,Senate,2021_2022,Rosalind Osgood,NA,23121,SD-032,D,0,FALSE
+FL,Senate,2021_2022,Wilton Simpson,NA,15857,SD-010,R,0,FALSE
+IA,House,2019_2020,Dave Williams,williams,21095,HD-060,D,0,FALSE
+IA,House,2019_2020,Dennis Cohoon,cohoon,7083,HD-087,D,0,FALSE
+IA,House,2019_2020,John Forbes,forbes,15611,HD-040,D,0,FALSE
+IA,House,2019_2020,Kristin Sunde,sunde,21094,HD-042,D,0,FALSE
+IA,House,2019_2020,Lindsay James,james,21091,HD-099,D,0,FALSE
+IA,House,2019_2020,Ross Wilburn,wilburn,21419,HD-046,D,0,FALSE
+IA,House,2019_2020,Scott Ourth,ourth,15613,HD-026,D,0,FALSE
+IA,House,2021_2022,Amy Nielsen,nielsen,19016,HD-077,D,0,FALSE
+IA,House,2021_2022,Chris Hall,hall,11697,HD-013,D,0,FALSE
+IA,House,2021_2022,Dave Williams,NA,21095,HD-060,D,0,FALSE
+IA,House,2021_2022,David Sieck,sieck,17617,HD-023,R,0,FALSE
+IA,House,2021_2022,Dennis Cohoon,cohoon,7083,HD-087,D,0,FALSE
+IA,House,2021_2022,Jo Oldson,oldson,7082,HD-041,D,0,FALSE
+IA,House,2021_2022,John Forbes,forbes,15611,HD-040,D,0,FALSE
+IA,House,2021_2022,Kenan Judge,judge,21092,HD-044,D,0,FALSE
+IA,House,2021_2022,Kirsten Running-Marquardt,running-marquardt,7096,HD-069,D,0,FALSE
+IA,House,2021_2022,Monica Kurth,kurth,19287,HD-089,D,0,FALSE
+IA,House,2021_2022,Pat Grassley,NA,7075,HD-050,R,0,FALSE
+IA,House,2021_2022,Phyllis Thede,thede,7078,HD-093,D,0,FALSE
+IA,House,2021_2022,Rick Olson,olson,7069,HD-031,D,0,FALSE
+IA,Senate,2021_2022,Jim Lykam,lykam,7009,SD-045,D,0,FALSE
+ID,House,2019_2020,Aaron von Ehlinger,NA,21662,HD-006A,R,0,FALSE
+ID,House,2019_2020,Chris Abernathy,NA,21000,HD-029A,D,0,FALSE
+ID,House,2019_2020,James Holtzclaw,NA,15796,HD-020B,R,0,FALSE
+ID,House,2019_2020,Megan Kiska,NA,21420,HD-021B,R,0,FALSE
+ID,House,2019_2020,Rob Mason,NA,21013,HD-016B,D,0,FALSE
+ID,House,2019_2020,Steve Berch,NA,21003,HD-015A,D,0,FALSE
+ID,House,2019_2020,Timothy Remington,NA,21537,HD-002B,R,0,FALSE
+ID,House,2021_2022,Mike Kingsley,NA,19062,HD-006B,R,0,FALSE
+ID,House,2021_2022,Muffy Davis,NA,21005,HD-026A,D,0,FALSE
+ID,House,2021_2022,Sally Toone,NA,19059,HD-026B,D,0,FALSE
+ID,House,2021_2022,Steve Berch,NA,21003,HD-015A,D,0,FALSE
+ID,House,2021_2022,Tony Wisniewski,NA,21017,HD-003B,R,0,TRUE
+ID,Senate,2021_2022,Carrie Semmelroth,NA,23065,SD-017,D,0,FALSE
+ID,Senate,2021_2022,Eva Nye,NA,23170,SD-029,D,0,FALSE
+IN,House,2019_2020,Blake Johnson,NA,22288,HD-100,D,0,FALSE
+IN,House,2019_2020,Chris Jeter,NA,21915,HD-088,R,0,TRUE
+IN,House,2019_2020,Cindy Ledbetter,NA,22236,HD-075,R,0,TRUE
+IN,House,2019_2020,Craig Snow,NA,22453,HD-018,R,0,TRUE
+IN,House,2019_2020,Elizabeth Rowray,NA,21916,HD-035,R,0,TRUE
+IN,House,2019_2020,Harold Slager,NA,14766,HD-015,R,0,TRUE
+IN,House,2019_2020,Jake Teshka,NA,21917,HD-007,R,0,TRUE
+IN,House,2019_2020,Joanna King,NA,22375,HD-049,R,0,TRUE
+IN,House,2019_2020,John Jacob,NA,21909,HD-093,R,0,TRUE
+IN,House,2019_2020,Julie Olthoff,NA,16702,HD-019,R,0,TRUE
+IN,House,2019_2020,Maureen Bauer,NA,22128,HD-006,D,0,TRUE
+IN,House,2019_2020,Michelle Davis,NA,21918,HD-058,R,0,TRUE
+IN,House,2019_2020,Mike Andrade,NA,22274,HD-012,D,0,TRUE
+IN,House,2019_2020,Mitch Gore,NA,22016,HD-089,D,0,TRUE
+IN,House,2019_2020,Renee Pack,NA,22017,HD-092,D,0,TRUE
+IN,House,2019_2020,Zach Payne,NA,22048,HD-066,R,0,TRUE
+IN,Senate,2019_2020,Fady Qaddoura,NA,22275,SD-030,D,0,TRUE
+IN,Senate,2019_2020,Kyle Walker,NA,21979,SD-031,R,0,TRUE
+IN,Senate,2019_2020,Scott Baldwin,NA,21980,SD-020,R,0,TRUE
+IN,Senate,2019_2020,Shelli Yoder,NA,22087,SD-040,D,0,TRUE
+KY,House,2021_2022,John Carney,NA,1127,HD-051,R,0,TRUE
+LA,House,2020_2023,Reggie Bagala,NA,21575,HD-054,R,0,FALSE
+MA,House,2019_2020,Carol Doherty,NA,21656,HD-03-BRI,D,0,FALSE
+MA,House,2019_2020,Thomas Petrolati,NA,2496,HD-07-HAM,D,0,FALSE
+MA,Senate,2019_2020,Karen Spilka,NA,2576,SD-02-MID,D,0,FALSE
+MA,Senate,2019_2020,Susan Moran,NA,21648,SD-PLYMOU,D,0,FALSE
+MA,House,2021_2022,Donald Wong,NA,12455,HD-09-ESS,R,0,FALSE
+MA,House,2021_2022,Ronald Mariano,NA,2476,HD-03-NOR,D,0,FALSE
+MA,Senate,2021_2022,Karen Spilka,NA,2576,SD-02-MID,D,0,FALSE
+MD,House,2019_2022,Faye Howell,NA,22986,HD-029B,D,0,FALSE
+MD,House,2019_2022,Karen Toles,NA,23056,HD-025,D,0,FALSE
+MD,House,2019_2022,Tawanna Gaines,NA,4660,HD-022,D,0,FALSE
+ME,House,2019_2020,Aaron Frey,NA,15773,HD-124,D,0,TRUE
+ME,House,2019_2020,Dale Denno,NA,18183,HD-045,D,0,FALSE
+ME,House,2019_2020,David Haggan,NA,18188,HD-101,R,0,FALSE
+ME,House,2019_2020,Dwayne Prescott,NA,17336,HD-017,R,0,FALSE
+ME,House,2019_2020,Gina Mason,NA,18195,HD-056,R,0,TRUE
+ME,House,2019_2020,Gregory Swallow,NA,21236,HD-144,R,0,FALSE
+ME,House,2019_2020,Josanne Dolloff,NA,21202,HD-115,R,0,FALSE
+ME,House,2019_2020,Kevin O'Connell,NA,21620,HD-128,D,0,TRUE
+ME,House,2019_2020,Mark Blier,NA,21191,HD-022,R,0,FALSE
+ME,House,2019_2020,Philip Curtis,NA,8813,HD-111,R,0,FALSE
+ME,House,2019_2020,Randall Hall,NA,21212,HD-114,R,0,FALSE
+ME,House,2019_2020,Roger Reed,NA,15406,HD-103,R,0,FALSE
+ME,House,2019_2020,Scott Landry,NA,21221,HD-113,D,0,FALSE
+ME,House,2019_2020,Sean Paulhus,NA,21349,HD-052,D,0,FALSE
+ME,House,2019_2020,Stephen Moriarty,NA,15823,HD-045,D,0,FALSE
+ME,House,2019_2020,Steven Foster,NA,21208,HD-104,R,0,FALSE
+ME,House,2019_2020,Theodore Kryzak,NA,21220,HD-020,R,0,FALSE
+ME,House,2021_2022,Braden Sharpe,NA,21234,HD-046,D,0,FALSE
+ME,House,2021_2022,Cathy Nadeau,NA,22905,HD-078,R,0,FALSE
+ME,House,2021_2022,Chad Grignon,NA,18187,HD-118,R,0,FALSE
+ME,House,2021_2022,David Haggan,NA,18188,HD-101,R,0,FALSE
+ME,House,2021_2022,David Woodsome,NA,16787,HD-139,R,0,TRUE
+ME,House,2021_2022,Gina Melaragno,NA,17273,HD-062,D,0,FALSE
+ME,House,2021_2022,James Boyle,NA,14737,HD-027,D,0,FALSE
+ME,House,2021_2022,James Thorne,NA,22699,HD-103,R,0,FALSE
+ME,House,2021_2022,Jeffery Gifford,NA,8831,HD-142,R,0,FALSE
+ME,House,2021_2022,Josanne Dolloff,NA,21202,HD-115,R,0,FALSE
+ME,House,2021_2022,Kathy Downes,NA,22721,HD-130,R,0,FALSE
+ME,House,2021_2022,Peggy Stanley,NA,22767,HD-143,R,0,FALSE
+ME,House,2021_2022,Randall Hall,NA,21212,HD-114,R,0,FALSE
+ME,House,2021_2022,Scott Cyrway,NA,16689,HD-063,R,0,TRUE
+ME,House,2021_2022,Sheila Lyman,NA,22838,HD-074,R,0,FALSE
+ME,House,2021_2022,Susan Austin,NA,8780,HD-067,R,0,FALSE
+ME,House,2021_2022,Susan Bernard,NA,22716,HD-149,R,0,FALSE
+ME,House,2021_2022,Thomas Martin,NA,21222,HD-057,R,0,FALSE
+ME,Senate,2021_2022,Matthew Harrington,NA,17788,SD-033,R,0,TRUE
+ME,Senate,2021_2022,Nicole Grohoski,NA,21211,SD-007,D,0,FALSE
+ME,Senate,2021_2022,Peter Lyford,NA,17272,SD-010,R,0,TRUE
+ME,Senate,2021_2022,Shenna Bellows,NA,18175,SD-014,D,0,TRUE
+ME,Senate,2021_2022,Teresa Pierce,NA,17216,SD-025,D,0,TRUE
+MI,House,2019_2020,Lee Chatfield,NA,17065,HD-107,R,0,FALSE
+MI,House,2021_2022,Jason Wentworth,NA,18768,HD-097,R,0,FALSE
+MI,House,2021_2022,Terence Mekoski,NA,23139,HD-036,R,0,FALSE
+MN,House,2021_2022,Melissa Hortman,NA,6344,HD-036B,D,0,FALSE
+MN,Senate,2021_2022,Cal Bahr,NA,18507,SD-031,R,0,TRUE
+MN,Senate,2021_2022,Eric Lucero,NA,16700,SD-030,R,0,TRUE
+MN,Senate,2021_2022,Glenn Gruenhagen,NA,10522,SD-017,R,0,TRUE
+MN,Senate,2021_2022,Jordan Rasmusson,NA,22653,SD-009,R,0,TRUE
+MN,Senate,2021_2022,Kelly Morrison,NA,20456,SD-045,D,0,TRUE
+MN,Senate,2021_2022,Liz Boldon,NA,22140,SD-025,D,0,TRUE
+MN,Senate,2021_2022,Steve Drazkowski,NA,6384,SD-020,R,0,TRUE
+MN,Senate,2021_2022,Steve Green,NA,15367,SD-002,R,0,TRUE
+MN,Senate,2021_2022,Tou Xiong,NA,20466,SD-044,D,0,TRUE
+MO,House,2019_2020,Elijah Haahr,NA,15509,HD-134,R,0,FALSE
+MO,House,2019_2020,Nathan Walker,NA,15385,HD-003,R,0,TRUE
+MO,House,2019_2020,Scott Fitzpatrick,NA,14179,HD-158,R,0,TRUE
+MO,House,2021_2022,Annette Turnbaugh,NA,22400,HD-037,D,0,FALSE
+MO,House,2021_2022,Rob Vescovo,NA,16895,HD-112,R,0,FALSE
+MS,House,2020_2023,Perry Bailey,NA,24891,HD-023,R,0,FALSE
+MS,House,2020_2023,Ramona Blackledge,NA,21471,HD-088,R,0,FALSE
+MT,Senate,2019_2020,Bob Keenan,NA,16673,SD-005,R,0,FALSE
+MT,House,2021_2022,Kim Abbott,NA,18026,HD-083,D,0,FALSE
+NC,House,2019_2020,Jake Johnson,NA,21377,HD-113,R,0,FALSE
+NC,House,2019_2020,Jerry Carter,NA,20506,HD-065,R,0,FALSE
+NC,House,2019_2020,Kristin Baker,NA,21632,HD-082,R,0,FALSE
+NC,House,2019_2020,Linda Cooper-Suggs,NA,21666,HD-024,D,0,FALSE
+NC,House,2019_2020,Wes Schollander,NA,21665,HD-074,R,0,FALSE
+NC,Senate,2019_2020,David Craven,NA,21663,SD-026,R,0,FALSE
+NC,Senate,2019_2020,Dean Proctor,NA,21664,SD-042,R,0,FALSE
+NC,Senate,2019_2020,Henry Michaux,NA,2108,SD-020,D,0,FALSE
+NC,Senate,2019_2020,Louis Pate,NA,11936,SD-007,R,0,TRUE
+NC,House,2021_2022,Allen Buansi,NA,23148,HD-056,D,0,FALSE
+NC,House,2021_2022,Donnie Loftis,NA,22965,HD-109,R,0,FALSE
+NC,House,2021_2022,Jerry Carter,NA,20506,HD-065,R,0,FALSE
+NC,House,2021_2022,Reece Pyrtle,NA,22946,HD-065,R,0,FALSE
+ND,House,2019_2020,Bob Martinson,NA,7747,HD-035,R,0,FALSE
+ND,House,2019_2020,Emily O'Brien,NA,18121,HD-042,R,0,FALSE
+ND,House,2019_2020,Jay Fisher,NA,20036,HD-005,R,0,FALSE
+ND,House,2019_2020,Karen Rohr,NA,10895,HD-031,R,0,FALSE
+ND,House,2019_2020,Mark Sanford,NA,10426,HD-017,R,0,FALSE
+ND,House,2019_2020,Tracy Boe,NA,7706,HD-009,D,0,FALSE
+ND,Senate,2019_2020,Arne Osland,NA,18484,SD-020,R,0,FALSE
+ND,Senate,2019_2020,Gary Lee,NA,7814,SD-022,R,0,FALSE
+ND,Senate,2019_2020,Jim Roers,NA,18420,SD-046,R,0,FALSE
+ND,Senate,2019_2020,Larry Robinson,NA,7822,SD-024,D,0,FALSE
+ND,Senate,2019_2020,Randy Lemm,NA,21344,SD-020,R,0,FALSE
+ND,Senate,2019_2020,Robert Fors,NA,20176,SD-019,R,0,FALSE
+ND,House,2021_2022,Bert Anderson,NA,16602,HD-002,R,0,FALSE
+ND,House,2021_2022,Bob Martinson,NA,7747,HD-035,R,0,FALSE
+ND,House,2021_2022,Clayton Fegley,NA,20035,HD-004,R,0,FALSE
+ND,House,2021_2022,Donald Longmuir,NA,18409,HD-002,R,0,FALSE
+ND,House,2021_2022,Dori Hauck,NA,22902,HD-036,R,0,FALSE
+ND,House,2021_2022,Greg Stemen,NA,22216,HD-027,R,0,FALSE
+ND,House,2021_2022,Jay Fisher,NA,20036,HD-005,R,0,FALSE
+ND,House,2021_2022,Karen Karls,NA,7737,HD-035,R,0,FALSE
+ND,House,2021_2022,Mike Beltz,NA,21919,HD-020,R,0,FALSE
+ND,House,2021_2022,Randy Schobinger,NA,18481,HD-040,R,0,FALSE
+ND,House,2021_2022,Tracy Boe,NA,7706,HD-009,D,0,FALSE
+ND,Senate,2021_2022,Cole Conley,NA,22213,SD-012,R,0,FALSE
+ND,Senate,2021_2022,Dave Oehlke,NA,7817,SD-015,R,0,FALSE
+ND,Senate,2021_2022,Diane Larson,NA,14240,SD-030,R,0,FALSE
+ND,Senate,2021_2022,Mike Wobbema,NA,22217,SD-024,R,0,FALSE
+ND,Senate,2021_2022,Randy Lemm,NA,21344,SD-020,R,0,FALSE
+NE,Senate,2021_2022,Michael Jacobson,NA,23101,SD-042,N,0,FALSE
+NH,House,2019_2020,Alan Bershtein,alan bershtein,19790,HD-02-ROC,R,0,FALSE
+NH,House,2019_2020,Alicia Lekas,alicia lekas,19823,HD-37-HIL,R,0,FALSE
+NH,House,2019_2020,Amanda Gourgue,amanda gourgue,19106,HD-25-STR,D,0,FALSE
+NH,House,2019_2020,Anne Warner,NA,19796,HD-05-ROC,D,0,FALSE
+NH,House,2019_2020,Arthur Barnes,arthur barnes,16398,HD-08-ROC,R,0,FALSE
+NH,House,2019_2020,Barry Faulkner,barry faulkner,19154,HD-12-CHE,D,0,FALSE
+NH,House,2019_2020,Becky Owens,becky owens,19771,HD-04-ROC,R,0,FALSE
+NH,House,2019_2020,Beth Richards,NA,19174,HD-13-MER,D,0,FALSE
+NH,House,2019_2020,Betsy McKinney,betsy mckinney,4986,HD-05-ROC,R,0,FALSE
+NH,House,2019_2020,Bill Nelson,NA,15588,HD-05-CAR,R,0,FALSE
+NH,House,2019_2020,Bob Greene,bob greene,19822,HD-37-HIL,R,0,FALSE
+NH,House,2019_2020,Brett Hall,brett hall,19890,HD-26-HIL,D,0,FALSE
+NH,House,2019_2020,Bruce Cohen,bruce cohen,19804,HD-28-HIL,D,0,FALSE
+NH,House,2019_2020,Bruce Tatro,NA,12861,HD-15-CHE,D,0,FALSE
+NH,House,2019_2020,Cecilia Rich,cecilia rich,19810,HD-18-STR,D,0,FALSE
+NH,House,2019_2020,Charles McMahon,charles mcmahon,5051,HD-07-ROC,R,0,FALSE
+NH,House,2019_2020,Charles Melvin,NA,19859,HD-15-ROC,R,0,FALSE
+NH,House,2019_2020,Charlie Burns,charles burns,19146,HD-23-HIL,R,0,FALSE
+NH,House,2019_2020,Christopher Herbert,christopher herbert,16961,HD-43-HIL,D,0,FALSE
+NH,House,2019_2020,Cole Riel,cole riel,19832,HD-06-HIL,D,0,FALSE
+NH,House,2019_2020,Dan Davis,dan davis,19860,HD-16-ROC,R,0,FALSE
+NH,House,2019_2020,Dan Toomey,NA,19841,HD-32-HIL,D,0,FALSE
+NH,House,2019_2020,Daniel Pickering,daniel pickering,19770,HD-03-HIL,D,0,FALSE
+NH,House,2019_2020,David Cote,david cote,4864,HD-31-HIL,D,0,FALSE
+NH,House,2019_2020,David Lundgren,david lundgren,11759,HD-05-ROC,R,0,FALSE
+NH,House,2019_2020,David Milz,david milz,14866,HD-06-ROC,R,0,FALSE
+NH,House,2019_2020,David Morrill,david morrill,19759,HD-04-CHE,D,0,FALSE
+NH,House,2019_2020,David Woodbury,david woodbury,15605,HD-05-HIL,D,0,FALSE
+NH,House,2019_2020,Deb Stevens,deb stevens,19820,HD-34-HIL,D,0,FALSE
+NH,House,2019_2020,Deborah Hobson,deb hobson,19879,HD-35-ROC,R,0,FALSE
+NH,House,2019_2020,Dennis Fields,dennis fields,4842,HD-04-BEL,R,0,FALSE
+NH,House,2019_2020,Dennis Malloy,dennis malloy,15576,HD-23-ROC,D,0,FALSE
+NH,House,2019_2020,Denny Ruprecht,denny ruprecht,19882,HD-15-GRA,D,0,FALSE
+NH,House,2019_2020,Derek Kittredge,NA,19795,HD-12-STR,R,0,FALSE
+NH,House,2019_2020,Diane Langley,diane langley,19847,HD-08-HIL,D,0,FALSE
+NH,House,2019_2020,Donald Bouchard,donald bouchard,19851,HD-11-HIL,D,0,FALSE
+NH,House,2019_2020,Donna Ellis,NA,19153,HD-08-STR,D,0,FALSE
+NH,House,2019_2020,Donna Mombourquette,donna mombourquette,19794,HD-05-HIL,D,0,FALSE
+NH,House,2019_2020,Douglas Ley,douglas ley,14475,HD-09-CHE,D,0,FALSE
+NH,House,2019_2020,Douglas Thomas,douglas thomas,16696,HD-05-ROC,R,0,FALSE
+NH,House,2019_2020,Edward DeClercq,edward declercq,19848,HD-08-ROC,R,0,FALSE
+NH,House,2019_2020,Everett McBride,everett mcbride,19850,HD-08-ROC,R,0,FALSE
+NH,House,2019_2020,Frances Nutter-Upham,frances nutter-upham,19892,HD-33-HIL,D,0,FALSE
+NH,House,2019_2020,Frank Kotowski,frank kotowski,4949,HD-24-MER,R,0,FALSE
+NH,House,2019_2020,Franklin Tilton,franklin tilton,12868,HD-04-BEL,R,0,FALSE
+NH,House,2019_2020,Fred Davis,NA,19813,HD-31-HIL,D,0,FALSE
+NH,House,2019_2020,Fred Doucette,fred doucette,17302,HD-08-ROC,R,0,FALSE
+NH,House,2019_2020,George Feeney,NA,19753,HD-05-BEL,R,0,FALSE
+NH,House,2019_2020,George Saunderson,george saunderson,17490,HD-09-MER,D,0,FALSE
+NH,House,2019_2020,Gerald Ward,gerald ward,15603,HD-28-ROC,D,0,FALSE
+NH,House,2019_2020,Greg Indruk,greg indruk,19818,HD-34-HIL,D,0,FALSE
+NH,House,2019_2020,Gregory Hill,gregory hill,11747,HD-06-MER,R,0,FALSE
+NH,House,2019_2020,Heidi Hamer,heidi hamer,19861,HD-17-HIL,D,0,FALSE
+NH,House,2019_2020,Henry Noel,henry no√£¬´l,19765,HD-03-COO,D,0,FALSE
+NH,House,2019_2020,JP Marzullo,jp marzullo,19786,HD-02-HIL,R,0,FALSE
+NH,House,2019_2020,Jacqueline Chretien,jacqueline chretien,19829,HD-42-HIL,D,0,FALSE
+NH,House,2019_2020,James Bosman,james bosman,19828,HD-38-HIL,D,0,FALSE
+NH,House,2019_2020,James Horgan,NA,18635,HD-02-STR,R,0,FALSE
+NH,House,2019_2020,James MacKay,james mackay,10492,HD-14-MER,D,0,FALSE
+NH,House,2019_2020,James Whittemore,NA,19826,HD-37-HIL,R,0,FALSE
+NH,House,2019_2020,Jane Beaulieu,jane beaulieu,5017,HD-45-HIL,D,0,FALSE
+NH,House,2019_2020,Janet Wall,janet wall,12822,HD-07-STR,D,0,FALSE
+NH,House,2019_2020,Jeffrey Salloway,jeffrey salloway,19176,HD-05-STR,D,0,FALSE
+NH,House,2019_2020,Jim Maggiore,jim maggiore,19871,HD-22-ROC,D,0,FALSE
+NH,House,2019_2020,Jody McNally,jody mcnally,19169,HD-10-STR,R,0,FALSE
+NH,House,2019_2020,Joe Schapiro,joe schapiro,19763,HD-16-CHE,D,0,FALSE
+NH,House,2019_2020,John Callum,NA,19836,HD-06-SUL,R,0,FALSE
+NH,House,2019_2020,John Klose,NA,19164,HD-21-MER,R,0,FALSE
+NH,House,2019_2020,John O'Day,NA,18155,HD-11-CHE,R,0,FALSE
+NH,House,2019_2020,John Sytek,john sytek,11988,HD-08-ROC,R,0,FALSE
+NH,House,2019_2020,Jonathan Mackie,jonathan mackie,19751,HD-02-BEL,R,0,FALSE
+NH,House,2019_2020,Joseph Guthrie,joseph guthrie,17478,HD-13-ROC,R,0,FALSE
+NH,House,2019_2020,Joseph Pitre,joseph pitre,10919,HD-03-STR,R,0,FALSE
+NH,House,2019_2020,Joshua Query,joshua query,19858,HD-16-HIL,D,0,FALSE
+NH,House,2019_2020,Joyce Fulweiler,NA,19887,HD-03-MER,D,0,FALSE
+NH,House,2019_2020,Karel Crawford,karel crawford,15544,HD-04-CAR,R,0,FALSE
+NH,House,2019_2020,Kathleen Hoelzel,kathleen hoelzel,10464,HD-03-ROC,R,0,FALSE
+NH,House,2019_2020,Kathleen Martins,NA,21651,HD-24-MER,D,0,FALSE
+NH,House,2019_2020,Kathryn Stack,NA,19870,HD-21-HIL,D,0,FALSE
+NH,House,2019_2020,Kathy Desjardin,kathy desjardin,19855,HD-13-HIL,D,0,FALSE
+NH,House,2019_2020,Kenneth Wells,NA,19772,HD-01-MER,D,0,FALSE
+NH,House,2019_2020,Kermit Williams,NA,15604,HD-04-HIL,D,0,FALSE
+NH,House,2019_2020,Kevin Craig,kevin craig,19766,HD-04-COO,R,0,FALSE
+NH,House,2019_2020,Kevin Pratt,kevin pratt,19791,HD-03-ROC,R,0,FALSE
+NH,House,2019_2020,Kristina Fargo,kristina fargo,19806,HD-14-STR,D,0,FALSE
+NH,House,2019_2020,Laura Telerski,laura telerski,19821,HD-35-HIL,D,0,FALSE
+NH,House,2019_2020,Laurel Stavis,laurel stavis,19778,HD-13-GRA,D,0,FALSE
+NH,House,2019_2020,Linda DiSilvestro,linda disilvestro,15546,HD-09-HIL,D,0,FALSE
+NH,House,2019_2020,Linda Harriott-Gathright,linda harriott-gathright,14869,HD-36-HIL,D,0,FALSE
+NH,House,2019_2020,Linn Opderbecke,linn opderbecke,18133,HD-15-STR,D,0,FALSE
+NH,House,2019_2020,Lino Avellani,NA,16395,HD-05-CAR,R,0,FALSE
+NH,House,2019_2020,Lisa Bunker,lisa bunker,19863,HD-18-ROC,D,0,FALSE
+NH,House,2019_2020,Lucy Weber,lucy weber,4823,HD-02-CHE,D,0,FALSE
+NH,House,2019_2020,Manny Espitia,manny espitia,19815,HD-31-HIL,D,0,FALSE
+NH,House,2019_2020,Mark King,mark king,18134,HD-33-HIL,D,0,FALSE
+NH,House,2019_2020,Martin Jack,martin jack,14872,HD-36-HIL,D,0,FALSE
+NH,House,2019_2020,Mary Freitas,NA,17476,HD-14-HIL,D,0,FALSE
+NH,House,2019_2020,Mary Griffin,mary griffin,4772,HD-07-ROC,R,0,FALSE
+NH,House,2019_2020,Matthew Towne,NA,19801,HD-04-STR,D,0,FALSE
+NH,House,2019_2020,Michael Furbush,NA,19764,HD-01-COO,R,0,FALSE
+NH,House,2019_2020,Michael Gunski,michael gunski,19830,HD-06-HIL,R,0,FALSE
+NH,House,2019_2020,Michael Pedersen,michael pedersen,19749,HD-32-HIL,D,0,FALSE
+NH,House,2019_2020,Michael Trento,NA,19845,HD-07-HIL,R,0,FALSE
+NH,House,2019_2020,Michael Vose,michael vose,17495,HD-09-ROC,R,0,FALSE
+NH,House,2019_2020,Michael Yakubovich,michael yakubovich,19788,HD-24-MER,R,0,FALSE
+NH,House,2019_2020,Mona Perreault,NA,19814,HD-24-STR,R,0,FALSE
+NH,House,2019_2020,Patricia Lovejoy,patricia lovejoy,12524,HD-36-ROC,D,0,FALSE
+NH,House,2019_2020,Paul Dargie,paul dargie,19834,HD-23-HIL,D,0,FALSE
+NH,House,2019_2020,Paul Somero,NA,19178,HD-25-HIL,R,0,FALSE
+NH,House,2019_2020,Peg Higgins,peg higgins,19812,HD-22-STR,D,0,FALSE
+NH,House,2019_2020,Peter Hayward,peter hayward,19880,HD-01-STR,R,0,FALSE
+NH,House,2019_2020,Peter Varney,NA,17055,HD-05-BEL,R,0,FALSE
+NH,House,2019_2020,Phyllis Katsakiores,phyllis katsakiores,4898,HD-06-ROC,R,0,FALSE
+NH,House,2019_2020,Ray Newman,ray newman,19808,HD-29-HIL,D,0,FALSE
+NH,House,2019_2020,Richard Barry,richard barry,10470,HD-21-HIL,R,0,FALSE
+NH,House,2019_2020,Richard Beaudoin,NA,19885,HD-03-BEL,R,0,FALSE
+NH,House,2019_2020,Richard Hinch,richard hinch,5015,HD-21-HIL,R,0,FALSE
+NH,House,2019_2020,Richard Lascelles,NA,18812,HD-20-HIL,R,0,FALSE
+NH,House,2019_2020,Richard Osborne,richard osborne,19773,HD-07-GRA,D,0,FALSE
+NH,House,2019_2020,Robert Elliott,robert elliott,5001,HD-08-ROC,R,0,FALSE
+NH,House,2019_2020,Roderick Pimentel,NA,19769,HD-06-MER,D,0,FALSE
+NH,House,2019_2020,Roger Dontonville,roger dontonville,19151,HD-10-GRA,D,0,FALSE
+NH,House,2019_2020,Russell Ober,russell ober,4956,HD-37-HIL,R,0,FALSE
+NH,House,2019_2020,Sandy Swinburne,sandy swinburne,19761,HD-10-CHE,D,0,FALSE
+NH,House,2019_2020,Sharon Nordgren,sharon nordgren,5095,HD-12-GRA,D,0,FALSE
+NH,House,2019_2020,Sherry Dutzy,sherry dutzy,19811,HD-30-HIL,D,0,FALSE
+NH,House,2019_2020,Skip Rollins,skip rollins,15593,HD-06-SUL,R,0,FALSE
+NH,House,2019_2020,Sparky von Plinsky,sparky von plinsky,19760,HD-07-CHE,D,0,FALSE
+NH,House,2019_2020,Stephen Shurtleff,steve shurtleff,4802,HD-11-MER,D,0,FALSE
+NH,House,2019_2020,Sue Mullen,sue mullen,19843,HD-07-HIL,D,0,FALSE
+NH,House,2019_2020,Sue Newman,sue newman,18141,HD-29-HIL,D,0,FALSE
+NH,House,2019_2020,Susan Treleaven,NA,17492,HD-17-STR,D,0,FALSE
+NH,House,2019_2020,Thomas Laware,NA,10458,HD-08-SUL,R,0,FALSE
+NH,House,2019_2020,Thomas Southworth,thomas southworth,17491,HD-20-STR,D,0,FALSE
+NH,House,2019_2020,Thomas Walsh,thomas walsh,15249,HD-24-MER,R,0,FALSE
+NH,House,2019_2020,Timothy Fontneau,NA,19157,HD-07-STR,D,0,FALSE
+NH,House,2019_2020,Timothy Merlino,timothy merlino,19875,HD-25-HIL,R,0,FALSE
+NH,House,2019_2020,Vincent Paul Migliore,vincent paul migliore,19430,HD-09-GRA,R,0,FALSE
+NH,House,2019_2020,Walter Kolodziej,walter kolodziej,4770,HD-07-ROC,R,0,FALSE
+NH,House,2019_2020,Wendy Chase,wendy chase,19809,HD-18-STR,D,0,FALSE
+NH,House,2019_2020,William Bordy,william bordy,19803,HD-28-HIL,D,0,FALSE
+NH,House,2019_2020,Yvonne Thomas,yvonne thomas,4904,HD-04-COO,D,0,FALSE
+NH,House,2021_2022,Aboul Khan,aboul khan,15117,HD-20-ROC,R,0,FALSE
+NH,House,2021_2022,Alan Bershtein,alan bershtein,19790,HD-02-ROC,R,0,FALSE
+NH,House,2021_2022,Amanda Gourgue,amanda gourgue,19106,HD-25-STR,D,0,FALSE
+NH,House,2021_2022,Amy Bradley,amy bradley,21799,HD-43-HIL,D,0,FALSE
+NH,House,2021_2022,Andrew Maneval,andrew maneval,22997,HD-09-CHE,D,0,FALSE
+NH,House,2021_2022,Anne Copp,NA,19149,HD-06-ROC,R,0,FALSE
+NH,House,2021_2022,Ariel Oxaal,ariel oxaal,21852,HD-15-STR,D,0,FALSE
+NH,House,2021_2022,Arnold Davis,NA,21805,HD-02-COO,R,0,FALSE
+NH,House,2021_2022,Arthur Ellison,arthur ellison,19789,HD-27-MER,D,0,FALSE
+NH,House,2021_2022,Barbara Shaw,barbara shaw,4822,HD-16-HIL,D,0,FALSE
+NH,House,2021_2022,Barry Faulkner,NA,19154,HD-12-CHE,D,0,FALSE
+NH,House,2021_2022,Ben Kilanski,NA,21831,HD-13-CHE,R,0,FALSE
+NH,House,2021_2022,Beth Richards,NA,19174,HD-13-MER,D,0,FALSE
+NH,House,2021_2022,Betsy McKinney,NA,4986,HD-05-ROC,R,0,FALSE
+NH,House,2021_2022,Bill King,bill king,21833,HD-23-HIL,R,0,FALSE
+NH,House,2021_2022,Bill Nelson,bill nelson,15588,HD-05-CAR,R,0,FALSE
+NH,House,2021_2022,Bob Greene,bob greene,19822,HD-37-HIL,R,0,FALSE
+NH,House,2021_2022,Bob Healey,robert healey,21822,HD-21-HIL,R,0,FALSE
+NH,House,2021_2022,Bruce Cohen,bruce cohen,19804,HD-28-HIL,D,0,FALSE
+NH,House,2021_2022,Caroletta Alicea,caroletta alicea,15437,HD-08-MER,D,0,FALSE
+NH,House,2021_2022,Catherine Rombeau,catherine rombeau,22959,HD-07-HIL,D,0,FALSE
+NH,House,2021_2022,Catt Sandler,NA,18125,HD-21-STR,D,0,FALSE
+NH,House,2021_2022,Cecilia Rich,NA,19810,HD-18-STR,D,0,FALSE
+NH,House,2021_2022,Charles McMahon,charles mcmahon,5051,HD-07-ROC,R,0,FALSE
+NH,House,2021_2022,Charles Melvin,charles melvin,19859,HD-15-ROC,R,0,FALSE
+NH,House,2021_2022,Chris McAleer,NA,21845,HD-07-CAR,D,0,FALSE
+NH,House,2021_2022,Christopher Herbert,NA,16961,HD-43-HIL,D,0,FALSE
+NH,House,2021_2022,Claire Rouillard,claire rouillard,17049,HD-06-HIL,R,0,FALSE
+NH,House,2021_2022,Clifford Newton,NA,21850,HD-09-STR,R,0,FALSE
+NH,House,2021_2022,Dan Toomey,dan toomey,19841,HD-32-HIL,D,0,FALSE
+NH,House,2021_2022,Daniel Pickering,daniel pickering,19770,HD-03-HIL,D,0,FALSE
+NH,House,2021_2022,David Cote,david cote,4864,HD-31-HIL,D,0,FALSE
+NH,House,2021_2022,David Milz,david milz,14866,HD-06-ROC,R,0,FALSE
+NH,House,2021_2022,Dawn Johnson,NA,21826,HD-03-BEL,R,0,FALSE
+NH,House,2021_2022,Deb Stevens,deb stevens,19820,HD-34-HIL,D,0,FALSE
+NH,House,2021_2022,Denise Smith,NA,21869,HD-37-HIL,R,0,FALSE
+NH,House,2021_2022,Dennis Malloy,dennis malloy,15576,HD-23-ROC,D,0,FALSE
+NH,House,2021_2022,Denny Ruprecht,denny ruprecht,19882,HD-15-GRA,D,0,FALSE
+NH,House,2021_2022,Derek Kittredge,NA,19795,HD-12-STR,R,0,FALSE
+NH,House,2021_2022,Diane Kelley,NA,21827,HD-25-HIL,R,0,FALSE
+NH,House,2021_2022,Diane Langley,diane langley,19847,HD-08-HIL,D,0,FALSE
+NH,House,2021_2022,Donald Bouchard,donald bouchard,19851,HD-11-HIL,D,0,FALSE
+NH,House,2021_2022,Donald Dostie,NA,21809,HD-01-COO,R,0,FALSE
+NH,House,2021_2022,Donna Ellis,donna ellis,19153,HD-08-STR,D,0,FALSE
+NH,House,2021_2022,Douglas Ley,douglas ley,14475,HD-09-CHE,D,0,FALSE
+NH,House,2021_2022,Dru Fox,NA,21813,HD-06-CHE,D,0,FALSE
+NH,House,2021_2022,Dustin Dodge,NA,21808,HD-03-ROC,R,0,FALSE
+NH,House,2021_2022,Eamon Kelley,eamon kelley,21828,HD-03-COO,D,0,FALSE
+NH,House,2021_2022,Efstathia Booras,efstathia booras,15535,HD-33-HIL,D,0,FALSE
+NH,House,2021_2022,Everett McBride,everett mcbride,19850,HD-08-ROC,R,0,FALSE
+NH,House,2021_2022,Fenton Groen,fenton groen,21817,HD-23-STR,R,0,FALSE
+NH,House,2021_2022,Fred Doucette,fred doucette,17302,HD-08-ROC,R,0,FALSE
+NH,House,2021_2022,Gaby Grossman,gaby grossman,19864,HD-18-ROC,D,0,FALSE
+NH,House,2021_2022,Gerald Ward,gerald ward,15603,HD-28-ROC,D,0,FALSE
+NH,House,2021_2022,Glen Aldrich,glen aldrich,17465,HD-02-BEL,R,0,FALSE
+NH,House,2021_2022,Glenn Bailey,glenn bailey,21790,HD-01-STR,R,0,FALSE
+NH,House,2021_2022,Heidi Hamer,heidi hamer,19861,HD-17-HIL,D,0,FALSE
+NH,House,2021_2022,Israel Piedra,israel piedra,19849,HD-09-HIL,D,0,FALSE
+NH,House,2021_2022,James Horgan,NA,18635,HD-02-STR,R,0,FALSE
+NH,House,2021_2022,James MacKay,james mackay,10492,HD-14-MER,D,0,FALSE
+NH,House,2021_2022,James Mason,james mason,21843,HD-02-MER,R,0,FALSE
+NH,House,2021_2022,Jane Beaulieu,jane beaulieu,5017,HD-45-HIL,D,0,FALSE
+NH,House,2021_2022,Jason Osborne,jason osborne,17486,HD-04-ROC,R,0,FALSE
+NH,House,2021_2022,Jean Jeudy,jean jeudy,5090,HD-10-HIL,D,0,FALSE
+NH,House,2021_2022,Jeffrey Salloway,jeffrey salloway,19176,HD-05-STR,D,0,FALSE
+NH,House,2021_2022,Jennie Gomarlo,jennie gomarlo,19837,HD-12-CHE,D,0,FALSE
+NH,House,2021_2022,Jim Creighton,jim creighton,21802,HD-38-HIL,R,0,FALSE
+NH,House,2021_2022,Jim Fedolfi,NA,19155,HD-01-HIL,R,0,FALSE
+NH,House,2021_2022,Jim Qualey,NA,21862,HD-11-CHE,R,0,FALSE
+NH,House,2021_2022,Joan Hamblet,joan hamblet,21819,HD-31-ROC,D,0,FALSE
+NH,House,2021_2022,Jodi Nelson,NA,22998,HD-06-ROC,R,0,FALSE
+NH,House,2021_2022,John Bordenet,john bordenet,17467,HD-05-CHE,D,0,FALSE
+NH,House,2021_2022,John Klose,NA,19164,HD-21-MER,R,0,FALSE
+NH,House,2021_2022,John Leavitt,john leavitt,19167,HD-24-MER,R,0,FALSE
+NH,House,2021_2022,John Lewicke,john lewicke,18154,HD-26-HIL,R,0,FALSE
+NH,House,2021_2022,John Sytek,john sytek,11988,HD-08-ROC,R,0,FALSE
+NH,House,2021_2022,Jonathan Mackie,jonathan mackie,19751,HD-02-BEL,R,0,FALSE
+NH,House,2021_2022,Joseph DePalma IV,joseph depalma iv,21806,HD-01-GRA,R,0,FALSE
+NH,House,2021_2022,Joseph Guthrie,joseph guthrie,17478,HD-13-ROC,R,0,FALSE
+NH,House,2021_2022,Joseph Pitre,joseph pitre,10919,HD-03-STR,R,0,FALSE
+NH,House,2021_2022,Karel Crawford,karel crawford,15544,HD-04-CAR,R,0,FALSE
+NH,House,2021_2022,Kristina Fargo,kristina fargo,19806,HD-14-STR,D,0,FALSE
+NH,House,2021_2022,Latha Mangipudi,latha mangipudi,16060,HD-35-HIL,D,0,FALSE
+NH,House,2021_2022,Laura Pantelakos,laura pantelakos,4812,HD-25-ROC,D,0,FALSE
+NH,House,2021_2022,Laurie Sanborn,laurie sanborn,12885,HD-41-HIL,R,0,FALSE
+NH,House,2021_2022,Lawrence Welkowitz,lawrence welkowitz,21881,HD-04-CHE,D,0,FALSE
+NH,House,2021_2022,Linda DiSilvestro,linda disilvestro,15546,HD-09-HIL,D,0,FALSE
+NH,House,2021_2022,Lindsay Tausch,NA,21873,HD-21-HIL,R,0,FALSE
+NH,House,2021_2022,Lisa Bunker,lisa bunker,19863,HD-18-ROC,D,0,FALSE
+NH,House,2021_2022,Louise Andrus,louise andrus,21787,HD-01-MER,R,0,FALSE
+NH,House,2021_2022,Margaret Kennedy,margaret kennedy,21830,HD-07-MER,R,0,FALSE
+NH,House,2021_2022,Mark King,mark king,18134,HD-33-HIL,D,0,FALSE
+NH,House,2021_2022,Martin Jack,martin jack,14872,HD-36-HIL,D,0,FALSE
+NH,House,2021_2022,Mary Ann Kimball,NA,21832,HD-06-ROC,R,0,FALSE
+NH,House,2021_2022,Mary Freitas,NA,17476,HD-14-HIL,D,0,FALSE
+NH,House,2021_2022,Mary Griffin,mary griffin,4772,HD-07-ROC,R,0,FALSE
+NH,House,2021_2022,Mary Heath,mary heath,16056,HD-14-HIL,D,0,FALSE
+NH,House,2021_2022,Mary Mayville,mary mayville,21844,HD-21-HIL,R,0,FALSE
+NH,House,2021_2022,Matthew Pitaro,matthew pitaro,21858,HD-22-MER,R,0,FALSE
+NH,House,2021_2022,Matthew Simon,matthew simon,21868,HD-14-GRA,R,0,FALSE
+NH,House,2021_2022,Mel Myler,mel myler,14484,HD-10-MER,D,0,FALSE
+NH,House,2021_2022,Melbourne Moran,melbourne moran,21847,HD-34-HIL,D,0,FALSE
+NH,House,2021_2022,Michael Abbott,michael abbott,17463,HD-01-CHE,D,0,FALSE
+NH,House,2021_2022,Michael Pedersen,michael pedersen,19749,HD-32-HIL,D,0,FALSE
+NH,House,2021_2022,Muriel Hall,NA,22940,HD-23-MER,D,0,FALSE
+NH,House,2021_2022,Patricia Klee,patricia klee,19114,HD-30-HIL,D,0,FALSE
+NH,House,2021_2022,Paul Ayer,NA,21789,HD-03-ROC,R,0,FALSE
+NH,House,2021_2022,Paul Somero,NA,19178,HD-25-HIL,R,0,FALSE
+NH,House,2021_2022,Paul Tudor,paul tudor,21878,HD-01-ROC,R,0,FALSE
+NH,House,2021_2022,Peter Hayward,peter hayward,19880,HD-01-STR,R,0,FALSE
+NH,House,2021_2022,Peter Petrigno,peter petrigno,19835,HD-23-HIL,D,0,FALSE
+NH,House,2021_2022,Peter Varney,NA,17055,HD-05-BEL,R,0,FALSE
+NH,House,2021_2022,Phyllis Katsakiores,phyllis katsakiores,4898,HD-06-ROC,R,0,FALSE
+NH,House,2021_2022,Ray Newman,ray newman,19808,HD-29-HIL,D,0,FALSE
+NH,House,2021_2022,Raymond Howard,raymond howard,17360,HD-08-BEL,R,0,FALSE
+NH,House,2021_2022,Richard Littlefield,richard littlefield,21840,HD-03-BEL,R,0,FALSE
+NH,House,2021_2022,Richard Osborne,richard osborne,19773,HD-07-GRA,D,0,TRUE
+NH,House,2021_2022,Richard Tripp,richard tripp,19180,HD-06-ROC,R,0,FALSE
+NH,House,2021_2022,Robert Elliott,robert elliott,5001,HD-08-ROC,R,0,FALSE
+NH,House,2021_2022,Robert Theberge,robert theberge,4899,HD-03-COO,R,0,FALSE
+NH,House,2021_2022,Roderick Pimentel,roderick pimentel,19769,HD-06-MER,D,0,FALSE
+NH,House,2021_2022,Roger Dontonville,roger dontonville,19151,HD-10-GRA,D,0,FALSE
+NH,House,2021_2022,Russell Muirhead,russell muirhead,21848,HD-12-GRA,D,0,FALSE
+NH,House,2021_2022,Russell Ober,russell ober,4956,HD-37-HIL,R,0,FALSE
+NH,House,2021_2022,Sharon Nordgren,sharon nordgren,5095,HD-12-GRA,D,0,FALSE
+NH,House,2021_2022,Sherry Dutzy,sherry dutzy,19811,HD-30-HIL,D,0,FALSE
+NH,House,2021_2022,Skip Cleaver,skip cleaver,19147,HD-35-HIL,D,0,FALSE
+NH,House,2021_2022,Sparky von Plinsky,sparky von plinsky,19760,HD-07-CHE,D,0,FALSE
+NH,House,2021_2022,Stephanie Hyland,stephanie hyland,21825,HD-38-HIL,D,0,FALSE
+NH,House,2021_2022,Stephen Boyd,stephen boyd,21798,HD-24-MER,R,0,FALSE
+NH,House,2021_2022,Sue Newman,NA,18141,HD-29-HIL,D,0,FALSE
+NH,House,2021_2022,Susan Treleaven,NA,17492,HD-17-STR,D,0,FALSE
+NH,House,2021_2022,Susan Vandecasteele,susan vandecasteele,21879,HD-08-ROC,R,0,FALSE
+NH,House,2021_2022,Ted Gorski,ted gorski,21815,HD-07-HIL,R,0,FALSE
+NH,House,2021_2022,Thomas Kaczynski,thomas kaczynski,17304,HD-22-STR,R,0,FALSE
+NH,House,2021_2022,Thomas Southworth,thomas southworth,17491,HD-20-STR,D,0,FALSE
+NH,House,2021_2022,Timothy Fontneau,NA,19157,HD-07-STR,D,0,FALSE
+NH,House,2021_2022,Timothy Smith,timothy smith,15123,HD-17-HIL,D,0,FALSE
+NH,House,2021_2022,Timothy Soucy,timothy soucy,4910,HD-34-HIL,D,0,FALSE
+NH,House,2021_2022,Tom Ploszaj,tom ploszaj,21859,HD-01-BEL,R,0,FALSE
+NH,House,2021_2022,Travis O'Hara,travis o'hara,21851,HD-09-BEL,R,0,FALSE
+NH,House,2021_2022,Walter Spilsbury,walter spilsbury,21872,HD-08-SUL,R,0,FALSE
+NH,House,2021_2022,Wayne MacDonald,wayne macdonald,21842,HD-05-ROC,R,0,FALSE
+NH,House,2021_2022,Willis Griffith,willis griffith,19862,HD-18-HIL,D,0,FALSE
+NH,Senate,2021_2022,Daryl Abbas,NA,19846,SD-022,R,0,TRUE
+NH,Senate,2021_2022,Debra Altschiller,NA,18126,SD-024,D,0,TRUE
+NH,Senate,2021_2022,Donovan Fenton,NA,19156,SD-010,D,0,TRUE
+NH,Senate,2021_2022,Howard Pearl,NA,18152,SD-017,R,0,TRUE
+NH,Senate,2021_2022,Timothy Lang,NA,19166,SD-002,R,0,TRUE
+NJ,House,2018_2019,Aura Dunn,NA,21401,HD-025,R,0,TRUE
+NJ,House,2018_2019,Marlene Caride,NA,13848,HD-036,D,0,TRUE
+NJ,Senate,2018_2019,Michael Testa,NA,21404,SD-001,R,0,TRUE
+NJ,House,2020_2021,DeAnne DeFuccio,NA,22923,HD-039,R,0,FALSE
+NJ,Senate,2020_2021,Vincent Polistina,NA,3104,SD-002,R,0,TRUE
+NJ,House,2022_2023,Jacqueline Yustein,NA,24942,HD-028,D,0,FALSE
+NJ,House,2022_2023,Tennille McCoy,NA,25128,HD-014,D,0,TRUE
+NM,House,2019_2020,Art De La Cruz,NA,21692,HD-012,D,0,FALSE
+NM,House,2019_2020,Linda Serrato,NA,21694,HD-045,D,0,FALSE
+NM,House,2019_2020,Tara Lujan,NA,21693,HD-048,D,0,FALSE
+NM,House,2021_2022,Art De La Cruz,NA,21692,HD-012,D,0,FALSE
+NM,House,2021_2022,Randal Crowder,NA,17344,HD-064,R,0,FALSE
+NM,Senate,2021_2022,Clemente Sanchez,NA,15112,SD-030,D,0,TRUE
+NV,House,2019_2020,Amber Joiner,NA,17513,HD-024,D,0,TRUE
+NV,House,2019_2020,Bea Duran,NA,21175,HD-011,D,0,FALSE
+NV,House,2019_2020,Elliot Anderson,NA,8570,HD-015,D,0,TRUE
+NV,House,2019_2020,Greg Smith,NA,21354,HD-030,D,0,FALSE
+NV,House,2019_2020,Irene Bustamante Adams,NA,12211,HD-042,D,0,TRUE
+NV,House,2019_2020,Justin Watkins,NA,19232,HD-035,D,0,TRUE
+NV,House,2019_2020,Kasina Douglass-Boone,NA,21659,HD-017,D,0,FALSE
+NV,House,2019_2020,Nelson Araujo,NA,17511,HD-003,D,0,TRUE
+NV,House,2019_2020,Olivia Diaz,NA,12204,HD-011,D,0,TRUE
+NV,Senate,2019_2020,Aaron Ford,NA,15878,SD-011,D,0,TRUE
+NV,Senate,2019_2020,Mark Manendo,NA,8474,SD-021,D,0,TRUE
+NV,Senate,2019_2020,Richard Segerblom,NA,8510,SD-003,D,0,TRUE
+NV,House,2021_2022,Tracy Brown-May,NA,22828,HD-042,D,0,FALSE
+NV,Senate,2021_2022,David Parks,NA,8563,SD-007,D,0,TRUE
+NV,Senate,2021_2022,Don Tatro,NA,22975,SD-016,R,0,FALSE
+NV,Senate,2021_2022,Joyce Woodhouse,NA,8525,SD-005,D,0,TRUE
+NV,Senate,2021_2022,Yvanna Cancela,NA,19234,SD-010,D,0,TRUE
+NY,House,2019_2020,Demond Meeks,NA,21691,HD-137,D,0,FALSE
+NY,House,2019_2020,Keith Brown,NA,21910,HD-012,R,0,TRUE
+NY,House,2019_2020,Kenneth Burgos,NA,21695,HD-085,D,0,TRUE
+NY,House,2019_2020,Sarah Clark,NA,21690,HD-136,D,0,FALSE
+NY,Senate,2019_2020,John Mannion,NA,21905,SD-050,D,0,TRUE
+NY,House,2021_2022,Jacob Blumencranz,NA,23386,HD-015,R,0,TRUE
+NY,House,2021_2022,Jose Rivera,NA,1371,HD-078,D,0,FALSE
+NY,House,2021_2022,Monique Chandler-Waterman,NA,23147,HD-058,D,0,FALSE
+OH,House,2019_2020,Anthony DeVitis,NA,13528,HD-036,R,0,FALSE
+OH,House,2019_2020,James Butler,NA,11946,HD-041,R,0,FALSE
+OH,House,2019_2020,Jay Edwards,NA,19088,HD-094,R,0,FALSE
+OH,House,2019_2020,Larry Householder,NA,19082,HD-072,R,0,FALSE
+OH,House,2019_2020,Sarah LaTourette,NA,16986,HD-076,R,0,FALSE
+OH,House,2019_2020,William Seitz,NA,637,HD-030,R,0,FALSE
+OH,Senate,2019_2020,Louis Terhar,NA,13313,SD-008,R,0,FALSE
+OH,Senate,2019_2020,Randall Gardner,NA,549,SD-002,R,0,FALSE
+OH,House,2021_2022,Bishara Addison,NA,23141,HD-009,D,0,FALSE
+OH,House,2021_2022,Elgin Rogers,NA,23183,HD-044,D,0,FALSE
+OH,House,2021_2022,Larry Householder,NA,19082,HD-072,R,0,FALSE
+OH,House,2021_2022,Mark Johnson,NA,22776,HD-092,R,0,FALSE
+OH,House,2021_2022,Michael O'Brien,NA,16980,HD-064,D,0,FALSE
+OH,House,2021_2022,Nino Vitale,NA,16966,HD-085,R,0,FALSE
+OH,House,2021_2022,Paul Zeltwanger,NA,16983,HD-054,R,0,FALSE
+OH,House,2021_2022,Sedrick Denson,NA,20331,HD-033,D,0,FALSE
+OH,House,2021_2022,Shawn Stevens,NA,23115,HD-068,R,0,FALSE
+OH,Senate,2021_2022,Dale Martin,NA,23153,SD-021,D,0,FALSE
+OH,Senate,2021_2022,Matt Huffman,NA,562,SD-012,R,0,FALSE
+OH,Senate,2021_2022,Paula Hicks-Hudson,NA,20325,SD-011,D,0,TRUE
+OK,House,2019_2020,Elise Hall,NA,12148,HD-100,R,0,TRUE
+OK,House,2021_2022,Elise Hall,NA,12148,HD-100,R,0,TRUE
+OR,House,2019_2020,Akasha Lawrence Spence,NA,21543,HD-036,D,0,FALSE
+OR,House,2019_2020,Elizabeth Beyer,NA,6227,HD-012,D,0,TRUE
+OR,House,2019_2020,Mark Johnson,NA,12022,HD-052,R,0,TRUE
+OR,House,2019_2020,Mark Owens,NA,21542,HD-060,R,0,FALSE
+OR,House,2019_2020,Maxine Dexter,NA,21655,HD-033,D,0,FALSE
+OR,Senate,2019_2020,Akasha Lawrence Spence,NA,21543,SD-018,D,0,TRUE
+OR,House,2021_2022,Elizabeth Beyer,NA,6227,HD-012,D,0,TRUE
+OR,House,2021_2022,James Hieb,NA,23083,HD-039,R,0,FALSE
+OR,House,2021_2022,Mark Johnson,NA,12022,HD-052,R,0,TRUE
+OR,House,2021_2022,Nathan Sosa,NA,23064,HD-030,D,0,FALSE
+OR,House,2021_2022,Travis Nelson,NA,23063,HD-044,D,0,FALSE
+PA,House,2019_2020,Brian Ellis,NA,304,HD-011,R,0,FALSE
+PA,House,2019_2020,Eric Davanzo,NA,21626,HD-058,R,0,FALSE
+PA,Senate,2019_2020,Richard Alloway,NA,896,SD-033,R,0,FALSE
+PA,House,2021_2022,Gina Curry,NA,22990,HD-164,D,0,FALSE
+PA,House,2021_2022,Michael Reese,NA,930,HD-059,R,0,TRUE
+PA,House,2021_2022,Thom Welby,NA,22976,HD-113,D,0,FALSE
+PA,Senate,2021_2022,Dave Arnold,NA,21535,SD-048,R,0,TRUE
+PA,Senate,2021_2022,Jimmy Dillon,NA,23149,SD-005,D,0,FALSE
+PA,Senate,2021_2022,John Blake,NA,11539,SD-022,D,0,FALSE
+SC,House,2019_2020,Con Chellis,NA,20400,HD-094,R,0,FALSE
+SC,House,2019_2020,Elizabeth Wetmore,NA,21669,HD-115,D,0,FALSE
+SC,House,2019_2020,Jimmy Bales,NA,2207,HD-080,D,0,FALSE
+SC,House,2019_2020,Kevin Hardee,NA,14033,HD-105,R,0,FALSE
+SC,House,2019_2020,Max Hyde,NA,19931,HD-032,R,0,FALSE
+SC,House,2019_2020,Melissa Oremus,NA,21398,HD-084,R,0,FALSE
+SC,House,2019_2020,Michael Sottile,NA,2306,HD-112,R,0,FALSE
+SC,House,2019_2020,Patrick Haddon,NA,21436,HD-019,R,0,FALSE
+SC,House,2019_2020,Ronald Young,NA,19394,HD-084,R,0,FALSE
+SC,House,2019_2020,William Whitmire,NA,2319,HD-001,R,0,FALSE
+SC,Senate,2019_2020,Ronnie Sabb,NA,11221,SD-032,D,0,FALSE
+SC,House,2021_2022,Alan Morgan,NA,23151,HD-018,R,0,FALSE
+SC,House,2021_2022,Anne Parks,NA,2290,HD-012,D,0,FALSE
+SC,House,2021_2022,Robby Robbins,NA,23150,HD-097,R,0,FALSE
+SC,House,2021_2022,Steve Moss,NA,2281,HD-030,R,0,FALSE
+SC,House,2021_2022,Thomas Brittain,NA,21740,HD-107,R,0,FALSE
+SC,Senate,2021_2022,Mike Reichenbach,NA,23126,SD-031,R,0,FALSE
+SC,Senate,2021_2022,Ronnie Sabb,NA,11221,SD-032,D,0,FALSE
+SD,House,2019_2020,Larry Rhoden,NA,8254,HD-029,R,0,TRUE
+SD,House,2019_2020,Lynn Schneider,NA,21673,HD-022,R,0,FALSE
+SD,Senate,2019_2020,Casey Crabtree,NA,21672,SD-008,R,0,FALSE
+TN,House,2019_2020,Barry Doss,NA,15126,HD-070,R,0,TRUE
+TN,House,2019_2020,Beth Harwell,NA,7237,HD-056,R,0,TRUE
+TN,House,2019_2020,Charles Sargent,NA,7200,HD-061,R,0,TRUE
+TN,House,2019_2020,Courtney Rogers,NA,15505,HD-045,R,0,TRUE
+TN,House,2019_2020,Craig Fitzhugh,NA,7228,HD-082,D,0,TRUE
+TN,House,2019_2020,David Alexander,NA,12237,HD-039,R,0,FALSE
+TN,House,2019_2020,Harry Brooks,NA,7203,HD-019,R,0,FALSE
+TN,House,2019_2020,JoAnne Favors,NA,7231,HD-028,D,0,TRUE
+TN,House,2019_2020,Joe Pitts,NA,7189,HD-067,D,0,TRUE
+TN,House,2019_2020,John Forgety,NA,11501,HD-023,R,0,TRUE
+TN,House,2019_2020,Johnnie Turner,NA,7247,HD-085,D,0,TRUE
+TN,House,2019_2020,Judd Matheny,NA,7194,HD-047,R,0,TRUE
+TN,House,2019_2020,Kevin Brooks,NA,7249,HD-024,R,0,TRUE
+TN,House,2019_2020,Marc Gravitt,NA,16857,HD-030,R,0,TRUE
+TN,House,2019_2020,Roger Kane,NA,15128,HD-089,R,0,TRUE
+TN,House,2019_2020,Ron Lollar,NA,7225,HD-099,R,0,TRUE
+TN,House,2019_2020,Sheila Butt,NA,12102,HD-064,R,0,TRUE
+TN,House,2019_2020,Sherry Jones,NA,7222,HD-059,D,0,TRUE
+TN,House,2019_2020,Steve McDaniel,NA,7232,HD-072,R,0,TRUE
+TN,House,2019_2020,Tilman Goins,NA,15499,HD-010,R,0,TRUE
+TN,House,2019_2020,Timothy Wirgau,NA,12244,HD-075,R,0,TRUE
+TN,Senate,2019_2020,Doug Overbey,NA,7299,SD-002,R,0,TRUE
+TN,Senate,2019_2020,Lee Harris,NA,17032,SD-029,D,0,TRUE
+TN,House,2021_2022,Greg Martin,NA,23124,HD-026,R,0,FALSE
+TN,Senate,2021_2022,Doug Overbey,NA,7299,SD-002,R,0,TRUE
+TN,Senate,2021_2022,Lee Harris,NA,17032,SD-029,D,0,TRUE
+TX,House,2019_2020,Dennis Bonnen,NA,5857,HD-025,R,0,FALSE
+TX,Senate,2019_2020,Cesar Blanco,NA,16834,SD-029,D,0,TRUE
+TX,Senate,2019_2020,Roland Gutierrez,NA,5904,SD-019,D,0,TRUE
+TX,House,2021_2022,Dade Phelan,NA,16843,HD-021,R,0,FALSE
+TX,House,2021_2022,Drew Springer,NA,14238,HD-068,R,0,TRUE
+TX,Senate,2021_2022,Tan Parker,NA,5962,SD-012,R,0,TRUE
+UT,House,2019_2020,Brad Wilson,NA,11716,HD-015,R,0,FALSE
+UT,House,2019_2020,Kera Birkeland,NA,21630,HD-053,R,0,FALSE
+UT,Senate,2019_2020,Stuart Adams,NA,8148,SD-022,R,0,FALSE
+VA,House,2018_2019,Ibraheem Samirah,NA,21259,HD-086,D,0,FALSE
+VA,Senate,2018_2019,John Bell,NA,17744,SD-013,D,0,TRUE
+VA,Senate,2018_2019,Todd Pillion,NA,16765,SD-040,R,0,TRUE
+VA,Senate,2020_2021,Travis Hackworth,NA,22910,SD-038,R,0,FALSE
+VA,House,2022_2023,Jonathan Arnold,NA,24955,HD-006,R,0,TRUE
+VA,House,2022_2023,Todd Gilbert,NA,689,HD-015,R,0,FALSE
+VA,Senate,2022_2023,Lamont Bagby,NA,17709,SD-009,D,0,FALSE
+VT,House,2019_2020,Kelley Tully,NA,21639,HD-WIN3,D,0,FALSE
+VT,House,2021_2022,Jill Krowinski,NA,13903,HD-CHI6-3,D,0,FALSE
+VT,House,2021_2022,John Kascenska,NA,23112,HD-CAL-4,R,0,FALSE
+VT,House,2021_2022,Matt Walker,NA,23080,HD-FRA4,R,0,FALSE
+VT,House,2021_2022,Wayne Laroche,NA,23098,HD-FRA5,R,0,FALSE
+WA,House,2021_2022,James Wilcox,NA,11158,HD-002B,R,0,FALSE
+WA,House,2021_2022,Laurie Jinkins,NA,10544,HD-027A,D,0,FALSE
+WI,House,2019_2020,Peter Barca,NA,3825,HD-064,D,0,TRUE
+WI,House,2021_2022,John Jagler,NA,15094,HD-037,R,0,FALSE
+WI,Senate,2021_2022,Dianne Hesselbein,NA,15719,SD-027,D,0,TRUE
+WI,Senate,2021_2022,Jesse James,NA,20182,SD-023,R,0,TRUE
+WI,Senate,2021_2022,Mark Spreitzer,NA,16425,SD-015,D,0,TRUE
+WI,Senate,2021_2022,Rachael Cabral-Guevara,NA,21990,SD-019,R,0,TRUE
+WV,House,2021_2022,Andrew Anderson,NA,23171,HD-035,R,0,FALSE
+WV,House,2021_2022,Jarred Cannon,NA,23157,HD-021,R,0,FALSE
+WY,House,2019_2020,Andrea LeBeau,NA,20361,HD-033,D,0,FALSE
+WY,House,2021_2022,Jerry Obermueller,NA,18789,HD-056,R,0,FALSE
+WY,Senate,2021_2022,Eric Barlow,NA,14226,SD-023,R,0,TRUE
+KS,House,2019_2020,Alicia Straub,NA,21334,HD-113,R,0,FALSE
+KS,House,2019_2020,Boyd Orr,NA,18865,HD-115,R,0,FALSE
+KS,House,2019_2020,Bradley Ralph,NA,18868,HD-119,R,0,FALSE
+KS,House,2019_2020,Dan Hawkins,NA,15658,HD-100,R,0,FALSE
+KS,House,2019_2020,J.C. Moore,NA,21078,HD-093,R,0,FALSE
+KS,House,2019_2020,Jennifer Day,NA,21649,HD-048,D,0,FALSE
+KS,House,2019_2020,Joe Newland,NA,21422,HD-013,R,0,FALSE
+KS,House,2019_2020,John Wheeler,NA,18873,HD-123,R,0,FALSE
+KS,House,2019_2020,Kent Thompson,NA,16167,HD-009,R,0,FALSE
+KS,House,2019_2020,Larry Hibbard,NA,15659,HD-013,R,0,FALSE
+KS,House,2019_2020,Megan Lynn,NA,21077,HD-049,R,0,FALSE
+KS,House,2019_2020,Ron Ryckman,NA,12694,HD-078,R,0,FALSE
+KS,House,2019_2020,Valdenia Winn,NA,6743,HD-034,D,0,FALSE
+KS,Senate,2019_2020,Carolyn McGinn,NA,6863,SD-031,R,0,FALSE
+KS,Senate,2019_2020,Dan Kerschen,NA,6767,SD-026,R,0,FALSE
+KS,Senate,2019_2020,Gene Suellentrop,NA,6821,SD-027,R,0,FALSE
+KS,Senate,2019_2020,Jeff Longbine,NA,12703,SD-017,R,0,FALSE
+KS,Senate,2019_2020,John Skubal,NA,18968,SD-011,R,0,FALSE
+KS,Senate,2019_2020,Mary Pilcher-Cook,NA,6864,SD-010,R,0,FALSE
+KS,Senate,2019_2020,Mary Taylor,NA,18969,SD-033,R,0,FALSE
+KS,Senate,2019_2020,Mike Thompson,NA,21512,SD-010,R,0,FALSE
+KS,Senate,2019_2020,Ty Masterson,NA,6838,SD-016,R,0,FALSE
+KS,House,2021_2022,Boyd Orr,NA,18865,HD-115,R,0,FALSE
+KS,House,2021_2022,Bradley Ralph,NA,18868,HD-119,R,0,FALSE
+KS,House,2021_2022,Charles Smith,NA,17602,HD-003,R,0,FALSE
+KS,House,2021_2022,Cyndi Howerton,NA,22978,HD-098,R,0,FALSE
+KS,House,2021_2022,Dan Hawkins,NA,15658,HD-100,R,0,FALSE
+KS,House,2021_2022,Eric Smith,NA,18837,HD-076,R,0,FALSE
+KS,House,2021_2022,Jesse Borjon,NA,22583,HD-052,R,0,FALSE
+KS,House,2021_2022,Jim Minnix,NA,22592,HD-118,R,0,FALSE
+KS,House,2021_2022,Joe Newland,NA,21422,HD-013,R,0,FALSE
+KS,House,2021_2022,Joe Seiwert,NA,6816,HD-101,R,0,FALSE
+KS,House,2021_2022,John Wheeler,NA,18873,HD-123,R,0,FALSE
+KS,House,2021_2022,Kent Thompson,NA,16167,HD-009,R,0,FALSE
+KS,House,2021_2022,Lisa Moser,NA,22593,HD-106,R,0,FALSE
+KS,House,2021_2022,Martin Long,NA,21076,HD-124,R,0,FALSE
+KS,House,2021_2022,Owen Donohoe,NA,6761,HD-039,R,0,FALSE
+KS,House,2021_2022,Ron Howard,NA,21075,HD-098,R,0,FALSE
+KS,House,2021_2022,Ron Ryckman,NA,12694,HD-078,R,0,FALSE
+KS,House,2021_2022,Samantha Poetter,NA,22595,HD-006,R,0,FALSE
+KS,House,2021_2022,Tom Kessler,NA,22590,HD-096,R,0,FALSE
+KS,House,2021_2022,Virgil Weigel,NA,15683,HD-056,D,0,FALSE
+KS,House,2021_2022,Will Carpenter,NA,15644,HD-075,R,0,FALSE
+KS,Senate,2021_2022,Beverly Gossage,NA,22493,SD-009,R,0,FALSE
+KS,Senate,2021_2022,Bud Estes,NA,16170,SD-038,R,0,FALSE
+KS,Senate,2021_2022,Dennis Pyle,NA,6866,SD-001,R,0,FALSE
+KS,Senate,2021_2022,Ronald Ryckman,NA,15677,SD-038,R,0,TRUE
+NV,House,2023_2024,Andy Matthews,NA,22768,HD-037,R,0,TRUE
+NV,House,2023_2024,Jason Frierson,NA,12202,HD-008,D,0,TRUE
+NV,House,2023_2024,Teresa Benitez-Thompson,NA,12209,HD-027,D,0,TRUE
+NV,House,2023_2024,Thomas Roberts,NA,21184,HD-013,R,0,TRUE
+NV,Senate,2023_2024,Ben Kieckhefer,NA,12093,SD-016,R,0,TRUE
+NV,Senate,2023_2024,Joseph Hardy,NA,8469,SD-012,R,0,TRUE
+NV,Senate,2023_2024,Julia Ratti,NA,17976,SD-013,D,0,TRUE
+IL,House,2023_2024,Nicolle Grasse,NA,25232,HD-053,D,0,FALSE
+IL,House,2023_2024,Patrick Sheehan,NA,25194,HD-037,R,0,FALSE
+IL,Senate,2023_2024,Patricia Van Pelt,NA,14324,SD-005,D,0,FALSE
+IL,Senate,2023_2024,Stacy Bennett,NA,23988,SD-052,D,0,TRUE

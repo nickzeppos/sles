@@ -1,0 +1,40 @@
+bill_number,session_year,session_type,action_date,legislative_day,action,order
+HB0001,2024,S1,2024-07-18,LD: 1,Sent to HAFC - Referrals: HAFC,1
+HB0001,2024,S1,2024-07-18,LD: 1,HAFC: Reported by committee with Do Pass recommendation,2
+HB0001,2024,S1,2024-07-18,LD: 2,Passed in the House of Representatives - Y:57 N:7,3
+HB0001,2024,S1,2024-07-18,LD: 1,Sent to SFC - Referrals: SFC,4
+HB0001,2024,S1,2024-07-18,LD: 1,SFC: Reported by committee with Do Pass recommendation,5
+HB0001,2024,S1,2024-07-18,LD: 2,Passed in the Senate - Y:38 N:0,6
+HB0001,2024,S1,,,Signed by Governor - Chapter 1 - July 30,7
+SB0005,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0005,2024,S1,,,Action Postponed Indefinitely,2
+SB0006,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0006,2024,S1,,,Action Postponed Indefinitely,2
+SB0007,2024,S1,2024-07-18,LD: 1,Sent to SFC - Referrals: SFC,1
+SB0007,2024,S1,,,Action Postponed Indefinitely,2
+SB0008,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC/SFC,1
+SB0008,2024,S1,,,Action Postponed Indefinitely,2
+SB0009,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0009,2024,S1,,,Action Postponed Indefinitely,2
+SB0010,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0010,2024,S1,,,Action Postponed Indefinitely,2
+SB0011,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0011,2024,S1,,,Action Postponed Indefinitely,2
+SB0012,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC/SJC,1
+SB0012,2024,S1,,,Action Postponed Indefinitely,2
+SB0013,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC/SJC,1
+SB0013,2024,S1,,,Action Postponed Indefinitely,2
+SB0014,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0014,2024,S1,,,Action Postponed Indefinitely,2
+SB0015,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC/SJC,1
+SB0015,2024,S1,,,Action Postponed Indefinitely,2
+SB0016,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC/SFC,1
+SB0016,2024,S1,,,Action Postponed Indefinitely,2
+SB0017,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0017,2024,S1,,,Action Postponed Indefinitely,2
+SB0018,2024,S1,2024-07-18,LD: 1,Sent to SJC - Referrals: SJC,1
+SB0018,2024,S1,,,Action Postponed Indefinitely,2
+SB0019,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC/SFC,1
+SB0019,2024,S1,,,Action Postponed Indefinitely,2
+SJR0001,2024,S1,2024-07-18,LD: 1,Sent to SCC - Referrals: SCC,1
+SJR0001,2024,S1,,,Action Postponed Indefinitely,2

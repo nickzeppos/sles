@@ -1,0 +1,4 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1771422,2826815,text,120353,application/pdf,Introduced,https://legiscan.com/UT/text/HB2001/id/2826815,https://le.utah.gov/~2023S2/bills/hbillint/HB2001.pdf
+1771422,2827570,text,109567,application/pdf,Enrolled,https://legiscan.com/UT/text/HB2001/id/2827570,https://le.utah.gov/~2023S2/bills/hbillenr/HB2001.pdf
+1771422,384608,supplement,1391856,application/pdf,"Fiscal Note",https://legiscan.com/UT/supplement/HB2001/id/384608,https://le.utah.gov/lfa/fnotes/2023S2/HB2001.fn.pdf

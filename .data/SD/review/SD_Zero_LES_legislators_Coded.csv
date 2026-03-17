@@ -1,0 +1,8 @@
+state,term,sponsor,legiscan_id,chamber,party,district,not_actually_in_chamber,notes
+SD,2023_2024,Joe Donnell,24394,H,R,HD-001,FALSE,Served full term (2023+2024) - no primary-sponsored bills
+SD,2023_2024,Lynn Schneider,21673,H,R,HD-022,FALSE,Served full term (2023+2024) - cosponsor only
+SD,2023_2024,Charles Hoffman,8275,H,R,HD-023,TRUE,Leak from previous term
+SD,2023_2024,Kristin Conzet,8311,H,R,HD-032,FALSE,Appointed by Gov following vacancy; took office Feb 10 2024; served significant portion of 2024 session
+SD,2023_2024,Arch Beal,17180,S,R,SD-012,FALSE,Served full term as Senator (former House member who switched chambers between terms)
+SD,2023_2024,Dean Wink,8288,S,R,SD-029,FALSE,Served full term as Senator - legiscan role incorrectly lists as Rep but district SD-029 is Senate
+SD,2023_2024,Michael Walsh,25161,S,R,SD-035,FALSE,Appointed by Gov following Castleberry resignation; took office Feb 15 2024; served significant portion of 2024 session

@@ -1,0 +1,19 @@
+﻿bill_number,session_year,session_num,action_date,chamber,action,committee,order
+HB0001,2024_S,135,6/2/24,,Signed By The Governor,,8
+HB0001,2024_S,135,5/31/24,,Sent To The Governor,,7
+HB0001,2024_S,135,5/31/24,Senate,Passed,,6
+HB0001,2024_S,135,5/31/24,Senate,Introduced,,5
+HB0001,2024_S,135,5/30/24,House,Passed - Amended,,4
+HB0001,2024_S,135,5/30/24,House,Reported - Substitute,Government Oversight,3
+HB0001,2024_S,135,5/29/24,House,Referred to committee,Government Oversight,2
+HB0001,2024_S,135,5/28/24,House,Introduced,,1
+HB0002,2024_S,135,6/2/24,,Signed By The Governor,,8
+HB0002,2024_S,135,5/31/24,,Sent To The Governor,,7
+HB0002,2024_S,135,5/31/24,Senate,Passed,,6
+HB0002,2024_S,135,5/31/24,Senate,Introduced,,5
+HB0002,2024_S,135,5/28/24,House,Passed - Amended,,4
+HB0002,2024_S,135,5/30/24,House,Reported - Substitute,Government Oversight,3
+HB0002,2024_S,135,5/29/24,House,Referred to committee,Government Oversight,2
+HB0002,2024_S,135,5/28/24,House,Introduced,,1
+SB0279,2024_S,135,5/28/24,Senate,Introduced,,1
+SB0280,2024_S,135,5/28/24,Senate,Introduced,,1

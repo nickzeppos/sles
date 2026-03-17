@@ -1,0 +1,19 @@
+bill_id,session,chamber,location,action_date,action,vote,vote_url,order
+H.R. 901,2023-Y1,,Legislative Research and General Counsel,2023-11-13,Bill Numbered but not Distributed,,,1
+H.R. 901,2023-Y1,,Legislative Research and General Counsel,2023-11-13,Numbered Bill Publicly Distributed,,,2
+H.R. 901,2023-Y1,House,Clerk of the House,2023-11-15,House/ received bill from Legislative Research,,,3
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ to Printing with fiscal note,,,4
+H.R. 901,2023-Y1,House,Clerk of the House,2023-11-15,House/ received fiscal note from Fiscal Analyst,,,5
+H.R. 901,2023-Y1,House,House Rules Committee,2023-11-15,House/ 1st reading (Introduced),,,6
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ Rules to 3rd Reading Calendar,,,7
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ 2nd reading,,,8
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ 3rd reading,,,9
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ substituted from # 0 to # 2,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023Y1&voteid=2&house=H,10
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ floor amendment # 2,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023Y1&voteid=3&house=H,11
+H.R. 901,2023-Y1,House,House 3rd Reading Calendar for House bills,2023-11-15,House/ floor amendment failed # 3,Voice vote,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023Y1&voteid=4&house=H,12
+H.R. 901,2023-Y1,House,House Speaker,2023-11-15,House/ passed 3rd reading,62 3 10,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023Y1&voteid=5&house=H,13
+H.R. 901,2023-Y1,House,Legislative Research and General Counsel / Enrolling,2023-11-15,House/ signed by Speaker/ sent for enrolling,,,14
+H.R. 901,2023-Y1,,Legislative Research and General Counsel / Enrolling,2023-11-16,Bill Received from House for Enrolling,,,15
+H.R. 901,2023-Y1,,Legislative Research and General Counsel / Enrolling,2023-11-16,Draft of Enrolled Bill Prepared,,,16
+H.R. 901,2023-Y1,,Clerk of the House,2023-11-17,Enrolled Bill Returned to House or Senate,,,17
+H.R. 901,2023-Y1,House,Clerk of the House,2023-11-17,House/ enrolled bill to Printing,,,18

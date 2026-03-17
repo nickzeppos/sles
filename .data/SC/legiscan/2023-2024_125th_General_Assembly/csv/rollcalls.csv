@@ -1,0 +1,2211 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1635387,1265063,2023-03-01,Senate,"Senate: 3rd Reading",39,1,0,3,43
+1635387,1438094,2024-05-02,House,"House: Passage Of Bill",99,0,15,10,124
+1635387,1441844,2024-05-09,House,"House: Concur In Senate Amendments",0,101,14,9,124
+1635389,1272017,2023-03-09,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1635405,1263633,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1635488,1256650,2023-02-21,Senate,"Senate: To Set For Special Order",33,10,0,2,45
+1635488,1258205,2023-02-22,Senate,"Senate: To Lay On The Table Amendment No. 6",29,12,0,1,42
+1635488,1258206,2023-02-22,Senate,"Senate: 2nd Reading",39,5,0,2,46
+1635488,1304616,2023-04-19,House,"House: Table Amendment 2 Amendment Number 2",72,30,15,7,124
+1635488,1304617,2023-04-19,House,"House: Table Amendment 5 Amendment Number 5",30,72,15,7,124
+1635488,1304618,2023-04-19,House,"House: Passage Of Bill",75,21,21,7,124
+1635488,1306305,2023-04-20,House,"House: Passage Of Bill",80,22,13,9,124
+1635488,1318677,2023-05-04,Senate,"Senate: To Concur",32,6,0,7,45
+1635538,1286227,2023-03-28,Senate,"Senate: 2nd Reading",41,0,0,2,43
+1635538,1318491,2023-05-04,House,"House: Passage Of Bill",108,0,12,4,124
+1635538,1322919,2023-05-10,Senate,"Senate: To Concur",45,0,0,1,46
+1635541,1233398,2023-01-19,Senate,"Senate: To Lay On The Table",24,14,0,6,44
+1635541,1235049,2023-01-24,Senate,"Senate: To Lay On The Table Amendment Number 11",29,12,0,4,45
+1635541,1235050,2023-01-24,Senate,"Senate: To Lay On The Table Amendment Number 15",29,9,0,6,44
+1635541,1235624,2023-01-25,Senate,"Senate: To Lay On The Table The Motion To Carry Over S. 39",14,29,0,3,46
+1635541,1235625,2023-01-25,Senate,"Senate: To Carry Over Amendment Number 17",39,3,0,3,45
+1635541,1235626,2023-01-25,Senate,"Senate: To Lay On The Table",29,13,0,3,45
+1635541,1238956,2023-01-31,Senate,"Senate: To Adopt Amendment Number 48",28,14,0,4,46
+1635541,1238957,2023-01-31,Senate,"Senate: To Adopt Amendment Number 50",24,18,0,4,46
+1635541,1238958,2023-01-31,Senate,"Senate: To Adopt Amendment Number 52",16,27,0,3,46
+1635541,1238959,2023-01-31,Senate,"Senate: To Adopt Amendment Number 54",28,15,0,3,46
+1635541,1238960,2023-01-31,Senate,"Senate: To Adopt Amendment Number 58",21,20,0,3,44
+1635541,1238961,2023-01-31,Senate,"Senate: To Adopt Amendment Number 61",18,25,0,3,46
+1635541,1238962,2023-01-31,Senate,"Senate: 2nd Reading",28,15,0,3,46
+1635541,1311471,2023-04-26,House,"House: Table Amendment 2 Amendment Number 2",76,26,18,4,124
+1635541,1311472,2023-04-26,House,"House: Table Amendment 3 Amendment Number 3",79,27,14,4,124
+1635541,1311473,2023-04-26,House,"House: Table Amendment 4 Amendment Number 4",75,27,18,4,124
+1635541,1311474,2023-04-26,House,"House: Table Amendment 5 Amendment Number 5",73,29,18,4,124
+1635541,1311475,2023-04-26,House,"House: Table Amendment 6 Amendment Number 6",74,29,17,4,124
+1635541,1311476,2023-04-26,House,"House: Table Amendment 7 Amendment Number 7",82,29,9,4,124
+1635541,1311477,2023-04-26,House,"House: Table Amendment 8 Amendment Number 8",80,28,12,4,124
+1635541,1311478,2023-04-26,House,"House: Table Amendment 9 Amendment Number 9",78,27,15,4,124
+1635541,1311479,2023-04-26,House,"House: Table Amendment 12 Amendment Number 12",79,31,10,4,124
+1635541,1311480,2023-04-26,House,"House: Table Amendment 13 Amendment Number 13",78,28,14,4,124
+1635541,1311481,2023-04-26,House,"House: Table Amendment 14 Amendment Number 14",78,25,17,4,124
+1635541,1311482,2023-04-26,House,"House: Table Amendment 15 Amendment Number 15",77,32,11,4,124
+1635541,1311483,2023-04-26,House,"House: Table Amendment 16 Amendment Number 16",80,31,9,4,124
+1635541,1311484,2023-04-26,House,"House: Table Amendment 17 Amendment Number 17",78,27,15,4,124
+1635541,1311485,2023-04-26,House,"House: Table Amendment 18 Amendment Number 18",80,26,14,4,124
+1635541,1311486,2023-04-26,House,"House: Table Amendment 19 Amendment Number 19",76,30,14,4,124
+1635541,1311487,2023-04-26,House,"House: Table Amendment 20 Amendment Number 20",79,29,12,4,124
+1635541,1311488,2023-04-26,House,"House: Table Amendment 21 Amendment Number 21",79,25,16,4,124
+1635541,1311489,2023-04-26,House,"House: Table Amendment 22 Amendment Number 22",77,30,13,4,124
+1635541,1311490,2023-04-26,House,"House: Table Amendment 24 Amendment Number 24",81,31,8,4,124
+1635541,1311491,2023-04-26,House,"House: Table Amendment 25 Amendment Number 25",79,32,9,4,124
+1635541,1311492,2023-04-26,House,"House: Table Amendment 26 Amendment Number 26",77,30,13,4,124
+1635541,1311493,2023-04-26,House,"House: Passage Of Bill",79,35,6,4,124
+1635541,1312671,2023-04-27,House,"House: Passage Of Bill",74,36,6,8,124
+1635552,1279920,2023-03-21,Senate,"Senate: 2nd Reading",40,0,0,2,42
+1635552,1441103,2024-05-08,House,"House: Passage Of Bill",108,0,6,10,124
+1635552,1441871,2024-05-09,House,"House: Concur In Senate Amendments",103,0,10,11,124
+1635574,1263887,2023-02-28,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1635574,1322668,2023-05-10,House,"House: Passage Of Bill",104,7,8,5,124
+1635574,1323568,2023-05-11,Senate,"Senate: To Concur",42,0,0,3,45
+1635574,1331567,2023-05-23,Senate,"Senate: To Override The Veto",45,0,0,0,45
+1635574,1341219,2023-06-07,House,"House: Override Veto By The Governor",72,33,11,8,124
+1635580,1264441,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1635593,1300141,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1635593,1316328,2023-05-02,House,"House: Passage Of Bill",116,0,6,2,124
+1635595,1257100,2023-02-21,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1635595,1258342,2023-02-22,Senate,"Senate: 3rd Reading",45,0,0,1,46
+1635642,1272399,2023-03-09,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1635670,1398426,2024-02-28,Senate,"Senate: 2nd Reading",42,0,0,1,43
+1635682,1240780,2023-02-02,Senate,"Senate: Motion To Take Up Amendment On 3rd Reading Amendment Number 4",35,2,0,8,45
+1635682,1240781,2023-02-02,Senate,"Senate: To Lay On The Table Amendment Number 5",10,26,0,9,45
+1635682,1240782,2023-02-02,Senate,"Senate: 3rd Reading",30,6,0,9,45
+1635682,1316628,2023-05-02,House,"House: Table Amendment 1 Amendment Number 1",14,102,6,2,124
+1635682,1316629,2023-05-02,House,"House: Passage Of Bill",118,0,4,2,124
+1635682,1317874,2023-05-03,Senate,"Senate: To Concur",43,0,0,2,45
+1635702,1266450,2023-03-02,Senate,"Senate: 3rd Reading",38,0,0,4,42
+1635702,1378239,2024-02-07,House,"House: Passage Of Bill",111,0,6,6,123
+1635702,1384590,2024-02-14,Senate,"Senate: To Concur",45,0,0,1,46
+1635713,1272245,2023-03-09,Senate,"Senate: 2nd Reading",38,0,0,5,43
+1635713,1316330,2023-05-02,House,"House: Passage Of Bill",116,0,6,2,124
+1635740,1252661,2023-02-14,Senate,"Senate: 2nd Reading",38,3,0,3,44
+1635742,1287655,2023-03-29,Senate,"Senate: 3rd Reading",41,0,0,4,45
+1635742,1322739,2023-05-10,House,"House: Passage Of Bill",113,0,6,5,124
+1635742,1323444,2023-05-11,Senate,"Senate: To Concur",0,40,0,3,43
+1635742,1344036,2023-06-14,House,"House: Grant Free Conference Powers",105,0,8,11,124
+1635742,1344037,2023-06-14,Senate,"Senate: To Adopt The Free Conference Report",36,0,0,10,46
+1635742,1344038,2023-06-14,House,"House: Adopt Free Conference Report",103,0,10,11,124
+1635751,1272477,2023-03-09,Senate,"Senate: 2nd Reading",38,0,0,5,43
+1635751,1441164,2024-05-08,House,"House: Passage Of Bill",108,0,6,10,124
+1635754,1265148,2023-03-01,Senate,"Senate: 3rd Reading",38,0,0,4,42
+1635754,1441114,2024-05-08,House,"House: Passage Of Bill",110,0,4,10,124
+1635771,1265747,2023-03-01,Senate,"Senate: 2nd Reading",39,0,0,4,43
+1635771,1318636,2023-05-04,House,"House: Passage Of Bill",104,0,16,4,124
+1635800,1253011,2023-02-16,Senate,"Senate: 2nd Reading",41,0,0,3,44
+1635848,1412054,2024-03-20,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1635853,1415581,2024-03-26,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1635863,1420334,2024-04-03,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1635888,1420316,2024-04-03,Senate,"Senate: 2nd Reading",7,34,0,2,43
+1635896,1252660,2023-02-14,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1635896,1267129,2023-02-15,Senate,"Senate: 3rd Reading",40,0,0,3,43
+1635896,1312704,2023-04-27,House,"House: Table Amendment 4 Amendment Number 4",59,47,10,8,124
+1635896,1312705,2023-04-27,House,"House: Table Motion To Adjourn Debate",46,58,12,8,124
+1635896,1316541,2023-05-02,House,"House: Passage Of Bill",110,8,4,2,124
+1635896,1321282,2023-05-09,Senate,"Senate: To Adopt Amendment Number Rfh-1",44,0,0,2,46
+1635896,1322798,2023-05-10,House,"House: Concur In Senate Amendments",2,104,13,5,124
+1635896,1323986,2023-05-11,Senate,"Senate: To Adopt The Conference Report",43,0,0,3,46
+1635896,1323987,2023-05-11,House,"House: Table Motion To Adjourn Debate On The Conference Report",85,21,16,2,124
+1635896,1323988,2023-05-11,House,"House: Cloture",20,72,29,3,124
+1635896,1323989,2023-05-11,House,"House: Table Motion To Adjourn Debate On The Conference Report",72,23,23,6,124
+1635896,1340548,2023-06-07,House,"House: Adopt Conference Report",97,7,12,8,124
+1635912,1252718,2023-02-14,Senate,"Senate: To Adopt Amendment Number 2",14,28,0,3,45
+1635912,1258174,2023-02-22,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1635917,1289002,2023-03-30,Senate,"Senate: 2nd Reading",42,0,0,4,46
+1635917,1318529,2023-05-04,House,"House: Passage Of Bill",104,0,16,4,124
+1635930,1271047,2023-03-08,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1635930,1276406,2023-03-15,Senate,"Senate: 3rd Reading",40,0,0,5,45
+1635968,1282612,2023-03-23,Senate,"Senate: 3rd Reading",37,1,0,7,45
+1635968,1318455,2023-05-04,House,"House: Passage Of Bill",112,0,9,3,124
+1635968,1322973,2023-05-10,Senate,"Senate: To Concur",43,0,0,1,44
+1635970,1252711,2023-02-14,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1635998,1281692,2023-03-22,Senate,"Senate: 2nd Reading",39,6,0,1,46
+1635998,1441049,2024-05-08,House,"House: Passage Of Bill",94,15,4,11,124
+1636133,1276247,2023-03-15,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1636133,1434634,2024-04-25,House,"House: Passage Of Bill",97,0,17,10,124
+1636133,1441080,2024-05-08,Senate,"Senate: To Adopt Amendment Number Rfh-3",45,0,0,1,46
+1636133,1441081,2024-05-08,Senate,"Senate: To Adopt Amendment Number Rfh-5",45,0,0,1,46
+1636133,1441832,2024-05-09,House,"House: Concur In Senate Amendments",0,102,12,10,124
+1636133,1460356,2024-06-26,Senate,"Senate: To Grant Free Conference Powers",41,0,0,3,44
+1636133,1460357,2024-06-26,House,"House: Grant Free Conference Powers",103,2,10,9,124
+1636133,1460358,2024-06-26,House,"House: Adopt Free Conference Report",100,1,14,9,124
+1636133,1460359,2024-06-26,Senate,"Senate: To Adopt The Free Conference Report",42,0,0,3,45
+1637105,1252655,2023-02-14,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1637105,1322000,2023-05-10,House,"House: Passage Of Bill",114,0,6,4,124
+1637105,1323612,2023-05-11,Senate,"Senate: To Concur",0,41,0,3,44
+1637105,1323613,2023-05-11,House,"House: Grant Free Conference Powers",103,0,14,7,124
+1637105,1323614,2023-05-11,House,"House: Adopt Free Conference Report",101,0,16,7,124
+1637109,1252659,2023-02-14,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1637109,1312282,2023-04-27,House,"House: Waive Rule 5.14 24hr Print",76,13,27,8,124
+1637109,1312283,2023-04-27,House,"House: Passage Of Bill",100,0,16,8,124
+1637140,1368434,2024-01-23,Senate,"Senate: 2nd Reading",45,0,0,0,45
+1637140,1377056,2024-02-06,Senate,"Senate: 3rd Reading",44,0,0,0,44
+1637140,1438001,2024-05-02,House,"House: Passage Of Bill",102,0,13,9,124
+1637140,1440388,2024-05-07,Senate,"Senate: Waive Printing",43,0,0,1,44
+1637140,1442081,2024-05-09,House,"House: Concur In Senate Amendments",0,105,10,9,124
+1637141,1270068,2023-03-07,Senate,"Senate: To Set For Special Order",28,13,0,3,44
+1637141,1276637,2023-03-15,Senate,"Senate: 2nd Reading",28,9,0,5,42
+1637146,1279782,2023-03-21,Senate,"Senate: 2nd Reading",21,21,0,3,45
+1637155,1300158,2023-03-29,Senate,"Senate: 2nd Reading",34,6,1,5,46
+1637155,1300159,2023-03-30,Senate,"Senate: To Lay On The Table Amendment Number 1",24,11,0,5,40
+1637155,1372969,2024-01-31,House,"House: Passage Of Bill",109,0,10,4,123
+1637155,1388808,2024-02-20,Senate,"Senate: To Adopt Amendment Number Rfh-1",44,0,0,2,46
+1637155,1397631,2024-02-28,House,"House: Concur In Senate Amendments",113,0,8,2,123
+1637157,1263604,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1637157,1318369,2023-05-04,House,"House: Passage Of Bill",89,0,32,3,124
+1637167,1259467,2023-02-23,Senate,"Senate: 2nd Reading",38,1,0,5,44
+1637170,1289038,2023-03-30,Senate,"Senate: 2nd Reading",34,6,0,5,45
+1637170,1322222,2023-05-10,House,"House: Passage Of Bill",80,29,10,5,124
+1637170,1323596,2023-05-11,Senate,"Senate: To Concur",41,2,0,3,46
+1637173,1322309,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637173,1438133,2024-05-02,House,"House: Passage Of Bill",104,0,12,8,124
+1637173,1440527,2024-05-07,Senate,"Senate: Waive Printing",40,4,0,1,45
+1637173,1441985,2024-05-09,House,"House: Concur In Senate Amendments",0,106,9,9,124
+1637173,1460335,2024-06-26,House,"House: Adopt Conference Report",106,0,8,10,124
+1637173,1460336,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1637315,1292899,2023-04-04,House,"House: Passage Of Bill",108,0,12,4,124
+1637367,1295070,2023-04-06,House,"House: Passage Of Bill",103,0,15,6,124
+1637367,1321659,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637373,1252654,2023-02-14,House,"House: Passage Of Bill",115,0,5,4,124
+1637373,1318667,2023-05-04,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1637376,1271406,2023-03-08,House,"House: Passage Of Bill",110,1,8,5,124
+1637376,1323897,2023-05-11,Senate,"Senate: 2nd Reading",40,0,0,3,43
+1637397,1309511,2023-04-25,House,"House: Passage Of Bill",105,1,13,5,124
+1637405,1287579,2023-03-29,House,"House: Passage Of Bill",114,0,9,1,124
+1637405,1412134,2024-03-20,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1637413,1292949,2023-04-04,House,"House: Passage Of Bill",98,0,22,4,124
+1637418,1316404,2023-05-02,House,"House: Passage Of Bill",114,0,8,2,124
+1637424,1271156,2023-03-08,House,"House: Passage Of Bill",103,0,16,5,124
+1637455,1322687,2023-05-10,House,"House: Passage Of Bill",108,0,11,5,124
+1637458,1244272,2023-02-07,House,"House: Passage Of Joint Resolution",113,0,6,5,124
+1637458,1281603,2023-03-22,Senate,"Senate: 2nd Reading",44,1,0,1,46
+1637458,1287527,2023-03-29,House,"House: Concur In Senate Amendments",111,0,12,1,124
+1637464,1372830,2024-01-31,House,"House: Passage Of Bill",104,1,15,3,123
+1637464,1373539,2024-02-01,House,"House: Passage Of Bill",113,1,4,5,123
+1637464,1441178,2024-05-08,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1637464,1441951,2024-05-09,House,"House: Adopt Amendment 1a Amendment Number 1a",100,1,12,11,124
+1637505,1323358,2023-05-11,House,"House: Passage Of Bill",103,0,16,5,124
+1637526,1317183,2023-05-02,House,"House: Passage Of Bill",109,4,9,2,124
+1637526,1399045,2024-02-29,Senate,"Senate: 2nd Reading",30,12,0,3,45
+1637526,1412453,2024-03-20,House,"House: Concur In Senate Amendments",107,0,8,8,123
+1637539,1322709,2023-05-10,House,"House: Passage Of Bill",111,0,8,5,124
+1637539,1373781,2024-02-01,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1637539,1379308,2024-02-08,House,"House: Concur In Senate Amendments",112,0,3,8,123
+1637556,1404635,2024-03-06,House,"House: Passage Of Bill",110,0,10,3,123
+1637565,1303656,2023-04-18,House,"House: Passage Of Bill",106,0,12,6,124
+1637565,1410930,2024-03-19,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637567,1270983,2023-03-08,House,"House: Table Amendment 1 Amendment Number 1",76,36,6,6,124
+1637567,1270984,2023-03-08,House,"House: Table Amendment 2 Amendment Number 2",70,41,7,6,124
+1637567,1270985,2023-03-08,House,"House: Table Amendment 4 Amendment Number 4",96,20,2,6,124
+1637567,1270986,2023-03-08,House,"House: Table Amendment 5 Amendment Number 5",83,33,2,6,124
+1637567,1270987,2023-03-08,House,"House: Table Amendment 8 Amendment Number 8",87,29,3,5,124
+1637567,1270988,2023-03-08,House,"House: Table Amendment 9 Amendment Number 9",92,24,3,5,124
+1637567,1270989,2023-03-08,House,"House: Table Amendment 22 Amendment Number 22",82,21,15,6,124
+1637567,1270990,2023-03-08,House,"House: Table Amendment 24 Amendment Number 24",92,19,7,6,124
+1637567,1270991,2023-03-08,House,"House: Table Amendment 27 Amendment Number 27",84,27,7,6,124
+1637567,1270992,2023-03-08,House,"House: Passage Of Bill",84,31,3,6,124
+1637580,1244842,2023-02-07,House,"House: Passage Of Bill",113,0,6,5,124
+1637580,1321395,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637588,1272515,2023-03-09,House,"House: Passage Of Bill",114,0,5,5,124
+1637588,1323133,2023-05-10,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1637588,1326032,2023-05-16,House,"House: Concur In Senate Amendments",98,0,14,12,124
+1637605,1317406,2023-05-03,House,"House: Passage Of Bill",112,0,9,3,124
+1637612,1288918,2023-03-30,House,"House: Passage Of Bill",106,8,6,4,124
+1637625,1310813,2023-04-26,House,"House: Passage Of Bill",109,0,11,4,124
+1637625,1440284,2024-05-07,Senate,"Senate: To Lay On The Table Amendment No 1",29,15,0,1,45
+1637625,1441097,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637638,1417230,2024-03-28,House,"House: Passage Of Bill",111,0,7,5,123
+1637673,1423374,2024-04-09,House,"House: Passage Of Bill",99,0,22,3,124
+1637677,1292721,2023-04-04,House,"House: Passage Of Bill",104,0,16,4,124
+1637677,1294155,2023-04-05,House,"House: Passage Of Bill",106,0,17,1,124
+1637687,1260075,2023-02-23,House,"House: Passage Of Bill",109,0,10,5,124
+1637691,1258790,2023-02-22,House,"House: Passage Of Bill",99,0,24,1,124
+1637691,1323101,2023-05-10,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1637693,1317658,2023-05-03,House,"House: Passage Of Bill",102,0,14,8,124
+1637693,1440172,2024-05-07,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1637693,1441828,2024-05-09,House,"House: Concur In Senate Amendments",91,1,20,12,124
+1637729,1238447,2023-01-31,House,"House: Table Amendment 4 Amendment Number 4",74,28,17,5,124
+1637729,1238448,2023-01-31,House,"House: Passage Of Joint Resolution",112,0,7,5,124
+1637729,1303864,2023-04-18,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1637729,1321455,2023-05-09,Senate,"Senate: 3rd Reading",43,2,0,1,46
+1637729,1323532,2023-05-11,House,"House: Concur In Senate Amendments",107,0,12,5,124
+1637753,1239076,2023-01-31,House,"House: Passage Of Bill",111,0,7,6,124
+1637767,1235757,2023-01-25,House,"House: Passage Of Bill",102,0,21,1,124
+1637770,1377150,2024-02-06,House,"House: Passage Of Bill",115,0,4,4,123
+1637770,1441156,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637778,1322702,2023-05-10,House,"House: Passage Of Bill",113,0,7,4,124
+1637778,1410967,2024-03-19,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1637778,1416612,2024-03-27,House,"House: Concur In Senate Amendments",107,0,11,5,123
+1637787,1430873,2024-04-18,House,"House: Passage Of Bill",82,0,36,6,124
+1637792,1371428,2024-01-30,House,"House: Passage Of Bill",114,0,4,5,123
+1637792,1410970,2024-03-19,Senate,"Senate: 2nd Reading",42,1,0,3,46
+1637839,1270067,2023-03-07,House,"House: Passage Of Bill",109,0,9,6,124
+1637839,1321239,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1637854,1312344,2023-04-27,House,"House: Passage Of Bill",100,0,16,8,124
+1637873,1239718,2023-02-01,House,"House: Table Amendment 4 Amendment Number 4",71,43,7,3,124
+1637873,1239719,2023-02-01,House,"House: Passage Of Bill",96,21,4,3,124
+1637873,1331179,2023-05-23,Senate,"Senate: To Lay On The Table Amendment Number 5",11,34,0,0,45
+1637873,1331180,2023-05-23,Senate,"Senate: 3rd Reading",45,0,0,0,45
+1637873,1340698,2023-06-07,House,"House: Concur In Senate Amendments",103,1,12,8,124
+1637875,1294699,2023-04-05,House,"House: Passage Of Bill",110,0,13,1,124
+1638774,1292586,2023-04-04,House,"House: Passage Of Bill",107,0,13,4,124
+1638774,1294132,2023-04-05,House,"House: Passage Of Bill",104,0,19,1,124
+1638774,1331432,2023-05-23,Senate,"Senate: 3rd Reading",45,0,0,0,45
+1638774,1340597,2023-06-07,House,"House: Concur In Senate Amendments",104,0,12,8,124
+1638778,1292087,2023-04-04,House,"House: Passage Of Bill",106,0,15,3,124
+1638778,1294184,2023-04-05,House,"House: Passage Of Bill",105,0,18,1,124
+1638781,1292251,2023-04-04,House,"House: Passage Of Bill",111,0,9,4,124
+1638781,1294426,2023-04-05,House,"House: Passage Of Bill",109,0,14,1,124
+1638787,1244295,2023-02-07,House,"House: Passage Of Bill",112,0,7,5,124
+1638787,1323107,2023-05-10,Senate,"Senate: 3rd Reading",42,0,0,1,43
+1638787,1323267,2023-05-11,House,"House: Concur In Senate Amendments",106,0,13,5,124
+1638824,1258212,2023-02-22,House,"House: Table Motion To Recommit",86,30,7,1,124
+1638824,1258213,2023-02-22,House,"House: Table Amendment 5 Amendment Number 5",79,35,8,2,124
+1638824,1258214,2023-02-22,House,"House: Table Amendment 6 Amendment Number 6",75,37,10,2,124
+1638824,1258215,2023-02-22,House,"House: Table Amendment 7 Amendment Number 7",82,29,11,2,124
+1638824,1258216,2023-02-22,House,"House: Table Amendment 8 Amendment Number 8",67,43,12,2,124
+1638824,1258217,2023-02-22,House,"House: Table Amendment 9 Amendment Number 9",78,37,7,2,124
+1638824,1258218,2023-02-22,House,"House: Table Amendment 14 Amendment Number 14",64,45,13,2,124
+1638824,1258219,2023-02-22,House,"House: Table Amendment 15 Amendment Number 15",46,54,21,3,124
+1638824,1258220,2023-02-22,House,"House: Table Amendment 21 Amendment Number 21",48,64,9,3,124
+1638824,1258221,2023-02-22,House,"House: Table Amendment 22 Amendment Number 22",66,50,5,3,124
+1638824,1258222,2023-02-22,House,"House: Table Amendment 24 Amendment Number 24",57,57,7,3,124
+1638824,1258223,2023-02-22,House,"House: Adopt Amendment 24 Amendment Number 24",55,62,4,3,124
+1638824,1258224,2023-02-22,House,"House: Table Amendment 26 Amendment Number 26",61,50,10,3,124
+1638824,1258225,2023-02-22,House,"House: Table Amendment 13 Amendment Number 13",81,32,8,3,124
+1638824,1258226,2023-02-22,House,"House: Table Motion To Reconsider",91,22,8,3,124
+1638824,1258227,2023-02-22,House,"House: Table Motion To Reconsider The Vote Whereby Amendment No. 22 Was Tabled Amendment Number 22",69,46,6,3,124
+1638824,1258228,2023-02-22,House,"House: Table The Motion To Reconsider The Vote Whereby Amendment No. 24 Was Rejected Amendment Number 24",65,51,5,3,124
+1638824,1258229,2023-02-22,House,"House: Passage Of Bill",90,30,3,1,124
+1638824,1259475,2023-02-23,House,"House: Passage Of Bill",87,26,6,5,124
+1638824,1321501,2023-05-09,Senate,"Senate: To Recall And Place On The Calendar",24,18,0,2,44
+1638824,1368466,2024-01-23,Senate,"Senate: To Adjourn Debate",27,17,0,0,44
+1638824,1371800,2024-01-30,Senate,"Senate: To Lay On The Table Amendment Number 10",34,8,0,3,45
+1638824,1371801,2024-01-30,Senate,"Senate: To Lay On The Table Amendment Number 11",24,18,0,4,46
+1638824,1371802,2024-01-30,Senate,"Senate: To Adopt Amendment Number 13",22,20,0,4,46
+1638824,1373363,2024-01-31,Senate,"Senate: To Adopt Amendment Number 14",15,28,0,1,44
+1638824,1373364,2024-01-31,Senate,"Senate: To Adopt Amendment Number 22",36,3,0,4,43
+1638824,1373365,2024-01-31,Senate,"Senate: To Lay On The Table Amendment Number 24",27,15,0,4,46
+1638824,1373366,2024-01-31,Senate,"Senate: To Lay On The Table Amendment Number 25",24,19,0,3,46
+1638824,1373367,2024-01-31,Senate,"Senate: To Adopt Amendment Number 34",34,7,0,5,46
+1638824,1373368,2024-01-31,Senate,"Senate: To Lay On The Table Amendment Number 32",30,11,0,5,46
+1638824,1373369,2024-01-31,Senate,"Senate: To Lay On The Table Amendment Number 33",25,13,0,5,43
+1638824,1373370,2024-01-31,Senate,"Senate: To Lay On The Table Amendment Number 36",13,28,0,5,46
+1638824,1373371,2024-01-31,Senate,"Senate: To Adopt Amendment Number 36",28,13,0,5,46
+1638824,1373833,2024-02-01,Senate,"Senate: To Lay On The Table Amendment Number 37",30,12,0,1,43
+1638824,1373834,2024-02-01,Senate,"Senate: 3rd Reading",28,15,0,3,46
+1638824,1382715,2024-02-13,House,"House: Adopt Amendment 1a Amendment Number 1a",85,26,8,4,123
+1638824,1402934,2024-03-05,House,"House: Adopt Conference Report",86,33,1,3,123
+1638824,1404978,2024-03-06,Senate,"Senate: To Adopt The Conference Report",28,18,0,0,46
+1638837,1294349,2023-04-05,House,"House: Passage Of Bill",103,0,20,1,124
+1638837,1295046,2023-04-06,House,"House: Passage Of Bill",102,0,16,6,124
+1638843,1369238,2024-01-25,House,"House: Waive Rule 5.15 Printing",95,2,21,5,123
+1638843,1369239,2024-01-25,House,"House: Passage Of Bill",105,0,13,5,123
+1638868,1244710,2023-02-07,House,"House: Passage Of Bill",114,0,5,5,124
+1638886,1245222,2023-02-07,House,"House: Table Amendment 3 Amendment Number 3",76,37,6,5,124
+1638886,1245223,2023-02-07,House,"House: Passage Of Bill",107,2,10,5,124
+1638886,1398265,2024-02-28,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1638886,1412436,2024-03-20,House,"House: Concur In Senate Amendments",98,3,14,8,123
+1638898,1311303,2023-04-26,House,"House: Passage Of Bill",113,0,7,4,124
+1638898,1312402,2023-04-27,House,"House: Passage Of Bill",107,0,9,8,124
+1638898,1323689,2023-05-11,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1638898,1325499,2023-05-16,House,"House: Concur In Senate Amendments",100,0,12,12,124
+1638911,1292103,2023-04-04,House,"House: Passage Of Bill",108,0,13,3,124
+1638911,1294325,2023-04-05,House,"House: Passage Of Bill",106,0,17,1,124
+1638917,1300220,2023-03-01,House,"House: Table Amendment 4 Amendment Number 4",75,25,20,4,124
+1638917,1300221,2023-03-01,House,"House: Table Amendment 5 Amendment Number 5",78,24,18,4,124
+1638917,1300222,2023-03-01,House,"House: Table Amendment 7 Amendment Number 7",76,27,17,4,124
+1638917,1300223,2023-03-01,House,"House: Table Amendment 9 Amendment Number 9",81,27,12,4,124
+1638917,1300224,2023-03-01,House,"House: Table Amendment 10 Amendment Number 10",57,52,11,4,124
+1638917,1300225,2023-03-01,House,"House: Passage Of Bill",92,20,8,4,124
+1638917,1300226,2023-03-02,House,"House: Passage Of Bill",93,13,10,8,124
+1638917,1300227,2023-04-12,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1638917,1311196,2023-04-26,House,"House: Adopt Amendment 1a Amendment Number 1a",110,1,9,4,124
+1638917,1343976,2023-06-14,Senate,"Senate: To Adopt The Free Conference Report",36,0,0,10,46
+1638917,1343977,2023-06-14,House,"House: Grant Free Conference Powers",105,0,8,11,124
+1638917,1343978,2023-06-14,House,"House: Adopt Free Conference Report",89,16,8,11,124
+1638922,1294499,2023-04-05,House,"House: Passage Of Bill",114,0,5,5,124
+1638922,1436530,2024-04-30,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1638930,1256610,2023-02-21,House,"House: Waive Rule 5.15 Printing",81,33,10,0,124
+1638930,1263558,2023-02-28,House,"House: Adopt Joint Resolution",83,27,11,3,124
+1638933,1318368,2023-05-04,House,"House: Passage Of Bill",101,0,20,3,124
+1638933,1396221,2024-02-27,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1638933,1412227,2024-03-20,House,"House: Concur In Senate Amendments",109,0,6,8,123
+1638965,1293999,2023-04-05,House,"House: Table Amendment 3 Amendment Number 3",54,46,18,6,124
+1638965,1294000,2023-04-05,House,"House: Table Amendment 4 Amendment Number 4",58,49,11,6,124
+1638965,1294001,2023-04-05,House,"House: Table Amendment 5 Amendment Number 5",59,41,17,7,124
+1638965,1294002,2023-04-05,House,"House: Table Amendment 7 Amendment Number 7",56,49,12,7,124
+1638965,1294003,2023-04-05,House,"House: Table Motion To Recommit",59,44,14,7,124
+1638965,1294543,2023-04-05,House,"House: Table Amendment 8 Amendment Number 8",60,38,18,8,124
+1638965,1294544,2023-04-05,House,"House: Table Amendment 9 Amendment Number 9",56,45,15,8,124
+1638965,1294545,2023-04-05,House,"House: Table Amendment 13 Amendment Number 13",65,35,16,8,124
+1638965,1294546,2023-04-05,House,"House: Table Amendment 14 Amendment Number 14sub",57,40,19,8,124
+1638965,1294547,2023-04-05,House,"House: Table Amendment 15 Amendment Number 15sub",56,43,17,8,124
+1638965,1294548,2023-04-05,House,"House: Table Amendment 16 Amendment Number 16sub",58,38,20,8,124
+1638965,1294549,2023-04-05,House,"House: Adopt Amendment 17 Amendment Number 17",95,3,18,8,124
+1638965,1294550,2023-04-05,House,"House: Invoke The Previous Question (cloture)",55,38,23,8,124
+1638965,1294551,2023-04-05,House,"House: Table Amendment 22 Amendment Number 22",57,41,18,8,124
+1638965,1294552,2023-04-05,House,"House: Table Amendment 23 Amendment Number 23",62,37,17,8,124
+1638965,1294553,2023-04-05,House,"House: Table Amendment 24 Amendment Number 24sub",74,26,16,8,124
+1638965,1294554,2023-04-05,House,"House: Passage Of Bill",54,44,18,8,124
+1638965,1295274,2023-04-06,House,"House: Passage Of Bill",55,46,16,7,124
+1650488,1322591,2023-05-10,House,"House: Passage Of Bill",109,0,10,5,124
+1650694,1252804,2023-02-14,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1650694,1270951,2023-03-08,House,"House: Passage Of Bill",107,0,12,5,124
+1650716,1300238,2023-03-16,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1650716,1300239,2023-03-28,Senate,"Senate: 3rd Reading",42,0,0,2,44
+1650716,1318530,2023-05-04,House,"House: Passage Of Bill",108,0,12,4,124
+1650716,1323019,2023-05-10,Senate,"Senate: To Adopt Amendment 4",29,15,0,1,45
+1650716,1325581,2023-05-16,House,"House: Concur In Senate Amendments",0,102,10,12,124
+1650746,1267383,2023-02-15,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1650746,1311078,2023-04-26,House,"House: Passage Of Bill",113,0,7,4,124
+1650746,1318291,2023-05-03,Senate,"Senate: To Concur",44,0,0,2,46
+1650822,1272122,2023-03-09,Senate,"Senate: 2nd Reading",36,0,1,5,42
+1650822,1323202,2023-05-11,House,"House: Passage Of Bill",100,0,19,5,124
+1650914,1252656,2023-02-14,Senate,"Senate: 2nd Reading",39,2,0,3,44
+1650914,1317505,2023-05-03,House,"House: Passage Of Bill",102,0,18,4,124
+1650914,1318453,2023-05-04,Senate,"Senate: To Concur",37,1,0,7,45
+1651048,1264014,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1651048,1311544,2023-04-26,House,"House: Passage Of Bill",106,0,14,4,124
+1651061,1327194,2023-05-17,House,"House: Passage Of Bill",105,2,10,7,124
+1653826,1239124,2023-01-31,House,"House: Passage Of Bill",114,0,4,6,124
+1654071,1238691,2023-01-31,House,"House: Passage Of Bill",114,0,4,6,124
+1654071,1301323,2023-04-13,Senate,"Senate: 2nd Reading",39,0,0,5,44
+1654071,1310737,2023-04-26,House,"House: Concur In Senate Amendments",111,0,9,4,124
+1654398,1233499,2023-01-19,House,"House: Table Amendment 2 Amendment Number 2",92,20,12,0,124
+1654398,1233500,2023-01-19,House,"House: Table Amendment 3 Amendment Number 3",86,23,15,0,124
+1654398,1233501,2023-01-19,House,"House: Table Amendment 4 Amendment Number 4",98,16,10,0,124
+1654398,1233502,2023-01-19,House,"House: Table Amendment 5 Amendment Number 5",92,19,13,0,124
+1654398,1233503,2023-01-19,House,"House: Table Amendment 6 Amendment Number 6",85,24,15,0,124
+1654398,1233504,2023-01-19,House,"House: Table Amendment 8 Amendment Number 8",95,18,11,0,124
+1654398,1233505,2023-01-19,House,"House: Passage Of Bill",101,14,9,0,124
+1654398,1275427,2023-03-14,Senate,"Senate: To Lay On The Table Amendment Number 1",29,10,1,5,45
+1654398,1275428,2023-03-14,Senate,"Senate: 2nd Reading",36,4,1,5,46
+1654398,1276180,2023-03-15,House,"House: Concur In Senate Amendments",100,12,10,2,124
+1654438,1378532,2024-02-07,House,"House: Passage Of Bill",111,0,6,6,123
+1654438,1410848,2024-03-19,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1655864,1288111,2023-03-29,House,"House: Passage Of Bill",110,0,13,1,124
+1655864,1440372,2024-05-07,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1655864,1441941,2024-05-09,House,"House: Concur In Senate Amendments",101,0,11,12,124
+1655882,1399221,2024-02-29,House,"House: Table Motion To Adjourn Debate",67,28,20,8,123
+1655882,1399222,2024-02-29,House,"House: Adopt Concurrent Resolution",68,30,15,10,123
+1655954,1294004,2023-04-05,House,"House: Passage Of Bill",103,5,12,4,124
+1655954,1364377,2024-01-16,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1655954,1366188,2024-01-17,Senate,"Senate: 3rd Reading",45,0,0,0,45
+1655975,1294496,2023-04-05,House,"House: Passage Of Bill",107,0,16,1,124
+1655975,1321527,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1655975,1323583,2023-05-11,House,"House: Concur In Senate Amendments",114,0,6,4,124
+1656035,1271678,2023-03-08,House,"House: Passage Of Bill",88,1,30,5,124
+1656035,1321549,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1656228,1294528,2023-04-05,House,"House: Passage Of Bill",90,2,22,10,124
+1656228,1295257,2023-04-06,House,"House: Passage Of Bill",98,4,16,6,124
+1656228,1318175,2023-05-03,Senate,"Senate: To Lay On The Table Amendment Number 3",28,16,0,2,46
+1656228,1318176,2023-05-03,Senate,"Senate: To Lay On The Table Amendment Number 5",28,15,0,3,46
+1656228,1318177,2023-05-03,Senate,"Senate: To Lay On The Table Amendment Number 6",26,15,0,3,44
+1656228,1318178,2023-05-03,Senate,"Senate: To Lay On The Table Amendment Number 4",25,17,0,3,45
+1656228,1318179,2023-05-03,Senate,"Senate: 2nd Reading",26,16,0,3,45
+1656228,1322266,2023-05-10,House,"House: Concur In Senate Amendments",95,5,19,5,124
+1656228,1351714,2023-05-02,Senate,"Senate: To Adjourn Debate",32,9,0,4,45
+1656381,1235746,2023-01-25,Senate,"Senate: To Lay On The Table The Adoption Of Am. 2 Amendment Number 2",8,35,0,3,46
+1656381,1235747,2023-01-25,Senate,"Senate: To Adopt Amendment Number 1",2,41,0,3,46
+1656460,1259790,2023-02-23,Senate,"Senate: 2nd Reading",41,0,0,5,46
+1656535,1233511,2023-01-19,Senate,"Senate: 2nd Reading",37,0,0,1,38
+1656535,1234816,2023-01-24,Senate,"Senate: 3rd Reading",42,0,0,3,45
+1656535,1239634,2023-02-01,House,"House: Passage Of Bill",111,1,9,3,124
+1656771,1267323,2023-02-15,Senate,"Senate: 3rd Reading",41,0,0,4,45
+1656771,1317436,2023-05-03,House,"House: Passage Of Bill",103,0,17,4,124
+1662607,1318132,2023-05-03,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1662607,1322740,2023-05-10,House,"House: Waive Rule 5.12 Cut-off Date",106,0,13,5,124
+1662607,1322741,2023-05-10,House,"House: Adopt Amendment 1 Amendment Number 1",108,0,11,5,124
+1662607,1322742,2023-05-10,House,"House: Passage Of Bill",105,0,14,5,124
+1662607,1323316,2023-05-11,House,"House: Concur In Senate Amendments",1,97,20,6,124
+1662607,1323909,2023-05-11,Senate,"Senate: To Adopt Amendment Rfh 1",42,0,0,3,45
+1662607,1323910,2023-05-11,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1662607,1323911,2023-05-11,House,"House: Adopt Conference Report",104,0,13,7,124
+1662968,1259217,2023-02-22,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1662968,1318656,2023-05-04,House,"House: Passage Of Bill",108,0,13,3,124
+1663088,1271811,2023-03-09,Senate,"Senate: 2nd Reading",38,0,0,5,43
+1663088,1323164,2023-05-11,House,"House: Passage Of Bill",97,0,22,5,124
+1663088,1344092,2023-06-14,Senate,"Senate: To Concur",0,36,0,10,46
+1664758,1235752,2023-01-25,Senate,"Senate: To Adopt The Resolution",43,0,0,3,46
+1665458,1371623,2024-01-30,House,"House: Passage Of Bill",108,0,10,5,123
+1665583,1263563,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1665599,1271186,2023-03-08,House,"House: Table Amendment 5 Amendment Number 5",95,18,6,5,124
+1665599,1271187,2023-03-08,House,"House: Table Amendment 12 Amendment Number 12",76,28,15,5,124
+1665599,1271188,2023-03-08,House,"House: Table Amendment 13 Amendment Number 13",63,24,31,6,124
+1665599,1271189,2023-03-08,House,"House: Table Amendment 14 Amendment Number 14",71,24,23,6,124
+1665599,1271190,2023-03-08,House,"House: Table Amendment 15 Amendment Number 15",79,22,18,5,124
+1665599,1271191,2023-03-08,House,"House: Passage Of Bill",102,3,14,5,124
+1665599,1271951,2023-03-09,House,"House: Passage Of Bill",108,5,6,5,124
+1665599,1323095,2023-05-10,Senate,"Senate: 3rd Reading",41,2,0,2,45
+1665599,1323546,2023-05-11,House,"House: Concur In Senate Amendments",107,0,13,4,124
+1665664,1233506,2023-01-19,House,"House: Passage Of Bill",109,0,15,0,124
+1665664,1265974,2023-03-01,Senate,"Senate: 2nd Reading",39,0,0,6,45
+1665755,1312336,2023-04-27,House,"House: Passage Of Bill",102,1,13,8,124
+1665821,1378666,2024-02-07,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1665821,1437323,2024-05-01,House,"House: Table Amendment 1 Amendment Number 1",33,77,10,4,124
+1665821,1437324,2024-05-01,House,"House: Adopt Amendment 1 Amendment Number 1",62,48,10,4,124
+1665821,1437325,2024-05-01,House,"House: Table The Motion To Appeal The Ruling Of The Speaker",93,17,10,4,124
+1665821,1437326,2024-05-01,House,"House: Adopt Amendment 4 Amendment Number 4",98,11,10,5,124
+1665821,1437327,2024-05-01,House,"House: Passage Of Bill",103,9,7,5,124
+1665821,1441072,2024-05-08,Senate,"Senate: To Adopt Amendment Number Rfh-1",45,0,0,1,46
+1665821,1441837,2024-05-09,House,"House: Concur In Senate Amendments",101,0,14,9,124
+1665876,1310734,2023-04-26,House,"House: Passage Of Bill",111,0,9,4,124
+1665876,1442056,2024-05-09,Senate,"Senate: 3rd Reading",38,4,0,3,45
+1665894,1260219,2023-02-23,Senate,"Senate: 2nd Reading",42,0,0,4,46
+1665894,1323211,2023-05-11,House,"House: Passage Of Bill",99,0,20,5,124
+1665894,1344150,2023-06-14,Senate,"Senate: To Concur",36,0,0,10,46
+1665907,1245782,2023-02-08,House,"House: Table Motion To Recommit The Bill",80,30,7,7,124
+1665907,1245783,2023-02-08,House,"House: Table Motion To Adjourn Debate",77,31,9,7,124
+1665907,1246154,2023-02-08,House,"House: Adopt Amendment 3 Amendment Number 3",79,30,10,5,124
+1665907,1246155,2023-02-08,House,"House: Adopt Amendment 4 Amendment Number 4",83,29,7,5,124
+1665907,1246156,2023-02-08,House,"House: Table Amendment 7 Amendment Number 7",85,24,9,6,124
+1665907,1246157,2023-02-08,House,"House: Table Amendment 8 Amendment Number 8",76,25,16,7,124
+1665907,1246158,2023-02-08,House,"House: Table Amendment 9 Amendment Number 9",78,25,15,6,124
+1665907,1246159,2023-02-08,House,"House: Table Amendment 10 Amendment Number 10",79,24,15,6,124
+1665907,1246160,2023-02-08,House,"House: Table Amendment 11 Amendment Number 11",77,22,19,6,124
+1665907,1246161,2023-02-08,House,"House: Table Amendment 12 Amendment Number 12",72,28,19,5,124
+1665907,1246162,2023-02-08,House,"House: Table Amendment 13 Amendment Number 13",80,28,11,5,124
+1665907,1246163,2023-02-08,House,"House: Table Amendment 14 Amendment Number 14",80,25,13,6,124
+1665907,1246164,2023-02-08,House,"House: Table Amendment 19 Amendment Number 19",78,27,13,6,124
+1665907,1246165,2023-02-08,House,"House: Table Amendment 21 Amendment Number 21",82,25,12,5,124
+1665907,1246166,2023-02-08,House,"House: Table Amendment 26 Amendment Number 26",77,26,16,5,124
+1665907,1246167,2023-02-08,House,"House: Table Amendment 27 Amendment Number 27",80,26,13,5,124
+1665907,1246169,2023-02-08,House,"House: Table Amendment 28 Amendment Number 28",80,26,13,5,124
+1665907,1246170,2023-02-08,House,"House: Table Amendment 30 Amendment Number 30",82,28,9,5,124
+1665907,1246171,2023-02-08,House,"House: Table Amendment 34 Amendment Number 34",85,27,7,5,124
+1665907,1246172,2023-02-08,House,"House: Table Amendment 37 Amendment Number 37",86,23,10,5,124
+1665907,1246173,2023-02-08,House,"House: Table Amendment 40 Amendment Number 40",27,77,15,5,124
+1665907,1246174,2023-02-08,House,"House: Adopt Amendment 40 Amendment Number 40",50,63,6,5,124
+1665907,1246175,2023-02-08,House,"House: Table Amendment 44 Amendment Number 44",78,30,11,5,124
+1665907,1246176,2023-02-08,House,"House: Adopt Amendment 46 Amendment Number 46",85,27,7,5,124
+1665907,1246177,2023-02-08,House,"House: Table Amendment 47 Amendment Number 47",83,28,8,5,124
+1665907,1246178,2023-02-08,House,"House: Table Amendment 2 Amendment Number 2",36,73,11,4,124
+1665907,1246179,2023-02-08,House,"House: Adopt Amendment 2 Amendment Number 2",73,40,7,4,124
+1665907,1246180,2023-02-08,House,"House: Passage Of Bill",83,34,3,4,124
+1665907,1246578,2023-02-09,House,"House: Passage Of Bill",79,30,4,11,124
+1665907,1323063,2023-05-10,Senate,"Senate: To Lay On The Table Amendment Number 2",26,14,0,2,42
+1665907,1323064,2023-05-10,Senate,"Senate: To Lay On The Table Am. No. 7",26,13,0,2,41
+1665907,1323065,2023-05-10,Senate,"Senate: Cloture, Rule 15a",26,17,0,1,44
+1665907,1323066,2023-05-10,Senate,"Senate: To Adopt Amendment Number 10",28,11,0,2,41
+1665907,1323067,2023-05-10,Senate,"Senate: To Adopt Amendment Number 5",10,27,0,2,39
+1665907,1323068,2023-05-10,Senate,"Senate: 3rd Reading",27,10,0,2,39
+1665907,1327106,2023-05-17,House,"House: Concur In Senate Amendments",3,111,4,6,124
+1665978,1281270,2023-03-22,Senate,"Senate: To Set For Special Order",27,17,0,1,45
+1665978,1281271,2023-03-22,Senate,"Senate: Rule 32b",29,15,0,1,45
+1666099,1265163,2023-03-01,Senate,"Senate: 2nd Reading",39,0,0,6,45
+1666099,1318637,2023-05-04,House,"House: Passage Of Bill",108,0,12,4,124
+1666241,1294627,2023-04-05,House,"House: Passage Of Bill",65,46,8,5,124
+1668230,1415800,2024-03-26,House,"House: Passage Of Bill",111,0,10,2,123
+1668230,1441087,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1668230,1441869,2024-05-09,House,"House: Concur In Senate Amendments",101,0,13,10,124
+1668384,1271913,2023-03-09,Senate,"Senate: 2nd Reading",41,0,0,5,46
+1668384,1275234,2023-03-14,Senate,"Senate: 3rd Reading",38,0,0,6,44
+1668384,1317428,2023-05-03,House,"House: Passage Of Bill",107,0,13,4,124
+1668384,1391607,2024-02-22,Senate,"Senate: Adoption Of Committee Amendment Number Rfh-ed",41,2,0,3,46
+1668384,1399214,2024-02-29,House,"House: Concur In Senate Amendments",111,0,6,6,123
+1668629,1270087,2023-03-07,House,"House: Passage Of Bill",112,0,7,5,124
+1668679,1277053,2023-03-16,Senate,"Senate: To Set For Special Order",20,20,0,2,42
+1668679,1373904,2024-02-01,Senate,"Senate: To Set For Special Order",25,16,0,1,42
+1668679,1376892,2024-02-06,Senate,"Senate: To Set For Special Order",26,13,0,0,39
+1668679,1378490,2024-02-07,Senate,"Senate: To Adopt Amendment Number 1",30,12,0,3,45
+1668679,1383288,2024-02-13,Senate,"Senate: 2nd Reading",26,17,1,1,45
+1668679,1384829,2024-02-14,Senate,"Senate: To Take Up The Amendment On Rule 26b Amendment Number 3",39,4,0,1,44
+1668679,1384830,2024-02-14,Senate,"Senate: 3rd Reading",24,19,0,3,46
+1677786,1303748,2023-04-18,House,"House: Passage Of Bill",109,1,8,6,124
+1677819,1294370,2023-04-05,House,"House: Adopt Amendment 2 Amendment Number 2",93,17,10,4,124
+1677819,1294371,2023-04-05,House,"House: Passage Of Bill",93,20,7,4,124
+1677831,1410842,2024-03-19,Senate,"Senate: 2nd Reading",41,0,0,2,43
+1677831,1441236,2024-05-08,House,"House: Passage Of Bill",104,0,10,10,124
+1677973,1235895,2023-01-25,House,"House: Passage Of Bill",110,0,13,1,124
+1677973,1266808,2023-02-15,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1678052,1287695,2023-03-29,House,"House: Passage Of Bill",104,0,19,1,124
+1678052,1366223,2024-01-17,Senate,"Senate: 2nd Reading",43,0,0,0,43
+1678052,1368782,2024-01-24,House,"House: Concur In Senate Amendments",115,0,6,2,123
+1678112,1252662,2023-02-15,House,"House: Table Amendment 6 Amendment Number 6",60,42,17,5,124
+1678112,1252663,2023-02-15,House,"House: Table Amendment 9 Amendment Number 9",77,28,14,5,124
+1678112,1252664,2023-02-15,House,"House: Adopt Amendment 11 Amendment Number 11",82,23,13,6,124
+1678112,1252665,2023-02-15,House,"House: Table Amendment 12 Amendment Number 12",77,27,14,6,124
+1678112,1252666,2023-02-15,House,"House: Table Amendment 18 Amendment Number 18",74,21,23,6,124
+1678112,1252667,2023-02-15,House,"House: Table Amendment 21 Amendment Number 21",74,33,10,7,124
+1678112,1252668,2023-02-15,House,"House: Table Amendment 5 Amendment Number 5",65,44,8,7,124
+1678112,1252669,2023-02-15,House,"House: Table Amendment 22 Amendment Number 22",82,31,6,5,124
+1678112,1252670,2023-02-15,House,"House: Passage Of Bill",83,31,4,6,124
+1678112,1252911,2023-02-16,House,"House: Passage Of Bill",77,31,10,6,124
+1678112,1309827,2023-04-25,Senate,"Senate: To Appeal Decision Of The President",5,39,0,2,46
+1678112,1309828,2023-04-25,Senate,"Senate: 2nd Reading",22,21,0,3,46
+1678112,1311523,2023-04-26,Senate,"Senate: Rule 15a",23,21,0,2,46
+1678112,1311524,2023-04-26,Senate,"Senate: Rule 15a - Cloture",23,20,0,2,45
+1678112,1311525,2023-04-26,Senate,"Senate: Rule 15a - Cloture",23,22,0,1,46
+1678112,1311526,2023-04-26,Senate,"Senate: To Adjourn",23,22,0,1,46
+1678112,1312470,2023-04-27,Senate,"Senate: Rule 15a - Cloture",21,22,0,3,46
+1678112,1312471,2023-04-27,Senate,"Senate: To Continue",22,21,0,3,46
+1678199,1412562,2024-03-20,House,"House: Passage Of Bill",107,0,9,7,123
+1678199,1440267,2024-05-07,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1678209,1267299,2023-03-02,Senate,"Senate: 2nd Reading",40,0,0,4,44
+1679469,1276547,2023-03-15,Senate,"Senate: 2nd Reading",38,0,0,5,43
+1679469,1441083,2024-05-08,House,"House: Passage Of Bill",110,0,4,10,124
+1679520,1271450,2023-03-08,Senate,"Senate: 3rd Reading",40,0,0,2,42
+1679569,1253006,2023-02-16,Senate,"Senate: 2nd Reading",41,0,0,3,44
+1679569,1316963,2023-05-02,House,"House: Passage Of Bill",111,2,9,2,124
+1679739,1256851,2023-02-21,House,"House: Passage Of Bill",118,0,6,0,124
+1679789,1294677,2023-04-05,House,"House: Adopt Amendment 1 Amendment Number 1",109,1,9,5,124
+1679789,1294678,2023-04-05,House,"House: Passage Of Bill",103,10,6,5,124
+1679843,1303620,2023-04-18,House,"House: Passage Of Bill",101,0,17,6,124
+1679843,1364358,2024-01-11,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1680276,1256690,2023-02-21,House,"House: Passage Of Bill",120,0,4,0,124
+1680276,1321493,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1680276,1323538,2023-05-11,House,"House: Concur In Senate Amendments",112,0,8,4,124
+1680304,1323345,2023-05-11,House,"House: Passage Of Bill",94,7,18,5,124
+1680304,1411025,2024-03-19,Senate,"Senate: 2nd Reading",30,13,0,3,46
+1682072,1271995,2023-03-09,Senate,"Senate: 2nd Reading",38,0,0,5,43
+1682072,1441082,2024-05-08,House,"House: Passage Of Bill",109,0,5,10,124
+1682270,1322648,2023-05-10,House,"House: Passage Of Bill",92,16,11,5,124
+1682412,1300186,2023-03-14,Senate,"Senate: 2nd Reading",28,12,1,4,45
+1682412,1322673,2023-05-10,House,"House: Passage Of Bill",80,31,8,5,124
+1688493,1287706,2023-03-29,House,"House: Passage Of Bill",91,25,7,1,124
+1689694,1288073,2023-03-29,House,"House: Concur In Senate Amendments",110,0,13,1,124
+1689785,1266552,2023-03-02,House,"House: Passage Of Bill",104,0,12,8,124
+1689785,1318854,2023-05-04,Senate,"Senate: 2nd Reading",39,0,0,5,44
+1689785,1323730,2023-05-11,House,"House: Concur In Senate Amendments",111,0,8,5,124
+1690336,1266610,2023-03-02,House,"House: Passage Of Bill",105,0,11,8,124
+1690336,1281546,2023-03-22,Senate,"Senate: To Override The Veto",42,0,0,1,43
+1690336,1300163,2023-03-29,House,"House: Override Veto By The Governor",105,0,18,1,124
+1690788,1244993,2023-02-07,Senate,"Senate: To Lay On The Table Amendment Number 1a",17,24,0,3,44
+1690788,1246045,2023-02-08,Senate,"Senate: To Lay On The Table Amendment Number 1a",34,6,0,1,41
+1690788,1246046,2023-02-08,Senate,"Senate: To Lay On The Table Amendment Number 3",27,18,0,1,46
+1690788,1246047,2023-02-08,Senate,"Senate: To Lay On The Table Amendment Number 4",26,17,0,1,44
+1690788,1246048,2023-02-08,Senate,"Senate: To Lay On The Table Amendment Number 6",26,17,0,1,44
+1690788,1246049,2023-02-08,Senate,"Senate: To Lay On The Table Amendment Number 8",27,15,0,2,44
+1690788,1247209,2023-02-09,Senate,"Senate: To Recommit",7,36,0,3,46
+1690788,1247210,2023-02-09,Senate,"Senate: To Adopt Amendment Number 15a",17,25,0,3,45
+1690788,1247211,2023-02-09,Senate,"Senate: To Lay On The Table",24,17,0,3,44
+1690788,1247212,2023-02-09,Senate,"Senate: To Lay On The Table Amendment Number 10",3,39,0,3,45
+1690788,1247213,2023-02-09,Senate,"Senate: To Recommit",11,31,0,4,46
+1690788,1247214,2023-02-09,Senate,"Senate: To Recommit",10,29,0,5,44
+1690788,1247215,2023-02-09,Senate,"Senate: Rule 15a Cloture",27,13,0,5,45
+1690788,1247216,2023-02-09,Senate,"Senate: 3rd Reading",28,12,0,6,46
+1690788,1323166,2023-05-11,House,"House: Waive Rule 5.15 Printing",84,27,8,5,124
+1690788,1323167,2023-05-11,House,"House: Cloture",82,31,6,5,124
+1690788,1325338,2023-05-16,House,"House: Adopt Amendment 1 Amendment Number 1",76,27,9,12,124
+1690788,1325339,2023-05-16,House,"House: Table Motion To Reconsider Amd. No 1",77,28,7,12,124
+1690788,1325340,2023-05-16,House,"House: Table Amendment 2 Amendment Number 2",75,28,9,12,124
+1690788,1325341,2023-05-16,House,"House: Recommit",29,74,9,12,124
+1690788,1325342,2023-05-16,House,"House: Adopt Amendment 3",30,76,7,11,124
+1690788,1325343,2023-05-16,House,"House: Table Amendment 4 Amendment Number 4",78,28,7,11,124
+1690788,1325344,2023-05-16,House,"House: Adjourn For The Day",31,78,4,11,124
+1690788,1325345,2023-05-16,House,"House: Adopt Amendment 5 Amendment Number 5",30,77,6,11,124
+1690788,1325346,2023-05-16,House,"House: Table Amendment 6 Amendment Number 6",81,27,5,11,124
+1690788,1325347,2023-05-16,House,"House: Table Amendment 7 Amendment Number 7",66,32,14,12,124
+1690788,1325348,2023-05-16,House,"House: Adopt Amendment 8 Amendment Number 8",34,72,6,12,124
+1690788,1325349,2023-05-16,House,"House: Adopt Amendment 10 Amendment Number 10",32,75,6,11,124
+1690788,1325352,2023-05-16,House,"House: Adopt Amendment 11 Amendment Number 11",33,73,7,11,124
+1690788,1325353,2023-05-16,House,"House: Adopt Amendment 12 Amendment Number 12",29,76,8,11,124
+1690788,1325354,2023-05-16,House,"House: Adopt Amendment 13 Amendment Number 13",33,74,6,11,124
+1690788,1325355,2023-05-16,House,"House: Table Motion To Commit To 3-m",76,31,6,11,124
+1690788,1325356,2023-05-16,House,"House: Adjourn For The Day",29,76,8,11,124
+1690788,1325357,2023-05-16,House,"House: Table Motion To Recur To The Morning Hour",74,29,10,11,124
+1690788,1325358,2023-05-16,House,"House: Adopt Amendment 14 Amendment Number 14",30,77,6,11,124
+1690788,1325359,2023-05-16,House,"House: Table Motion To Reconsider The Vote",77,27,9,11,124
+1690788,1325360,2023-05-16,House,"House: Adopt Amendment 15 Amendment Number 15",31,71,11,11,124
+1690788,1325361,2023-05-16,House,"House: Adopt Amendment 16 Amendment Number 16",30,75,8,11,124
+1690788,1325362,2023-05-16,House,"House: Adjourn For The Day",29,79,5,11,124
+1690788,1325363,2023-05-16,House,"House: Adopt Amendment 17 Amendment Number 17",31,72,10,11,124
+1690788,1325364,2023-05-16,House,"House: Recede",29,78,7,10,124
+1690788,1325365,2023-05-16,House,"House: Adopt Amendment 18 Amendment Number 18",29,75,9,11,124
+1690788,1325366,2023-05-16,House,"House: Adopt Amendment 19 Amendment Number 19",29,75,8,12,124
+1690788,1325367,2023-05-16,House,"House: Adjourn For The Day",29,73,10,12,124
+1690788,1325368,2023-05-16,House,"House: Adopt Amendment 20 Amendment Number 20",28,74,10,12,124
+1690788,1325369,2023-05-16,House,"House: Recede",28,77,7,12,124
+1690788,1325370,2023-05-16,House,"House: Adopt Amendment 21 Amendment Number 21",26,79,7,12,124
+1690788,1325371,2023-05-16,House,"House: Adopt Amendment 22 Amendment Number 22",26,72,14,12,124
+1690788,1325372,2023-05-16,House,"House: Adopt Amendment 23 Amendment Number 23",27,75,10,12,124
+1690788,1325373,2023-05-16,House,"House: Adopt Amendment 24 Amendment Number 24",27,75,10,12,124
+1690788,1325374,2023-05-16,House,"House: Adjourn For The Day",26,73,13,12,124
+1690788,1325375,2023-05-16,House,"House: Recede",21,75,16,12,124
+1690788,1325376,2023-05-16,House,"House: Adopt Amendment 25 Amendment Number 25",26,73,13,12,124
+1690788,1325377,2023-05-16,House,"House: Adopt Amendment 26 Amendment Number 26",26,74,12,12,124
+1690788,1325378,2023-05-16,House,"House: Adopt Amendment 31 Amendment Number 31",26,74,12,12,124
+1690788,1325379,2023-05-16,House,"House: Table Motion To Invoke Rule 3.9",78,26,8,12,124
+1690788,1325380,2023-05-16,House,"House: Adopt Amendment 32 Amendment Number 32",25,79,8,12,124
+1690788,1325381,2023-05-16,House,"House: Table Amendment 34 Amendment Number 34",74,29,9,12,124
+1690788,1325382,2023-05-16,House,"House: Table Motion To Reconsider Amd. 15",76,29,7,12,124
+1690788,1325383,2023-05-16,House,"House: Table Amendment 35 Amendment Number 35",80,24,8,12,124
+1690788,1325384,2023-05-16,House,"House: Adopt Amendment 36 Amendment Number 36",26,79,7,12,124
+1690788,1325385,2023-05-16,House,"House: Recede",25,76,11,12,124
+1690788,1325386,2023-05-16,House,"House: Adjourn For The Day",27,80,5,12,124
+1690788,1325387,2023-05-16,House,"House: Adopt Amendment 37 Amendment Number 37",25,77,10,12,124
+1690788,1325883,2023-05-16,House,"House: Adopt Amendment 38 Amendment Number 38",25,77,10,12,124
+1690788,1325884,2023-05-16,House,"House: Adopt Amendment 39 Amendment Number 39",25,78,9,12,124
+1690788,1325885,2023-05-16,House,"House: Table Motion To Recur",73,27,12,12,124
+1690788,1325887,2023-05-16,House,"House: Adopt Amendment 40 Amendment Number 40",26,76,10,12,124
+1690788,1325888,2023-05-16,House,"House: Adjourn For The Day",25,76,11,12,124
+1690788,1325889,2023-05-16,House,"House: Recede",24,76,12,12,124
+1690788,1325890,2023-05-16,House,"House: Adopt Amendment 42 Amendment Number 42",27,73,12,12,124
+1690788,1325891,2023-05-16,House,"House: Adopt Amendment 43 Amendment Number 43",25,78,9,12,124
+1690788,1325892,2023-05-16,House,"House: Table Motion To Appeal The Speaker's Ruling",76,25,12,11,124
+1690788,1325893,2023-05-16,House,"House: Adjourn For The Day",23,73,17,11,124
+1690788,1325894,2023-05-16,House,"House: Adopt Amendment 44 Amendment Number 44",24,77,12,11,124
+1690788,1325895,2023-05-16,House,"House: Adopt Amendment 45 Amendment Number 45",25,78,10,11,124
+1690788,1325896,2023-05-16,House,"House: Adopt Amendment 46 Amendment Number 46",25,80,8,11,124
+1690788,1325897,2023-05-16,House,"House: Adopt Amendment 47 Amendment Number 47",18,82,13,11,124
+1690788,1325898,2023-05-16,House,"House: Recede",24,77,12,11,124
+1690788,1325899,2023-05-16,House,"House: Adopt Amendment 48 Amendment Number 48",26,79,8,11,124
+1690788,1325900,2023-05-16,House,"House: Table Amendment 49 Amendment Number 49",80,25,8,11,124
+1690788,1325901,2023-05-16,House,"House: Adopt Amendment 50 Amendment Number 50",26,81,6,11,124
+1690788,1325902,2023-05-16,House,"House: Adopt Amendment 51 Amendment Number 51",25,80,8,11,124
+1690788,1325903,2023-05-16,House,"House: Adopt Amendment 52 Amendment Number 52",27,79,7,11,124
+1690788,1325904,2023-05-16,House,"House: Adopt Amendment 53 Amendment Number 53",25,76,12,11,124
+1690788,1325905,2023-05-16,House,"House: Adopt Amendment 54 Amendment Number 54",29,78,6,11,124
+1690788,1325906,2023-05-16,House,"House: Adopt Amendment 55 Amendment Number 55",26,75,12,11,124
+1690788,1325907,2023-05-16,House,"House: Adopt Amendment 56 Amendment Number 56",22,71,21,10,124
+1690788,1325908,2023-05-16,House,"House: Adopt Amendment 57 Amendment Number 57",23,69,20,12,124
+1690788,1325909,2023-05-16,House,"House: Adopt Amendment 58 Amendment Number 58",27,75,10,12,124
+1690788,1325910,2023-05-16,House,"House: Adopt Amendment 59 Amendment Number 59",24,74,14,12,124
+1690788,1325911,2023-05-16,House,"House: Adopt Amendment 60 Amendment Number 60",25,74,13,12,124
+1690788,1325912,2023-05-16,House,"House: Adopt Amendment 62 Amendment Number 62",22,76,14,12,124
+1690788,1325913,2023-05-16,House,"House: Adopt Amendment 64 Amendment Number 64",26,73,13,12,124
+1690788,1325914,2023-05-16,House,"House: Adopt Amendment 65 Amendment Number 65",27,72,12,13,124
+1690788,1325915,2023-05-16,House,"House: Adopt Amendment 66 Amendment Number 66",25,75,11,13,124
+1690788,1325916,2023-05-16,House,"House: Adopt Amendment 67 Amendment Number 67",24,79,10,11,124
+1690788,1325917,2023-05-16,House,"House: Adopt Amendment 68 Amendment Number 68",28,78,8,10,124
+1690788,1325918,2023-05-16,House,"House: Table Amendment 69 Amendment Number 69",83,22,8,11,124
+1690788,1325919,2023-05-16,House,"House: Adjourn For The Day",27,80,7,10,124
+1690788,1325920,2023-05-16,House,"House: Adopt Amendment 70 Amendment Number 70",26,79,9,10,124
+1690788,1325921,2023-05-16,House,"House: Recede",26,78,9,11,124
+1690788,1325922,2023-05-16,House,"House: Table Motion To Recur To The Morning Hour",81,26,7,10,124
+1690788,1325923,2023-05-16,House,"House: Adopt Amendment 71 Amendment Number 71",24,81,9,10,124
+1690788,1325924,2023-05-16,House,"House: Table Motion To Resolve The House Into A Committee Of The Whole",77,28,9,10,124
+1690788,1325925,2023-05-16,House,"House: Adopt Amendment 72 Amendment Number 72",24,77,13,10,124
+1690788,1325926,2023-05-16,House,"House: Adopt Amendment 73 Amendment Number 73",29,79,7,9,124
+1690788,1325927,2023-05-16,House,"House: Adjourn For The Day",25,79,11,9,124
+1690788,1325928,2023-05-16,House,"House: Adopt Amendment 76 Amendment Number 76",25,79,10,10,124
+1690788,1325929,2023-05-16,House,"House: Adopt Amendment 77 Amendment Number 77",27,79,7,11,124
+1690788,1325930,2023-05-16,House,"House: Adopt Amendment 78 Amendment Number 78",20,81,11,12,124
+1690788,1325931,2023-05-16,House,"House: Adopt Amendment 79 Amendment Number 79",22,79,13,10,124
+1690788,1325932,2023-05-16,House,"House: Adopt Amendment 80 Amendment Number 80",23,79,11,11,124
+1690788,1325933,2023-05-16,House,"House: Adopt Amendment 82 Amendment Number 82",18,81,14,11,124
+1690788,1325934,2023-05-16,House,"House: Adopt Amendment 84 Amendment Number 84",19,79,15,11,124
+1690788,1325935,2023-05-16,House,"House: Adopt Amendment 85 Amendment Number 85",22,80,11,11,124
+1690788,1325936,2023-05-16,House,"House: Adopt Amendment 86 Amendment Number 86",19,79,15,11,124
+1690788,1325937,2023-05-16,House,"House: Adopt Amendment 87 Amendment Number 87",23,81,10,10,124
+1690788,1325938,2023-05-16,House,"House: Table Amendment 90 Amendment Number 90",82,19,12,11,124
+1690788,1325939,2023-05-16,House,"House: Table Motion To Reconsider",80,21,13,10,124
+1690788,1325940,2023-05-16,House,"House: Adopt Amendment 91 Amendment Number 91",21,79,13,11,124
+1690788,1325941,2023-05-16,House,"House: Adopt Amendment 92 Amendment Number 92",20,82,11,11,124
+1690788,1325942,2023-05-16,House,"House: Adopt Amendment 95 Amendment Number 95",22,77,14,11,124
+1690788,1325943,2023-05-16,House,"House: Table Amendment 96 Amendment Number 96",78,22,13,11,124
+1690788,1325944,2023-05-16,House,"House: Adopt Amendment 98 Amendment Number 98",20,77,15,12,124
+1690788,1325945,2023-05-16,House,"House: Adopt Amendment 99 Amendment Number 99",17,82,13,12,124
+1690788,1325946,2023-05-16,House,"House: Adopt Amendment 100 Amendment Number 100",20,79,13,12,124
+1690788,1325947,2023-05-16,House,"House: Adopt Amendment 101 Amendment Number 101",23,79,11,11,124
+1690788,1325948,2023-05-16,House,"House: Adopt Amendment 102 Amendment Number 102",23,78,12,11,124
+1690788,1325949,2023-05-16,House,"House: Adopt Amendment 103 Amendment Number 103",23,81,9,11,124
+1690788,1325950,2023-05-16,House,"House: Adopt Amendment 104 Amendment Number 104",22,80,11,11,124
+1690788,1325951,2023-05-16,House,"House: Adopt Amendment 105 Amendment Number 105",21,79,13,11,124
+1690788,1325952,2023-05-16,House,"House: Adopt Amendment 106 Amendment Number 106",24,77,12,11,124
+1690788,1325953,2023-05-16,House,"House: Table Motion To Reconsider Amendment 106",80,22,11,11,124
+1690788,1325954,2023-05-16,House,"House: Adopt Amendment 107 Amendment Number 107",26,81,7,10,124
+1690788,1325955,2023-05-16,House,"House: Adopt Amendment 108 Amendment Number 108",21,79,13,11,124
+1690788,1325956,2023-05-16,House,"House: Adopt Amendment 109 Amendment Number 109",24,80,9,11,124
+1690788,1325957,2023-05-16,House,"House: Adopt Amendment 110 Amendment Number 110",23,74,17,10,124
+1690788,1325958,2023-05-17,House,"House: Adopt Amendment 111 Amendment Number 111",19,76,19,10,124
+1690788,1325959,2023-05-17,House,"House: Adopt Amendment 112 Amendment Number 112",22,77,14,11,124
+1690788,1326152,2023-05-17,House,"House: Adopt Amendment 113 Amendment Number 113",20,80,14,10,124
+1690788,1326153,2023-05-17,House,"House: Adopt Amendment 117 Amendment Number 117",19,82,13,10,124
+1690788,1326154,2023-05-17,House,"House: Table Motion To Reconsider Amendment 117",78,22,14,10,124
+1690788,1326155,2023-05-17,House,"House: Adopt Amendment 118 Amendment Number 118",19,75,19,11,124
+1690788,1326156,2023-05-17,House,"House: Adopt Amendment 132 Amendment Number 132",20,78,15,11,124
+1690788,1326157,2023-05-17,House,"House: Adopt Amendment 137 Amendment Number 137",19,74,19,12,124
+1690788,1326158,2023-05-17,House,"House: Adopt Amendment 138 Amendment Number 138",21,73,18,12,124
+1690788,1326159,2023-05-17,House,"House: Adopt Amendment 139 Amendment Number 139",21,71,21,11,124
+1690788,1326160,2023-05-17,House,"House: Adopt Amendment 140 Amendment Number 140",21,76,16,11,124
+1690788,1326161,2023-05-17,House,"House: Adopt Amendment 141 Amendment Number 141",20,76,17,11,124
+1690788,1326162,2023-05-17,House,"House: Adopt Amendment 142 Amendment Number 142",21,77,15,11,124
+1690788,1326163,2023-05-17,House,"House: Adopt Amendment 143 Amendment Number 143",18,75,20,11,124
+1690788,1326191,2023-05-17,House,"House: Adopt Amendment 144 Amendment Number 144",16,77,20,11,124
+1690788,1326971,2023-05-17,House,"House: Adopt Amendment 150 Amendment Number 150",17,67,28,12,124
+1690788,1326972,2023-05-17,House,"House: Adopt Amendment 151 Amendment Number 151",20,71,23,10,124
+1690788,1326973,2023-05-17,House,"House: Adopt Amendment 152 Amendment Number 152",27,81,9,7,124
+1690788,1326974,2023-05-17,House,"House: Adopt Amendment 167 Amendment Number 167",26,82,8,8,124
+1690788,1326975,2023-05-17,House,"House: Adopt Amendment 200 Amendment Number 200",26,79,9,10,124
+1690788,1326976,2023-05-17,House,"House: Adopt Amendment 201 Amendment Number 201",26,76,12,10,124
+1690788,1326977,2023-05-17,House,"House: Adopt Amendment 219 Amendment Number 219",23,77,14,10,124
+1690788,1326978,2023-05-17,House,"House: Adopt Amendment 214 Amendment Number 214",23,78,13,10,124
+1690788,1326979,2023-05-17,House,"House: Adopt Amendment 215 Amendment Number 215",26,80,8,10,124
+1690788,1326980,2023-05-17,House,"House: Adopt Amendment 216 Amendment Number 216",25,76,13,10,124
+1690788,1326981,2023-05-17,House,"House: Adopt Amendment 217 Amendment Number 217",24,79,12,9,124
+1690788,1326982,2023-05-17,House,"House: Adopt Amendment 235 Amendment Number 235",28,76,12,8,124
+1690788,1326983,2023-05-17,House,"House: Adopt Amendment 236 Amendment Number 236",29,77,8,10,124
+1690788,1326984,2023-05-17,House,"House: Adopt Amendment 237 Amendment Number 237",27,80,10,7,124
+1690788,1326985,2023-05-17,House,"House: Adopt Amendment 239 Amendment Number 239",25,80,12,7,124
+1690788,1326986,2023-05-17,House,"House: Adopt Amendment 241 Amendment Number 241",25,78,11,10,124
+1690788,1326987,2023-05-17,House,"House: Adopt Amendment 242 Amendment Number 242",25,81,10,8,124
+1690788,1326988,2023-05-17,House,"House: Adopt Amendment 243 Amendment Number 243",25,77,13,9,124
+1690788,1326989,2023-05-17,House,"House: Adopt Amendment 244 Amendment Number 244",20,78,17,9,124
+1690788,1326990,2023-05-17,House,"House: Adopt Amendment 245 Amendment Number 245",25,74,14,11,124
+1690788,1326991,2023-05-17,House,"House: Adopt Amendment 308 Amendment Number 308",26,70,16,12,124
+1690788,1326992,2023-05-17,House,"House: Recede",27,66,19,12,124
+1690788,1326993,2023-05-17,House,"House: Adjourn For The Day",23,70,19,12,124
+1690788,1326994,2023-05-17,House,"House: Adopt Amendment 310 Amendment Number 310",25,79,10,10,124
+1690788,1326995,2023-05-17,House,"House: Table Motion",83,21,11,9,124
+1690788,1326996,2023-05-17,House,"House: Adopt Amendment 311 Amendment Number 311",26,79,10,9,124
+1690788,1326997,2023-05-17,House,"House: Adjourn For The Day",24,77,12,11,124
+1690788,1326998,2023-05-17,House,"House: Adopt Amendment 313 Amendment Number 313",25,80,9,10,124
+1690788,1326999,2023-05-17,House,"House: Recede",26,80,9,9,124
+1690788,1327000,2023-05-17,House,"House: Adopt Amendment 454 Amendment Number 454",26,81,8,9,124
+1690788,1327001,2023-05-17,House,"House: Adopt Amendment 455 Amendment Number 455",25,82,8,9,124
+1690788,1327002,2023-05-17,House,"House: Adopt Amendment 456 Amendment Number 456",24,78,10,12,124
+1690788,1327003,2023-05-17,House,"House: Adopt Amendment 457 Amendment Number 457",27,79,8,10,124
+1690788,1327004,2023-05-17,House,"House: Adopt Amendment 458 Amendment Number 458",28,79,8,9,124
+1690788,1327005,2023-05-17,House,"House: Adopt Amendment 459 Amendment Number 459",29,77,9,9,124
+1690788,1327006,2023-05-17,House,"House: Adopt Amendment 460",26,77,11,10,124
+1690788,1327007,2023-05-17,House,"House: Adopt Amendment 461 Amendment Number 461",28,80,5,11,124
+1690788,1327008,2023-05-17,House,"House: Adopt Amendment 462 Amendment Number 462",30,80,4,10,124
+1690788,1327009,2023-05-17,House,"House: Adopt Amendment 467 Amendment Number 467",27,77,10,10,124
+1690788,1327010,2023-05-17,House,"House: Adopt Amendment 469 Amendment Number 469",27,81,8,8,124
+1690788,1327011,2023-05-17,House,"House: Adopt Amendment 474 Amendment Number 474",29,80,5,10,124
+1690788,1327012,2023-05-17,House,"House: Adopt Amendment 475 Amendment Number 475",25,78,10,11,124
+1690788,1327015,2023-05-17,House,"House: Adopt Amendment 481 Amendment Number 481",29,75,7,13,124
+1690788,1327016,2023-05-17,House,"House: Adopt Amendment 485 Amendment Number 485",26,77,10,11,124
+1690788,1327017,2023-05-17,House,"House: Recede",25,79,9,11,124
+1690788,1327018,2023-05-17,House,"House: Adopt Amendment 487 Amendment Number 487",27,78,8,11,124
+1690788,1327019,2023-05-17,House,"House: Adopt Amendment 490 Amendment Number 490",24,77,12,11,124
+1690788,1327020,2023-05-17,House,"House: Adopt Amendment 491 Amendment Number 491",18,83,12,11,124
+1690788,1327021,2023-05-17,House,"House: Adopt Amendment 504 Amendment Number 504",24,80,8,12,124
+1690788,1327022,2023-05-17,House,"House: Adopt Amendment 505 Amendment Number 505",23,79,9,13,124
+1690788,1327023,2023-05-17,House,"House: Adopt Amendment 506 Amendment Number 506",22,77,12,13,124
+1690788,1327024,2023-05-17,House,"House: Adopt Amendment 508 Amendment Number 508",20,77,14,13,124
+1690788,1327025,2023-05-17,House,"House: Adopt Amendment 509 Amendment Number 509",18,78,15,13,124
+1690788,1327026,2023-05-17,House,"House: Adopt Amendment 510 Amendment Number 510",24,78,8,14,124
+1690788,1327027,2023-05-17,House,"House: Adopt Amendment 511 Amendment Number 511",21,76,14,13,124
+1690788,1327028,2023-05-17,House,"House: Adopt Amendment 512 Amendment Number 512",22,77,13,12,124
+1690788,1327029,2023-05-17,House,"House: Adopt Amendment 513 Amendment Number 513",24,77,11,12,124
+1690788,1327030,2023-05-17,House,"House: Adopt Amendment 579 Amendment Number 579",20,83,9,12,124
+1690788,1327031,2023-05-17,House,"House: Adopt Amendment 581 Amendment Number 581",19,79,14,12,124
+1690788,1327032,2023-05-17,House,"House: Adopt Amendment 582 Amendment Number 582",21,79,12,12,124
+1690788,1327033,2023-05-17,House,"House: Adopt Amendment 583 Amendment Number 583",21,78,13,12,124
+1690788,1327034,2023-05-17,House,"House: Adopt Amendment 584 Amendment Number 584",21,72,17,14,124
+1690788,1327035,2023-05-17,House,"House: Adopt Amendment 587 Amendment Number 587",23,77,11,13,124
+1690788,1327036,2023-05-17,House,"House: Adopt Amendment 628 Amendment Number 628",20,77,16,11,124
+1690788,1327037,2023-05-17,House,"House: Adopt Amendment 633 Amendment Number 633",16,78,19,11,124
+1690788,1327038,2023-05-17,House,"House: Adopt Amendment 659 Amendment Number 659",18,78,16,12,124
+1690788,1327039,2023-05-17,House,"House: Adopt Amendment 661 Amendment Number 661",20,77,16,11,124
+1690788,1327040,2023-05-17,House,"House: Adopt Amendment 665 Amendment Number 665",18,80,15,11,124
+1690788,1327041,2023-05-17,House,"House: Adopt Amendment 695 Amendment Number 695",18,79,16,11,124
+1690788,1327042,2023-05-17,House,"House: Adopt Amendment 697 Amendment Number 697",17,80,16,11,124
+1690788,1327043,2023-05-17,House,"House: Table Amendment 698 Amendment Number 698",93,5,15,11,124
+1690788,1327044,2023-05-17,House,"House: Adopt Amendment 701 Amendment Number 701",17,80,16,11,124
+1690788,1327045,2023-05-17,House,"House: Adopt Amendment 711 Amendment Number 711",19,81,13,11,124
+1690788,1327046,2023-05-17,House,"House: Adopt Amendment 753 Amendment Number 753",18,80,15,11,124
+1690788,1327047,2023-05-17,House,"House: Adopt Amendment 755 Amendment Number 755",21,78,14,11,124
+1690788,1327048,2023-05-17,House,"House: Adopt Amendment 785 Amendment Number 785",18,77,17,12,124
+1690788,1327049,2023-05-17,House,"House: Passage Of Bill",82,33,2,7,124
+1690788,1327050,2023-05-17,House,"House: Passage Of Bill",82,32,4,6,124
+1690788,1331329,2023-05-23,Senate,"Senate: Waive Printing Rule",29,15,0,0,44
+1690788,1331330,2023-05-23,Senate,"Senate: Rule 15a - Cloture",26,20,0,0,46
+1690788,1331331,2023-05-23,Senate,"Senate: To Adopt Amendment Number Rfh-2a",21,25,0,0,46
+1690788,1331332,2023-05-23,Senate,"Senate: To Adopt Amendment Number Rfh-21",3,40,0,0,43
+1690788,1331333,2023-05-23,Senate,"Senate: To Concur",27,19,0,0,46
+1691580,1286500,2023-03-28,Senate,"Senate: 2nd Reading",41,1,0,2,44
+1691646,1287672,2023-03-29,Senate,"Senate: 3rd Reading",42,0,0,4,46
+1691683,1270323,2023-03-07,House,"House: Passage Of Bill",114,0,4,6,124
+1691683,1388484,2024-02-20,Senate,"Senate: 2nd Reading",41,0,0,0,41
+1691683,1395800,2024-02-27,House,"House: Concur In Senate Amendments",0,110,10,3,123
+1691758,1318641,2023-05-04,House,"House: Passage Of Bill",108,0,12,4,124
+1691831,1294572,2023-04-05,House,"House: Passage Of Bill",109,0,14,1,124
+1691831,1322983,2023-05-10,Senate,"Senate: 3rd Reading",40,1,0,2,43
+1691868,1270356,2023-03-07,House,"House: Table Amendment 1 Amendment Number 1",24,86,9,5,124
+1691868,1271173,2023-03-08,House,"House: Table Amendment 1 Amendment Number 1",90,21,8,5,124
+1691868,1271174,2023-03-08,House,"House: Passage Of Bill",114,0,5,5,124
+1691868,1321307,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1691868,1323709,2023-05-11,House,"House: Concur In Senate Amendments",111,0,9,4,124
+1691905,1294536,2023-04-05,House,"House: Passage Of Bill",113,0,10,1,124
+1691905,1441835,2024-05-09,House,"House: Concur In Senate Amendments",0,108,7,9,124
+1691905,1442058,2024-05-09,Senate,"Senate: 3rd Reading Amendment Number 2",40,1,0,4,45
+1691905,1460316,2024-06-26,House,"House: Adopt Conference Report",101,0,14,9,124
+1691905,1460317,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1691963,1263991,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1691963,1294541,2023-04-05,House,"House: Passage Of Joint Resolution",110,0,10,4,124
+1697944,1294489,2023-04-05,House,"House: Passage Of Bill",112,0,11,1,124
+1697983,1311510,2023-04-26,House,"House: Passage Of Bill",107,0,13,4,124
+1697983,1312588,2023-04-27,House,"House: Passage Of Bill",108,0,8,8,124
+1698085,1271330,2023-03-08,House,"House: Passage Of Bill",112,0,7,5,124
+1698085,1321657,2023-05-09,Senate,"Senate: 2nd Reading",41,2,0,1,44
+1698085,1325688,2023-05-16,House,"House: Concur In Senate Amendments",101,0,11,12,124
+1698085,1340589,2023-06-07,House,"House: Override Veto By The Governor",94,4,18,8,124
+1698085,1345121,2023-06-14,Senate,"Senate: To Override The Veto",34,2,0,10,46
+1698151,1323711,2023-05-11,House,"House: Passage Of Bill",102,7,10,5,124
+1698151,1436584,2024-04-30,Senate,"Senate: 2nd Reading",40,4,0,0,44
+1699546,1270078,2023-03-07,House,"House: Passage Of Bill",111,1,7,5,124
+1699546,1323134,2023-05-10,Senate,"Senate: 3rd Reading",42,0,0,1,43
+1699818,1294169,2023-04-05,House,"House: Passage Of Bill",113,0,7,4,124
+1699818,1318448,2023-05-04,Senate,"Senate: 2nd Reading",38,0,0,7,45
+1699818,1322336,2023-05-10,House,"House: Concur In Senate Amendments",114,0,5,5,124
+1700245,1263674,2023-02-28,Senate,"Senate: 2nd Reading",41,0,0,4,45
+1700245,1318356,2023-05-04,House,"House: Passage Of Bill",91,0,30,3,124
+1701273,1265325,2023-03-01,Senate,"Senate: 2nd Reading",39,0,0,6,45
+1701273,1318680,2023-05-04,House,"House: Passage Of Bill",89,0,32,3,124
+1701273,1321383,2023-05-09,Senate,"Senate: To Concur",44,0,0,2,46
+1701483,1318634,2023-05-04,House,"House: Passage Of Bill",109,0,12,3,124
+1701483,1441170,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1701483,1441984,2024-05-09,House,"House: Concur In Senate Amendments",107,0,7,10,124
+1701495,1267108,2023-03-02,House,"House: Passage Of Bill",107,0,9,8,124
+1709952,1410868,2024-03-19,Senate,"Senate: 2nd Reading",41,0,0,3,44
+1709964,1287451,2023-03-29,House,"House: Table Amendment 3 Amendment Number 3",90,18,15,1,124
+1709964,1287452,2023-03-29,House,"House: Passage Of Bill",104,2,17,1,124
+1709964,1372141,2024-01-30,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1709964,1377233,2024-02-06,House,"House: Concur In Senate Amendments",100,7,12,4,123
+1709969,1416259,2024-03-27,Senate,"Senate: To Set For Special Order",35,3,0,2,40
+1709969,1418916,2024-04-02,Senate,"Senate: To Lay On The Table Judiciary Committee Amendment",21,20,0,4,45
+1709969,1418917,2024-04-02,Senate,"Senate: To Reconsider Vote By Which The Committee Amendment Was Tabled Judiciary Committee Amendment",19,22,0,3,44
+1709969,1419990,2024-04-03,Senate,"Senate: Cloture",20,23,0,3,46
+1709973,1322729,2023-05-10,House,"House: Passage Of Bill",97,11,11,5,124
+1709974,1398934,2024-02-29,House,"House: Passage Of Bill",97,0,23,3,123
+1709975,1252951,2023-02-16,House,"House: Passage Of Bill",102,0,16,6,124
+1709979,1317829,2023-05-03,House,"House: Passage Of Bill",78,0,36,10,124
+1709979,1363971,2024-01-10,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1709980,1287450,2023-03-29,House,"House: Passage Of Bill",102,0,21,1,124
+1709980,1317870,2023-05-03,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1709980,1322642,2023-05-10,House,"House: Concur In Senate Amendments",109,0,10,5,124
+1709987,1311091,2023-04-26,House,"House: Passage Of Bill",95,14,11,4,124
+1709987,1312323,2023-04-27,House,"House: Passage Of Bill",83,22,11,8,124
+1710114,1417089,2024-03-28,House,"House: Passage Of Bill",108,0,10,5,123
+1710247,1317745,2023-05-03,House,"House: Passage Of Bill",90,0,26,8,124
+1710247,1384691,2024-02-14,Senate,"Senate: 2nd Reading",43,1,0,2,46
+1710305,1287965,2023-03-29,House,"House: Passage Of Bill",101,0,22,1,124
+1710305,1323450,2023-05-11,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1710333,1410822,2024-03-19,House,"House: Table Amendment 2 Amendment Number 2",91,9,16,7,123
+1710333,1412150,2024-03-20,House,"House: Table Amendment 4 Amendment Number 4",80,19,17,7,123
+1710333,1412151,2024-03-20,House,"House: Passage Of Bill",104,2,9,8,123
+1710333,1440130,2024-05-07,Senate,"Senate: To Lay On The Table",20,22,0,1,43
+1710333,1441076,2024-05-08,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1710333,1441843,2024-05-09,House,"House: Concur In Senate Amendments",0,104,10,10,124
+1710333,1460339,2024-06-26,House,"House: Adopt Conference Report",89,17,9,9,124
+1710333,1460340,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1710476,1311499,2023-04-26,House,"House: Passage Of Bill",106,0,14,4,124
+1710503,1309626,2023-04-25,Senate,"Senate: 2nd Reading",41,0,0,3,44
+1710558,1280323,2023-03-21,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1710584,1377361,2024-02-06,House,"House: Passage Of Bill",117,0,2,4,123
+1710584,1415216,2024-03-26,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1710584,1424137,2024-04-10,House,"House: Concur In Senate Amendments",110,0,11,3,124
+1716132,1289053,2023-03-30,Senate,"Senate: 3rd Reading",42,0,0,4,46
+1716132,1318774,2023-05-04,House,"House: Passage Of Bill",109,0,12,3,124
+1716132,1323124,2023-05-10,Senate,"Senate: To Concur",45,0,0,1,46
+1716645,1318613,2023-05-04,House,"House: Passage Of Bill",106,0,14,4,124
+1718118,1378573,2024-02-07,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1718118,1441497,2024-05-08,House,"House: Passage Of Bill",107,0,6,11,124
+1718351,1286877,2023-03-28,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1718351,1322716,2023-05-10,House,"House: Passage Of Bill",111,0,8,5,124
+1718351,1377223,2024-02-06,Senate,"Senate: To Adopt Amendment Number Rfh-1",45,0,0,0,45
+1718351,1441859,2024-05-09,House,"House: Concur In Senate Amendments",103,0,11,10,124
+1718869,1322799,2023-05-10,House,"House: Passage Of Bill",107,1,10,6,124
+1719107,1289401,2023-03-30,House,"House: Passage Of Bill",107,0,13,4,124
+1719107,1323100,2023-05-10,Senate,"Senate: 3rd Reading",41,0,0,1,42
+1719107,1323176,2023-05-11,House,"House: Concur In Senate Amendments",0,111,9,4,124
+1719107,1344437,2023-06-14,House,"House: Adopt Conference Report",104,0,10,10,124
+1719107,1344438,2023-06-14,Senate,"Senate: To Adopt The Conference Report",36,0,0,10,46
+1719122,1294735,2023-04-05,House,"House: Passage Of Bill",77,20,18,9,124
+1719136,1294483,2023-04-05,House,"House: Passage Of Bill",113,0,7,4,124
+1719136,1318801,2023-05-04,Senate,"Senate: 2nd Reading",39,0,0,5,44
+1719210,1369122,2024-01-25,House,"House: Passage Of Bill",114,0,4,5,123
+1719311,1288950,2023-03-30,Senate,"Senate: 2nd Reading",40,1,0,5,46
+1719311,1318548,2023-05-04,House,"House: Passage Of Bill",103,0,18,3,124
+1719395,1275408,2023-03-14,Senate,"Senate: 2nd Reading",42,0,0,4,46
+1719395,1322690,2023-05-10,House,"House: Passage Of Bill",110,0,10,4,124
+1722636,1371870,2024-01-30,Senate,"Senate: 2nd Reading",45,0,0,0,45
+1722636,1441484,2024-05-08,House,"House: Passage Of Bill",105,0,9,10,124
+1722636,1460353,2024-06-26,House,"House: Adopt Conference Report",105,0,10,9,124
+1722636,1460354,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1722664,1396534,2024-02-27,Senate,"Senate: 2nd Reading",42,0,0,1,43
+1722712,1317878,2023-05-03,House,"House: Passage Of Bill",97,0,19,8,124
+1722712,1384591,2024-02-14,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1722794,1317812,2023-05-03,House,"House: Passage Of Bill",105,0,14,5,124
+1722794,1318681,2023-05-04,House,"House: Passage Of Bill",98,0,22,4,124
+1722794,1429722,2024-04-17,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1722794,1433418,2024-04-24,House,"House: Concur In Senate Amendments",76,27,19,2,124
+1722804,1282875,2023-03-23,Senate,"Senate: 3rd Reading",31,5,0,9,45
+1722817,1303639,2023-04-18,House,"House: Passage Of Bill",107,0,11,6,124
+1722817,1321665,2023-05-09,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1722817,1325772,2023-05-16,House,"House: Concur In Senate Amendments",99,0,13,12,124
+1723716,1287750,2023-03-29,House,"House: Table Amendment 2 Amendment Number 2",94,17,12,1,124
+1723716,1287751,2023-03-29,House,"House: Table Amendment 9 Amendment Number 9",83,25,15,1,124
+1723716,1287752,2023-03-29,House,"House: Passage Of Bill",86,26,11,1,124
+1723805,1287496,2023-03-29,Senate,"Senate: 3rd Reading",36,5,0,4,45
+1723805,1313155,2023-04-27,House,"House: Passage Of Bill",98,0,18,8,124
+1724360,1286138,2023-03-28,House,"House: Passage Of Bill",108,2,12,2,124
+1725728,1313100,2023-04-27,House,"House: Passage Of Bill",102,0,14,8,124
+1728922,1310102,2023-04-25,Senate,"Senate: 2nd Reading",42,0,1,2,45
+1728935,1294516,2023-04-05,House,"House: Table Amendment 6 Amendment Number 6",66,28,22,8,124
+1728935,1294517,2023-04-05,House,"House: Passage Of Bill",84,12,20,8,124
+1728935,1441272,2024-05-08,Senate,"Senate: 3rd Reading",45,0,0,1,46
+1728935,1441735,2024-05-09,House,"House: Adopt Amendment 1a Amendment Number 1a",92,10,10,12,124
+1728935,1460268,2024-06-26,House,"House: Adopt Conference Report",93,13,9,9,124
+1728935,1460269,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1729018,1318376,2023-05-04,House,"House: Table Motion To Waive Rule 5.15 Printing",13,89,19,3,124
+1729018,1318377,2023-05-04,House,"House: Passage Of Bill",101,0,20,3,124
+1729065,1286640,2023-03-28,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1729101,1272095,2023-03-09,House,"House: Passage Of Joint Resolution",96,12,11,5,124
+1729101,1272096,2023-03-09,House,"House: Table Motion To Reconsider The Vote",93,14,12,5,124
+1729101,1274441,2023-03-13,House,"House: Passage Of Bill",100,14,8,2,124
+1729162,1415936,2024-03-26,House,"House: Passage Of Bill",112,0,9,2,123
+1729212,1287047,2023-03-28,Senate,"Senate: 2nd Reading",42,0,0,2,44
+1729212,1316819,2023-05-02,House,"House: Passage Of Bill",117,0,5,2,124
+1729231,1276225,2023-03-15,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1729231,1294501,2023-04-05,House,"House: Table Amendment 2 Amendment Number 2",70,36,14,4,124
+1729231,1294502,2023-04-05,House,"House: Table Amendment 3 Amendment Number 3",6,99,15,4,124
+1729231,1294503,2023-04-05,House,"House: Passage Of Joint Resolution",98,14,8,4,124
+1729231,1304989,2023-04-19,House,"House: Concur In Senate Amendments",86,0,30,8,124
+1729292,1275065,2023-03-14,House,"House: Passage Of Bill",120,0,3,1,124
+1729292,1304215,2023-04-18,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1729292,1321609,2023-05-09,House,"House: Adopt Amendment 1 Amendment Number 1",111,0,9,4,124
+1729292,1344021,2023-06-14,Senate,"Senate: To Adopt The Conference Report",36,0,0,10,46
+1729292,1344022,2023-06-14,House,"House: Adopt Conference Report",107,1,6,10,124
+1729333,1274243,2023-03-13,House,"House: Part 1a, Section 1",115,0,7,2,124
+1729333,1274244,2023-03-13,House,"House: Part 1a, Section 3",115,0,7,2,124
+1729333,1274245,2023-03-13,House,"House: Part 1a, Section 4",113,0,9,2,124
+1729333,1274246,2023-03-13,House,"House: Part 1a, Section 5",114,0,8,2,124
+1729333,1274247,2023-03-13,House,"House: Part 1a, Section 6",115,0,7,2,124
+1729333,1274248,2023-03-13,House,"House: Part 1a, Section 7",118,0,4,2,124
+1729333,1274249,2023-03-13,House,"House: Part 1a, Section 9",117,0,5,2,124
+1729333,1274250,2023-03-13,House,"House: Part 1a, Section 10",117,0,5,2,124
+1729333,1274251,2023-03-13,House,"House: Part 1a, Section 12",118,0,4,2,124
+1729333,1274252,2023-03-13,House,"House: Part 1a, Section 19",118,0,4,2,124
+1729333,1274253,2023-03-13,House,"House: Part 1a, Section 20e",113,1,8,2,124
+1729333,1274254,2023-03-13,House,"House: Part 1a, Section 20f",114,1,7,2,124
+1729333,1274255,2023-03-13,House,"House: Part 1a, Section 20g",112,1,9,2,124
+1729333,1274256,2023-03-13,House,"House: Part 1a, Section 20h",112,1,9,2,124
+1729333,1274257,2023-03-13,House,"House: Part 1a, Section 24",115,0,7,2,124
+1729333,1274258,2023-03-13,House,"House: Part 1a, Section 25",116,0,6,2,124
+1729333,1274259,2023-03-13,House,"House: Part 1a, Section 26",117,0,5,2,124
+1729333,1274260,2023-03-13,House,"House: Part 1a, Section 28",108,7,7,2,124
+1729333,1274261,2023-03-13,House,"House: Part 1a, Section 27",115,0,7,2,124
+1729333,1274262,2023-03-13,House,"House: Part 1a, Section 29",117,0,5,2,124
+1729333,1274263,2023-03-13,House,"House: Part 1a, Section 30",117,0,5,2,124
+1729333,1274264,2023-03-13,House,"House: Part 1a, Section 32",115,0,7,2,124
+1729333,1274265,2023-03-13,House,"House: Part 1a, Section 35",115,0,7,2,124
+1729333,1274266,2023-03-13,House,"House: Part 1a, Section 33",71,14,37,2,124
+1729333,1274267,2023-03-13,House,"House: Part 1a, Section 36",112,2,8,2,124
+1729333,1274268,2023-03-13,House,"House: Part 1a, Section 37",116,0,6,2,124
+1729333,1274269,2023-03-13,House,"House: Part 1a, Section 39",118,0,4,2,124
+1729333,1274270,2023-03-13,House,"House: Part 1a, Section 40",117,0,5,2,124
+1729333,1274271,2023-03-13,House,"House: Part 1a, Section 41",117,0,5,2,124
+1729333,1274272,2023-03-13,House,"House: Part 1a, Section 42",97,18,7,2,124
+1729333,1274273,2023-03-13,House,"House: Part 1a, Section 43",116,0,6,2,124
+1729333,1274274,2023-03-13,House,"House: Part 1a, Section 44",115,0,7,2,124
+1729333,1274275,2023-03-13,House,"House: Part 1a, Section 46",117,0,5,2,124
+1729333,1274276,2023-03-13,House,"House: Part 1a, Section 48",117,0,5,2,124
+1729333,1274277,2023-03-13,House,"House: Part 1a, Section 50",101,16,5,2,124
+1729333,1274278,2023-03-13,House,"House: Part 1a, Section 51",111,6,5,2,124
+1729333,1274279,2023-03-13,House,"House: Part 1a, Section 52",119,0,3,2,124
+1729333,1274280,2023-03-13,House,"House: Part 1a, Section 54",116,0,6,2,124
+1729333,1274281,2023-03-13,House,"House: Part 1a, Section 53",112,4,6,2,124
+1729333,1274282,2023-03-13,House,"House: Part 1a, Section 58",113,0,9,2,124
+1729333,1274283,2023-03-13,House,"House: Part 1a, Section 57",110,1,11,2,124
+1729333,1274284,2023-03-13,House,"House: Part 1a, Section 59",108,0,14,2,124
+1729333,1274285,2023-03-13,House,"House: Part 1a, Section 60",111,0,11,2,124
+1729333,1274286,2023-03-13,House,"House: Part 1a, Section 61",95,0,27,2,124
+1729333,1274287,2023-03-13,House,"House: Part 1a, Section 63",114,0,8,2,124
+1729333,1274288,2023-03-13,House,"House: Part 1a, Section 64",112,0,10,2,124
+1729333,1274289,2023-03-13,House,"House: Part 1a, Section 66",83,0,39,2,124
+1729333,1274290,2023-03-13,House,"House: Part 1a, Section 65",94,0,28,2,124
+1729333,1274291,2023-03-13,House,"House: Part 1a, Section 67",94,0,28,2,124
+1729333,1274292,2023-03-13,House,"House: Part 1a, Section 71",101,8,13,2,124
+1729333,1274293,2023-03-13,House,"House: Part 1a, Section 72",112,0,10,2,124
+1729333,1274294,2023-03-13,House,"House: Part 1a, Section 73",115,0,7,2,124
+1729333,1274295,2023-03-13,House,"House: Part 1a, Section 74",83,0,39,2,124
+1729333,1274296,2023-03-13,House,"House: Part 1a, Section 75",86,0,36,2,124
+1729333,1274297,2023-03-13,House,"House: Part 1a, Section 78",83,0,39,2,124
+1729333,1274298,2023-03-13,House,"House: Part 1a, Section 80",66,17,39,2,124
+1729333,1274299,2023-03-13,House,"House: Part 1a, Section 79",112,0,10,2,124
+1729333,1274300,2023-03-13,House,"House: Part 1a, Section 81",75,8,39,2,124
+1729333,1274301,2023-03-13,House,"House: Part 1a, Section 83",80,8,34,2,124
+1729333,1274302,2023-03-13,House,"House: Part 1a, Section 82",107,1,14,2,124
+1729333,1274303,2023-03-13,House,"House: Part 1a, Section 84",82,0,40,2,124
+1729333,1274304,2023-03-13,House,"House: Part 1a, Section 85",96,12,14,2,124
+1729333,1274305,2023-03-13,House,"House: Part 1a, Section 86",98,0,24,2,124
+1729333,1274306,2023-03-13,House,"House: Part 1a, Section 91a",114,0,8,2,124
+1729333,1274307,2023-03-13,House,"House: Part 1a, Section 87",109,3,10,2,124
+1729333,1274308,2023-03-13,House,"House: Part 1a, Section 91b",113,0,9,2,124
+1729333,1274309,2023-03-13,House,"House: Part 1a, Section 91d",111,0,11,2,124
+1729333,1274310,2023-03-13,House,"House: Part 1a, Section 91c",111,0,11,2,124
+1729333,1274311,2023-03-13,House,"House: Part 1a, Section 91e",115,0,7,2,124
+1729333,1274312,2023-03-13,House,"House: Part 1a, Section 92a",112,0,10,2,124
+1729333,1274313,2023-03-13,House,"House: Part 1a, Section 92c",115,0,7,2,124
+1729333,1274314,2023-03-13,House,"House: Part 1a, Section 94",115,0,7,2,124
+1729333,1274315,2023-03-13,House,"House: Part 1a, Section 96",117,0,5,2,124
+1729333,1274316,2023-03-13,House,"House: Part 1a, Section 98",115,0,7,2,124
+1729333,1274317,2023-03-13,House,"House: Part 1a, Section 100",111,0,11,2,124
+1729333,1274318,2023-03-13,House,"House: Part 1a, Section 102",84,2,36,2,124
+1729333,1274319,2023-03-13,House,"House: Part 1a, Section 101",118,0,4,2,124
+1729333,1274320,2023-03-13,House,"House: Part 1a, Section 104",86,0,36,2,124
+1729333,1274321,2023-03-13,House,"House: Part 1a, Section 103",114,2,6,2,124
+1729333,1274322,2023-03-13,House,"House: Part 1a, Section 105",114,0,8,2,124
+1729333,1274323,2023-03-13,House,"House: Part 1a, Section 107",112,0,10,2,124
+1729333,1274324,2023-03-13,House,"House: Part 1a, Section 106",116,0,6,2,124
+1729333,1274325,2023-03-13,House,"House: Part 1a, Section 108",111,0,11,2,124
+1729333,1274326,2023-03-13,House,"House: Part 1a, Section 109",81,0,41,2,124
+1729333,1274327,2023-03-13,House,"House: Part 1a, Section 110",101,0,21,2,124
+1729333,1274328,2023-03-13,House,"House: Part 1a, Section 111",109,0,13,2,124
+1729333,1274329,2023-03-13,House,"House: Part 1a, Section 112",113,0,9,2,124
+1729333,1274330,2023-03-13,House,"House: Part 1a, Section 113",97,0,25,2,124
+1729333,1274331,2023-03-13,House,"House: Part 1a, Section 115",112,0,10,2,124
+1729333,1274332,2023-03-13,House,"House: Part 1b, Section 1a",103,0,19,2,124
+1729333,1274333,2023-03-13,House,"House: Part 1b, Section 3",114,0,8,2,124
+1729333,1274334,2023-03-13,House,"House: Part 1b, Section 5",114,0,8,2,124
+1729333,1274335,2023-03-13,House,"House: Part 1b, Section 7",108,0,14,2,124
+1729333,1274336,2023-03-13,House,"House: Part 1b, Section 6",113,0,9,2,124
+1729333,1274337,2023-03-13,House,"House: Part 1b, Section 9",113,1,8,2,124
+1729333,1274338,2023-03-13,House,"House: Part 1b, Section 8",97,13,12,2,124
+1729333,1274339,2023-03-13,House,"House: Part 1b, Section 10",111,1,10,2,124
+1729333,1274340,2023-03-13,House,"House: Part 1b, Section 27",117,1,4,2,124
+1729333,1274341,2023-03-13,House,"House: Part 1b, Section 28",112,0,10,2,124
+1729333,1274342,2023-03-13,House,"House: Part 1b, Section 29",113,0,9,2,124
+1729333,1274343,2023-03-13,House,"House: Part 1b, Section 30",113,0,9,2,124
+1729333,1274344,2023-03-13,House,"House: Part 1b, Section 32",113,0,9,2,124
+1729333,1274345,2023-03-13,House,"House: Part 1b, Section 36",109,1,12,2,124
+1729333,1274346,2023-03-13,House,"House: Part 1b, Section 35",112,0,10,2,124
+1729333,1274347,2023-03-13,House,"House: Part 1b, Section 38",85,0,37,2,124
+1729333,1274348,2023-03-13,House,"House: Part 1b, Section 37",113,0,9,2,124
+1729333,1274349,2023-03-13,House,"House: Part 1b, Section 39",116,0,6,2,124
+1729333,1274350,2023-03-13,House,"House: Part 1b, Section 40",112,0,10,2,124
+1729333,1274351,2023-03-13,House,"House: Part 1b, Section 41",111,0,11,2,124
+1729333,1274352,2023-03-13,House,"House: Part 1b, Section 42",93,20,9,2,124
+1729333,1274353,2023-03-13,House,"House: Part 1b, Section 43",112,0,10,2,124
+1729333,1274354,2023-03-13,House,"House: Part 1b, Section 44",117,0,5,2,124
+1729333,1274355,2023-03-13,House,"House: Part 1b, Section 47",111,0,11,2,124
+1729333,1274356,2023-03-13,House,"House: Part 1b, Section 45",107,0,15,2,124
+1729333,1274357,2023-03-13,House,"House: Part 1b, Section 48",114,0,8,2,124
+1729333,1274358,2023-03-13,House,"House: Part 1b, Section 49",102,13,7,2,124
+1729333,1274359,2023-03-13,House,"House: Part 1b, Section 50",99,15,8,2,124
+1729333,1274360,2023-03-13,House,"House: Part 1b, Section 52",116,0,6,2,124
+1729333,1274361,2023-03-13,House,"House: Part 1b, Section 54",114,0,8,2,124
+1729333,1274362,2023-03-13,House,"House: Part 1b, Section 53",109,0,13,2,124
+1729333,1274363,2023-03-13,House,"House: Part 1b, Section 57",113,3,6,2,124
+1729333,1274364,2023-03-13,House,"House: Part 1b, Section 59",107,0,15,2,124
+1729333,1274365,2023-03-13,House,"House: Part 1b, Section 58",115,0,7,2,124
+1729333,1274366,2023-03-13,House,"House: Part 1b, Section 61",99,0,23,2,124
+1729333,1274367,2023-03-13,House,"House: Part 1b, Section 60",114,0,8,2,124
+1729333,1274368,2023-03-13,House,"House: Part 1b, Section 62",114,0,8,2,124
+1729333,1274369,2023-03-13,House,"House: Part 1b, Section 63",114,0,8,2,124
+1729333,1274370,2023-03-13,House,"House: Part 1b, Section 64",114,0,8,2,124
+1729333,1274371,2023-03-13,House,"House: Part 1b, Section 66",86,0,36,2,124
+1729333,1274372,2023-03-13,House,"House: Part 1b, Section 67",94,0,28,2,124
+1729333,1274373,2023-03-13,House,"House: Part 1b, Section 70",89,0,33,2,124
+1729333,1274374,2023-03-13,House,"House: Part 1b, Section 72",115,0,7,2,124
+1729333,1274375,2023-03-13,House,"House: Part 1b, Section 71",108,0,14,2,124
+1729333,1274376,2023-03-13,House,"House: Part 1b, Section 73",114,0,8,2,124
+1729333,1274377,2023-03-13,House,"House: Part 1b, Section 75",85,0,37,2,124
+1729333,1274378,2023-03-13,House,"House: Part 1b, Section 74",84,0,38,2,124
+1729333,1274379,2023-03-13,House,"House: Part 1b, Section 78",85,0,37,2,124
+1729333,1274380,2023-03-13,House,"House: Part 1b, Section 79",114,0,8,2,124
+1729333,1274381,2023-03-13,House,"House: Part 1b, Section 80",66,18,38,2,124
+1729333,1274382,2023-03-13,House,"House: Part 1b, Section 82",111,0,11,2,124
+1729333,1274383,2023-03-13,House,"House: Part 1b, Section 81",87,0,35,2,124
+1729333,1274384,2023-03-13,House,"House: Part 1b, Section 83",83,4,35,2,124
+1729333,1274385,2023-03-13,House,"House: Part 1b, Section 84",83,0,39,2,124
+1729333,1274386,2023-03-13,House,"House: Part 1b, Section 85",114,0,8,2,124
+1729333,1274387,2023-03-13,House,"House: Part 1b, Section 86",98,0,24,2,124
+1729333,1274388,2023-03-13,House,"House: Part 1b, Section 87",116,0,6,2,124
+1729333,1274389,2023-03-13,House,"House: Part 1b, Section 88",114,0,8,2,124
+1729333,1274390,2023-03-13,House,"House: Part 1b, Section 92",116,0,6,2,124
+1729333,1274391,2023-03-13,House,"House: Part 1b, Section 91",115,0,7,2,124
+1729333,1274392,2023-03-13,House,"House: Part 1b, Section 92d",112,1,9,2,124
+1729333,1274393,2023-03-13,House,"House: Part 1b, Section 94",117,0,5,2,124
+1729333,1274394,2023-03-13,House,"House: Part 1b, Section 97",109,4,9,2,124
+1729333,1274395,2023-03-13,House,"House: Part 1b, Section 98",119,0,3,2,124
+1729333,1274396,2023-03-13,House,"House: Part 1b, Section 101",116,0,6,2,124
+1729333,1274397,2023-03-13,House,"House: Part 1b, Section 100",113,0,9,2,124
+1729333,1274398,2023-03-13,House,"House: Part 1b, Section 103",114,1,7,2,124
+1729333,1274399,2023-03-13,House,"House: Part 1b, Section 104",87,0,35,2,124
+1729333,1274400,2023-03-13,House,"House: Part 1b, Section 105",109,0,13,2,124
+1729333,1274401,2023-03-13,House,"House: Part 1b, Section 106",117,0,5,2,124
+1729333,1274402,2023-03-13,House,"House: Part 1b, Section 109",85,0,37,2,124
+1729333,1274403,2023-03-13,House,"House: Part 1b, Section 111",106,0,16,2,124
+1729333,1274404,2023-03-13,House,"House: Part 1b, Section 112",113,0,9,2,124
+1729333,1274405,2023-03-13,House,"House: Table Amendment 34, Part 1a, Section 8 Amendment Number 34",100,17,5,2,124
+1729333,1274406,2023-03-13,House,"House: Part 1a, Section 8",100,14,8,2,124
+1729333,1274407,2023-03-13,House,"House: Part 1a, Section 11",114,0,8,2,124
+1729333,1274408,2023-03-13,House,"House: Table Amendment 14, Part 1a, Section 13 Amendment Number 14",92,21,9,2,124
+1729333,1274409,2023-03-13,House,"House: Part 1a, Section 13",114,0,8,2,124
+1729333,1274410,2023-03-13,House,"House: Table Amendment 13, Part 1a, Section 14 Amendment Number 13",94,17,12,1,124
+1729333,1274411,2023-03-13,House,"House: Part 1a, Section 14",107,1,15,1,124
+1729333,1274412,2023-03-13,House,"House: Part 1a, Section 15",115,0,8,1,124
+1729333,1274413,2023-03-13,House,"House: Table Amendment 12, Part 1a, Section 16 Amendment Number 12",96,19,8,1,124
+1729333,1274414,2023-03-13,House,"House: Part 1a, Section 16",115,0,8,1,124
+1729333,1274415,2023-03-13,House,"House: Table Amendment 10, Part 1a, Section 17 Amendment Number 10",93,20,10,1,124
+1729333,1274416,2023-03-13,House,"House: Part 1a, Section 17",114,0,9,1,124
+1729333,1274417,2023-03-13,House,"House: Table Amendment 9, Part 1a, Section 18 Amendment Number 9",93,16,14,1,124
+1729333,1274418,2023-03-13,House,"House: Part 1a, Section 18",113,0,10,1,124
+1729333,1274419,2023-03-13,House,"House: Part 1a, Section 20a",112,0,11,1,124
+1729333,1274420,2023-03-13,House,"House: Part 1a, Section 20b",115,0,8,1,124
+1729333,1274421,2023-03-13,House,"House: Table Amendment 4, Part 1a, Section 20c Amendment Number 4",98,20,5,1,124
+1729333,1274422,2023-03-13,House,"House: Part 1a, Section 20c",118,0,5,1,124
+1729333,1274423,2023-03-13,House,"House: Table Amendment 6, Part 1a, Section 20d Amendment Number 6",94,19,10,1,124
+1729333,1274424,2023-03-13,House,"House: Part 1a, Section 20d",116,0,7,1,124
+1729333,1274425,2023-03-13,House,"House: Part 1a, Section 21",114,0,9,1,124
+1729333,1274426,2023-03-13,House,"House: Table Amendment 3, Part 1a, Section 21 Amendment Number 3",95,19,9,1,124
+1729333,1274427,2023-03-13,House,"House: Part 1a, Section 23",113,0,9,2,124
+1729333,1274428,2023-03-13,House,"House: Part 1a, Section 34",82,3,37,2,124
+1729333,1274429,2023-03-13,House,"House: Part 1a, Section 38",85,0,37,2,124
+1729333,1274430,2023-03-13,House,"House: Part 1a, Section 45",114,0,8,2,124
+1729333,1274431,2023-03-13,House,"House: Part 1a, Section 47",117,0,5,2,124
+1729333,1274432,2023-03-13,House,"House: Part 1a, Section 49",106,9,7,2,124
+1729333,1274433,2023-03-13,House,"House: Part 1a, Section 62",115,0,7,2,124
+1729333,1274434,2023-03-13,House,"House: Part 1a, Section 70",79,11,32,2,124
+1729333,1274435,2023-03-13,House,"House: Part 1a, Section 92d",115,0,7,2,124
+1729333,1274436,2023-03-13,House,"House: Part 1a, Section 93",117,0,5,2,124
+1729333,1274437,2023-03-13,House,"House: Adopt Amendment 77, Part 1a, Section 97 Amendment Number 77",104,7,11,2,124
+1729333,1274438,2023-03-13,House,"House: Part 1a, Section 97",119,0,3,2,124
+1729333,1274439,2023-03-13,House,"House: Part 1a, Section 99",118,0,4,2,124
+1729333,1275093,2023-03-14,House,"House: Table Amendment 72, Part 1b, Section 1 Amendment Number 72",77,31,16,0,124
+1729333,1275094,2023-03-14,House,"House: Part 1b, Section 1",116,2,6,0,124
+1729333,1275095,2023-03-14,House,"House: Table Amendment 51, Part 1b, Section 14 Amendment Number 51",92,18,14,0,124
+1729333,1275096,2023-03-14,House,"House: Part 1b, Section 11",110,0,13,1,124
+1729333,1275097,2023-03-14,House,"House: Part 1b, Section 15",117,0,6,1,124
+1729333,1275098,2023-03-14,House,"House: Part 1b, Section 20",112,0,10,2,124
+1729333,1275099,2023-03-14,House,"House: Part 1b, Section 23",111,0,11,2,124
+1729333,1275100,2023-03-14,House,"House: Part 1b, Section 25",117,0,6,1,124
+1729333,1275101,2023-03-14,House,"House: Part 1b, Section 33",81,0,42,1,124
+1729333,1275102,2023-03-14,House,"House: Part 1b, Section 34",85,0,38,1,124
+1729333,1275103,2023-03-14,House,"House: Part 1b, Section 65",100,0,23,1,124
+1729333,1275104,2023-03-14,House,"House: Part 1b, Section 93",120,0,3,1,124
+1729333,1275105,2023-03-14,House,"House: Part 1b, Section 96",119,0,4,1,124
+1729333,1275106,2023-03-14,House,"House: Part 1b, Section 102",92,0,32,0,124
+1729333,1275107,2023-03-14,House,"House: Table Amendment 69, Part 1b, Section 108 Amendment Number 69",82,31,11,0,124
+1729333,1275108,2023-03-14,House,"House: Part 1b, Section 108",113,0,11,0,124
+1729333,1275109,2023-03-14,House,"House: Part 1b, Section 110",106,0,18,0,124
+1729333,1275110,2023-03-14,House,"House: Part 1b, Section 113",95,0,29,0,124
+1729333,1275111,2023-03-14,House,"House: Table Amendment 55, Part 1b, Section 117 Amendment Number 55",94,20,9,1,124
+1729333,1275112,2023-03-14,House,"House: Table Amendment 71, Part 1b, Section 117 Amendment Number 71",100,18,5,1,124
+1729333,1275113,2023-03-14,House,"House: Part 1b, Section 117",115,0,8,1,124
+1729333,1275114,2023-03-14,House,"House: Table Amendment 35, Part 1b, Section 118 Amendment Number 35",13,97,13,1,124
+1729333,1275115,2023-03-14,House,"House: Part 1b, Section 118",107,11,5,1,124
+1729333,1275116,2023-03-14,House,"House: Passage Of Bill",108,11,4,1,124
+1729333,1305066,2023-04-19,Senate,"Senate: To Lay On The Table Amendment Number 16",17,18,0,2,37
+1729333,1305067,2023-04-19,Senate,"Senate: To Adopt Section 1 Department Of Education",41,2,0,3,46
+1729333,1305068,2023-04-19,Senate,"Senate: To Adopt Section 3 Lottery Expenditure Account",43,0,0,3,46
+1729333,1305069,2023-04-19,Senate,"Senate: To Adopt Section 4 Education Oversight Committee",41,1,1,3,46
+1729333,1305070,2023-04-19,Senate,"Senate: To Adopt Section 5 Wil Lou Gray Opportunity School",43,0,0,3,46
+1729333,1305071,2023-04-19,Senate,"Senate: To Adopt Section 7 John De La Howe School",42,0,1,3,46
+1729333,1305072,2023-04-19,Senate,"Senate: To Adopt Section 6 School For The Deaf And Blind",43,0,0,3,46
+1729333,1305073,2023-04-19,Senate,"Senate: To Adopt Section 8 Education Television Commission",43,0,0,3,46
+1729333,1305074,2023-04-19,Senate,"Senate: To Adopt Section 9 Governor’s School A",43,0,0,3,46
+1729333,1305075,2023-04-19,Senate,"Senate: To Adopt Section 10 Governor’s School Science And Math",43,0,0,3,46
+1729333,1305076,2023-04-19,Senate,"Senate: To Adopt Section 12 Higher Education Tuition Grants",43,0,0,3,46
+1729333,1305077,2023-04-19,Senate,"Senate: To Adopt Section 11 Commission On Higher Education",43,0,0,3,46
+1729333,1305079,2023-04-19,Senate,"Senate: To Adopt Section 13 The Citadel",43,0,0,3,46
+1729333,1305080,2023-04-19,Senate,"Senate: To Adopt Section 14 Clemson University",43,0,0,3,46
+1729333,1305081,2023-04-19,Senate,"Senate: To Adopt Section 15 Charleston University",42,0,1,3,46
+1729333,1305082,2023-04-19,Senate,"Senate: To Adopt Section 17 Francis Marion University",43,0,0,3,46
+1729333,1305083,2023-04-19,Senate,"Senate: To Adopt Section 16 Coastal Carolina University",43,0,0,3,46
+1729333,1305084,2023-04-19,Senate,"Senate: To Adopt Section 19 S.c. State University",43,0,0,3,46
+1729333,1305085,2023-04-19,Senate,"Senate: To Adopt Section 18 Lander University",43,0,0,3,46
+1729333,1305086,2023-04-19,Senate,"Senate: To Adopt Section 20 University Of South Carolina",40,0,3,3,46
+1729333,1305087,2023-04-19,Senate,"Senate: To Adopt Section 21 Winthrop University",43,0,0,3,46
+1729333,1305088,2023-04-19,Senate,"Senate: To Adopt Section 24 Area Health Education Consortium",43,0,0,3,46
+1729333,1305089,2023-04-19,Senate,"Senate: To Adopt Section 23 Medical University Of South Carolina",35,7,1,3,46
+1729333,1305090,2023-04-19,Senate,"Senate: To Adopt Section 25 Tech. And Comp. Education Board",43,0,0,3,46
+1729333,1305091,2023-04-19,Senate,"Senate: To Adopt Section 26 Archives And History",42,0,1,3,46
+1729333,1305092,2023-04-19,Senate,"Senate: To Adopt Section 28 Arts Commission",43,0,0,3,46
+1729333,1305093,2023-04-19,Senate,"Senate: To Adopt Section 27 State Library",38,5,0,3,46
+1729333,1305094,2023-04-19,Senate,"Senate: To Adopt Section 32 Vocational Rehabilitation",43,0,0,3,46
+1729333,1305095,2023-04-19,Senate,"Senate: To Adopt Section 29 State Museum Commission",43,0,0,3,46
+1729333,1305096,2023-04-19,Senate,"Senate: To Adopt Section 30 Confederate Relic Room, Museum",43,0,0,3,46
+1729333,1305097,2023-04-19,Senate,"Senate: To Adopt Section 34 Dhec",35,1,7,3,46
+1729333,1305098,2023-04-19,Senate,"Senate: To Adopt Section 33 Dhhs",28,9,6,3,46
+1729333,1305099,2023-04-19,Senate,"Senate: To Adopt Section 36 Ddsn",42,0,1,3,46
+1729333,1305100,2023-04-19,Senate,"Senate: To Adopt Section 35 Dept. Of Mental Health",43,0,0,3,46
+1729333,1305101,2023-04-19,Senate,"Senate: To Adopt Section 38 Department Of Social Services",39,0,4,3,46
+1729333,1305102,2023-04-19,Senate,"Senate: To Adopt Section 37 Alcohol/drug Abuse Services",41,0,2,3,46
+1729333,1305103,2023-04-19,Senate,"Senate: To Adopt Section 39 Commission For The Blind",43,0,0,3,46
+1729333,1305104,2023-04-19,Senate,"Senate: To Adopt Section 40 Department On Aging",43,0,0,3,46
+1729333,1305105,2023-04-19,Senate,"Senate: To Adopt Section 41 Department Of Children’s Advocacy",43,0,0,3,46
+1729333,1305106,2023-04-19,Senate,"Senate: To Adopt Section 42 Housing Finance And Development",42,0,1,3,46
+1729333,1305107,2023-04-19,Senate,"Senate: To Adopt Section 43 Forestry Commission",42,0,1,3,46
+1729333,1305108,2023-04-19,Senate,"Senate: To Adopt Section 45 Clemson University – Psa",43,0,0,3,46
+1729333,1305109,2023-04-19,Senate,"Senate: To Adopt Section 44 Department Of Agriculture",41,0,2,3,46
+1729333,1305110,2023-04-19,Senate,"Senate: To Adopt Section 46 S. C. State University- Psa",42,0,1,3,46
+1729333,1305111,2023-04-19,Senate,"Senate: To Adopt Section 47 Department Of Natural Resources",42,0,1,3,46
+1729333,1305112,2023-04-19,Senate,"Senate: To Adopt Section 49 Depart. Of Parks, Recreation, Tourism",43,0,0,3,46
+1729333,1305113,2023-04-19,Senate,"Senate: To Adopt Section 48 Sea Grants Consortium",43,0,0,3,46
+1729333,1305114,2023-04-19,Senate,"Senate: To Adopt Section 51 Jobs-economic Development Authority (jeda)",42,1,1,2,46
+1729333,1305115,2023-04-19,Senate,"Senate: To Adopt Section 50 Department Of Commerce",38,4,1,3,46
+1729333,1305116,2023-04-19,Senate,"Senate: To Adopt Section 53 S. C. Conservation Bank",43,0,0,3,46
+1729333,1305117,2023-04-19,Senate,"Senate: To Adopt Section 52 Patriots Point Development Authority",42,0,1,3,46
+1729333,1305118,2023-04-19,Senate,"Senate: To Adopt Section 54 Rural Infrastructure Authority",42,0,1,3,46
+1729333,1305119,2023-04-19,Senate,"Senate: To Adopt Section 58 Administrative Law Court",31,0,12,3,46
+1729333,1305120,2023-04-19,Senate,"Senate: To Adopt Section 57 Judicial Department",38,0,5,3,46
+1729333,1305121,2023-04-19,Senate,"Senate: To Adopt Section 59 Attorney General’s Office",35,0,8,3,46
+1729333,1305122,2023-04-19,Senate,"Senate: To Adopt Section 60 Prosecution Coordination",38,0,5,3,46
+1729333,1305123,2023-04-19,Senate,"Senate: To Adopt Section 61 Indigent Defense",37,0,6,3,46
+1729333,1305124,2023-04-19,Senate,"Senate: To Adopt Section 63 Department Of Public Safety",37,0,6,3,46
+1729333,1305125,2023-04-19,Senate,"Senate: To Adopt Section 62 Sled",39,0,4,3,46
+1729333,1305126,2023-04-19,Senate,"Senate: To Adopt Section 64 Law Enforcement Training Council",40,0,3,3,46
+1729333,1305127,2023-04-19,Senate,"Senate: To Adopt Section 66 Department Of Ppp",33,0,10,3,46
+1729333,1305128,2023-04-19,Senate,"Senate: To Adopt Section 65 Department Of Corrections",37,0,6,3,46
+1729333,1305129,2023-04-19,Senate,"Senate: To Adopt Section 70 Human Affairs Commission",43,0,0,3,46
+1729333,1305130,2023-04-19,Senate,"Senate: To Adopt Section 67 Department Of Juvenile Justice",38,0,5,3,46
+1729333,1305131,2023-04-19,Senate,"Senate: To Adopt Section 73 Office Of Regulatory Staff",41,0,2,3,46
+1729333,1305132,2023-04-19,Senate,"Senate: To Adopt Section 72 Public Service Commission",41,0,2,3,46
+1729333,1305133,2023-04-19,Senate,"Senate: To Adopt Section 71 Minority Affairs Commission",43,0,0,3,46
+1729333,1305134,2023-04-19,Senate,"Senate: To Adopt Section 74 Workers’ Compensation Commission",30,0,13,3,46
+1729333,1305135,2023-04-19,Senate,"Senate: To Adopt Section 75 State Accident Fund",32,0,11,3,46
+1729333,1305136,2023-04-19,Senate,"Senate: To Adopt Section 79 Board Of Financial Institutions",42,0,1,3,46
+1729333,1305137,2023-04-19,Senate,"Senate: To Adopt Section 78 Department Of Insurance",38,0,5,3,46
+1729333,1305138,2023-04-19,Senate,"Senate: To Adopt Section 81 Llr",33,0,10,3,46
+1729333,1305139,2023-04-19,Senate,"Senate: To Adopt Section 80 Department Of Consumer Affairs",38,3,2,3,46
+1729333,1305140,2023-04-19,Senate,"Senate: To Adopt Section 82 Department Of Motor Vehicles",36,0,7,3,46
+1729333,1305141,2023-04-19,Senate,"Senate: To Adopt Section 83 Dew",34,0,9,3,46
+1729333,1305142,2023-04-19,Senate,"Senate: To Adopt Section 85 Infrastructure Bank Board",43,0,0,3,46
+1729333,1305143,2023-04-19,Senate,"Senate: To Adopt Section 84 Department Of Transportation",36,0,7,3,46
+1729333,1305144,2023-04-19,Senate,"Senate: To Adopt Section 88 Ports Authority",42,0,1,3,46
+1729333,1305145,2023-04-19,Senate,"Senate: To Adopt Section 86 County Transportation Funds",42,0,1,3,46
+1729333,1305146,2023-04-19,Senate,"Senate: To Adopt Section 87 Division Of Aeronautics",41,1,1,3,46
+1729333,1305147,2023-04-19,Senate,"Senate: To Adopt Section 92 Governor’s Office",42,0,1,3,46
+1729333,1305148,2023-04-19,Senate,"Senate: To Adopt Section 91 Legislative Department",43,0,0,3,46
+1729333,1305149,2023-04-19,Senate,"Senate: To Adopt Section 92d Office Of Resilience",42,0,1,3,46
+1729333,1305150,2023-04-19,Senate,"Senate: To Adopt Section 93 Department Of Administration",43,0,0,3,46
+1729333,1305151,2023-04-19,Senate,"Senate: To Adopt Section 94 Office Of Inspector General",42,0,1,3,46
+1729333,1305152,2023-04-19,Senate,"Senate: To Adopt Section 97 Comptroller General",41,2,0,3,46
+1729333,1305153,2023-04-19,Senate,"Senate: To Adopt Section 96 Secretary Of State",43,0,0,3,46
+1729333,1305154,2023-04-19,Senate,"Senate: To Adopt Section 98 State Treasurer",42,0,1,3,46
+1729333,1305155,2023-04-19,Senate,"Senate: To Adopt Section 99 Retirement System Investment Commission",43,0,0,3,46
+1729333,1305156,2023-04-19,Senate,"Senate: To Adopt Section 100 Adjutant General",43,0,0,3,46
+1729333,1305157,2023-04-19,Senate,"Senate: To Adopt Section 101 Veterans Affairs",43,0,0,3,46
+1729333,1305158,2023-04-19,Senate,"Senate: To Adopt Section 102 Election Commission",39,0,4,3,46
+1729333,1305159,2023-04-19,Senate,"Senate: To Adopt Section 103 Revenue And Fiscal Affairs",43,0,0,3,46
+1729333,1305160,2023-04-19,Senate,"Senate: To Adopt Section 104 State Fiscal Accounting Authority",41,1,1,3,46
+1729333,1305161,2023-04-19,Senate,"Senate: To Adopt Section 106 Statewide Employee Benefits",43,0,0,3,46
+1729333,1305162,2023-04-19,Senate,"Senate: To Adopt Section 105 State Auditor’s Office",41,1,1,3,46
+1729333,1305163,2023-04-19,Senate,"Senate: To Adopt Section 109 Department Of Revenue",35,0,8,3,46
+1729333,1305164,2023-04-19,Senate,"Senate: To Adopt Section 108 Public Employee Benefit Authority",34,8,1,3,46
+1729333,1305165,2023-04-19,Senate,"Senate: To Adopt Section 107 Capital And General Reserve Fund",43,0,0,3,46
+1729333,1305166,2023-04-19,Senate,"Senate: To Adopt Section 110 State Ethics Commission",36,0,7,3,46
+1729333,1305167,2023-04-19,Senate,"Senate: To Adopt Section 111 Procurement Review Panel",42,0,1,3,46
+1729333,1305168,2023-04-19,Senate,"Senate: To Adopt Section 112 Debt Service",43,0,0,3,46
+1729333,1305169,2023-04-19,Senate,"Senate: To Adopt Section 113 Aid To Subdivisions - State Treasurer",42,0,1,3,46
+1729333,1305170,2023-04-19,Senate,"Senate: To Adopt Section 115 Tax Relief Trust Fund",43,0,0,3,46
+1729333,1305171,2023-04-19,Senate,"Senate: To Adopt Section 118 Statewide Revenue",42,1,0,3,46
+1729333,1305172,2023-04-19,Senate,"Senate: To Adopt Section 117 General Provisions",43,0,0,3,46
+1729333,1305173,2023-04-19,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1729333,1305174,2023-04-19,Senate,"Senate: To Adopt Section 1a Department Of Education",41,2,0,3,46
+1729333,1321253,2023-05-09,House,"House: Adopt Amendment 1a Amendment Number 1a",105,12,5,2,124
+1729333,1321254,2023-05-09,House,"House: Table Amendment 2a Amendment Number 2a",81,33,7,3,124
+1729333,1321255,2023-05-09,House,"House: Adopt Amendment 3a Amendment Number 3a",115,0,6,3,124
+1729333,1321256,2023-05-09,House,"House: Adopt Amendment 4a Amendment Number 4a",110,0,11,3,124
+1729333,1321257,2023-05-09,House,"House: Adopt Amendment 5a Amendment Number 5a",101,10,10,3,124
+1729333,1321258,2023-05-09,House,"House: Adopt Amendment 6a Amendment Number 6a",109,0,12,3,124
+1729333,1321259,2023-05-09,House,"House: Adopt Amendment 7a Amendment Number 7a",114,0,7,3,124
+1729333,1321260,2023-05-09,House,"House: Adopt Amendment 9a Amendment Number 9a",111,0,10,3,124
+1729333,1321261,2023-05-09,House,"House: Adopt Amendment 10a Amendment Number 10a",109,0,12,3,124
+1729333,1321262,2023-05-09,House,"House: Adopt Amendment 11a Amendment Number 11a",114,0,7,3,124
+1729333,1321263,2023-05-09,House,"House: Adopt Amendment 12a Amendment Number 12a",114,0,7,3,124
+1729333,1321264,2023-05-09,House,"House: Table Amendment 13a Amendment Number 13a",94,10,17,3,124
+1729333,1321265,2023-05-09,House,"House: Adopt Amendment 14a Amendment Number 14a",113,0,8,3,124
+1729333,1321266,2023-05-09,House,"House: Adopt Amendment 15a Amendment Number 15a",64,46,8,6,124
+1729333,1321267,2023-05-09,House,"House: Adopt Amendment 16a Amendment Number 16a",110,0,8,6,124
+1729333,1321268,2023-05-09,House,"House: Adopt Amendment 17a Amendment Number 17a",113,0,5,6,124
+1729333,1321269,2023-05-09,House,"House: Adopt Amendment 19a Amendment Number 19a",89,14,16,5,124
+1729333,1321270,2023-05-09,House,"House: Adopt Amendment 20a Amendment Number 20a",108,1,10,5,124
+1729333,1343984,2023-06-14,Senate,"Senate: To Adopt The Conference Report",36,0,0,10,46
+1729333,1343985,2023-06-14,House,"House: Adopt Conference Report",92,14,8,10,124
+1729996,1272509,2023-03-09,House,"House: Passage Of Bill",113,0,6,5,124
+1729996,1300216,2023-04-13,Senate,"Senate: 2nd Reading",39,0,0,5,44
+1729996,1306617,2023-04-20,House,"House: Passage Of Bill",101,0,14,9,124
+1730463,1287765,2023-03-29,Senate,"Senate: 3rd Reading",40,1,0,4,45
+1730463,1318806,2023-05-04,House,"House: Passage Of Bill",108,0,12,4,124
+1730819,1309476,2023-04-25,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1730819,1437238,2024-05-01,House,"House: Table Amendment 1 Amendment Number 1",30,79,10,5,124
+1730819,1437239,2024-05-01,House,"House: Passage Of Bill",75,32,12,5,124
+1730819,1440424,2024-05-07,Senate,"Senate: Waive Printing",37,3,0,1,41
+1730819,1441169,2024-05-08,Senate,"Senate: To Adopt Amendment Number Rfh-1",45,0,0,1,46
+1730819,1441949,2024-05-09,House,"House: Concur In Senate Amendments",92,11,10,11,124
+1731479,1294451,2023-04-05,House,"House: Passage Of Bill",97,16,7,4,124
+1731504,1294475,2023-04-05,House,"House: Passage Of Bill",98,12,10,4,124
+1731531,1288113,2023-03-29,House,"House: Passage Of Bill",113,0,10,1,124
+1731531,1364375,2024-01-16,Senate,"Senate: 2nd Reading",40,0,0,2,42
+1731585,1403226,2024-03-05,House,"House: Passage Of Bill",88,26,6,3,123
+1731585,1435192,2024-04-25,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1731749,1294585,2023-04-05,House,"House: Passage Of Bill",95,15,12,2,124
+1731749,1294586,2023-04-05,House,"House: Passage Of Bill",98,15,7,4,124
+1731749,1398098,2024-02-28,Senate,"Senate: 2nd Reading",42,1,0,1,44
+1731749,1412449,2024-03-20,House,"House: Motion To Table Amendment 2a Amendment Number 2a",44,55,16,8,123
+1731749,1412450,2024-03-20,House,"House: Adopt Amendment 2a Amendment Number 2a",76,22,17,8,123
+1731749,1440654,2024-05-07,House,"House: Adopt Conference Report",108,0,10,6,124
+1731749,1460364,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1731762,1294091,2023-04-05,House,"House: Passage Of Bill",90,15,17,2,124
+1731762,1323091,2023-05-10,Senate,"Senate: 3rd Reading",42,0,0,1,43
+1731762,1323471,2023-05-11,House,"House: Concur In Senate Amendments",107,0,13,4,124
+1731800,1295169,2023-04-06,House,"House: Passage Of Bill",105,0,13,6,124
+1731800,1321630,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1739559,1322765,2023-05-10,House,"House: Passage Of Bill",102,11,6,5,124
+1740047,1373912,2024-02-01,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1740047,1438362,2024-05-02,House,"House: Table Amendment 1 Amendment Number 1",82,16,19,7,124
+1740047,1438363,2024-05-02,House,"House: Passage Of Bill",89,16,12,7,124
+1741722,1318366,2023-05-04,House,"House: Passage Of Bill",109,0,12,3,124
+1741722,1369043,2024-01-25,Senate,"Senate: 3rd Reading",41,0,0,1,42
+1741722,1372674,2024-01-31,House,"House: Concur In Senate Amendments",109,0,10,4,123
+1741831,1416964,2024-03-28,House,"House: Passage Of Bill",98,10,9,6,123
+1742190,1318157,2023-05-03,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1742190,1322812,2023-05-10,House,"House: Passage Of Bill",110,1,8,5,124
+1745691,1294474,2023-04-05,House,"House: Passage Of Bill",111,0,11,2,124
+1745718,1294710,2023-04-05,House,"House: Passage Of Bill",107,0,15,2,124
+1748673,1416960,2024-03-28,House,"House: Passage Of Bill",104,0,14,5,123
+1748675,1423607,2024-04-09,House,"House: Passage Of Bill",87,21,11,5,124
+1748675,1442049,2024-05-09,Senate,"Senate: 3rd Reading",44,0,0,2,46
+1748675,1442050,2024-05-09,House,"House: Adopt Amendment 1a Amendment Number 1a",106,0,9,9,124
+1748936,1317198,2023-05-02,House,"House: Passage Of Bill",109,0,13,2,124
+1749500,1404505,2024-03-06,House,"House: Passage Of Bill",102,0,16,5,123
+1749550,1294332,2023-04-05,House,"House: Table Motion To Recommit",80,23,20,1,124
+1749550,1294333,2023-04-05,House,"House: Passage Of Bill",81,23,19,1,124
+1749550,1295198,2023-04-06,House,"House: Passage Of Bill",74,20,24,6,124
+1749589,1294727,2023-04-05,House,"House: Passage Of Bill",83,2,37,2,124
+1749589,1294728,2023-04-05,House,"House: Table Motion To Reconsider Second Reading",80,19,23,2,124
+1749589,1295121,2023-04-06,House,"House: Passage Of Bill",77,20,21,6,124
+1749599,1313207,2023-04-27,House,"House: Passage Of Bill",105,0,11,8,124
+1749965,1384363,2024-02-14,House,"House: Table Motion To Recommit",64,48,5,6,123
+1749965,1384364,2024-02-14,House,"House: Passage Of Bill",68,44,5,6,123
+1750427,1300715,2023-04-13,Senate,"Senate: 2nd Reading",39,0,0,5,44
+1750427,1318576,2023-05-04,House,"House: Passage Of Joint Resolution",104,0,17,3,124
+1750545,1412645,2024-03-20,House,"House: Passage Of Bill",109,0,7,7,123
+1750545,1441218,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1750545,1442059,2024-05-09,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1750545,1442060,2024-05-09,House,"House: Concur In Senate Amendments",106,0,9,9,124
+1750969,1373426,2024-01-31,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1750969,1441118,2024-05-08,House,"House: Passage Of Bill",105,2,7,10,124
+1753016,1423159,2024-04-09,House,"House: Passage Of Bill",80,23,16,5,124
+1753016,1441112,2024-05-08,Senate,"Senate: 2nd Reading",32,12,0,2,46
+1753016,1441852,2024-05-09,House,"House: Adopt Amendment 1 Amendment Number 1",104,0,11,9,124
+1753016,1460261,2024-06-26,House,"House: Override Veto By The Governor",98,11,6,9,124
+1753016,1460262,2024-06-26,Senate,"Senate: To Override The Veto",33,5,0,5,43
+1753359,1317414,2023-05-03,House,"House: Passage Of Bill",111,0,9,4,124
+1753408,1415306,2024-03-26,House,"House: Passage Of Bill",118,0,4,1,123
+1753666,1416579,2024-03-27,House,"House: Invoke The Previous Question (cloture)",83,31,7,2,123
+1753666,1416580,2024-03-27,House,"House: Adopt Amendment 1 Amendment Number 1",82,25,13,3,123
+1753666,1416581,2024-03-27,House,"House: Table Amendment 2 Amendment Number 2",82,28,10,3,123
+1753666,1416582,2024-03-27,House,"House: Table Amendment 3 Amendment Number 3",79,27,14,3,123
+1753666,1416583,2024-03-27,House,"House: Adopt Amendment 17 Amendment Number 17",27,81,12,3,123
+1753666,1416584,2024-03-27,House,"House: Adopt Amendment 35 Amendment Number 35",21,80,19,3,123
+1753666,1416585,2024-03-27,House,"House: Table Amendment 42 Amendment Number 42",83,26,11,3,123
+1753666,1416586,2024-03-27,House,"House: Table Amendment 43 Amendment Number 43",82,25,13,3,123
+1753666,1416587,2024-03-27,House,"House: Adjourn For The Day",22,79,18,4,123
+1753666,1416588,2024-03-27,House,"House: Table Amendment 45 Amendment Number 45",78,25,16,4,123
+1753666,1416589,2024-03-27,House,"House: Motion To Table The Bill",27,80,11,5,123
+1753666,1416590,2024-03-27,House,"House: Table Motion To Recur To The Morning Hour",78,29,11,5,123
+1753666,1416591,2024-03-27,House,"House: Table Motion To Recommit",80,28,11,4,123
+1753666,1416592,2024-03-27,House,"House: Continue The Bill",28,81,10,4,123
+1753666,1416593,2024-03-27,House,"House: Table Amendment 46 Amendment Number 46",79,28,12,4,123
+1753666,1416594,2024-03-27,House,"House: Adjourn For The Day",28,78,13,4,123
+1753666,1416595,2024-03-27,House,"House: Table Motion To Adjourn Debate",81,28,10,4,123
+1753666,1416596,2024-03-27,House,"House: Table Amendment 47 Amendment Number 47",78,28,13,4,123
+1753666,1416597,2024-03-27,House,"House: Table Amendment 48 Amendment Number 48",75,26,17,5,123
+1753666,1416598,2024-03-27,House,"House: Adjourn For The Day",27,78,14,4,123
+1753666,1416599,2024-03-27,House,"House: Table Amendment 49 Amendment Number 49",79,22,17,5,123
+1753666,1416600,2024-03-27,House,"House: Table Amendment 50 Amendment Number 50",81,26,11,5,123
+1753666,1416601,2024-03-27,House,"House: Table Amendment 51 Amendment Number 51",80,27,10,6,123
+1753666,1416602,2024-03-27,House,"House: Table Amendment 56 Amendment Number 56",83,24,11,5,123
+1753666,1416603,2024-03-27,House,"House: Table Amendment 57 Amendment Number 57",78,23,17,5,123
+1753666,1416604,2024-03-27,House,"House: Table Amendment 58 Amendment Number 58",82,26,9,6,123
+1753666,1416605,2024-03-27,House,"House: Table Amendment 59 Amendment Number 59",80,28,11,4,123
+1753666,1416606,2024-03-27,House,"House: Table Amendment 60 Amendment Number 60",79,28,11,5,123
+1753666,1416607,2024-03-27,House,"House: Table Amendment 61 Amendment Number 61",82,28,9,4,123
+1753666,1416608,2024-03-27,House,"House: Table Amendment 62 Amendment Number 62",80,27,11,5,123
+1753666,1416609,2024-03-27,House,"House: Table Amendment 63 Amendment Number 63",59,20,38,6,123
+1753666,1416610,2024-03-27,House,"House: Passage Of Bill",84,30,6,3,123
+1753666,1417088,2024-03-28,House,"House: Passage Of Bill",77,30,10,6,123
+1753694,1417231,2024-03-28,House,"House: Passage Of Bill",102,0,16,5,123
+1753694,1441217,2024-05-08,Senate,"Senate: 2nd Reading",23,21,0,2,46
+1753704,1416613,2024-03-27,House,"House: Passage Of Bill",92,10,16,5,123
+1753708,1317754,2023-05-03,House,"House: Passage Of Bill",102,0,18,4,124
+1753708,1321333,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1753723,1313191,2023-04-27,House,"House: Passage Of Bill",103,0,13,8,124
+1753723,1321418,2023-05-09,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1754658,1372285,2024-01-30,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1754953,1420267,2024-04-03,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1755259,1412978,2024-03-21,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1755259,1440380,2024-05-07,House,"House: Passage Of Bill",103,0,18,3,124
+1756490,1368304,2024-01-24,House,"House: Passage Of Bill",111,0,10,2,123
+1756576,1318413,2023-05-03,Senate,"Senate: 3rd Reading",43,0,0,2,45
+1756576,1322793,2023-05-10,House,"House: Waive Rule 5.12 Cut-off Date",82,25,12,5,124
+1756576,1322794,2023-05-10,House,"House: Passage Of Bill",84,26,9,5,124
+1756628,1403983,2024-03-06,House,"House: Passage Of Bill",114,1,5,3,123
+1756628,1434691,2024-04-25,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1757098,1313174,2023-04-27,House,"House: Passage Of Bill",104,0,12,8,124
+1757098,1363970,2024-01-10,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1757202,1311116,2023-04-26,House,"House: Passage Of Bill",114,0,6,4,124
+1757202,1318148,2023-05-03,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1757232,1416533,2024-03-27,House,"House: Passage Of Bill",107,0,11,5,123
+1757232,1430489,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1758760,1412318,2024-03-20,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1758842,1405452,2024-03-07,House,"House: Passage Of Bill",104,0,12,7,123
+1758933,1377999,2024-02-07,House,"House: Passage Of Bill",77,29,10,7,123
+1759229,1377274,2024-02-06,House,"House: Passage Of Bill",116,0,3,4,123
+1759229,1411442,2024-03-19,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1759420,1395794,2024-02-27,House,"House: Passage Of Bill",108,0,12,3,123
+1759420,1441203,2024-05-08,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1759420,1441980,2024-05-09,House,"House: Concur In Senate Amendments",0,104,10,10,124
+1759420,1460251,2024-06-26,House,"House: Adopt Conference Report",88,15,12,9,124
+1759420,1460252,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1759465,1395678,2024-02-27,House,"House: Passage Of Bill",108,1,11,3,123
+1759465,1436532,2024-04-30,Senate,"Senate: 2nd Reading",43,0,0,0,43
+1759533,1395808,2024-02-27,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1760697,1317907,2023-05-03,House,"House: Passage Of Bill",104,0,16,4,124
+1760729,1317886,2023-05-03,Senate,"Senate: To Lay On The Table Amendment Number 1",3,1,0,0,4
+1760729,1322807,2023-05-10,House,"House: Waive Rule 5.10 Printing",85,27,8,4,124
+1760729,1322808,2023-05-10,House,"House: Table Amendment 1 Amendment Number 1",78,28,14,4,124
+1760729,1322809,2023-05-10,House,"House: Table Amendment 3 Amendment Number 3",76,26,16,6,124
+1760729,1322810,2023-05-10,House,"House: Passage Of Bill",80,23,16,5,124
+1760802,1317882,2023-05-03,House,"House: Passage Of Bill",27,65,28,4,124
+1760802,1317883,2023-05-03,House,"House: Passage Of Bill",86,18,16,4,124
+1760802,1318779,2023-05-04,House,"House: Passage Of Bill",76,10,35,3,124
+1760802,1341378,2023-06-07,House,"House: Override Veto By The Governor",41,50,25,8,124
+1761334,1373874,2024-02-01,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1761351,1404008,2024-03-06,House,"House: Passage Of Bill",116,0,4,3,123
+1761351,1404959,2024-03-07,House,"House: Passage Of Bill",109,0,7,7,123
+1761351,1440350,2024-05-07,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1761379,1398186,2024-02-28,Senate,"Senate: 2nd Reading",37,5,0,1,43
+1761456,1371611,2024-01-30,House,"House: Passage Of Bill",104,0,14,5,123
+1763477,1364012,2024-01-10,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1763477,1373225,2024-01-31,House,"House: Passage Of Bill",108,0,11,4,123
+1763532,1373398,2024-01-31,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1764991,1327222,2023-05-17,House,"House: Passage Of Bill",115,0,3,6,124
+1784346,1399802,2024-02-29,House,"House: Waive Rule 5.15 Printing",86,20,11,6,123
+1784346,1402959,2024-03-05,House,"House: Passage Of Bill",103,0,17,3,123
+1784346,1419976,2024-04-03,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1784346,1430452,2024-04-18,House,"House: Adopt Amendment 2a Amendment Number 2a",94,1,23,6,124
+1784348,1423114,2024-04-09,House,"House: Table Amendment 5 Amendment Number 5",60,36,23,5,124
+1784348,1423115,2024-04-09,House,"House: Passage Of Bill",53,45,21,5,124
+1784352,1415848,2024-03-26,House,"House: Passage Of Bill",105,0,16,2,123
+1784352,1441785,2024-05-09,House,"House: Concur In Senate Amendments",0,103,12,9,124
+1784352,1442111,2024-05-09,Senate,"Senate: 3rd Reading",42,0,0,3,45
+1784353,1412394,2024-03-20,House,"House: Passage Of Bill",109,0,7,7,123
+1784353,1441159,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1784353,1441946,2024-05-09,House,"House: Concur In Senate Amendments",106,0,8,10,124
+1784355,1399209,2024-02-29,House,"House: Passage Of Bill",104,3,11,5,123
+1784357,1415850,2024-03-26,House,"House: Passage Of Bill",115,0,5,3,123
+1784357,1416670,2024-03-27,House,"House: Recede",27,83,9,4,123
+1784357,1416671,2024-03-27,House,"House: Table Motion To Adjourn Debate",77,22,20,4,123
+1784364,1404346,2024-03-06,House,"House: Passage Of Bill",111,0,7,5,123
+1784364,1430498,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1784374,1415851,2024-03-26,House,"House: Passage Of Bill",115,0,6,2,123
+1784374,1437475,2024-05-01,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1784376,1415734,2024-03-26,House,"House: Passage Of Bill",116,1,4,2,123
+1784388,1366435,2024-01-17,House,"House: Table Amendment 2 Amendment Number 2",81,30,4,8,123
+1784388,1366436,2024-01-17,House,"House: Table Amendment 3 Amendment Number 3",82,29,3,9,123
+1784388,1366437,2024-01-17,House,"House: Table Amendment 4 Amendment Number 4",78,31,5,9,123
+1784388,1366438,2024-01-17,House,"House: Table Amendment 5 Amendment Number 5",83,28,3,9,123
+1784388,1366439,2024-01-17,House,"House: Table Amendment 6 Amendment Number 6",80,29,5,9,123
+1784388,1366440,2024-01-17,House,"House: Table Amendment 7 Amendment Number 7",67,38,9,9,123
+1784388,1366441,2024-01-17,House,"House: Table Motion To Commit To Judiciary",80,26,8,9,123
+1784388,1366442,2024-01-17,House,"House: Table Amendment 9 Amendment Number 9",79,26,9,9,123
+1784388,1366443,2024-01-17,House,"House: Table Amendment 10 Amendment Number 10",84,15,14,10,123
+1784388,1366444,2024-01-17,House,"House: Table Amendment 11 Amendment Number 11",79,23,11,10,123
+1784388,1366445,2024-01-17,House,"House: Table Amendment 12 Amendment Number 12",64,33,16,10,123
+1784388,1366446,2024-01-17,House,"House: Table Amendment 13 Amendment Number 13",72,24,17,10,123
+1784388,1366447,2024-01-17,House,"House: Adopt Amendment 14 Amendment Number 14",83,20,10,10,123
+1784388,1366448,2024-01-17,House,"House: Passage Of Bill",82,23,8,10,123
+1784388,1438330,2024-05-02,Senate,"Senate: To Lay On The Table Amendment Number 6",23,16,0,5,44
+1784388,1438331,2024-05-02,Senate,"Senate: To Lay On The Table Amendment Number 4a",23,17,0,3,43
+1784388,1438332,2024-05-02,Senate,"Senate: Cloture Vote - Rule 15a",21,18,0,3,42
+1784388,1438333,2024-05-02,Senate,"Senate: Rule 15 - Cloture",26,13,0,3,42
+1784388,1438334,2024-05-02,Senate,"Senate: 3rd Reading",28,8,0,3,39
+1784388,1441854,2024-05-09,House,"House: Concur In Senate Amendments",67,26,19,12,124
+1784404,1364094,2024-01-11,House,"House: Passage Of Bill",103,0,13,7,123
+1784404,1441176,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1784404,1442069,2024-05-09,House,"House: Concur In Senate Amendments",104,0,11,9,124
+1784405,1404006,2024-03-06,House,"House: Passage Of Bill",107,0,11,5,123
+1784405,1441166,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1784405,1441936,2024-05-09,House,"House: Concur In Senate Amendments",110,0,5,9,124
+1784430,1416783,2024-03-27,House,"House: Table Motion To Adjourn Debate",89,14,15,5,123
+1784430,1416784,2024-03-27,House,"House: Passage Of Bill",111,0,7,5,123
+1784439,1399800,2024-02-29,House,"House: Passage Of Bill",110,0,8,5,123
+1784441,1423217,2024-04-09,House,"House: Passage Of Bill",107,0,13,4,124
+1785380,1389398,2024-02-20,Senate,"Senate: 2nd Reading",27,17,0,1,45
+1785380,1391051,2024-02-21,Senate,"Senate: 3rd Reading",44,0,0,1,45
+1785380,1440305,2024-05-07,House,"House: Passage Of Bill",108,0,10,6,124
+1785380,1441201,2024-05-08,Senate,"Senate: To Adopt Amendment",45,0,0,1,46
+1785380,1442073,2024-05-09,House,"House: Concur In Senate Amendments",0,102,11,11,124
+1785380,1460813,2024-06-26,Senate,"Senate: To Adopt The Conference Report",41,0,0,3,44
+1785380,1460814,2024-06-26,House,"House: Adopt Conference Report",109,0,6,9,124
+1785408,1419853,2024-04-03,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1785451,1419790,2024-04-03,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1785488,1396716,2024-02-27,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1785488,1434947,2024-04-25,House,"House: Passage Of Bill",94,0,20,10,124
+1785510,1419996,2024-04-03,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1785533,1420229,2024-04-03,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1785572,1410961,2024-03-19,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1785609,1399798,2024-02-29,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1785655,1366160,2024-01-17,Senate,"Senate: 2nd Reading",45,0,0,0,45
+1785677,1420232,2024-04-03,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1785681,1420597,2024-04-04,Senate,"Senate: 2nd Reading",40,0,0,6,46
+1785681,1440288,2024-05-07,House,"House: Passage Of Bill",106,1,14,3,124
+1785681,1442025,2024-05-09,Senate,"Senate: To Concur",44,0,0,2,46
+1785691,1420931,2024-04-04,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1785695,1399796,2024-02-29,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1785709,1397592,2024-02-28,Senate,"Senate: 2nd Reading",42,0,0,1,43
+1785709,1441476,2024-05-08,House,"House: Passage Of Bill",104,0,10,10,124
+1792121,1378564,2024-02-07,House,"House: Adopt Amendment 2 Amendment Number 2",86,30,2,5,123
+1792121,1378565,2024-02-07,House,"House: Table Amendment 3 Amendment Number 3",84,32,2,5,123
+1792121,1378566,2024-02-07,House,"House: Table Amendment 4 Amendment Number 4",79,30,9,5,123
+1792121,1378567,2024-02-07,House,"House: Table Amendment 6 Amendment Number 6",80,31,7,5,123
+1792121,1378568,2024-02-07,House,"House: Passage Of Bill",113,1,4,5,123
+1792131,1417043,2024-03-28,House,"House: Passage Of Bill",111,0,7,5,123
+1792131,1434750,2024-04-25,Senate,"Senate: 2nd Reading",38,0,0,6,44
+1792167,1417020,2024-03-28,House,"House: Passage Of Bill",107,0,11,5,123
+1792182,1416998,2024-03-28,House,"House: Passage Of Bill",108,0,9,6,123
+1792185,1369121,2024-01-25,House,"House: Waive Rule 5.15 Printing",109,1,7,6,123
+1792185,1372800,2024-01-31,House,"House: Passage Of Bill",105,1,13,4,123
+1792185,1373760,2024-02-01,House,"House: Passage Of Bill",113,1,4,5,123
+1792193,1371842,2024-01-30,House,"House: Passage Of Bill",112,0,6,5,123
+1792193,1440275,2024-05-07,Senate,"Senate: 3rd Reading",44,0,0,1,45
+1792193,1441853,2024-05-09,House,"House: Adopt Amendment 1 Amendment Number 1",91,0,22,11,124
+1792209,1404948,2024-03-07,House,"House: Passage Of Bill",108,0,8,7,123
+1792211,1412477,2024-03-20,House,"House: Passage Of Bill",110,0,5,8,123
+1792212,1417071,2024-03-28,House,"House: Passage Of Bill",103,0,13,7,123
+1792214,1412218,2024-03-20,House,"House: Passage Of Bill",103,0,12,8,123
+1792214,1413777,2024-03-21,House,"House: Passage Of Bill",96,0,18,9,123
+1792214,1436905,2024-04-30,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1792217,1417033,2024-03-28,House,"House: Passage Of Bill",101,5,12,5,123
+1792225,1399903,2024-02-29,House,"House: Passage Of Bill",107,1,9,6,123
+1801288,1364015,2024-01-10,House,"House: Passage Of Bill",107,0,12,4,123
+1801288,1411841,2024-03-19,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1801628,1395781,2024-02-27,Senate,"Senate: 3rd Reading",43,0,0,1,44
+1801628,1397426,2024-02-28,House,"House: Passage Of Bill",98,14,9,2,123
+1801628,1399024,2024-02-29,House,"House: Passage Of Joint Resolution",78,24,18,3,123
+1802681,1403355,2024-03-05,House,"House: Passage Of Bill",111,0,9,3,123
+1802681,1441733,2024-05-09,House,"House: Concur In Senate Amendments",107,0,7,10,124
+1802681,1442093,2024-05-09,Senate,"Senate: 3rd Reading",43,0,0,2,45
+1802986,1390158,2024-02-21,Senate,"Senate: To Lay On The Table The Motion To Recommit",27,9,0,4,40
+1802986,1390159,2024-02-21,Senate,"Senate: 3rd Reading",39,3,0,2,44
+1803256,1423696,2024-04-09,House,"House: Passage Of Bill",105,1,15,3,124
+1803929,1388951,2024-02-20,Senate,"Senate: 2nd Reading",42,1,0,3,46
+1803929,1390662,2024-02-21,Senate,"Senate: 3rd Reading",44,1,0,1,46
+1803929,1441115,2024-05-08,House,"House: Table Motion To Adjourn Debate",95,14,9,6,124
+1803929,1441116,2024-05-08,House,"House: Recind Rule 3.9",111,0,4,9,124
+1803929,1441117,2024-05-08,House,"House: Passage Of Bill",98,15,3,8,124
+1808805,1390351,2024-02-21,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1808861,1415939,2024-03-26,House,"House: Passage Of Bill",107,8,6,2,123
+1808861,1441825,2024-05-09,House,"House: Adopt Amendment 1a Amendment Number 1a",110,0,5,9,124
+1808861,1442121,2024-05-09,Senate,"Senate: 3rd Reading",44,0,0,2,46
+1808861,1460903,2024-06-26,House,"House: Adopt Conference Report",74,33,9,8,124
+1808861,1460904,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1809039,1412155,2024-03-20,House,"House: Passage Of Bill",103,0,12,8,123
+1809276,1404648,2024-03-06,House,"House: Passage Of Bill",112,0,8,3,123
+1809276,1435275,2024-04-25,Senate,"Senate: 2nd Reading",38,0,0,5,43
+1809350,1390196,2024-02-21,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1809350,1441223,2024-05-08,House,"House: Passage Of Bill",105,0,8,11,124
+1809509,1404503,2024-03-06,House,"House: Passage Of Bill",87,21,11,4,123
+1809509,1441459,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1809604,1397610,2024-02-28,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1809939,1371907,2024-01-30,House,"House: Passage Of Bill",108,0,10,5,123
+1809957,1371537,2024-01-30,House,"House: Passage Of Bill",113,0,5,5,123
+1809957,1441090,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1809957,1441858,2024-05-09,House,"House: Concur In Senate Amendments",0,108,6,10,124
+1811061,1413739,2024-03-21,Senate,"Senate: 3rd Reading",44,0,0,1,45
+1811109,1419842,2024-04-03,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1811267,1378191,2024-02-07,House,"House: Passage Of Bill",110,0,9,4,123
+1811267,1440128,2024-05-07,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1811267,1441831,2024-05-09,House,"House: Concur In Senate Amendments",101,0,11,12,124
+1811618,1384510,2024-02-14,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1813882,1423448,2024-04-09,House,"House: Passage Of Bill",103,0,18,3,124
+1813882,1440436,2024-05-07,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1813882,1441977,2024-05-09,House,"House: Concur In Senate Amendments",0,102,10,12,124
+1813882,1460246,2024-06-26,House,"House: Adopt Conference Report",111,0,4,9,124
+1813882,1460415,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1814182,1400351,2024-02-29,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1814182,1437357,2024-05-01,House,"House: Adopt Amendment 1 Amendment Number 1",81,32,6,5,124
+1814182,1437358,2024-05-01,House,"House: Passage Of Bill",107,5,7,5,124
+1814182,1440493,2024-05-07,Senate,"Senate: Waive Printing",40,3,0,1,44
+1814182,1441198,2024-05-08,Senate,"Senate: To Adopt Amendment Back To Senate Version",45,0,0,1,46
+1814182,1441991,2024-05-09,House,"House: Concur In Senate Amendments",107,0,8,9,124
+1818266,1404732,2024-03-06,House,"House: Passage Of Bill",95,0,23,5,123
+1818281,1410845,2024-03-19,Senate,"Senate: 2nd Reading",40,0,2,3,45
+1818281,1440096,2024-05-07,House,"House: Passage Of Bill",99,0,22,3,124
+1818281,1460247,2024-06-26,House,"House: Adopt Conference Report",107,0,8,9,124
+1818281,1460417,2024-06-26,Senate,"Senate: To Adopt The Conference Report",42,0,0,3,45
+1818437,1399604,2024-02-29,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1818437,1441122,2024-05-08,House,"House: Passage Of Bill",108,0,6,10,124
+1818487,1378015,2024-02-07,House,"House: Passage Of Bill",104,0,14,5,123
+1818553,1377040,2024-02-06,House,"House: Passage Of Bill",114,0,5,4,123
+1818553,1441180,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1818553,1441989,2024-05-09,House,"House: Concur In Senate Amendments",109,0,6,9,124
+1818553,1442027,2024-05-09,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1818631,1416688,2024-03-27,House,"House: Passage Of Bill",109,0,9,5,123
+1818631,1430218,2024-04-17,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1818631,1434108,2024-04-24,House,"House: Concur In Senate Amendments",109,0,13,2,124
+1818664,1416656,2024-03-27,House,"House: Passage Of Bill",94,7,17,5,123
+1818678,1417344,2024-03-28,House,"House: Passage Of Bill",107,0,11,5,123
+1818678,1441091,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1818678,1441861,2024-05-09,House,"House: Concur In Senate Amendments",110,0,5,9,124
+1818744,1419270,2024-04-02,Senate,"Senate: 2nd Reading",38,0,0,8,46
+1818744,1437913,2024-05-02,House,"House: Passage Of Bill",103,0,13,8,124
+1818825,1396785,2024-02-27,House,"House: Passage Of Bill",110,0,10,3,123
+1818825,1430550,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1819825,1371904,2024-01-30,House,"House: Passage Of Bill",105,0,13,5,123
+1819952,1390369,2024-02-21,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1819952,1441485,2024-05-08,House,"House: Passage Of Bill",108,0,6,10,124
+1820059,1372775,2024-01-31,House,"House: Passage Of Bill",99,0,20,4,123
+1820102,1398858,2024-02-28,Senate,"Senate: To Adopt Amendment Number 1",38,5,0,1,44
+1825588,1368790,2024-01-24,House,"House: Passage Of Bill",111,0,10,2,123
+1825588,1419105,2024-04-02,Senate,"Senate: 2nd Reading",42,0,0,4,46
+1825661,1416687,2024-03-27,House,"House: Passage Of Bill",107,0,11,5,123
+1826819,1417345,2024-03-28,House,"House: Passage Of Bill",103,0,14,6,123
+1826911,1371917,2024-01-30,House,"House: Passage Of Bill",113,0,5,5,123
+1826911,1419103,2024-04-02,Senate,"Senate: 2nd Reading",42,0,0,4,46
+1826923,1397412,2024-02-28,House,"House: Table Amendment 3 Amendment Number 3",90,20,10,3,123
+1826923,1397413,2024-02-28,House,"House: Table Amendment 6 Amendment Number 6",88,21,11,3,123
+1826923,1397917,2024-02-28,House,"House: Table Amendment 9 Amendment Number 9",89,19,11,4,123
+1826923,1397918,2024-02-28,House,"House: Table Amendment 5 Amendment Number 5",97,18,4,4,123
+1826923,1397919,2024-02-28,House,"House: Passage Of Bill",100,17,2,4,123
+1826923,1399006,2024-02-29,House,"House: Passage Of Bill",91,18,10,4,123
+1827019,1376985,2024-02-06,House,"House: Passage Of Bill",114,0,5,4,123
+1827019,1420271,2024-04-03,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1827019,1424486,2024-04-10,House,"House: Concur In Senate Amendments",113,0,7,4,124
+1827033,1404662,2024-03-06,House,"House: Passage Of Bill",108,0,11,4,123
+1827033,1405776,2024-03-07,House,"House: Passage Of Bill",99,0,17,7,123
+1827995,1418892,2024-04-02,Senate,"Senate: 3rd Reading",39,0,0,7,46
+1828103,1440183,2024-05-07,House,"House: Continue",7,100,12,5,124
+1828103,1440184,2024-05-07,House,"House: Adopt Amendment 1 Amendment Number 1",98,12,9,5,124
+1828103,1440185,2024-05-07,House,"House: Adopt Amendment 2 Amendment Number 2",108,0,10,6,124
+1828103,1440186,2024-05-07,House,"House: Adopt Amendment 3 Amendment Number 3",101,2,15,6,124
+1828103,1440187,2024-05-07,House,"House: Adopt House Resolution",86,28,4,6,124
+1828174,1417348,2024-03-28,House,"House: Passage Of Bill",106,1,10,6,123
+1828174,1437041,2024-04-30,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1828288,1379216,2024-02-08,House,"House: Waive Rule 5.15 Printing",93,0,22,8,123
+1828288,1384632,2024-02-14,House,"House: Passage Of Bill",113,0,4,6,123
+1828288,1440270,2024-05-07,Senate,"Senate: To Adopt The Motion To Reconsider Amendment No. 2 Amendment Number 2",35,10,0,1,46
+1828288,1440271,2024-05-07,Senate,"Senate: To Lay On The Table Amendment Number 2",30,12,0,1,43
+1828288,1441416,2024-05-08,Senate,"Senate: 3rd Reading",26,16,0,2,44
+1828288,1442070,2024-05-09,House,"House: Concur In Senate Amendments",98,0,14,12,124
+1828324,1399923,2024-02-29,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1828378,1415672,2024-03-26,Senate,"Senate: 3rd Reading",42,0,0,2,44
+1831899,1390638,2024-02-21,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1831899,1440432,2024-05-07,House,"House: Passage Of Bill",109,0,12,3,124
+1833610,1396055,2024-02-27,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1833610,1437971,2024-05-02,House,"House: Passage Of Bill",92,3,19,10,124
+1833610,1441452,2024-05-08,Senate,"Senate: To Adopt Amendment Back To Senate Version",45,0,0,1,46
+1833610,1442088,2024-05-09,House,"House: Concur In Senate Amendments",100,2,13,9,124
+1834654,1412110,2024-03-20,Senate,"Senate: 2nd Reading",46,0,0,0,46
+1834654,1440490,2024-05-07,House,"House: Passage Of Bill",110,0,8,6,124
+1834699,1377489,2024-02-06,House,"House: Passage Of Bill",114,0,5,4,123
+1834705,1415898,2024-03-26,House,"House: Passage Of Bill",120,0,1,2,123
+1834705,1430568,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1834705,1441975,2024-05-09,House,"House: Concur In Senate Amendments",85,0,27,12,124
+1834728,1399933,2024-02-29,House,"House: Passage Of Bill",107,0,11,5,123
+1834728,1430484,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1834761,1417079,2024-03-28,House,"House: Passage Of Bill",111,0,7,5,123
+1834775,1376966,2024-02-06,House,"House: Passage Of Bill",115,0,4,4,123
+1834775,1440199,2024-05-07,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1834796,1416968,2024-03-28,House,"House: Passage Of Bill",102,0,15,6,123
+1834847,1415573,2024-03-26,House,"House: Passage Of Bill",119,0,2,2,123
+1838476,1423944,2024-04-09,House,"House: Passage Of Bill",105,0,16,3,124
+1838607,1413143,2024-03-21,House,"House: Passage Of Bill",99,0,15,9,123
+1838607,1441195,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1838607,1441983,2024-05-09,House,"House: Concur In Senate Amendments",109,0,5,10,124
+1838796,1411712,2024-03-19,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1838796,1411713,2024-03-19,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1838796,1441214,2024-05-08,House,"House: Table Motion To Recur To The Morning Hour",93,12,8,11,124
+1838796,1441215,2024-05-08,House,"House: Passage Of Bill",98,8,7,11,124
+1838796,1442074,2024-05-09,Senate,"Senate: To Adopt Amendment Number Rfh-1",44,0,0,2,46
+1838796,1442075,2024-05-09,House,"House: Concur In Senate Amendments",104,0,11,9,124
+1839920,1412937,2024-03-21,Senate,"Senate: 2nd Reading",44,0,0,1,45
+1839920,1437290,2024-05-01,House,"House: Adopt Amendment 1 Amendment Number 1",84,27,8,5,124
+1839920,1437291,2024-05-01,House,"House: Passage Of Bill",71,37,11,5,124
+1839920,1441136,2024-05-08,Senate,"Senate: To Adopt Amendment",45,0,0,1,46
+1839920,1441875,2024-05-09,House,"House: Concur In Senate Amendments",0,101,13,10,124
+1839920,1460277,2024-06-26,Senate,"Senate: To Adopt The Conference Report",41,0,0,3,44
+1839920,1460278,2024-06-26,House,"House: Adopt Conference Report",92,16,7,9,124
+1840786,1417116,2024-03-28,House,"House: Passage Of Bill",106,2,8,7,123
+1845603,1384253,2024-02-14,House,"House: Passage Of Bill",110,0,7,6,123
+1846695,1415736,2024-03-26,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1846695,1441229,2024-05-08,House,"House: Passage Of Bill",104,0,10,10,124
+1846695,1441851,2024-05-09,House,"House: Passage Of Bill",107,0,9,8,124
+1846704,1411215,2024-03-19,Senate,"Senate: 2nd Reading",43,0,0,3,46
+1846704,1428002,2024-04-16,House,"House: Passage Of Bill",97,0,21,6,124
+1846745,1398744,2024-02-28,Senate,"Senate: To Set For Special Order",31,11,0,1,43
+1846745,1409488,2024-03-14,Senate,"Senate: 2nd Reading",41,0,0,5,46
+1846745,1411292,2024-03-19,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1846745,1440021,2024-05-07,House,"House: Table Amendment 3 Amendment Number 3",92,22,6,4,124
+1846745,1440022,2024-05-07,House,"House: Passage Of Bill",112,6,2,4,124
+1846745,1441417,2024-05-08,Senate,"Senate: To Adopt Amendment #2",45,0,0,1,46
+1846745,1441795,2024-05-09,House,"House: Concur In Senate Amendments",0,104,9,11,124
+1846745,1460332,2024-06-26,Senate,"Senate: To Adopt The Conference Report",38,0,0,5,43
+1846745,1460333,2024-06-26,House,"House: Adopt Conference Report",97,0,15,12,124
+1847678,1396346,2024-02-27,Senate,"Senate: 2nd Reading",42,0,0,1,43
+1847791,1416626,2024-03-27,House,"House: Adopt Amendment 1 Amendment Number 1",93,16,10,4,123
+1847791,1416627,2024-03-27,House,"House: Table Amendment 6 Amendment Number 6sub",76,28,17,2,123
+1847791,1416628,2024-03-27,House,"House: Table Amendment 8 Amendment Number 8",76,30,15,2,123
+1847791,1416629,2024-03-27,House,"House: Table Amendment 10 Amendment Number 10",78,27,16,2,123
+1847791,1416630,2024-03-27,House,"House: Table Amendment 11 Amendment Number 11",84,26,11,2,123
+1847791,1416631,2024-03-27,House,"House: Table Amendment 12 Amendment Number 12",83,28,10,2,123
+1847791,1416632,2024-03-27,House,"House: Table Amendment 13 Amendment Number 13",79,33,9,2,123
+1847791,1416633,2024-03-27,House,"House: Table Amendment 14 Amendment Number 14",81,28,12,2,123
+1847791,1416634,2024-03-27,House,"House: Table Amendment 15 Amendment Number 15",56,54,11,2,123
+1847791,1416635,2024-03-27,House,"House: Table Amendment 17 Amendment Number 17",69,32,20,2,123
+1847791,1416636,2024-03-27,House,"House: Table Amendment 18 Amendment Number 18",82,26,13,2,123
+1847791,1416637,2024-03-27,House,"House: Table Amendment 19 Amendment Number 19",82,30,9,2,123
+1847791,1416638,2024-03-27,House,"House: Passage Of Bill",88,21,13,1,123
+1847791,1417114,2024-03-28,House,"House: Passage Of Bill",83,21,14,5,123
+1847791,1441431,2024-05-08,Senate,"Senate: 3rd Reading",40,2,0,2,44
+1847791,1441814,2024-05-09,House,"House: Concur In Senate Amendments",23,76,13,12,124
+1847798,1416571,2024-03-27,House,"House: Passage Of Bill",108,0,10,5,123
+1847822,1404686,2024-03-06,House,"House: Passage Of Bill",105,0,13,5,123
+1851733,1415199,2024-03-26,Senate,"Senate: 3rd Reading",42,0,0,2,44
+1851755,1430506,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1852568,1421148,2024-04-04,Senate,"Senate: 3rd Reading",43,0,0,3,46
+1855077,1399070,2024-02-29,House,"House: Passage Of Bill",99,0,19,5,123
+1855091,1416957,2024-03-28,House,"House: Passage Of Bill",100,3,14,6,123
+1855091,1441188,2024-05-08,Senate,"Senate: 2nd Reading",43,1,0,2,46
+1855112,1404013,2024-03-06,House,"House: Passage Of Joint Resolution",61,39,18,5,123
+1855238,1423957,2024-04-09,House,"House: Passage Of Bill",109,0,12,3,124
+1855247,1415746,2024-03-26,Senate,"Senate: 2nd Reading",42,0,0,3,45
+1855247,1440386,2024-05-07,House,"House: Passage Of Bill",112,0,9,3,124
+1855779,1399688,2024-02-29,House,"House: Passage Of Bill",103,0,14,6,123
+1855854,1412177,2024-03-20,House,"House: Table Amendment 1 Amendment Number 1",27,75,14,7,123
+1855854,1412178,2024-03-20,House,"House: Table Amendment 2sub Amendment Number 2sub",76,28,13,6,123
+1855854,1412179,2024-03-20,House,"House: Table Amendment 3sub Amendment Number 3sub",75,28,14,6,123
+1855854,1412180,2024-03-20,House,"House: Table Amendment 4 Amendment Number 4",76,32,9,6,123
+1855854,1412181,2024-03-20,House,"House: Table Amendment 5 Amendment Number 5",75,32,10,6,123
+1855854,1412182,2024-03-20,House,"House: Table Amendment 6 Amendment Number 6",75,32,10,6,123
+1855854,1412183,2024-03-20,House,"House: Table Amendment 7 Amendment Number 7",74,28,15,6,123
+1855854,1412184,2024-03-20,House,"House: Table Amendment 8 Amendment Number 8",70,31,16,6,123
+1855854,1412185,2024-03-20,House,"House: Table Amendment 9 Amendment Number 9",75,29,12,7,123
+1855854,1412186,2024-03-20,House,"House: Table Amendment 10 Amendment Number 10",74,28,14,7,123
+1855854,1412187,2024-03-20,House,"House: Table Amendment 11 Amendment Number 11",73,29,13,8,123
+1855854,1412188,2024-03-20,House,"House: Table Amendment 12 Amendment Number 12",74,29,13,7,123
+1855854,1412189,2024-03-20,House,"House: Table Amendment 16 Amendment Number 16",75,27,13,8,123
+1855854,1412190,2024-03-20,House,"House: Passage Of Bill",69,32,13,9,123
+1855854,1413108,2024-03-21,House,"House: Passage Of Bill",69,27,17,10,123
+1855955,1416940,2024-03-28,House,"House: Passage Of Bill",110,0,7,6,123
+1856064,1418915,2024-04-02,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1856511,1423551,2024-04-09,House,"House: Passage Of Joint Resolution",109,0,11,4,124
+1856672,1416993,2024-03-28,House,"House: Passage Of Bill",107,0,11,5,123
+1856672,1441418,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1857075,1420256,2024-04-03,Senate,"Senate: 2nd Reading",40,3,0,2,45
+1857075,1437226,2024-05-01,House,"House: Passage Of Joint Resolution",108,0,12,4,124
+1857075,1438531,2024-05-02,House,"House: Passage Of Joint Resolution",105,0,13,6,124
+1859678,1407220,2024-03-11,House,"House: Adopt Section 1, Part 1a",100,0,16,7,123
+1859678,1407221,2024-03-11,House,"House: Adopt Section 3, Part 1a",104,0,12,7,123
+1859678,1407222,2024-03-11,House,"House: Adopt Section 4, Part 1a",106,0,10,7,123
+1859678,1407223,2024-03-11,House,"House: Adopt Section 5, Part 1a",106,0,10,7,123
+1859678,1407224,2024-03-11,House,"House: Adopt Section 6, Part 1a",106,0,10,7,123
+1859678,1407225,2024-03-11,House,"House: Adopt Section 7, Part 1a",101,0,15,7,123
+1859678,1407226,2024-03-11,House,"House: Adopt Section 8, Part 1a",102,0,14,7,123
+1859678,1407227,2024-03-11,House,"House: Adopt Section 9, Part 1a",107,0,9,7,123
+1859678,1407228,2024-03-11,House,"House: Adopt Section 10, Part 1a",107,0,9,7,123
+1859678,1407229,2024-03-11,House,"House: Adopt Section 11, Part 1a",107,0,9,7,123
+1859678,1407230,2024-03-11,House,"House: Adopt Section 12, Part 1a",105,0,11,7,123
+1859678,1407231,2024-03-11,House,"House: Adopt Section 13, Part 1a",107,0,9,7,123
+1859678,1407232,2024-03-11,House,"House: Adopt Section 19, Part 1a",108,0,8,7,123
+1859678,1407233,2024-03-11,House,"House: Adopt Section 20b, Part 1a",109,0,7,7,123
+1859678,1407234,2024-03-11,House,"House: Adopt Section 20e, Part 1a",105,0,11,7,123
+1859678,1407235,2024-03-11,House,"House: Adopt Section 20f, Part 1a",110,0,6,7,123
+1859678,1407236,2024-03-11,House,"House: Adopt Section 20h, Part 1a",108,0,8,7,123
+1859678,1407237,2024-03-11,House,"House: Adopt Section 20g, Part 1a",110,0,6,7,123
+1859678,1407238,2024-03-11,House,"House: Adopt Section 24, Part 1a",108,0,9,6,123
+1859678,1407239,2024-03-11,House,"House: Adopt Section 25, Part 1a",110,0,7,6,123
+1859678,1407240,2024-03-11,House,"House: Adopt Section 26, Part 1a",111,0,6,6,123
+1859678,1407241,2024-03-11,House,"House: Adopt Section 29, Part 1a",111,0,6,6,123
+1859678,1407242,2024-03-11,House,"House: Adopt Section 30, Part 1a",112,0,5,6,123
+1859678,1407243,2024-03-11,House,"House: Adopt Section 32, Part 1a",110,0,7,6,123
+1859678,1407244,2024-03-11,House,"House: Adopt Section 33, Part 1a",79,5,34,5,123
+1859678,1407245,2024-03-11,House,"House: Adopt Section 39, Part 1a",108,0,9,6,123
+1859678,1407246,2024-03-11,House,"House: Adopt Section 38, Part 1a",85,0,33,5,123
+1859678,1407247,2024-03-11,House,"House: Adopt Section 40, Part 1a",110,0,7,6,123
+1859678,1407248,2024-03-11,House,"House: Adopt Section 41, Part 1a",112,0,5,6,123
+1859678,1407249,2024-03-11,House,"House: Adopt Section 42, Part 1a",91,14,13,5,123
+1859678,1407250,2024-03-11,House,"House: Adopt Section 43, Part 1a",112,0,5,6,123
+1859678,1407251,2024-03-11,House,"House: Adopt Section 45, Part 1a",110,0,7,6,123
+1859678,1407252,2024-03-11,House,"House: Adopt Section 44, Part 1a",108,0,9,6,123
+1859678,1407253,2024-03-11,House,"House: Adopt Section 46, Part 1a",110,0,7,6,123
+1859678,1407254,2024-03-11,House,"House: Adopt Section 47, Part 1a",107,0,10,6,123
+1859678,1407255,2024-03-11,House,"House: Adopt Section 48, Part 1a",100,7,10,6,123
+1859678,1407256,2024-03-11,House,"House: Adopt Section 49, Part 1a",98,12,7,6,123
+1859678,1407257,2024-03-11,House,"House: Adopt Section 50, Part 1a",96,12,9,6,123
+1859678,1407258,2024-03-11,House,"House: Adopt Section 51, Part 1a",99,11,7,6,123
+1859678,1407259,2024-03-11,House,"House: Adopt Section 53, Part 1a",102,9,6,6,123
+1859678,1407260,2024-03-11,House,"House: Adopt Section 52, Part 1a",114,0,3,6,123
+1859678,1407261,2024-03-11,House,"House: Adopt Section 54, Part 1a",112,0,5,6,123
+1859678,1407262,2024-03-11,House,"House: Adopt Section 55, Part 1a",78,7,33,5,123
+1859678,1407263,2024-03-11,House,"House: Adopt Section 57, Part 1a",107,0,10,6,123
+1859678,1407264,2024-03-11,House,"House: Adopt Section 58, Part 1a",112,0,5,6,123
+1859678,1407265,2024-03-11,House,"House: Adopt Section 59, Part 1a",104,1,13,5,123
+1859678,1407266,2024-03-11,House,"House: Adopt Section 60, Part 1a",112,0,5,6,123
+1859678,1407267,2024-03-11,House,"House: Adopt Section 61, Part 1a",96,0,22,5,123
+1859678,1407268,2024-03-11,House,"House: Adopt Section 62, Part 1a",109,0,8,6,123
+1859678,1407269,2024-03-11,House,"House: Adopt Section 63, Part 1a",111,0,6,6,123
+1859678,1407270,2024-03-11,House,"House: Adopt Section 64, Part 1a",111,0,6,6,123
+1859678,1407271,2024-03-11,House,"House: Adopt Section 65, Part 1a",97,0,21,5,123
+1859678,1407272,2024-03-11,House,"House: Adopt Section 66, Part 1a",84,0,34,5,123
+1859678,1407273,2024-03-11,House,"House: Adopt Section 67, Part 1a",94,0,24,5,123
+1859678,1407274,2024-03-11,House,"House: Adopt Section 71, Part 1a",112,0,5,6,123
+1859678,1407275,2024-03-11,House,"House: Adopt Section 72, Part 1a",112,0,5,6,123
+1859678,1407276,2024-03-11,House,"House: Adopt Section 73, Part 1a",111,0,6,6,123
+1859678,1407277,2024-03-11,House,"House: Adopt Section 74, Part 1a",84,0,34,5,123
+1859678,1407278,2024-03-11,House,"House: Adopt Section 75, Part 1a",84,0,34,5,123
+1859678,1407279,2024-03-11,House,"House: Adopt Section 78, Part 1a",85,0,33,5,123
+1859678,1407280,2024-03-11,House,"House: Adopt Section 79, Part 1a",111,0,6,6,123
+1859678,1407281,2024-03-11,House,"House: Adopt Section 81, Part 1a",83,0,35,5,123
+1859678,1407282,2024-03-11,House,"House: Adopt Section 82, Part 1a",108,1,8,6,123
+1859678,1407283,2024-03-11,House,"House: Adopt Section 83, Part 1a",88,0,30,5,123
+1859678,1407284,2024-03-11,House,"House: Adopt Section 84, Part 1a",84,0,34,5,123
+1859678,1407285,2024-03-11,House,"House: Adopt Section 85, Part 1a",102,4,11,6,123
+1859678,1407286,2024-03-11,House,"House: Adopt Section 86, Part 1a",98,0,20,5,123
+1859678,1407287,2024-03-11,House,"House: Adopt Section 87, Part 1a",110,2,5,6,123
+1859678,1407288,2024-03-11,House,"House: Adopt Section 91b, Part 1a",102,0,15,6,123
+1859678,1407289,2024-03-11,House,"House: Adopt Section 91a, Part 1a",110,1,6,6,123
+1859678,1407290,2024-03-11,House,"House: Adopt Section 91c, Part 1a",110,0,8,5,123
+1859678,1407291,2024-03-11,House,"House: Adopt Section 91d, Part 1a",116,0,2,5,123
+1859678,1407292,2024-03-11,House,"House: Adopt Section 91e, Part 1a",111,0,7,5,123
+1859678,1407293,2024-03-11,House,"House: Adopt Section 92a, Part 1a",114,0,4,5,123
+1859678,1407294,2024-03-11,House,"House: Adopt Section 92c, Part 1a",114,0,4,5,123
+1859678,1407295,2024-03-11,House,"House: Adopt Section 96, Part 1a",115,0,3,5,123
+1859678,1407296,2024-03-11,House,"House: Adopt Section 94, Part 1a",113,0,5,5,123
+1859678,1407297,2024-03-11,House,"House: Adopt Section 97, Part 1a",103,10,5,5,123
+1859678,1407298,2024-03-11,House,"House: Adopt Section 98, Part 1a",115,0,3,5,123
+1859678,1407300,2024-03-11,House,"House: Adopt Section 99, Part 1a",111,0,6,6,123
+1859678,1407301,2024-03-11,House,"House: Adopt Section 100, Part 1a",110,0,8,5,123
+1859678,1407302,2024-03-11,House,"House: Adopt Section 101, Part 1a",115,0,3,5,123
+1859678,1407303,2024-03-11,House,"House: Adopt Section 102, Part 1a",90,0,29,4,123
+1859678,1407304,2024-03-11,House,"House: Adopt Section 103, Part 1a",105,0,13,5,123
+1859678,1407305,2024-03-11,House,"House: Adopt Section 104, Part 1a",87,0,32,4,123
+1859678,1407306,2024-03-11,House,"House: Adopt Section 105, Part 1a",114,0,4,5,123
+1859678,1407307,2024-03-11,House,"House: Adopt Section 106, Part 1a",110,0,8,5,123
+1859678,1407308,2024-03-11,House,"House: Adopt Section 107, Part 1a",112,0,6,5,123
+1859678,1407309,2024-03-11,House,"House: Adopt Section 108, Part 1a",108,0,10,5,123
+1859678,1407310,2024-03-11,House,"House: Adopt Section 110, Part 1a",99,0,19,5,123
+1859678,1407311,2024-03-11,House,"House: Adopt Section 109, Part 1a",85,0,34,4,123
+1859678,1407312,2024-03-11,House,"House: Adopt Section 111, Part 1a",105,0,13,5,123
+1859678,1407313,2024-03-11,House,"House: Adopt Section 112, Part 1a",110,0,8,5,123
+1859678,1407314,2024-03-11,House,"House: Adopt Section 1a, Part 1b",109,0,9,5,123
+1859678,1407315,2024-03-11,House,"House: Adopt Section 5, Part 1b",111,0,7,5,123
+1859678,1407316,2024-03-11,House,"House: Adopt Section 6, Part 1b",108,0,10,5,123
+1859678,1407317,2024-03-11,House,"House: Adopt Section 7, Part 1b",113,0,5,5,123
+1859678,1407318,2024-03-11,House,"House: Adopt Section 8, Part 1b",102,13,3,5,123
+1859678,1407319,2024-03-11,House,"House: Adopt Section 9, Part 1b",112,0,6,5,123
+1859678,1407320,2024-03-11,House,"House: Adopt Section 10, Part 1b",112,0,5,6,123
+1859678,1407321,2024-03-11,House,"House: Adopt Section 14, Part 1b",109,0,9,5,123
+1859678,1407322,2024-03-11,House,"House: Adopt Section 15, Part 1b",108,5,5,5,123
+1859678,1407323,2024-03-11,House,"House: Adopt Section 19, Part 1b",111,0,7,5,123
+1859678,1407324,2024-03-11,House,"House: Adopt Section 20, Part 1b",112,1,5,5,123
+1859678,1407325,2024-03-11,House,"House: Adopt Section 23, Part 1b",106,0,12,5,123
+1859678,1407326,2024-03-11,House,"House: Adopt Section 25, Part 1b",111,0,7,5,123
+1859678,1407327,2024-03-11,House,"House: Adopt Section 26, Part 1b",108,0,10,5,123
+1859678,1407328,2024-03-11,House,"House: Adopt Section 27, Part 1b",96,16,6,5,123
+1859678,1407329,2024-03-11,House,"House: Adopt Section 28, Part 1b",96,15,7,5,123
+1859678,1407330,2024-03-11,House,"House: Adopt Section 29, Part 1b",109,0,9,5,123
+1859678,1407331,2024-03-11,House,"House: Adopt Section 30, Part 1b",114,0,4,5,123
+1859678,1407332,2024-03-11,House,"House: Adopt Section 32, Part 1b",109,0,9,5,123
+1859678,1407333,2024-03-11,House,"House: Adopt Section 33, Part 1b",70,12,37,4,123
+1859678,1407334,2024-03-11,House,"House: Adopt Section 34, Part 1b",108,1,9,5,123
+1859678,1407335,2024-03-11,House,"House: Adopt Section 35, Part 1b",104,2,12,5,123
+1859678,1407336,2024-03-11,House,"House: Adopt Section 40, Part 1b",112,0,6,5,123
+1859678,1407337,2024-03-11,House,"House: Adopt Section 39, Part 1b",114,0,4,5,123
+1859678,1407338,2024-03-11,House,"House: Adopt Section 41, Part 1b",113,0,5,5,123
+1859678,1407339,2024-03-11,House,"House: Adopt Section 42, Part 1b",107,1,11,4,123
+1859678,1407340,2024-03-11,House,"House: Adopt Section 44, Part 1b",104,0,14,5,123
+1859678,1407341,2024-03-11,House,"House: Adopt Section 43, Part 1b",109,0,9,5,123
+1859678,1407342,2024-03-11,House,"House: Adopt Section 45, Part 1b",108,0,10,5,123
+1859678,1407343,2024-03-11,House,"House: Adopt Section 47, Part 1b",111,0,7,5,123
+1859678,1407344,2024-03-11,House,"House: Adopt Section 48, Part 1b",110,0,8,5,123
+1859678,1407345,2024-03-11,House,"House: Adopt Section 49, Part 1b",97,12,9,5,123
+1859678,1407346,2024-03-11,House,"House: Adopt Section 53, Part 1b",109,0,9,5,123
+1859678,1407347,2024-03-11,House,"House: Adopt Section 52, Part 1b",110,0,8,5,123
+1859678,1407348,2024-03-11,House,"House: Adopt Section 54, Part 1b",108,0,10,5,123
+1859678,1407349,2024-03-11,House,"House: Adopt Section 57, Part 1b",111,0,7,5,123
+1859678,1407350,2024-03-11,House,"House: Adopt Section 55, Part 1b",86,0,33,4,123
+1859678,1407351,2024-03-11,House,"House: Adopt Section 59, Part 1b",100,0,19,4,123
+1859678,1407352,2024-03-11,House,"House: Adopt Section 58, Part 1b",111,0,7,5,123
+1859678,1407353,2024-03-11,House,"House: Adopt Section 60, Part 1b",109,0,9,5,123
+1859678,1407354,2024-03-11,House,"House: Adopt Section 61, Part 1b",100,0,19,4,123
+1859678,1407355,2024-03-11,House,"House: Adopt Section 62, Part 1b",106,0,12,5,123
+1859678,1407356,2024-03-11,House,"House: Adopt Section 63, Part 1b",110,0,8,5,123
+1859678,1407357,2024-03-11,House,"House: Adopt Section 64, Part 1b",114,0,4,5,123
+1859678,1407358,2024-03-11,House,"House: Adopt Section 66, Part 1b",85,0,34,4,123
+1859678,1407359,2024-03-11,House,"House: Adopt Section 67, Part 1b",97,0,22,4,123
+1859678,1407360,2024-03-11,House,"House: Adopt Section 70, Part 1b",91,0,28,4,123
+1859678,1407361,2024-03-11,House,"House: Adopt Section 71, Part 1b",110,0,7,6,123
+1859678,1407362,2024-03-11,House,"House: Adopt Section 72, Part 1b",110,0,8,5,123
+1859678,1407363,2024-03-11,House,"House: Adopt Section 73, Part 1b",110,0,8,5,123
+1859678,1407364,2024-03-11,House,"House: Adopt Section 74, Part 1b",85,0,34,4,123
+1859678,1407365,2024-03-11,House,"House: Adopt Section 75, Part 1b",85,0,34,4,123
+1859678,1407366,2024-03-11,House,"House: Adopt Section 78, Part 1b",88,0,31,4,123
+1859678,1407367,2024-03-11,House,"House: Adopt Section 79, Part 1b",105,0,13,5,123
+1859678,1407368,2024-03-11,House,"House: Adopt Section 80, Part 1b",86,0,32,5,123
+1859678,1407369,2024-03-11,House,"House: Adopt Section 81, Part 1b",81,0,38,4,123
+1859678,1407370,2024-03-11,House,"House: Adopt Section 82, Part 1b",106,1,11,5,123
+1859678,1407371,2024-03-11,House,"House: Adopt Section 83, Part 1b",90,0,29,4,123
+1859678,1407372,2024-03-11,House,"House: Adopt Section 85, Part 1b",109,0,9,5,123
+1859678,1407373,2024-03-11,House,"House: Adopt Section 86, Part 1b",98,0,21,4,123
+1859678,1407374,2024-03-11,House,"House: Adopt Section 88, Part 1b",107,2,9,5,123
+1859678,1407375,2024-03-11,House,"House: Adopt Section 92, Part 1b",112,0,6,5,123
+1859678,1407376,2024-03-11,House,"House: Adopt Section 94, Part 1b",110,0,8,5,123
+1859678,1407377,2024-03-11,House,"House: Adopt Section 97, Part 1b",113,0,5,5,123
+1859678,1407378,2024-03-11,House,"House: Adopt Section 96, Part 1b",111,0,7,5,123
+1859678,1407379,2024-03-11,House,"House: Adopt Section 98, Part 1b",111,0,7,5,123
+1859678,1407380,2024-03-11,House,"House: Adopt Section 99, Part 1b",113,0,5,5,123
+1859678,1407381,2024-03-11,House,"House: Adopt Section 100, Part 1b",105,0,13,5,123
+1859678,1407382,2024-03-11,House,"House: Adopt Section 101, Part 1b",111,0,7,5,123
+1859678,1407383,2024-03-11,House,"House: Adopt Section 104, Part 1b",82,0,37,4,123
+1859678,1407384,2024-03-11,House,"House: Adopt Section 103, Part 1b",114,0,4,5,123
+1859678,1407385,2024-03-11,House,"House: Adopt Section 105, Part 1b",113,0,5,5,123
+1859678,1407386,2024-03-11,House,"House: Adopt Section 106, Part 1b",114,0,4,5,123
+1859678,1407387,2024-03-11,House,"House: Adopt Section 109, Part 1b",85,0,34,4,123
+1859678,1407388,2024-03-11,House,"House: Adopt Section 111, Part 1b",101,0,17,5,123
+1859678,1407389,2024-03-11,House,"House: Adopt Section 110, Part 1b",101,0,17,5,123
+1859678,1407390,2024-03-11,House,"House: Adopt Section 112, Part 1b",114,0,4,5,123
+1859678,1407391,2024-03-11,House,"House: Adopt Section 113, Part 1b",95,0,24,4,123
+1859678,1407392,2024-03-11,House,"House: Section 14, Part 1a, Table Amendment 4 Amendment Number 4",97,16,7,3,123
+1859678,1407393,2024-03-11,House,"House: Adopt Section 14, Part 1a",114,0,6,3,123
+1859678,1407394,2024-03-11,House,"House: Section 15, Part 1a, Table Amendment 6 Amendment Number 6",97,18,5,3,123
+1859678,1407395,2024-03-11,House,"House: Adopt Section 15, Part 1a",106,2,12,3,123
+1859678,1407396,2024-03-11,House,"House: Section 15, Part 1a, Table Amendment 7 Amendment Number 7",93,17,10,3,123
+1859678,1407397,2024-03-11,House,"House: Adopt Section 16, Part 1a",111,0,9,3,123
+1859678,1407398,2024-03-11,House,"House: Adopt Section 17, Part 1a",108,0,11,4,123
+1859678,1407399,2024-03-11,House,"House: Section 18, Part 1a, Table Amendment 9 Amendment Number 9",96,17,7,3,123
+1859678,1407400,2024-03-11,House,"House: Adopt Section 18, Part 1a",112,0,7,4,123
+1859678,1407401,2024-03-11,House,"House: Adopt Section 20a, Part 1a",112,0,8,3,123
+1859678,1407402,2024-03-11,House,"House: Adopt Section 20c, Part 1a",111,0,9,3,123
+1859678,1407403,2024-03-11,House,"House: Adopt Section 20d, Part 1a",112,0,8,3,123
+1859678,1407404,2024-03-11,House,"House: Adopt Section 21, Part 1a",115,0,5,3,123
+1859678,1407405,2024-03-11,House,"House: Adopt Section 23, Part 1a",109,0,11,3,123
+1859678,1407630,2024-03-11,House,"House: Adopt Section 113, Part 1a",90,0,29,4,123
+1859678,1407631,2024-03-11,House,"House: Adopt Section 115, Part 1a",109,0,9,5,123
+1859678,1407793,2024-03-12,House,"House: Section 28, Part 1a, Table Amendment 25 Amendment Number 25",90,19,12,2,123
+1859678,1407794,2024-03-12,House,"House: Adopt Section 28, Part 1a",94,17,10,2,123
+1859678,1407795,2024-03-12,House,"House: Section 31, Part 1a, Table Amendment 19 Amendment Number 19",76,19,26,2,123
+1859678,1407796,2024-03-12,House,"House: Adopt Section 31, Part 1a",65,18,39,1,123
+1859678,1407797,2024-03-12,House,"House: Section 35, Part 1a, Table Amendment 20 Amendment Number 20",85,19,17,2,123
+1859678,1407798,2024-03-12,House,"House: Adopt Section 35, Part 1a",94,15,12,2,123
+1859678,1407799,2024-03-12,House,"House: Section 36, Part 1a, Table Amendment 23 Amendment Number 23",91,19,11,2,123
+1859678,1407800,2024-03-12,House,"House: Adopt Section 36, Part 1a",101,11,9,2,123
+1859678,1407801,2024-03-12,House,"House: Section 37, Part 1a, Table Amendment 15 Amendment Number 15",92,19,10,2,123
+1859678,1407802,2024-03-12,House,"House: Adopt Section 37, Part 1a",107,5,9,2,123
+1859678,1407803,2024-03-12,House,"House: Adopt Section 70, Part 1a",78,14,30,1,123
+1859678,1407804,2024-03-12,House,"House: Adopt Section 80, Part 1a",61,27,34,1,123
+1859678,1407805,2024-03-12,House,"House: Section 92d, Part 1a, Table Amendment 28 Amendment Number 28",99,16,6,2,123
+1859678,1407806,2024-03-12,House,"House: Adopt Section 92d, Part 1a",102,8,11,2,123
+1859678,1407807,2024-03-12,House,"House: Adopt Section 93, Part 1a",97,16,8,2,123
+1859678,1407808,2024-03-12,House,"House: Section 1, Part 1b, Table Amendment 8 Sub Amendment Number 8sub",27,75,19,2,123
+1859678,1407809,2024-03-12,House,"House: Adopt Amendment 8 Sub Amendment Number 8sub",83,17,21,2,123
+1859678,1407810,2024-03-12,House,"House: Adopt Section 1, Part 1b",106,0,15,2,123
+1859678,1407811,2024-03-12,House,"House: Adopt Section 11, Part 1b",112,0,9,2,123
+1859678,1407812,2024-03-12,House,"House: Adopt Section 13, Part 1b",116,0,5,2,123
+1859678,1407813,2024-03-12,House,"House: Adopt Section 31, Part 1b",79,5,38,1,123
+1859678,1407814,2024-03-12,House,"House: Section 33, Part 1b, Table Amendment 24 Sub Amendment Number 24sub",72,24,25,2,123
+1859678,1407815,2024-03-12,House,"House: Adopt Section 33, Part 1b",66,20,36,1,123
+1859678,1407816,2024-03-12,House,"House: Adopt Section 36, Part 1b",110,3,8,2,123
+1859678,1407817,2024-03-12,House,"House: Adopt Section 37, Part 1b",105,10,6,2,123
+1859678,1407818,2024-03-12,House,"House: Adopt Section 38, Part 1b",84,0,38,1,123
+1859678,1407819,2024-03-12,House,"House: Adopt Section 50, Part 1b",97,13,11,2,123
+1859678,1407820,2024-03-12,House,"House: Adopt Section 55, Part 1b",81,0,41,1,123
+1859678,1407821,2024-03-12,House,"House: Adopt Section 65, Part 1b",97,0,25,1,123
+1859678,1407823,2024-03-12,House,"House: Adopt Section 84, Part 1b",82,0,40,1,123
+1859678,1407824,2024-03-12,House,"House: Adopt Section 87, Part 1b",105,0,16,2,123
+1859678,1407825,2024-03-12,House,"House: Adopt Section 91, Part 1b",112,0,9,2,123
+1859678,1407826,2024-03-12,House,"House: Adopt Section 92d, Part 1b",109,0,12,2,123
+1859678,1407827,2024-03-12,House,"House: Adopt Section 93, Part 1b",97,11,13,2,123
+1859678,1407828,2024-03-12,House,"House: Adopt Section 102, Part 1b",90,0,32,1,123
+1859678,1407829,2024-03-12,House,"House: Adopt Section 108, Part 1b",102,6,13,2,123
+1859678,1407830,2024-03-12,House,"House: Section 117, Part 1b, Table Amendment 68",77,23,21,2,123
+1859678,1407831,2024-03-12,House,"House: Adopt Section 117, Part 1b",116,0,5,2,123
+1859678,1407832,2024-03-12,House,"House: Section 118, Part 1b, Table Amendment 51 Amendment Number 51",95,19,7,2,123
+1859678,1407833,2024-03-12,House,"House: Section 118, Part 1b, Table Amendment 50 Amendment Number 50",89,24,8,2,123
+1859678,1408311,2024-03-12,House,"House: Section 118, Part 1b, Table Amendment 53 Amendment Number 53",99,18,4,2,123
+1859678,1408312,2024-03-12,House,"House: Adopt Section 118, Part 1b",115,0,6,2,123
+1859678,1408313,2024-03-12,House,"House: Adopt Section 27, Part 1a",105,14,2,2,123
+1859678,1408314,2024-03-12,House,"House: Section 3, Part 1b, Table Amendment 66 Amendment Number 66",68,49,4,2,123
+1859678,1408315,2024-03-12,House,"House: Adopt Section 3, Part 1b",118,0,3,2,123
+1859678,1408316,2024-03-12,House,"House: Passage Of Bill",104,15,2,2,123
+1859678,1432785,2024-04-23,Senate,"Senate: To Lay On The Table Amendment Number 8",9,32,0,3,44
+1859678,1434356,2024-04-24,Senate,"Senate: To Adopt Section 1, Department Of Education.",45,0,0,1,46
+1859678,1434357,2024-04-24,Senate,"Senate: To Adopt Section 1a, Department Of Education-eia.",45,0,0,1,46
+1859678,1434358,2024-04-24,Senate,"Senate: To Adopt Section 3, Lottery Expenditure Account.",45,0,0,1,46
+1859678,1434359,2024-04-24,Senate,"Senate: To Adopt Section 4, Education Oversight Committee.",42,1,2,1,46
+1859678,1434360,2024-04-24,Senate,"Senate: To Adopt Section 5, Wil Lou Gray Opportunity School.",45,0,0,1,46
+1859678,1434361,2024-04-24,Senate,"Senate: To Adopt Section 8, Education Television Commission.",45,0,0,1,46
+1859678,1434362,2024-04-24,Senate,"Senate: To Adopt Section 6, School For The Deaf And Blind.",45,0,0,1,46
+1859678,1434363,2024-04-24,Senate,"Senate: To Adopt Section 7, John De La Howe School.",45,0,0,1,46
+1859678,1434364,2024-04-24,Senate,"Senate: To Adopt Section 11, Commission On Higher Education.",45,0,0,1,46
+1859678,1434365,2024-04-24,Senate,"Senate: To Adopt Section 10, Governor’s School For Science And Mathematics.",45,0,0,1,46
+1859678,1434366,2024-04-24,Senate,"Senate: To Adopt Section 9, Governor’s School For Arts And Humanities",45,0,0,1,46
+1859678,1434367,2024-04-24,Senate,"Senate: To Adopt Section 12, Higher Education Tuition Grants.",45,0,0,1,46
+1859678,1434368,2024-04-24,Senate,"Senate: To Adopt Section 13, The Citadel.",44,0,1,1,46
+1859678,1434369,2024-04-24,Senate,"Senate: To Adopt Section 15, Charleston University.",43,0,2,1,46
+1859678,1434370,2024-04-24,Senate,"Senate: To Adopt Section 14, Clemson University.",45,0,0,1,46
+1859678,1434371,2024-04-24,Senate,"Senate: To Adopt Section 16, Coastal Carolina University.",45,0,0,1,46
+1859678,1434372,2024-04-24,Senate,"Senate: To Adopt Section 17, Francis Marion University.",45,0,0,1,46
+1859678,1434373,2024-04-24,Senate,"Senate: To Adopt Section 19, S.c. State University.",45,0,0,1,46
+1859678,1434374,2024-04-24,Senate,"Senate: To Adopt Section 18, Lander University.",45,0,0,1,46
+1859678,1434375,2024-04-24,Senate,"Senate: To Adopt Section 21, Winthrop University.",45,0,0,1,46
+1859678,1434376,2024-04-24,Senate,"Senate: To Adopt Section 20a-h, University Of South Carolina.",43,0,2,1,46
+1859678,1434377,2024-04-24,Senate,"Senate: To Adopt Section 23, Medical University Of South Carolina.",43,1,1,1,46
+1859678,1434378,2024-04-24,Senate,"Senate: To Adopt Section 25, Technical And Comprehensive Education Board.",45,0,0,1,46
+1859678,1434379,2024-04-24,Senate,"Senate: To Adopt Section 24, Area Health Education Consortium.",45,0,0,1,46
+1859678,1434380,2024-04-24,Senate,"Senate: To Adopt Section 27, State Library.",45,0,0,1,46
+1859678,1434381,2024-04-24,Senate,"Senate: To Adopt Section 26, Archives And History.",45,0,0,1,46
+1859678,1434382,2024-04-24,Senate,"Senate: To Adopt Section 29, State Museum Commission.",45,0,0,1,46
+1859678,1434383,2024-04-24,Senate,"Senate: To Adopt Section 28, Arts Commission.",44,1,0,1,46
+1859678,1434384,2024-04-24,Senate,"Senate: To Adopt Section 31, Department Of Public Health.",41,1,3,1,46
+1859678,1434385,2024-04-24,Senate,"Senate: To Adopt Section 32, Vocational Rehabilitation.",45,0,0,1,46
+1859678,1434386,2024-04-24,Senate,"Senate: To Adopt Section 30, Confederate Relic Room And Military Museum.",45,0,0,1,46
+1859678,1434387,2024-04-24,Senate,"Senate: To Adopt Section 36, Department Of Disabilities And Special Needs.",44,0,1,1,46
+1859678,1434388,2024-04-24,Senate,"Senate: To Adopt Section 35, Department Of Mental Health.",44,1,0,1,46
+1859678,1434389,2024-04-24,Senate,"Senate: To Adopt Section 33, Department Of Health And Human Services.",25,15,5,1,46
+1859678,1434390,2024-04-24,Senate,"Senate: To Adopt Section 39, Commission For The Blind.",45,0,0,1,46
+1859678,1434391,2024-04-24,Senate,"Senate: To Adopt Section 38, Department Of Social Services.",41,0,4,1,46
+1859678,1434392,2024-04-24,Senate,"Senate: To Adopt Section 37, Alcohol And Other Drug Abuse Services.",44,0,1,1,46
+1859678,1434393,2024-04-24,Senate,"Senate: To Adopt Section 41, Department Of Children’s Advocacy.",45,0,0,1,46
+1859678,1434394,2024-04-24,Senate,"Senate: To Adopt Section 40, Department On Aging.",45,0,0,1,46
+1859678,1434395,2024-04-24,Senate,"Senate: To Adopt Section 42, Housing Finance And Development.",43,0,2,1,46
+1859678,1434396,2024-04-24,Senate,"Senate: To Adopt Section 43, Forestry Commission.",43,0,2,1,46
+1859678,1434397,2024-04-24,Senate,"Senate: To Adopt Section 44, Department Of Agriculture.",44,0,1,1,46
+1859678,1434398,2024-04-24,Senate,"Senate: To Adopt Section 45, Clemson University - Psa.",45,0,0,1,46
+1859678,1434399,2024-04-24,Senate,"Senate: To Adopt Section 46, S. C. State University- Psa.",45,0,0,1,46
+1859678,1434400,2024-04-24,Senate,"Senate: To Adopt Section 47, Department Of Natural Resources.",44,0,1,1,46
+1859678,1434401,2024-04-24,Senate,"Senate: To Adopt Section 48, Sea Grants Consortium.",44,1,0,1,46
+1859678,1434402,2024-04-24,Senate,"Senate: To Adopt Section 49, Department Of Parks, Recreation And Tourism.",44,1,0,1,46
+1859678,1434403,2024-04-24,Senate,"Senate: To Adopt Section 50, Department Of Commerce.",42,2,1,1,46
+1859678,1434404,2024-04-24,Senate,"Senate: To Adopt Section 52, Patriots Point Development Authority.",44,0,1,1,46
+1859678,1434405,2024-04-24,Senate,"Senate: To Adopt Section 51, Jobs-economic Development Authority (jeda).",43,1,1,1,46
+1859678,1434406,2024-04-24,Senate,"Senate: To Adopt Section 53, S. C. Conservation Bank.",44,0,1,1,46
+1859678,1434407,2024-04-24,Senate,"Senate: To Adopt Section 57, Judicial Department.",38,0,7,1,46
+1859678,1434408,2024-04-24,Senate,"Senate: To Adopt Section 54, Rural Infrastructure Authority.",44,0,1,1,46
+1859678,1434409,2024-04-24,Senate,"Senate: To Adopt Section 55, Department Of Environmental Services.",41,0,4,1,46
+1859678,1434410,2024-04-24,Senate,"Senate: To Adopt Section 58, Administrative Law Court.",31,0,14,1,46
+1859678,1434411,2024-04-24,Senate,"Senate: To Adopt Section 60, Prosecution Coordination.",41,0,4,1,46
+1859678,1434412,2024-04-24,Senate,"Senate: To Adopt Section 61, Indigent Defense.",37,0,8,1,46
+1859678,1434413,2024-04-24,Senate,"Senate: To Adopt Section 59, Attorney General’s Office.",36,0,9,1,46
+1859678,1434414,2024-04-24,Senate,"Senate: To Adopt Section 64, Law Enforcement Training Council.",42,0,3,1,46
+1859678,1434415,2024-04-24,Senate,"Senate: To Adopt Section 62, State Law Enforcement Division (sled).",40,0,5,1,46
+1859678,1434416,2024-04-24,Senate,"Senate: To Adopt Section 63, Department Of Public Safety.",37,0,8,1,46
+1859678,1434417,2024-04-24,Senate,"Senate: To Adopt Section 65, Department Of Corrections.",38,0,7,1,46
+1859678,1434418,2024-04-24,Senate,"Senate: To Adopt Section 66, Department Of Probation, Parole And Pardon Services.",34,0,11,1,46
+1859678,1434419,2024-04-24,Senate,"Senate: To Adopt Section 67, Department Of Juvenile Justice.",40,0,5,1,46
+1859678,1434420,2024-04-24,Senate,"Senate: To Adopt Section 71, Minority Affairs Commission.",45,0,0,1,46
+1859678,1434421,2024-04-24,Senate,"Senate: To Adopt Section 70, Human Affairs Commission.",45,0,0,1,46
+1859678,1434422,2024-04-24,Senate,"Senate: To Adopt Section 72, Public Service Commission.",43,0,2,1,46
+1859678,1434423,2024-04-24,Senate,"Senate: To Adopt Section 75, State Accident Fund.",33,0,12,1,46
+1859678,1434424,2024-04-24,Senate,"Senate: To Adopt Section 74, Workers’ Compensation Commission.",29,0,16,1,46
+1859678,1434425,2024-04-24,Senate,"Senate: To Adopt Section 73, Office Of Regulatory Staff.",43,0,2,1,46
+1859678,1434426,2024-04-24,Senate,"Senate: To Adopt Section 78, Department Of Insurance.",39,0,6,1,46
+1859678,1434427,2024-04-24,Senate,"Senate: To Adopt Section 81, Labor, Licensing And Regulation (llr).",34,0,11,1,46
+1859678,1434428,2024-04-24,Senate,"Senate: To Adopt Section 80, Department Of Consumer Affairs.",42,1,2,1,46
+1859678,1434429,2024-04-24,Senate,"Senate: To Adopt Section 79, Board Of Financial Institutions.",44,0,1,1,46
+1859678,1434430,2024-04-24,Senate,"Senate: To Adopt Section 83, Department Of Employment And Workforce (dew).",36,1,8,1,46
+1859678,1434431,2024-04-24,Senate,"Senate: To Adopt Section 84, Department Of Transportation.",38,0,7,1,46
+1859678,1434432,2024-04-24,Senate,"Senate: To Adopt Section 82, Department Of Motor Vehicles.",37,0,8,1,46
+1859678,1434433,2024-04-24,Senate,"Senate: To Adopt Section 85, Part 1a And Part 1b, Infrastructure Bank Board.",45,0,0,1,46
+1859678,1434434,2024-04-24,Senate,"Senate: To Adopt Section 86, Part 1a And Part 1b, County Transportation Funds.",45,0,0,1,46
+1859678,1434435,2024-04-24,Senate,"Senate: To Adopt Section 87, Division Of Aeronautics.",45,0,0,1,46
+1859678,1434436,2024-04-24,Senate,"Senate: To Adopt Section 92d, Office Of Resilience.",45,0,0,1,46
+1859678,1434437,2024-04-24,Senate,"Senate: To Adopt Section 91, A-e, Legislative Department.",44,0,1,1,46
+1859678,1434438,2024-04-24,Senate,"Senate: To Adopt Section 92, A And C, Governor’s Office.",43,0,2,1,46
+1859678,1434439,2024-04-24,Senate,"Senate: To Adopt Section 88, Ports Authority.",45,0,0,1,46
+1859678,1434440,2024-04-24,Senate,"Senate: To Adopt Section 96, Secretary Of State.",45,0,0,1,46
+1859678,1434441,2024-04-24,Senate,"Senate: To Adopt Section 94, Office Of Inspector General.",45,0,0,1,46
+1859678,1434442,2024-04-24,Senate,"Senate: To Adopt Section 93, Department Of Administration.",44,0,1,1,46
+1859678,1434443,2024-04-24,Senate,"Senate: To Adopt Section 97, Comptroller General.",45,0,0,1,46
+1859678,1434444,2024-04-24,Senate,"Senate: To Adopt Section 99, Retirement System Investment Commission.",44,0,1,1,46
+1859678,1434445,2024-04-24,Senate,"Senate: To Adopt Section 98, State Treasurer.",43,1,1,1,46
+1859678,1434446,2024-04-24,Senate,"Senate: To Adopt Section 100, Adjutant General.",45,0,0,1,46
+1859678,1434447,2024-04-24,Senate,"Senate: To Adopt Section 101, Veterans Affairs.",45,0,0,1,46
+1859678,1434448,2024-04-24,Senate,"Senate: To Adopt Section 102, Election Commission.",39,1,5,1,46
+1859678,1434449,2024-04-24,Senate,"Senate: To Adopt Section 103, Revenue And Fiscal Affairs.",45,0,0,1,46
+1859678,1434450,2024-04-24,Senate,"Senate: To Adopt Section 104, State Fiscal Accounting Authority.",43,1,1,1,46
+1859678,1434451,2024-04-24,Senate,"Senate: To Adopt Section 105, State Auditor’s Office.",44,0,1,1,46
+1859678,1434452,2024-04-24,Senate,"Senate: To Adopt Section 106, Statewide Employee Benefits.",35,10,0,1,46
+1859678,1434453,2024-04-24,Senate,"Senate: To Adopt Section 107, Capital And General Reserve Fund",45,0,0,1,46
+1859678,1434454,2024-04-24,Senate,"Senate: To Adopt Section 108, Public Employee Benefit Authority.",42,2,1,1,46
+1859678,1434455,2024-04-24,Senate,"Senate: To Adopt Section 110, State Ethics Commission.",36,0,9,1,46
+1859678,1434456,2024-04-24,Senate,"Senate: To Adopt Section 109, Department Of Revenue.",35,0,10,1,46
+1859678,1434457,2024-04-24,Senate,"Senate: To Adopt Section 113, Aid To Subdivisions - State Treasurer.",44,0,1,1,46
+1859678,1434458,2024-04-24,Senate,"Senate: To Adopt Section 112, Debt Service.",45,0,0,1,46
+1859678,1434459,2024-04-24,Senate,"Senate: To Adopt Section 111, Procurement Review Panel.",44,0,1,1,46
+1859678,1434460,2024-04-24,Senate,"Senate: To Adopt Section 115, Tax Relief Trust Fund.",45,0,0,1,46
+1859678,1434461,2024-04-24,Senate,"Senate: To Adopt Section 118, Statewide Revenue.",45,0,0,1,46
+1859678,1434462,2024-04-24,Senate,"Senate: To Adopt Section 117, General Provisions.",45,0,0,1,46
+1859678,1434463,2024-04-24,Senate,"Senate: To Lay On The Table Amendment Number 12",30,11,1,3,45
+1859678,1434464,2024-04-24,Senate,"Senate: To Lay On The Table Amendment Number 64",34,10,0,2,46
+1859678,1434465,2024-04-24,Senate,"Senate: To Lay On The Table Amendment Number 35",14,30,0,2,46
+1859678,1434466,2024-04-24,Senate,"Senate: To Lay On The Table Amendment Number 53",31,13,0,1,45
+1859678,1434467,2024-04-24,Senate,"Senate: To Lay On The Table Amendment Number 48",7,30,0,1,38
+1859678,1434468,2024-04-24,Senate,"Senate: 3rd Reading",45,0,0,1,46
+1859678,1440768,2024-05-08,House,"House: Adopt Amendment 1a Amendment Number 1a",93,7,20,4,124
+1859678,1440769,2024-05-08,House,"House: Adopt Amendment 4a Amendment Number 4a",111,0,9,4,124
+1859678,1440770,2024-05-08,House,"House: Adopt Amendment 5a Amendment Number 5a",87,19,13,5,124
+1859678,1440771,2024-05-08,House,"House: Table Motion To Reconsider Amendment 1a Amendment Number 1a",94,16,9,5,124
+1859678,1440772,2024-05-08,House,"House: Table Amendment 7a Amendment Number 7a",85,20,14,5,124
+1859678,1440773,2024-05-08,House,"House: Table Amendment 8a Amendment Number 8a",96,19,5,4,124
+1859678,1440774,2024-05-08,House,"House: Table Amendment 10a Amendment Number 10a",62,46,12,4,124
+1859678,1440775,2024-05-08,House,"House: Adopt Amendment 12a Amendment Number 12a",88,17,15,4,124
+1859678,1440776,2024-05-08,House,"House: Adopt Amendment 13a Amendment Number 13a",112,0,8,4,124
+1859678,1440777,2024-05-08,House,"House: Adopt Amendment 14a Amendment Number 14a",113,0,7,4,124
+1859678,1440778,2024-05-08,House,"House: Adopt Amendment 15a Amendment Number 15a",113,0,7,4,124
+1859678,1440779,2024-05-08,House,"House: Adopt Amendment 16a Amendment Number 16a",115,0,5,4,124
+1859678,1440780,2024-05-08,House,"House: Adopt Amendment 17a Amendment Number 17a",113,0,7,4,124
+1859678,1440781,2024-05-08,House,"House: Adopt Amendment 18a Amendment Number 18a",116,0,4,4,124
+1859678,1440782,2024-05-08,House,"House: Adopt Amendment 19a Amendment Number 19a",112,0,8,4,124
+1859678,1440783,2024-05-08,House,"House: Adopt Amendment 20a Amendment Number 20a",110,0,10,4,124
+1859678,1440784,2024-05-08,House,"House: Adopt Amendment 21a Amendment Number 21a",101,0,19,4,124
+1859678,1440785,2024-05-08,House,"House: Adopt Amendment 22a Amendment Number 22a",103,0,17,4,124
+1859678,1440786,2024-05-08,House,"House: Adopt Amendment 23a Amendment Number 23a",103,0,17,4,124
+1859678,1440787,2024-05-08,House,"House: Adopt Amendment 25a Amendment Number 25a",114,0,6,4,124
+1859678,1440788,2024-05-08,House,"House: Adopt Amendment 26a Amendment Number 26a",112,0,8,4,124
+1859678,1440789,2024-05-08,House,"House: Adopt Amendment 27a Amendment Number 27a",114,0,6,4,124
+1859678,1440790,2024-05-08,House,"House: Recede For Lunch",17,95,8,4,124
+1859678,1440791,2024-05-08,House,"House: Table Motion To Appeal The Ruling Of The Chair",98,14,8,4,124
+1859678,1440792,2024-05-08,House,"House: Adopt Amendment 31a Amendment Number 31a",105,0,14,5,124
+1859678,1440793,2024-05-08,House,"House: Adopt Amendment 37a Amendment Number 37a",99,0,21,4,124
+1859678,1440794,2024-05-08,House,"House: Table Amendment 38a Amendment Number 38a",93,15,10,6,124
+1859678,1440795,2024-05-08,House,"House: Adopt Amendment 39a Amendment Number 39a",91,15,13,5,124
+1859678,1440796,2024-05-08,House,"House: Adopt Amendment 41a",113,0,6,5,124
+1859678,1440797,2024-05-08,House,"House: Adopt Amendment 36a Amendment Number 36a",98,15,6,5,124
+1859678,1440798,2024-05-08,House,"House: Adopt Amendment 42a Amendment Number 42a",104,4,11,5,124
+1859678,1460285,2024-06-26,Senate,"Senate: To Adopt The Conference Report",41,0,0,3,44
+1859678,1460286,2024-06-26,House,"House: Adopt Conference Report",96,13,6,9,124
+1859730,1407121,2024-03-11,House,"House: Adopt Section 113, Part 1a",90,0,29,4,123
+1859730,1407122,2024-03-11,House,"House: Adopt Section 115, Part 1a",109,0,9,5,123
+1859730,1408014,2024-03-12,House,"House: Passage Of Bill",115,3,3,2,123
+1859730,1434533,2024-04-24,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1859730,1441242,2024-05-08,House,"House: Adopt Amendment 2a Amendment Number 2a",101,0,19,4,124
+1859730,1460810,2024-06-26,Senate,"Senate: To Adopt The Conference Report",41,0,0,3,44
+1859730,1460811,2024-06-26,House,"House: Adopt Conference Report",109,0,6,9,124
+1859800,1413110,2024-03-21,House,"House: Passage Of Bill",102,0,12,9,123
+1859844,1419946,2024-04-03,Senate,"Senate: 2nd Reading",39,4,0,3,46
+1860147,1417083,2024-03-28,House,"House: Passage Of Bill",94,12,12,5,123
+1860210,1423717,2024-04-09,House,"House: Passage Of Bill",103,1,17,3,124
+1860225,1417075,2024-03-28,House,"House: Waive Rule 5.15 Printing",28,79,11,5,123
+1860225,1423610,2024-04-09,House,"House: Passage Of Bill",107,0,14,3,124
+1860225,1440314,2024-05-07,Senate,"Senate: 2nd Reading",43,0,0,1,44
+1860241,1415925,2024-03-26,House,"House: Passage Of Bill",105,0,16,2,123
+1860245,1423959,2024-04-09,House,"House: Passage Of Bill",107,0,14,3,124
+1860245,1441257,2024-05-08,Senate,"Senate: 3rd Reading",44,0,0,2,46
+1860973,1415929,2024-03-26,House,"House: Passage Of Bill",110,0,12,1,123
+1860994,1433217,2024-04-23,House,"House: Passage Of Bill",104,0,14,6,124
+1860994,1441462,2024-05-08,Senate,"Senate: 2nd Reading",45,0,0,1,46
+1860994,1442065,2024-05-09,House,"House: Concur In Senate Amendments",106,0,8,10,124
+1861033,1417264,2024-03-28,House,"House: Passage Of Bill",105,0,13,5,123
+1863140,1419005,2024-04-02,Senate,"Senate: 2nd Reading",40,0,0,6,46
+1863492,1413147,2024-03-21,House,"House: Passage Of Bill",91,0,24,8,123
+1863671,1437000,2024-04-30,Senate,"Senate: 2nd Reading",43,0,0,0,43
+1864057,1430363,2024-04-17,Senate,"Senate: 2nd Reading",43,0,0,2,45
+1864057,1440194,2024-05-07,House,"House: Passage Of Bill",112,2,7,3,124
+1864057,1442061,2024-05-09,Senate,"Senate: To Concur",44,0,0,2,46
+1864057,1460372,2024-06-26,Senate,"Senate: To Override The Veto",38,0,0,5,43
+1865871,1421203,2024-04-04,Senate,"Senate: 2nd Reading",37,2,0,5,44
+1865871,1441161,2024-05-08,House,"House: Passage Of Bill",99,7,8,10,124
+1865916,1413346,2024-03-21,House,"House: Adopt Concurrent Resolution",104,0,11,8,123
+1868386,1423438,2024-04-09,House,"House: Passage Of Bill",101,0,20,3,124
+1871097,1435024,2024-04-25,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1871230,1428206,2024-04-16,House,"House: Passage Of Bill",91,2,25,6,124
+1871304,1427770,2024-04-16,House,"House: Passage Of Bill",95,0,23,6,124
+1873189,1430775,2024-04-18,Senate,"Senate: 2nd Reading",39,0,0,7,46
+1873189,1437631,2024-05-01,House,"House: Passage Of Joint Resolution",112,0,6,6,124
+1873308,1434749,2024-04-25,Senate,"Senate: 2nd Reading",40,0,0,5,45
+1874059,1437277,2024-05-01,House,"House: Passage Of Joint Resolution",111,0,9,4,124
+1874059,1441460,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1874117,1437535,2024-05-01,House,"House: Passage Of Joint Resolution",109,3,8,4,124
+1874117,1441225,2024-05-08,Senate,"Senate: 2nd Reading",44,0,0,2,46
+1874268,1438155,2024-05-02,House,"House: Passage Of Bill",101,0,18,5,124
+1874462,1440286,2024-05-07,House,"House: Passage Of Bill",97,0,24,3,124

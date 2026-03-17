@@ -1,0 +1,16 @@
+bill_id,session,chamber,action_date,journal_page,action,order
+HB1001,2024-SS3,H,2024-01-29,16,First Reading,1
+HB1001,2024-SS3,H,2024-01-29,16,Authored by Representative Lepak,2
+HB1001,2024-SS3,H,2024-01-30,19,"Second Reading, direct to Calendar",3
+HB1002,2024-SS3,H,2024-01-29,16,First Reading,1
+HB1002,2024-SS3,H,2024-01-29,16,Authored by Representative McCall,2
+HB1002,2024-SS3,H,2024-01-30,19,"Second Reading, direct to Calendar",3
+HB1002,2024-SS3,H,2024-01-31,21,General Order,4
+HB1002,2024-SS3,H,2024-01-31,21,"Third Reading, Measure passed:  Ayes: 71 Nays: 20",5
+HB1002,2024-SS3,H,2024-01-31,22,Referred for engrossment,6
+HB1002,2024-SS3,H,2024-01-31,22,"Engrossed, signed, to Senate",7
+HB1003,2024-SS3,H,2024-01-29,16,First Reading,1
+HB1003,2024-SS3,H,2024-01-29,16,Authored by Representative Steagall,2
+HB1003,2024-SS3,H,2024-01-30,19,"Second Reading, direct to Calendar",3
+SB1,2024-SS3,S,2024-01-29,,First Reading,1
+SB1,2024-SS3,S,2024-01-29,,Authored by Senator Bergstrom,2

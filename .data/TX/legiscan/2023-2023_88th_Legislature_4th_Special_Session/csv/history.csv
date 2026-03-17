@@ -1,0 +1,1581 @@
+bill_id,date,chamber,sequence,action
+1782989,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1782989,2023-11-07,Senate,2,Filed
+1782989,2023-11-07,Senate,3,"Read first time"
+1782989,2023-11-07,Senate,4,"Referred to Finance"
+1782989,2023-11-09,Senate,5,"Co-author authorized"
+1782989,2023-11-09,Senate,6,"Scheduled for public hearing on . . ."
+1782989,2023-11-09,Senate,7,"Considered in public hearing"
+1782989,2023-11-09,Senate,8,"Vote taken in committee"
+1782989,2023-11-09,Senate,9,"Reported favorably w/o amendments"
+1782989,2023-11-09,Senate,10,"Rules suspended"
+1782989,2023-11-09,Senate,11,"Record vote"
+1782989,2023-11-09,Senate,12,"Printing rule suspended"
+1782989,2023-11-09,Senate,13,"Ordered not printed"
+1782989,2023-11-09,Senate,14,"Laid before the Senate"
+1782989,2023-11-09,Senate,15,"Read 2nd time"
+1782989,2023-11-09,Senate,16,"Amendment(s) offered FA1 Eckhardt"
+1782989,2023-11-09,Senate,17,"Amendment to amendment offered FA2 Eckhardt"
+1782989,2023-11-09,Senate,18,"Amendment to amendment fails of adoption"
+1782989,2023-11-09,Senate,19,"Record vote"
+1782989,2023-11-09,Senate,20,"Amendment fails of adoption FA1 Eckhardt"
+1782989,2023-11-09,Senate,21,"Record vote"
+1782989,2023-11-09,Senate,22,"Amendment(s) offered FA3 Perry"
+1782989,2023-11-09,Senate,23,"Amendment withdrawn"
+1782989,2023-11-09,Senate,24,"Amendment(s) offered FA4 Perry"
+1782989,2023-11-09,Senate,25,"Amendment withdrawn"
+1782989,2023-11-09,Senate,26,"Amendment(s) offered FA5 Menéndez"
+1782989,2023-11-09,Senate,27,"Amendment fails of adoption"
+1782989,2023-11-09,Senate,28,"Record vote"
+1782989,2023-11-09,Senate,29,"Passed to engrossment"
+1782989,2023-11-09,Senate,30,"Record vote"
+1782989,2023-11-09,Senate,31,"Three day rule suspended"
+1782989,2023-11-09,Senate,32,"Record vote"
+1782989,2023-11-09,Senate,33,"Read 3rd time"
+1782989,2023-11-09,Senate,34,Passed
+1782989,2023-11-09,Senate,35,"Record vote"
+1782989,2023-11-09,Senate,36,"Reported engrossed"
+1782989,2023-11-10,House,37,"Received from the Senate"
+1782989,2023-11-10,House,38,"Read first time"
+1782989,2023-11-10,House,39,"Referred to Educational Opportunity & Enrichment, Select"
+1782990,2023-11-07,House,1,Filed
+1782991,2023-11-07,House,1,Filed
+1782992,2023-11-07,House,1,Filed
+1782993,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1782993,2023-11-07,Senate,2,Filed
+1782993,2023-11-07,Senate,3,"Read first time"
+1782993,2023-11-07,Senate,4,"Referred to Finance"
+1782993,2023-11-09,Senate,5,"Co-author authorized"
+1782993,2023-11-09,Senate,6,"Scheduled for public hearing on . . ."
+1782993,2023-11-09,Senate,7,"Considered in public hearing"
+1782993,2023-11-09,Senate,8,"Vote taken in committee"
+1782993,2023-11-09,Senate,9,"Reported favorably w/o amendments"
+1782993,2023-11-09,Senate,10,"Rules suspended"
+1782993,2023-11-09,Senate,11,"Record vote"
+1782993,2023-11-09,Senate,12,"Printing rule suspended"
+1782993,2023-11-09,Senate,13,"Ordered not printed"
+1782993,2023-11-09,Senate,14,"Rules suspended-Regular order of business"
+1782993,2023-11-09,Senate,15,"Record vote"
+1782993,2023-11-09,Senate,16,"Read 2nd time"
+1782993,2023-11-09,Senate,17,"Amendment(s) offered FA1 Gutierrez"
+1782993,2023-11-09,Senate,18,"Amendment fails of adoption"
+1782993,2023-11-09,Senate,19,"Record vote"
+1782993,2023-11-09,Senate,20,"Amendment(s) offered FA2 Menéndez"
+1782993,2023-11-09,Senate,21,"Amendment fails of adoption"
+1782993,2023-11-09,Senate,22,"Record vote"
+1782993,2023-11-09,Senate,23,"Amendment(s) offered FA3 Eckhardt"
+1782993,2023-11-09,Senate,24,"Amendment fails of adoption"
+1782993,2023-11-09,Senate,25,"Record vote"
+1782993,2023-11-09,Senate,26,"Amendment(s) offered FA4 Eckhardt"
+1782993,2023-11-09,Senate,27,"Amendment fails of adoption"
+1782993,2023-11-09,Senate,28,"Record vote"
+1782993,2023-11-09,Senate,29,"Passed to engrossment"
+1782993,2023-11-09,Senate,30,"Record vote"
+1782993,2023-11-09,Senate,31,"Read 3rd time"
+1782993,2023-11-09,Senate,32,Passed
+1782993,2023-11-09,Senate,33,"Record vote"
+1782993,2023-11-09,Senate,34,"Reported engrossed"
+1782993,2023-11-10,House,35,"Received from the Senate"
+1782993,2023-11-10,House,36,"Read first time"
+1782993,2023-11-10,House,37,"Referred to Appropriations"
+1782993,2023-11-10,House,38,"Considered in formal meeting"
+1782993,2023-11-10,House,39,"Reported favorably w/o amendment(s)"
+1782993,2023-11-10,House,40,"Comte report filed with Committee Coordinator"
+1782993,2023-11-10,House,41,"Committee report distributed"
+1782993,2023-11-13,House,42,"Committee report sent to Calendars"
+1782993,2023-11-13,House,43,"Considered in Calendars"
+1782993,2023-11-14,House,44,"Placed on General State Calendar"
+1782993,2023-11-14,House,45,"Read 2nd time"
+1782993,2023-11-14,House,46,"Amendment fails of adoption 1-Bryant"
+1782993,2023-11-14,House,47,"Record vote RV#6"
+1782993,2023-11-14,House,48,"Amended 2-T. King, Raymond, E. Morales, and Ordaz"
+1782993,2023-11-14,House,49,"Amendment(s) offered 3-Goodwin"
+1782993,2023-11-14,House,50,"Point of order withdrawn (amendment) Rule 8, Section 4"
+1782993,2023-11-14,House,51,"Amendment withdrawn 3-Goodwin"
+1782993,2023-11-14,House,52,"Amendment fails of adoption 4-Goodwin"
+1782993,2023-11-14,House,53,"Record vote RV#7"
+1782993,2023-11-14,House,54,"Amendment fails of adoption 5-J.D. Johnson"
+1782993,2023-11-14,House,55,"Record vote RV#8"
+1782993,2023-11-14,House,56,"Passed to 3rd reading as amended"
+1782993,2023-11-14,House,57,"Statement of Leg. Intent Recorded in Journal"
+1782993,2023-11-14,House,58,"Record vote RV#9"
+1782993,2023-11-14,House,59,"Statement(s) of vote recorded in Journal"
+1782993,2023-11-14,House,60,"Read 3rd time"
+1782993,2023-11-14,House,61,"Point of order withdrawn Rule 8, Section 4"
+1782993,2023-11-14,House,62,"Amended 1-T. King"
+1782993,2023-11-14,House,63,"Passed as amended"
+1782993,2023-11-14,House,64,"Record vote RV#37"
+1782993,2023-11-14,House,65,"Subject to Art.III Sec.49a Tx. Constitution"
+1782993,2023-11-14,House,66,"Statement(s) of vote recorded in Journal"
+1782993,2023-11-14,House,67,"Reason for vote recorded in Journal"
+1782993,2023-11-16,Senate,68,"House passage as amended reported"
+1782993,2023-12-01,Senate,69,"House amendment(s) laid before the Senate"
+1782993,2023-12-01,Senate,70,Read
+1782993,2023-12-01,Senate,71,"Senate concurs in House amendment(s)"
+1782993,2023-12-01,Senate,72,"Record vote"
+1782993,2023-12-01,Senate,73,"Reported enrolled"
+1782993,2023-12-01,House,74,"Senate concurs in House amendment(s)-reported"
+1782993,2023-12-01,House,75,"Signed in the House"
+1782993,2023-12-01,Senate,76,"Signed in the Senate"
+1782993,2023-12-01,,77,"Sent to the Comptroller"
+1782993,2023-12-06,,78,"Sent to the Governor"
+1782993,2023-12-18,,79,"Signed by the Governor"
+1782993,2023-12-18,,80,"Effective on . . . . . . . . . . . . . . . March 5, 2024"
+1782994,2023-11-07,House,1,Filed
+1782995,2023-11-07,House,1,Filed
+1782996,2023-11-07,House,1,Filed
+1782997,2023-11-07,House,1,Filed
+1782998,2023-11-07,House,1,Filed
+1782999,2023-11-07,House,1,Filed
+1782999,2023-11-07,House,2,"Read first time"
+1782999,2023-11-07,House,3,"Referred to Educational Opportunity & Enrichment, Select"
+1782999,2023-11-09,House,4,"Scheduled for public hearing on . . ."
+1782999,2023-11-09,House,5,"Considered in public hearing"
+1782999,2023-11-09,House,6,"Testimony taken/registration(s) recorded in committee"
+1782999,2023-11-09,House,7,"Left pending in committee"
+1782999,2023-11-10,House,8,"Considered in public hearing"
+1782999,2023-11-10,House,9,"Reported favorably w/o amendment(s)"
+1782999,2023-11-15,House,10,"Comte report filed with Committee Coordinator"
+1782999,2023-11-16,House,11,"Committee report distributed"
+1782999,2023-11-16,House,12,"Committee report sent to Calendars"
+1782999,2023-11-16,House,13,"Considered in Calendars"
+1782999,2023-11-17,House,14,"Placed on General State Calendar"
+1782999,2023-11-17,House,15,"Read 2nd time"
+1782999,2023-11-17,House,16,Postponed
+1782999,2023-11-17,House,17,"Laid out as postponed business"
+1782999,2023-11-17,House,18,"Amendment(s) offered 1-Buckley"
+1782999,2023-11-17,House,19,"Amendment to amendment offered 2-Raney, Darby, Allison, Dean, and Shine"
+1782999,2023-11-17,House,20,"Point of order overruled (amendment) Rule 11, Section 2, and Rule 11, Section 3"
+1782999,2023-11-17,House,21,"Point of order withdrawn (amendment) Article III, Section 40"
+1782999,2023-11-17,House,22,"Amendment amended 2-Raney, Darby, Allison, Dean, and Shine"
+1782999,2023-11-17,House,23,"Record vote RV#56"
+1782999,2023-11-17,House,24,"Motion to reconsider and table prevails"
+1782999,2023-11-17,House,25,"Record vote RV#57"
+1782999,2023-11-17,House,26,"Amendment adopted as amended 1-Buckley"
+1782999,2023-11-17,House,27,"Record vote RV#58"
+1782999,2023-11-17,House,28,"Motion to reconsider and table prevails"
+1782999,2023-11-17,House,29,"Record vote RV#59"
+1782999,2023-11-17,House,30,"Statement(s) of vote recorded in Journal"
+1782999,2023-11-17,House,31,"Recommitted to committee"
+1783000,2023-11-07,House,1,Filed
+1783001,2023-11-07,House,1,Filed
+1783002,2023-11-07,House,1,Filed
+1783002,2023-11-07,House,2,"Read first time"
+1783002,2023-11-07,House,3,"Referred to Appropriations"
+1783002,2023-11-10,House,4,"Scheduled for formal meeting on . . ."
+1783002,2023-11-10,House,5,"No action taken in committee"
+1783003,2023-11-07,House,1,Filed
+1783004,2023-11-07,House,1,Filed
+1783005,2023-11-07,House,1,Filed
+1783006,2023-11-07,House,1,Filed
+1783007,2023-11-07,House,1,Filed
+1783007,2023-11-07,House,2,"Read first time"
+1783007,2023-11-07,House,3,"Referred to State Affairs"
+1783007,2023-11-09,House,4,"Scheduled for public hearing on . . ."
+1783007,2023-11-09,House,5,"Considered in public hearing"
+1783007,2023-11-09,House,6,"Testimony taken/registration(s) recorded in committee"
+1783007,2023-11-09,House,7,"Reported favorably w/o amendment(s)"
+1783007,2023-11-10,House,8,"Comte report filed with Committee Coordinator"
+1783007,2023-11-11,House,9,"Committee report distributed"
+1783007,2023-11-13,House,10,"Committee report sent to Calendars"
+1783008,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783008,2023-11-07,Senate,2,Filed
+1783009,2023-11-07,House,1,Filed
+1783010,2023-11-07,House,1,Filed
+1783011,2023-11-07,House,1,Filed
+1783012,2023-11-07,House,1,Filed
+1783013,2023-11-07,House,1,Filed
+1783014,2023-11-07,House,1,Filed
+1783015,2023-11-07,House,1,Filed
+1783016,2023-11-07,House,1,Filed
+1783017,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783017,2023-11-07,Senate,2,Filed
+1783018,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783018,2023-11-07,Senate,2,Filed
+1783019,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783019,2023-11-07,Senate,2,Filed
+1783019,2023-11-07,Senate,3,"Read first time"
+1783019,2023-11-07,Senate,4,"Referred to Education"
+1783019,2023-11-09,Senate,5,"Co-author authorized"
+1783019,2023-11-09,Senate,6,"Scheduled for public hearing on . . ."
+1783019,2023-11-09,Senate,7,"Considered in public hearing"
+1783019,2023-11-09,Senate,8,"Vote taken in committee"
+1783019,2023-11-09,Senate,9,"Reported favorably w/o amendments"
+1783019,2023-11-09,Senate,10,"Rules suspended"
+1783019,2023-11-09,Senate,11,"Record vote"
+1783019,2023-11-09,Senate,12,"Printing rule suspended"
+1783019,2023-11-09,Senate,13,"Ordered not printed"
+1783019,2023-11-09,Senate,14,"Laid before the Senate"
+1783019,2023-11-09,Senate,15,"Read 2nd time"
+1783019,2023-11-09,Senate,16,"Amendment(s) offered FA1 Perry"
+1783019,2023-11-09,Senate,17,"Amendment fails of adoption"
+1783019,2023-11-09,Senate,18,"Record vote"
+1783019,2023-11-09,Senate,19,"Amendment(s) offered FA2 Perry"
+1783019,2023-11-09,Senate,20,"Amendment withdrawn"
+1783019,2023-11-09,Senate,21,"Amendment(s) offered FA3 Menéndez"
+1783019,2023-11-09,Senate,22,"Amendment fails of adoption"
+1783019,2023-11-09,Senate,23,"Record vote"
+1783019,2023-11-09,Senate,24,"Amendment(s) offered FA4 Menéndez"
+1783019,2023-11-09,Senate,25,"Amendment fails of adoption"
+1783019,2023-11-09,Senate,26,"Record vote"
+1783019,2023-11-09,Senate,27,"Amendment(s) offered FA5 Menéndez"
+1783019,2023-11-09,Senate,28,"Amendment fails of adoption"
+1783019,2023-11-09,Senate,29,"Record vote"
+1783019,2023-11-09,Senate,30,"Amendment(s) offered FA6 West"
+1783019,2023-11-09,Senate,31,"Amendment withdrawn"
+1783019,2023-11-09,Senate,32,"Passed to engrossment"
+1783019,2023-11-09,Senate,33,"Record vote"
+1783019,2023-11-09,Senate,34,"Read 3rd time"
+1783019,2023-11-09,Senate,35,Passed
+1783019,2023-11-09,Senate,36,"Record vote"
+1783019,2023-11-09,Senate,37,"Reported engrossed"
+1783019,2023-11-10,House,38,"Received from the Senate"
+1783019,2023-11-10,House,39,"Read first time"
+1783019,2023-11-10,House,40,"Referred to Educational Opportunity & Enrichment, Select"
+1783020,2023-11-07,House,1,Filed
+1783021,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783021,2023-11-07,Senate,2,Filed
+1783021,2023-11-07,Senate,3,"Read first time"
+1783021,2023-11-07,Senate,4,"Referred to State Affairs"
+1783021,2023-11-09,Senate,5,"Co-author authorized"
+1783021,2023-11-09,Senate,6,"Scheduled for public hearing on . . ."
+1783021,2023-11-09,Senate,7,"Considered in public hearing"
+1783021,2023-11-09,Senate,8,"Testimony taken in committee"
+1783021,2023-11-09,Senate,9,"Vote taken in committee"
+1783021,2023-11-09,Senate,10,"Reported favorably w/o amendments"
+1783021,2023-11-09,Senate,11,"Rules suspended"
+1783021,2023-11-09,Senate,12,"Record vote"
+1783021,2023-11-09,Senate,13,"Printing rule suspended"
+1783021,2023-11-09,Senate,14,"Ordered not printed"
+1783021,2023-11-09,Senate,15,"Laid before the Senate"
+1783021,2023-11-09,Senate,16,"Read 2nd time"
+1783021,2023-11-09,Senate,17,"Amendment(s) offered FA1 Perry"
+1783021,2023-11-09,Senate,18,Amended
+1783021,2023-11-09,Senate,19,"Vote recorded in Journal"
+1783021,2023-11-09,Senate,20,"Amendment(s) offered FA2 Blanco"
+1783021,2023-11-09,Senate,21,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,22,"Record vote"
+1783021,2023-11-09,Senate,23,"Amendment(s) offered FA3 Hinojosa"
+1783021,2023-11-09,Senate,24,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,25,"Record vote"
+1783021,2023-11-09,Senate,26,"Amendment(s) offered FA4 Hinojosa"
+1783021,2023-11-09,Senate,27,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,28,"Record vote"
+1783021,2023-11-09,Senate,29,"Amendment(s) offered FA5 Blanco"
+1783021,2023-11-09,Senate,30,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,31,"Record vote"
+1783021,2023-11-09,Senate,32,"Amendment(s) offered FA6 Menéndez"
+1783021,2023-11-09,Senate,33,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,34,"Record vote"
+1783021,2023-11-09,Senate,35,"Amendment(s) offered FA7 Zaffirini"
+1783021,2023-11-09,Senate,36,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,37,"Record vote"
+1783021,2023-11-09,Senate,38,"Amendment(s) offered FA8 Hinojosa"
+1783021,2023-11-09,Senate,39,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,40,"Record vote"
+1783021,2023-11-09,Senate,41,"Amendment(s) offered FA9 Menéndez"
+1783021,2023-11-09,Senate,42,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,43,"Record vote"
+1783021,2023-11-09,Senate,44,"Amendment(s) offered FA10 Zaffirini"
+1783021,2023-11-09,Senate,45,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,46,"Record vote"
+1783021,2023-11-09,Senate,47,"Amendment(s) offered FA11 Eckhardt"
+1783021,2023-11-09,Senate,48,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,49,"Record vote"
+1783021,2023-11-09,Senate,50,"Amendment(s) offered FA12 Menéndez"
+1783021,2023-11-09,Senate,51,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,52,"Record vote"
+1783021,2023-11-09,Senate,53,"Amendment(s) offered FA13 Eckhardt"
+1783021,2023-11-09,Senate,54,"Amendment fails of adoption"
+1783021,2023-11-09,Senate,55,"Record vote"
+1783021,2023-11-09,Senate,56,"Remarks ordered printed"
+1783021,2023-11-09,Senate,57,"Passed to engrossment as amended"
+1783021,2023-11-09,Senate,58,"Record vote"
+1783021,2023-11-09,Senate,59,"Read 3rd time"
+1783021,2023-11-09,Senate,60,Passed
+1783021,2023-11-09,Senate,61,"Record vote"
+1783021,2023-11-09,Senate,62,"Remarks ordered printed"
+1783021,2023-11-09,Senate,63,"Reported engrossed"
+1783021,2023-11-10,House,64,"Received from the Senate"
+1783021,2023-11-10,House,65,"Read first time"
+1783021,2023-11-10,House,66,"Referred to State Affairs"
+1783021,2023-11-10,House,67,"Considered in formal meeting"
+1783021,2023-11-10,House,68,"Reported favorably w/o amendment(s)"
+1783021,2023-11-10,House,69,"Comte report filed with Committee Coordinator"
+1783021,2023-11-11,House,70,"Committee report distributed"
+1783021,2023-11-13,House,71,"Committee report sent to Calendars"
+1783021,2023-11-13,House,72,"Considered in Calendars"
+1783021,2023-11-14,House,73,"Placed on General State Calendar"
+1783021,2023-11-14,House,74,"Read 2nd time"
+1783021,2023-11-14,House,75,"Amendment fails of adoption 1-Neave Criado"
+1783021,2023-11-14,House,76,"Record vote RV#10"
+1783021,2023-11-14,House,77,"Amendment fails of adoption 2-Moody"
+1783021,2023-11-14,House,78,"Record vote RV#13"
+1783021,2023-11-14,House,79,"Amendment fails of adoption 3-Moody"
+1783021,2023-11-14,House,80,"Record vote RV#16"
+1783021,2023-11-14,House,81,"Amendment fails of adoption 4-Garcia"
+1783021,2023-11-14,House,82,"Record vote RV#19"
+1783021,2023-11-14,House,83,"Amendment fails of adoption 5-A. Johnson"
+1783021,2023-11-14,House,84,"Record vote RV#23"
+1783021,2023-11-14,House,85,"Amendment fails of adoption 6-Morales Shaw"
+1783021,2023-11-14,House,86,"Record vote RV#25"
+1783021,2023-11-14,House,87,"Amendment fails of adoption 7-A. Johnson"
+1783021,2023-11-14,House,88,"Record vote RV#26"
+1783021,2023-11-14,House,89,"Amendment fails of adoption 8-A. Johnson"
+1783021,2023-11-14,House,90,"Record vote RV#27"
+1783021,2023-11-14,House,91,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,92,"Amendment fails of adoption 9-A. Johnson"
+1783021,2023-11-14,House,93,"Record vote RV#28"
+1783021,2023-11-14,House,94,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,95,"Amendment fails of adoption 10-Perez"
+1783021,2023-11-14,House,96,"Record vote RV#29"
+1783021,2023-11-14,House,97,"Amendment fails of adoption 11-Hernandez"
+1783021,2023-11-14,House,98,"Record vote RV#30"
+1783021,2023-11-14,House,99,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,100,"Amendment fails of adoption 12-Goodwin"
+1783021,2023-11-14,House,101,"Record vote RV#31"
+1783021,2023-11-14,House,102,"Amendment fails of adoption 13-Wu"
+1783021,2023-11-14,House,103,"Record vote RV#32"
+1783021,2023-11-14,House,104,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,105,"Amendment fails of adoption 14-Howard and M. González"
+1783021,2023-11-14,House,106,"Record vote RV#33"
+1783021,2023-11-14,House,107,"Motion for the previous question"
+1783021,2023-11-14,House,108,"Motion prevails"
+1783021,2023-11-14,House,109,"Record vote RV#34"
+1783021,2023-11-14,House,110,"Passed to 3rd reading"
+1783021,2023-11-14,House,111,"Record vote RV#35"
+1783021,2023-11-14,House,112,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,113,"Read 3rd time"
+1783021,2023-11-14,House,114,"Amendment fails of adoption 1-Ortega"
+1783021,2023-11-14,House,115,"Record vote RV#38"
+1783021,2023-11-14,House,116,"Amendment fails of adoption 2-Walle"
+1783021,2023-11-14,House,117,"Record vote RV#39"
+1783021,2023-11-14,House,118,"Amendment fails of adoption 3-Ordaz"
+1783021,2023-11-14,House,119,"Record vote RV#40"
+1783021,2023-11-14,House,120,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,121,"Amendment fails of adoption 4-T. King, Raymond, E. Morales, Romero, Ordaz, Guillen, and J. Lopez"
+1783021,2023-11-14,House,122,"Record vote RV#41"
+1783021,2023-11-14,House,123,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,124,"Amendment fails of adoption 5-Bhojani"
+1783021,2023-11-14,House,125,"Record vote RV#42"
+1783021,2023-11-14,House,126,"Amendment fails of adoption 6-Ramos"
+1783021,2023-11-14,House,127,"Record vote RV#43"
+1783021,2023-11-14,House,128,"Amendment fails of adoption 7-Turner"
+1783021,2023-11-14,House,129,"Record vote RV#44"
+1783021,2023-11-14,House,130,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,131,"Amendment fails of adoption 8-J. Jones"
+1783021,2023-11-14,House,132,"Record vote RV#45"
+1783021,2023-11-14,House,133,"Amendment fails of adoption 9-Bryant"
+1783021,2023-11-14,House,134,"Record vote RV#46"
+1783021,2023-11-14,House,135,"Amendment fails of adoption 10-Walle"
+1783021,2023-11-14,House,136,"Record vote RV#47"
+1783021,2023-11-14,House,137,Passed
+1783021,2023-11-14,House,138,"Record vote RV#48"
+1783021,2023-11-14,House,139,"Statement(s) of vote recorded in Journal"
+1783021,2023-11-14,House,140,"Reason for vote recorded in Journal"
+1783021,2023-11-16,Senate,141,"House passage reported"
+1783021,2023-11-16,Senate,142,"Reported enrolled"
+1783021,2023-11-21,Senate,143,"Signed in the Senate"
+1783021,2023-11-27,House,144,"Signed in the House"
+1783021,2023-11-27,,145,"Sent to the Governor"
+1783021,2023-12-18,,146,"Signed by the Governor"
+1783021,2023-12-18,,147,"Effective on . . . . . . . . . . . . . . . March 5, 2024"
+1783022,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783022,2023-11-07,Senate,2,Filed
+1783023,2023-11-07,House,1,Filed
+1783024,2023-11-14,House,1,Filed
+1783025,2023-11-07,House,1,Filed
+1783026,2023-11-07,House,1,Filed
+1783027,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783027,2023-11-07,Senate,2,Filed
+1783028,2023-11-07,House,1,Filed
+1783029,2023-11-07,House,1,Filed
+1783030,2023-11-07,House,1,Filed
+1783031,2023-11-07,House,1,Filed
+1783032,2023-11-07,House,1,Filed
+1783033,2023-11-07,House,1,Filed
+1783034,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783034,2023-11-07,Senate,2,Filed
+1783035,2023-11-07,House,1,Filed
+1783036,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783036,2023-11-07,Senate,2,Filed
+1783037,2023-11-07,House,1,Filed
+1783038,2023-11-07,House,1,Filed
+1783039,2023-11-07,House,1,Filed
+1783040,2023-11-07,House,1,Filed
+1783041,2023-11-07,House,1,Filed
+1783042,2023-11-07,House,1,Filed
+1783043,2023-11-07,House,1,Filed
+1783044,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783044,2023-11-07,Senate,2,Filed
+1783045,2023-11-07,House,1,Filed
+1783046,2023-11-07,House,1,Filed
+1783047,2023-11-07,House,1,Filed
+1783048,2023-11-07,House,1,Filed
+1783049,2023-11-07,House,1,Filed
+1783050,2023-11-07,House,1,Filed
+1783051,2023-11-07,House,1,Filed
+1783052,2023-11-07,House,1,Filed
+1783053,2023-11-07,House,1,Filed
+1783054,2023-11-07,House,1,Filed
+1783055,2023-11-07,House,1,Filed
+1783056,2023-11-07,House,1,Filed
+1783057,2023-11-07,House,1,Filed
+1783058,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783058,2023-11-07,Senate,2,Filed
+1783059,2023-11-07,House,1,Filed
+1783060,2023-11-07,House,1,Filed
+1783061,2023-11-07,House,1,Filed
+1783062,2023-11-07,House,1,Filed
+1783063,2023-11-07,House,1,Filed
+1783064,2023-11-07,House,1,Filed
+1783065,2023-11-07,House,1,Filed
+1783066,2023-11-07,House,1,Filed
+1783067,2023-11-07,House,1,Filed
+1783068,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783068,2023-11-07,Senate,2,Filed
+1783069,2023-11-07,Senate,1,"Received by the Secretary of the Senate"
+1783069,2023-11-07,Senate,2,Filed
+1783070,2023-11-07,House,1,Filed
+1783071,2023-11-07,House,1,Filed
+1783072,2023-11-07,House,1,Filed
+1783073,2023-11-07,House,1,Filed
+1783080,2023-11-08,House,1,Filed
+1783085,2023-11-08,House,1,Filed
+1783091,2023-11-08,House,1,Filed
+1783095,2023-11-08,House,1,Filed
+1783100,2023-11-08,House,1,Filed
+1783106,2023-11-08,House,1,Filed
+1783110,2023-11-08,House,1,Filed
+1783115,2023-11-08,House,1,Filed
+1783121,2023-11-08,House,1,Filed
+1783125,2023-11-08,House,1,Filed
+1783131,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783131,2023-11-08,Senate,2,Filed
+1783137,2023-11-08,House,1,Filed
+1783137,2023-11-17,House,2,"Rules suspended"
+1783137,2023-11-17,House,3,Adopted
+1783137,2023-11-21,Senate,4,"Received from the House"
+1783137,2023-11-30,Senate,5,"Read & adopted"
+1783137,2023-11-30,House,6,"Senate passage reported"
+1783137,2023-11-30,House,7,"Reported enrolled"
+1783137,2023-11-30,House,8,"Signed in the House"
+1783137,2023-12-01,Senate,9,"Signed in the Senate"
+1783137,2023-12-01,,10,"Sent to the Governor"
+1783137,2023-12-18,,11,"Signed by the Governor"
+1783140,2023-11-08,House,1,Filed
+1783147,2023-11-08,House,1,Filed
+1783152,2023-11-08,House,1,Filed
+1783152,2023-11-17,House,2,"Rules suspended"
+1783152,2023-11-17,House,3,Adopted
+1783152,2023-11-17,House,4,"Reported enrolled"
+1783156,2023-11-08,House,1,Filed
+1783156,2023-11-17,House,2,"Rules suspended"
+1783156,2023-11-17,House,3,Adopted
+1783156,2023-11-17,House,4,"Reported enrolled"
+1783163,2023-11-08,House,1,Filed
+1783163,2023-11-17,House,2,"Rules suspended"
+1783163,2023-11-17,House,3,Adopted
+1783163,2023-11-17,House,4,"Reported enrolled"
+1783167,2023-11-08,House,1,Filed
+1783167,2023-11-17,House,2,"Rules suspended"
+1783167,2023-11-17,House,3,Adopted
+1783167,2023-11-17,House,4,"Reported enrolled"
+1783170,2023-11-08,House,1,Filed
+1783170,2023-11-08,House,2,"Read first time"
+1783170,2023-11-08,House,3,"Referred to Educational Opportunity & Enrichment, Select"
+1783170,2023-11-10,House,4,"Scheduled for public hearing on . . ."
+1783170,2023-11-10,House,5,"Considered in public hearing"
+1783170,2023-11-10,House,6,"Testimony taken/registration(s) recorded in committee"
+1783170,2023-11-10,House,7,"Reported favorably w/o amendment(s)"
+1783170,2023-11-14,House,8,"Comte report filed with Committee Coordinator"
+1783170,2023-11-14,House,9,"Committee report distributed"
+1783170,2023-11-14,House,10,"Committee report sent to Calendars"
+1783170,2023-11-16,House,11,"Considered in Calendars"
+1783170,2023-11-17,House,12,"Placed on General State Calendar"
+1783170,2023-11-17,House,13,"Read 2nd time"
+1783170,2023-11-17,House,14,"Amended 1-Zwiener"
+1783170,2023-11-17,House,15,"Amendment withdrawn 2-Landgraf"
+1783170,2023-11-17,House,16,"Amendment(s) offered 3-Swanson"
+1783170,2023-11-17,House,17,"Point of order overruled (amendment) Rule 11, Section 2"
+1783170,2023-11-17,House,18,"Amendment withdrawn 3-Swanson"
+1783170,2023-11-17,House,19,"Amendment fails of adoption 4-Ramos"
+1783170,2023-11-17,House,20,"Record vote RV#51"
+1783170,2023-11-17,House,21,"Statement(s) of vote recorded in Journal"
+1783170,2023-11-17,House,22,"Amendment(s) offered 5-Swanson"
+1783170,2023-11-17,House,23,"Amendment amended 6-Moody"
+1783170,2023-11-17,House,24,"Point of order withdrawn (amendment) Rule 11, Section 2"
+1783170,2023-11-17,House,25,"Amendment to amendment fails of adoption 7-Collier"
+1783170,2023-11-17,House,26,"Record vote RV#52"
+1783170,2023-11-17,House,27,"Statement(s) of vote recorded in Journal"
+1783170,2023-11-17,House,28,"Amendment adopted as amended 5-Swanson"
+1783170,2023-11-17,House,29,"Record vote RV#53"
+1783170,2023-11-17,House,30,"Passed to engrossment as amended"
+1783170,2023-11-17,House,31,"Record vote RV#54"
+1783170,2023-11-17,House,32,"Statement(s) of vote recorded in Journal"
+1783170,2023-11-17,House,33,"Read 3rd time"
+1783170,2023-11-17,House,34,Passed
+1783170,2023-11-17,House,35,"Record vote RV#61"
+1783170,2023-11-20,House,36,"Reported engrossed"
+1783170,2023-11-21,Senate,37,"Received from the House"
+1783170,2023-11-21,Senate,38,"Read first time"
+1783170,2023-11-21,Senate,39,"Referred to Education"
+1783174,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783174,2023-11-08,Senate,2,"Read & adopted"
+1783174,2023-11-08,Senate,3,"Reported enrolled"
+1783178,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783178,2023-11-08,Senate,2,Filed
+1783181,2023-11-08,House,1,Filed
+1783181,2023-11-17,House,2,"Rules suspended"
+1783181,2023-11-17,House,3,Adopted
+1783181,2023-11-17,House,4,"Reported enrolled"
+1783184,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783184,2023-11-08,Senate,2,Filed
+1783187,2023-11-08,House,1,Filed
+1783187,2023-11-08,House,2,"Read first time"
+1783187,2023-11-08,House,3,"Referred to Educational Opportunity & Enrichment, Select"
+1783187,2023-11-10,House,4,"Scheduled for public hearing on . . ."
+1783187,2023-11-10,House,5,"Considered in public hearing"
+1783187,2023-11-10,House,6,"Testimony taken/registration(s) recorded in committee"
+1783187,2023-11-10,House,7,"Reported favorably w/o amendment(s)"
+1783187,2023-11-14,House,8,"Comte report filed with Committee Coordinator"
+1783187,2023-11-14,House,9,"Committee report distributed"
+1783187,2023-11-14,House,10,"Committee report sent to Calendars"
+1783187,2023-11-16,House,11,"Considered in Calendars"
+1783187,2023-11-17,House,12,"Placed on Constitutional Amendments Calendar"
+1783187,2023-11-17,House,13,"Read 2nd time"
+1783187,2023-11-17,House,14,"Amended 1-K. King"
+1783187,2023-11-17,House,15,"Adopted as amended"
+1783187,2023-11-17,House,16,"Record vote RV#50"
+1783187,2023-11-17,House,17,"Reported engrossed"
+1783187,2023-11-21,Senate,18,"Received from the House"
+1783187,2023-11-21,Senate,19,"Read first time"
+1783187,2023-11-21,Senate,20,"Referred to Education"
+1783191,2023-11-08,House,1,Filed
+1783195,2023-11-08,House,1,Filed
+1783198,2023-11-08,House,1,Filed
+1783198,2023-11-17,House,2,"Rules suspended"
+1783198,2023-11-17,House,3,Adopted
+1783198,2023-11-17,House,4,"Reported enrolled"
+1783202,2023-11-08,House,1,Filed
+1783202,2023-11-17,House,2,"Rules suspended"
+1783202,2023-11-17,House,3,Adopted
+1783202,2023-11-17,House,4,"Reported enrolled"
+1783204,2023-11-08,House,1,Filed
+1783204,2023-11-17,House,2,"Rules suspended"
+1783204,2023-11-17,House,3,Adopted
+1783204,2023-11-17,House,4,"Reported enrolled"
+1783209,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783209,2023-11-08,Senate,2,"Read & adopted"
+1783209,2023-11-08,Senate,3,"Reported enrolled"
+1783210,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783210,2023-11-08,Senate,2,"Read & adopted"
+1783210,2023-11-08,Senate,3,"Reported enrolled"
+1783213,2023-11-08,House,1,Filed
+1783215,2023-11-08,House,1,Filed
+1783219,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783219,2023-11-08,Senate,2,Filed
+1783223,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783223,2023-11-08,Senate,2,Filed
+1783226,2023-11-08,House,1,Filed
+1783226,2023-11-17,House,2,"Rules suspended"
+1783226,2023-11-17,House,3,Adopted
+1783226,2023-11-17,House,4,"Reported enrolled"
+1783231,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783231,2023-11-21,Senate,2,"Read & adopted"
+1783231,2023-11-21,Senate,3,"Reported enrolled"
+1783236,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783236,2023-11-08,Senate,2,Filed
+1783241,2023-11-08,House,1,Filed
+1783245,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783245,2023-11-09,Senate,2,"Read & adopted"
+1783245,2023-11-09,Senate,3,"Reported enrolled"
+1783249,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783249,2023-11-08,Senate,2,Filed
+1783254,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783254,2023-11-08,Senate,2,Filed
+1783257,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783257,2023-11-08,Senate,2,Filed
+1783262,2023-11-08,House,1,Filed
+1783266,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783266,2023-11-08,Senate,2,Filed
+1783271,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783271,2023-11-08,Senate,2,Filed
+1783275,2023-11-08,Senate,1,"Received by the Secretary of the Senate"
+1783275,2023-11-09,Senate,2,"Read & adopted"
+1783275,2023-11-09,Senate,3,"Reported enrolled"
+1783287,2023-11-09,House,1,Filed
+1783295,2023-11-09,House,1,Filed
+1783295,2023-11-17,House,2,"Rules suspended"
+1783295,2023-11-17,House,3,Adopted
+1783295,2023-11-17,House,4,"Reported enrolled"
+1783305,2023-11-09,House,1,Filed
+1783314,2023-11-09,House,1,Filed
+1783323,2023-11-09,House,1,Filed
+1783332,2023-11-09,House,1,Filed
+1783342,2023-11-09,House,1,Filed
+1783351,2023-11-09,House,1,Filed
+1783360,2023-11-09,House,1,Filed
+1783370,2023-11-09,House,1,Filed
+1783379,2023-11-09,House,1,Filed
+1783396,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783396,2023-11-09,Senate,2,"Read & adopted"
+1783396,2023-11-09,Senate,3,"Reported enrolled"
+1783403,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783403,2023-11-09,Senate,2,"Read & adopted"
+1783403,2023-11-09,Senate,3,"Reported enrolled"
+1783410,2023-11-09,House,1,Filed
+1783410,2023-11-17,House,2,"Rules suspended"
+1783410,2023-11-17,House,3,Adopted
+1783410,2023-11-17,House,4,"Reported enrolled"
+1783415,2023-11-09,House,1,Filed
+1783415,2023-11-17,House,2,"Rules suspended"
+1783415,2023-11-17,House,3,Adopted
+1783415,2023-11-17,House,4,"Reported enrolled"
+1783423,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783423,2023-11-09,Senate,2,"Read & adopted"
+1783423,2023-11-09,Senate,3,"Reported enrolled"
+1783430,2023-11-09,House,1,Filed
+1783438,2023-11-09,House,1,Filed
+1783438,2023-11-17,House,2,"Rules suspended"
+1783438,2023-11-17,House,3,Adopted
+1783438,2023-11-17,House,4,"Reported enrolled"
+1783444,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783444,2023-11-09,Senate,2,Filed
+1783449,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783449,2023-11-09,Senate,2,"Read & adopted"
+1783449,2023-11-09,Senate,3,"Reported enrolled"
+1783458,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783458,2023-11-09,Senate,2,"Read & adopted"
+1783458,2023-11-09,Senate,3,"Reported enrolled"
+1783465,2023-11-09,House,1,Filed
+1783472,2023-11-09,House,1,Filed
+1783479,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783479,2023-11-09,Senate,2,"Read & adopted"
+1783479,2023-11-09,Senate,3,"Reported enrolled"
+1783485,2023-11-09,House,1,Filed
+1783499,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783499,2023-11-09,Senate,2,"Read & adopted"
+1783499,2023-11-09,Senate,3,"Reported enrolled"
+1783508,2023-11-09,House,1,Filed
+1783518,2023-11-09,House,1,Filed
+1783529,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783529,2023-11-09,Senate,2,Read
+1783529,2023-11-09,Senate,3,Adopted
+1783529,2023-11-09,Senate,4,"Reported enrolled"
+1783529,2023-11-09,Senate,5,"Printed in full"
+1783539,2023-11-09,House,1,Filed
+1783548,2023-11-09,House,1,Filed
+1783548,2023-11-17,House,2,"Rules suspended"
+1783548,2023-11-17,House,3,Adopted
+1783548,2023-11-17,House,4,"Reported enrolled"
+1783557,2023-11-09,House,1,Filed
+1783557,2023-11-17,House,2,"Rules suspended"
+1783557,2023-11-17,House,3,Adopted
+1783557,2023-11-17,House,4,"Reported enrolled"
+1783558,2023-11-09,Senate,1,"Received by the Secretary of the Senate"
+1783558,2023-11-09,Senate,2,"Read & adopted"
+1783558,2023-11-09,Senate,3,"Reported enrolled"
+1783603,2023-11-10,House,1,Filed
+1783645,2023-11-10,House,1,Filed
+1783645,2023-11-17,House,2,"Rules suspended"
+1783645,2023-11-17,House,3,Adopted
+1783645,2023-11-17,House,4,"Reported enrolled"
+1783646,2023-11-10,House,1,Filed
+1783647,2023-11-10,House,1,Filed
+1783647,2023-11-17,House,2,"Rules suspended"
+1783647,2023-11-17,House,3,Adopted
+1783647,2023-11-17,House,4,"Reported enrolled"
+1783648,2023-11-10,House,1,Filed
+1783648,2023-11-17,House,2,"Rules suspended"
+1783648,2023-11-17,House,3,Adopted
+1783648,2023-11-17,House,4,"Reported enrolled"
+1783649,2023-11-10,Senate,1,"Received by the Secretary of the Senate"
+1783649,2023-11-10,Senate,2,Filed
+1783650,2023-11-11,House,1,Filed
+1783650,2023-11-17,House,2,"Rules suspended"
+1783650,2023-11-17,House,3,Adopted
+1783650,2023-11-21,Senate,4,"Received from the House"
+1783650,2023-11-30,Senate,5,"Read & adopted"
+1783650,2023-11-30,House,6,"Senate passage reported"
+1783650,2023-11-30,House,7,"Reported enrolled"
+1783650,2023-11-30,House,8,"Signed in the House"
+1783650,2023-12-01,Senate,9,"Signed in the Senate"
+1783650,2023-12-01,,10,"Sent to the Governor"
+1783650,2023-12-18,,11,"Signed by the Governor"
+1783651,2023-11-11,House,1,Filed
+1783651,2023-11-17,House,2,"Rules suspended"
+1783651,2023-11-17,House,3,Adopted
+1783651,2023-11-21,Senate,4,"Received from the House"
+1783651,2023-11-30,Senate,5,"Read & adopted"
+1783651,2023-11-30,House,6,"Senate passage reported"
+1783651,2023-11-30,House,7,"Reported enrolled"
+1783651,2023-11-30,House,8,"Signed in the House"
+1783651,2023-12-01,Senate,9,"Signed in the Senate"
+1783651,2023-12-01,,10,"Sent to the Governor"
+1783651,2023-12-18,,11,"Signed by the Governor"
+1783652,2023-11-11,House,1,Filed
+1783652,2023-11-17,House,2,"Rules suspended"
+1783652,2023-11-17,House,3,Adopted
+1783652,2023-11-21,Senate,4,"Received from the House"
+1783652,2023-11-30,Senate,5,"Read & adopted"
+1783652,2023-11-30,House,6,"Senate passage reported"
+1783652,2023-11-30,House,7,"Reported enrolled"
+1783652,2023-11-30,House,8,"Signed in the House"
+1783652,2023-12-01,Senate,9,"Signed in the Senate"
+1783652,2023-12-01,,10,"Sent to the Governor"
+1783652,2023-12-18,,11,"Signed by the Governor"
+1783653,2023-11-11,House,1,Filed
+1783653,2023-11-17,House,2,"Rules suspended"
+1783653,2023-11-17,House,3,Adopted
+1783653,2023-11-21,Senate,4,"Received from the House"
+1783653,2023-11-30,Senate,5,"Read & adopted"
+1783653,2023-11-30,House,6,"Senate passage reported"
+1783653,2023-11-30,House,7,"Reported enrolled"
+1783653,2023-11-30,House,8,"Signed in the House"
+1783653,2023-12-01,Senate,9,"Signed in the Senate"
+1783653,2023-12-01,,10,"Sent to the Governor"
+1783653,2023-12-18,,11,"Signed by the Governor"
+1783654,2023-11-11,House,1,Filed
+1783661,2023-11-13,House,1,Filed
+1783661,2023-11-17,House,2,"Rules suspended"
+1783661,2023-11-17,House,3,Adopted
+1783661,2023-11-17,House,4,"Reported enrolled"
+1783666,2023-11-13,House,1,Filed
+1783666,2023-11-17,House,2,"Rules suspended"
+1783666,2023-11-17,House,3,Adopted
+1783666,2023-11-17,House,4,"Reported enrolled"
+1783671,2023-11-13,House,1,Filed
+1783671,2023-11-17,House,2,"Rules suspended"
+1783671,2023-11-17,House,3,Adopted
+1783671,2023-11-17,House,4,"Reported enrolled"
+1783677,2023-11-13,House,1,Filed
+1783677,2023-11-17,House,2,"Rules suspended"
+1783677,2023-11-17,House,3,Adopted
+1783677,2023-11-17,House,4,"Reported enrolled"
+1783682,2023-11-13,House,1,Filed
+1783682,2023-11-17,House,2,"Rules suspended"
+1783682,2023-11-17,House,3,Adopted
+1783682,2023-11-17,House,4,"Reported enrolled"
+1783689,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783689,2023-11-13,Senate,2,Filed
+1783694,2023-11-13,House,1,Filed
+1783694,2023-11-14,House,2,"Rules suspended"
+1783694,2023-11-14,House,3,Adopted
+1783694,2023-11-15,House,4,"Reported enrolled"
+1783695,2023-11-13,House,1,Filed
+1783695,2023-11-17,House,2,"Rules suspended"
+1783695,2023-11-17,House,3,Adopted
+1783695,2023-11-21,Senate,4,"Received from the House"
+1783695,2023-11-30,Senate,5,"Read & adopted"
+1783695,2023-11-30,House,6,"Senate passage reported"
+1783695,2023-11-30,House,7,"Reported enrolled"
+1783695,2023-11-30,House,8,"Signed in the House"
+1783695,2023-12-01,Senate,9,"Signed in the Senate"
+1783695,2023-12-01,,10,"Sent to the Governor"
+1783695,2023-12-18,,11,"Signed by the Governor"
+1783697,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783697,2023-11-13,Senate,2,Filed
+1783700,2023-11-13,House,1,Filed
+1783700,2023-11-17,House,2,"Rules suspended"
+1783700,2023-11-17,House,3,Adopted
+1783700,2023-11-21,Senate,4,"Received from the House"
+1783700,2023-11-30,Senate,5,"Read & adopted"
+1783700,2023-11-30,House,6,"Senate passage reported"
+1783700,2023-11-30,House,7,"Reported enrolled"
+1783700,2023-11-30,House,8,"Signed in the House"
+1783700,2023-12-01,Senate,9,"Signed in the Senate"
+1783700,2023-12-01,,10,"Sent to the Governor"
+1783700,2023-12-18,,11,"Signed by the Governor"
+1783703,2023-11-13,House,1,Filed
+1783703,2023-11-17,House,2,"Rules suspended"
+1783703,2023-11-17,House,3,Adopted
+1783703,2023-11-21,Senate,4,"Received from the House"
+1783703,2023-11-30,Senate,5,"Read & adopted"
+1783703,2023-11-30,House,6,"Senate passage reported"
+1783703,2023-11-30,House,7,"Reported enrolled"
+1783703,2023-11-30,House,8,"Signed in the House"
+1783703,2023-12-01,Senate,9,"Signed in the Senate"
+1783703,2023-12-01,,10,"Sent to the Governor"
+1783703,2023-12-18,,11,"Signed by the Governor"
+1783705,2023-11-13,House,1,Filed
+1783705,2023-11-17,House,2,"Rules suspended"
+1783705,2023-11-17,House,3,Adopted
+1783705,2023-11-17,House,4,"Reported enrolled"
+1783709,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783709,2023-11-13,Senate,2,Filed
+1783709,2023-11-13,Senate,3,"Read & adopted"
+1783709,2023-11-14,House,4,"Received from the Senate"
+1783709,2023-11-17,House,5,"Rules suspended"
+1783709,2023-11-17,House,6,Adopted
+1783709,2023-11-21,Senate,7,"House passage reported"
+1783709,2023-11-21,Senate,8,"Reported enrolled"
+1783709,2023-11-27,Senate,9,"Signed in the Senate"
+1783709,2023-11-27,House,10,"Signed in the House"
+1783709,2023-11-27,,11,"Sent to the Governor"
+1783709,2023-12-18,,12,"Signed by the Governor"
+1783713,2023-11-13,House,1,Filed
+1783713,2023-11-17,House,2,"Rules suspended"
+1783713,2023-11-17,House,3,Adopted
+1783713,2023-11-17,House,4,"Reported enrolled"
+1783716,2023-11-13,House,1,Filed
+1783716,2023-11-17,House,2,"Rules suspended"
+1783716,2023-11-17,House,3,Adopted
+1783716,2023-11-21,Senate,4,"Received from the House"
+1783716,2023-11-30,Senate,5,"Read & adopted"
+1783716,2023-11-30,House,6,"Senate passage reported"
+1783716,2023-11-30,House,7,"Reported enrolled"
+1783716,2023-11-30,House,8,"Signed in the House"
+1783716,2023-12-01,Senate,9,"Signed in the Senate"
+1783716,2023-12-01,,10,"Sent to the Governor"
+1783716,2023-12-18,,11,"Signed by the Governor"
+1783719,2023-11-13,House,1,Filed
+1783719,2023-11-17,House,2,"Rules suspended"
+1783719,2023-11-17,House,3,Adopted
+1783719,2023-11-21,Senate,4,"Received from the House"
+1783719,2023-11-30,Senate,5,"Read & adopted"
+1783719,2023-11-30,House,6,"Senate passage reported"
+1783719,2023-11-30,House,7,"Reported enrolled"
+1783719,2023-11-30,House,8,"Signed in the House"
+1783719,2023-12-01,Senate,9,"Signed in the Senate"
+1783719,2023-12-01,,10,"Sent to the Governor"
+1783719,2023-12-18,,11,"Signed by the Governor"
+1783722,2023-11-13,House,1,Filed
+1783722,2023-11-17,House,2,"Rules suspended"
+1783722,2023-11-17,House,3,Adopted
+1783722,2023-11-17,House,4,"Reported enrolled"
+1783725,2023-11-13,House,1,Filed
+1783726,2023-11-13,House,1,Filed
+1783726,2023-11-17,House,2,"Rules suspended"
+1783726,2023-11-17,House,3,Adopted
+1783726,2023-11-21,Senate,4,"Received from the House"
+1783726,2023-11-30,Senate,5,"Read & adopted"
+1783726,2023-11-30,House,6,"Senate passage reported"
+1783726,2023-11-30,House,7,"Reported enrolled"
+1783726,2023-11-30,House,8,"Signed in the House"
+1783726,2023-12-01,Senate,9,"Signed in the Senate"
+1783726,2023-12-01,,10,"Sent to the Governor"
+1783726,2023-12-18,,11,"Signed by the Governor"
+1783728,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783728,2023-11-13,Senate,2,Filed
+1783729,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783729,2023-11-16,Senate,2,"Read & adopted"
+1783729,2023-11-16,Senate,3,"Reported enrolled"
+1783732,2023-11-13,House,1,Filed
+1783732,2023-11-17,House,2,"Rules suspended"
+1783732,2023-11-17,House,3,Adopted
+1783732,2023-11-17,House,4,"Reported enrolled"
+1783733,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783733,2023-11-13,Senate,2,Filed
+1783735,2023-11-13,Senate,1,"Received by the Secretary of the Senate"
+1783735,2023-11-13,Senate,2,Filed
+1783750,2023-11-14,House,1,Filed
+1783759,2023-11-14,Senate,1,"Received by the Secretary of the Senate"
+1783759,2023-11-16,Senate,2,"Read & adopted"
+1783759,2023-11-16,Senate,3,"Reported enrolled"
+1783769,2023-11-14,House,1,Filed
+1783778,2023-11-14,House,1,Filed
+1783787,2023-11-14,Senate,1,"Received by the Secretary of the Senate"
+1783787,2023-11-16,Senate,2,"Read & adopted"
+1783787,2023-11-16,Senate,3,"Reported enrolled"
+1783794,2023-11-14,House,1,Filed
+1783794,2023-11-17,House,2,"Rules suspended"
+1783794,2023-11-17,House,3,Adopted
+1783794,2023-11-17,House,4,"Reported enrolled"
+1783802,2023-11-14,House,1,Filed
+1783802,2023-11-17,House,2,"Rules suspended"
+1783802,2023-11-17,House,3,Adopted
+1783802,2023-11-17,House,4,"Reported enrolled"
+1783816,2023-11-14,Senate,1,"Received by the Secretary of the Senate"
+1783816,2023-11-14,Senate,2,Filed
+1783830,2023-11-14,House,1,Filed
+1783844,2023-11-14,Senate,1,"Received by the Secretary of the Senate"
+1783844,2023-11-14,Senate,2,Filed
+1783856,2023-11-14,Senate,1,"Received by the Secretary of the Senate"
+1783856,2023-11-14,Senate,2,Filed
+1783871,2023-11-14,Senate,1,"Received by the Secretary of the Senate"
+1783871,2023-11-14,Senate,2,Filed
+1783884,2023-11-14,House,1,Filed
+1783884,2023-11-17,House,2,"Rules suspended"
+1783884,2023-11-17,House,3,Adopted
+1783884,2023-11-17,House,4,"Reported enrolled"
+1783897,2023-11-14,House,1,Filed
+1783897,2023-11-17,House,2,"Rules suspended"
+1783897,2023-11-17,House,3,Adopted
+1783897,2023-11-17,House,4,"Reported enrolled"
+1783932,2023-11-15,House,1,Filed
+1784024,2023-11-15,House,1,Filed
+1784024,2023-11-17,House,2,"Rules suspended"
+1784024,2023-11-17,House,3,Adopted
+1784024,2023-11-17,House,4,"Reported enrolled"
+1784033,2023-11-15,Senate,1,"Received by the Secretary of the Senate"
+1784033,2023-11-15,Senate,2,Filed
+1784033,2023-11-16,Senate,3,"Read & adopted"
+1784033,2023-11-17,House,4,"Received from the Senate"
+1784033,2023-12-05,House,5,"Rules suspended"
+1784033,2023-12-05,House,6,Adopted
+1784033,2023-12-05,Senate,7,"House passage reported"
+1784033,2023-12-05,Senate,8,"Reported enrolled"
+1784033,2023-12-05,Senate,9,"Signed in the Senate"
+1784033,2023-12-05,House,10,"Signed in the House"
+1784033,2023-12-05,,11,"Sent to the Governor"
+1784033,2023-12-18,,12,"Signed by the Governor"
+1784039,2023-11-15,House,1,Filed
+1784039,2023-11-17,House,2,"Rules suspended"
+1784039,2023-11-17,House,3,Adopted
+1784039,2023-11-17,House,4,"Reported enrolled"
+1784048,2023-11-15,House,1,Filed
+1784048,2023-11-17,House,2,"Rules suspended"
+1784048,2023-11-17,House,3,Adopted
+1784048,2023-11-17,House,4,"Reported enrolled"
+1784057,2023-11-15,Senate,1,"Received by the Secretary of the Senate"
+1784057,2023-11-15,Senate,2,Filed
+1784057,2023-11-16,Senate,3,"Read & adopted"
+1784057,2023-11-17,House,4,"Received from the Senate"
+1784057,2023-12-05,House,5,"Rules suspended"
+1784057,2023-12-05,House,6,Adopted
+1784057,2023-12-05,Senate,7,"House passage reported"
+1784057,2023-12-05,Senate,8,"Reported enrolled"
+1784057,2023-12-05,Senate,9,"Signed in the Senate"
+1784057,2023-12-05,House,10,"Signed in the House"
+1784057,2023-12-05,,11,"Sent to the Governor"
+1784057,2023-12-18,,12,"Signed by the Governor"
+1784062,2023-11-15,House,1,Filed
+1784064,2023-11-15,Senate,1,"Received by the Secretary of the Senate"
+1784064,2023-11-15,Senate,2,Filed
+1784064,2023-11-16,Senate,3,"Read & adopted"
+1784064,2023-11-17,House,4,"Received from the Senate"
+1784064,2023-12-05,House,5,"Rules suspended"
+1784064,2023-12-05,House,6,Adopted
+1784064,2023-12-05,Senate,7,"House passage reported"
+1784064,2023-12-05,Senate,8,"Reported enrolled"
+1784064,2023-12-05,Senate,9,"Signed in the Senate"
+1784064,2023-12-05,House,10,"Signed in the House"
+1784064,2023-12-05,,11,"Sent to the Governor"
+1784064,2023-12-18,,12,"Signed by the Governor"
+1784067,2023-11-15,Senate,1,"Received by the Secretary of the Senate"
+1784067,2023-11-15,Senate,2,Filed
+1784067,2023-11-16,Senate,3,"Read & adopted"
+1784067,2023-11-17,House,4,"Received from the Senate"
+1784067,2023-12-05,House,5,"Rules suspended"
+1784067,2023-12-05,House,6,Adopted
+1784067,2023-12-05,Senate,7,"House passage reported"
+1784067,2023-12-05,Senate,8,"Reported enrolled"
+1784067,2023-12-05,Senate,9,"Signed in the Senate"
+1784067,2023-12-05,House,10,"Signed in the House"
+1784067,2023-12-05,,11,"Sent to the Governor"
+1784067,2023-12-18,,12,"Signed by the Governor"
+1784115,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784115,2023-11-16,Senate,2,Filed
+1784137,2023-11-16,House,1,Filed
+1784161,2023-11-16,House,1,Filed
+1784161,2023-11-17,House,2,"Rules suspended"
+1784161,2023-11-17,House,3,Adopted
+1784161,2023-11-17,House,4,"Reported enrolled"
+1784189,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784189,2023-11-16,Senate,2,Filed
+1784191,2023-11-16,House,1,Filed
+1784191,2023-11-17,House,2,"Rules suspended"
+1784191,2023-11-17,House,3,Adopted
+1784191,2023-11-17,House,4,"Reported enrolled"
+1784193,2023-11-16,House,1,Filed
+1784193,2023-11-17,House,2,"Rules suspended"
+1784193,2023-11-17,House,3,Adopted
+1784193,2023-11-17,House,4,"Reported enrolled"
+1784196,2023-11-16,House,1,Filed
+1784196,2023-11-17,House,2,"Rules suspended"
+1784196,2023-11-17,House,3,Adopted
+1784196,2023-11-17,House,4,"Reported enrolled"
+1784198,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784198,2023-11-16,Senate,2,Filed
+1784201,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784201,2023-11-16,Senate,2,Filed
+1784204,2023-11-16,House,1,Filed
+1784204,2023-11-17,House,2,"Rules suspended"
+1784204,2023-11-17,House,3,Adopted
+1784204,2023-11-17,House,4,"Reported enrolled"
+1784208,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784208,2023-11-21,Senate,2,"Read & adopted"
+1784208,2023-11-21,Senate,3,"Reported enrolled"
+1784211,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784211,2023-11-16,Senate,2,"Read & adopted"
+1784211,2023-11-16,Senate,3,"Reported enrolled"
+1784214,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784214,2023-11-21,Senate,2,"Read & adopted"
+1784214,2023-11-21,Senate,3,"Reported enrolled"
+1784217,2023-11-16,Senate,1,"Received by the Secretary of the Senate"
+1784217,2023-11-21,Senate,2,"Read & adopted"
+1784217,2023-11-21,Senate,3,"Reported enrolled"
+1784220,2023-11-16,House,1,Filed
+1784220,2023-11-17,House,2,"Rules suspended"
+1784220,2023-11-17,House,3,Adopted
+1784220,2023-11-17,House,4,"Reported enrolled"
+1784221,2023-11-17,House,1,Filed
+1784221,2023-12-05,House,2,"Rules suspended"
+1784221,2023-12-05,House,3,Adopted
+1784221,2023-12-05,House,4,"Reported enrolled"
+1784225,2023-11-17,House,1,Filed
+1784225,2023-12-05,House,2,"Rules suspended"
+1784225,2023-12-05,House,3,Adopted
+1784225,2023-12-05,House,4,"Reported enrolled"
+1784226,2023-11-17,House,1,Filed
+1784226,2023-12-05,House,2,"Rules suspended"
+1784226,2023-12-05,House,3,Adopted
+1784226,2023-12-05,House,4,"Reported enrolled"
+1784228,2023-11-17,House,1,Filed
+1784228,2023-11-17,House,2,"Rules suspended"
+1784228,2023-11-17,House,3,Adopted
+1784228,2023-11-17,House,4,"Reported enrolled"
+1784231,2023-11-17,House,1,Filed
+1784231,2023-12-05,House,2,"Rules suspended"
+1784231,2023-12-05,House,3,Adopted
+1784231,2023-12-05,House,4,"Reported enrolled"
+1784247,2023-11-17,House,1,Filed
+1784250,2023-11-17,House,1,Filed
+1784250,2023-12-05,House,2,"Rules suspended"
+1784250,2023-12-05,House,3,Adopted
+1784250,2023-12-05,House,4,"Reported enrolled"
+1784252,2023-11-17,House,1,Filed
+1784255,2023-11-17,House,1,Filed
+1784255,2023-12-05,House,2,"Rules suspended"
+1784255,2023-12-05,House,3,Adopted
+1784255,2023-12-05,House,4,"Reported enrolled"
+1784258,2023-11-17,House,1,Filed
+1784260,2023-11-17,House,1,Filed
+1784260,2023-12-05,House,2,"Rules suspended"
+1784260,2023-12-05,House,3,Adopted
+1784260,2023-12-05,House,4,"Reported enrolled"
+1784263,2023-11-17,House,1,Filed
+1784263,2023-12-05,House,2,"Rules suspended"
+1784263,2023-12-05,House,3,Adopted
+1784263,2023-12-05,House,4,"Reported enrolled"
+1784265,2023-11-17,House,1,Filed
+1784265,2023-12-05,House,2,"Rules suspended"
+1784265,2023-12-05,House,3,Adopted
+1784265,2023-12-05,House,4,"Reported enrolled"
+1784268,2023-11-17,House,1,Filed
+1784268,2023-12-05,House,2,"Rules suspended"
+1784268,2023-12-05,House,3,Adopted
+1784268,2023-12-05,House,4,"Reported enrolled"
+1784271,2023-11-17,House,1,Filed
+1784271,2023-12-05,House,2,"Rules suspended"
+1784271,2023-12-05,House,3,Adopted
+1784271,2023-12-05,House,4,"Reported enrolled"
+1784275,2023-11-17,House,1,Filed
+1784275,2023-12-05,House,2,"Rules suspended"
+1784275,2023-12-05,House,3,Adopted
+1784275,2023-12-05,House,4,"Reported enrolled"
+1784277,2023-11-17,House,1,Filed
+1784277,2023-12-05,House,2,"Rules suspended"
+1784277,2023-12-05,House,3,Adopted
+1784277,2023-12-05,House,4,"Reported enrolled"
+1784279,2023-11-17,House,1,Filed
+1784279,2023-12-05,House,2,"Rules suspended"
+1784279,2023-12-05,House,3,Adopted
+1784279,2023-12-05,House,4,"Reported enrolled"
+1784280,2023-11-17,House,1,Filed
+1784280,2023-12-05,House,2,"Rules suspended"
+1784280,2023-12-05,House,3,Adopted
+1784280,2023-12-05,House,4,"Reported enrolled"
+1784282,2023-11-17,House,1,Filed
+1784284,2023-11-17,House,1,Filed
+1784284,2023-12-05,House,2,"Rules suspended"
+1784284,2023-12-05,House,3,Adopted
+1784284,2023-12-05,House,4,"Reported enrolled"
+1784285,2023-11-17,Senate,1,"Received by the Secretary of the Senate"
+1784285,2023-11-17,Senate,2,Filed
+1784287,2023-11-17,Senate,1,"Received by the Secretary of the Senate"
+1784287,2023-11-21,Senate,2,"Read & adopted"
+1784287,2023-11-21,Senate,3,"Reported enrolled"
+1784288,2023-11-17,Senate,1,"Received by the Secretary of the Senate"
+1784288,2023-11-21,Senate,2,"Read & adopted"
+1784288,2023-11-21,Senate,3,"Reported enrolled"
+1784290,2023-11-17,House,1,Filed
+1784290,2023-12-05,House,2,"Rules suspended"
+1784290,2023-12-05,House,3,Adopted
+1784290,2023-12-05,House,4,"Reported enrolled"
+1784316,2023-11-20,House,1,Filed
+1784316,2023-12-05,House,2,"Rules suspended"
+1784316,2023-12-05,House,3,Adopted
+1784316,2023-12-05,House,4,"Reported enrolled"
+1784318,2023-11-20,House,1,Filed
+1784318,2023-12-05,House,2,"Rules suspended"
+1784318,2023-12-05,House,3,Adopted
+1784318,2023-12-05,House,4,"Reported enrolled"
+1784320,2023-11-20,House,1,Filed
+1784320,2023-12-05,House,2,"Rules suspended"
+1784320,2023-12-05,House,3,Adopted
+1784320,2023-12-05,House,4,"Reported enrolled"
+1784322,2023-11-20,House,1,Filed
+1784322,2023-12-05,House,2,"Rules suspended"
+1784322,2023-12-05,House,3,Adopted
+1784322,2023-12-05,House,4,"Reported enrolled"
+1784325,2023-11-20,House,1,Filed
+1784325,2023-12-05,House,2,"Rules suspended"
+1784325,2023-12-05,House,3,Adopted
+1784325,2023-12-05,House,4,"Reported enrolled"
+1784327,2023-11-20,House,1,Filed
+1784327,2023-12-05,House,2,"Rules suspended"
+1784327,2023-12-05,House,3,Adopted
+1784327,2023-12-05,House,4,"Reported enrolled"
+1784329,2023-11-20,House,1,Filed
+1784329,2023-12-05,House,2,"Rules suspended"
+1784329,2023-12-05,House,3,Adopted
+1784329,2023-12-05,House,4,"Reported enrolled"
+1784332,2023-11-20,House,1,Filed
+1784332,2023-12-05,House,2,"Rules suspended"
+1784332,2023-12-05,House,3,Adopted
+1784332,2023-12-05,House,4,"Reported enrolled"
+1784334,2023-11-20,House,1,Filed
+1784334,2023-12-05,House,2,"Rules suspended"
+1784334,2023-12-05,House,3,Adopted
+1784334,2023-12-05,House,4,"Reported enrolled"
+1784336,2023-11-20,House,1,Filed
+1784336,2023-12-05,House,2,"Rules suspended"
+1784336,2023-12-05,House,3,Adopted
+1784336,2023-12-05,House,4,"Reported enrolled"
+1784339,2023-11-20,House,1,Filed
+1784339,2023-12-05,House,2,"Rules suspended"
+1784339,2023-12-05,House,3,Adopted
+1784339,2023-12-05,House,4,"Reported enrolled"
+1784462,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784462,2023-11-21,Senate,2,"Read & adopted"
+1784462,2023-11-21,Senate,3,"Reported enrolled"
+1784474,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784474,2023-11-21,Senate,2,"Read & adopted"
+1784474,2023-11-21,Senate,3,"Reported enrolled"
+1784488,2023-11-20,House,1,Filed
+1784503,2023-11-20,House,1,Filed
+1784503,2023-12-05,House,2,"Rules suspended"
+1784503,2023-12-05,House,3,Adopted
+1784503,2023-12-05,House,4,"Reported enrolled"
+1784518,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784518,2023-11-21,Senate,2,"Read & adopted"
+1784518,2023-11-21,Senate,3,"Reported enrolled"
+1784534,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784534,2023-11-21,Senate,2,"Read & adopted"
+1784534,2023-11-21,Senate,3,"Reported enrolled"
+1784553,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784553,2023-11-21,Senate,2,"Read & adopted"
+1784553,2023-11-21,Senate,3,"Reported enrolled"
+1784574,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784574,2023-11-21,Senate,2,"Read & adopted"
+1784574,2023-11-21,Senate,3,"Reported enrolled"
+1784593,2023-11-20,Senate,1,"Received by the Secretary of the Senate"
+1784593,2023-11-21,Senate,2,"Read & adopted"
+1784593,2023-11-21,Senate,3,"Reported enrolled"
+1784599,2023-11-21,House,1,Filed
+1784599,2023-12-05,House,2,"Rules suspended"
+1784599,2023-12-05,House,3,Adopted
+1784599,2023-12-05,House,4,"Reported enrolled"
+1784604,2023-11-21,Senate,1,"Received by the Secretary of the Senate"
+1784604,2023-11-21,Senate,2,"Read & adopted"
+1784604,2023-11-21,Senate,3,"Reported enrolled"
+1784609,2023-11-21,Senate,1,"Received by the Secretary of the Senate"
+1784609,2023-11-21,Senate,2,"Read & adopted"
+1784609,2023-11-21,Senate,3,"Reported enrolled"
+1784614,2023-11-21,House,1,Filed
+1784619,2023-11-21,House,1,Filed
+1784619,2023-12-05,House,2,"Rules suspended"
+1784619,2023-12-05,House,3,Adopted
+1784619,2023-12-05,House,4,"Reported enrolled"
+1784624,2023-11-21,House,1,Filed
+1784624,2023-12-05,House,2,"Rules suspended"
+1784624,2023-12-05,House,3,Adopted
+1784624,2023-12-05,House,4,"Reported enrolled"
+1784629,2023-11-21,House,1,Filed
+1784629,2023-12-05,House,2,"Rules suspended"
+1784629,2023-12-05,House,3,Adopted
+1784629,2023-12-05,House,4,"Reported enrolled"
+1784634,2023-11-21,House,1,Filed
+1784634,2023-12-05,House,2,"Rules suspended"
+1784634,2023-12-05,House,3,Adopted
+1784634,2023-12-05,House,4,"Reported enrolled"
+1784819,2023-11-27,Senate,1,"Received by the Secretary of the Senate"
+1784819,2023-11-27,Senate,2,"Read & adopted"
+1784819,2023-11-27,Senate,3,"Reported enrolled"
+1784882,2023-11-27,Senate,1,"Received by the Secretary of the Senate"
+1784882,2023-11-27,Senate,2,"Read & adopted"
+1784882,2023-11-27,Senate,3,"Reported enrolled"
+1784945,2023-11-27,Senate,1,"Received by the Secretary of the Senate"
+1784945,2023-11-27,Senate,2,"Read & adopted"
+1784945,2023-11-27,Senate,3,"Reported enrolled"
+1784946,2023-11-27,House,1,Filed
+1784946,2023-12-05,House,2,"Rules suspended"
+1784946,2023-12-05,House,3,Adopted
+1784946,2023-12-05,House,4,"Reported enrolled"
+1785007,2023-11-28,House,1,Filed
+1785007,2023-12-05,House,2,"Rules suspended"
+1785007,2023-12-05,House,3,Adopted
+1785007,2023-12-05,House,4,"Reported enrolled"
+1785046,2023-11-28,House,1,Filed
+1785046,2023-12-05,House,2,"Rules suspended"
+1785046,2023-12-05,House,3,Adopted
+1785046,2023-12-05,House,4,"Reported enrolled"
+1785055,2023-11-28,House,1,Filed
+1785055,2023-12-05,House,2,"Rules suspended"
+1785055,2023-12-05,House,3,Adopted
+1785055,2023-12-05,House,4,"Reported enrolled"
+1785057,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785057,2023-11-30,Senate,2,"Read & adopted"
+1785057,2023-11-30,Senate,3,"Reported enrolled"
+1785058,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785058,2023-11-30,Senate,2,"Read & adopted"
+1785058,2023-11-30,Senate,3,"Reported enrolled"
+1785060,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785060,2023-11-30,Senate,2,"Read & adopted"
+1785060,2023-11-30,Senate,3,"Reported enrolled"
+1785061,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785061,2023-11-30,Senate,2,"Read & adopted"
+1785061,2023-11-30,Senate,3,"Reported enrolled"
+1785063,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785063,2023-11-30,Senate,2,"Read & adopted"
+1785063,2023-11-30,Senate,3,"Reported enrolled"
+1785064,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785064,2023-11-30,Senate,2,"Read & adopted"
+1785064,2023-11-30,Senate,3,"Reported enrolled"
+1785066,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785066,2023-11-30,Senate,2,"Read & adopted"
+1785066,2023-11-30,Senate,3,"Reported enrolled"
+1785070,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785070,2023-11-30,Senate,2,"Read & adopted"
+1785070,2023-11-30,Senate,3,"Reported enrolled"
+1785074,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785074,2023-11-30,Senate,2,"Read & adopted"
+1785074,2023-11-30,Senate,3,"Reported enrolled"
+1785079,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785079,2023-11-30,Senate,2,"Read & adopted"
+1785079,2023-11-30,Senate,3,"Reported enrolled"
+1785082,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785082,2023-11-30,Senate,2,"Read & adopted"
+1785082,2023-11-30,Senate,3,"Reported enrolled"
+1785086,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785086,2023-11-30,Senate,2,"Read & adopted"
+1785086,2023-11-30,Senate,3,"Reported enrolled"
+1785090,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785090,2023-11-30,Senate,2,"Read & adopted"
+1785090,2023-11-30,Senate,3,"Reported enrolled"
+1785095,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785095,2023-11-30,Senate,2,"Read & adopted"
+1785095,2023-11-30,Senate,3,"Reported enrolled"
+1785101,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785101,2023-11-30,Senate,2,"Read & adopted"
+1785101,2023-11-30,Senate,3,"Reported enrolled"
+1785105,2023-11-29,House,1,Filed
+1785105,2023-12-05,House,2,"Rules suspended"
+1785105,2023-12-05,House,3,Adopted
+1785105,2023-12-05,House,4,"Reported enrolled"
+1785109,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785109,2023-11-30,Senate,2,"Read & adopted"
+1785109,2023-11-30,Senate,3,"Reported enrolled"
+1785114,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785114,2023-11-30,Senate,2,"Read & adopted"
+1785114,2023-11-30,Senate,3,"Reported enrolled"
+1785117,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785117,2023-11-30,Senate,2,"Read & adopted"
+1785117,2023-11-30,Senate,3,"Reported enrolled"
+1785121,2023-11-28,Senate,1,"Received by the Secretary of the Senate"
+1785121,2023-11-30,Senate,2,"Read & adopted"
+1785121,2023-11-30,Senate,3,"Reported enrolled"
+1785130,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785130,2023-11-30,Senate,2,"Read & adopted"
+1785130,2023-11-30,Senate,3,"Reported enrolled"
+1785137,2023-11-29,House,1,Filed
+1785137,2023-12-05,House,2,"Rules suspended"
+1785137,2023-12-05,House,3,Adopted
+1785137,2023-12-05,House,4,"Reported enrolled"
+1785145,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785145,2023-11-30,Senate,2,"Read & adopted"
+1785145,2023-11-30,Senate,3,"Reported enrolled"
+1785152,2023-11-29,House,1,Filed
+1785152,2023-12-05,House,2,"Rules suspended"
+1785152,2023-12-05,House,3,Adopted
+1785152,2023-12-05,House,4,"Reported enrolled"
+1785159,2023-11-29,House,1,Filed
+1785159,2023-12-05,House,2,"Rules suspended"
+1785159,2023-12-05,House,3,Adopted
+1785159,2023-12-05,House,4,"Reported enrolled"
+1785167,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785167,2023-11-30,Senate,2,"Read & adopted"
+1785167,2023-11-30,Senate,3,"Reported enrolled"
+1785175,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785175,2023-11-30,Senate,2,"Read & adopted"
+1785175,2023-11-30,Senate,3,"Reported enrolled"
+1785183,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785183,2023-11-29,Senate,2,Filed
+1785183,2023-12-01,Senate,3,Read
+1785183,2023-12-01,Senate,4,Adopted
+1785183,2023-12-01,Senate,5,"Reported enrolled"
+1785183,2023-12-01,Senate,6,"Printed in full"
+1785204,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785204,2023-11-30,Senate,2,"Read & adopted"
+1785204,2023-11-30,Senate,3,"Reported enrolled"
+1785225,2023-11-29,Senate,1,"Received by the Secretary of the Senate"
+1785225,2023-11-30,Senate,2,"Read & adopted"
+1785225,2023-11-30,Senate,3,"Reported enrolled"
+1785259,2023-11-30,Senate,1,"Received by the Secretary of the Senate"
+1785259,2023-11-30,Senate,2,"Read & adopted"
+1785259,2023-11-30,Senate,3,"Reported enrolled"
+1785271,2023-11-30,Senate,1,"Received by the Secretary of the Senate"
+1785271,2023-11-30,Senate,2,"Read & adopted"
+1785271,2023-11-30,Senate,3,"Reported enrolled"
+1785281,2023-11-30,House,1,Filed
+1785281,2023-12-05,House,2,"Rules suspended"
+1785281,2023-12-05,House,3,Adopted
+1785281,2023-12-05,House,4,"Reported enrolled"
+1785295,2023-11-30,House,1,Filed
+1785295,2023-12-05,House,2,"Rules suspended"
+1785295,2023-12-05,House,3,Adopted
+1785295,2023-12-05,House,4,"Reported enrolled"
+1785307,2023-11-30,House,1,Filed
+1785307,2023-12-05,House,2,"Rules suspended"
+1785307,2023-12-05,House,3,Adopted
+1785307,2023-12-05,House,4,"Reported enrolled"
+1785318,2023-11-30,House,1,Filed
+1785318,2023-12-05,House,2,"Rules suspended"
+1785318,2023-12-05,House,3,Adopted
+1785318,2023-12-05,House,4,"Reported enrolled"
+1785332,2023-11-30,House,1,Filed
+1785332,2023-12-05,House,2,"Rules suspended"
+1785332,2023-12-05,House,3,Adopted
+1785332,2023-12-05,House,4,"Reported enrolled"
+1785348,2023-11-30,House,1,Filed
+1785348,2023-12-05,House,2,"Rules suspended"
+1785348,2023-12-05,House,3,Adopted
+1785348,2023-12-05,House,4,"Reported enrolled"
+1785816,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785816,2023-12-01,Senate,2,"Read & adopted"
+1785816,2023-12-01,Senate,3,"Reported enrolled"
+1785819,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785819,2023-12-01,Senate,2,"Read & adopted"
+1785819,2023-12-01,Senate,3,"Reported enrolled"
+1785822,2023-12-01,House,1,Filed
+1785822,2023-12-05,House,2,"Rules suspended"
+1785822,2023-12-05,House,3,Adopted
+1785822,2023-12-05,House,4,"Reported enrolled"
+1785825,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785825,2023-12-01,Senate,2,Filed
+1785825,2023-12-01,Senate,3,Read
+1785825,2023-12-01,Senate,4,Adopted
+1785825,2023-12-01,Senate,5,"Reported enrolled"
+1785825,2023-12-01,Senate,6,"Printed in full"
+1785829,2023-12-01,House,1,Filed
+1785829,2023-12-05,House,2,"Rules suspended"
+1785829,2023-12-05,House,3,Adopted
+1785829,2023-12-05,House,4,"Reported enrolled"
+1785833,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785833,2023-12-01,Senate,2,"Read & adopted"
+1785833,2023-12-01,Senate,3,"Reported enrolled"
+1785834,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785834,2023-12-01,Senate,2,"Read & adopted"
+1785834,2023-12-01,Senate,3,"Reported enrolled"
+1785835,2023-12-01,House,1,Filed
+1785835,2023-12-05,House,2,"Rules suspended"
+1785835,2023-12-05,House,3,Adopted
+1785835,2023-12-05,House,4,"Reported enrolled"
+1785836,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785836,2023-12-01,Senate,2,Filed
+1785836,2023-12-01,Senate,3,"Co-author authorized"
+1785836,2023-12-01,Senate,4,"Read first time"
+1785836,2023-12-01,Senate,5,"Referred to Jurisprudence"
+1785836,2023-12-01,Senate,6,"Posting rule suspended"
+1785836,2023-12-01,Senate,7,"Scheduled for public hearing on . . ."
+1785836,2023-12-01,Senate,8,"Considered in public hearing"
+1785836,2023-12-01,Senate,9,"Vote taken in committee"
+1785836,2023-12-01,Senate,10,"Reported favorably w/o amendments"
+1785836,2023-12-01,Senate,11,"Printing rule suspended"
+1785836,2023-12-01,Senate,12,"Ordered not printed"
+1785836,2023-12-01,Senate,13,"Laid before the Senate"
+1785836,2023-12-01,Senate,14,"Read 2nd time & passed to engrossment"
+1785836,2023-12-01,Senate,15,"Vote recorded in Journal"
+1785836,2023-12-01,Senate,16,"Three day rule suspended"
+1785836,2023-12-01,Senate,17,"Record vote"
+1785836,2023-12-01,Senate,18,"Read 3rd time"
+1785836,2023-12-01,Senate,19,Passed
+1785836,2023-12-01,Senate,20,"Record vote"
+1785836,2023-12-01,Senate,21,"Reported engrossed"
+1785836,2023-12-05,House,22,"Received from the Senate"
+1785838,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785838,2023-12-01,Senate,2,Filed
+1785838,2023-12-01,Senate,3,"Read first time"
+1785838,2023-12-01,Senate,4,"Referred to Finance"
+1785838,2023-12-01,Senate,5,"Posting rule suspended"
+1785838,2023-12-01,Senate,6,"Scheduled for public hearing on . . ."
+1785838,2023-12-01,Senate,7,"Considered in public hearing"
+1785838,2023-12-01,Senate,8,"Vote taken in committee"
+1785838,2023-12-01,Senate,9,"Reported favorably w/o amendments"
+1785838,2023-12-01,Senate,10,"Printing rule suspended"
+1785838,2023-12-01,Senate,11,"Ordered not printed"
+1785838,2023-12-01,Senate,12,"Laid before the Senate"
+1785838,2023-12-01,Senate,13,"Read 2nd time & passed to engrossment"
+1785838,2023-12-01,Senate,14,"Record vote"
+1785838,2023-12-01,Senate,15,"Three day rule suspended"
+1785838,2023-12-01,Senate,16,"Record vote"
+1785838,2023-12-01,Senate,17,"Read 3rd time"
+1785838,2023-12-01,Senate,18,Passed
+1785838,2023-12-01,Senate,19,"Record vote"
+1785838,2023-12-01,Senate,20,"Reported engrossed"
+1785838,2023-12-05,House,21,"Received from the Senate"
+1785839,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785839,2023-12-01,Senate,2,"Read & adopted"
+1785839,2023-12-01,Senate,3,"Reported enrolled"
+1785888,2023-12-01,Senate,1,"Received by the Secretary of the Senate"
+1785888,2023-12-01,Senate,2,Filed
+1785932,2023-12-04,House,1,Filed
+1785932,2023-12-05,House,2,"Rules suspended"
+1785932,2023-12-05,House,3,Adopted
+1785932,2023-12-05,House,4,"Reported enrolled"
+1785944,2023-12-04,House,1,Filed
+1785944,2023-12-05,House,2,"Rules suspended"
+1785944,2023-12-05,House,3,Adopted
+1785944,2023-12-05,House,4,"Reported enrolled"
+1785956,2023-12-04,House,1,Filed
+1785956,2023-12-05,House,2,"Rules suspended"
+1785956,2023-12-05,House,3,Adopted
+1785956,2023-12-05,House,4,"Reported enrolled"
+1785973,2023-12-04,House,1,Filed
+1785973,2023-12-05,House,2,"Rules suspended"
+1785973,2023-12-05,House,3,Adopted
+1785973,2023-12-05,House,4,"Reported enrolled"
+1785976,2023-12-04,House,1,Filed
+1785976,2023-12-05,House,2,"Rules suspended"
+1785976,2023-12-05,House,3,Adopted
+1785976,2023-12-05,House,4,"Reported enrolled"
+1785977,2023-12-04,House,1,Filed
+1785977,2023-12-05,House,2,"Rules suspended"
+1785977,2023-12-05,House,3,Adopted
+1785977,2023-12-05,House,4,"Reported enrolled"
+1785979,2023-12-04,House,1,Filed
+1785983,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1785983,2023-12-04,Senate,2,Filed
+1785983,2023-12-05,Senate,3,"Read & adopted"
+1785983,2023-12-05,House,4,"Received from the Senate"
+1785987,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1785987,2023-12-05,Senate,2,"Read & adopted"
+1785987,2023-12-05,Senate,3,"Reported enrolled"
+1785989,2023-12-04,House,1,Filed
+1785989,2023-12-05,House,2,"Rules suspended"
+1785989,2023-12-05,House,3,Adopted
+1785989,2023-12-05,House,4,"Reported enrolled"
+1785991,2023-12-04,House,1,Filed
+1785991,2023-12-05,House,2,"Rules suspended"
+1785991,2023-12-05,House,3,Adopted
+1785991,2023-12-05,House,4,"Reported enrolled"
+1785994,2023-12-04,House,1,Filed
+1785994,2023-12-05,House,2,"Rules suspended"
+1785994,2023-12-05,House,3,Adopted
+1785994,2023-12-05,House,4,"Reported enrolled"
+1785997,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1785997,2023-12-05,Senate,2,"Read & adopted"
+1785997,2023-12-05,Senate,3,"Reported enrolled"
+1786000,2023-12-04,House,1,Filed
+1786004,2023-12-04,House,1,Filed
+1786004,2023-12-05,House,2,"Rules suspended"
+1786004,2023-12-05,House,3,Adopted
+1786004,2023-12-05,House,4,"Reported enrolled"
+1786006,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1786006,2023-12-05,Senate,2,"Read & adopted"
+1786006,2023-12-05,Senate,3,"Reported enrolled"
+1786009,2023-12-04,House,1,Filed
+1786009,2023-12-05,House,2,"Rules suspended"
+1786009,2023-12-05,House,3,Adopted
+1786009,2023-12-05,House,4,"Reported enrolled"
+1786015,2023-12-04,House,1,Filed
+1786018,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1786018,2023-12-04,Senate,2,Filed
+1786021,2023-12-04,House,1,Filed
+1786021,2023-12-05,House,2,"Rules suspended"
+1786021,2023-12-05,House,3,Adopted
+1786021,2023-12-05,House,4,"Reported enrolled"
+1786024,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1786024,2023-12-05,Senate,2,"Read & adopted"
+1786024,2023-12-05,Senate,3,"Reported enrolled"
+1786026,2023-12-04,House,1,Filed
+1786026,2023-12-05,House,2,"Rules suspended"
+1786026,2023-12-05,House,3,Adopted
+1786026,2023-12-05,House,4,"Reported enrolled"
+1786029,2023-12-04,House,1,Filed
+1786034,2023-12-04,House,1,Filed
+1786034,2023-12-05,House,2,"Rules suspended"
+1786034,2023-12-05,House,3,Adopted
+1786034,2023-12-05,House,4,"Reported enrolled"
+1786230,2023-12-04,House,1,Filed
+1786427,2023-12-04,House,1,Filed
+1786625,2023-12-04,House,1,Filed
+1786625,2023-12-05,House,2,"Rules suspended"
+1786625,2023-12-05,House,3,Adopted
+1786625,2023-12-05,House,4,"Reported enrolled"
+1786821,2023-12-04,House,1,Filed
+1786821,2023-12-05,House,2,"Rules suspended"
+1786821,2023-12-05,House,3,Adopted
+1786821,2023-12-05,House,4,"Reported enrolled"
+1787019,2023-12-04,House,1,Filed
+1787216,2023-12-04,House,1,Filed
+1787216,2023-12-05,House,2,"Rules suspended"
+1787216,2023-12-05,House,3,Adopted
+1787216,2023-12-05,House,4,"Reported enrolled"
+1787414,2023-12-04,House,1,Filed
+1787414,2023-12-05,House,2,"Rules suspended"
+1787414,2023-12-05,House,3,Adopted
+1787414,2023-12-05,House,4,"Reported enrolled"
+1787612,2023-12-04,House,1,Filed
+1787612,2023-12-05,House,2,"Rules suspended"
+1787612,2023-12-05,House,3,Adopted
+1787612,2023-12-05,House,4,"Reported enrolled"
+1787808,2023-12-04,House,1,Filed
+1787808,2023-12-05,House,2,"Rules suspended"
+1787808,2023-12-05,House,3,Adopted
+1787808,2023-12-05,House,4,"Reported enrolled"
+1788004,2023-12-04,House,1,Filed
+1788004,2023-12-05,House,2,"Rules suspended"
+1788004,2023-12-05,House,3,Adopted
+1788004,2023-12-05,House,4,"Reported enrolled"
+1788200,2023-12-04,House,1,Filed
+1788200,2023-12-05,House,2,"Rules suspended"
+1788200,2023-12-05,House,3,Adopted
+1788200,2023-12-05,House,4,"Reported enrolled"
+1788384,2023-12-04,House,1,Filed
+1788384,2023-12-05,House,2,"Rules suspended"
+1788384,2023-12-05,House,3,Adopted
+1788384,2023-12-05,House,4,"Reported enrolled"
+1788491,2023-12-04,House,1,Filed
+1788649,2023-12-04,House,1,Filed
+1788649,2023-12-05,House,2,"Rules suspended"
+1788649,2023-12-05,House,3,Adopted
+1788649,2023-12-05,House,4,"Reported enrolled"
+1788818,2023-12-04,Senate,1,"Received by the Secretary of the Senate"
+1788818,2023-12-05,Senate,2,"Read & adopted"
+1788818,2023-12-05,Senate,3,"Reported enrolled"
+1789011,2023-12-04,House,1,Filed
+1789423,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789423,2023-12-05,Senate,2,"Read & adopted"
+1789423,2023-12-05,Senate,3,"Reported enrolled"
+1789426,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789426,2023-12-05,Senate,2,"Read & adopted"
+1789426,2023-12-05,Senate,3,"Reported enrolled"
+1789429,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789429,2023-12-05,Senate,2,"Read & adopted"
+1789429,2023-12-05,Senate,3,"Reported enrolled"
+1789432,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789432,2023-12-05,Senate,2,"Read & adopted"
+1789432,2023-12-05,Senate,3,"Reported enrolled"
+1789435,2023-12-05,House,1,Filed
+1789435,2023-12-05,House,2,"Rules suspended"
+1789435,2023-12-05,House,3,Adopted
+1789435,2023-12-05,House,4,"Reported enrolled"
+1789437,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789437,2023-12-05,Senate,2,"Read & adopted"
+1789437,2023-12-05,Senate,3,"Reported enrolled"
+1789441,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789441,2023-12-05,Senate,2,"Read & adopted"
+1789441,2023-12-05,Senate,3,"Reported enrolled"
+1789444,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789460,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789460,2023-12-05,Senate,2,"Read & adopted"
+1789460,2023-12-05,Senate,3,"Reported enrolled"
+1789475,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789475,2023-12-05,Senate,2,"Read & adopted"
+1789475,2023-12-05,Senate,3,"Reported enrolled"
+1789489,2023-12-05,Senate,1,"Received by the Secretary of the Senate"
+1789489,2023-12-05,Senate,2,"Read & adopted"
+1789489,2023-12-05,Senate,3,"Reported enrolled"

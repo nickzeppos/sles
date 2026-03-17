@@ -1,0 +1,7 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1896603,1470251,2024-12-12,Senate,"Senate Committee Do adopt",12,0,0,0,12
+1896603,1470253,2024-12-12,Senate,"Senate Final Reading",25,2,0,3,30
+1896603,1470254,2024-12-12,House,"House Read and Adopted",44,0,0,15,59
+1896604,1470252,2024-12-12,Senate,"Senate Committee Do pass",12,0,0,0,12
+1896604,1470255,2024-12-12,Senate,"Senate Third Reading",25,2,0,3,30
+1896604,1470256,2024-12-12,House,"House Third Reading",42,2,0,15,59

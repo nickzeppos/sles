@@ -1,0 +1,1115 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1140650,781806,2019-01-07,House,"House Adopted",98,0,0,0,98
+1140651,781805,2019-01-07,House,"House Adopted",97,0,0,0,97
+1140652,781809,2019-01-07,House,"House Adopted",97,0,0,0,97
+1140653,895061,2019-10-09,Senate,"Senate Favorable Passage",9,0,0,0,9
+1140653,895062,2019-10-09,Senate,"Senate Adopted",31,0,0,0,31
+1140653,913005,2020-01-30,House,"House Favorable Passage",14,0,0,0,14
+1140653,938319,2020-02-05,House,"House Adopted",95,0,0,0,95
+1140654,782066,2019-01-07,House,"House Adopted",98,0,0,0,98
+1140655,782068,2019-01-07,House,"House Adopted",96,0,0,0,96
+1140656,781807,2019-01-07,House,"House Adopted",98,0,0,0,98
+1140657,782067,2019-01-07,House,"House Adopted",98,0,0,0,98
+1140658,781727,2019-01-07,Senate,"Senate Adopted",28,0,0,0,28
+1140659,781810,2019-01-07,House,"House Adopted",97,0,0,0,97
+1140660,781728,2019-01-07,Senate,"Senate Adopted",28,0,0,0,28
+1140661,781808,2019-01-07,House,"House Adopted",98,0,0,0,98
+1171575,933026,2020-02-24,Senate,"Senate Favorable Passage",11,0,0,0,11
+1192290,794429,2019-02-06,Senate,"Senate Adopted",30,0,0,0,30
+1192410,794034,2019-02-06,House,"House Adopted",96,0,0,0,96
+1192529,794030,2019-02-06,House,"House Adopted",96,0,0,0,96
+1192643,793987,2019-02-06,House,"House Adopted",58,0,0,0,58
+1192762,794185,2019-02-06,Senate,"Senate Adopted",21,0,0,0,21
+1192880,794681,2019-02-06,House,"House Adopted",97,0,0,0,97
+1200196,840655,2019-04-10,Senate,"Senate Passed",31,0,0,0,31
+1200196,841441,2019-04-10,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200204,820804,2019-03-13,Senate,"Senate Passed",19,13,0,0,32
+1200204,821259,2019-03-13,Senate,"Senate Favorable Passage",8,4,0,0,12
+1200204,839125,2019-04-09,House,"House Favorable Passage",11,7,0,0,18
+1200204,841381,2019-04-10,House,"House Passed",56,40,0,0,96
+1200218,826707,2019-03-21,Senate,"Senate Favorable Passage",12,0,0,0,12
+1200218,826708,2019-03-21,Senate,"Senate Passed",31,0,0,0,31
+1200218,860353,2019-05-07,House,"House Favorable Passage",10,0,0,0,10
+1200218,895803,2019-10-29,House,"House Re-referred",10,0,0,0,10
+1200218,900198,2019-12-11,House,"House Passed",87,6,0,0,93
+1200218,942820,2020-03-04,Senate,"Senate Failed",0,30,0,0,30
+1200235,889765,2019-07-17,Senate,"Senate Passed",31,0,0,0,31
+1200235,889927,2019-07-17,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200239,830134,2019-03-27,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200239,830135,2019-03-27,Senate,"Senate Passed",31,0,0,0,31
+1200239,895214,2019-10-17,House,"House Favorable Passage",13,0,0,0,13
+1200239,895605,2019-10-24,House,"House Passed",93,0,0,0,93
+1200239,896161,2019-11-06,Senate,"Senate Failed",0,33,0,0,33
+1200259,861248,2019-05-08,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200259,861249,2019-05-08,Senate,"Senate Passed",32,0,0,0,32
+1200265,957660,2019-04-10,House,"House Favorable Passage",13,0,0,0,13
+1200265,957661,2019-05-01,House,"House Passed",96,0,0,0,96
+1200265,957662,2019-11-06,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200265,957663,2019-11-13,Senate,"Senate Passed",31,0,0,0,31
+1200265,957664,2020-02-12,House,"House Failed",12,84,0,0,96
+1200265,957665,2020-05-06,Senate,"Senate Passed",33,0,0,0,33
+1200294,878787,2019-06-06,Senate,"Senate Favorable Passage",13,0,0,0,13
+1200294,887746,2019-06-26,Senate,"Senate Passed",32,1,0,0,33
+1200294,982399,2020-11-19,House,"House Favorable Passage",12,1,0,0,13
+1200294,983102,2020-12-08,House,"House Passed",84,1,0,0,85
+1200304,880862,2019-06-12,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200304,880863,2019-06-12,Senate,"Senate Passed",32,0,0,0,32
+1200319,841147,2019-04-10,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200335,834824,2019-04-03,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200335,834825,2019-04-03,Senate,"Senate Passed",31,0,0,0,31
+1200339,820887,2019-03-13,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200339,830325,2019-03-27,Senate,"Senate Passed",31,0,0,0,31
+1200339,861282,2019-05-08,House,"House Re-referred",14,0,0,0,14
+1200339,874969,2019-05-30,House,"House Favorable Passage",26,0,0,0,26
+1200339,965867,2020-06-11,House,"House Passed",78,12,0,0,90
+1200353,835918,2019-04-04,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200353,840858,2019-04-10,Senate,"Senate Passed",31,0,0,0,31
+1200353,875350,2019-05-30,House,"House Favorable Passage",13,0,0,0,13
+1200353,895118,2019-10-10,House,"House Passed",92,0,0,0,92
+1200356,828805,2019-03-26,Senate,"Senate Favorable Passage",7,3,0,0,10
+1200356,830316,2019-03-27,Senate,"Senate Passed",24,7,0,0,31
+1200356,982880,2020-12-03,House,"House Favorable Passage",8,6,0,0,14
+1200356,982881,2020-12-03,House,"House Passed",60,36,0,0,96
+1200361,834107,2019-04-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200383,911555,2020-01-28,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200383,911556,2020-01-28,Senate,"Senate Passed",33,0,0,0,33
+1200383,982505,2020-11-24,House,"House Favorable Passage",7,3,0,0,10
+1200383,982733,2020-12-02,House,"House Passed",66,27,0,0,93
+1200395,819311,2019-03-12,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200395,821052,2019-03-13,Senate,"Senate Passed",32,0,0,0,32
+1200402,819710,2019-03-12,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200402,820740,2019-03-13,Senate,"Senate Passed",32,0,0,0,32
+1200402,862963,2019-05-13,House,"House Favorable Passage",12,0,0,0,12
+1200402,895792,2019-10-29,House,"House Re-referred",10,0,0,0,10
+1200402,964243,2020-06-09,House,"House Passed",90,0,0,0,90
+1200429,914201,2020-02-04,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200429,979044,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1200489,841896,2019-04-11,Senate,"Senate Favorable Passage",8,0,0,0,8
+1200489,856730,2019-05-01,Senate,"Senate Passed",32,0,0,0,32
+1200501,861261,2019-05-08,Senate,"Senate Favorable Passage",8,3,0,0,11
+1200501,861262,2019-05-08,Senate,"Senate Passed",24,8,0,0,32
+1200501,957656,2020-05-06,House,"House Favorable Passage",9,5,0,0,14
+1200501,957657,2020-05-06,House,"House Passed",58,37,0,0,95
+1200501,959618,2020-05-20,Senate,"Senate Failed",0,32,0,0,32
+1200510,856252,2019-05-01,Senate,"Senate Favorable Passage",8,2,0,0,10
+1200510,856253,2019-05-01,Senate,"Senate Passed",24,8,0,0,32
+1200510,912631,2020-01-30,House,"House Favorable Passage",14,8,0,0,22
+1200510,983700,2020-12-17,House,"House Passed",55,30,0,0,85
+1200512,896331,2019-11-13,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200512,896332,2019-11-13,Senate,"Senate Passed",31,0,0,0,31
+1200528,889928,2019-07-17,Senate,"Senate Favorable Passage",8,0,0,0,8
+1200528,894311,2019-09-18,Senate,"Senate Passed",33,0,0,0,33
+1200541,835785,2019-04-03,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200541,841227,2019-04-10,Senate,"Senate Passed",31,0,0,0,31
+1200541,961497,2020-05-28,House,"House Favorable Passage",12,3,0,0,15
+1200541,961498,2020-05-28,House,"House Passed",58,34,0,0,92
+1200541,962645,2020-06-03,Senate,"Senate Failed",12,21,0,0,33
+1200558,815266,2019-03-06,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200558,815267,2019-03-06,Senate,"Senate Passed",32,0,0,0,32
+1200558,895152,2019-10-11,House,"House Favorable Passage",10,0,0,0,10
+1200558,895511,2019-10-23,House,"House Passed",90,0,0,0,90
+1200597,861258,2019-05-08,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200597,861259,2019-05-08,Senate,"Senate Passed",32,0,0,0,32
+1200597,894837,2019-10-01,House,"House Re-referred",9,0,0,0,9
+1200597,894838,2019-10-01,House,"House Re-referred",13,0,0,0,13
+1200597,895115,2019-10-10,House,"House Favorable Passage",31,0,0,0,31
+1200597,895120,2019-10-10,House,"House Passed",91,0,0,0,91
+1200613,808981,2019-02-26,Senate,"Senate Passed",32,0,0,0,32
+1200613,809358,2019-02-26,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200613,842459,2019-04-11,House,"House Favorable Passage",14,0,0,0,14
+1200613,842460,2019-04-11,House,"House Passed",93,0,0,0,93
+1200627,970158,2020-06-30,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200627,970159,2020-06-30,Senate,"Senate Passed",25,4,0,0,29
+1200627,983685,2020-12-17,House,"House Favorable Passage",7,3,0,0,10
+1200628,808866,2019-02-26,Senate,"Senate Passed",32,0,0,0,32
+1200628,809233,2019-02-26,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200632,811358,2019-02-28,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200632,815100,2019-03-06,Senate,"Senate Passed",32,0,0,0,32
+1200632,958434,2020-05-13,House,"House Favorable Passage",13,1,0,0,14
+1200632,981863,2020-11-18,House,"House Passed",84,2,0,0,86
+1200648,878265,2019-06-05,House,"House Favorable Passage",16,0,0,0,16
+1200650,815892,2019-03-07,House,"House Favorable Passage",30,3,0,0,33
+1200650,815893,2019-03-07,House,"House Passed",71,27,0,0,98
+1200650,826763,2019-03-21,Senate,"Senate Favorable Passage",6,5,0,0,11
+1200650,826764,2019-03-21,Senate,"Senate Passed",24,6,0,0,30
+1200650,829982,2019-03-27,House,"House Failed",0,97,0,0,97
+1200654,863633,2019-05-14,House,"House Favorable Passage",14,0,0,0,14
+1200654,895912,2019-10-30,House,"House Passed",92,0,0,0,92
+1200654,982865,2020-12-03,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200654,982866,2020-12-03,Senate,"Senate Passed",33,0,0,0,33
+1200661,864193,2019-05-15,House,"House Favorable Passage",16,0,0,0,16
+1200661,895545,2019-10-23,House,"House Passed",89,1,0,0,90
+1200661,923848,2020-02-14,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200661,965160,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1200668,841296,2019-04-10,House,"House Favorable Passage",13,0,0,0,13
+1200668,856339,2019-05-01,House,"House Passed",96,0,0,0,96
+1200668,896157,2019-11-06,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200668,896318,2019-11-13,Senate,"Senate Passed",31,0,0,0,31
+1200668,921839,2020-02-12,House,"House Failed",12,84,0,0,96
+1200680,820496,2019-03-13,House,"House Favorable Passage",12,0,0,0,12
+1200686,899843,2019-11-26,House,"House Favorable Passage",11,0,0,0,11
+1200686,965868,2020-06-11,House,"House Passed",90,2,0,0,92
+1200686,983152,2020-12-10,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200686,983607,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1200699,809864,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200714,809922,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200717,820726,2019-03-13,House,"House Favorable Passage",11,0,0,0,11
+1200717,825886,2019-03-20,House,"House Passed",95,0,0,0,95
+1200717,861212,2019-05-08,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200717,889764,2019-07-17,Senate,"Senate Passed",31,0,0,0,31
+1200720,856631,2019-05-01,House,"House Favorable Passage",21,0,0,0,21
+1200720,864635,2019-05-15,House,"House Passed",90,3,0,0,93
+1200727,809917,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200747,888350,2019-06-27,House,"House Favorable Passage",14,0,0,0,14
+1200747,981902,2020-11-18,House,"House Passed",87,0,0,0,87
+1200750,810007,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200753,825753,2019-03-20,House,"House Favorable Passage",21,0,0,0,21
+1200753,830144,2019-03-27,House,"House Passed",97,0,0,0,97
+1200753,900805,2019-12-17,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200753,900806,2019-12-17,Senate,"Senate Passed",33,0,0,0,33
+1200763,809906,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200768,896316,2019-11-13,House,"House Favorable Passage",16,0,0,0,16
+1200768,896317,2019-11-13,House,"House Passed",87,4,0,0,91
+1200768,983458,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1200777,884520,2019-06-19,House,"House Favorable Passage",14,0,0,0,14
+1200777,888325,2019-06-27,House,"House Passed",95,0,0,0,95
+1200786,961911,2020-06-01,House,"House Favorable Passage",13,0,0,0,13
+1200786,965241,2020-06-10,House,"House Passed",92,2,0,0,94
+1200786,983155,2020-12-10,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200786,983632,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1200791,809921,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200804,826232,2019-03-21,House,"House Favorable Passage",14,0,0,0,14
+1200804,831357,2019-03-28,House,"House Passed",94,0,0,0,94
+1200804,888366,2019-06-27,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200804,888367,2019-06-27,Senate,"Senate Passed",33,0,0,0,33
+1200814,832169,2019-03-29,House,"House Favorable Passage",13,0,0,0,13
+1200814,842499,2019-04-11,House,"House Passed",89,3,0,0,92
+1200814,979083,2020-09-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1200814,979084,2020-09-23,Senate,"Senate Passed",32,0,0,0,32
+1200817,825321,2019-03-20,House,"House Favorable Passage",10,0,0,0,10
+1200817,831102,2019-03-28,House,"House Passed",93,1,0,0,94
+1200817,888729,2019-06-28,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200817,964942,2020-06-10,Senate,"Senate Passed",23,9,0,0,32
+1200817,964943,2020-06-10,Senate,"Senate Passed",21,11,0,0,32
+1200817,965871,2020-06-11,House,"House Failed",33,60,0,0,93
+1200824,865153,2019-05-16,House,"House Favorable Passage",14,0,0,0,14
+1200824,894883,2019-10-02,House,"House Passed",92,0,0,0,92
+1200824,983131,2020-12-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1200824,983640,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1200849,831211,2019-03-28,House,"House Favorable Passage",14,0,0,0,14
+1200865,896312,2019-11-13,House,"House Favorable Passage",17,1,0,0,18
+1200865,899340,2019-11-19,House,"House Passed",92,0,0,0,92
+1200865,978896,2020-09-22,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200865,979075,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1200871,899836,2019-11-26,House,"House Favorable Passage",15,0,0,0,15
+1200871,928616,2020-02-20,House,"House Passed",91,1,0,0,92
+1200871,983121,2020-12-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1200871,983843,2020-12-22,Senate,"Senate Passed",30,1,0,0,31
+1200875,809966,2019-02-27,House,"House Favorable Passage",14,0,0,0,14
+1200885,815863,2019-03-07,House,"House Favorable Passage",15,0,0,0,15
+1200885,981879,2020-11-18,House,"House Passed",86,0,0,0,86
+1200885,983697,2020-12-17,Senate,"Senate Favorable Passage",10,0,0,0,10
+1200885,983884,2020-12-22,Senate,"Senate Passed",31,0,0,0,31
+1200894,899841,2019-11-26,House,"House Favorable Passage",13,0,0,0,13
+1203850,840986,2019-04-10,House,"House Favorable Passage",11,9,0,0,20
+1203850,900219,2019-12-11,House,"House Passed",54,39,0,0,93
+1203850,983409,2020-12-16,Senate,"Senate Favorable Passage",6,3,0,0,9
+1203850,983844,2020-12-22,Senate,"Senate Passed",21,10,0,0,31
+1203917,856497,2019-05-01,House,"House Favorable Passage",20,1,0,0,21
+1203917,864378,2019-05-15,House,"House Passed",90,3,0,0,93
+1203917,983672,2020-12-17,Senate,"Senate Favorable Passage",10,0,0,0,10
+1204055,815093,2019-03-06,House,"House Re-referred",15,0,0,0,15
+1204055,875343,2019-05-30,House,"House Favorable Passage",26,0,0,0,26
+1204055,875344,2019-05-30,House,"House Passed",87,1,0,0,88
+1204055,884315,2019-06-19,Senate,"Senate Favorable Passage",11,0,0,0,11
+1204055,884316,2019-06-19,Senate,"Senate Passed",33,0,0,0,33
+1204193,868286,2019-05-21,House,"House Re-referred",12,1,0,0,13
+1204193,878058,2019-06-05,House,"House Favorable Passage",27,2,0,0,29
+1204193,878362,2019-06-05,House,"House Passed",55,38,0,0,93
+1204193,888287,2019-06-27,Senate,"Senate Favorable Passage",13,0,0,0,13
+1204193,888288,2019-06-27,Senate,"Senate Passed",33,0,0,0,33
+1204193,889121,2019-06-30,House,"House Failed",4,88,0,0,92
+1204469,833844,2019-04-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1204469,835136,2019-04-03,Senate,"Senate Passed",31,0,0,0,31
+1204469,873832,2019-05-28,House,"House Favorable Passage",9,0,0,0,9
+1204469,878164,2019-06-05,House,"House Re-referred",10,0,0,0,10
+1204469,894887,2019-10-02,House,"House Passed",92,0,0,0,92
+1204676,841304,2019-04-10,House,"House Favorable Passage",12,8,0,0,20
+1204676,895614,2019-10-24,House,"House Passed",54,39,0,0,93
+1209704,835144,2019-04-03,Senate,"Senate Favorable Passage",9,1,0,0,10
+1209704,864677,2019-05-15,Senate,"Senate Passed",31,2,0,0,33
+1209704,896115,2019-11-05,House,"House Favorable Passage",12,0,0,0,12
+1209704,957678,2020-05-06,House,"House Passed",72,23,0,0,95
+1210062,809015,2019-02-26,Senate,"Senate Passed",24,8,0,0,32
+1210062,809374,2019-02-26,Senate,"Senate Favorable Passage",8,3,0,0,11
+1210075,815509,2019-03-06,House,"House Favorable Passage",15,0,0,0,15
+1210075,815510,2019-03-06,House,"House Adopted",96,1,0,0,97
+1210075,815511,2019-03-06,House,"House Adopted",96,1,0,0,97
+1210075,815512,2019-03-06,House,"House Adopted",97,0,0,0,97
+1210168,805677,2019-02-21,House,"House Favorable Passage",8,5,0,0,13
+1210168,810058,2019-02-27,House,"House Passed",76,20,0,0,96
+1210168,815050,2019-03-06,Senate,"Senate Favorable Passage",8,3,0,0,11
+1210168,815051,2019-03-06,Senate,"Senate Passed",23,9,0,0,32
+1210218,832044,2019-03-29,House,"House Favorable Passage",13,0,0,0,13
+1210218,834680,2019-04-03,House,"House Passed",93,2,0,0,95
+1210263,820941,2019-03-13,House,"House Favorable Passage",12,0,0,0,12
+1210307,899492,2019-11-19,House,"House Favorable Passage",13,0,0,0,13
+1210307,899607,2019-11-20,House,"House Passed",94,0,0,0,94
+1210307,935594,2020-02-26,Senate,"Senate Favorable Passage",13,0,0,0,13
+1210307,959815,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1211067,831226,2019-03-28,Senate,"Senate Favorable Passage",9,0,0,0,9
+1211067,831227,2019-03-28,Senate,"Senate Passed",30,0,0,0,30
+1211067,878250,2019-06-05,House,"House Favorable Passage",12,1,0,0,13
+1211067,889766,2019-07-17,House,"House Passed",89,3,0,0,92
+1213414,895109,2019-10-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1213414,895543,2019-10-23,Senate,"Senate Passed",31,0,0,0,31
+1213414,962236,2020-06-02,House,"House Favorable Passage",15,0,0,0,15
+1213691,895086,2019-10-09,Senate,"Senate Favorable Passage",9,1,0,0,10
+1213691,895520,2019-10-23,Senate,"Senate Passed",30,1,0,0,31
+1218528,870682,2019-05-23,Senate,"Senate Favorable Passage",10,0,0,0,10
+1218528,874106,2019-05-29,Senate,"Senate Passed",32,0,0,0,32
+1218528,983695,2020-12-17,House,"House Favorable Passage",8,2,0,0,10
+1218528,983696,2020-12-17,House,"House Passed",84,0,0,0,84
+1220039,820749,2019-03-13,House,"House Favorable Passage",9,0,0,0,9
+1220200,895973,2019-10-30,House,"House Favorable Passage",11,4,0,0,15
+1220527,959674,2020-05-20,House,"House Re-referred",15,0,0,0,15
+1221719,961354,2020-05-28,House,"House Favorable Passage",11,2,0,0,13
+1221719,964407,2020-06-09,House,"House Passed",80,11,0,0,91
+1222584,899553,2019-11-20,House,"House Favorable Passage",15,1,0,0,16
+1222584,958639,2020-05-13,House,"House Passed",80,14,0,0,94
+1222584,983674,2020-12-17,Senate,"Senate Favorable Passage",11,0,0,0,11
+1222762,895544,2019-10-23,House,"House Favorable Passage",16,0,0,0,16
+1224664,864613,2019-05-15,House,"House Favorable Passage",14,0,0,0,14
+1224664,869352,2019-05-22,House,"House Passed",93,1,0,0,94
+1225061,829946,2019-03-27,House,"House Re-referred",20,0,0,0,20
+1228961,888340,2019-06-27,House,"House Favorable Passage",14,0,0,0,14
+1228961,895535,2019-10-23,House,"House Passed",90,0,0,0,90
+1229959,895210,2019-10-17,House,"House Favorable Passage",8,0,0,0,8
+1229959,895601,2019-10-24,House,"House Passed",91,2,0,0,93
+1230177,839415,2019-04-09,Senate,"Senate Favorable Passage",8,0,0,0,8
+1230177,841300,2019-04-10,Senate,"Senate Passed",31,0,0,0,31
+1230177,870595,2019-05-23,House,"House Favorable Passage",13,0,0,0,13
+1230177,896158,2019-11-06,House,"House Passed",92,0,0,0,92
+1230328,894953,2019-10-07,Senate,"Senate Favorable Passage",11,0,0,0,11
+1230328,895076,2019-10-09,Senate,"Senate Passed",31,0,0,0,31
+1230453,922911,2020-02-12,Senate,"Senate Favorable Passage",9,0,0,0,9
+1230453,935708,2020-02-26,Senate,"Senate Passed",32,0,0,0,32
+1231513,884527,2019-06-19,House,"House Favorable Passage",16,0,0,0,16
+1231513,894879,2019-10-02,House,"House Passed",85,7,0,0,92
+1231513,970491,2020-07-07,Senate,"Senate Favorable Passage",10,0,0,0,10
+1231513,973558,2020-07-21,Senate,"Senate Passed",32,0,0,0,32
+1231670,895209,2019-10-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1231670,895516,2019-10-23,Senate,"Senate Passed",31,0,0,0,31
+1231670,916739,2020-02-05,House,"House Favorable Passage",13,3,0,0,16
+1231670,938198,2020-02-05,House,"House Passed",88,7,0,0,95
+1231961,977722,2020-09-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1231961,979069,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1232174,821091,2019-03-13,Senate,"Senate Favorable Passage",9,3,0,0,12
+1232174,821092,2019-03-13,Senate,"Senate Adopted",32,0,0,0,32
+1232437,815002,2019-03-06,House,"House Adopted",96,0,0,0,96
+1233359,870738,2019-05-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1233359,880688,2019-06-12,Senate,"Senate Passed",32,0,0,0,32
+1233359,983680,2020-12-17,House,"House Favorable Passage",16,0,0,0,16
+1233743,982839,2020-12-02,House,"House Favorable Passage",13,0,0,0,13
+1236854,942418,2020-03-04,Senate,"Senate Favorable Passage",12,0,0,0,12
+1237023,894951,2019-10-07,Senate,"Senate Favorable Passage",11,0,0,0,11
+1237023,895091,2019-10-09,Senate,"Senate Passed",31,0,0,0,31
+1237023,982770,2020-12-02,House,"House Favorable Passage",14,1,0,0,15
+1237078,857704,2019-05-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1237078,864171,2019-05-15,Senate,"Senate Passed",33,0,0,0,33
+1237078,895955,2019-10-30,House,"House Favorable Passage",15,0,0,0,15
+1237568,875263,2019-05-30,House,"House Favorable Passage",13,0,0,0,13
+1237568,884198,2019-06-19,House,"House Passed",97,0,0,0,97
+1237626,861039,2019-05-08,House,"House Favorable Passage",13,0,0,0,13
+1237626,888279,2019-06-27,House,"House Passed",95,0,0,0,95
+1237626,904518,2020-01-22,Senate,"Senate Favorable Passage",11,0,0,0,11
+1237626,904519,2020-01-22,Senate,"Senate Passed",33,0,0,0,33
+1237660,829933,2019-03-27,House,"House Favorable Passage",14,0,0,0,14
+1237730,841333,2019-04-10,House,"House Favorable Passage",11,0,0,0,11
+1237730,856466,2019-05-01,House,"House Adopted",96,0,0,0,96
+1237730,904460,2020-01-22,Senate,"Senate Favorable Passage",9,0,0,0,9
+1237730,904461,2020-01-22,Senate,"Senate Adopted",33,0,0,0,33
+1237765,896163,2019-11-06,Senate,"Senate Favorable Passage",9,0,0,0,9
+1237765,900204,2019-12-11,Senate,"Senate Passed",31,0,0,0,31
+1238461,834836,2019-04-03,Senate,"Senate Favorable Passage",10,0,0,0,10
+1238461,841403,2019-04-10,Senate,"Senate Passed",31,0,0,0,31
+1238482,861156,2019-05-08,Senate,"Senate Favorable Passage",11,0,0,0,11
+1238482,861157,2019-05-08,Senate,"Senate Passed",32,0,0,0,32
+1238482,885315,2019-06-20,House,"House Favorable Passage",13,0,0,0,13
+1238482,888391,2019-06-27,House,"House Passed",95,0,0,0,95
+1238572,820447,2019-03-13,House,"House Adopted",92,0,0,0,92
+1241226,899842,2019-11-26,House,"House Favorable Passage",12,0,0,0,12
+1241226,900195,2019-12-11,House,"House Passed",80,13,0,0,93
+1241329,875015,2019-05-30,House,"House Favorable Passage",11,1,0,0,12
+1241329,878364,2019-06-05,House,"House Passed",76,17,0,0,93
+1241329,878365,2019-06-05,House,"House Passed",85,8,0,0,93
+1241329,878366,2019-06-05,House,"House Passed",76,17,0,0,93
+1241329,962598,2020-06-03,Senate,"Senate Favorable Passage",7,3,0,0,10
+1241329,983118,2020-12-09,Senate,"Senate Passed",27,3,0,0,30
+1241395,912625,2020-01-30,House,"House Favorable Passage",11,3,0,0,14
+1241395,921725,2020-02-12,House,"House Passed",93,3,0,0,96
+1241395,982764,2020-12-02,Senate,"Senate Favorable Passage",13,0,0,0,13
+1241395,983865,2020-12-22,Senate,"Senate Passed",31,0,0,0,31
+1241424,870603,2019-05-23,House,"House Favorable Passage",14,0,0,0,14
+1241424,874487,2019-05-29,House,"House Passed",92,2,0,0,94
+1241547,977611,2020-09-02,Senate,"Senate Favorable Passage",9,4,0,0,13
+1242263,916921,2020-02-05,House,"House Favorable Passage",17,1,0,0,18
+1242263,921671,2020-02-12,House,"House Passed",95,1,0,0,96
+1242263,981837,2020-11-18,Senate,"Senate Favorable Passage",11,0,0,0,11
+1242263,981838,2020-11-18,Senate,"Senate Passed",32,0,0,0,32
+1242292,856623,2019-05-01,House,"House Favorable Passage",13,2,0,0,15
+1242292,856624,2019-05-01,House,"House Passed",83,12,0,0,95
+1242846,981938,2020-11-18,House,"House Favorable Passage",13,2,0,0,15
+1242846,983089,2020-12-08,House,"House Passed",82,3,0,0,85
+1242938,887809,2019-06-26,House,"House Favorable Passage",14,1,0,0,15
+1242938,894876,2019-10-02,House,"House Passed",90,2,0,0,92
+1242938,923011,2020-02-12,Senate,"Senate Favorable Passage",9,0,0,0,9
+1242938,923012,2020-02-12,Senate,"Senate Passed",33,0,0,0,33
+1243027,895607,2019-10-24,House,"House Favorable Passage",13,0,0,0,13
+1243907,888739,2019-06-28,House,"House Favorable Passage",11,0,0,0,11
+1243987,888374,2019-06-27,House,"House Favorable Passage",9,6,0,0,15
+1243987,896319,2019-11-13,House,"House Passed",60,31,0,0,91
+1243987,965184,2020-06-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1243987,965185,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1244024,959420,2020-05-19,House,"House Favorable Passage",13,9,0,0,22
+1244024,965256,2020-06-10,House,"House Passed",56,38,0,0,94
+1244056,881179,2019-06-13,House,"House Favorable Passage",13,1,0,0,14
+1244056,894878,2019-10-02,House,"House Passed",76,16,0,0,92
+1244056,965199,2020-06-10,Senate,"Senate Favorable Passage",10,1,0,0,11
+1244056,965200,2020-06-10,Senate,"Senate Passed",31,1,0,0,32
+1244056,977612,2020-09-01,House,"House Failed",35,59,0,0,94
+1244063,862068,2019-05-09,House,"House Favorable Passage",32,0,0,0,32
+1244063,862069,2019-05-09,House,"House Passed",85,9,0,0,94
+1244063,885735,2019-06-20,Senate,"Senate Favorable Passage",13,0,0,0,13
+1244063,885736,2019-06-20,Senate,"Senate Passed",33,0,0,0,33
+1244063,885737,2019-06-20,House,"House Failed",1,90,0,0,91
+1244747,856640,2019-05-01,Senate,"Senate Favorable Passage",8,0,0,0,8
+1244747,856641,2019-05-01,Senate,"Senate Passed",32,0,0,0,32
+1244747,895641,2019-10-25,House,"House Favorable Passage",13,0,0,0,13
+1244747,912576,2020-01-30,House,"House Passed",87,5,0,0,92
+1244821,860937,2019-05-08,House,"House Favorable Passage",10,1,0,0,11
+1244821,875176,2019-05-30,House,"House Passed",88,0,0,0,88
+1244821,899888,2019-12-04,Senate,"Senate Favorable Passage",10,0,0,0,10
+1244821,957550,2020-05-06,Senate,"Senate Passed",33,0,0,0,33
+1245392,830187,2019-03-27,House,"House Adopted",97,0,0,0,97
+1245407,830091,2019-03-27,House,"House Adopted",59,0,0,0,59
+1245513,841252,2019-04-10,House,"House Favorable Passage",11,0,0,0,11
+1245528,864254,2019-05-15,House,"House Favorable Passage",10,0,0,0,10
+1245528,869238,2019-05-22,House,"House Passed",62,32,0,0,94
+1245528,983214,2020-12-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1245545,841284,2019-04-10,House,"House Favorable Passage",11,0,0,0,11
+1245665,856616,2019-05-01,Senate,"Senate Favorable Passage",11,0,0,0,11
+1245665,856617,2019-05-01,Senate,"Senate Passed",32,0,0,0,32
+1245665,888349,2019-06-27,House,"House Favorable Passage",14,0,0,0,14
+1245665,981840,2020-11-18,House,"House Passed",83,1,0,0,84
+1247045,887847,2019-06-26,House,"House Favorable Passage",7,4,0,0,11
+1247045,889110,2019-06-30,House,"House Re-referred",10,0,0,0,10
+1248071,856611,2019-05-01,House,"House Favorable Passage",13,0,0,0,13
+1248071,874685,2019-05-29,House,"House Adopted",90,3,0,0,93
+1248099,920098,2020-02-11,Senate,"Senate Favorable Passage",9,1,0,0,10
+1248099,936000,2020-02-26,Senate,"Senate Passed",31,1,0,0,32
+1248099,983705,2020-12-17,House,"House Favorable Passage",16,0,0,0,16
+1248551,899490,2019-11-19,House,"House Favorable Passage",17,0,0,0,17
+1250322,960366,2020-05-26,Senate,"Senate Favorable Passage",10,0,0,0,10
+1250322,960974,2020-05-27,Senate,"Senate Passed",31,1,0,0,32
+1250389,905159,2020-01-23,House,"House Favorable Passage",13,0,0,0,13
+1250389,982821,2020-12-02,House,"House Passed",93,0,0,0,93
+1250415,878091,2019-06-05,House,"House Favorable Passage",14,0,0,0,14
+1250415,878363,2019-06-05,House,"House Passed",87,6,0,0,93
+1250415,895390,2019-10-22,Senate,"Senate Favorable Passage",8,0,0,0,8
+1250415,895539,2019-10-23,Senate,"Senate Passed",30,0,0,0,30
+1250473,856378,2019-05-01,House,"House Favorable Passage",13,0,0,0,13
+1250502,961400,2020-05-28,House,"House Favorable Passage",30,1,0,0,31
+1250502,961401,2020-05-28,House,"House Passed",82,10,0,0,92
+1250895,856371,2019-05-01,House,"House Favorable Passage",11,0,0,0,11
+1250974,900221,2019-12-11,House,"House Favorable Passage",19,0,0,0,19
+1251489,895532,2019-10-23,House,"House Favorable Passage",19,0,0,0,19
+1251489,895964,2019-10-30,House,"House Passed",92,0,0,0,92
+1251489,935956,2020-02-26,Senate,"Senate Favorable Passage",10,0,0,0,10
+1251489,954998,2020-03-25,Senate,"Senate Passed",29,0,0,0,29
+1251863,870811,2019-05-23,House,"House Favorable Passage",8,5,0,0,13
+1251863,874168,2019-05-29,House,"House Passed",51,43,0,0,94
+1251863,889770,2019-07-17,Senate,"Senate Passed",19,12,0,0,31
+1251863,889926,2019-07-17,Senate,"Senate Favorable Passage",9,4,0,0,13
+1252286,869317,2019-05-22,House,"House Favorable Passage",13,0,0,0,13
+1252346,887852,2019-06-26,House,"House Favorable Passage",16,0,0,0,16
+1252346,896150,2019-11-06,House,"House Passed",92,0,0,0,92
+1252346,959064,2020-05-15,Senate,"Senate Favorable Passage",12,0,0,0,12
+1252346,959648,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1252360,982765,2020-12-02,House,"House Favorable Passage",12,1,0,0,13
+1252372,916886,2020-02-06,House,"House Favorable Passage",13,1,0,0,14
+1252372,981910,2020-11-18,House,"House Passed",64,23,0,0,87
+1253224,894999,2019-10-09,House,"House Favorable Passage",9,6,0,0,15
+1253224,895602,2019-10-24,House,"House Passed",61,32,0,0,93
+1253238,959458,2020-05-19,House,"House Favorable Passage",10,1,0,0,11
+1253238,981895,2020-11-18,House,"House Passed",74,13,0,0,87
+1253253,878335,2019-06-05,House,"House Favorable Passage",13,0,0,0,13
+1253253,885283,2019-06-20,House,"House Passed",91,0,0,0,91
+1253253,979087,2020-09-23,Senate,"Senate Favorable Passage",9,0,0,0,9
+1253253,979088,2020-09-23,Senate,"Senate Passed",32,0,0,0,32
+1253262,864331,2019-05-15,House,"House Favorable Passage",14,0,0,0,14
+1253270,896021,2019-10-30,House,"House Favorable Passage",14,1,0,0,15
+1253270,896363,2019-11-13,House,"House Passed",58,33,0,0,91
+1253270,983144,2020-12-09,Senate,"Senate Favorable Passage",7,3,0,0,10
+1253270,983145,2020-12-09,Senate,"Senate Passed",29,1,0,0,30
+1253583,904571,2020-01-22,Senate,"Senate Favorable Passage",11,0,0,0,11
+1253583,915858,2020-02-05,Senate,"Senate Passed",32,0,0,0,32
+1254021,981872,2020-11-18,House,"House Favorable Passage",9,4,0,0,13
+1254065,983315,2020-12-14,House,"House Favorable Passage",10,0,0,0,10
+1254150,881662,2019-06-13,House,"House Favorable Passage",15,0,0,0,15
+1254150,982708,2020-12-02,House,"House Passed",89,2,0,0,91
+1254936,899569,2019-11-20,House,"House Favorable Passage",15,0,0,0,15
+1254936,899570,2019-11-20,House,"House Passed",94,0,0,0,94
+1254951,869244,2019-05-22,House,"House Favorable Passage",12,0,0,0,12
+1254957,907724,2020-01-28,House,"House Favorable Passage",16,2,0,0,18
+1254957,910555,2020-01-29,House,"House Passed",94,2,0,0,96
+1254974,900223,2019-12-11,House,"House Favorable Passage",19,0,0,0,19
+1254974,928971,2020-02-20,House,"House Passed",91,1,0,0,92
+1254992,873595,2019-05-28,House,"House Favorable Passage",13,0,0,0,13
+1255205,866536,2019-05-16,House,"House Favorable Passage",14,0,0,0,14
+1255879,884639,2019-06-19,Senate,"Senate Favorable Passage",9,1,0,0,10
+1255879,888362,2019-06-27,Senate,"Senate Passed",32,1,0,0,33
+1255879,982504,2020-11-24,House,"House Favorable Passage",7,4,0,0,11
+1255879,983687,2020-12-17,House,"House Passed",59,25,0,0,84
+1256156,896149,2019-11-06,House,"House Favorable Passage",15,0,0,0,15
+1256156,900399,2019-12-12,House,"House Passed",87,0,0,0,87
+1256156,962146,2020-06-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1256156,973667,2020-07-21,Senate,"Senate Passed",32,0,0,0,32
+1256189,982915,2020-12-03,House,"House Favorable Passage",14,0,0,0,14
+1256189,982916,2020-12-03,House,"House Passed",95,1,0,0,96
+1256189,983666,2020-12-17,Senate,"Senate Favorable Passage",11,0,0,0,11
+1256189,983667,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1256718,884495,2019-06-19,House,"House Favorable Passage",14,0,0,0,14
+1256718,887767,2019-06-26,House,"House Passed",79,17,0,0,96
+1256718,916653,2020-02-06,Senate,"Senate Favorable Passage",9,0,0,0,9
+1256718,983871,2020-12-22,Senate,"Senate Passed",22,9,0,0,31
+1256742,880069,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1256761,878903,2019-06-06,House,"House Favorable Passage",13,0,0,0,13
+1256777,880067,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1257004,936117,2020-02-26,House,"House Favorable Passage",10,0,0,0,10
+1257470,861810,2019-05-08,Senate,"Senate Adopted",23,0,0,0,23
+1257475,861807,2019-05-08,Senate,"Senate Adopted",31,0,0,0,31
+1257480,961361,2020-05-28,House,"House Favorable Passage",16,0,0,0,16
+1257480,961362,2020-05-28,House,"House Passed",79,13,0,0,92
+1257480,961363,2020-05-28,House,"House Passed",77,14,0,0,91
+1257572,885306,2019-06-20,House,"House Favorable Passage",12,0,0,0,12
+1257572,887940,2019-06-26,House,"House Adopted",95,1,0,0,96
+1257572,900017,2019-12-04,Senate,"Senate Favorable Passage",9,0,0,0,9
+1257572,900414,2019-12-11,Senate,"Senate Adopted",31,0,0,0,31
+1258022,873785,2019-05-28,House,"House Favorable Passage",13,0,0,0,13
+1260264,888294,2019-06-27,House,"House Favorable Passage",8,6,0,0,14
+1260264,900202,2019-12-11,House,"House Passed",58,35,0,0,93
+1260264,960280,2020-05-26,Senate,"Senate Favorable Passage",7,3,0,0,10
+1260264,960723,2020-05-27,Senate,"Senate Passed",23,9,0,0,32
+1260277,884412,2019-06-19,House,"House Favorable Passage",30,0,0,0,30
+1260277,885372,2019-06-20,House,"House Passed",90,3,0,0,93
+1260277,983078,2020-12-08,Senate,"Senate Favorable Passage",10,0,0,0,10
+1260277,983127,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1260285,878174,2019-06-05,House,"House Re-referred",10,0,0,0,10
+1260285,878175,2019-06-05,House,"House Re-referred",13,2,0,0,15
+1260285,880086,2019-06-11,House,"House Favorable Passage",28,0,0,0,28
+1260285,880870,2019-06-12,House,"House Passed",92,3,0,0,95
+1260285,896172,2019-11-06,Senate,"Senate Favorable Passage",12,0,0,0,12
+1260285,896330,2019-11-13,Senate,"Senate Passed",31,0,0,0,31
+1260285,899493,2019-11-19,House,"House Failed",0,92,0,0,92
+1260293,915876,2020-02-05,Senate,"Senate Favorable Passage",7,5,0,0,12
+1260304,878367,2019-06-05,House,"House Re-referred",10,0,0,0,10
+1260304,878368,2019-06-05,House,"House Re-referred",16,0,0,0,16
+1260304,880166,2019-06-11,House,"House Favorable Passage",28,0,0,0,28
+1260304,880891,2019-06-12,House,"House Passed",94,1,0,0,95
+1260322,895116,2019-10-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1260322,896195,2019-11-06,Senate,"Senate Passed",33,0,0,0,33
+1260345,894961,2019-10-07,Senate,"Senate Favorable Passage",11,0,0,0,11
+1260345,895575,2019-10-23,Senate,"Senate Passed",31,0,0,0,31
+1260359,878249,2019-06-05,House,"House Favorable Passage",16,0,0,0,16
+1260359,878636,2019-06-06,House,"House Passed",89,0,0,0,89
+1260359,977576,2020-09-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1260359,977577,2020-09-02,Senate,"Senate Passed",31,0,0,0,31
+1260911,899839,2019-11-26,House,"House Favorable Passage",14,0,0,0,14
+1261822,878252,2019-06-05,House,"House Favorable Passage",15,0,0,0,15
+1261822,878635,2019-06-06,House,"House Passed",89,0,0,0,89
+1261822,900192,2019-12-11,Senate,"Senate Favorable Passage",10,0,0,0,10
+1261822,900193,2019-12-11,Senate,"Senate Passed",31,0,0,0,31
+1261848,880076,2019-06-11,House,"House Re-referred",15,0,0,0,15
+1261848,884518,2019-06-19,House,"House Favorable Passage",30,0,0,0,30
+1261848,885880,2019-06-20,House,"House Passed",93,0,0,0,93
+1261848,964296,2020-06-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1261848,965192,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1261873,878795,2019-06-05,House,"House Re-referred",10,0,0,0,10
+1261873,878796,2019-06-05,House,"House Re-referred",16,0,0,0,16
+1261873,880346,2019-06-11,House,"House Favorable Passage",28,0,0,0,28
+1261873,881373,2019-06-13,House,"House Passed",89,0,0,0,89
+1261873,895931,2019-10-30,Senate,"Senate Favorable Passage",8,0,0,0,8
+1261900,965927,2020-06-11,House,"House Favorable Passage",29,3,0,0,32
+1261900,965928,2020-06-11,House,"House Passed",82,8,0,0,90
+1261925,959786,2020-05-20,House,"House Passed",94,0,0,0,94
+1263108,895512,2019-10-23,House,"House Favorable Passage",7,2,0,0,9
+1263130,888281,2019-06-27,House,"House Re-referred",13,1,0,0,14
+1263204,896333,2019-11-13,House,"House Favorable Passage",11,0,0,0,11
+1263204,899335,2019-11-19,House,"House Passed",92,0,0,0,92
+1263204,982755,2020-12-02,Senate,"Senate Favorable Passage",7,1,0,0,8
+1263204,983117,2020-12-09,Senate,"Senate Passed",29,1,0,0,30
+1263258,963075,2020-06-04,House,"House Favorable Passage",12,3,0,0,15
+1263258,963078,2020-06-04,House,"House Passed",78,17,0,0,95
+1263258,983593,2020-12-17,Senate,"Senate Favorable Passage",8,3,0,0,11
+1263258,983594,2020-12-17,Senate,"Senate Passed",25,7,0,0,32
+1263316,883443,2019-06-18,House,"House Re-referred",8,0,0,0,8
+1263316,883444,2019-06-18,House,"House Re-referred",13,0,0,0,13
+1263316,884510,2019-06-19,House,"House Favorable Passage",24,0,0,0,24
+1263316,885296,2019-06-20,House,"House Passed",92,2,0,0,94
+1263347,887908,2019-06-26,House,"House Favorable Passage",11,0,0,0,11
+1263347,888244,2019-06-27,House,"House Passed",95,0,0,0,95
+1263347,911640,2020-01-28,Senate,"Senate Favorable Passage",6,3,0,0,9
+1263347,911641,2020-01-28,Senate,"Senate Passed",26,7,0,0,33
+1263407,880054,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1263436,880160,2019-06-11,House,"House Favorable Passage",15,0,0,0,15
+1263436,881162,2019-06-13,House,"House Passed",86,3,0,0,89
+1263436,899887,2019-12-04,Senate,"Senate Favorable Passage",11,0,0,0,11
+1263436,900189,2019-12-11,Senate,"Senate Passed",31,0,0,0,31
+1263495,883979,2019-06-18,House,"House Favorable Passage",13,0,0,0,13
+1263495,884455,2019-06-19,House,"House Passed",91,6,0,0,97
+1263495,983119,2020-12-09,Senate,"Senate Favorable Passage",8,0,0,0,8
+1263495,983619,2020-12-17,Senate,"Senate Passed",31,1,0,0,32
+1263914,870406,2019-05-22,House,"House Adopted",58,0,0,0,58
+1264361,880068,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1264368,966014,2020-06-11,House,"House Favorable Passage",19,0,0,0,19
+1264368,981880,2020-11-18,House,"House Passed",48,39,0,0,87
+1264368,981881,2020-11-18,House,"House Passed",87,0,0,0,87
+1264385,880080,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1264394,880074,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1264417,884942,2019-06-19,House,"House Favorable Passage",9,0,0,0,9
+1265088,896164,2019-11-06,Senate,"Senate Favorable Passage",8,4,0,0,12
+1265088,896165,2019-11-06,Senate,"Senate Passed",23,10,0,0,33
+1265124,910184,2020-01-29,Senate,"Senate Favorable Passage",10,0,0,0,10
+1265124,910185,2020-01-29,Senate,"Senate Favorable Passage",10,0,0,0,10
+1265124,922821,2020-02-12,Senate,"Senate Passed",33,0,0,0,33
+1265124,983698,2020-12-17,House,"House Favorable Passage",8,0,0,0,8
+1265172,896211,2019-11-06,House,"House Re-referred",15,0,0,0,15
+1265183,917066,2020-02-06,House,"House Favorable Passage",14,0,0,0,14
+1265183,964443,2020-06-09,House,"House Passed",90,1,0,0,91
+1265183,983604,2020-12-17,Senate,"Senate Favorable Passage",10,1,0,0,11
+1265183,983605,2020-12-17,Senate,"Senate Passed",29,2,0,0,31
+1265193,880095,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1265205,899840,2019-11-26,House,"House Favorable Passage",14,0,0,0,14
+1265205,900257,2019-12-12,House,"House Passed",86,0,0,0,86
+1265205,970237,2020-06-30,Senate,"Senate Favorable Passage",12,0,0,0,12
+1265205,970238,2020-06-30,Senate,"Senate Passed",29,0,0,0,29
+1265205,982398,2020-11-19,House,"House Failed",0,88,0,0,88
+1265234,880459,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1265234,884597,2019-06-19,House,"House Passed",97,0,0,0,97
+1265241,880094,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1265371,874838,2019-05-29,House,"House Adopted",57,0,0,0,57
+1265630,965236,2020-06-10,House,"House Favorable Passage",29,0,0,0,29
+1265630,965854,2020-06-11,House,"House Passed",90,0,0,0,90
+1266365,895233,2019-10-17,House,"House Favorable Passage",9,0,0,0,9
+1266365,896364,2019-11-13,House,"House Passed",91,0,0,0,91
+1266365,959712,2020-05-20,Senate,"Senate Favorable Passage",9,0,0,0,9
+1266365,960690,2020-05-27,Senate,"Senate Passed",24,8,0,0,32
+1266409,880089,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1266431,981550,2020-11-12,House,"House Favorable Passage",16,0,0,0,16
+1266431,983093,2020-12-08,House,"House Passed",79,6,0,0,85
+1266843,880100,2019-06-11,House,"House Favorable Passage",12,0,0,0,12
+1266843,885564,2019-06-20,House,"House Passed",93,0,0,0,93
+1266843,896186,2019-11-06,Senate,"Senate Favorable Passage",11,0,0,0,11
+1266843,896187,2019-11-06,Senate,"Senate Passed",33,0,0,0,33
+1266843,896321,2019-11-13,House,"House Failed",0,91,0,0,91
+1266865,878134,2019-06-05,House,"House Adopted",33,0,0,0,33
+1266886,880051,2019-06-11,House,"House Favorable Passage",11,0,0,0,11
+1267137,909879,2020-01-29,Senate,"Senate Favorable Passage",10,0,0,0,10
+1267137,909880,2020-01-29,Senate,"Senate Favorable Passage",10,0,0,0,10
+1267137,935775,2020-02-26,Senate,"Senate Passed",32,0,0,0,32
+1267144,887822,2019-06-26,House,"House Favorable Passage",15,0,0,0,15
+1267152,912655,2020-01-30,House,"House Favorable Passage",11,0,0,0,11
+1267152,928437,2020-02-20,House,"House Passed",92,0,0,0,92
+1267152,983403,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1267822,959506,2020-05-19,House,"House Favorable Passage",31,0,0,0,31
+1267822,961358,2020-05-28,House,"House Passed",90,2,0,0,92
+1267848,887926,2019-06-26,House,"House Favorable Passage",15,0,0,0,15
+1268023,887807,2019-06-26,House,"House Favorable Passage",12,0,0,0,12
+1268039,895927,2019-10-30,House,"House Favorable Passage",15,0,0,0,15
+1268039,896178,2019-11-06,House,"House Passed",91,1,0,0,92
+1268039,958993,2020-05-15,Senate,"Senate Favorable Passage",9,0,0,0,9
+1268039,959707,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1268061,911340,2020-01-29,Senate,"Senate Favorable Passage",5,0,0,0,5
+1268061,916043,2020-02-05,Senate,"Senate Passed",32,0,0,0,32
+1268061,965267,2020-06-10,House,"House Favorable Passage",14,0,0,0,14
+1268061,965268,2020-06-10,House,"House Passed",95,0,0,0,95
+1268061,977608,2020-09-02,Senate,"Senate Failed",0,31,0,0,31
+1269034,900991,2019-12-17,Senate,"Senate Favorable Passage",6,3,0,0,9
+1269083,896012,2019-10-30,House,"House Favorable Passage",15,0,0,0,15
+1269083,896156,2019-11-06,House,"House Passed",91,0,0,0,91
+1269083,959601,2020-05-20,Senate,"Senate Favorable Passage",8,0,0,0,8
+1269083,959602,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1269097,895186,2019-10-16,House,"House Favorable Passage",13,0,0,0,13
+1269132,982507,2020-11-24,House,"House Favorable Passage",8,1,0,0,9
+1269440,895194,2019-10-16,House,"House Favorable Passage",13,0,0,0,13
+1269440,895521,2019-10-23,House,"House Passed",89,1,0,0,90
+1269440,922503,2020-02-12,Senate,"Senate Favorable Passage",7,0,0,0,7
+1269440,983864,2020-12-22,Senate,"Senate Passed",31,0,0,0,31
+1269461,894963,2019-10-08,House,"House Favorable Passage",12,0,0,0,12
+1269479,894240,2019-09-17,House,"House Favorable Passage",11,0,0,0,11
+1269630,900209,2019-12-11,House,"House Favorable Passage",12,7,0,0,19
+1269660,981591,2020-11-12,House,"House Favorable Passage",11,0,0,0,11
+1269664,886412,2019-06-20,House,"House Adopted",56,0,0,0,56
+1270407,981585,2020-11-12,House,"House Re-referred",11,0,0,0,11
+1270407,983387,2020-12-15,House,"House Favorable Passage",23,0,0,0,23
+1270410,982736,2020-12-02,House,"House Favorable Passage",32,0,0,0,32
+1270410,982887,2020-12-03,House,"House Passed",87,9,0,0,96
+1270413,894990,2019-10-08,House,"House Favorable Passage",12,0,0,0,12
+1270416,888256,2019-06-26,House,"House Adopted",96,0,0,0,96
+1270419,888255,2019-06-26,House,"House Adopted",95,0,0,0,95
+1270551,894241,2019-09-17,House,"House Favorable Passage",11,0,0,0,11
+1270755,921783,2020-02-12,House,"House Favorable Passage",11,3,0,0,14
+1270755,921784,2020-02-12,House,"House Passed",74,22,0,0,96
+1270755,983649,2020-12-17,Senate,"Senate Favorable Passage",9,0,0,0,9
+1270755,983650,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1270755,983651,2020-12-17,Senate,"Senate Passed",31,1,0,0,32
+1270755,983652,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1270790,889086,2019-06-29,Senate,"Senate Passed",32,0,0,0,32
+1270790,889087,2019-06-30,House,"House Passed",92,0,0,0,92
+1270791,889089,2019-06-29,Senate,"Senate Passed",32,0,0,0,32
+1270791,889090,2019-06-30,House,"House Passed",90,2,0,0,92
+1271111,981929,2020-11-19,House,"House Favorable Passage",12,3,0,0,15
+1271111,981930,2020-11-19,House,"House Passed",74,14,0,0,88
+1271337,896350,2019-11-13,Senate,"Senate Favorable Passage",8,1,0,0,9
+1271337,900203,2019-12-11,Senate,"Senate Passed",31,0,0,0,31
+1271337,981921,2020-11-18,House,"House Favorable Passage",14,1,0,0,15
+1271337,982797,2020-12-02,House,"House Passed",85,7,0,0,92
+1271342,895223,2019-10-16,Senate,"Senate Favorable Passage",10,0,0,0,10
+1271342,896320,2019-11-13,Senate,"Senate Passed",31,0,0,0,31
+1271346,931909,2020-02-24,Senate,"Senate Favorable Passage",11,0,0,0,11
+1271346,973747,2020-07-21,Senate,"Senate Passed",32,0,0,0,32
+1271512,895113,2019-10-09,Senate,"Senate Favorable Passage",9,0,0,0,9
+1271512,895161,2019-10-09,Senate,"Senate Adopted",32,0,0,0,32
+1271512,913246,2020-01-30,House,"House Favorable Passage",14,0,0,0,14
+1271512,939147,2020-02-05,House,"House Adopted",95,0,0,0,95
+1271515,981523,2020-11-12,House,"House Favorable Passage",11,2,0,0,13
+1271602,912756,2020-01-31,Senate,"Senate Favorable Passage",10,0,0,0,10
+1271602,922922,2020-02-12,Senate,"Senate Passed",33,0,0,0,33
+1271602,981551,2020-11-12,House,"House Favorable Passage",15,0,0,0,15
+1271602,982402,2020-11-19,House,"House Passed",88,0,0,0,88
+1271603,896465,2019-11-14,House,"House Favorable Passage",13,0,0,0,13
+1271603,899350,2019-11-19,House,"House Passed",92,0,0,0,92
+1271603,983076,2020-12-08,Senate,"Senate Favorable Passage",10,0,0,0,10
+1271603,983123,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1272831,895976,2019-10-30,Senate,"Senate Favorable Passage",8,0,0,0,8
+1272831,896176,2019-11-06,Senate,"Senate Passed",33,0,0,0,33
+1273009,896212,2019-11-06,House,"House Re-referred",15,0,0,0,15
+1273009,983280,2020-12-14,House,"House Favorable Passage",12,0,0,0,12
+1273383,912848,2020-01-30,House,"House Favorable Passage",14,0,0,0,14
+1273383,928463,2020-02-20,House,"House Passed",84,7,0,0,91
+1273383,982804,2020-12-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1273383,982805,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1273627,982739,2020-12-02,House,"House Favorable Passage",11,0,0,0,11
+1273627,983084,2020-12-08,House,"House Passed",85,0,0,0,85
+1274040,896023,2019-10-30,Senate,"Senate Favorable Passage",8,0,0,0,8
+1274040,896177,2019-11-06,Senate,"Senate Passed",33,0,0,0,33
+1274040,983709,2020-12-17,House,"House Favorable Passage",9,5,0,0,14
+1274040,983710,2020-12-17,House,"House Passed",78,6,0,0,84
+1274047,895708,2019-10-28,Senate,"Senate Favorable Passage",8,0,0,0,8
+1274047,896166,2019-11-06,Senate,"Senate Passed",33,0,0,0,33
+1274250,900988,2019-12-17,Senate,"Senate Favorable Passage",13,0,0,0,13
+1274250,900989,2019-12-17,Senate,"Senate Adopted",33,0,0,0,33
+1274250,983290,2020-12-14,House,"House Favorable Passage",14,0,0,0,14
+1274257,899886,2019-12-04,Senate,"Senate Favorable Passage",9,0,0,0,9
+1274257,900205,2019-12-11,Senate,"Senate Passed",31,0,0,0,31
+1274312,895513,2019-10-23,House,"House Favorable Passage",13,0,0,0,13
+1274682,894964,2019-10-08,House,"House Favorable Passage",12,0,0,0,12
+1274686,900224,2019-12-11,House,"House Favorable Passage",14,0,0,0,14
+1274686,957682,2020-05-06,House,"House Passed",92,3,0,0,95
+1274686,963911,2020-06-09,Senate,"Senate Favorable Passage",13,0,0,0,13
+1274686,977586,2020-09-02,Senate,"Senate Passed",31,0,0,0,31
+1274699,961221,2020-05-28,House,"House Favorable Passage",13,0,0,0,13
+1274699,964242,2020-06-09,House,"House Passed",91,0,0,0,91
+1274699,982860,2020-12-03,Senate,"Senate Favorable Passage",11,0,0,0,11
+1274699,982861,2020-12-03,Senate,"Senate Passed",33,0,0,0,33
+1274935,979089,2020-09-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1274935,979090,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1274935,982723,2020-12-02,House,"House Favorable Passage",12,0,0,0,12
+1274935,982886,2020-12-03,House,"House Passed",70,25,0,0,95
+1274939,894290,2019-09-18,Senate,"Senate Adopted",32,0,0,0,32
+1274941,894291,2019-09-18,Senate,"Senate Adopted",23,0,0,0,23
+1275289,895585,2019-10-23,House,"House Favorable Passage",13,0,0,0,13
+1275292,903049,2020-01-15,House,"House Favorable Passage",14,0,0,0,14
+1275292,921654,2020-02-12,House,"House Passed",96,0,0,0,96
+1275292,964285,2020-06-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1275292,968617,2020-06-24,Senate,"Senate Passed",31,0,0,0,31
+1275295,895187,2019-10-16,House,"House Favorable Passage",13,0,0,0,13
+1275299,982260,2020-11-18,House,"House Favorable Passage",12,2,0,0,14
+1275299,982895,2020-12-03,House,"House Passed",82,12,0,0,94
+1275457,895957,2019-10-30,House,"House Favorable Passage",15,0,0,0,15
+1275589,981576,2020-11-12,House,"House Favorable Passage",11,0,0,0,11
+1275872,895562,2019-10-23,Senate,"Senate Favorable Passage",8,3,0,0,11
+1275872,895563,2019-10-23,Senate,"Senate Adopted",22,9,0,0,31
+1275879,962595,2020-06-03,Senate,"Senate Favorable Passage",13,0,0,0,13
+1275879,962596,2020-06-03,Senate,"Senate Passed",33,0,0,0,33
+1275931,958503,2020-05-13,House,"House Favorable Passage",9,5,0,0,14
+1275931,981937,2020-11-19,House,"House Passed",76,13,0,0,89
+1275931,983661,2020-12-17,Senate,"Senate Favorable Passage",9,1,0,0,10
+1275931,983662,2020-12-17,Senate,"Senate Passed",31,1,0,0,32
+1275942,895529,2019-10-23,House,"House Favorable Passage",13,0,0,0,13
+1276014,896173,2019-11-06,Senate,"Senate Favorable Passage",9,3,0,0,12
+1276014,896174,2019-11-06,Senate,"Senate Passed",24,9,0,0,33
+1276072,894886,2019-10-02,House,"House Adopted",92,0,0,0,92
+1276117,900197,2019-12-11,House,"House Favorable Passage",14,1,0,0,15
+1276117,910736,2020-01-29,House,"House Passed",65,31,0,0,96
+1276306,935982,2020-02-26,Senate,"Senate Favorable Passage",10,1,0,0,11
+1276306,942597,2020-03-04,Senate,"Senate Passed",29,1,0,0,30
+1276306,983702,2020-12-17,House,"House Favorable Passage",16,0,0,0,16
+1276355,982500,2020-11-24,House,"House Favorable Passage",9,0,0,0,9
+1276369,983111,2020-12-08,House,"House Favorable Passage",13,0,0,0,13
+1276369,983112,2020-12-08,House,"House Passed",85,0,0,0,85
+1276374,900284,2019-12-12,House,"House Favorable Passage",13,0,0,0,13
+1276374,959793,2020-05-20,House,"House Passed",95,0,0,0,95
+1276535,895110,2019-10-09,Senate,"Senate Adopted",22,0,0,0,22
+1276545,895046,2019-10-09,Senate,"Senate Adopted",31,0,0,0,31
+1276554,895047,2019-10-09,Senate,"Senate Adopted",31,0,0,0,31
+1276593,963214,2020-06-04,House,"House Favorable Passage",15,0,0,0,15
+1276593,981882,2020-11-18,House,"House Passed",76,10,0,0,86
+1276597,899347,2019-11-19,House,"House Favorable Passage",16,0,0,0,16
+1276597,922494,2020-02-12,House,"House Passed",96,0,0,0,96
+1276597,977589,2020-09-02,Senate,"Senate Favorable Passage",11,0,0,0,11
+1276597,977590,2020-09-02,Senate,"Senate Passed",31,0,0,0,31
+1276606,903246,2020-01-15,House,"House Favorable Passage",14,0,0,0,14
+1276606,957658,2020-05-06,House,"House Passed",93,2,0,0,95
+1276606,983128,2020-12-09,Senate,"Senate Favorable Passage",10,0,0,0,10
+1276606,983625,2020-12-17,Senate,"Senate Passed",27,5,0,0,32
+1276613,895147,2019-10-10,House,"House Adopted",54,0,0,0,54
+1276617,895146,2019-10-10,House,"House Adopted",55,0,0,0,55
+1276808,965281,2020-06-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1276808,965282,2020-06-10,Senate,"Senate Adopted",32,0,0,0,32
+1276817,912833,2020-01-31,Senate,"Senate Favorable Passage",11,0,0,0,11
+1276817,923058,2020-02-12,Senate,"Senate Passed",33,0,0,0,33
+1276896,928946,2020-02-20,House,"House Favorable Passage",13,0,0,0,13
+1276896,958493,2020-05-13,House,"House Passed",93,1,0,0,94
+1276896,982729,2020-12-02,Senate,"Senate Favorable Passage",8,1,0,0,9
+1277039,982829,2020-12-02,House,"House Favorable Passage",10,3,0,0,13
+1277061,958441,2020-05-13,House,"House Favorable Passage",13,0,0,0,13
+1277061,981911,2020-11-18,House,"House Passed",87,0,0,0,87
+1277411,896260,2019-11-12,House,"House Favorable Passage",12,0,0,0,12
+1277415,982783,2020-12-02,House,"House Favorable Passage",12,0,0,0,12
+1277415,982891,2020-12-03,House,"House Passed",89,7,0,0,96
+1277423,910626,2020-01-29,House,"House Favorable Passage",8,4,0,0,12
+1277423,928564,2020-02-20,House,"House Adopted",62,29,0,0,91
+1277441,896259,2019-11-12,House,"House Favorable Passage",12,0,0,0,12
+1277454,896346,2019-11-13,House,"House Favorable Passage",16,0,0,0,16
+1278445,906532,2020-01-27,Senate,"Senate Favorable Passage",11,0,0,0,11
+1278445,911376,2020-01-28,Senate,"Senate Passed",33,0,0,0,33
+1278445,982863,2020-12-02,House,"House Favorable Passage",15,0,0,0,15
+1278614,896027,2019-10-30,House,"House Adopted",92,0,0,0,92
+1278629,900190,2019-12-11,House,"House Favorable Passage",17,0,0,0,17
+1278936,924107,2020-02-14,Senate,"Senate Favorable Passage",11,0,0,0,11
+1278936,935453,2020-02-26,Senate,"Senate Passed",32,0,0,0,32
+1278959,923842,2020-02-14,Senate,"Senate Favorable Passage",11,0,0,0,11
+1278959,942348,2020-03-04,Senate,"Senate Adopted",30,0,0,0,30
+1278970,923890,2020-02-14,Senate,"Senate Favorable Passage",11,0,0,0,11
+1278970,962881,2020-06-03,Senate,"Senate Adopted",33,0,0,0,33
+1279080,959605,2020-05-20,House,"House Passed",95,0,0,0,95
+1279080,959794,2020-05-20,House,"House Favorable Passage",32,0,0,0,32
+1279080,983120,2020-12-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1279080,983841,2020-12-22,Senate,"Senate Passed",26,5,0,0,31
+1279083,925998,2020-02-18,House,"House Favorable Passage",11,0,0,0,11
+1279894,958610,2020-05-13,House,"House Favorable Passage",13,0,0,0,13
+1279894,958611,2020-05-13,House,"House Passed",88,6,0,0,94
+1279894,981805,2020-11-18,Senate,"Senate Passed",32,0,0,0,32
+1279940,917181,2020-02-06,Senate,"Senate Favorable Passage",8,1,0,0,9
+1279940,937022,2020-02-26,Senate,"Senate Adopted",31,1,0,0,32
+1279940,982884,2020-12-03,House,"House Adopted",61,32,0,0,93
+1279977,932806,2020-02-24,Senate,"Senate Favorable Passage",11,0,0,0,11
+1279987,982418,2020-11-19,House,"House Favorable Passage",12,0,0,0,12
+1279996,916993,2020-02-06,Senate,"Senate Favorable Passage",12,0,0,0,12
+1279996,922928,2020-02-12,Senate,"Senate Passed",33,0,0,0,33
+1279996,982720,2020-12-02,House,"House Favorable Passage",15,0,0,0,15
+1279996,983730,2020-12-17,House,"House Passed",81,3,0,0,84
+1280005,936879,2020-02-26,House,"House Favorable Passage",10,0,0,0,10
+1280005,958471,2020-05-13,House,"House Passed",94,0,0,0,94
+1280005,983129,2020-12-09,Senate,"Senate Favorable Passage",10,0,0,0,10
+1280005,983130,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1280193,900185,2019-12-11,House,"House Favorable Passage",14,0,0,0,14
+1280202,896369,2019-11-13,House,"House Adopted",58,0,0,0,58
+1280221,959426,2020-05-19,House,"House Favorable Passage",15,0,0,0,15
+1280221,982403,2020-11-19,House,"House Passed",90,0,0,0,90
+1280221,983670,2020-12-17,Senate,"Senate Favorable Passage",11,0,0,0,11
+1280221,983671,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1280258,917280,2020-02-05,House,"House Favorable Passage",18,0,0,0,18
+1280258,917281,2020-02-05,House,"House Passed",95,0,0,0,95
+1280258,982600,2020-12-01,Senate,"Senate Favorable Passage",10,0,0,0,10
+1280258,982771,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1280258,982772,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1280479,960681,2020-05-27,House,"House Favorable Passage",11,0,0,0,11
+1280906,938288,2020-02-27,Senate,"Senate Favorable Passage",10,1,0,0,11
+1280906,972512,2020-07-21,Senate,"Senate Adopted",32,0,0,0,32
+1284087,982419,2020-11-19,House,"House Favorable Passage",17,0,0,0,17
+1284102,982766,2020-12-02,House,"House Favorable Passage",13,2,0,0,15
+1285554,958489,2020-05-13,House,"House Favorable Passage",14,0,0,0,14
+1285554,958490,2020-05-13,House,"House Passed",94,0,0,0,94
+1285554,983457,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1285554,983883,2020-12-22,Senate,"Senate Passed",20,11,0,0,31
+1285560,965881,2020-06-11,House,"House Favorable Passage",14,0,0,0,14
+1285560,965882,2020-06-11,House,"House Passed",92,0,0,0,92
+1285560,983405,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1285566,963055,2020-06-04,House,"House Favorable Passage",7,2,0,0,9
+1285566,963077,2020-06-04,House,"House Passed",85,9,0,0,94
+1285566,983595,2020-12-17,Senate,"Senate Favorable Passage",7,3,0,0,10
+1285572,925978,2020-02-18,House,"House Favorable Passage",11,0,0,0,11
+1285577,982423,2020-11-19,House,"House Favorable Passage",12,0,0,0,12
+1285577,982890,2020-12-03,House,"House Passed",96,0,0,0,96
+1285580,959832,2020-05-20,House,"House Favorable Passage",12,0,0,0,12
+1285592,961484,2020-05-28,House,"House Favorable Passage",12,0,0,0,12
+1285592,961485,2020-05-28,House,"House Passed",91,1,0,0,92
+1285592,983396,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1285592,983630,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1285600,982780,2020-12-02,Senate,"Senate Favorable Passage",6,5,0,0,11
+1285600,983124,2020-12-09,Senate,"Senate Passed",22,8,0,0,30
+1285761,959836,2020-05-20,Senate,"Senate Favorable Passage",8,0,0,0,8
+1285761,959837,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1286573,965269,2020-06-10,House,"House Favorable Passage",16,0,0,0,16
+1286573,965270,2020-06-10,House,"House Passed",89,6,0,0,95
+1286573,983658,2020-12-17,Senate,"Senate Favorable Passage",11,0,0,0,11
+1286573,983659,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1287751,946617,2020-03-09,Senate,"Senate Favorable Passage",11,0,0,0,11
+1287751,962612,2020-06-03,Senate,"Senate Passed",33,0,0,0,33
+1287751,982727,2020-12-02,House,"House Favorable Passage",14,1,0,0,15
+1287751,983103,2020-12-08,House,"House Passed",83,1,0,0,84
+1287767,981515,2020-11-12,House,"House Favorable Passage",11,0,0,0,11
+1287767,983105,2020-12-08,House,"House Passed",82,0,0,0,82
+1287776,963180,2020-06-04,House,"House Favorable Passage",15,0,0,0,15
+1287776,964297,2020-06-09,House,"House Passed",92,0,0,0,92
+1287776,983622,2020-12-17,Senate,"Senate Favorable Passage",11,0,0,0,11
+1287776,983703,2020-12-18,Senate,"Senate Passed",28,1,0,0,29
+1288138,964486,2020-06-09,Senate,"Senate Favorable Passage",7,3,0,0,10
+1288396,981527,2020-11-12,House,"House Favorable Passage",13,0,0,0,13
+1288396,981922,2020-11-19,House,"House Passed",87,0,0,0,87
+1288396,983408,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1288396,983842,2020-12-22,Senate,"Senate Passed",31,0,0,0,31
+1288512,959812,2020-05-20,House,"House Favorable Passage",12,0,0,0,12
+1288594,900401,2019-12-12,House,"House Adopted",87,0,0,0,87
+1291983,961568,2020-05-28,House,"House Favorable Passage",13,0,0,0,13
+1291983,964309,2020-06-09,House,"House Passed",92,0,0,0,92
+1291983,983079,2020-12-08,Senate,"Senate Favorable Passage",9,0,0,0,9
+1291983,983122,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1293118,983282,2020-12-14,House,"House Favorable Passage",8,0,0,0,8
+1293488,983104,2020-12-08,House,"House Favorable Passage",8,5,0,0,13
+1293495,978578,2020-09-16,Senate,"Senate Favorable Passage",6,2,0,0,8
+1293495,979023,2020-09-23,Senate,"Senate Passed",29,4,0,0,33
+1293495,983689,2020-12-17,House,"House Favorable Passage",9,1,0,0,10
+1293495,983690,2020-12-17,House,"House Passed",75,9,0,0,84
+1298894,957555,2020-05-06,Senate,"Senate Favorable Passage",10,0,0,0,10
+1298894,959691,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1298894,983734,2020-12-17,House,"House Favorable Passage",14,0,0,0,14
+1298894,983735,2020-12-17,House,"House Passed",82,2,0,0,84
+1298999,959620,2020-05-20,Senate,"Senate Favorable Passage",8,0,0,0,8
+1298999,959621,2020-05-20,Senate,"Senate Passed",32,0,0,0,32
+1298999,983398,2020-12-16,House,"House Favorable Passage",13,0,0,0,13
+1298999,983701,2020-12-17,House,"House Passed",79,5,0,0,84
+1300314,981933,2020-11-19,House,"House Favorable Passage",12,0,0,0,12
+1300314,981934,2020-11-19,House,"House Passed",89,0,0,0,89
+1300314,983404,2020-12-16,Senate,"Senate Favorable Passage",9,0,0,0,9
+1300314,983838,2020-11-19,Senate,"Senate Passed",31,0,0,0,31
+1305921,981592,2020-11-12,House,"House Favorable Passage",16,0,0,0,16
+1309229,982819,2020-12-02,House,"House Favorable Passage",12,1,0,0,13
+1309229,982882,2020-12-03,House,"House Passed",86,8,0,0,94
+1309229,983627,2020-12-17,Senate,"Senate Favorable Passage",9,0,0,0,9
+1309229,983628,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1315655,959813,2020-05-20,House,"House Favorable Passage",12,0,0,0,12
+1316002,937010,2020-02-27,Senate,"Senate Favorable Passage",7,4,0,0,11
+1316002,942813,2020-03-04,Senate,"Senate Passed",20,9,0,0,29
+1316002,983395,2020-12-16,House,"House Favorable Passage",10,3,0,0,13
+1316002,983693,2020-12-17,House,"House Passed",54,30,0,0,84
+1320973,957636,2020-05-06,House,"House Favorable Passage",14,0,0,0,14
+1320973,959690,2020-05-20,House,"House Passed",92,3,0,0,95
+1320973,965190,2020-06-10,Senate,"Senate Favorable Passage",7,0,0,0,7
+1320973,965191,2020-06-10,Senate,"Senate Passed",30,2,0,0,32
+1321250,982763,2020-12-02,House,"House Favorable Passage",13,2,0,0,15
+1321460,982761,2020-12-02,Senate,"Senate Favorable Passage",12,0,0,0,12
+1321460,982762,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1321460,983265,2020-12-14,House,"House Favorable Passage",11,3,0,0,14
+1321460,983694,2020-12-17,House,"House Passed",77,6,0,0,83
+1322038,909520,2020-01-28,House,"House Adopted",93,0,0,0,93
+1322210,960774,2020-05-27,House,"House Favorable Passage",11,0,0,0,11
+1322304,965244,2020-06-10,House,"House Favorable Passage",14,2,0,0,16
+1322304,965245,2020-06-10,House,"House Passed",90,5,0,0,95
+1323835,983146,2020-12-10,Senate,"Senate Favorable Passage",7,3,0,0,10
+1327151,981903,2020-11-18,Senate,"Senate Favorable Passage",11,0,0,0,11
+1327151,981904,2020-11-18,Senate,"Senate Passed",32,0,0,0,32
+1327151,983391,2020-12-16,House,"House Favorable Passage",13,0,0,0,13
+1330873,963902,2020-06-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1330873,964911,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1330873,983394,2020-12-16,House,"House Favorable Passage",13,0,0,0,13
+1333349,961519,2020-05-28,House,"House Favorable Passage",9,6,0,0,15
+1333349,964209,2020-06-09,House,"House Passed",66,26,0,0,92
+1334610,982416,2020-11-19,House,"House Favorable Passage",10,2,0,0,12
+1335885,981887,2020-11-18,Senate,"Senate Favorable Passage",11,0,0,0,11
+1335885,981888,2020-11-18,Senate,"Senate Passed",32,0,0,0,32
+1336054,970176,2020-06-30,Senate,"Senate Favorable Passage",10,0,0,0,10
+1336054,973547,2020-07-21,Senate,"Senate Passed",32,0,0,0,32
+1336054,983286,2020-12-14,House,"House Favorable Passage",14,0,0,0,14
+1336054,983711,2020-12-17,House,"House Passed",83,1,0,0,84
+1336114,963006,2020-06-03,Senate,"Senate Favorable Passage",12,0,0,0,12
+1336114,963007,2020-06-03,Senate,"Senate Passed",33,0,0,0,33
+1336114,982843,2020-12-02,House,"House Favorable Passage",12,0,0,0,12
+1336114,983733,2020-12-17,House,"House Passed",81,3,0,0,84
+1336286,982774,2020-12-02,House,"House Favorable Passage",13,0,0,0,13
+1336286,983101,2020-12-08,House,"House Passed",74,11,0,0,85
+1338432,982414,2020-11-19,House,"House Favorable Passage",12,1,0,0,13
+1338432,982823,2020-12-02,House,"House Passed",93,0,0,0,93
+1340493,964487,2020-06-09,Senate,"Senate Favorable Passage",13,0,0,0,13
+1340493,965278,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1340947,981891,2020-11-18,Senate,"Senate Favorable Passage",9,3,0,0,12
+1340947,981892,2020-11-18,Senate,"Senate Passed",24,8,0,0,32
+1342347,961096,2020-05-27,Senate,"Senate Favorable Passage",13,0,0,0,13
+1342347,961097,2020-05-27,Senate,"Senate Passed",32,0,0,0,32
+1342347,982617,2020-12-01,House,"House Favorable Passage",11,0,0,0,11
+1342347,982787,2020-12-02,House,"House Passed",93,0,0,0,93
+1349011,960770,2020-05-27,House,"House Favorable Passage",12,0,0,0,12
+1350850,965187,2020-06-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1350850,968880,2020-06-24,Senate,"Senate Passed",31,0,0,0,31
+1354715,962609,2020-06-03,House,"House Favorable Passage",10,1,0,0,11
+1354817,961513,2020-05-28,House,"House Favorable Passage",13,0,0,0,13
+1354817,963153,2020-06-04,House,"House Passed",95,0,0,0,95
+1354870,983125,2020-12-09,Senate,"Senate Favorable Passage",7,0,0,0,7
+1354870,983126,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1356278,965841,2020-06-11,House,"House Favorable Passage",12,0,0,0,12
+1356278,982888,2020-12-03,House,"House Passed",73,20,0,0,93
+1358250,960777,2020-05-27,House,"House Favorable Passage",12,0,0,0,12
+1358386,966073,2020-06-11,House,"House Favorable Passage",19,0,0,0,19
+1358386,981916,2020-11-18,House,"House Passed",86,0,0,0,86
+1359422,981555,2020-11-12,House,"House Favorable Passage",13,0,0,0,13
+1360096,981586,2020-11-12,House,"House Favorable Passage",11,0,0,0,11
+1360096,982711,2020-12-02,House,"House Passed",93,0,0,0,93
+1360967,965279,2020-06-10,Senate,"Senate Favorable Passage",7,0,0,0,7
+1360967,965280,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1362606,966015,2020-06-11,House,"House Favorable Passage",19,0,0,0,19
+1362860,961329,2020-05-28,House,"House Favorable Passage",13,2,0,0,15
+1362860,961330,2020-05-28,House,"House Passed",83,9,0,0,92
+1362860,970206,2020-06-30,Senate,"Senate Favorable Passage",7,3,0,0,10
+1362860,970207,2020-06-30,Senate,"Senate Passed",23,6,0,0,29
+1363090,982585,2020-12-01,Senate,"Senate Favorable Passage",10,0,0,0,10
+1363090,982790,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1363090,983407,2020-12-16,House,"House Favorable Passage",13,0,0,0,13
+1363256,959817,2020-05-20,House,"House Favorable Passage",20,0,0,0,20
+1363256,959818,2020-05-20,House,"House Passed",95,0,0,0,95
+1363256,983725,2020-12-17,Senate,"Senate Favorable Passage",10,0,0,0,10
+1363256,983875,2020-12-22,Senate,"Senate Passed",31,0,0,0,31
+1363390,957521,2020-05-06,Senate,"Senate Favorable Passage",10,0,0,0,10
+1363390,957522,2020-05-06,Senate,"Senate Passed",33,0,0,0,33
+1364462,962719,2020-06-03,Senate,"Senate Favorable Passage",7,3,0,0,10
+1364462,962720,2020-06-03,Senate,"Senate Passed",24,9,0,0,33
+1364466,957615,2020-05-06,Senate,"Senate Favorable Passage",13,0,0,0,13
+1364466,957616,2020-05-06,Senate,"Senate Passed",33,0,0,0,33
+1364466,963106,2020-06-04,House,"House Favorable Passage",30,0,0,0,30
+1364466,963107,2020-06-04,House,"House Passed",87,8,0,0,95
+1364470,960999,2020-05-27,Senate,"Senate Favorable Passage",10,0,0,0,10
+1364470,961000,2020-05-27,Senate,"Senate Passed",32,0,0,0,32
+1364470,961001,2020-05-27,Senate,"Senate Passed",32,0,0,0,32
+1364472,965861,2020-06-11,House,"House Favorable Passage",19,0,0,0,19
+1364472,965862,2020-06-11,House,"House Passed",89,0,0,0,89
+1364472,979070,2020-09-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1364472,979071,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1364652,960680,2020-05-27,House,"House Favorable Passage",12,0,0,0,12
+1364652,964247,2020-06-09,House,"House Passed",92,0,0,0,92
+1364699,981529,2020-11-12,House,"House Favorable Passage",10,3,0,0,13
+1364699,981828,2020-11-18,House,"House Passed",77,10,0,0,87
+1365224,964447,2020-06-09,House,"House Favorable Passage",9,3,0,0,12
+1365224,965217,2020-06-10,House,"House Passed",61,34,0,0,95
+1365456,965337,2020-06-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1365456,965338,2020-06-10,Senate,"Senate Adopted",32,0,0,0,32
+1365710,959532,2020-05-19,House,"House Favorable Passage",7,4,0,0,11
+1366012,962954,2020-06-03,Senate,"Senate Favorable Passage",6,3,0,0,9
+1366012,962955,2020-06-03,Senate,"Senate Adopted",22,11,0,0,33
+1366014,965276,2020-06-10,Senate,"Senate Favorable Passage",11,0,0,0,11
+1366016,979116,2020-09-23,Senate,"Senate Favorable Passage",10,0,0,0,10
+1366016,981889,2020-11-18,Senate,"Senate Passed",32,0,0,0,32
+1366016,983294,2020-12-14,House,"House Favorable Passage",9,0,0,0,9
+1366016,983681,2020-12-17,House,"House Passed",84,0,0,0,84
+1366020,977570,2020-09-02,Senate,"Senate Favorable Passage",7,4,0,0,11
+1366020,979058,2020-09-23,Senate,"Senate Passed",20,13,0,0,33
+1366020,982181,2020-11-19,House,"House Favorable Passage",9,5,0,0,14
+1366020,982182,2020-11-19,House,"House Passed",58,32,0,0,90
+1366269,965398,2020-06-10,House,"House Favorable Passage",15,0,0,0,15
+1366310,965865,2020-06-11,House,"House Favorable Passage",13,3,0,0,16
+1366310,965866,2020-06-11,House,"House Passed",62,25,0,0,87
+1366310,983172,2020-12-10,Senate,"Senate Favorable Passage",8,2,0,0,10
+1366310,983847,2020-12-22,Senate,"Senate Passed",22,9,0,0,31
+1366465,983723,2020-12-17,Senate,"Senate Favorable Passage",9,0,0,0,9
+1366465,983724,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1366538,965179,2020-06-10,House,"House Favorable Passage",13,2,0,0,15
+1366538,965180,2020-06-10,House,"House Passed",87,8,0,0,95
+1366538,979065,2020-09-23,Senate,"Senate Favorable Passage",8,2,0,0,10
+1366538,979066,2020-09-23,Senate,"Senate Passed",30,2,0,0,32
+1366581,959842,2020-05-20,Senate,"Senate Adopted",31,0,0,0,31
+1367136,963144,2020-06-04,House,"House Favorable Passage",8,4,0,0,12
+1367136,963145,2020-06-04,House,"House Passed",60,36,0,0,96
+1367136,963146,2020-06-04,House,"House Passed",59,37,0,0,96
+1367136,963147,2020-06-04,House,"House Passed",61,35,0,0,96
+1367170,965265,2020-06-10,House,"House Favorable Passage",9,6,0,0,15
+1367170,965911,2020-06-11,House,"House Passed",76,16,0,0,92
+1367170,983153,2020-12-10,Senate,"Senate Favorable Passage",9,1,0,0,10
+1367170,983716,2020-12-18,Senate,"Senate Passed",28,1,0,0,29
+1367189,964506,2020-06-09,House,"House Favorable Passage",9,3,0,0,12
+1367189,965263,2020-06-10,House,"House Passed",94,0,0,0,94
+1367189,983660,2020-12-17,Senate,"Senate Favorable Passage",9,0,0,0,9
+1367238,977578,2020-09-02,Senate,"Senate Favorable Passage",6,3,0,0,9
+1367238,981807,2020-11-18,Senate,"Senate Passed",21,11,0,0,32
+1367275,981594,2020-11-12,House,"House Favorable Passage",13,0,0,0,13
+1367292,962610,2020-06-03,House,"House Favorable Passage",10,0,0,0,10
+1367310,964315,2020-06-09,House,"House Favorable Passage",13,2,0,0,15
+1367310,965197,2020-06-10,House,"House Passed",91,3,0,0,94
+1367329,962594,2020-06-03,Senate,"Senate Favorable Passage",13,0,0,0,13
+1367450,965193,2020-06-10,Senate,"Senate Favorable Passage",7,0,0,0,7
+1367450,965194,2020-06-10,Senate,"Senate Passed",32,0,0,0,32
+1367450,977517,2020-09-01,House,"House Favorable Passage",11,0,0,0,11
+1367450,981846,2020-11-18,House,"House Passed",86,0,0,0,86
+1367716,961613,2020-05-28,House,"House Adopted",58,0,0,0,58
+1368056,965220,2020-06-10,House,"House Favorable Passage",15,0,0,0,15
+1368070,965238,2020-06-10,House,"House Favorable Passage",15,0,0,0,15
+1369095,968900,2020-06-24,Senate,"Senate Favorable Passage",11,0,0,0,11
+1369095,968901,2020-06-24,Senate,"Senate Adopted",31,0,0,0,31
+1369095,982415,2020-11-19,House,"House Favorable Passage",13,0,0,0,13
+1369290,965554,2020-06-10,House,"House Adopted",95,0,0,0,95
+1371263,979062,2020-09-23,Senate,"Senate Favorable Passage",10,1,0,0,11
+1371263,979063,2020-09-23,Senate,"Senate Passed",32,1,0,0,33
+1371417,982812,2020-12-02,Senate,"Senate Favorable Passage",7,2,0,0,9
+1371417,982813,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1371417,983738,2020-12-17,House,"House Favorable Passage",14,0,0,0,14
+1371417,983739,2020-12-17,House,"House Passed",83,1,0,0,84
+1371980,982713,2020-12-02,Senate,"Senate Favorable Passage",7,0,0,0,7
+1371980,982714,2020-12-02,Senate,"Senate Passed",33,0,0,0,33
+1372843,979086,2020-09-23,Senate,"Senate Adopted",33,0,0,0,33
+1372843,981595,2020-09-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1373462,981588,2020-11-12,House,"House Favorable Passage",13,0,0,0,13
+1373869,983115,2020-12-09,Senate,"Senate Favorable Passage",7,3,0,0,10
+1373869,983116,2020-12-09,Senate,"Senate Passed",23,7,0,0,30
+1375977,979047,2020-09-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1375977,979048,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1377067,977591,2020-09-02,Senate,"Senate Favorable Passage",13,0,0,0,13
+1377067,977592,2020-09-02,Senate,"Senate Passed",31,0,0,0,31
+1377082,982595,2020-12-01,Senate,"Senate Favorable Passage",8,1,0,0,9
+1377186,979054,2020-09-23,Senate,"Senate Favorable Passage",10,1,0,0,11
+1377186,979055,2020-09-23,Senate,"Senate Passed",28,5,0,0,33
+1377186,983732,2020-12-17,House,"House Favorable Passage",8,6,0,0,14
+1377188,979079,2020-09-23,Senate,"Senate Favorable Passage",11,0,0,0,11
+1377188,979080,2020-09-23,Senate,"Senate Passed",33,0,0,0,33
+1377290,983175,2020-12-09,Senate,"Senate Favorable Passage",12,0,0,0,12
+1377290,983176,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1378662,981810,2020-11-18,Senate,"Senate Favorable Passage",10,0,0,0,10
+1378662,981811,2020-11-18,Senate,"Senate Passed",32,0,0,0,32
+1378662,983722,2020-12-17,House,"House Favorable Passage",9,0,0,0,9
+1378814,979164,2020-09-23,Senate,"Senate Adopted",33,0,0,0,33
+1379171,983106,2020-12-08,Senate,"Senate Favorable Passage",10,0,0,0,10
+1379171,983132,2020-12-09,Senate,"Senate Passed",30,0,0,0,30
+1379417,981920,2020-11-19,House,"House Re-referred",14,0,0,0,14
+1379417,983393,2020-12-16,House,"House Favorable Passage",8,0,0,0,8
+1379436,982803,2020-12-02,House,"House Favorable Passage",13,0,0,0,13
+1379442,982841,2020-12-02,House,"House Favorable Passage",13,0,0,0,13
+1380756,982798,2020-12-02,House,"House Favorable Passage",12,0,0,0,12
+1380947,982802,2020-12-02,House,"House Favorable Passage",13,0,0,0,13
+1381299,981877,2020-11-18,Senate,"Senate Favorable Passage",8,1,0,0,9
+1381299,981878,2020-11-18,Senate,"Senate Passed",24,8,0,0,32
+1381299,983392,2020-12-16,House,"House Favorable Passage",10,4,0,0,14
+1381299,983682,2020-12-17,House,"House Passed",54,30,0,0,84
+1381692,983216,2020-12-10,Senate,"Senate Favorable Passage",10,0,0,0,10
+1381692,983665,2020-12-17,Senate,"Senate Passed",32,0,0,0,32
+1382950,983174,2020-12-10,Senate,"Senate Favorable Passage",8,3,0,0,11
+1383921,983293,2020-12-14,House,"House Favorable Passage",8,0,0,0,8
+1384231,983704,2020-12-17,House,"House Favorable Passage",8,7,0,0,15

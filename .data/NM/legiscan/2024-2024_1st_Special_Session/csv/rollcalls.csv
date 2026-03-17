@@ -1,0 +1,3 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1884564,1463129,2024-07-18,Senate,"Senate Final Passage",38,0,1,3,42
+1884564,1463131,2024-07-18,House,"House Final Passage",57,7,0,6,70

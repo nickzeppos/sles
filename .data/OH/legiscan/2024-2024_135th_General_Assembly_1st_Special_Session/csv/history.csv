@@ -1,0 +1,27 @@
+bill_id,date,chamber,sequence,action
+1881889,2024-05-28,House,1,Introduced
+1881889,2024-05-29,House,2,"Referred to committee: Government Oversight"
+1881889,2024-05-30,House,3,"Reported - Substitute: Government Oversight"
+1881889,2024-05-30,House,4,"Passed - Amended"
+1881889,2024-05-31,Senate,5,Introduced
+1881889,2024-05-31,Senate,6,Passed
+1881889,2024-05-31,,7,"Sent To The Governor"
+1881889,2024-06-02,,8,"Signed By The Governor"
+1881890,2024-05-28,House,1,Introduced
+1881890,2024-05-29,House,2,"Referred to committee: Government Oversight"
+1881890,2024-05-30,House,3,"Reported - Substitute: Government Oversight"
+1881890,2024-05-28,House,4,"Passed - Amended"
+1881890,2024-05-31,Senate,5,Introduced
+1881890,2024-05-31,Senate,6,Passed
+1881890,2024-05-31,,7,"Sent To The Governor"
+1881890,2024-06-02,,8,"Signed By The Governor"
+1881891,2023-09-18,House,1,Introduced
+1881891,2023-09-26,House,2,"Referred to committee: State and Local Government"
+1881891,2024-04-24,House,3,"Reported - Substitute: State and Local Government"
+1881891,2024-05-08,House,4,Passed
+1881891,2024-05-14,Senate,5,Introduced
+1881891,2024-05-22,Senate,6,"Referred to committee: General Government"
+1881891,2024-05-28,Senate,7,"Recalled to Senate"
+1881891,2024-05-28,Senate,8,Passed
+1881892,2024-05-28,Senate,1,Introduced
+1881893,2024-05-28,Senate,1,Introduced

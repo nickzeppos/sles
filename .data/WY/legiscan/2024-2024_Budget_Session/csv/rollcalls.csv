@@ -1,0 +1,1273 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1785388,1381915,2024-02-12,Senate,"Introduced and Referred to S10 - Labor 30-1-0-0-0",30,1,0,0,31
+1785388,1384759,2024-02-14,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1785388,1387572,2024-02-19,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1785388,1394163,2024-02-23,House,"H10 - Labor:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1785388,1397777,2024-02-28,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1785388,1397778,2024-02-28,Senate,"Concur:Passed 24-1-6-0-0",24,1,0,6,31
+1785428,1381823,2024-02-12,House,"Introduced and Referred to H03 - Revenue 59-2-1-0-0",59,2,0,1,62
+1785428,1388446,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1785428,1393044,2024-02-22,House,"3rd Reading:Pursuant to HR 7-7 Accelerated to 3rd Reading 45-17-0-0-0",45,17,0,0,62
+1785428,1393045,2024-02-22,House,"3rd Reading:Passed 59-3-0-0-0",59,3,0,0,62
+1785428,1400684,2024-03-01,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1785428,1404022,2024-03-06,Senate,"3rd Reading:Passed 21-0-0-0-10",21,0,10,0,31
+1785468,1381826,2024-02-12,Senate,"Introduced and Referred to S10 - Labor 31-0-0-0-0",31,0,0,0,31
+1785468,1387122,2024-02-16,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1785468,1390640,2024-02-21,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1785468,1400676,2024-03-01,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1785468,1404356,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1785468,1405377,2024-03-07,Senate,"Concur:Passed 30-0-1-0-0",30,0,0,1,31
+1785507,1381845,2024-02-12,Senate,"Introduced and Referred to S10 - Labor 25-6-0-0-0",25,6,0,0,31
+1785507,1387123,2024-02-16,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1785507,1389098,2024-02-20,Senate,"3rd Reading:Passed 25-5-1-0-0",25,5,0,1,31
+1785507,1395486,2024-02-26,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1785507,1399363,2024-02-29,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1785507,1399364,2024-02-29,Senate,"Concur:Passed 26-1-4-0-0",26,1,0,4,31
+1785547,1381850,2024-02-12,Senate,"Introduced and Referred to S10 - Labor 25-6-0-0-0",25,6,0,0,31
+1785547,1384421,2024-02-14,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1785547,1386740,2024-02-16,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1785547,1400678,2024-03-01,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1785547,1403702,2024-03-05,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1785587,1381910,2024-02-12,Senate,"Introduced and Referred to S10 - Labor 31-0-0-0-0",31,0,0,0,31
+1785587,1384795,2024-02-14,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1785587,1387003,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1785587,1394126,2024-02-23,House,"H10 - Labor:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1785587,1398080,2024-02-28,House,"3rd Reading:Passed 46-16-0-0-0",46,16,0,0,62
+1785626,1381922,2024-02-12,Senate,"Introduced and Referred to S10 - Labor 30-1-0-0-0",30,1,0,0,31
+1785626,1387119,2024-02-16,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1785626,1389123,2024-02-20,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1785626,1398679,2024-02-28,House,"H10 - Labor:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1785626,1401548,2024-03-04,House,"3rd Reading:Passed 38-22-2-0-0",38,22,0,2,62
+1785626,1401549,2024-03-04,Senate,"Concur:Passed 22-3-6-0-0",22,3,0,6,31
+1785666,1381499,2024-02-12,House,"Failed Introduction 39-22-1-0-0",39,22,0,1,62
+1785706,1381840,2024-02-12,House,"Introduced and Referred to H03 - Revenue 61-0-1-0-0",61,0,0,1,62
+1785706,1388455,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1785706,1392521,2024-02-22,House,"3rd Reading:Pursuant to HR 7-7 Accelerated to 3rd Reading 45-17-0-0-0",45,17,0,0,62
+1785706,1392522,2024-02-22,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1785706,1400653,2024-03-01,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1785706,1402430,2024-03-04,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1785706,1405417,2024-03-07,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1785706,1405418,2024-03-07,House,"Concur:Failed 21-40-1-0-0",21,40,0,1,62
+1785706,1406381,2024-03-08,House,"Adopted HB0004JC001: 61-0-1-0-0",61,0,0,1,62
+1785706,1406382,2024-03-08,Senate,"Adopted HB0004JC001: 30-1-0-0-0",30,1,0,0,31
+1785743,1381931,2024-02-12,House,"Failed Introduction 40-21-1-0-0",40,21,0,1,62
+1785931,1381750,2024-02-12,Senate,"Introduced and Referred to S04 - Education 29-2-0-0-0",29,2,0,0,31
+1785931,1384667,2024-02-14,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1785931,1387352,2024-02-19,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1785931,1394730,2024-02-26,House,"H04 - Education:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1785931,1398939,2024-02-29,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1785931,1399366,2024-02-29,Senate,"Concur:Passed 26-1-4-0-0",26,1,0,4,31
+1787710,1382038,2024-02-12,Senate,"Introduced and Referred to S05 - Agriculture 28-3-0-0-0",28,3,0,0,31
+1787710,1383443,2024-02-13,Senate,"S05 - Agriculture:Recommend Do Pass 6-0-0-0-0",6,0,0,0,6
+1787710,1385836,2024-02-15,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1787710,1396248,2024-02-27,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1787710,1400859,2024-03-01,House,"3rd Reading:Passed 57-1-4-0-0",57,1,0,4,62
+1788454,1381842,2024-02-12,Senate,"Introduced and Referred to S05 - Agriculture 25-6-0-0-0",25,6,0,0,31
+1788454,1382727,2024-02-13,Senate,"S05 - Agriculture:Recommend Do Pass 6-0-0-0-0",6,0,0,0,6
+1788454,1385887,2024-02-15,Senate,"S02 - Appropriations:Do Pass Failed 2-2-0-0-1",2,2,1,0,5
+1788454,1390045,2024-02-21,Senate,"Amendment adopted 27-2-0-0-2",27,2,2,0,31
+1788454,1392814,2024-02-22,Senate,"3rd Reading:Passed 20-9-0-0-2",20,9,2,0,31
+1788454,1399601,2024-02-29,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1788454,1402835,2024-03-05,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1788454,1404993,2024-03-07,House,"Amendment adopted 33-29-0-0-0",33,29,0,0,62
+1788454,1404994,2024-03-07,House,"3rd Reading:Passed 47-15-0-0-0",47,15,0,0,62
+1788454,1405298,2024-03-07,Senate,"Concur:Failed 1-28-0-0-2",1,28,2,0,31
+1788454,1406354,2024-03-08,Senate,"Recedes from non-concurrance: 24-5-0-0-2",24,5,2,0,31
+1789186,1382374,2024-02-12,Senate,"Introduced and Referred to S05 - Agriculture 29-2-0-0-0",29,2,0,0,31
+1789186,1382877,2024-02-13,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1789186,1385822,2024-02-15,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1789186,1399411,2024-02-29,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1789186,1401459,2024-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1789186,1404493,2024-03-06,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1789490,1381904,2024-02-12,House,"Introduced and Referred to H05 - Agriculture 61-0-1-0-0",61,0,0,1,62
+1789490,1383464,2024-02-13,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1789490,1387240,2024-02-16,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1789490,1392427,2024-02-22,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-1-0-0",5,0,0,1,6
+1789490,1398048,2024-02-28,Senate,"3rd Reading:Passed 29-0-0-0-2",29,0,2,0,31
+1789491,1382816,2024-02-12,House,"Introduced and Referred to H05 - Agriculture 57-3-2-0-0",57,3,0,2,62
+1789491,1388869,2024-02-20,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1789491,1393715,2024-02-23,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1789491,1396226,2024-02-27,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-1-0-0",5,0,0,1,6
+1789491,1399575,2024-02-29,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1789492,1382622,2024-02-12,House,"Failed Introduction 40-20-1-0-1",40,20,1,1,62
+1789494,1381917,2024-02-12,House,"Introduced and Referred to H08 - Transportation 59-1-2-0-0",59,1,0,2,62
+1789494,1383458,2024-02-13,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1789494,1385824,2024-02-15,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1789494,1393955,2024-02-23,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1789494,1398063,2024-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1789495,1381908,2024-02-12,House,"Introduced and Referred to H08 - Transportation 60-0-2-0-0",60,0,0,2,62
+1789495,1383439,2024-02-13,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1789495,1385817,2024-02-15,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1789495,1396201,2024-02-27,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1789495,1400804,2024-03-01,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1789497,1383042,2024-02-13,House,"Introduced and Referred to H05 - Agriculture 61-0-1-0-0",61,0,0,1,62
+1789497,1388778,2024-02-20,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1789497,1393595,2024-02-23,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1789497,1396233,2024-02-27,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-1-0-0",5,0,0,1,6
+1789497,1399320,2024-02-29,Senate,"3rd Reading:Passed 28-1-2-0-0",28,1,0,2,31
+1789498,1382970,2024-02-12,House,"Failed Introduction 41-20-1-0-0",41,20,0,1,62
+1789500,1381887,2024-02-12,House,"Introduced and Referred to H05 - Agriculture 61-0-1-0-0",61,0,0,1,62
+1789500,1383452,2024-02-13,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1789500,1387238,2024-02-16,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1789500,1392467,2024-02-22,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-1-0-0",5,0,0,1,6
+1789500,1398081,2024-02-28,Senate,"3rd Reading:Passed 29-0-0-0-2",29,0,2,0,31
+1790900,1382558,2024-02-12,Senate,"Introduced and Referred to S08 - Transportation 31-0-0-0-0",31,0,0,0,31
+1790900,1384497,2024-02-14,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1790900,1386925,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1790900,1395542,2024-02-22,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1790900,1398060,2024-02-28,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1790911,1382366,2024-02-12,Senate,"Introduced and Referred to S08 - Transportation 30-1-0-0-0",30,1,0,0,31
+1790911,1384467,2024-02-14,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1790911,1386934,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1790911,1392315,2024-02-22,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1790911,1397871,2024-02-28,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1790924,1382775,2024-02-12,Senate,"Introduced and Referred to S08 - Transportation 30-1-0-0-0",30,1,0,0,31
+1791040,1381879,2024-02-12,House,"Introduced and Referred to H10 - Labor 60-0-2-0-0",60,0,0,2,62
+1791040,1384666,2024-02-14,House,"H10 - Labor:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1791040,1387056,2024-02-16,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1791040,1394690,2024-02-26,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1791040,1398933,2024-02-29,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1791054,1381669,2024-02-12,House,"Introduced and Referred to H10 - Labor 56-4-2-0-0",56,4,0,2,62
+1791054,1384653,2024-02-14,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1791054,1387308,2024-02-19,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1791054,1393709,2024-02-23,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1791054,1397464,2024-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1791054,1398016,2024-02-28,House,"Concur:Passed 61-0-1-0-0",61,0,0,1,62
+1791334,1381900,2024-02-12,House,"Introduced and Referred to H06 - Travel 55-6-1-0-0",55,6,0,1,62
+1791334,1383463,2024-02-13,House,"H06 - Travel:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1791334,1387237,2024-02-16,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1791334,1392497,2024-02-22,Senate,"S06 - Travel:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1791334,1398059,2024-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1791341,1382329,2024-02-12,House,"Failed Introduction 38-22-2-0-0",38,22,0,2,62
+1791426,1383253,2024-02-13,House,"Failed Introduction 34-27-1-0-0",34,27,0,1,62
+1791446,1381906,2024-02-12,House,"Introduced and Referred to H03 - Revenue 56-4-2-0-0",56,4,0,2,62
+1791584,1381661,2024-02-12,House,"Introduced and Referred to H04 - Education 53-7-2-0-0",53,7,0,2,62
+1791584,1385210,2024-02-14,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1791584,1387922,2024-02-19,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1791584,1393966,2024-02-23,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1791584,1400844,2024-03-01,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1791584,1402026,2024-03-04,House,"Concur:Passed 51-4-7-0-0",51,4,0,7,62
+1791609,1381694,2024-02-12,House,"Failed Introduction 41-19-2-0-0",41,19,0,2,62
+1792059,1381672,2024-02-12,House,"Introduced and Referred to H04 - Education 61-0-1-0-0",61,0,0,1,62
+1792059,1385195,2024-02-14,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1792059,1387879,2024-02-19,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1792059,1393994,2024-02-23,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1792059,1398049,2024-02-28,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1792235,1382852,2024-02-12,Senate,"Introduced and Referred to S04 - Education 29-2-0-0-0",29,2,0,0,31
+1792235,1388090,2024-02-19,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1792235,1389142,2024-02-20,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1792235,1395705,2024-02-27,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1792235,1401433,2024-03-04,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1792235,1402059,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1792235,1404440,2024-03-06,House,"3rd Reading:Passed 50-12-0-0-0",50,12,0,0,62
+1792235,1405470,2024-03-07,Senate,"Concur:Passed 30-0-1-0-0",30,0,0,1,31
+1792244,1383399,2024-02-13,Senate,"Introduced and Referred to S06 - Travel 31-0-0-0-0",31,0,0,0,31
+1792244,1386140,2024-02-15,Senate,"S06 - Travel:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1792244,1393116,2024-02-22,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1792244,1397188,2024-02-27,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1792244,1400842,2024-03-01,House,"3rd Reading:Passed 56-2-4-0-0",56,2,0,4,62
+1792244,1402007,2024-03-04,Senate,"Concur:Passed 25-0-6-0-0",25,0,0,6,31
+1792367,1382304,2024-02-12,House,"Failed Introduction 1-59-2-0-0",1,59,0,2,62
+1793638,1382537,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793638,1389069,2024-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1793638,1390014,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1793638,1395727,2024-02-27,Senate,"3rd Reading:Passed 30-0-0-0-1",30,0,1,0,31
+1793638,1401475,2024-03-04,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1793638,1401828,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1793638,1404286,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1793638,1404943,2024-03-07,Senate,"Concur:Passed 29-0-1-0-1",29,0,1,1,31
+1793640,1381785,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793640,1389691,2024-02-20,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1793640,1393736,2024-02-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1793640,1401893,2024-03-04,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1793640,1404368,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1793642,1382615,2024-02-13,Senate,"Failed Introduction 10-21-0-0-0",10,21,0,0,31
+1793644,1381794,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793644,1386567,2024-02-16,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1793644,1393162,2024-02-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1793644,1397935,2024-02-28,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1793644,1401468,2024-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1793644,1401774,2024-03-04,Senate,"Concur:Passed 24-1-6-0-0",24,1,0,6,31
+1793647,1381763,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793647,1384834,2024-02-14,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1793647,1387010,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1793647,1395234,2024-02-26,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1793647,1399699,2024-02-29,House,"3rd Reading:Passed 59-3-0-0-0",59,3,0,0,62
+1793651,1381793,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793651,1383468,2024-02-13,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1793651,1385597,2024-02-15,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1793651,1394033,2024-02-23,House,"H07 - Corporations:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1793651,1397597,2024-02-28,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1793651,1397598,2024-02-28,Senate,"Concur:Failed 1-30-0-0-0",1,30,0,0,31
+1793651,1401874,2024-03-04,Senate,"Adopted SF0020JC001: 25-0-6-0-0",25,0,0,6,31
+1793651,1401875,2024-03-04,House,"Adopted SF0020JC001: 52-3-7-0-0",52,3,0,7,62
+1793653,1381779,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793653,1389680,2024-02-20,Senate,"S07 - Corporations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1793653,1393706,2024-02-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1793653,1401863,2024-03-04,House,"H07 - Corporations:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1793653,1404334,2024-03-06,House,"3rd Reading:Passed 35-27-0-0-0",35,27,0,0,62
+1793656,1382636,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793656,1386572,2024-02-16,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1793656,1389073,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1793656,1395776,2024-02-27,Senate,"3rd Reading:Passed 30-0-0-0-1",30,0,1,0,31
+1793656,1401512,2024-03-04,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1793656,1401946,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1793656,1404353,2024-03-06,House,"3rd Reading:Passed 54-8-0-0-0",54,8,0,0,62
+1793656,1404961,2024-03-07,Senate,"Concur:Passed 29-0-1-0-1",29,0,1,1,31
+1793658,1382909,2024-02-12,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1793658,1389627,2024-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1793658,1396106,2024-02-27,Senate,"3rd Reading:Passed 30-0-0-0-1",30,0,1,0,31
+1793658,1401832,2024-03-04,House,"H07 - Corporations:Do Pass Failed 2-7-0-0-0",2,7,0,0,9
+1793662,1383016,2024-02-13,Senate,"Failed Introduction 8-23-0-0-0",8,23,0,0,31
+1793742,1382083,2024-02-12,Senate,"Failed Introduction 16-15-0-0-0",16,15,0,0,31
+1793746,1382521,2024-02-12,Senate,"Introduced and Referred to S01 - Judiciary 31-0-0-0-0",31,0,0,0,31
+1793746,1387132,2024-02-16,Senate,"S01 - Judiciary:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1793746,1390650,2024-02-21,Senate,"3rd Reading:Failed 13-17-0-0-1",13,17,1,0,31
+1793750,1382529,2024-02-12,Senate,"Introduced and Referred to S01 - Judiciary 31-0-0-0-0",31,0,0,0,31
+1793750,1387365,2024-02-19,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1793750,1392989,2024-02-22,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1793750,1397946,2024-02-28,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1793750,1402156,2024-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1793750,1402157,2024-03-04,Senate,"Concur:Failed 1-24-6-0-0",1,24,0,6,31
+1793750,1405058,2024-03-07,Senate,"Recede from Non-Concurrence pursuant to JR 2-4 Passed by Roll Call 29-1-1-0-0",29,1,0,1,31
+1793756,1381886,2024-02-12,Senate,"Introduced and Referred to S01 - Judiciary 30-1-0-0-0",30,1,0,0,31
+1793756,1384715,2024-02-14,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1793756,1387019,2024-02-16,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1793756,1395489,2024-02-26,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1793756,1399585,2024-02-29,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1793756,1399586,2024-02-29,Senate,"Concur:Failed 1-25-5-0-0",1,25,0,5,31
+1793756,1404540,2024-03-06,Senate,"Adopted SF0035JC001: 30-0-1-0-0",30,0,0,1,31
+1793756,1404541,2024-03-06,House,"Adopted SF0035JC001: 59-2-1-0-0",59,2,0,1,62
+1793761,1381820,2024-02-12,Senate,"Introduced and Referred to S01 - Judiciary 28-3-0-0-0",28,3,0,0,31
+1793761,1387618,2024-02-19,Senate,"S01 - Judiciary:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1793761,1392601,2024-02-22,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1793761,1398012,2024-02-28,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1793761,1401472,2024-03-04,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1793766,1381890,2024-02-12,Senate,"Introduced and Referred to S01 - Judiciary 27-4-0-0-0",27,4,0,0,31
+1793766,1384419,2024-02-14,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1793766,1393129,2024-02-22,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1793766,1400675,2024-03-01,House,"H01 - Judiciary:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1793766,1403174,2024-03-05,House,"3rd Reading:Passed 42-19-1-0-0",42,19,0,1,62
+1793771,1381903,2024-02-12,Senate,"Introduced and Referred to S01 - Judiciary 31-0-0-0-0",31,0,0,0,31
+1793771,1384772,2024-02-14,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1793771,1387023,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1793771,1394123,2024-02-23,House,"H01 - Judiciary:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1793771,1398077,2024-02-28,House,"3rd Reading:Passed 59-3-0-0-0",59,3,0,0,62
+1793771,1398078,2024-02-28,Senate,"Concur:Passed 28-1-2-0-0",28,1,0,2,31
+1794172,1382820,2024-02-12,House,"Introduced and Referred to H01 - Judiciary 46-15-1-0-0",46,15,0,1,62
+1794172,1385203,2024-02-14,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1794172,1387235,2024-02-16,House,"3rd Reading:Passed 44-17-1-0-0",44,17,0,1,62
+1794172,1393988,2024-02-23,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1794172,1398239,2024-02-28,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1794182,1382580,2024-02-12,House,"Failed Introduction 41-19-2-0-0",41,19,0,2,62
+1794192,1382680,2024-02-12,House,"Introduced and Referred to H01 - Judiciary 51-9-2-0-0",51,9,0,2,62
+1794192,1387118,2024-02-16,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1794192,1389248,2024-02-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1794192,1393757,2024-02-23,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1794192,1400659,2024-03-01,Senate,"S01 - Judiciary:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1794192,1401841,2024-03-04,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1794192,1404307,2024-03-06,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1794201,1384273,2024-02-13,House,"Introduced and Referred to H10 - Labor 58-3-1-0-0",58,3,0,1,62
+1794201,1387102,2024-02-16,House,"H10 - Labor:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1794201,1390644,2024-02-21,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1794201,1395373,2024-02-26,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1794201,1399132,2024-02-29,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1794211,1382678,2024-02-12,House,"Introduced and Referred to H01 - Judiciary 46-15-1-0-0",46,15,0,1,62
+1794211,1385202,2024-02-14,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1794211,1387224,2024-02-16,House,"3rd Reading:Passed 44-17-1-0-0",44,17,0,1,62
+1794211,1393764,2024-02-23,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1794211,1398070,2024-02-28,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1794221,1382897,2024-02-12,House,"Introduced and Referred to H10 - Labor 59-1-2-0-0",59,1,0,2,62
+1794221,1387241,2024-02-16,House,"H10 - Labor:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1794221,1390465,2024-02-21,House,"3rd Reading:Passed 58-4-0-0-0",58,4,0,0,62
+1794233,1382929,2024-02-13,House,"Introduced and Referred to H01 - Judiciary 55-6-1-0-0",55,6,0,1,62
+1794233,1389100,2024-02-20,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1794233,1393751,2024-02-23,House,"3rd Reading:Passed 57-5-0-0-0",57,5,0,0,62
+1794233,1397788,2024-02-28,Senate,"S01 - Judiciary:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1794233,1397789,2024-02-28,Senate,"COW:Failed 13-18-0-0-0",13,18,0,0,31
+1794244,1384306,2024-02-14,House,"Introduced and Referred to H08 - Transportation 56-5-1-0-0",56,5,0,1,62
+1794244,1387158,2024-02-16,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1794244,1390633,2024-02-21,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1794244,1393915,2024-02-23,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1794244,1398053,2024-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1794252,1383124,2024-02-13,House,"Introduced and Referred to H01 - Judiciary 61-0-1-0-0",61,0,0,1,62
+1794252,1389433,2024-02-20,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1794252,1393754,2024-02-23,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1794252,1397733,2024-02-28,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1794252,1400683,2024-03-01,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1794599,1383378,2024-02-13,Senate,"Introduced and Referred to S06 - Travel 31-0-0-0-0",31,0,0,0,31
+1794599,1386044,2024-02-15,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1794599,1393134,2024-02-22,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1794599,1397185,2024-02-27,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1794599,1400820,2024-03-01,House,"3rd Reading:Passed 58-0-4-0-0",58,0,0,4,62
+1796266,1383200,2024-02-12,House,"Introduced and Referred to H09 - Minerals 59-1-2-0-0",59,1,0,2,62
+1796266,1387100,2024-02-16,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1796266,1390643,2024-02-21,House,"3rd Reading:Passed 58-4-0-0-0",58,4,0,0,62
+1796266,1395491,2024-02-26,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1796266,1399603,2024-02-29,Senate,"3rd Reading:Passed 27-2-2-0-0",27,2,0,2,31
+1796318,1381720,2024-02-12,House,"Introduced and Referred to H09 - Minerals 61-0-1-0-0",61,0,0,1,62
+1796318,1384630,2024-02-14,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1796318,1387171,2024-02-16,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1796318,1393798,2024-02-23,Senate,"S09 - Minerals:Recommend Do Pass 4-0-0-0-1",4,0,1,0,5
+1796318,1398979,2024-02-29,Senate,"3rd Reading:Passed 19-9-2-0-1",19,9,1,2,31
+1796318,1399423,2024-02-29,House,"Concur:Passed 56-0-6-0-0",56,0,0,6,62
+1796370,1383168,2024-02-13,House,"Introduced and Referred to H01 - Judiciary 56-5-1-0-0",56,5,0,1,62
+1796370,1387124,2024-02-16,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1796370,1391142,2024-02-21,House,"H02 - Appropriations:Recommend Do Pass 4-3-0-0-0",4,3,0,0,7
+1796370,1395670,2024-02-27,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1796370,1398902,2024-02-29,Senate,"S05 - Agriculture:Recommend Do Pass 6-0-0-0-0",6,0,0,0,6
+1796370,1401929,2024-03-04,Senate,"3rd Reading:Passed 23-5-3-0-0",23,5,0,3,31
+1796370,1403075,2024-03-05,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1796420,1383063,2024-02-12,House,"Introduced and Referred to H09 - Minerals 59-1-2-0-0",59,1,0,2,62
+1796420,1384495,2024-02-14,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1796420,1387912,2024-02-19,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1796420,1394640,2024-02-26,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1796420,1396327,2024-02-27,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1796420,1399602,2024-02-29,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1796478,1381598,2024-02-12,House,"Failed Introduction 36-24-2-0-0",36,24,0,2,62
+1796531,1381615,2024-02-12,House,"Introduced and Referred to H09 - Minerals 55-5-2-0-0",55,5,0,2,62
+1796531,1385206,2024-02-14,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1796531,1387227,2024-02-16,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1796531,1390656,2024-02-21,House,"3rd Reading:Passed 49-13-0-0-0",49,13,0,0,62
+1796531,1393785,2024-02-23,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1796531,1396219,2024-02-27,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1796531,1399760,2024-02-29,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1796536,1381740,2024-02-12,House,"Failed Introduction 40-20-2-0-0",40,20,0,2,62
+1796544,1383038,2024-02-13,House,"Failed Introduction 35-26-1-0-0",35,26,0,1,62
+1796555,1381798,2024-02-12,House,"Introduced and Referred to H07 - Corporations 55-5-2-0-0",55,5,0,2,62
+1796555,1391241,2024-02-21,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1796564,1381801,2024-02-12,House,"Introduced and Referred to H04 - Education 60-0-2-0-0",60,0,0,2,62
+1796564,1385211,2024-02-14,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1796564,1387975,2024-02-19,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1796564,1392425,2024-02-22,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1796564,1398066,2024-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1796574,1383368,2024-02-13,House,"Introduced and Referred to H05 - Agriculture 45-16-1-0-0",45,16,0,1,62
+1796574,1388847,2024-02-20,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1796574,1391265,2024-02-21,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1796574,1396531,2024-02-27,House,"3rd Reading:Passed 46-15-1-0-0",46,15,0,1,62
+1796574,1399371,2024-02-29,Senate,"S05 - Agriculture:Recommend Do Pass 5-1-0-0-0",5,1,0,0,6
+1796574,1400463,2024-03-01,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1796574,1403276,2024-03-05,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1796584,1381764,2024-02-12,House,"Failed Introduction 37-23-2-0-0",37,23,0,2,62
+1796595,1383071,2024-02-13,House,"Introduced and Referred to H07 - Corporations 61-0-1-0-0",61,0,0,1,62
+1796595,1389223,2024-02-20,House,":Recall from Committee failed Pursuant to HR 5-6 28-33-1-0-0",28,33,0,1,62
+1796825,1383326,2024-02-13,House,"Introduced and Referred to H10 - Labor 52-9-1-0-0",52,9,0,1,62
+1796825,1387614,2024-02-19,House,"H10 - Labor:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1796825,1387615,2024-02-19,House,":Recall from Committee failed Pursuant to HR 5-6 30-31-1-0-0",30,31,0,1,62
+1797005,1382638,2024-02-13,Senate,"Introduced and Referred to S02 - Appropriations 31-0-0-0-0",31,0,0,0,31
+1797005,1384660,2024-02-14,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1797005,1387362,2024-02-19,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1797005,1395012,2024-02-26,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1797005,1400557,2024-03-01,House,"3rd Reading:Passed 58-0-4-0-0",58,0,0,4,62
+1798540,1381881,2024-02-12,Senate,"Failed Introduction 19-12-0-0-0",19,12,0,0,31
+1798614,1384072,2024-02-13,House,"Introduced and Referred to H03 - Revenue 57-4-1-0-0",57,4,0,1,62
+1798614,1388403,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1798614,1392478,2024-02-22,House,"Amendment failed 26-36-0-0-0",26,36,0,0,62
+1798614,1392479,2024-02-22,House,"3rd Reading:Pursuant to HR 7-7 Accelerated to 3rd Reading 45-17-0-0-0",45,17,0,0,62
+1798614,1392822,2024-02-22,House,"Amendment failed 24-38-0-0-0",24,38,0,0,62
+1798614,1392823,2024-02-22,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1798614,1400420,2024-03-01,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1798614,1405301,2024-03-07,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1798614,1405302,2024-03-07,House,"Concur:Failed 25-36-1-0-0",25,36,0,1,62
+1798614,1406165,2024-03-08,House,"Adopted HB0045JC001: 60-1-1-0-0",60,1,0,1,62
+1798614,1406464,2024-03-08,Senate,"Adopted HB0045JC001: 28-1-2-0-0",28,1,0,2,31
+1799619,1385257,2024-02-14,House,"Failed Introduction 28-33-1-0-0",28,33,0,1,62
+1799685,1384194,2024-02-14,House,"Introduced and Referred to H01 - Judiciary 58-3-1-0-0",58,3,0,1,62
+1799685,1387113,2024-02-16,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1799685,1389904,2024-02-21,House,"3rd Reading:Passed 52-10-0-0-0",52,10,0,0,62
+1799685,1394263,2024-02-26,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1799685,1397274,2024-02-28,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1800072,1382572,2024-02-12,Senate,"Failed Introduction 18-13-0-0-0",18,13,0,0,31
+1800605,1384318,2024-02-14,House,"Introduced and Referred to H10 - Labor 55-6-1-0-0",55,6,0,1,62
+1800605,1391287,2024-02-21,House,"H10 - Labor:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1800713,1382650,2024-02-12,Senate,"Introduced and Referred to S09 - Minerals 30-1-0-0-0",30,1,0,0,31
+1800713,1388182,2024-02-19,Senate,"S09 - Minerals:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1800713,1393113,2024-02-22,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1800713,1398398,2024-02-28,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1800713,1401722,2024-03-04,House,"3rd Reading:Passed 38-20-4-0-0",38,20,0,4,62
+1800713,1401723,2024-03-04,Senate,"Concur:Failed 0-25-6-0-0",0,25,0,6,31
+1800713,1404683,2024-03-06,Senate,"Adopted SF0044JC001: 21-9-1-0-0",21,9,0,1,31
+1800713,1405432,2024-03-07,House,"Adopted SF0044JC001: 47-14-1-0-0",47,14,0,1,62
+1800823,1381896,2024-02-12,Senate,"Introduced and Referred to S09 - Minerals 26-5-0-0-0",26,5,0,0,31
+1800823,1387806,2024-02-19,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1800823,1389111,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1800823,1396541,2024-02-27,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1800823,1400649,2024-03-01,House,"H09 - Minerals:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1800823,1402533,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1800823,1405156,2024-03-07,House,"3rd Reading:Failed 28-34-0-0-0",28,34,0,0,62
+1800823,1405157,2024-03-07,House,"3rd Reading:Failed 28-34-0-0-0",28,34,0,0,62
+1800823,1405158,2024-03-07,House,"3rd Reading:H Bill Reconsideration Motion Passed by Roll Call 33-29-0-0-0",33,29,0,0,62
+1800823,1405159,2024-03-07,House,"3rd Reading:Passed 33-29-0-0-0",33,29,0,0,62
+1800823,1406194,2024-03-08,Senate,"Concur:Passed 24-7-0-0-0",24,7,0,0,31
+1800932,1383094,2024-02-12,Senate,"Failed Introduction 10-21-0-0-0",10,21,0,0,31
+1801037,1381827,2024-02-12,Senate,"Introduced and Referred to S09 - Minerals 23-8-0-0-0",23,8,0,0,31
+1801037,1387643,2024-02-19,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1801037,1389232,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1801037,1395882,2024-02-27,Senate,"3rd Reading:Passed 20-10-0-0-1",20,10,1,0,31
+1801037,1400602,2024-03-01,House,"H09 - Minerals:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1801037,1404391,2024-03-06,House,"3rd Reading:Passed 39-23-0-0-0",39,23,0,0,62
+1801037,1404964,2024-03-07,Senate,"Concur:Failed 13-16-1-0-1",13,16,1,1,31
+1801037,1406047,2024-03-08,Senate,"Adopted SF0042JC001: 18-12-0-0-1",18,12,1,0,31
+1801037,1406329,2024-03-08,House,"Adopted SF0042JC001: 36-17-9-0-0",36,17,0,9,62
+1803981,1384162,2024-02-14,House,"Failed Introduction 36-25-1-0-0",36,25,0,1,62
+1804152,1385370,2024-02-15,House,"Failed Introduction 37-24-1-0-0",37,24,0,1,62
+1807896,1384104,2024-02-13,House,"Introduced and Referred to H03 - Revenue 58-3-1-0-0",58,3,0,1,62
+1807896,1389491,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1807896,1392575,2024-02-22,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1807896,1395990,2024-02-27,House,"3rd Reading:Passed 55-6-1-0-0",55,6,0,1,62
+1810157,1384197,2024-02-14,House,"Failed Introduction 27-34-1-0-0",27,34,0,1,62
+1810471,1385261,2024-02-14,House,"Introduced and Referred to H04 - Education 56-5-1-0-0",56,5,0,1,62
+1810471,1387135,2024-02-16,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1810471,1390128,2024-02-21,House,"3rd Reading:Passed 52-10-0-0-0",52,10,0,0,62
+1810471,1395380,2024-02-26,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1810471,1399109,2024-02-29,Senate,"3rd Reading:Passed 25-4-2-0-0",25,4,0,2,31
+1810471,1400127,2024-02-29,House,"Concur:Passed 57-1-4-0-0",57,1,0,4,62
+1811445,1383138,2024-02-13,House,"Introduced and Referred to H01 - Judiciary 50-11-1-0-0",50,11,0,1,62
+1811445,1387137,2024-02-16,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1811445,1389267,2024-02-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1811445,1393749,2024-02-23,House,"3rd Reading:Passed 49-13-0-0-0",49,13,0,0,62
+1811445,1400654,2024-03-01,Senate,"S01 - Judiciary:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1811445,1401814,2024-03-04,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1811445,1404322,2024-03-06,Senate,"3rd Reading:Passed 19-11-1-0-0",19,11,0,1,31
+1811533,1384476,2024-02-14,Senate,"Introduced and Referred to S01 - Judiciary 31-0-0-0-0",31,0,0,0,31
+1811533,1388167,2024-02-19,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1811533,1390521,2024-02-21,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1811533,1394647,2024-02-26,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1811533,1400710,2024-03-01,House,"3rd Reading:Passed 56-2-4-0-0",56,2,0,4,62
+1812113,1381664,2024-02-12,House,"Introduced and Referred to H05 - Agriculture 54-6-2-0-0",54,6,0,2,62
+1812113,1387094,2024-02-16,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1812113,1391104,2024-02-21,House,"H02 - Appropriations:Recommend Do Pass 4-3-0-0-0",4,3,0,0,7
+1812113,1395978,2024-02-27,House,"3rd Reading:Passed 43-18-1-0-0",43,18,0,1,62
+1812113,1401620,2024-03-04,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1812113,1402661,2024-03-05,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1813043,1382659,2024-02-13,Senate,"Failed Introduction 7-24-0-0-0",7,24,0,0,31
+1813730,1381882,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 23-8-0-0-0",23,8,0,0,31
+1813730,1383435,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1813730,1384668,2024-02-14,Senate,"Amendment failed 9-22-0-0-0",9,22,0,0,31
+1813730,1385566,2024-02-15,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1813730,1394158,2024-02-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1813730,1399238,2024-02-29,House,"Amendment adopted 61-0-1-0-0",61,0,0,1,62
+1813730,1400616,2024-03-01,House,"3rd Reading:Passed 43-15-4-0-0",43,15,0,4,62
+1813730,1405262,2024-03-07,Senate,"Concur:Passed 29-1-1-0-0",29,1,0,1,31
+1813775,1381891,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 26-5-0-0-0",26,5,0,0,31
+1813775,1383467,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1813775,1385826,2024-02-15,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1813775,1395497,2024-02-26,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1813775,1400895,2024-03-01,House,"3rd Reading:Passed 44-14-4-0-0",44,14,0,4,62
+1813818,1385355,2024-02-15,House,"Failed Introduction 35-26-1-0-0",35,26,0,1,62
+1813859,1381860,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 27-4-0-0-0",27,4,0,0,31
+1813859,1383237,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1813859,1385837,2024-02-15,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1813859,1395492,2024-02-26,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1813859,1400894,2024-03-01,House,"3rd Reading:Passed 42-16-4-0-0",42,16,0,4,62
+1814311,1382570,2024-02-12,Senate,"Introduced and Referred to S09 - Minerals 28-3-0-0-0",28,3,0,0,31
+1814311,1391493,2024-02-22,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1814311,1396288,2024-02-27,Senate,"3rd Reading:Failed 11-20-0-0-0",11,20,0,0,31
+1814311,1397193,2024-02-27,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 17-7-7-0-0",17,7,0,7,31
+1814311,1397194,2024-02-27,Senate,"3rd Reading:Passed 17-7-7-0-0",17,7,0,7,31
+1814421,1382530,2024-02-12,Senate,"Introduced and Referred to S09 - Minerals 31-0-0-0-0",31,0,0,0,31
+1814421,1385190,2024-02-14,Senate,"S09 - Minerals:Recommend Do Pass 4-0-0-0-1",4,0,1,0,5
+1814421,1392992,2024-02-22,Senate,"3rd Reading:Passed 23-7-0-0-1",23,7,1,0,31
+1814421,1398566,2024-02-28,House,"H09 - Minerals:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1814421,1401471,2024-03-04,House,"3rd Reading:Passed 50-10-2-0-0",50,10,0,2,62
+1814528,1382624,2024-02-12,Senate,"Introduced and Referred to S09 - Minerals 23-8-0-0-0",23,8,0,0,31
+1814528,1392002,2024-02-22,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1814528,1395911,2024-02-27,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1814528,1401737,2024-03-04,House,"H09 - Minerals:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1814528,1403062,2024-03-04,House,"H09 - Minerals:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1814528,1404204,2024-03-06,House,"3rd Reading:Passed 40-22-0-0-0",40,22,0,0,62
+1818233,1384405,2024-02-14,Senate,"Introduced and Referred to S01 - Judiciary 28-3-0-0-0",28,3,0,0,31
+1818233,1386999,2024-02-16,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1818233,1389666,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1818233,1396426,2024-02-27,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1818233,1400682,2024-03-01,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1818233,1401843,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1818233,1404281,2024-03-06,House,"3rd Reading:Passed 56-6-0-0-0",56,6,0,0,62
+1818570,1384470,2024-02-14,House,"Failed Introduction 33-28-1-0-0",33,28,0,1,62
+1818914,1381709,2024-02-12,Senate,"Introduced and Referred to S03 - Revenue 31-0-0-0-0",31,0,0,0,31
+1818914,1386564,2024-02-16,Senate,"S03 - Revenue:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1818914,1396227,2024-02-27,Senate,"Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1818914,1396228,2024-02-27,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1818914,1401611,2024-03-04,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1818914,1403227,2024-03-05,House,"H02 - Appropriations:Do Pass Failed 3-4-0-0-0",3,4,0,0,7
+1818914,1403960,2024-03-06,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1818914,1405547,2024-03-07,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1818914,1406135,2024-03-08,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1818914,1406632,2024-03-08,Senate,"Adopted SF0054JC001: 27-2-2-0-0",27,2,0,2,31
+1818914,1406633,2024-03-08,House,"Adopted SF0054JC001: 57-1-4-0-0",57,1,0,4,62
+1819252,1381691,2024-02-12,Senate,"Introduced and Referred to S03 - Revenue 31-0-0-0-0",31,0,0,0,31
+1819252,1384897,2024-02-14,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1819252,1387007,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1819252,1397179,2024-02-27,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1819252,1400816,2024-03-01,House,"3rd Reading:Failed 30-28-4-0-0",30,28,0,4,62
+1820381,1385198,2024-02-14,Senate,"Introduced and Referred to S10 - Labor 21-10-0-0-0",21,10,0,0,31
+1820381,1388082,2024-02-19,Senate,"S10 - Labor:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1820381,1389113,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1820381,1396553,2024-02-27,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1820381,1400679,2024-03-01,House,"H10 - Labor:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1820381,1401923,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1820381,1404486,2024-03-06,House,"3rd Reading:Passed 38-24-0-0-0",38,24,0,0,62
+1820521,1384343,2024-02-14,House,"Introduced and Referred to H08 - Transportation 55-6-1-0-0",55,6,0,1,62
+1820521,1387169,2024-02-16,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1820521,1390339,2024-02-21,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1820521,1394848,2024-02-26,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1820521,1399756,2024-02-29,Senate,"3rd Reading:Passed 28-1-2-0-0",28,1,0,2,31
+1820521,1399757,2024-02-29,House,"Concur:Passed 57-0-5-0-0",57,0,0,5,62
+1820668,1382533,2024-02-12,Senate,"Failed Introduction 9-22-0-0-0",9,22,0,0,31
+1820807,1386539,2024-02-15,House,"Introduced and Referred to H07 - Corporations 61-0-1-0-0",61,0,0,1,62
+1820807,1388412,2024-02-20,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1820807,1393576,2024-02-23,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1820807,1396251,2024-02-27,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1820807,1400873,2024-03-01,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1821926,1381914,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 31-0-0-0-0",31,0,0,0,31
+1821926,1383446,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1821926,1385819,2024-02-15,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1821926,1397176,2024-02-27,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1821926,1400761,2024-03-01,House,"3rd Reading:Passed 52-6-4-0-0",52,6,0,4,62
+1821998,1381909,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 27-4-0-0-0",27,4,0,0,31
+1821998,1383437,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1821998,1385835,2024-02-15,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1821998,1396258,2024-02-27,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1821998,1400849,2024-03-01,House,"3rd Reading:Passed 55-3-4-0-0",55,3,0,4,62
+1823360,1383572,2024-02-13,House,"Introduced and Referred to H02 - Appropriations 45-16-1-0-0",45,16,0,1,62
+1823360,1392129,2024-02-22,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-0-1-0-0",6,0,0,1,7
+1823360,1396538,2024-02-27,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1823360,1398091,2024-02-28,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1823360,1402128,2024-03-04,Senate,"3rd Reading:Failed 15-13-3-0-0",15,13,0,3,31
+1823383,1384395,2024-02-14,House,"Introduced and Referred to H06 - Travel 51-10-1-0-0",51,10,0,1,62
+1823383,1387175,2024-02-16,House,"H06 - Travel:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1823383,1388821,2024-02-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1823383,1393409,2024-02-23,House,"3rd Reading:Passed 48-14-0-0-0",48,14,0,0,62
+1823383,1395635,2024-02-27,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1823383,1397963,2024-02-28,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1823383,1400480,2024-03-01,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1823405,1383153,2024-02-13,House,"Introduced and Referred to H02 - Appropriations 42-19-1-0-0",42,19,0,1,62
+1823405,1384733,2024-02-14,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1823405,1387327,2024-02-19,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1823405,1393196,2024-02-23,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1823405,1397515,2024-02-28,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1823427,1384480,2024-02-14,House,"Failed Introduction 20-41-1-0-0",20,41,0,1,62
+1823452,1383609,2024-02-13,House,"Introduced and Referred to H02 - Appropriations 60-1-1-0-0",60,1,0,1,62
+1823452,1384678,2024-02-14,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1823452,1390767,2024-02-21,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1823452,1393817,2024-02-23,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1823452,1397680,2024-02-28,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1823498,1381812,2024-02-12,House,"Introduced and Referred to H02 - Appropriations 57-3-2-0-0",57,3,0,2,62
+1823498,1383460,2024-02-13,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1823498,1385814,2024-02-15,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1823498,1394019,2024-02-23,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1823498,1400668,2024-03-01,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1823524,1383524,2024-02-13,House,"Introduced and Referred to H02 - Appropriations 56-5-1-0-0",56,5,0,1,62
+1823524,1384672,2024-02-14,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1823524,1390762,2024-02-21,House,"3rd Reading:Passed 52-10-0-0-0",52,10,0,0,62
+1823524,1393829,2024-02-23,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1823524,1398074,2024-02-28,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1823544,1383614,2024-02-13,House,"Introduced and Referred to H02 - Appropriations 43-18-1-0-0",43,18,0,1,62
+1823544,1387358,2024-02-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1823544,1393770,2024-02-23,House,"3rd Reading:Passed 48-14-0-0-0",48,14,0,0,62
+1823544,1396217,2024-02-27,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1823544,1399511,2024-02-29,Senate,"3rd Reading:Passed 27-2-2-0-0",27,2,0,2,31
+1823597,1383064,2024-02-13,Senate,"Introduced and Referred to S02 - Appropriations 27-4-0-0-0",27,4,0,0,31
+1823597,1384516,2024-02-14,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1823597,1388054,2024-02-19,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1823597,1392316,2024-02-22,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1823597,1394165,2024-02-23,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1823597,1400657,2024-03-01,House,"3rd Reading:Passed 49-9-4-0-0",49,9,0,4,62
+1823699,1382714,2024-02-13,Senate,"Introduced and Referred to S04 - Education 30-1-0-0-0",30,1,0,0,31
+1823699,1387610,2024-02-19,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1823699,1392625,2024-02-22,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1823699,1397974,2024-02-28,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1823699,1401473,2024-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1823699,1406031,2024-03-08,Senate,"Line Item Veto Override 28-3-0-0-0",28,3,0,0,31
+1823699,1406235,2024-03-08,House,"Did Not Override Veto 41-20-1-0-0",41,20,0,1,62
+1823805,1385913,2024-02-15,House,"Introduced and Referred to H01 - Judiciary 52-9-1-0-0",52,9,0,1,62
+1823805,1387730,2024-02-19,House,"H01 - Judiciary:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1823805,1393752,2024-02-23,House,"3rd Reading:Passed 35-27-0-0-0",35,27,0,0,62
+1823805,1400663,2024-03-01,Senate,"S01 - Judiciary:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1823805,1403956,2024-03-06,Senate,"3rd Reading:Failed 14-16-1-0-0",14,16,0,1,31
+1824464,1384300,2024-02-13,House,"Introduced and Referred to H07 - Corporations 60-1-1-0-0",60,1,0,1,62
+1824464,1387311,2024-02-19,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1824464,1392030,2024-02-22,House,"H02 - Appropriations:Recommend Do Pass 5-2-0-0-0",5,2,0,0,7
+1825721,1383669,2024-02-13,Senate,"Failed Introduction 15-16-0-0-0",15,16,0,0,31
+1826789,1384205,2024-02-14,House,"Introduced and Referred to H07 - Corporations 57-4-1-0-0",57,4,0,1,62
+1826789,1387290,2024-02-19,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1826789,1389886,2024-02-21,House,"3rd Reading:Passed 59-3-0-0-0",59,3,0,0,62
+1826789,1394389,2024-02-26,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1826789,1398910,2024-02-29,Senate,"3rd Reading:Passed 26-3-2-0-0",26,3,0,2,31
+1826789,1399661,2024-02-29,House,"Concur:Passed 57-1-4-0-0",57,1,0,4,62
+1826791,1385695,2024-02-15,Senate,"Introduced and Referred to S01 - Judiciary 30-1-0-0-0",30,1,0,0,31
+1826791,1389082,2024-02-20,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 3-0-2-0-0",3,0,0,2,5
+1826791,1390023,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1828508,1382508,2024-02-12,Senate,"Introduced and Referred to S05 - Agriculture 31-0-0-0-0",31,0,0,0,31
+1828508,1386560,2024-02-16,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1828508,1389116,2024-02-20,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1828508,1396249,2024-02-27,House,"H05 - Agriculture:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1828603,1383732,2024-02-13,Senate,"Introduced and Referred to S09 - Minerals 30-1-0-0-0",30,1,0,0,31
+1828603,1388178,2024-02-19,Senate,"S09 - Minerals:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1828603,1389614,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1828603,1396094,2024-02-27,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1828688,1382510,2024-02-12,Senate,"Introduced and Referred to S05 - Agriculture 31-0-0-0-0",31,0,0,0,31
+1828688,1388172,2024-02-19,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1828688,1393114,2024-02-22,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1828688,1398788,2024-02-28,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1828688,1401451,2024-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1828773,1384573,2024-02-14,House,"Failed Introduction 38-23-1-0-0",38,23,0,1,62
+1829672,1384212,2024-02-14,House,"Failed Introduction 36-25-1-0-0",36,25,0,1,62
+1829698,1381905,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 25-6-0-0-0",25,6,0,0,31
+1829698,1383091,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1829698,1385335,2024-02-15,Senate,"3rd Reading:Passed 16-14-0-0-1",16,14,1,0,31
+1829698,1397186,2024-02-27,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1829698,1400845,2024-03-01,House,"3rd Reading:Passed 39-19-4-0-0",39,19,0,4,62
+1829698,1405482,2024-03-07,Senate,"Concur:Failed 15-14-1-0-1",15,14,1,1,31
+1829698,1406338,2024-03-08,Senate,"Adopted SF0067JC001: 22-8-0-0-1",22,8,1,0,31
+1829698,1406339,2024-03-08,House,"Adopted SF0067JC001: 44-17-1-0-0",44,17,0,1,62
+1829725,1383582,2024-02-13,House,"Introduced and Referred to H02 - Appropriations 49-12-1-0-0",49,12,0,1,62
+1829725,1387788,2024-02-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1829725,1392983,2024-02-22,House,"3rd Reading:Passed 41-21-0-0-0",41,21,0,0,62
+1829725,1396210,2024-02-27,Senate,"S02 - Appropriations:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1829725,1400747,2024-03-01,Senate,"3rd Reading:Passed 29-0-1-0-1",29,0,1,1,31
+1829725,1403236,2024-03-05,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1829754,1384168,2024-02-13,House,"Failed Introduction 41-20-1-0-0",41,20,0,1,62
+1830003,1396109,2024-02-15,House,"Introduced and Referred to H08 - Transportation 61-0-1-0-0",61,0,0,1,62
+1830003,1396110,2024-02-20,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1830003,1396111,2024-02-27,House,"3rd Reading:Passed 60-2-0-0-0",60,2,0,0,62
+1830003,1397719,2024-02-28,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1830003,1400642,2024-03-01,Senate,"3rd Reading:Passed 29-0-1-0-1",29,0,1,1,31
+1830107,1384201,2024-02-14,House,"Failed Introduction 41-20-1-0-0",41,20,0,1,62
+1830207,1385669,2024-02-15,House,"Introduced and Referred to H09 - Minerals 51-10-1-0-0",51,10,0,1,62
+1830207,1388426,2024-02-20,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1830207,1395428,2024-02-26,House,"3rd Reading:Passed 58-4-0-0-0",58,4,0,0,62
+1830207,1401784,2024-03-04,Senate,"S09 - Minerals:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1830793,1384874,2024-02-14,House,"Introduced and Referred to H01 - Judiciary 44-17-1-0-0",44,17,0,1,62
+1830793,1387370,2024-02-19,House,"H01 - Judiciary:Recommend Amend and Do Pass 6-1-0-2-0",6,1,0,2,9
+1830793,1389636,2024-02-19,House,"H01 - Judiciary:Recommend Amend and Do Pass 6-1-2-0-0",6,1,0,2,9
+1830793,1392917,2024-02-22,House,"3rd Reading:Passed 52-10-0-0-0",52,10,0,0,62
+1830793,1402473,2024-03-04,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1830793,1404630,2024-03-06,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1831118,1385815,2024-02-15,House,"Introduced and Referred to H07 - Corporations 51-10-1-0-0",51,10,0,1,62
+1831118,1391153,2024-02-21,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1832017,1385689,2024-02-15,Senate,"Introduced and Referred to S01 - Judiciary 25-3-3-0-0",25,3,0,3,31
+1832017,1391986,2024-02-22,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1832017,1396359,2024-02-27,Senate,"Amendment adopted 29-2-0-0-0",29,2,0,0,31
+1832017,1396360,2024-02-27,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1832017,1402537,2024-03-04,House,"H03 - Revenue:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1832167,1384390,2024-02-14,Senate,"Introduced and Referred to S10 - Labor 30-1-0-0-0",30,1,0,0,31
+1832167,1388165,2024-02-19,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1832167,1389141,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1832167,1396191,2024-02-27,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1832167,1401797,2024-03-04,House,"H10 - Labor:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1832167,1401798,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1832167,1405277,2024-03-07,House,"3rd Reading:Passed 43-19-0-0-0",43,19,0,0,62
+1832270,1384365,2024-02-14,House,"Introduced and Referred to H04 - Education 54-7-1-0-0",54,7,0,1,62
+1832270,1387394,2024-02-19,House,"H04 - Education:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1832270,1392602,2024-02-22,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1832270,1393577,2024-02-23,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1832270,1402029,2024-03-04,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1832270,1405037,2024-03-07,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1832270,1405351,2024-03-07,House,"Concur:Failed 24-37-1-0-0",24,37,0,1,62
+1832270,1406199,2024-03-08,House,"Adopted HB0092JC001: 41-20-1-0-0",41,20,0,1,62
+1832270,1406200,2024-03-08,Senate,"Adopted HB0092JC001: 30-1-0-0-0",30,1,0,0,31
+1832365,1384655,2024-02-14,House,"Introduced and Referred to H05 - Agriculture 61-0-1-0-0",61,0,0,1,62
+1832365,1388828,2024-02-20,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1832365,1391135,2024-02-21,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1832365,1396309,2024-02-27,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1832365,1399443,2024-02-29,Senate,"S05 - Agriculture:Recommend Do Pass 6-0-0-0-0",6,0,0,0,6
+1832365,1401924,2024-03-04,Senate,"3rd Reading:Passed 28-0-3-0-0",28,0,0,3,31
+1832461,1385595,2024-02-15,House,"Failed Introduction 35-26-1-0-0",35,26,0,1,62
+1833363,1385764,2024-02-15,House,"Introduced and Referred to H02 - Appropriations 57-4-1-0-0",57,4,0,1,62
+1833363,1391161,2024-02-21,House,"H02 - Appropriations:Recommend Amend and Do Pass 5-2-0-0-0",5,2,0,0,7
+1835201,1384369,2024-02-14,House,"Failed Introduction 35-26-1-0-0",35,26,0,1,62
+1835388,1383065,2024-02-13,House,"Introduced and Referred to H03 - Revenue 60-1-1-0-0",60,1,0,1,62
+1835388,1388376,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1835388,1392555,2024-02-22,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1835388,1396525,2024-02-27,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1836620,1382950,2024-02-13,Senate,"Introduced and Referred to S02 - Appropriations 31-0-0-0-0",31,0,0,0,31
+1836620,1384488,2024-02-14,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1836620,1388056,2024-02-19,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1836620,1397162,2024-02-27,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1836620,1401942,2024-03-04,House,"3rd Reading:Failed 36-24-2-0-0",36,24,0,2,62
+1836620,1403206,2024-03-05,House,"H: Request for return of Bill from Senate pursuant to JR 19-1 Failed 28-33-1-0-0",28,33,0,1,62
+1836700,1381633,2024-02-12,Senate,"Failed Introduction 18-13-0-0-0",18,13,0,0,31
+1836778,1384220,2024-02-14,House,"Introduced and Referred to H05 - Agriculture 61-0-1-0-0",61,0,0,1,62
+1836778,1388858,2024-02-20,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1836778,1391251,2024-02-21,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1836778,1394998,2024-02-26,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1836778,1399358,2024-02-29,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1836778,1400670,2024-03-01,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1836778,1403171,2024-03-05,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1836778,1404782,2024-03-06,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1836780,1384569,2024-02-14,House,"Failed Introduction 35-26-1-0-0",35,26,0,1,62
+1837155,1385042,2024-02-14,House,"Failed Introduction 7-54-1-0-0",7,54,0,1,62
+1837225,1385658,2024-02-15,House,"Failed Introduction 36-25-1-0-0",36,25,0,1,62
+1837265,1384905,2024-02-14,House,"Failed Introduction 41-20-1-0-0",41,20,0,1,62
+1837299,1382682,2024-02-13,House,"Failed Introduction 8-53-1-0-0",8,53,0,1,62
+1837337,1382747,2024-02-13,Senate,"Introduced and Referred to S01 - Judiciary 29-1-1-0-0",29,1,0,1,31
+1837337,1388805,2024-02-20,Senate,"S05 - Agriculture:Recommend Do Pass 4-2-0-0-0",4,2,0,0,6
+1837337,1396272,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1837337,1400666,2024-03-01,House,"H01 - Judiciary:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1837337,1404309,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1837373,1383724,2024-02-13,Senate,"Introduced and Referred to S07 - Corporations 29-1-1-0-0",29,1,0,1,31
+1837373,1390044,2024-02-21,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1837373,1395845,2024-02-27,Senate,"3rd Reading:Passed 28-2-0-0-1",28,2,1,0,31
+1837511,1382939,2024-02-13,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1837511,1389046,2024-02-20,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1837511,1395662,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1837511,1399633,2024-02-29,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1837511,1403080,2024-03-05,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1837609,1385991,2024-02-15,House,"Failed Introduction 39-22-1-0-0",39,22,0,1,62
+1837701,1384384,2024-02-14,House,"Failed Introduction 40-21-1-0-0",40,21,0,1,62
+1838059,1387172,2024-02-16,Senate,"Introduced and Referred to S05 - Agriculture 31-0-0-0-0",31,0,0,0,31
+1838059,1388168,2024-02-19,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1838059,1389159,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1838059,1396547,2024-02-27,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1838059,1401878,2024-03-04,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1838059,1404975,2024-03-07,House,"Amendment failed 26-36-0-0-0",26,36,0,0,62
+1838059,1404976,2024-03-07,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1838059,1405933,2024-03-07,Senate,"Concur:Failed 0-30-1-0-0",0,30,0,1,31
+1838059,1406625,2024-03-08,Senate,"Adopted SF0075JC001: 27-2-2-0-0",27,2,0,2,31
+1838059,1406626,2024-03-08,House,"Adopted SF0075JC001: 58-0-4-0-0",58,0,0,4,62
+1839166,1381533,2024-02-12,House,"Failed Introduction 37-23-2-0-0",37,23,0,2,62
+1839200,1385288,2024-02-15,House,"Failed Introduction 38-23-1-0-0",38,23,0,1,62
+1839270,1385428,2024-02-15,House,"Failed Introduction 25-36-1-0-0",25,36,0,1,62
+1839305,1384572,2024-02-14,Senate,"Introduced and Referred to S01 - Judiciary 30-1-0-0-0",30,1,0,0,31
+1839305,1388301,2024-02-19,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1839305,1389090,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1839305,1396536,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1839305,1401849,2024-03-04,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1839305,1404511,2024-03-06,House,"3rd Reading:Passed 58-4-0-0-0",58,4,0,0,62
+1839305,1405429,2024-03-07,Senate,"Concur:Passed 30-0-1-0-0",30,0,0,1,31
+1839339,1383012,2024-02-13,Senate,"Introduced and Referred to S01 - Judiciary 29-2-0-0-0",29,2,0,0,31
+1839339,1388061,2024-02-19,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1839339,1390121,2024-02-21,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1839373,1385046,2024-02-14,House,"Introduced and Referred to H05 - Agriculture 61-0-1-0-0",61,0,0,1,62
+1839373,1389646,2024-02-20,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1839373,1393753,2024-02-23,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1839373,1399445,2024-02-29,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1839373,1401903,2024-03-04,Senate,"3rd Reading:Passed 28-0-3-0-0",28,0,0,3,31
+1839373,1403186,2024-03-05,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1840371,1385151,2024-02-14,House,"Failed Introduction 25-36-1-0-0",25,36,0,1,62
+1840373,1382905,2024-02-13,House,"Introduced and Referred to H03 - Revenue 45-16-1-0-0",45,16,0,1,62
+1840373,1387126,2024-02-16,House,"H03 - Revenue:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1840374,1382008,2024-02-12,Senate,"Failed Introduction 20-11-0-0-0",20,11,0,0,31
+1840375,1381883,2024-02-12,Senate,"Introduced and Referred to S02 - Appropriations 31-0-0-0-0",31,0,0,0,31
+1840375,1383440,2024-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1840375,1387018,2024-02-16,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1840375,1393998,2024-02-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1840375,1398224,2024-02-28,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1840375,1398225,2024-02-28,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1840375,1402190,2024-03-04,Senate,"Adopted SF0002JC001: 19-6-6-0-0",19,6,0,6,31
+1840375,1402191,2024-03-04,House,"Adopted SF0002JC001: 55-0-7-0-0",55,0,0,7,62
+1840375,1406261,2024-03-08,Senate,"Line Item Veto Override 31-0-0-0-0",31,0,0,0,31
+1840375,1406262,2024-03-08,Senate,"Line Item Veto Override 29-2-0-0-0",29,2,0,0,31
+1840375,1406263,2024-03-08,Senate,"Line Item Veto Override 30-1-0-0-0",30,1,0,0,31
+1840375,1406264,2024-03-08,Senate,"Line Item Veto Override 31-0-0-0-0",31,0,0,0,31
+1840375,1406265,2024-03-08,Senate,"Did Not Override Line Item Veto 16-15-0-0-0",16,15,0,0,31
+1840375,1406266,2024-03-08,Senate,"Line Item Veto Override 27-4-0-0-0",27,4,0,0,31
+1840375,1406267,2024-03-08,House,"Amendment Reconsideration Motion Passed by Roll Call 59-0-3-0-0",59,0,0,3,62
+1840375,1406268,2024-03-08,House,"Amendment Reconsideration Motion Passed by Roll Call 61-0-1-0-0",61,0,0,1,62
+1840375,1406269,2024-03-08,House,"Amendment Reconsideration Motion Passed by Roll Call 60-1-1-0-0",60,1,0,1,62
+1840375,1406270,2024-03-08,House,"Amendment Reconsideration Motion Passed by Roll Call 58-3-1-0-0",58,3,0,1,62
+1840377,1383357,2024-02-13,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1840377,1389664,2024-02-20,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1840377,1393613,2024-02-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1840377,1398784,2024-02-28,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1840377,1401921,2024-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1840378,1384426,2024-02-14,House,"Introduced and Referred to H01 - Judiciary 53-7-2-0-0",53,7,0,2,62
+1840378,1392926,2024-02-22,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1840378,1394827,2024-02-26,House,"Amendment failed 19-43-0-0-0",19,43,0,0,62
+1840378,1397116,2024-02-27,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1840378,1402965,2024-03-05,Senate,"S01 - Judiciary:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1840378,1404062,2024-03-06,Senate,"Amendment failed 10-21-0-0-0",10,21,0,0,31
+1840378,1404063,2024-03-06,Senate,"Amendment failed 9-22-0-0-0",9,22,0,0,31
+1840378,1405629,2024-03-07,Senate,"Amendment failed 6-24-1-0-0",6,24,0,1,31
+1840378,1405630,2024-03-07,Senate,"3rd Reading:Passed 22-8-1-0-0",22,8,0,1,31
+1840379,1384429,2024-02-14,House,"Introduced and Referred to H07 - Corporations 59-1-2-0-0",59,1,0,2,62
+1840379,1388402,2024-02-20,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1840379,1393120,2024-02-22,House,"Amendment adopted 32-30-0-0-0",32,30,0,0,62
+1840379,1393121,2024-02-22,House,"3rd Reading:Passed 45-17-0-0-0",45,17,0,0,62
+1840379,1399068,2024-02-29,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1840379,1402983,2024-03-05,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1840379,1403768,2024-03-05,House,"Concur:Passed 51-5-6-0-0",51,5,0,6,62
+1840558,1383023,2024-02-13,House,"Introduced and Referred to H03 - Revenue 42-19-1-0-0",42,19,0,1,62
+1840558,1389205,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1840558,1392939,2024-02-22,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1840558,1396896,2024-02-27,House,"3rd Reading:Passed 44-18-0-0-0",44,18,0,0,62
+1840558,1401804,2024-03-04,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1840558,1402604,2024-03-05,Senate,"S02 - Appropriations:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1840558,1403279,2024-03-05,Senate,"COW:Failed 6-18-7-0-0",6,18,0,7,31
+1840590,1382696,2024-02-13,House,"Introduced and Referred to H03 - Revenue 45-16-1-0-0",45,16,0,1,62
+1840590,1387133,2024-02-16,House,"H03 - Revenue:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1840621,1386316,2024-02-15,House,"Introduced and Referred to H01 - Judiciary 56-5-1-0-0",56,5,0,1,62
+1840621,1391124,2024-02-21,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1840622,1382108,2024-02-12,House,"Failed Introduction 37-23-2-0-0",37,23,0,2,62
+1841847,1384597,2024-02-14,House,"Introduced and Referred to H02 - Appropriations 42-19-1-0-0",42,19,0,1,62
+1841847,1387366,2024-02-19,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1841847,1393603,2024-02-23,House,"3rd Reading:Passed 41-21-0-0-0",41,21,0,0,62
+1841847,1396237,2024-02-27,Senate,"S02 - Appropriations:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1841847,1400868,2024-03-01,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1841847,1400869,2024-03-01,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1841847,1402957,2024-03-05,House,"Concur:Failed 23-38-1-0-0",23,38,0,1,62
+1841847,1406611,2024-03-08,House,"Adopted HB0138JC001: 37-22-3-0-0",37,22,0,3,62
+1841847,1406612,2024-03-08,Senate,"Adopted HB0138JC001: 20-11-0-0-0",20,11,0,0,31
+1841860,1383491,2024-02-13,Senate,"Introduced and Referred to S09 - Minerals 29-2-0-0-0",29,2,0,0,31
+1841860,1390277,2024-02-21,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1841860,1396025,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1841860,1401897,2024-03-04,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1841860,1404340,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1841892,1383515,2024-02-13,Senate,"Introduced and Referred to S10 - Labor 29-2-0-0-0",29,2,0,0,31
+1841892,1387114,2024-02-16,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1841892,1389119,2024-02-20,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1841892,1394620,2024-02-26,House,"H10 - Labor:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1841892,1400629,2024-03-01,House,"3rd Reading:Passed 37-21-4-0-0",37,21,0,4,62
+1841907,1384894,2024-02-14,House,"Failed Introduction 31-30-1-0-0",31,30,0,1,62
+1842729,1388106,2024-02-19,Senate,"Amendment adopted 20-10-1-0-0",20,10,0,1,31
+1842729,1388107,2024-02-19,Senate,"Amendment failed 12-18-1-0-0",12,18,0,1,31
+1842729,1388108,2024-02-19,Senate,"Amendment adopted 22-8-1-0-0",22,8,0,1,31
+1842729,1388109,2024-02-19,Senate,"Amendment failed 10-20-1-0-0",10,20,0,1,31
+1842729,1388110,2024-02-19,Senate,"Amendment failed 11-19-1-0-0",11,19,0,1,31
+1842729,1388111,2024-02-19,Senate,"Amendment failed 14-16-1-0-0",14,16,0,1,31
+1842729,1388112,2024-02-19,Senate,"Amendment failed 12-18-1-0-0",12,18,0,1,31
+1842729,1388113,2024-02-19,Senate,"Amendment failed 14-16-1-0-0",14,16,0,1,31
+1842729,1388114,2024-02-19,Senate,"Amendment failed 15-15-1-0-0",15,15,0,1,31
+1842729,1388115,2024-02-19,Senate,"Amendment failed 6-24-1-0-0",6,24,0,1,31
+1842729,1388116,2024-02-19,Senate,"Amendment adopted 20-10-1-0-0",20,10,0,1,31
+1842729,1388117,2024-02-19,Senate,"Amendment failed 15-15-1-0-0",15,15,0,1,31
+1842729,1388118,2024-02-19,Senate,"Amendment failed 15-15-1-0-0",15,15,0,1,31
+1842729,1388119,2024-02-19,Senate,"Amendment adopted 21-9-1-0-0",21,9,0,1,31
+1842729,1388120,2024-02-19,Senate,"Amendment adopted 26-4-1-0-0",26,4,0,1,31
+1842729,1388121,2024-02-19,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1842729,1388122,2024-02-19,Senate,"Amendment failed 15-15-1-0-0",15,15,0,1,31
+1842729,1388123,2024-02-19,Senate,"Amendment failed 2-26-1-0-2",2,26,2,1,31
+1842729,1388124,2024-02-19,Senate,"Amendment adopted 22-8-1-0-0",22,8,0,1,31
+1842729,1388125,2024-02-19,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1842729,1388126,2024-02-19,Senate,"Amendment adopted 18-12-1-0-0",18,12,0,1,31
+1842729,1388127,2024-02-19,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1842729,1388128,2024-02-19,Senate,"Amendment failed 12-18-1-0-0",12,18,0,1,31
+1842729,1388129,2024-02-19,Senate,"Amendment adopted 18-12-1-0-0",18,12,0,1,31
+1842729,1388130,2024-02-19,Senate,"Amendment adopted 17-13-1-0-0",17,13,0,1,31
+1842729,1388131,2024-02-19,Senate,"Amendment adopted 30-0-1-0-0",30,0,0,1,31
+1842729,1388132,2024-02-19,Senate,"Amendment adopted 28-2-1-0-0",28,2,0,1,31
+1842729,1388133,2024-02-19,Senate,"Amendment adopted 20-10-1-0-0",20,10,0,1,31
+1842729,1388134,2024-02-19,Senate,"Amendment adopted 24-6-1-0-0",24,6,0,1,31
+1842729,1388135,2024-02-19,Senate,"Amendment failed 2-28-1-0-0",2,28,0,1,31
+1842729,1388136,2024-02-19,Senate,"Amendment failed 1-29-1-0-0",1,29,0,1,31
+1842729,1388137,2024-02-19,Senate,"Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1842729,1388138,2024-02-19,Senate,"Amendment failed 7-23-1-0-0",7,23,0,1,31
+1842729,1393061,2024-02-21,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1842729,1393062,2024-02-21,Senate,"Amendment adopted 25-6-0-0-0",25,6,0,0,31
+1842729,1393063,2024-02-21,Senate,"Amendment adopted 25-6-0-0-0",25,6,0,0,31
+1842729,1393064,2024-02-21,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1842729,1393065,2024-02-21,Senate,"Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1842729,1393066,2024-02-21,Senate,"Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1842729,1393067,2024-02-21,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1842729,1393068,2024-02-21,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1842729,1393069,2024-02-21,Senate,"Amendment adopted 22-9-0-0-0",22,9,0,0,31
+1842729,1393070,2024-02-21,Senate,"Amendment failed 10-21-0-0-0",10,21,0,0,31
+1842729,1393071,2024-02-21,Senate,"Amendment failed 15-16-0-0-0",15,16,0,0,31
+1842729,1393072,2024-02-21,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1842729,1393073,2024-02-21,Senate,"Amendment adopted 20-11-0-0-0",20,11,0,0,31
+1842729,1393074,2024-02-21,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1842729,1393075,2024-02-21,Senate,"Amendment failed 5-26-0-0-0",5,26,0,0,31
+1842729,1393076,2024-02-21,Senate,"Amendment failed 12-19-0-0-0",12,19,0,0,31
+1842729,1393077,2024-02-21,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1842729,1393078,2024-02-21,Senate,"Amendment failed 10-21-0-0-0",10,21,0,0,31
+1842729,1393079,2024-02-21,Senate,"Amendment failed 14-17-0-0-0",14,17,0,0,31
+1842729,1393080,2024-02-21,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1842729,1393081,2024-02-21,Senate,"Amendment failed 10-21-0-0-0",10,21,0,0,31
+1842729,1393082,2024-02-21,Senate,"Amendment failed 4-27-0-0-0",4,27,0,0,31
+1842729,1393083,2024-02-21,Senate,"Amendment failed 4-27-0-0-0",4,27,0,0,31
+1842729,1393084,2024-02-21,Senate,"Amendment failed 13-18-0-0-0",13,18,0,0,31
+1842729,1393085,2024-02-21,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1842729,1393086,2024-02-21,Senate,"Amendment failed 9-22-0-0-0",9,22,0,0,31
+1842729,1393087,2024-02-22,Senate,"Amendment adopted 30-1-0-0-0",30,1,0,0,31
+1842729,1393088,2024-02-22,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1842729,1393089,2024-02-22,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1842729,1393090,2024-02-22,Senate,"Amendment failed 3-28-0-0-0",3,28,0,0,31
+1842729,1393091,2024-02-22,Senate,"Amendment adopted 25-6-0-0-0",25,6,0,0,31
+1842729,1393092,2024-02-22,Senate,"Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1842729,1393093,2024-02-22,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1842729,1393094,2024-02-22,Senate,"Amendment failed 13-18-0-0-0",13,18,0,0,31
+1842729,1393095,2024-02-22,Senate,"Amendment adopted 17-14-0-0-0",17,14,0,0,31
+1842729,1393096,2024-02-22,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1842729,1393097,2024-02-22,Senate,"Amendment failed 5-26-0-0-0",5,26,0,0,31
+1842729,1393098,2024-02-22,Senate,"Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1842729,1393099,2024-02-22,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1842729,1393100,2024-02-22,Senate,"Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1842729,1393101,2024-02-22,Senate,"Amendment adopted 25-6-0-0-0",25,6,0,0,31
+1842729,1393102,2024-02-22,Senate,"Amendment adopted 20-11-0-0-0",20,11,0,0,31
+1842729,1393103,2024-02-22,Senate,"Amendment failed 10-21-0-0-0",10,21,0,0,31
+1842729,1393104,2024-02-22,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1842887,1388199,2024-02-19,House,"Amendment failed 21-39-2-0-0",21,39,0,2,62
+1842887,1388200,2024-02-19,House,"Amendment failed 26-35-1-0-0",26,35,0,1,62
+1842887,1388201,2024-02-19,House,"Amendment failed 9-52-1-0-0",9,52,0,1,62
+1842887,1388202,2024-02-19,House,"Amendment adopted 51-10-1-0-0",51,10,0,1,62
+1842887,1388203,2024-02-19,House,"Amendment failed 29-33-0-0-0",29,33,0,0,62
+1842887,1388204,2024-02-19,House,"Amendment adopted 61-1-0-0-0",61,1,0,0,62
+1842887,1388205,2024-02-19,House,"Amendment failed 13-49-0-0-0",13,49,0,0,62
+1842887,1388206,2024-02-19,House,"Amendment failed 28-34-0-0-0",28,34,0,0,62
+1842887,1388207,2024-02-19,House,"Amendment adopted 40-22-0-0-0",40,22,0,0,62
+1842887,1388208,2024-02-19,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1842887,1388209,2024-02-19,House,"Amendment failed 14-48-0-0-0",14,48,0,0,62
+1842887,1388210,2024-02-19,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1842887,1388211,2024-02-19,House,"Amendment failed 1-61-0-0-0",1,61,0,0,62
+1842887,1388212,2024-02-19,House,"Amendment failed 26-36-0-0-0",26,36,0,0,62
+1842887,1388213,2024-02-19,House,"Amendment adopted 47-15-0-0-0",47,15,0,0,62
+1842887,1388214,2024-02-19,House,"Amendment failed 22-40-0-0-0",22,40,0,0,62
+1842887,1388215,2024-02-19,House,"Amendment adopted 45-17-0-0-0",45,17,0,0,62
+1842887,1388216,2024-02-19,House,"Amendment adopted 33-29-0-0-0",33,29,0,0,62
+1842887,1388217,2024-02-19,House,"Amendment failed 24-38-0-0-0",24,38,0,0,62
+1842887,1388218,2024-02-19,House,"Amendment adopted 45-17-0-0-0",45,17,0,0,62
+1842887,1388219,2024-02-19,House,"Amendment adopted 62-0-0-0-0",62,0,0,0,62
+1842887,1388220,2024-02-19,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1842887,1388221,2024-02-19,House,"Amendment adopted 49-13-0-0-0",49,13,0,0,62
+1842887,1388222,2024-02-19,House,"Amendment adopted 36-25-1-0-0",36,25,0,1,62
+1842887,1388223,2024-02-19,House,"Amendment failed 21-40-1-0-0",21,40,0,1,62
+1842887,1388224,2024-02-19,House,"Amendment failed 23-39-0-0-0",23,39,0,0,62
+1842887,1388225,2024-02-19,House,"Amendment adopted 48-14-0-0-0",48,14,0,0,62
+1842887,1388226,2024-02-19,House,"Amendment failed 22-40-0-0-0",22,40,0,0,62
+1842887,1388227,2024-02-19,House,"Amendment adopted 50-12-0-0-0",50,12,0,0,62
+1842887,1388228,2024-02-19,House,"Amendment failed 28-34-0-0-0",28,34,0,0,62
+1842887,1388229,2024-02-19,House,"Amendment adopted 34-28-0-0-0",34,28,0,0,62
+1842887,1388230,2024-02-19,House,"Amendment failed 24-38-0-0-0",24,38,0,0,62
+1842887,1388231,2024-02-19,House,"Amendment adopted 41-21-0-0-0",41,21,0,0,62
+1842887,1388232,2024-02-19,House,"Amendment failed 23-39-0-0-0",23,39,0,0,62
+1842887,1388233,2024-02-19,House,"Amendment failed 21-41-0-0-0",21,41,0,0,62
+1842887,1388234,2024-02-19,House,"Amendment failed 17-45-0-0-0",17,45,0,0,62
+1842887,1388235,2024-02-19,House,"Amendment failed 29-33-0-0-0",29,33,0,0,62
+1842887,1388236,2024-02-19,House,"Amendment failed 14-48-0-0-0",14,48,0,0,62
+1842887,1388237,2024-02-19,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1842887,1388238,2024-02-19,House,"Amendment adopted 32-30-0-0-0",32,30,0,0,62
+1842887,1388239,2024-02-19,House,"Amendment failed 26-36-0-0-0",26,36,0,0,62
+1842887,1388240,2024-02-19,House,"Amendment failed 28-34-0-0-0",28,34,0,0,62
+1842887,1388241,2024-02-19,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1842887,1388242,2024-02-19,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1842887,1388243,2024-02-19,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1842887,1388244,2024-02-19,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1842887,1388245,2024-02-19,House,"Amendment adopted 58-4-0-0-0",58,4,0,0,62
+1842887,1388246,2024-02-19,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1842887,1388247,2024-02-19,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1842887,1388248,2024-02-19,House,"Amendment failed 26-35-0-0-1",26,35,1,0,62
+1842887,1388249,2024-02-19,House,"Amendment failed 28-34-0-0-0",28,34,0,0,62
+1842887,1388250,2024-02-19,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1842887,1391377,2024-02-21,House,"Amendment adopted 38-24-0-0-0",38,24,0,0,62
+1842887,1391378,2024-02-21,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1842887,1391379,2024-02-21,House,"Amendment failed 27-34-0-0-1",27,34,1,0,62
+1842887,1391380,2024-02-21,House,"Amendment failed 29-33-0-0-0",29,33,0,0,62
+1842887,1391381,2024-02-21,House,"Amendment failed 21-40-1-0-0",21,40,0,1,62
+1842887,1391382,2024-02-21,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1842887,1391383,2024-02-21,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1842887,1391384,2024-02-21,House,"Amendment adopted 33-29-0-0-0",33,29,0,0,62
+1842887,1391385,2024-02-21,House,"Amendment adopted 41-21-0-0-0",41,21,0,0,62
+1842887,1391386,2024-02-21,House,"Amendment adopted 36-26-0-0-0",36,26,0,0,62
+1842887,1391387,2024-02-21,House,"Amendment failed 22-40-0-0-0",22,40,0,0,62
+1842887,1391388,2024-02-21,House,"Amendment adopted 40-22-0-0-0",40,22,0,0,62
+1842887,1391389,2024-02-21,House,"Amendment failed 21-41-0-0-0",21,41,0,0,62
+1842887,1391390,2024-02-21,House,"Amendment adopted 33-29-0-0-0",33,29,0,0,62
+1842887,1391391,2024-02-21,House,"Amendment adopted 37-25-0-0-0",37,25,0,0,62
+1842887,1391392,2024-02-21,House,"Amendment failed 25-37-0-0-0",25,37,0,0,62
+1842887,1391393,2024-02-21,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1842887,1391394,2024-02-21,House,"Amendment adopted 35-26-0-0-1",35,26,1,0,62
+1842887,1391395,2024-02-21,House,"Amendment failed 23-39-0-0-0",23,39,0,0,62
+1842887,1391396,2024-02-21,House,"Amendment failed 31-31-0-0-0",31,31,0,0,62
+1842887,1391397,2024-02-21,House,"Amendment failed 31-31-0-0-0",31,31,0,0,62
+1842887,1391398,2024-02-21,House,"Amendment failed 6-56-0-0-0",6,56,0,0,62
+1842887,1391399,2024-02-21,House,"Amendment adopted 37-24-1-0-0",37,24,0,1,62
+1842887,1391400,2024-02-21,House,"Amendment adopted 33-29-0-0-0",33,29,0,0,62
+1842887,1391401,2024-02-21,House,"Amendment adopted 62-0-0-0-0",62,0,0,0,62
+1842887,1391402,2024-02-21,House,"Amendment adopted 38-23-0-0-1",38,23,1,0,62
+1842887,1391403,2024-02-21,House,"Amendment failed 21-41-0-0-0",21,41,0,0,62
+1842887,1391404,2024-02-21,House,"Amendment failed 21-41-0-0-0",21,41,0,0,62
+1842887,1391405,2024-02-21,House,"Amendment adopted 38-24-0-0-0",38,24,0,0,62
+1842887,1391406,2024-02-21,House,"Amendment failed 24-38-0-0-0",24,38,0,0,62
+1842887,1391407,2024-02-21,House,"Amendment failed 15-47-0-0-0",15,47,0,0,62
+1842887,1391408,2024-02-21,House,"Amendment failed 31-31-0-0-0",31,31,0,0,62
+1842887,1391409,2024-02-21,House,"Amendment failed 10-52-0-0-0",10,52,0,0,62
+1842887,1391410,2024-02-21,House,"Amendment failed 13-49-0-0-0",13,49,0,0,62
+1842887,1391411,2024-02-21,House,"Amendment failed 23-39-0-0-0",23,39,0,0,62
+1842887,1391412,2024-02-21,House,"Amendment failed 23-39-0-0-0",23,39,0,0,62
+1842887,1391413,2024-02-21,House,"Amendment failed 28-34-0-0-0",28,34,0,0,62
+1842887,1399264,2024-02-22,House,"Amendment failed 20-42-0-0-0",20,42,0,0,62
+1842887,1399265,2024-02-22,House,"Amendment failed 6-56-0-0-0",6,56,0,0,62
+1842887,1399266,2024-02-22,House,"Amendment adopted 49-13-0-0-0",49,13,0,0,62
+1842887,1399267,2024-02-22,House,"Amendment failed 21-40-1-0-0",21,40,0,1,62
+1842887,1399268,2024-02-22,House,"Amendment adopted 33-28-1-0-0",33,28,0,1,62
+1842887,1399269,2024-02-22,House,"Amendment failed 28-34-0-0-0",28,34,0,0,62
+1842887,1399270,2024-02-22,House,"Amendment failed 27-35-0-0-0",27,35,0,0,62
+1842887,1399271,2024-02-22,House,"Amendment failed 7-55-0-0-0",7,55,0,0,62
+1842887,1399272,2024-02-22,House,"Amendment adopted 62-0-0-0-0",62,0,0,0,62
+1842887,1399273,2024-02-22,House,"3rd Reading:Passed 41-21-0-0-0",41,21,0,0,62
+1842887,1402305,2024-03-04,Senate,"JCC:Motion to overrule the decision of the president pursuant to SR8-6 failed 15-15-1-0-0",15,15,0,1,31
+1842887,1406168,2024-03-08,House,"Adopted HB0001JC002: 41-21-0-0-0",41,21,0,0,62
+1842887,1406169,2024-03-08,Senate,"Adopted HB0001JC002: 17-14-0-0-0",17,14,0,0,31
+1843327,1383508,2024-02-13,House,"Failed Introduction 31-30-1-0-0",31,30,0,1,62
+1843328,1383497,2024-02-13,Senate,"Introduced and Referred to S03 - Revenue 28-3-0-0-0",28,3,0,0,31
+1843328,1390119,2024-02-21,Senate,"S03 - Revenue:Do Pass Failed 0-5-0-0-0",0,5,0,0,5
+1843330,1383486,2024-02-13,Senate,"Introduced and Referred to S04 - Education 26-5-0-0-0",26,5,0,0,31
+1843330,1387117,2024-02-16,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1843330,1390645,2024-02-21,Senate,"3rd Reading:Passed 21-9-1-0-0",21,9,0,1,31
+1843330,1398745,2024-02-28,House,"H04 - Education:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1843331,1384613,2024-02-14,House,"Failed Introduction 28-33-1-0-0",28,33,0,1,62
+1843332,1384402,2024-02-14,House,"Introduced and Referred to H10 - Labor 57-4-1-0-0",57,4,0,1,62
+1843334,1384855,2024-02-14,House,"Introduced and Referred to H01 - Judiciary 53-8-1-0-0",53,8,0,1,62
+1843334,1388421,2024-02-20,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1843334,1392627,2024-02-22,House,"Amendment adopted 50-12-0-0-0",50,12,0,0,62
+1843334,1393592,2024-02-23,House,"3rd Reading:Passed 53-9-0-0-0",53,9,0,0,62
+1843334,1397450,2024-02-28,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1843334,1400505,2024-03-01,Senate,"Amendment failed 12-18-1-0-0",12,18,0,1,31
+1843334,1400506,2024-03-01,Senate,"3rd Reading:Passed 24-6-1-0-0",24,6,0,1,31
+1843334,1403604,2024-03-04,House,"Concur:Passed 50-5-7-0-0",50,5,0,7,62
+1843336,1384692,2024-02-14,House,"Introduced and Referred to H09 - Minerals 55-6-1-0-0",55,6,0,1,62
+1843336,1387544,2024-02-19,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1843336,1393756,2024-02-23,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1843336,1398427,2024-02-28,Senate,"S09 - Minerals:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1843336,1402136,2024-03-04,Senate,"3rd Reading:Passed 25-3-3-0-0",25,3,0,3,31
+1843340,1386997,2024-02-16,Senate,"Introduced and Referred to S04 - Education 28-3-0-0-0",28,3,0,0,31
+1843340,1390896,2024-02-21,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1843340,1392209,2024-02-22,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1843340,1396518,2024-02-27,Senate,"3rd Reading:Passed 16-15-0-0-0",16,15,0,0,31
+1843340,1402385,2024-03-04,House,"H04 - Education:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1843340,1403281,2024-03-05,House,"H02 - Appropriations:Recommend Do Pass 5-2-0-0-0",5,2,0,0,7
+1843340,1405433,2024-03-07,House,"3rd Reading:Passed 52-10-0-0-0",52,10,0,0,62
+1843340,1405434,2024-03-07,Senate,"Concur:Passed 26-4-1-0-0",26,4,0,1,31
+1843341,1386173,2024-02-15,House,"Introduced and Referred to H02 - Appropriations 49-12-1-0-0",49,12,0,1,62
+1843341,1389640,2024-02-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1843344,1383299,2024-02-13,Senate,"Introduced and Referred to S12 - Rules 30-1-0-0-0",30,1,0,0,31
+1843344,1389517,2024-02-20,Senate,"S12 - Rules:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1843344,1396491,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1843344,1399419,2024-02-29,House,"H05 - Agriculture:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1843344,1405369,2024-03-07,House,"3rd Reading:Passed 55-7-0-0-0",55,7,0,0,62
+1843344,1406171,2024-03-08,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1843345,1384431,2024-02-14,House,"Failed Introduction 19-42-1-0-0",19,42,0,1,62
+1843347,1383456,2024-02-13,Senate,"Failed Introduction 20-10-0-0-1",20,10,1,0,31
+1843348,1385609,2024-02-15,House,"Introduced and Referred to H09 - Minerals 56-5-1-0-0",56,5,0,1,62
+1843348,1387346,2024-02-19,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1843348,1393759,2024-02-23,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1843348,1397990,2024-02-28,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1843348,1401666,2024-03-04,Senate,"3rd Reading:Passed 28-0-3-0-0",28,0,0,3,31
+1843349,1382991,2024-02-13,Senate,"Introduced and Referred to S04 - Education 26-5-0-0-0",26,5,0,0,31
+1843349,1387595,2024-02-19,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1843349,1395929,2024-02-27,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1843349,1401395,2024-03-04,House,"H04 - Education:Do Pass Failed 1-8-0-0-0",1,8,0,0,9
+1843428,1385035,2024-02-14,House,"Failed Introduction 37-24-1-0-0",37,24,0,1,62
+1843429,1382732,2024-02-13,Senate,"Failed Introduction 17-14-0-0-0",17,14,0,0,31
+1843430,1384498,2024-02-14,House,"Introduced and Referred to H07 - Corporations 46-15-1-0-0",46,15,0,1,62
+1843430,1388411,2024-02-20,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1843431,1383835,2024-02-13,Senate,"Introduced and Referred to S07 - Corporations 28-0-0-0-3",28,0,3,0,31
+1843431,1389675,2024-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1843431,1390354,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1843431,1392087,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 2-0-2-0-1",2,0,1,2,5
+1843431,1393109,2024-02-22,Senate,"S02 - Appropriations:Recommend Do Pass 2-0-2-0-1",2,0,1,2,5
+1843431,1395709,2024-02-27,Senate,"3rd Reading:Passed 25-2-0-0-4",25,2,4,0,31
+1843431,1400238,2024-02-29,House,"H08 - Transportation:Recommend Do Pass 6-0-0-0-3",6,0,3,0,9
+1843431,1403278,2024-03-05,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1843431,1405102,2024-03-07,House,"3rd Reading:Passed 57-0-0-0-5",57,0,5,0,62
+1843432,1383615,2024-02-13,Senate,"Failed Introduction 19-12-0-0-0",19,12,0,0,31
+1843434,1385771,2024-02-15,House,"Failed Introduction 37-24-1-0-0",37,24,0,1,62
+1844751,1384178,2024-02-14,Senate,"Introduced and Referred to S07 - Corporations 31-0-0-0-0",31,0,0,0,31
+1844751,1389041,2024-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1844751,1393302,2024-02-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1844751,1402144,2024-03-04,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1844751,1404931,2024-03-07,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1844753,1383039,2024-02-13,Senate,"Introduced and Referred to S02 - Appropriations 27-4-0-0-0",27,4,0,0,31
+1844753,1384981,2024-02-14,Senate,"S02 - Appropriations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1844753,1387860,2024-02-19,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1844753,1400695,2024-03-01,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1844753,1404359,2024-03-06,House,"3rd Reading:Passed 44-18-0-0-0",44,18,0,0,62
+1844753,1406040,2024-03-08,Senate,"Concur:Passed 21-10-0-0-0",21,10,0,0,31
+1844754,1385701,2024-02-15,House,"Introduced and Referred to H04 - Education 61-0-1-0-0",61,0,0,1,62
+1844754,1391138,2024-02-21,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1844756,1383130,2024-02-13,House,"Failed Introduction 30-31-1-0-0",30,31,0,1,62
+1844757,1386931,2024-02-16,Senate,"Introduced and Referred to S10 - Labor 27-4-0-0-0",27,4,0,0,31
+1844757,1390144,2024-02-21,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1844757,1395921,2024-02-27,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1844759,1384743,2024-02-14,Senate,"Introduced and Referred to S04 - Education 24-7-0-0-0",24,7,0,0,31
+1844759,1390418,2024-02-21,Senate,"S04 - Education:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1844766,1386957,2024-02-16,Senate,"Failed Introduction 15-16-0-0-0",15,16,0,0,31
+1844767,1386886,2024-02-16,Senate,"Introduced and Referred to S10 - Labor 25-5-1-0-0",25,5,0,1,31
+1844767,1389951,2024-02-21,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1844767,1395699,2024-02-27,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1844767,1402109,2024-03-04,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1844767,1404219,2024-03-06,House,"Amendment failed 28-33-1-0-0",28,33,0,1,62
+1844767,1404220,2024-03-06,House,"Amendment adopted 36-25-1-0-0",36,25,0,1,62
+1844767,1404221,2024-03-06,House,"3rd Reading:Passed 55-6-1-0-0",55,6,0,1,62
+1844767,1404916,2024-03-07,Senate,"Concur:Passed 28-2-1-0-0",28,2,0,1,31
+1844768,1385656,2024-02-15,House,"Failed Introduction 41-20-1-0-0",41,20,0,1,62
+1844771,1384352,2024-02-14,Senate,"Introduced and Referred to S01 - Judiciary 28-3-0-0-0",28,3,0,0,31
+1844771,1389045,2024-02-20,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1844771,1395786,2024-02-27,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1844772,1384169,2024-02-14,Senate,"Introduced and Referred to S07 - Corporations 29-2-0-0-0",29,2,0,0,31
+1844772,1390478,2024-02-21,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1844772,1396513,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1844775,1385762,2024-02-15,House,"Introduced and Referred to H05 - Agriculture 50-11-1-0-0",50,11,0,1,62
+1844776,1384563,2024-02-14,Senate,"Failed Introduction 12-19-0-0-0",12,19,0,0,31
+1844777,1384618,2024-02-14,House,"Introduced and Referred to H06 - Travel 51-10-1-0-0",51,10,0,1,62
+1844777,1389092,2024-02-20,House,"H06 - Travel:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1844777,1391171,2024-02-21,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1844778,1384406,2024-02-14,House,"Introduced and Referred to H04 - Education 51-10-1-0-0",51,10,0,1,62
+1844778,1388488,2024-02-20,House,"H04 - Education:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1844778,1391230,2024-02-21,House,"H02 - Appropriations:Amend and Do Not Pass: 3-4-0-0-0",3,4,0,0,7
+1844778,1393464,2024-02-23,House,"Amendment failed 1-61-0-0-0",1,61,0,0,62
+1844778,1394659,2024-02-26,House,"Amendment adopted 52-10-0-0-0",52,10,0,0,62
+1844778,1394660,2024-02-26,House,"3rd Reading:Passed 44-18-0-0-0",44,18,0,0,62
+1844778,1400437,2024-03-01,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1844778,1401690,2024-03-04,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 3-0-2-0-0",3,0,0,2,5
+1844778,1405358,2024-03-07,Senate,"Amendment failed 4-26-1-0-0",4,26,0,1,31
+1844778,1405359,2024-03-07,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1844778,1405360,2024-03-07,House,"Concur:Failed 27-34-1-0-0",27,34,0,1,62
+1844778,1406356,2024-03-08,House,"Adopted HB0166JC001: 34-27-1-0-0",34,27,0,1,62
+1844778,1406357,2024-03-08,Senate,"Adopted HB0166JC001: 28-3-0-0-0",28,3,0,0,31
+1844779,1386144,2024-02-15,House,"Introduced and Referred to H02 - Appropriations 43-18-1-0-0",43,18,0,1,62
+1844779,1388813,2024-02-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1844781,1384596,2024-02-14,Senate,"Introduced and Referred to S09 - Minerals 31-0-0-0-0",31,0,0,0,31
+1844781,1390649,2024-02-21,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1844781,1395701,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1844781,1399663,2024-02-29,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1844781,1404345,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1844783,1384504,2024-02-14,Senate,"Introduced and Referred to S01 - Judiciary 29-2-0-0-0",29,2,0,0,31
+1844783,1387702,2024-02-19,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1844790,1386921,2024-02-16,Senate,"Introduced and Referred to S07 - Corporations 28-3-0-0-0",28,3,0,0,31
+1844790,1388291,2024-02-19,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1844790,1389102,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1844790,1395680,2024-02-27,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1844790,1402750,2024-03-05,House,":Recall from Committee failed Pursuant to HR 5-6 27-34-1-0-0",27,34,0,1,62
+1844805,1384267,2024-02-14,Senate,"Introduced and Referred to S05 - Agriculture 29-1-0-0-1",29,1,1,0,31
+1844805,1388038,2024-02-19,Senate,"S05 - Agriculture:Recommend Do Pass 6-0-0-0-0",6,0,0,0,6
+1844805,1390155,2024-02-21,Senate,"3rd Reading:Passed 28-1-0-0-2",28,1,2,0,31
+1844805,1399201,2024-02-29,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1844805,1403745,2024-03-05,House,"3rd Reading:Passed 56-6-0-0-0",56,6,0,0,62
+1844823,1385984,2024-02-15,House,"Failed Introduction 41-20-1-0-0",41,20,0,1,62
+1844854,1384686,2024-02-14,Senate,"Introduced and Referred to S02 - Appropriations 21-10-0-0-0",21,10,0,0,31
+1844854,1389447,2024-02-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1844889,1385727,2024-02-15,Senate,"Introduced and Referred to S03 - Revenue 28-1-2-0-0",28,1,0,2,31
+1844889,1390063,2024-02-21,Senate,"S01 - Judiciary:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1844889,1391346,2024-02-22,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1844889,1396252,2024-02-27,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1844889,1402135,2024-03-04,House,"H07 - Corporations:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1844889,1402885,2024-03-05,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1844889,1403228,2024-03-05,House,"COW:Passed 35-27-0-0-0",35,27,0,0,62
+1844889,1405079,2024-03-07,House,"3rd Reading:Failed 6-56-0-0-0",6,56,0,0,62
+1844909,1384259,2024-02-14,Senate,"Introduced and Referred to S01 - Judiciary 31-0-0-0-0",31,0,0,0,31
+1844909,1388758,2024-02-20,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1844909,1395659,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1844909,1401593,2024-03-04,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1844909,1404462,2024-03-06,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1844944,1387098,2024-02-16,Senate,"Failed Introduction 14-17-0-0-0",14,17,0,0,31
+1844962,1386908,2024-02-16,Senate,"Failed Introduction 8-21-0-0-2",8,21,2,0,31
+1844994,1386974,2024-02-16,Senate,"Introduced and Referred to S07 - Corporations 26-5-0-0-0",26,5,0,0,31
+1844994,1388163,2024-02-19,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1844994,1393122,2024-02-22,Senate,"3rd Reading:Failed 20-11-0-0-0",20,11,0,0,31
+1844994,1393766,2024-02-23,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 24-7-0-0-0",24,7,0,0,31
+1844994,1393767,2024-02-23,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1844994,1402729,2024-03-05,House,":Recall from Committee failed Pursuant to HR 5-6 25-36-1-0-0",25,36,0,1,62
+1845339,1385485,2024-02-15,Senate,"Failed Introduction 17-14-0-0-0",17,14,0,0,31
+1845405,1387183,2024-02-16,Senate,"Introduced and Referred to S01 - Judiciary 29-2-0-0-0",29,2,0,0,31
+1845405,1388811,2024-02-20,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 6-0-0-0-0",6,0,0,0,6
+1845405,1395717,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1845405,1401073,2024-03-01,House,"H06 - Travel:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1845405,1404592,2024-03-06,House,"Amendment adopted 32-28-2-0-0",32,28,0,2,62
+1845405,1404593,2024-03-06,House,"Amendment failed 10-50-2-0-0",10,50,0,2,62
+1845405,1404594,2024-03-06,House,"Amendment failed 21-40-1-0-0",21,40,0,1,62
+1845405,1404595,2024-03-06,House,"Amendment failed 9-53-0-0-0",9,53,0,0,62
+1845405,1404596,2024-03-06,House,"Amendment failed 10-51-1-0-0",10,51,0,1,62
+1845405,1404597,2024-03-06,House,"3rd Reading:Passed 54-8-0-0-0",54,8,0,0,62
+1845405,1405044,2024-03-07,Senate,"Concur:Passed 30-0-1-0-0",30,0,0,1,31
+1845438,1386780,2024-02-16,Senate,"Failed Introduction 16-15-0-0-0",16,15,0,0,31
+1845558,1385910,2024-02-15,Senate,"Introduced and Referred to S04 - Education 23-8-0-0-0",23,8,0,0,31
+1845558,1388173,2024-02-19,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1845558,1396544,2024-02-27,Senate,"3rd Reading:Failed 12-19-0-0-0",12,19,0,0,31
+1845583,1385266,2024-02-15,Senate,"Introduced and Referred to S06 - Travel 31-0-0-0-0",31,0,0,0,31
+1845583,1388795,2024-02-20,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1845583,1395731,2024-02-27,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1845583,1400242,2024-02-29,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1845583,1403766,2024-03-05,House,"3rd Reading:Failed 28-34-0-0-0",28,34,0,0,62
+1845741,1385379,2024-02-15,House,"Introduced and Referred to H02 - Appropriations 42-19-1-0-0",42,19,0,1,62
+1845741,1389055,2024-02-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1845836,1385263,2024-02-15,Senate,"Introduced and Referred to S08 - Transportation 24-7-0-0-0",24,7,0,0,31
+1845836,1387852,2024-02-19,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1845836,1393684,2024-02-23,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1845836,1399463,2024-02-29,House,"H08 - Transportation:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1845836,1403128,2024-03-05,House,"3rd Reading:Passed 44-18-0-0-0",44,18,0,0,62
+1845836,1403949,2024-03-06,Senate,"Concur:Passed 22-9-0-0-0",22,9,0,0,31
+1845866,1385297,2024-02-15,Senate,"Introduced and Referred to S07 - Corporations 30-0-0-0-1",30,0,1,0,31
+1845866,1390517,2024-02-21,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-0-1-0-1",3,0,1,1,5
+1845866,1395915,2024-02-27,Senate,"3rd Reading:Passed 27-2-0-0-2",27,2,2,0,31
+1845866,1401800,2024-03-04,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1845866,1404792,2024-03-06,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1845879,1385839,2024-02-15,Senate,"Introduced and Referred to S10 - Labor 26-5-0-0-0",26,5,0,0,31
+1845879,1388157,2024-02-19,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1845879,1393125,2024-02-22,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1845879,1398781,2024-02-28,House,"H10 - Labor:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1845879,1401911,2024-03-04,House,"3rd Reading:Passed 38-22-2-0-0",38,22,0,2,62
+1845928,1385830,2024-02-15,House,"Introduced and Referred to H03 - Revenue 59-1-2-0-0",59,1,0,2,62
+1845928,1388442,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1845928,1393665,2024-02-23,House,"3rd Reading:Passed 62-0-0-0-0",62,0,0,0,62
+1845928,1397323,2024-02-28,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1845928,1402638,2024-03-05,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1845962,1385286,2024-02-15,Senate,"Introduced and Referred to S01 - Judiciary 27-4-0-0-0",27,4,0,0,31
+1845962,1389918,2024-02-21,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1845962,1390708,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1845978,1385831,2024-02-15,Senate,"Introduced and Referred to S05 - Agriculture 29-2-0-0-0",29,2,0,0,31
+1845978,1389430,2024-02-20,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1845978,1390654,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1845978,1396257,2024-02-27,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1845978,1401953,2024-03-04,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1845978,1401954,2024-03-04,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1845978,1405551,2024-03-07,House,"3rd Reading:Passed 52-10-0-0-0",52,10,0,0,62
+1845978,1406318,2024-03-08,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1845978,1406319,2024-03-08,Senate,"Adopted SF0118JC001: 30-1-0-0-0",30,1,0,0,31
+1845978,1406320,2024-03-08,House,"Adopted SF0118JC001: 49-11-2-0-0",49,11,0,2,62
+1845997,1386725,2024-02-16,Senate,"Failed Introduction 18-13-0-0-0",18,13,0,0,31
+1846047,1385828,2024-02-15,Senate,"Failed Introduction 20-11-0-0-0",20,11,0,0,31
+1846097,1385833,2024-02-15,Senate,"Introduced and Referred to S04 - Education 22-9-0-0-0",22,9,0,0,31
+1846097,1391087,2024-02-21,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1846117,1384674,2024-02-14,House,"Failed Introduction 39-21-2-0-0",39,21,0,2,62
+1846120,1385763,2024-02-15,Senate,"Introduced and Referred to S01 - Judiciary 28-2-0-0-1",28,2,1,0,31
+1846120,1390630,2024-02-21,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1846120,1395719,2024-02-27,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1846120,1400691,2024-03-01,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1846120,1404271,2024-03-06,House,"3rd Reading:Passed 61-1-0-0-0",61,1,0,0,62
+1846122,1385893,2024-02-15,Senate,"Failed Introduction 17-14-0-0-0",17,14,0,0,31
+1846127,1387067,2024-02-16,Senate,"Introduced and Referred to S07 - Corporations 26-5-0-0-0",26,5,0,0,31
+1846127,1390326,2024-02-21,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1846127,1396390,2024-02-27,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1846127,1402753,2024-03-05,House,":Recall from Committee failed Pursuant to HR 5-6 25-36-1-0-0",25,36,0,1,62
+1846128,1385845,2024-02-15,House,"Introduced and Referred to H03 - Revenue 44-17-1-0-0",44,17,0,1,62
+1846128,1389391,2024-02-20,House,"H03 - Revenue:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1846128,1393984,2024-02-23,House,"COW:Passed 31-29-2-0-0",31,29,0,2,62
+1846128,1395185,2024-02-26,House,"Amendment adopted 46-15-1-0-0",46,15,0,1,62
+1846128,1395186,2024-02-26,House,"Amendment adopted 34-27-1-0-0",34,27,0,1,62
+1846128,1396419,2024-02-27,House,"3rd Reading:Failed 14-47-1-0-0",14,47,0,1,62
+1846129,1385942,2024-02-15,Senate,"Introduced and Referred to S01 - Judiciary 29-2-0-0-0",29,2,0,0,31
+1846129,1389844,2024-02-21,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1846129,1390657,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1846527,1384673,2024-02-14,House,"Failed Introduction 21-39-2-0-0",21,39,0,2,62
+1846619,1387024,2024-02-16,Senate,"Failed Introduction 17-14-0-0-0",17,14,0,0,31
+1846669,1387177,2024-02-16,Senate,"Introduced and Referred to S03 - Revenue 25-6-0-0-0",25,6,0,0,31
+1846669,1391110,2024-02-21,Senate,"S02 - Appropriations:Do Pass Failed 2-0-2-0-1",2,0,1,2,5
+1846669,1392916,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1846669,1395949,2024-02-27,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1846669,1403119,2024-03-05,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1846669,1405468,2024-03-07,House,"3rd Reading:Passed 60-2-0-0-0",60,2,0,0,62
+1846669,1406159,2024-03-08,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1846701,1386874,2024-02-16,Senate,"Introduced and Referred to S03 - Revenue 22-9-0-0-0",22,9,0,0,31
+1846701,1390057,2024-02-21,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1846701,1395898,2024-02-27,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1846731,1386783,2024-02-16,Senate,"Introduced and Referred to S04 - Education 27-4-0-0-0",27,4,0,0,31
+1846731,1390507,2024-02-21,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1846731,1396123,2024-02-27,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1846731,1401859,2024-03-04,House,"H04 - Education:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1846731,1403153,2024-03-05,House,":Recall from Committee failed Pursuant to HR 5-6 26-35-1-0-0",26,35,0,1,62
+1846739,1386761,2024-02-16,Senate,"Failed Introduction 16-14-1-0-0",16,14,0,1,31
+1846755,1387174,2024-02-16,Senate,"Introduced and Referred to S09 - Minerals 29-2-0-0-0",29,2,0,0,31
+1846755,1389870,2024-02-21,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1846755,1390717,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1846755,1396415,2024-02-27,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1847020,1387022,2024-02-16,Senate,"Introduced and Referred to S06 - Travel 29-2-0-0-0",29,2,0,0,31
+1847020,1388883,2024-02-20,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1847020,1396067,2024-02-27,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1847020,1399448,2024-02-29,House,"H06 - Travel:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1847020,1404379,2024-03-06,House,"3rd Reading:Passed 51-11-0-0-0",51,11,0,0,62
+1847020,1405424,2024-03-07,Senate,"Concur:Passed 22-8-1-0-0",22,8,0,1,31
+1847276,1387004,2024-02-16,Senate,"Introduced and Referred to S01 - Judiciary 29-2-0-0-0",29,2,0,0,31
+1847276,1390074,2024-02-21,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1847276,1390075,2024-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5

@@ -1,0 +1,15 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+1896604,3033049,text,27873,application/pdf,Introduced,https://legiscan.com/OR/text/SB5801/id/3033049,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureDocument/SB5801/Introduced
+1896604,3033310,text,23685,application/pdf,Enrolled,https://legiscan.com/OR/text/SB5801/id/3033310,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureDocument/SB5801/Enrolled
+1896603,3033048,text,24617,application/pdf,Introduced,https://legiscan.com/OR/text/SCR301/id/3033048,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureDocument/SCR301/Introduced
+1896603,3033311,text,18973,application/pdf,Enrolled,https://legiscan.com/OR/text/SCR301/id/3033311,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureDocument/SCR301/Enrolled
+1896604,484464,supplement,324853,application/pdf,"Open Government Impact",https://legiscan.com/OR/supplement/SB5801/id/484464,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82774
+1896604,484465,supplement,614193,application/pdf,"Revenue Impact",https://legiscan.com/OR/supplement/SB5801/id/484465,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82777
+1896604,484466,supplement,1013870,application/pdf,"Budget Report",https://legiscan.com/OR/supplement/SB5801/id/484466,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82782
+1896604,484467,supplement,1015200,application/pdf,"Budget Report",https://legiscan.com/OR/supplement/SB5801/id/484467,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82783
+1896604,484468,supplement,1007913,application/pdf,"Budget Report",https://legiscan.com/OR/supplement/SB5801/id/484468,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/CommitteeMeetingDocument/287717
+1896603,484459,supplement,323369,application/pdf,"Open Government Impact",https://legiscan.com/OR/supplement/SCR301/id/484459,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82775
+1896603,484460,supplement,625407,application/pdf,"Fiscal Impact",https://legiscan.com/OR/supplement/SCR301/id/484460,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82776
+1896603,484461,supplement,614193,application/pdf,"Revenue Impact",https://legiscan.com/OR/supplement/SCR301/id/484461,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82778
+1896603,484462,supplement,119146,application/pdf,"Staff Summary",https://legiscan.com/OR/supplement/SCR301/id/484462,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/MeasureAnalysisDocument/82781
+1896603,484463,supplement,146232,application/pdf,"Preliminary SMS",https://legiscan.com/OR/supplement/SCR301/id/484463,https://olis.oregonlegislature.gov/liz/2024S1/Downloads/CommitteeMeetingDocument/287718

@@ -1,0 +1,28 @@
+bill_id,session,chamber,location,action_date,action,vote,vote_url,order
+H.B. 2001,2023-S2,,Legislative Research and General Counsel,2023-06-12,Numbered Bill Publicly Distributed,,,1
+H.B. 2001,2023-S2,,Legislative Research and General Counsel,2023-06-12,Bill Numbered but not Distributed,,,2
+H.B. 2001,2023-S2,Fiscal,Legislative Research and General Counsel,2023-06-12,LFA/ bill sent to agencies for fiscal input,,,3
+H.B. 2001,2023-S2,Fiscal,Legislative Research and General Counsel,2023-06-14,LFA/ fiscal note sent to sponsor,,,4
+H.B. 2001,2023-S2,Fiscal,Legislative Research and General Counsel,2023-06-14,LFA/ fiscal note publicly available,,,5
+H.B. 2001,2023-S2,House,Clerk of the House,2023-06-14,House/ received bill from Legislative Research,,,6
+H.B. 2001,2023-S2,House,House Rules Committee,2023-06-14,House/ 1st reading (Introduced),,,7
+H.B. 2001,2023-S2,House,House 3rd Reading Calendar for House bills,2023-06-14,House/ Rules to 3rd Reading Calendar,,,8
+H.B. 2001,2023-S2,House,House 3rd Reading Calendar for House bills,2023-06-14,House/ 2nd reading,,,9
+H.B. 2001,2023-S2,House,House 3rd Reading Calendar for House bills,2023-06-14,House/ 3rd reading,,,10
+H.B. 2001,2023-S2,House,Senate Secretary,2023-06-14,House/ passed 3rd reading,69 0 6,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S2&voteid=2&house=H,11
+H.B. 2001,2023-S2,House,Senate Secretary,2023-06-14,House/ to Senate,,,12
+H.B. 2001,2023-S2,Senate,Waiting for Introduction in the Senate,2023-06-14,Senate/ received from House,,,13
+H.B. 2001,2023-S2,Senate,Senate Rules Committee,2023-06-14,Senate/ 1st reading (Introduced),,,14
+H.B. 2001,2023-S2,Senate,Senate 2nd Reading Calendar,2023-06-14,Senate/ 2nd & 3rd readings/ suspension,,,15
+H.B. 2001,2023-S2,Senate,Senate President,2023-06-14,Senate/ passed 2nd & 3rd readings/ suspension,27 1 1,https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2023S2&voteid=8&house=S,16
+H.B. 2001,2023-S2,Senate,House Speaker,2023-06-14,Senate/ signed by President/ returned to House,,,17
+H.B. 2001,2023-S2,Senate,House Speaker,2023-06-14,Senate/ to House,,,18
+H.B. 2001,2023-S2,House,House Speaker,2023-06-14,House/ received from Senate,,,19
+H.B. 2001,2023-S2,House,Legislative Research and General Counsel / Enrolling,2023-06-14,House/ signed by Speaker/ sent for enrolling,,,20
+H.B. 2001,2023-S2,,Legislative Research and General Counsel / Enrolling,2023-06-14,Bill Received from House for Enrolling,,,21
+H.B. 2001,2023-S2,,Legislative Research and General Counsel / Enrolling,2023-06-14,Draft of Enrolled Bill Prepared,,,22
+H.B. 2001,2023-S2,,Clerk of the House,2023-06-14,Enrolled Bill Returned to House or Senate,,,23
+H.B. 2001,2023-S2,House,Clerk of the House,2023-06-14,House/ enrolled bill to Printing,,,24
+H.B. 2001,2023-S2,House,Clerk of the House,2023-06-15,House/ received enrolled bill from Printing,,,25
+H.B. 2001,2023-S2,House,Executive Branch - Governor,2023-06-15,House/ to Governor,,,26
+H.B. 2001,2023-S2,,Lieutenant Governor's office for filing,2023-06-17,Governor Signed,,,27

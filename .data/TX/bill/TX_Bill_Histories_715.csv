@@ -1,0 +1,3385 @@
+bill_number,session,chamber,action_date,action,comment,journal_page,order
+SR 119,715,Senate,1990-05-30,Read & adopted,,174,1
+SB 67,715,Senate,1990-05-15,Referred to Finance,,124,3
+SB 67,715,Senate,1990-05-15,Read first time,,124,2
+SB 67,715,Senate,1990-05-14,Filed,,,1
+SB 68,715,Senate,1990-05-15,Referred to Education,,124,3
+SB 68,715,Senate,1990-05-15,Read first time,,124,2
+SB 68,715,Senate,1990-05-14,Filed,,,1
+SB 69,715,Senate,1990-05-15,Referred to Criminal Justice,,124,3
+SB 69,715,Senate,1990-05-15,Read first time,,124,2
+SB 69,715,Senate,1990-05-14,Filed,,,1
+SB 81,715,Senate,1990-05-24,Referred to Intergovernmental Relations,,154,3
+SB 81,715,Senate,1990-05-24,Read first time,,154,2
+SB 81,715,Senate,1990-05-24,Filed,,,1
+SB 82,715,Senate,1990-05-24,Referred to Intergovernmental Relations,,154,3
+SB 82,715,Senate,1990-05-24,Read first time,,154,2
+SB 82,715,Senate,1990-05-24,Filed,,,1
+SCR 4,715,Senate,1990-05-22,Signed by the Governor,,148,14
+SCR 4,715,Senate,1990-05-11,Sent to the Governor,,123,13
+SCR 4,715,House,1990-05-10,Signed in the House,,87,12
+SCR 4,715,Senate,1990-05-10,Signed in the Senate,,79,11
+SCR 4,715,Senate,1990-05-10,House passage reported,,78,10
+SCR 4,715,House,1990-05-10,Sent to the Senate,,,9
+SCR 4,715,House,1990-05-10,Adopted,,79,8
+SCR 4,715,House,1990-05-10,Rules suspended,,79,7
+SCR 4,715,House,1990-05-08,Received from the Senate,,,6
+SCR 4,715,Senate,1990-05-08,Adopted as amended,,36,5
+SCR 4,715,Senate,1990-05-08,Amended,,36,4
+SCR 4,715,Senate,1990-05-08,Read,,35,3
+SCR 4,715,Senate,1990-05-08,Rules suspended,,35,2
+SCR 4,715,Senate,1990-05-07,Filed,,,1
+SCR 7,715,Senate,1990-06-05,Signed by the Governor,,175,13
+SCR 7,715,Senate,1990-05-21,Sent to the Governor,,142,12
+SCR 7,715,House,1990-05-21,Signed in the House,,133,11
+SCR 7,715,Senate,1990-05-17,Signed in the Senate,,140,10
+SCR 7,715,Senate,1990-05-15,House passage reported,,124,9
+SCR 7,715,House,1990-05-15,Sent to the Senate,,,8
+SCR 7,715,House,1990-05-15,Adopted,,101,7
+SCR 7,715,House,1990-05-15,Rules suspended,,101,6
+SCR 7,715,House,1990-05-14,Referred to Rules and Resolutions,,92,5
+SCR 7,715,House,1990-05-14,Received from the Senate,,90,4
+SCR 7,715,Senate,1990-05-14,Read & adopted,,123,3
+SCR 7,715,Senate,1990-05-14,Rules suspended,,123,2
+SCR 7,715,Senate,1990-05-11,Filed,,,1
+SR 4,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 36,715,Senate,1990-05-10,Read & adopted,,82,1
+SR 44,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 46,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 47,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 48,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 49,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 50,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 51,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 52,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 53,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 76,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 79,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 86,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 87,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 94,715,Senate,1990-05-23,Read & adopted,,151,1
+SR 116,715,Senate,1990-05-30,Read & adopted,,173,1
+SB 47,715,Senate,1990-05-17,Reported favorably w/o amendments,,139,8
+SB 47,715,Senate,1990-05-15,Considered in public hearing,,,7
+SB 47,715,Senate,1990-05-11,Meeting canceled,,,6
+SB 47,715,Senate,1990-05-10,Scheduled for public hearing on  . . . . . .,,,5
+SB 47,715,Senate,1990-05-08,Posting rule suspended,,38,4
+SB 47,715,Senate,1990-05-08,Referred to Education,,34,3
+SB 47,715,Senate,1990-05-08,Read first time,,34,2
+SB 47,715,Senate,1990-05-08,Filed,,,1
+SJR 9,715,Senate,1990-05-25,Record vote,,157,13
+SJR 9,715,Senate,1990-05-25,Motion lost to consider on 3rd reading,,157,12
+SJR 9,715,Senate,1990-05-25,Read 2nd time & passed to engrossment,,157,11
+SJR 9,715,Senate,1990-05-25,Record vote,,157,10
+SJR 9,715,Senate,1990-05-25,Rules suspended,,157,9
+SJR 9,715,Senate,1990-05-17,Reported favorably w/o amendments,,139,8
+SJR 9,715,Senate,1990-05-15,Considered in public hearing,,,7
+SJR 9,715,Senate,1990-05-11,Meeting canceled,,,6
+SJR 9,715,Senate,1990-05-10,Scheduled for public hearing on  . . . . . .,,,5
+SJR 9,715,Senate,1990-05-08,Posting rule suspended,,38,4
+SJR 9,715,Senate,1990-05-08,Referred to Education,,34,3
+SJR 9,715,Senate,1990-05-08,Read first time,,34,2
+SJR 9,715,Senate,1990-05-08,Filed,,,1
+SR 60,715,Senate,1990-05-17,Read & adopted,,140,1
+SR 61,715,Senate,1990-05-17,Read & adopted,,140,1
+SB 4,715,House,1990-05-24,Reported favorably w/o amendment(s),,195,21
+SB 4,715,House,1990-05-24,Testimony received in committee,,,20
+SB 4,715,House,1990-05-24,Considered in public hearing,,,19
+SB 4,715,House,1990-05-24,Posting rule suspended,,158,18
+SB 4,715,House,1990-05-21,Referred to Human Services,,134,17
+SB 4,715,House,1990-05-21,Read first time,,134,16
+SB 4,715,House,1990-05-17,Received from the Senate,,119,15
+SB 4,715,Senate,1990-05-15,Passed,,130,14
+SB 4,715,Senate,1990-05-15,Read 3rd time,,130,13
+SB 4,715,Senate,1990-05-15,Record vote,,130,12
+SB 4,715,Senate,1990-05-15,Rules suspended,,130,11
+SB 4,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,130,10
+SB 4,715,Senate,1990-05-15,Rules suspended,,130,9
+SB 4,715,Senate,1990-05-14,Reported favorably with substitute,,83,8
+SB 4,715,Senate,1990-05-14,Testimony taken in committee,,,7
+SB 4,715,Senate,1990-05-14,Considered in public hearing,,,6
+SB 4,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,5
+SB 4,715,Senate,1990-05-07,Co-author authorized,,12,4
+SB 4,715,Senate,1990-05-02,Referred to Health & Human Services,,2,3
+SB 4,715,Senate,1990-05-02,Read first time,,2,2
+SB 4,715,Senate,1990-05-01,Filed,,,1
+SB 11,715,House,1990-05-14,Referred to Environmental Affairs,,95,16
+SB 11,715,House,1990-05-14,Read first time,,95,15
+SB 11,715,House,1990-05-08,Received from the Senate,,,14
+SB 11,715,Senate,1990-05-07,Record vote,,21,13
+SB 11,715,Senate,1990-05-07,Passed,,21,12
+SB 11,715,Senate,1990-05-07,Read 3rd time,,21,11
+SB 11,715,Senate,1990-05-07,Record vote,,21,10
+SB 11,715,Senate,1990-05-07,Rules suspended,,21,9
+SB 11,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,21,8
+SB 11,715,Senate,1990-05-07,Rules suspended,,21,7
+SB 11,715,Senate,1990-05-07,Reported favorably w/o amendments,,11,6
+SB 11,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 11,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 11,715,Senate,1990-05-02,Referred to Administration,,3,3
+SB 11,715,Senate,1990-05-02,Read first time,,3,2
+SB 11,715,Senate,1990-05-02,Filed,,,1
+SB 12,715,House,1990-05-14,Referred to Environmental Affairs,,95,15
+SB 12,715,House,1990-05-14,Read first time,,95,14
+SB 12,715,House,1990-05-08,Received from the Senate,,,13
+SB 12,715,Senate,1990-05-07,Passed,,22,12
+SB 12,715,Senate,1990-05-07,Read 3rd time,,22,11
+SB 12,715,Senate,1990-05-07,Record vote,,22,10
+SB 12,715,Senate,1990-05-07,Rules suspended,,22,9
+SB 12,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,21,8
+SB 12,715,Senate,1990-05-07,Rules suspended,,21,7
+SB 12,715,Senate,1990-05-07,Reported favorably w/o amendments,,11,6
+SB 12,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 12,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 12,715,Senate,1990-05-02,Referred to Administration,,3,3
+SB 12,715,Senate,1990-05-02,Read first time,,3,2
+SB 12,715,Senate,1990-05-02,Filed,,,1
+SB 55,715,House,1990-05-25,Reported favorably w/o amendment(s),,195,19
+SB 55,715,House,1990-05-25,Considered in formal meeting,,,18
+SB 55,715,House,1990-05-21,Referred to Public Health,,134,17
+SB 55,715,House,1990-05-21,Read first time,,134,16
+SB 55,715,House,1990-05-17,Received from the Senate,,119,15
+SB 55,715,Senate,1990-05-15,Record vote,,131,14
+SB 55,715,Senate,1990-05-15,Passed,,131,13
+SB 55,715,Senate,1990-05-15,Read 3rd time,,131,12
+SB 55,715,Senate,1990-05-15,Record vote,,131,11
+SB 55,715,Senate,1990-05-15,Rules suspended,,131,10
+SB 55,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,131,9
+SB 55,715,Senate,1990-05-15,Rules suspended,,131,8
+SB 55,715,Senate,1990-05-14,Reported favorably w/o amendments,,83,7
+SB 55,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SB 55,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 55,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 55,715,Senate,1990-05-09,Referred to Health & Human Services,,40,3
+SB 55,715,Senate,1990-05-09,Read first time,,40,2
+SB 55,715,Senate,1990-05-08,Filed,,,1
+SB 62,715,Senate,1990-05-29,House passage as amended reported,,167,36
+SB 62,715,House,1990-05-29,Sent to the Senate as amended,,,35
+SB 62,715,House,1990-05-28,Subject to Art. III Sec. 49a Tx Con.,,178,34
+SB 62,715,House,1990-05-28,Passed,,178,33
+SB 62,715,House,1990-05-28,Read 3rd time,,178,32
+SB 62,715,House,1990-05-28,Record vote,,177,31
+SB 62,715,House,1990-05-28,Rules suspended,,177,30
+SB 62,715,House,1990-05-28,Passed to 3rd reading as amended,,177,29
+SB 62,715,House,1990-05-28,Amended,,177,28
+SB 62,715,House,1990-05-28,Read 2nd time,,176,27
+SB 62,715,House,1990-05-28,Placed on General State Calendar,,,26
+SB 62,715,House,1990-05-25,1st Printing sent to Comm. on Cal.,,,25
+SB 62,715,House,1990-05-25,Reported favorably w/amendment(s),,195,24
+SB 62,715,House,1990-05-25,Considered in formal meeting,,,23
+SB 62,715,House,1990-05-25,Referred to Appropriations,,173,22
+SB 62,715,House,1990-05-25,Read first time,,173,21
+SB 62,715,House,1990-05-25,Received from the Senate,,173,20
+SB 62,715,Senate,1990-05-25,Record vote,,159,19
+SB 62,715,Senate,1990-05-25,Passed,,159,18
+SB 62,715,Senate,1990-05-25,Read 3rd time,,159,17
+SB 62,715,Senate,1990-05-25,Record vote,,159,16
+SB 62,715,Senate,1990-05-25,Rules suspended,,159,15
+SB 62,715,Senate,1990-05-25,Passed to engrossment as amended,,159,14
+SB 62,715,Senate,1990-05-25,Amended,,159,13
+SB 62,715,Senate,1990-05-25,Read second time,,159,12
+SB 62,715,Senate,1990-05-25,Rules suspended,,159,11
+SB 62,715,Senate,1990-05-24,Reported favorably with substitute,,155,10
+SB 62,715,Senate,1990-05-24,Testimony taken in committee,,,9
+SB 62,715,Senate,1990-05-24,Considered in public hearing,,,8
+SB 62,715,Senate,1990-05-17,Left as pending business in comm.,,,7
+SB 62,715,Senate,1990-05-17,Testimony taken in committee,,,6
+SB 62,715,Senate,1990-05-17,Considered in public hearing,,,5
+SB 62,715,Senate,1990-05-17,Scheduled for public hearing on  . . . . . .,,,4
+SB 62,715,Senate,1990-05-10,Referred to Finance,,79,3
+SB 62,715,Senate,1990-05-10,Read first time,,79,2
+SB 62,715,Senate,1990-05-10,Filed,,,1
+SB 66,715,Senate,1990-05-14,Referred to Finance,,83,3
+SB 66,715,Senate,1990-05-14,Read first time,,83,2
+SB 66,715,Senate,1990-05-14,Filed,,,1
+SB 71,715,Senate,1990-05-15,Referred to Criminal Justice,,124,3
+SB 71,715,Senate,1990-05-15,Read first time,,124,2
+SB 71,715,Senate,1990-05-15,Filed,,,1
+SB 72,715,Senate,1990-05-17,Referred to Finance,,140,3
+SB 72,715,Senate,1990-05-17,Read first time,,140,2
+SB 72,715,Senate,1990-05-17,Filed,,,1
+SB 73,715,Senate,1990-05-17,Referred to Health & Human Services,,140,3
+SB 73,715,Senate,1990-05-17,Read first time,,140,2
+SB 73,715,Senate,1990-05-17,Filed,,,1
+SB 77,715,Senate,1990-05-29,Left as pending business in comm.,,,5
+SB 77,715,Senate,1990-05-29,Considered in public hearing,,,4
+SB 77,715,Senate,1990-05-23,Referred to Health & Human Services,,148,3
+SB 77,715,Senate,1990-05-23,Read first time,,148,2
+SB 77,715,Senate,1990-05-22,Filed,,,1
+SCR 5,715,Senate,1990-06-18,Signed by the Governor,,175,23
+SCR 5,715,Senate,1990-05-31,Sent to the Governor,,174,22
+SCR 5,715,House,1990-05-30,Signed in the House,,194,21
+SCR 5,715,Senate,1990-05-30,Signed in the Senate,,168,20
+SCR 5,715,Senate,1990-05-29,House passage reported,,166,19
+SCR 5,715,House,1990-05-29,Sent to the Senate,,,18
+SCR 5,715,House,1990-05-29,Adopted,,189,17
+SCR 5,715,House,1990-05-29,Laid before the House,,189,16
+SCR 5,715,House,1990-05-29,Placed on Resolutions Calendar,,,15
+SCR 5,715,House,1990-05-25,Reported favorably w/o amendment(s),,195,14
+SCR 5,715,House,1990-05-25,Considered in formal meeting,,,13
+SCR 5,715,House,1990-05-21,Referred to Public Health,,136,12
+SCR 5,715,House,1990-05-17,Received from the Senate,,119,11
+SCR 5,715,Senate,1990-05-15,Adopted,,131,10
+SCR 5,715,Senate,1990-05-15,Read second time,,131,9
+SCR 5,715,Senate,1990-05-15,Rules suspended,,131,8
+SCR 5,715,Senate,1990-05-14,Reported favorably w/o amendments,,83,7
+SCR 5,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SCR 5,715,Senate,1990-05-14,Considered in public hearing,,,5
+SCR 5,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SCR 5,715,Senate,1990-05-09,Referred to Health & Human Services,,40,3
+SCR 5,715,Senate,1990-05-09,Read first time,,40,2
+SCR 5,715,Senate,1990-05-08,Filed,,,1
+SCR 16,715,House,1990-05-29,Received from the Senate,,189,4
+SCR 16,715,Senate,1990-05-29,Read & adopted,,167,3
+SCR 16,715,Senate,1990-05-29,Rules suspended,,167,2
+SCR 16,715,Senate,1990-05-25,Filed,,,1
+SR 1,715,Senate,1990-05-02,Read & adopted,,4,1
+SR 90,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 115,715,Senate,1990-05-30,Read & adopted,,173,1
+SR 120,715,Senate,1990-05-30,Read & adopted,,168,1
+SB 13,715,Senate,1990-05-02,Referred to Criminal Justice,,3,3
+SB 13,715,Senate,1990-05-02,Read first time,,3,2
+SB 13,715,Senate,1990-05-02,Filed,,,1
+SB 14,715,Senate,1990-05-02,Referred to Criminal Justice,,3,3
+SB 14,715,Senate,1990-05-02,Read first time,,3,2
+SB 14,715,Senate,1990-05-02,Filed,,,1
+SB 15,715,Senate,1990-05-02,Referred to Criminal Justice,,3,3
+SB 15,715,Senate,1990-05-02,Read first time,,3,2
+SB 15,715,Senate,1990-05-02,Filed,,,1
+SB 16,715,Senate,1990-05-02,Referred to Criminal Justice,,3,3
+SB 16,715,Senate,1990-05-02,Read first time,,3,2
+SB 16,715,Senate,1990-05-02,Filed,,,1
+SB 17,715,House,1990-05-14,Referred to Environmental Affairs,,95,17
+SB 17,715,House,1990-05-14,Read first time,,95,16
+SB 17,715,House,1990-05-08,Received from the Senate,,,15
+SB 17,715,Senate,1990-05-07,Co-author authorized,,12,14
+SB 17,715,Senate,1990-05-07,Record vote,,22,13
+SB 17,715,Senate,1990-05-07,Passed,,22,12
+SB 17,715,Senate,1990-05-07,Read 3rd time,,22,11
+SB 17,715,Senate,1990-05-07,Record vote,,22,10
+SB 17,715,Senate,1990-05-07,Rules suspended,,22,9
+SB 17,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,22,8
+SB 17,715,Senate,1990-05-07,Rules suspended,,22,7
+SB 17,715,Senate,1990-05-07,Reported favorably w/o amendments,,11,6
+SB 17,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 17,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 17,715,Senate,1990-05-02,Referred to Administration,,3,3
+SB 17,715,Senate,1990-05-02,Read first time,,3,2
+SB 17,715,Senate,1990-05-02,Filed,,,1
+SB 18,715,House,1990-05-21,Reported favorably w/o amendment(s),,146,19
+SB 18,715,House,1990-05-21,Considered in public hearing,,,18
+SB 18,715,House,1990-05-21,Scheduled for public hearing on  . . . . . .,,,17
+SB 18,715,House,1990-05-14,Referred to Natural Resources,,95,16
+SB 18,715,House,1990-05-14,Read first time,,95,15
+SB 18,715,House,1990-05-08,Received from the Senate,,,14
+SB 18,715,Senate,1990-05-07,Record vote,,22,13
+SB 18,715,Senate,1990-05-07,Passed,,22,12
+SB 18,715,Senate,1990-05-07,Read 3rd time,,22,11
+SB 18,715,Senate,1990-05-07,Record vote,,22,10
+SB 18,715,Senate,1990-05-07,Rules suspended,,22,9
+SB 18,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,22,8
+SB 18,715,Senate,1990-05-07,Rules suspended,,22,7
+SB 18,715,Senate,1990-05-07,Reported favorably w/o amendments,,11,6
+SB 18,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 18,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 18,715,Senate,1990-05-02,Referred to Administration,,3,3
+SB 18,715,Senate,1990-05-02,Read first time,,3,2
+SB 18,715,Senate,1990-05-02,Filed,,,1
+SB 19,715,Senate,1990-05-02,Referred to State Affairs,,3,3
+SB 19,715,Senate,1990-05-02,Read first time,,3,2
+SB 19,715,Senate,1990-05-02,Filed,,,1
+SB 20,715,House,1990-05-21,Referred to Environmental Affairs,,134,16
+SB 20,715,House,1990-05-21,Read first time,,134,15
+SB 20,715,House,1990-05-17,Received from the Senate,,119,14
+SB 20,715,Senate,1990-05-15,Passed,,132,13
+SB 20,715,Senate,1990-05-15,Read 3rd time,,132,12
+SB 20,715,Senate,1990-05-15,Record vote,,132,11
+SB 20,715,Senate,1990-05-15,Rules suspended,,132,10
+SB 20,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,132,9
+SB 20,715,Senate,1990-05-15,Rules suspended,,132,8
+SB 20,715,Senate,1990-05-15,Reported favorably w/o amendments,,125,7
+SB 20,715,Senate,1990-05-15,Considered in public hearing,,,6
+SB 20,715,Senate,1990-05-15,Scheduled for public hearing on  . . . . . .,,,5
+SB 20,715,Senate,1990-05-14,Posting rule suspended,,123,4
+SB 20,715,Senate,1990-05-02,Referred to Health & Human Services,,4,3
+SB 20,715,Senate,1990-05-02,Read first time,,4,2
+SB 20,715,Senate,1990-05-02,Filed,,,1
+SB 33,715,Senate,1990-05-03,Referred to Finance,,7,3
+SB 33,715,Senate,1990-05-03,Read first time,,7,2
+SB 33,715,Senate,1990-05-03,Filed,,,1
+SB 60,715,Senate,1990-05-10,Referred to Jurisprudence,,79,3
+SB 60,715,Senate,1990-05-10,Read first time,,79,2
+SB 60,715,Senate,1990-05-10,Filed,,,1
+SB 61,715,Senate,1990-05-14,Reported favorably w/o amendments,,85,7
+SB 61,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SB 61,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 61,715,Senate,1990-05-14,Posting rule suspended,,84,4
+SB 61,715,Senate,1990-05-10,Referred to State Affairs,,79,3
+SB 61,715,Senate,1990-05-10,Read first time,,79,2
+SB 61,715,Senate,1990-05-10,Filed,,,1
+SCR 1,715,House,1990-05-21,Referred to Environmental Affairs,,135,12
+SCR 1,715,House,1990-05-17,Received from the Senate,,119,11
+SCR 1,715,Senate,1990-05-15,Adopted,,132,10
+SCR 1,715,Senate,1990-05-15,Read second time,,132,9
+SCR 1,715,Senate,1990-05-15,Rules suspended,,132,8
+SCR 1,715,Senate,1990-05-15,Reported favorably w/o amendments,,125,7
+SCR 1,715,Senate,1990-05-15,Considered in public hearing,,,6
+SCR 1,715,Senate,1990-05-15,Scheduled for public hearing on  . . . . . .,,,5
+SCR 1,715,Senate,1990-05-14,Posting rule suspended,,123,4
+SCR 1,715,Senate,1990-05-02,Referred to Health & Human Services,,2,3
+SCR 1,715,Senate,1990-05-02,Read first time,,2,2
+SCR 1,715,Senate,1990-05-02,Filed,,,1
+SR 31,715,Senate,1990-05-09,Read & adopted,,77,1
+SR 39,715,Senate,1990-05-10,Read & adopted,,82,1
+SR 55,715,Senate,1990-05-15,Read & adopted,,126,1
+SR 82,715,Senate,1990-05-22,Read & adopted,,147,1
+SR 91,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 92,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 93,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 96,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 97,715,Senate,1990-05-23,Read & adopted,,152,1
+SB 40,715,Senate,1990-05-29,See remarks,,,36
+SB 40,715,Senate,1990-05-29,Filed w/o the Governor's signature,,174,35
+SB 40,715,Senate,1990-05-18,Sent to the Governor,,142,34
+SB 40,715,Senate,1990-05-11,Sent to the Comptroller,,123,33
+SB 40,715,House,1990-05-10,Signed in the House,,87,32
+SB 40,715,Senate,1990-05-10,Signed in Sen. Art III Sec 49a Tx Con,,79,31
+SB 40,715,Senate,1990-05-10,House passage reported,,78,30
+SB 40,715,House,1990-05-10,Sent to the Senate,,,29
+SB 40,715,House,1990-05-10,Subject to Art. III Sec. 49a Tx Con.,,86,28
+SB 40,715,House,1990-05-10,Record vote,,86,27
+SB 40,715,House,1990-05-10,Passed,,86,26
+SB 40,715,House,1990-05-10,Read 3rd time,,85,25
+SB 40,715,House,1990-05-10,Passed to 3rd reading,,80,24
+SB 40,715,House,1990-05-10,Read 2nd time,,80,23
+SB 40,715,House,1990-05-10,Placed on General State Calendar,,,22
+SB 40,715,House,1990-05-09,1st Printing sent to Comm. on Cal.,,,21
+SB 40,715,House,1990-05-08,Reported favorably w/o amendment(s),,74,20
+SB 40,715,House,1990-05-08,Considered in formal meeting,,,19
+SB 40,715,House,1990-05-08,Referred to Appropriations,,,18
+SB 40,715,House,1990-05-08,Read first time,,,17
+SB 40,715,House,1990-05-08,Received from the Senate,,,16
+SB 40,715,Senate,1990-05-08,Record vote,,37,15
+SB 40,715,Senate,1990-05-08,Passed,,37,14
+SB 40,715,Senate,1990-05-08,Read 3rd time,,37,13
+SB 40,715,Senate,1990-05-08,Record vote,,37,12
+SB 40,715,Senate,1990-05-08,Rules suspended,,37,11
+SB 40,715,Senate,1990-05-08,Read 2nd time & passed to engrossment,,37,10
+SB 40,715,Senate,1990-05-08,Rules suspended,,37,9
+SB 40,715,Senate,1990-05-08,Reported favorably with substitute,,34,8
+SB 40,715,Senate,1990-05-08,Testimony taken in committee,,,7
+SB 40,715,Senate,1990-05-08,Considered in public hearing,,,6
+SB 40,715,Senate,1990-05-08,Scheduled for public hearing on  . . . . . .,,,5
+SB 40,715,Senate,1990-05-07,Posting rule suspended,,32,4
+SB 40,715,Senate,1990-05-07,Referred to Finance,,11,3
+SB 40,715,Senate,1990-05-07,Read first time,,11,2
+SB 40,715,Senate,1990-05-07,Filed,,,1
+SB 41,715,Senate,1990-05-15,Scheduled for conf. committee meeting,,,58
+SB 41,715,House,1990-05-10,House conferees appointed,,88,57
+SB 41,715,House,1990-05-10,House grants request for conf. comm.,,88,56
+SB 41,715,House,1990-05-10,Senate conferees appointed,,88,55
+SB 41,715,House,1990-05-10,Senate requests conference committee,,88,54
+SB 41,715,House,1990-05-10,S. refused to concur in House amdt(s),,88,53
+SB 41,715,Senate,1990-05-10,Senate conferees appointed,,81,52
+SB 41,715,Senate,1990-05-10,Senate requests conference committee,,81,51
+SB 41,715,Senate,1990-05-10,S. refuses to concur in H. amendments,,81,50
+SB 41,715,Senate,1990-05-10,House amendment laid before the Senate,,79,49
+SB 41,715,Senate,1990-05-10,House passage as amended reported,,78,48
+SB 41,715,House,1990-05-10,Sent to the Senate as amended,,,47
+SB 41,715,House,1990-05-10,Subject to Art. III Sec. 49a Tx Con.,,86,46
+SB 41,715,House,1990-05-10,Nonrecord vote recorded in Journal,,86,45
+SB 41,715,House,1990-05-10,Passed,,86,44
+SB 41,715,House,1990-05-10,Amendment fails of adoption,,86,43
+SB 41,715,House,1990-05-10,Amendment(s) offered,,86,42
+SB 41,715,House,1990-05-10,Read 3rd time,,86,41
+SB 41,715,House,1990-05-10,Record vote,,84,40
+SB 41,715,House,1990-05-10,Passed to 3rd reading as amended,,84,39
+SB 41,715,House,1990-05-10,Nonrecord vote recorded in Journal,,83,38
+SB 41,715,House,1990-05-10,Amended,,83,37
+SB 41,715,House,1990-05-10,Record vote,,83,36
+SB 41,715,House,1990-05-10,Motion to table lost,,83,35
+SB 41,715,House,1990-05-10,Amended,,83,34
+SB 41,715,House,1990-05-10,Amendment(s) offered,,82,33
+SB 41,715,House,1990-05-10,Record vote,,82,32
+SB 41,715,House,1990-05-10,Amendment fails of adoption,,82,31
+SB 41,715,House,1990-05-10,Amended,,82,30
+SB 41,715,House,1990-05-10,Amendment(s) offered,,81,29
+SB 41,715,House,1990-05-10,Nonrecord vote recorded in Journal,,81,28
+SB 41,715,House,1990-05-10,Amended,,81,27
+SB 41,715,House,1990-05-10,Record vote,,80,26
+SB 41,715,House,1990-05-10,Amendment tabled,,80,25
+SB 41,715,House,1990-05-10,Amendment(s) offered,,80,24
+SB 41,715,House,1990-05-10,Read 2nd time,,80,23
+SB 41,715,House,1990-05-10,Placed on General State Calendar,,,22
+SB 41,715,House,1990-05-09,1st Printing sent to Comm. on Cal.,,,21
+SB 41,715,House,1990-05-08,Reported favorably w/o amendment(s),,74,20
+SB 41,715,House,1990-05-08,Considered in formal meeting,,,19
+SB 41,715,House,1990-05-08,Referred to Appropriations,,,18
+SB 41,715,House,1990-05-08,Read first time,,,17
+SB 41,715,House,1990-05-08,Received from the Senate,,,16
+SB 41,715,Senate,1990-05-08,Record vote,,38,15
+SB 41,715,Senate,1990-05-08,Passed,,38,14
+SB 41,715,Senate,1990-05-08,Read 3rd time,,38,13
+SB 41,715,Senate,1990-05-08,Record vote,,38,12
+SB 41,715,Senate,1990-05-08,Rules suspended,,38,11
+SB 41,715,Senate,1990-05-08,Read 2nd time & passed to engrossment,,37,10
+SB 41,715,Senate,1990-05-08,Rules suspended,,37,9
+SB 41,715,Senate,1990-05-08,Reported favorably with substitute,,34,8
+SB 41,715,Senate,1990-05-08,Testimony taken in committee,,,7
+SB 41,715,Senate,1990-05-08,Considered in public hearing,,,6
+SB 41,715,Senate,1990-05-08,Scheduled for public hearing on  . . . . . .,,,5
+SB 41,715,Senate,1990-05-07,Posting rule suspended,,32,4
+SB 41,715,Senate,1990-05-07,Referred to Finance,,11,3
+SB 41,715,Senate,1990-05-07,Read first time,,11,2
+SB 41,715,Senate,1990-05-07,Filed,,,1
+SB 42,715,Senate,1990-05-22,See remarks,,160,33
+SB 42,715,Senate,1990-05-22,Signed by the Governor,,123,32
+SB 42,715,Senate,1990-05-11,Sent to the Governor,,123,31
+SB 42,715,House,1990-05-10,Signed in the House,,87,30
+SB 42,715,Senate,1990-05-10,Signed in the Senate,,79,29
+SB 42,715,Senate,1990-05-10,House passage reported,,78,28
+SB 42,715,House,1990-05-10,Sent to the Senate,,,27
+SB 42,715,House,1990-05-10,Passed,,87,26
+SB 42,715,House,1990-05-10,Read 3rd time,,87,25
+SB 42,715,House,1990-05-10,Passed to 3rd reading,,84,24
+SB 42,715,House,1990-05-10,Read 2nd time,,84,23
+SB 42,715,House,1990-05-10,Placed on General State Calendar,,,22
+SB 42,715,House,1990-05-09,1st Printing sent to Comm. on Cal.,,,21
+SB 42,715,House,1990-05-08,Reported favorably w/o amendment(s),,74,20
+SB 42,715,House,1990-05-08,Considered in formal meeting,,,19
+SB 42,715,House,1990-05-08,Referred to Appropriations,,,18
+SB 42,715,House,1990-05-08,Read first time,,,17
+SB 42,715,House,1990-05-08,Received from the Senate,,,16
+SB 42,715,Senate,1990-05-08,Record vote,,38,15
+SB 42,715,Senate,1990-05-08,Passed,,38,14
+SB 42,715,Senate,1990-05-08,Read 3rd time,,38,13
+SB 42,715,Senate,1990-05-08,Record vote,,38,12
+SB 42,715,Senate,1990-05-08,Rules suspended,,38,11
+SB 42,715,Senate,1990-05-08,Read 2nd time & passed to engrossment,,38,10
+SB 42,715,Senate,1990-05-08,Rules suspended,,38,9
+SB 42,715,Senate,1990-05-08,Reported favorably with substitute,,34,8
+SB 42,715,Senate,1990-05-08,Testimony taken in committee,,,7
+SB 42,715,Senate,1990-05-08,Considered in public hearing,,,6
+SB 42,715,Senate,1990-05-08,Scheduled for public hearing on  . . . . . .,,,5
+SB 42,715,Senate,1990-05-07,Posting rule suspended,,32,4
+SB 42,715,Senate,1990-05-07,Referred to Finance,,11,3
+SB 42,715,Senate,1990-05-07,Read first time,,11,2
+SB 42,715,Senate,1990-05-07,Filed,,,1
+SB 56,715,Senate,1990-05-25,House passage as amended reported,,156,32
+SB 56,715,House,1990-05-25,Sent to the Senate as amended,,,31
+SB 56,715,House,1990-05-25,Subject to Art. III Sec. 49a Tx Con.,,171,30
+SB 56,715,House,1990-05-25,Passed,,171,29
+SB 56,715,House,1990-05-25,Read 3rd time,,171,28
+SB 56,715,House,1990-05-25,Record vote,,167,27
+SB 56,715,House,1990-05-25,Passed to 3rd reading as amended,,167,26
+SB 56,715,House,1990-05-25,Amended,,167,25
+SB 56,715,House,1990-05-25,Read 2nd time,,167,24
+SB 56,715,House,1990-05-24,Reported favorably w/amendment(s),,173,23
+SB 56,715,House,1990-05-24,Considered in formal meeting,,,22
+SB 56,715,House,1990-05-24,Referred to Appropriations,,150,21
+SB 56,715,House,1990-05-24,Read first time,,150,20
+SB 56,715,House,1990-05-24,Received from the Senate,,150,19
+SB 56,715,Senate,1990-05-23,Record vote,,151,18
+SB 56,715,Senate,1990-05-23,Passed,,151,17
+SB 56,715,Senate,1990-05-23,Read 3rd time,,151,16
+SB 56,715,Senate,1990-05-23,Record vote,,151,15
+SB 56,715,Senate,1990-05-23,Rules suspended,,151,14
+SB 56,715,Senate,1990-05-23,Member vote recorded in Journal,,151,13
+SB 56,715,Senate,1990-05-23,Passed to engrossment as amended,,151,12
+SB 56,715,Senate,1990-05-23,Member vote recorded in Journal,,151,11
+SB 56,715,Senate,1990-05-23,Amended,,150,10
+SB 56,715,Senate,1990-05-23,Read second time,,150,9
+SB 56,715,Senate,1990-05-23,Rules suspended,,150,8
+SB 56,715,Senate,1990-05-14,Reported favorably with substitute,,85,7
+SB 56,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SB 56,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 56,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 56,715,Senate,1990-05-10,Referred to Finance,,79,3
+SB 56,715,Senate,1990-05-10,Read first time,,79,2
+SB 56,715,Senate,1990-05-09,Filed,,,1
+SCR 9,715,Senate,1990-05-15,Filed,,,1
+SR 45,715,Senate,1990-05-15,Adopted as amended,,135,4
+SR 45,715,Senate,1990-05-15,Amended,,135,3
+SR 45,715,Senate,1990-05-15,Read,,135,2
+SR 45,715,Senate,1990-05-15,Rules suspended,,135,1
+SB 36,715,Senate,1990-05-07,Referred to Finance,,11,3
+SB 36,715,Senate,1990-05-07,Read first time,,11,2
+SB 36,715,Senate,1990-05-03,Filed,,,1
+SB 37,715,Senate,1990-05-21,Meeting canceled,,,9
+SB 37,715,Senate,1990-05-21,Scheduled for public hearing on  . . . . . .,,,8
+SB 37,715,Senate,1990-05-17,Meeting canceled,,,7
+SB 37,715,Senate,1990-05-17,Scheduled for public hearing on  . . . . . .,,,6
+SB 37,715,Senate,1990-05-11,Meeting canceled,,,5
+SB 37,715,Senate,1990-05-11,Scheduled for public hearing on  . . . . . .,,,4
+SB 37,715,Senate,1990-05-07,Referred to Intergovernmental Relations,,11,3
+SB 37,715,Senate,1990-05-07,Read first time,,11,2
+SB 37,715,Senate,1990-05-03,Filed,,,1
+SB 38,715,Senate,1990-05-07,Referred to Health & Human Services,,11,3
+SB 38,715,Senate,1990-05-07,Read first time,,11,2
+SB 38,715,Senate,1990-05-03,Filed,,,1
+SB 63,715,Senate,1990-05-14,Referred to Finance,,83,3
+SB 63,715,Senate,1990-05-14,Read first time,,83,2
+SB 63,715,Senate,1990-05-10,Filed,,,1
+SCR 11,715,Senate,1990-06-13,Signed by the Governor,,175,16
+SCR 11,715,Senate,1990-05-31,Sent to the Governor,,174,15
+SCR 11,715,House,1990-05-29,Signed in the House,,194,14
+SCR 11,715,Senate,1990-05-29,Signed in the Senate,,167,13
+SCR 11,715,Senate,1990-05-29,House passage reported,,161,12
+SCR 11,715,House,1990-05-29,Sent to the Senate,,,11
+SCR 11,715,House,1990-05-29,Adopted,,184,10
+SCR 11,715,House,1990-05-29,Rules suspended,,,9
+SCR 11,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,8
+SCR 11,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,7
+SCR 11,715,House,1990-05-28,Considered in formal meeting,,,6
+SCR 11,715,House,1990-05-23,Referred to Rules and Resolutions,,145,5
+SCR 11,715,House,1990-05-23,Received from the Senate,,144,4
+SCR 11,715,Senate,1990-05-22,Read & adopted,,147,3
+SCR 11,715,Senate,1990-05-22,Rules suspended,,147,2
+SCR 11,715,Senate,1990-05-22,Filed,,,1
+SB 3,715,House,1990-05-14,Referred to County Affairs,,95,16
+SB 3,715,House,1990-05-14,Read first time,,95,15
+SB 3,715,House,1990-05-14,Received from the Senate,,90,14
+SB 3,715,Senate,1990-05-14,Record vote,,84,13
+SB 3,715,Senate,1990-05-14,Passed,,84,12
+SB 3,715,Senate,1990-05-14,Read 3rd time,,84,11
+SB 3,715,Senate,1990-05-14,Record vote,,84,10
+SB 3,715,Senate,1990-05-14,Rules suspended,,84,9
+SB 3,715,Senate,1990-05-14,Read 2nd time & passed to engrossment,,84,8
+SB 3,715,Senate,1990-05-14,Rules suspended,,84,7
+SB 3,715,Senate,1990-05-09,Reported favorably w/o amendments,,40,6
+SB 3,715,Senate,1990-05-08,Considered in public hearing,,,5
+SB 3,715,Senate,1990-05-08,Posting rule suspended,,38,4
+SB 3,715,Senate,1990-05-02,Referred to Health & Human Services,,2,3
+SB 3,715,Senate,1990-05-02,Read first time,,2,2
+SB 3,715,Senate,1990-05-01,Filed,,,1
+SB 5,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,23
+SB 5,715,House,1990-05-15,Reported favorably with substitute,,130,22
+SB 5,715,House,1990-05-15,Considered in formal meeting,,,21
+SB 5,715,House,1990-05-15,Posting rule suspended,,115,20
+SB 5,715,House,1990-05-14,Referred to Appropriations,,95,19
+SB 5,715,House,1990-05-14,Read first time,,95,18
+SB 5,715,House,1990-05-08,Received from the Senate,,,17
+SB 5,715,Senate,1990-05-08,Record vote,,37,16
+SB 5,715,Senate,1990-05-08,Passed,,37,15
+SB 5,715,Senate,1990-05-08,Read 3rd time,,37,14
+SB 5,715,Senate,1990-05-08,Record vote,,37,13
+SB 5,715,Senate,1990-05-08,Rules suspended,,37,12
+SB 5,715,Senate,1990-05-08,Read 2nd time & passed to engrossment,,37,11
+SB 5,715,Senate,1990-05-08,Rules suspended,,37,10
+SB 5,715,Senate,1990-05-08,Reported favorably with substitute,,33,9
+SB 5,715,Senate,1990-05-08,Testimony taken in committee,,,8
+SB 5,715,Senate,1990-05-08,Considered in public hearing,,,7
+SB 5,715,Senate,1990-05-08,Scheduled for public hearing on  . . . . . .,,,6
+SB 5,715,Senate,1990-05-07,Co-author authorized,,12,5
+SB 5,715,Senate,1990-05-07,Posting rule suspended,,32,4
+SB 5,715,Senate,1990-05-02,Referred to Finance,,3,3
+SB 5,715,Senate,1990-05-02,Read first time,,3,2
+SB 5,715,Senate,1990-05-01,Filed,,,1
+SB 6,715,House,1990-05-21,Reported favorably w/o amendment(s),,146,19
+SB 6,715,House,1990-05-21,Considered in formal meeting,,,18
+SB 6,715,House,1990-05-21,Scheduled for formal meeting on  . . . . . .,,,17
+SB 6,715,House,1990-05-07,Referred to Natural Resources,,,16
+SB 6,715,House,1990-05-07,Read first time,,,15
+SB 6,715,House,1990-05-07,Received from the Senate,,,14
+SB 6,715,Senate,1990-05-07,Record vote,,21,13
+SB 6,715,Senate,1990-05-07,Passed,,21,12
+SB 6,715,Senate,1990-05-07,Read 3rd time,,21,11
+SB 6,715,Senate,1990-05-07,Record vote,,21,10
+SB 6,715,Senate,1990-05-07,Rules suspended,,21,9
+SB 6,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,21,8
+SB 6,715,Senate,1990-05-07,Rules suspended,,21,7
+SB 6,715,Senate,1990-05-07,Reported favorably w/o amendments,,10,6
+SB 6,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 6,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 6,715,Senate,1990-05-02,Referred to Administration,,3,3
+SB 6,715,Senate,1990-05-02,Read first time,,3,2
+SB 6,715,Senate,1990-05-01,Filed,,,1
+SB 7,715,Senate,1990-05-07,Co-author authorized,,12,5
+SB 7,715,Senate,1990-05-02,Co-author authorized,,4,4
+SB 7,715,Senate,1990-05-02,Referred to Education,,3,3
+SB 7,715,Senate,1990-05-02,Read first time,,3,2
+SB 7,715,Senate,1990-05-01,Filed,,,1
+SB 8,715,House,1990-05-24,Reported favorably w/o amendment(s),,195,19
+SB 8,715,House,1990-05-24,Considered in formal meeting,,,18
+SB 8,715,House,1990-05-24,Posting rule suspended,,158,17
+SB 8,715,House,1990-05-14,Referred to Higher Education,,95,16
+SB 8,715,House,1990-05-14,Read first time,,95,15
+SB 8,715,House,1990-05-14,Received from the Senate,,90,14
+SB 8,715,Senate,1990-05-14,Record vote,,84,13
+SB 8,715,Senate,1990-05-14,Passed,,84,12
+SB 8,715,Senate,1990-05-14,Read 3rd time,,84,11
+SB 8,715,Senate,1990-05-14,Record vote,,84,10
+SB 8,715,Senate,1990-05-14,Rules suspended,,84,9
+SB 8,715,Senate,1990-05-14,Read 2nd time & passed to engrossment,,84,8
+SB 8,715,Senate,1990-05-14,Rules suspended,,84,7
+SB 8,715,Senate,1990-05-09,Reported favorably w/o amendments,,40,6
+SB 8,715,Senate,1990-05-08,Considered in public hearing,,,5
+SB 8,715,Senate,1990-05-08,Posting rule suspended,,38,4
+SB 8,715,Senate,1990-05-02,Referred to Education,,3,3
+SB 8,715,Senate,1990-05-02,Read first time,,3,2
+SB 8,715,Senate,1990-05-01,Filed,,,1
+SR 33,715,Senate,1990-05-09,Read & adopted,,77,1
+SR 34,715,Senate,1990-05-09,Read & adopted,,78,1
+SR 35,715,Senate,1990-05-09,Read & adopted,,78,1
+SJR 10,715,House,1990-05-21,Referred to State Affairs,,134,20
+SJR 10,715,House,1990-05-21,Read first time,,134,19
+SJR 10,715,House,1990-05-17,Received from the Senate,,119,18
+SJR 10,715,Senate,1990-05-15,Record vote,,134,17
+SJR 10,715,Senate,1990-05-15,Passed,,134,16
+SJR 10,715,Senate,1990-05-15,Read 3rd time,,134,15
+SJR 10,715,Senate,1990-05-15,Record vote,,134,14
+SJR 10,715,Senate,1990-05-15,Rules suspended,,134,13
+SJR 10,715,Senate,1990-05-15,Member vote recorded in Journal,,133,12
+SJR 10,715,Senate,1990-05-15,Passed to engrossment as amended,,133,11
+SJR 10,715,Senate,1990-05-15,Amended,,133,10
+SJR 10,715,Senate,1990-05-15,Read second time,,132,9
+SJR 10,715,Senate,1990-05-15,Rules suspended,,132,8
+SJR 10,715,Senate,1990-05-14,Reported favorably w/amendments,,85,7
+SJR 10,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SJR 10,715,Senate,1990-05-14,Considered in public hearing,,,5
+SJR 10,715,Senate,1990-05-14,Posting rule suspended,,84,4
+SJR 10,715,Senate,1990-05-14,Referred to State Affairs,,83,3
+SJR 10,715,Senate,1990-05-14,Read first time,,83,2
+SJR 10,715,Senate,1990-05-11,Filed,,,1
+SR 37,715,Senate,1990-05-10,Read & adopted,,82,1
+SR 40,715,Senate,1990-05-10,Read & adopted,,82,1
+SR 74,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 75,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 77,715,Senate,1990-05-21,Read & adopted,,142,1
+SB 64,715,Senate,1990-05-14,Referred to Intergovernmental Relations,,83,3
+SB 64,715,Senate,1990-05-14,Read first time,,83,2
+SB 64,715,Senate,1990-05-11,Filed,,,1
+SR 23,715,Senate,1990-05-03,Read & adopted,,10,1
+SR 42,715,Senate,1990-05-10,Read & adopted,,82,1
+SR 43,715,Senate,1990-05-14,Read & adopted,,123,1
+SR 62,715,Senate,1990-05-17,Read & adopted,,140,1
+SR 67,715,Senate,1990-05-17,Read & adopted,,141,1
+SR 83,715,Senate,1990-05-22,Read & adopted,,147,1
+SR 84,715,Senate,1990-05-22,Read & adopted,,147,1
+SR 95,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 102,715,Senate,1990-05-24,Read & adopted,,155,1
+SB 32,715,House,1990-05-21,Referred to Judicial Affairs,,134,16
+SB 32,715,House,1990-05-21,Read first time,,134,15
+SB 32,715,House,1990-05-17,Received from the Senate,,119,14
+SB 32,715,Senate,1990-05-15,Record vote,,132,13
+SB 32,715,Senate,1990-05-15,Passed,,132,12
+SB 32,715,Senate,1990-05-15,Read 3rd time,,132,11
+SB 32,715,Senate,1990-05-15,Record vote,,132,10
+SB 32,715,Senate,1990-05-15,Rules suspended,,132,9
+SB 32,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,132,8
+SB 32,715,Senate,1990-05-15,Rules suspended,,132,7
+SB 32,715,Senate,1990-05-14,Reported favorably w/o amendments,,83,6
+SB 32,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 32,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 32,715,Senate,1990-05-03,Referred to Jurisprudence,,7,3
+SB 32,715,Senate,1990-05-03,Read first time,,7,2
+SB 32,715,Senate,1990-05-03,Filed,,,1
+SB 76,715,Senate,1990-05-25,Postponed in committee,,,6
+SB 76,715,Senate,1990-05-25,Considered in public hearing,,,5
+SB 76,715,Senate,1990-05-25,Scheduled for public hearing on  . . . . . .,,,4
+SB 76,715,Senate,1990-05-21,Referred to Jurisprudence,,142,3
+SB 76,715,Senate,1990-05-21,Read first time,,142,2
+SB 76,715,Senate,1990-05-21,Filed,,,1
+SJR 4,715,Senate,1990-05-03,Referred to State Affairs,,7,3
+SJR 4,715,Senate,1990-05-03,Read first time,,7,2
+SJR 4,715,Senate,1990-05-03,Filed,,,1
+SJR 5,715,Senate,1990-05-14,Reported favorably w/o amendments,,85,7
+SJR 5,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SJR 5,715,Senate,1990-05-14,Considered in public hearing,,,5
+SJR 5,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SJR 5,715,Senate,1990-05-03,Referred to State Affairs,,7,3
+SJR 5,715,Senate,1990-05-03,Read first time,,7,2
+SJR 5,715,Senate,1990-05-03,Filed,,,1
+SR 63,715,Senate,1990-05-17,Read & adopted,,141,1
+SR 64,715,Senate,1990-05-17,Read & adopted,,141,1
+SR 65,715,Senate,1990-05-17,Read & adopted,,140,1
+SR 70,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 71,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 72,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 103,715,Senate,1990-05-25,Read & adopted,,160,1
+SR 104,715,Senate,1990-05-25,Read & adopted,,160,1
+SR 105,715,Senate,1990-05-25,Read & adopted,,160,1
+SR 106,715,Senate,1990-05-25,Read & adopted,,160,1
+SB 2,715,Senate,1990-05-02,Referred to Education,,2,3
+SB 2,715,Senate,1990-05-02,Read first time,,2,2
+SB 2,715,Senate,1990-05-01,Filed,,,1
+SB 45,715,House,1990-05-24,Reported favorably w/o amendment(s),,173,21
+SB 45,715,House,1990-05-24,Considered in formal meeting,,,20
+SB 45,715,House,1990-05-21,Referred to State Affairs,,134,19
+SB 45,715,House,1990-05-21,Read first time,,134,18
+SB 45,715,House,1990-05-17,Received from the Senate,,119,17
+SB 45,715,Senate,1990-05-15,Record vote,,129,16
+SB 45,715,Senate,1990-05-15,Passed,,129,15
+SB 45,715,Senate,1990-05-15,Read 3rd time,,129,14
+SB 45,715,Senate,1990-05-15,Record vote,,129,13
+SB 45,715,Senate,1990-05-15,Rules suspended,,129,12
+SB 45,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,129,11
+SB 45,715,Senate,1990-05-15,Rules suspended,,129,10
+SB 45,715,Senate,1990-05-14,Reported favorably with substitute,,85,9
+SB 45,715,Senate,1990-05-14,Considered in public hearing,,,8
+SB 45,715,Senate,1990-05-10,Left as pending business in comm.,,,7
+SB 45,715,Senate,1990-05-10,Testimony taken in committee,,,6
+SB 45,715,Senate,1990-05-10,Considered in public hearing,,,5
+SB 45,715,Senate,1990-05-10,Scheduled for public hearing on  . . . . . .,,,4
+SB 45,715,Senate,1990-05-08,Referred to Finance,,34,3
+SB 45,715,Senate,1990-05-08,Read first time,,34,2
+SB 45,715,Senate,1990-05-07,Filed,,,1
+SJR 1,715,Senate,1990-05-02,Referred to Education,,2,3
+SJR 1,715,Senate,1990-05-02,Read first time,,2,2
+SJR 1,715,Senate,1990-05-01,Filed,,,1
+SR 41,715,Senate,1990-05-10,Read & adopted,,82,1
+SB 21,715,Senate,1990-05-07,Co-author authorized,,12,4
+SB 21,715,Senate,1990-05-03,Referred to Intergovernmental Relations,,7,3
+SB 21,715,Senate,1990-05-03,Read first time,,7,2
+SB 21,715,Senate,1990-05-02,Filed,,,1
+SB 28,715,Senate,1990-05-03,Referred to Economic Development,,7,3
+SB 28,715,Senate,1990-05-03,Read first time,,7,2
+SB 28,715,Senate,1990-05-02,Filed,,,1
+SB 29,715,Senate,1990-05-03,Referred to Intergovernmental Relations,,7,3
+SB 29,715,Senate,1990-05-03,Read first time,,7,2
+SB 29,715,Senate,1990-05-02,Filed,,,1
+SB 48,715,Senate,1990-05-24,Meeting canceled,,,5
+SB 48,715,Senate,1990-05-24,Scheduled for public hearing on  . . . . . .,,,4
+SB 48,715,Senate,1990-05-08,Referred to Economic Development,,34,3
+SB 48,715,Senate,1990-05-08,Read first time,,34,2
+SB 48,715,Senate,1990-05-08,Filed,,,1
+SB 58,715,Senate,1990-05-24,Meeting canceled,,,5
+SB 58,715,Senate,1990-05-24,Scheduled for public hearing on  . . . . . .,,,4
+SB 58,715,Senate,1990-05-10,Referred to Economic Development,,79,3
+SB 58,715,Senate,1990-05-10,Read first time,,79,2
+SB 58,715,Senate,1990-05-10,Filed,,,1
+SB 59,715,Senate,1990-05-24,Meeting canceled,,,5
+SB 59,715,Senate,1990-05-24,Scheduled for public hearing on  . . . . . .,,,4
+SB 59,715,Senate,1990-05-10,Referred to Economic Development,,79,3
+SB 59,715,Senate,1990-05-10,Read first time,,79,2
+SB 59,715,Senate,1990-05-10,Filed,,,1
+SB 79,715,Senate,1990-05-24,Referred to Economic Development,,154,3
+SB 79,715,Senate,1990-05-24,Read first time,,154,2
+SB 79,715,Senate,1990-05-23,Filed,,,1
+SR 29,715,Senate,1990-05-08,Read & adopted,,39,1
+SB 49,715,House,1990-05-21,Referred to County Affairs,,134,15
+SB 49,715,House,1990-05-21,Read first time,,134,14
+SB 49,715,House,1990-05-17,Received from the Senate,,119,13
+SB 49,715,Senate,1990-05-15,Passed,,128,12
+SB 49,715,Senate,1990-05-15,Read 3rd time,,128,11
+SB 49,715,Senate,1990-05-15,Record vote,,128,10
+SB 49,715,Senate,1990-05-15,Rules suspended,,128,9
+SB 49,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,128,8
+SB 49,715,Senate,1990-05-15,Rules suspended,,128,7
+SB 49,715,Senate,1990-05-14,Reported favorably w/o amendments,,83,6
+SB 49,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 49,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 49,715,Senate,1990-05-08,Referred to Jurisprudence,,34,3
+SB 49,715,Senate,1990-05-08,Read first time,,34,2
+SB 49,715,Senate,1990-05-08,Filed,,,1
+SB 50,715,House,1990-05-17,Referred to County Affairs,,130,15
+SB 50,715,House,1990-05-17,Read first time,,130,14
+SB 50,715,House,1990-05-17,Received from the Senate,,119,13
+SB 50,715,Senate,1990-05-15,Passed,,128,12
+SB 50,715,Senate,1990-05-15,Read 3rd time,,128,11
+SB 50,715,Senate,1990-05-15,Record vote,,128,10
+SB 50,715,Senate,1990-05-15,Rules suspended,,128,9
+SB 50,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,128,8
+SB 50,715,Senate,1990-05-15,Rules suspended,,128,7
+SB 50,715,Senate,1990-05-14,Reported favorably w/o amendments,,83,6
+SB 50,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 50,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 50,715,Senate,1990-05-08,Referred to Jurisprudence,,34,3
+SB 50,715,Senate,1990-05-08,Read first time,,34,2
+SB 50,715,Senate,1990-05-08,Filed,,,1
+SB 51,715,Senate,1990-05-08,Referred to Economic Development,,34,3
+SB 51,715,Senate,1990-05-08,Read first time,,34,2
+SB 51,715,Senate,1990-05-08,Filed,,,1
+SB 65,715,Senate,1990-05-14,Referred to Economic Development,,83,3
+SB 65,715,Senate,1990-05-14,Read first time,,83,2
+SB 65,715,Senate,1990-05-14,Filed,,,1
+SR 57,715,Senate,1990-05-15,Read & adopted,,138,1
+SB 43,715,Senate,1990-05-07,Referred to State Affairs,,12,3
+SB 43,715,Senate,1990-05-07,Read first time,,12,2
+SB 43,715,Senate,1990-05-07,Filed,,,1
+SB 44,715,Senate,1990-05-07,Referred to Education,,12,3
+SB 44,715,Senate,1990-05-07,Read first time,,12,2
+SB 44,715,Senate,1990-05-07,Filed,,,1
+SB 46,715,Senate,1990-05-08,Referred to Finance,,34,3
+SB 46,715,Senate,1990-05-08,Read first time,,34,2
+SB 46,715,Senate,1990-05-07,Filed,,,1
+SB 74,715,Senate,1990-05-21,Referred to Education,,141,3
+SB 74,715,Senate,1990-05-21,Read first time,,141,2
+SB 74,715,Senate,1990-05-17,Filed,,,1
+SJR 6,715,Senate,1990-05-07,Referred to State Affairs,,11,3
+SJR 6,715,Senate,1990-05-07,Read first time,,11,2
+SJR 6,715,Senate,1990-05-07,Filed,,,1
+SJR 7,715,Senate,1990-05-07,Referred to State Affairs,,11,3
+SJR 7,715,Senate,1990-05-07,Read first time,,11,2
+SJR 7,715,Senate,1990-05-07,Filed,,,1
+SJR 8,715,Senate,1990-05-07,Referred to Finance,,11,3
+SJR 8,715,Senate,1990-05-07,Read first time,,11,2
+SJR 8,715,Senate,1990-05-07,Filed,,,1
+SR 69,715,Senate,1990-05-17,Read & adopted,,141,1
+SR 78,715,Senate,1990-05-21,Read & adopted,,142,1
+SB 30,715,Senate,1990-05-03,Referred to Education,,7,3
+SB 30,715,Senate,1990-05-03,Read first time,,7,2
+SB 30,715,Senate,1990-05-02,Filed,,,1
+SB 52,715,Senate,1990-05-10,Left as pending business in comm.,,,7
+SB 52,715,Senate,1990-05-10,Testimony taken in committee,,,6
+SB 52,715,Senate,1990-05-10,Considered in public hearing,,,5
+SB 52,715,Senate,1990-05-10,Scheduled for public hearing on  . . . . . .,,,4
+SB 52,715,Senate,1990-05-08,Referred to Finance,,34,3
+SB 52,715,Senate,1990-05-08,Read first time,,34,2
+SB 52,715,Senate,1990-05-08,Filed,,,1
+SB 53,715,Senate,1990-05-10,Left as pending business in comm.,,,7
+SB 53,715,Senate,1990-05-10,Testimony taken in committee,,,6
+SB 53,715,Senate,1990-05-10,Considered in public hearing,,,5
+SB 53,715,Senate,1990-05-10,Scheduled for public hearing on  . . . . . .,,,4
+SB 53,715,Senate,1990-05-08,Referred to Finance,,35,3
+SB 53,715,Senate,1990-05-08,Read first time,,35,2
+SB 53,715,Senate,1990-05-08,Filed,,,1
+SB 54,715,Senate,1990-05-10,Left as pending business in comm.,,,7
+SB 54,715,Senate,1990-05-10,Testimony taken in committee,,,6
+SB 54,715,Senate,1990-05-10,Considered in public hearing,,,5
+SB 54,715,Senate,1990-05-10,Scheduled for public hearing on  . . . . . .,,,4
+SB 54,715,Senate,1990-05-08,Referred to Finance,,35,3
+SB 54,715,Senate,1990-05-08,Read first time,,35,2
+SB 54,715,Senate,1990-05-08,Filed,,,1
+SCR 12,715,Senate,1990-06-13,Signed by the Governor,,175,13
+SCR 12,715,Senate,1990-05-31,Sent to the Governor,,174,12
+SCR 12,715,House,1990-05-25,Signed in the House,,166,11
+SCR 12,715,Senate,1990-05-25,Signed in the Senate,,156,10
+SCR 12,715,Senate,1990-05-24,Received from House,,153,9
+SCR 12,715,House,1990-05-24,Sent to the Senate,,,8
+SCR 12,715,House,1990-05-24,Adopted,,155,7
+SCR 12,715,House,1990-05-24,Rules suspended,,154,6
+SCR 12,715,House,1990-05-23,Referred to Rules and Resolutions,,145,5
+SCR 12,715,House,1990-05-23,Received from the Senate,,144,4
+SCR 12,715,Senate,1990-05-22,Read & adopted,,147,3
+SCR 12,715,Senate,1990-05-22,Rules suspended,,147,2
+SCR 12,715,Senate,1990-05-22,Filed,,,1
+SCR 15,715,House,1990-05-25,Received from the Senate,,166,4
+SCR 15,715,Senate,1990-05-24,Read & adopted,,154,3
+SCR 15,715,Senate,1990-05-24,Rules suspended,,154,2
+SCR 15,715,Senate,1990-05-24,Filed,,,1
+SCR 13,715,House,1990-05-24,"Referred to State, Fed. & Intl. Relations",,151,5
+SCR 13,715,House,1990-05-24,Received from the Senate,,150,4
+SCR 13,715,Senate,1990-05-23,Read & adopted,,151,3
+SCR 13,715,Senate,1990-05-23,Rules suspended,,151,2
+SCR 13,715,Senate,1990-05-22,Filed,,,1
+SR 30,715,Senate,1990-05-08,Read & adopted,,39,1
+SR 68,715,Senate,1990-05-17,Read & adopted,,141,1
+SR 85,715,Senate,1990-05-22,Read & adopted,,147,1
+SR 88,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 123,715,Senate,1990-05-30,Read & adopted,,173,1
+SB 31,715,Senate,1990-05-24,Meeting canceled,,,5
+SB 31,715,Senate,1990-05-24,Scheduled for public hearing on  . . . . . .,,,4
+SB 31,715,Senate,1990-05-03,Referred to Economic Development,,7,3
+SB 31,715,Senate,1990-05-03,Read first time,,7,2
+SB 31,715,Senate,1990-05-03,Filed,,,1
+SCR 14,715,Senate,1990-06-13,Signed by the Governor,,175,12
+SCR 14,715,Senate,1990-05-31,Sent to the Governor,,174,11
+SCR 14,715,House,1990-05-25,Signed in the House,,166,10
+SCR 14,715,Senate,1990-05-25,Signed in the Senate,,156,9
+SCR 14,715,Senate,1990-05-24,House passage reported,,153,8
+SCR 14,715,House,1990-05-24,Sent to the Senate,,,7
+SCR 14,715,House,1990-05-24,Adopted,,162,6
+SCR 14,715,House,1990-05-24,Rules suspended,,162,5
+SCR 14,715,House,1990-05-24,Received from the Senate,,150,4
+SCR 14,715,Senate,1990-05-23,Read & adopted,,151,3
+SCR 14,715,Senate,1990-05-23,Rules suspended,,151,2
+SCR 14,715,Senate,1990-05-23,Filed,,,1
+SR 24,715,Senate,1990-05-07,Read & adopted,,33,1
+SR 98,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 109,715,Senate,1990-05-29,Read & adopted,,167,1
+SR 111,715,Senate,1990-05-30,Read & adopted,,173,1
+SR 122,715,Senate,1990-05-30,Read & adopted,,174,1
+SB 70,715,Senate,1990-05-15,Referred to Criminal Justice,,124,3
+SB 70,715,Senate,1990-05-15,Read first time,,124,2
+SB 70,715,Senate,1990-05-15,Filed,,,1
+SB 80,715,Senate,1990-05-23,Referred to Finance,,149,3
+SB 80,715,Senate,1990-05-23,Read first time,,149,2
+SB 80,715,Senate,1990-05-23,Filed,,,1
+SR 54,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 80,715,Senate,1990-05-22,Read & adopted,,147,1
+SB 57,715,House,1990-05-21,Referred to State Affairs,,134,16
+SB 57,715,House,1990-05-21,Read first time,,134,15
+SB 57,715,House,1990-05-17,Received from the Senate,,119,14
+SB 57,715,Senate,1990-05-15,Record vote,,131,13
+SB 57,715,Senate,1990-05-15,Passed,,131,12
+SB 57,715,Senate,1990-05-15,Read 3rd time,,131,11
+SB 57,715,Senate,1990-05-15,Record vote,,131,10
+SB 57,715,Senate,1990-05-15,Rules suspended,,131,9
+SB 57,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,131,8
+SB 57,715,Senate,1990-05-15,Rules suspended,,131,7
+SB 57,715,Senate,1990-05-14,Reported favorably w/o amendments,,85,6
+SB 57,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 57,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 57,715,Senate,1990-05-10,Referred to State Affairs,,79,3
+SB 57,715,Senate,1990-05-10,Read first time,,79,2
+SB 57,715,Senate,1990-05-10,Filed,,,1
+SCR 2,715,Senate,1990-05-15,Posting rule suspended,,137,4
+SCR 2,715,Senate,1990-05-03,Referred to Jurisprudence,,6,3
+SCR 2,715,Senate,1990-05-03,Read first time,,6,2
+SCR 2,715,Senate,1990-05-03,Filed,,,1
+SCR 3,715,Senate,1990-05-03,Referred to Jurisprudence,,7,3
+SCR 3,715,Senate,1990-05-03,Read first time,,7,2
+SCR 3,715,Senate,1990-05-03,Filed,,,1
+SR 25,715,Senate,1990-05-08,Read & adopted,,39,1
+SR 58,715,Senate,1990-05-17,Read & adopted,,140,1
+SR 117,715,Senate,1990-05-30,Read & adopted,,173,1
+SB 1,715,Senate,1990-05-29,House fails to override Gov.'s veto,,166,96
+SB 1,715,House,1990-05-29,Record vote,,192,95
+SB 1,715,House,1990-05-29,House fails to override Gov.'s veto,,192,94
+SB 1,715,House,1990-05-24,Senate overrides Governor's veto,,150,93
+SB 1,715,Senate,1990-05-23,Record vote,,149,92
+SB 1,715,Senate,1990-05-23,Senate overrides the Governor's veto,,149,91
+SB 1,715,Senate,1990-05-22,Motion withdrawn,,147,90
+SB 1,715,Senate,1990-05-22,Motion to override the Governor's veto,,147,89
+SB 1,715,Senate,1990-05-22,Vetoed by the Governor,,148,88
+SB 1,715,Senate,1990-05-16,Sent to the Governor,,141,87
+SB 1,715,House,1990-05-15,Signed in the House,,115,86
+SB 1,715,Senate,1990-05-15,Signed in the Senate,,137,85
+SB 1,715,House,1990-05-15,Senate adopted conf. comm. report,,115,84
+SB 1,715,Senate,1990-05-15,Reason for vote recorded in Journal,,135,83
+SB 1,715,Senate,1990-05-15,Member vote recorded in Journal,,135,82
+SB 1,715,Senate,1990-05-15,Senate adopts conference comm. rept.,,135,81
+SB 1,715,House,1990-05-15,Record vote,,113,80
+SB 1,715,House,1990-05-15,House adopted conference comm. report,,113,79
+SB 1,715,Senate,1990-05-14,Conference comm. report read & filed,,86,78
+SB 1,715,Senate,1990-05-11,Scheduled for conf. committee meeting,,,77
+SB 1,715,Senate,1990-05-10,Scheduled for conf. committee meeting,,,76
+SB 1,715,House,1990-05-10,Rules suspended,,113,75
+SB 1,715,House,1990-05-10,House conferees appointed,,87,74
+SB 1,715,House,1990-05-10,House grants request for conf. comm.,,87,73
+SB 1,715,House,1990-05-10,Senate conferees appointed,,76,72
+SB 1,715,House,1990-05-10,Senate requests conference committee,,76,71
+SB 1,715,House,1990-05-10,S. refused to concur in House amdt(s),,76,70
+SB 1,715,Senate,1990-05-09,Senate conferees appointed,,77,69
+SB 1,715,Senate,1990-05-09,Senate requests conference committee,,77,68
+SB 1,715,Senate,1990-05-09,S. refuses to concur in H. amendments,,77,67
+SB 1,715,Senate,1990-05-09,House amendment laid before the Senate,,40,66
+SB 1,715,Senate,1990-05-09,House passage as amended reported,,39,65
+SB 1,715,House,1990-05-09,Sent to the Senate as amended,,,64
+SB 1,715,House,1990-05-09,Passed,,73,63
+SB 1,715,House,1990-05-09,Read 3rd time,,73,62
+SB 1,715,House,1990-05-09,Record vote,,70,61
+SB 1,715,House,1990-05-09,Passed to 3rd reading as amended,,70,60
+SB 1,715,House,1990-05-09,Record vote,,69,59
+SB 1,715,House,1990-05-09,Amendment tabled,,69,58
+SB 1,715,House,1990-05-09,Amendment(s) offered,,,57
+SB 1,715,House,1990-05-09,Amended,,,56
+SB 1,715,House,1990-05-09,Record vote,,68,55
+SB 1,715,House,1990-05-09,Motion to table lost,,68,54
+SB 1,715,House,1990-05-09,Amendment(s) offered,,69,53
+SB 1,715,House,1990-05-09,Record vote,,67,52
+SB 1,715,House,1990-05-09,Amendment tabled,,67,51
+SB 1,715,House,1990-05-09,Amendment(s) offered,,68,50
+SB 1,715,House,1990-05-09,Record vote,,66,49
+SB 1,715,House,1990-05-09,Amended,,69,48
+SB 1,715,House,1990-05-09,Record vote,,65,47
+SB 1,715,House,1990-05-09,Amendment tabled,,65,46
+SB 1,715,House,1990-05-09,Amendment(s) offered,,67,45
+SB 1,715,House,1990-05-09,Amendment tabled,,58,44
+SB 1,715,House,1990-05-09,Amendment(s) offered,,58,43
+SB 1,715,House,1990-05-09,Record vote,,53,42
+SB 1,715,House,1990-05-09,Amendment tabled,,53,41
+SB 1,715,House,1990-05-09,Amendment(s) offered,,55,40
+SB 1,715,House,1990-05-09,Amended,,66,39
+SB 1,715,House,1990-05-09,Read 2nd time (comm. substitute),,,38
+SB 1,715,House,1990-05-09,Placed on General State Calendar,,,37
+SB 1,715,House,1990-05-08,1st Printing sent to Comm. on Cal.,,,36
+SB 1,715,House,1990-05-07,Reported favorably with substitute,,,35
+SB 1,715,House,1990-05-07,Considered in formal meeting,,,34
+SB 1,715,House,1990-05-07,Referred to Public Education,,,33
+SB 1,715,House,1990-05-07,Read first time,,,32
+SB 1,715,House,1990-05-07,Received from the Senate,,,31
+SB 1,715,Senate,1990-05-07,Reason for vote recorded in Journal,,32,30
+SB 1,715,Senate,1990-05-07,Member vote recorded in Journal,,32,29
+SB 1,715,Senate,1990-05-07,Passed,,31,28
+SB 1,715,Senate,1990-05-07,Read 3rd time,,31,27
+SB 1,715,Senate,1990-05-07,Record vote,,31,26
+SB 1,715,Senate,1990-05-07,Rules suspended,,31,25
+SB 1,715,Senate,1990-05-07,Member vote recorded in Journal,,29,24
+SB 1,715,Senate,1990-05-07,Passed to engrossment as amended,,29,23
+SB 1,715,Senate,1990-05-07,Amendment tabled,,29,22
+SB 1,715,Senate,1990-05-07,Amendment(s) offered,,29,21
+SB 1,715,Senate,1990-05-07,Member vote recorded in Journal,,29,20
+SB 1,715,Senate,1990-05-07,Amendment tabled,,29,19
+SB 1,715,Senate,1990-05-07,Amendment(s) offered,,29,18
+SB 1,715,Senate,1990-05-07,Record vote,,29,17
+SB 1,715,Senate,1990-05-07,Amendment tabled,,28,16
+SB 1,715,Senate,1990-05-07,Amendment(s) offered,,25,15
+SB 1,715,Senate,1990-05-07,Amendment tabled,,24,14
+SB 1,715,Senate,1990-05-07,Amendment(s) offered,,24,13
+SB 1,715,Senate,1990-05-07,Amended,,24,12
+SB 1,715,Senate,1990-05-07,Amended,,23,11
+SB 1,715,Senate,1990-05-07,Read second time,,23,10
+SB 1,715,Senate,1990-05-07,Rules suspended,,23,9
+SB 1,715,Senate,1990-05-07,Reported favorably with substitute,,11,8
+SB 1,715,Senate,1990-05-03,Testimony taken in committee,,,7
+SB 1,715,Senate,1990-05-03,Considered in public hearing,,,6
+SB 1,715,Senate,1990-05-02,Scheduled for public hearing on  . . . . . .,,,5
+SB 1,715,Senate,1990-05-02,Posting rule suspended,,6,4
+SB 1,715,Senate,1990-05-02,Referred to Education,,2,3
+SB 1,715,Senate,1990-05-02,Read first time,,2,2
+SB 1,715,Senate,1990-05-01,Filed,,,1
+SCR 8,715,Senate,1990-06-05,Signed by the Governor,,175,12
+SCR 8,715,Senate,1990-05-21,Sent to the Governor,,142,11
+SCR 8,715,House,1990-05-21,Signed in the House,,133,10
+SCR 8,715,Senate,1990-05-17,Signed in the Senate,,144,9
+SCR 8,715,Senate,1990-05-15,House passage reported,,124,8
+SCR 8,715,House,1990-05-15,Sent to the Senate,,,7
+SCR 8,715,House,1990-05-15,Adopted,,99,6
+SCR 8,715,House,1990-05-15,Rules suspended,,99,5
+SCR 8,715,House,1990-05-15,Received from the Senate,,98,4
+SCR 8,715,Senate,1990-05-14,Read & adopted,,123,3
+SCR 8,715,Senate,1990-05-14,Rules suspended,,123,2
+SCR 8,715,Senate,1990-05-14,Filed,,,1
+SCR 10,715,House,1990-05-23,Referred to House Administration,,145,13
+SCR 10,715,House,1990-05-23,Received from the Senate,,144,12
+SCR 10,715,Senate,1990-05-22,Adopted,,144,11
+SCR 10,715,Senate,1990-05-22,Read second time,,144,10
+SCR 10,715,Senate,1990-05-22,Rules suspended,,144,9
+SCR 10,715,Senate,1990-05-22,Printing rule suspended,,144,8
+SCR 10,715,Senate,1990-05-22,Co-author authorized,,144,7
+SCR 10,715,Senate,1990-05-22,Reported favorably w/o amendments,,143,6
+SCR 10,715,Senate,1990-05-21,Considered in public hearing,,,5
+SCR 10,715,Senate,1990-05-21,Scheduled for public hearing on  . . . . . .,,,4
+SCR 10,715,Senate,1990-05-17,Referred to Administration,,140,3
+SCR 10,715,Senate,1990-05-17,Read first time,,140,2
+SCR 10,715,Senate,1990-05-17,Filed,,,1
+SR 2,715,Senate,1990-05-02,Read & adopted,,6,1
+SR 5,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 6,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 26,715,Senate,1990-05-08,Read & adopted,,39,1
+SR 27,715,Senate,1990-05-08,Read & adopted,,39,1
+SR 28,715,Senate,1990-05-08,Read & adopted,,39,1
+SR 32,715,Senate,1990-05-09,Read & adopted,,77,1
+SR 110,715,Senate,1990-05-29,Read & adopted,,165,1
+SB 10,715,House,1990-05-22,Reported favorably w/o amendment(s),,163,20
+SB 10,715,House,1990-05-22,Considered in formal meeting,,,19
+SB 10,715,House,1990-05-14,Referred to Appropriations,,95,18
+SB 10,715,House,1990-05-14,Read first time,,95,17
+SB 10,715,House,1990-05-08,Received from the Senate,,,16
+SB 10,715,Senate,1990-05-08,Record vote,,36,15
+SB 10,715,Senate,1990-05-08,Passed,,36,14
+SB 10,715,Senate,1990-05-08,Read 3rd time,,36,13
+SB 10,715,Senate,1990-05-08,Record vote,,36,12
+SB 10,715,Senate,1990-05-08,Rules suspended,,36,11
+SB 10,715,Senate,1990-05-08,Read 2nd time & passed to engrossment,,36,10
+SB 10,715,Senate,1990-05-08,Rules suspended,,36,9
+SB 10,715,Senate,1990-05-08,Reported favorably w/o amendments,,33,8
+SB 10,715,Senate,1990-05-08,Testimony taken in committee,,,7
+SB 10,715,Senate,1990-05-08,Considered in public hearing,,,6
+SB 10,715,Senate,1990-05-08,Scheduled for public hearing on  . . . . . .,,,5
+SB 10,715,Senate,1990-05-07,Posting rule suspended,,32,4
+SB 10,715,Senate,1990-05-02,Referred to Finance,,3,3
+SB 10,715,Senate,1990-05-02,Read first time,,3,2
+SB 10,715,Senate,1990-05-02,Filed,,,1
+SR 59,715,Senate,1990-05-17,Read & adopted,,140,1
+SR 112,715,Senate,1990-05-30,Read & adopted,,173,1
+SR 118,715,Senate,1990-05-30,Read & adopted,,173,1
+SB 22,715,Senate,1990-05-03,Referred to Economic Development,,7,3
+SB 22,715,Senate,1990-05-03,Read first time,,7,2
+SB 22,715,Senate,1990-05-03,Filed,,,1
+SB 39,715,Senate,1990-05-07,Referred to Education,,11,3
+SB 39,715,Senate,1990-05-07,Read first time,,11,2
+SB 39,715,Senate,1990-05-04,Filed,,,1
+SB 23,715,House,1990-05-07,Referred to Criminal Jurisprudence,,,16
+SB 23,715,House,1990-05-07,Read first time,,,15
+SB 23,715,House,1990-05-07,Received from the Senate,,,14
+SB 23,715,Senate,1990-05-07,Record vote,,23,13
+SB 23,715,Senate,1990-05-07,Passed,,23,12
+SB 23,715,Senate,1990-05-07,Read 3rd time,,23,11
+SB 23,715,Senate,1990-05-07,Record vote,,23,10
+SB 23,715,Senate,1990-05-07,Rules suspended,,23,9
+SB 23,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,22,8
+SB 23,715,Senate,1990-05-07,Rules suspended,,22,7
+SB 23,715,Senate,1990-05-07,Reported favorably with substitute,,11,6
+SB 23,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 23,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 23,715,Senate,1990-05-03,Referred to Administration,,7,3
+SB 23,715,Senate,1990-05-03,Read first time,,7,2
+SB 23,715,Senate,1990-05-02,Filed,,,1
+SB 24,715,House,1990-05-21,Referred to Environmental Affairs,,134,16
+SB 24,715,House,1990-05-21,Read first time,,134,15
+SB 24,715,House,1990-05-17,Received from the Senate,,119,14
+SB 24,715,Senate,1990-05-15,Passed,,130,13
+SB 24,715,Senate,1990-05-15,Read 3rd time,,130,12
+SB 24,715,Senate,1990-05-15,Record vote,,130,11
+SB 24,715,Senate,1990-05-15,Rules suspended,,130,10
+SB 24,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,130,9
+SB 24,715,Senate,1990-05-15,Rules suspended,,130,8
+SB 24,715,Senate,1990-05-14,Reported favorably w/o amendments,,83,7
+SB 24,715,Senate,1990-05-14,Testimony taken in committee,,,6
+SB 24,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 24,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 24,715,Senate,1990-05-03,Referred to Health & Human Services,,7,3
+SB 24,715,Senate,1990-05-03,Read first time,,7,2
+SB 24,715,Senate,1990-05-02,Filed,,,1
+SB 25,715,House,1990-05-25,Received from the Senate,,173,16
+SB 25,715,Senate,1990-05-25,Record vote,,157,15
+SB 25,715,Senate,1990-05-25,Passed,,157,14
+SB 25,715,Senate,1990-05-25,Read 3rd time,,157,13
+SB 25,715,Senate,1990-05-25,Record vote,,157,12
+SB 25,715,Senate,1990-05-25,Rules suspended,,157,11
+SB 25,715,Senate,1990-05-25,Read 2nd time & passed to engrossment,,157,10
+SB 25,715,Senate,1990-05-25,Rules suspended,,156,9
+SB 25,715,Senate,1990-05-17,Reported favorably w/o amendments,,139,8
+SB 25,715,Senate,1990-05-15,Considered in public hearing,,,7
+SB 25,715,Senate,1990-05-15,Posting rule suspended,,137,6
+SB 25,715,Senate,1990-05-08,Referred to Administration,,38,5
+SB 25,715,Senate,1990-05-08,Rereferred to committee,,38,4
+SB 25,715,Senate,1990-05-03,Referred to Economic Development,,7,3
+SB 25,715,Senate,1990-05-03,Read first time,,7,2
+SB 25,715,Senate,1990-05-02,Filed,,,1
+SB 26,715,Senate,1990-05-03,Referred to Health & Human Services,,7,3
+SB 26,715,Senate,1990-05-03,Read first time,,7,2
+SB 26,715,Senate,1990-05-02,Filed,,,1
+SB 27,715,House,1990-05-07,Referred to Environmental Affairs,,,15
+SB 27,715,House,1990-05-07,Read first time,,,14
+SB 27,715,House,1990-05-07,Received from the Senate,,,13
+SB 27,715,Senate,1990-05-07,Passed,,23,12
+SB 27,715,Senate,1990-05-07,Read 3rd time,,23,11
+SB 27,715,Senate,1990-05-07,Record vote,,23,10
+SB 27,715,Senate,1990-05-07,Rules suspended,,23,9
+SB 27,715,Senate,1990-05-07,Read 2nd time & passed to engrossment,,23,8
+SB 27,715,Senate,1990-05-07,Rules suspended,,23,7
+SB 27,715,Senate,1990-05-07,Reported favorably w/o amendments,,11,6
+SB 27,715,Senate,1990-05-07,Considered in public hearing,,,5
+SB 27,715,Senate,1990-05-07,Scheduled for public hearing on  . . . . . .,,,4
+SB 27,715,Senate,1990-05-03,Referred to Administration,,7,3
+SB 27,715,Senate,1990-05-03,Read first time,,7,2
+SB 27,715,Senate,1990-05-02,Filed,,,1
+SB 34,715,House,1990-05-21,Referred to Transportation,,134,16
+SB 34,715,House,1990-05-21,Read first time,,134,15
+SB 34,715,House,1990-05-17,Received from the Senate,,119,14
+SB 34,715,Senate,1990-05-15,Record vote,,130,13
+SB 34,715,Senate,1990-05-15,Passed,,130,12
+SB 34,715,Senate,1990-05-15,Read 3rd time,,130,11
+SB 34,715,Senate,1990-05-15,Record vote,,130,10
+SB 34,715,Senate,1990-05-15,Rules suspended,,130,9
+SB 34,715,Senate,1990-05-15,Read 2nd time & passed to engrossment,,130,8
+SB 34,715,Senate,1990-05-15,Rules suspended,,130,7
+SB 34,715,Senate,1990-05-14,Reported favorably w/o amendments,,85,6
+SB 34,715,Senate,1990-05-14,Considered in public hearing,,,5
+SB 34,715,Senate,1990-05-14,Scheduled for public hearing on  . . . . . .,,,4
+SB 34,715,Senate,1990-05-07,Referred to State Affairs,,11,3
+SB 34,715,Senate,1990-05-07,Read first time,,11,2
+SB 34,715,Senate,1990-05-03,Filed,,,1
+SB 35,715,Senate,1990-06-14,Effective immediately,,,38
+SB 35,715,Senate,1990-06-14,Signed by the Governor,,175,37
+SB 35,715,Senate,1990-06-01,Sent to the Governor,,174,36
+SB 35,715,Senate,1990-05-30,Sent to the Comptroller,,174,35
+SB 35,715,House,1990-05-29,Signed in the House,,194,34
+SB 35,715,Senate,1990-05-29,Signed in Sen. Art III Sec 49a Tx Con,,167,33
+SB 35,715,Senate,1990-05-29,House passage reported,,161,32
+SB 35,715,House,1990-05-29,Sent to the Senate,,,31
+SB 35,715,House,1990-05-28,Subject to Art. III Sec. 49a Tx Con.,,179,30
+SB 35,715,House,1990-05-28,Record vote,,179,29
+SB 35,715,House,1990-05-28,Passed,,179,28
+SB 35,715,House,1990-05-28,Read 3rd time,,179,27
+SB 35,715,House,1990-05-28,Record vote,,178,26
+SB 35,715,House,1990-05-28,Rules suspended,,178,25
+SB 35,715,House,1990-05-28,Passed to 3rd reading,,178,24
+SB 35,715,House,1990-05-28,Read 2nd time,,178,23
+SB 35,715,House,1990-05-28,Placed on General State Calendar,,,22
+SB 35,715,House,1990-05-25,1st Printing sent to Comm. on Cal.,,,21
+SB 35,715,House,1990-05-25,Reported favorably w/o amendment(s),,195,20
+SB 35,715,House,1990-05-25,Considered in formal meeting,,,19
+SB 35,715,House,1990-05-14,Referred to Appropriations,,95,18
+SB 35,715,House,1990-05-14,Read first time,,95,17
+SB 35,715,House,1990-05-08,Received from the Senate,,,16
+SB 35,715,Senate,1990-05-08,Record vote,,36,15
+SB 35,715,Senate,1990-05-08,Passed,,36,14
+SB 35,715,Senate,1990-05-08,Read 3rd time,,36,13
+SB 35,715,Senate,1990-05-08,Record vote,,36,12
+SB 35,715,Senate,1990-05-08,Rules suspended,,36,11
+SB 35,715,Senate,1990-05-08,Read 2nd time & passed to engrossment,,36,10
+SB 35,715,Senate,1990-05-08,Rules suspended,,36,9
+SB 35,715,Senate,1990-05-08,Reported favorably w/o amendments,,33,8
+SB 35,715,Senate,1990-05-08,Testimony taken in committee,,,7
+SB 35,715,Senate,1990-05-08,Considered in public hearing,,,6
+SB 35,715,Senate,1990-05-08,Scheduled for public hearing on  . . . . . .,,,5
+SB 35,715,Senate,1990-05-07,Posting rule suspended,,32,4
+SB 35,715,Senate,1990-05-07,Referred to Finance,,11,3
+SB 35,715,Senate,1990-05-07,Read first time,,11,2
+SB 35,715,Senate,1990-05-03,Filed,,,1
+SB 75,715,Senate,1990-05-21,Referred to Criminal Justice,,141,3
+SB 75,715,Senate,1990-05-21,Read first time,,141,2
+SB 75,715,Senate,1990-05-18,Filed,,,1
+SCR 6,715,Senate,1990-06-05,Signed by the Governor,,175,15
+SCR 6,715,Senate,1990-05-21,Sent to the Governor,,142,14
+SCR 6,715,House,1990-05-21,Signed in the House,,133,13
+SCR 6,715,Senate,1990-05-21,Signed in the Senate,,142,12
+SCR 6,715,Senate,1990-05-17,House passage reported,,139,11
+SCR 6,715,House,1990-05-17,Sent to the Senate,,,10
+SCR 6,715,House,1990-05-17,Adopted,,122,9
+SCR 6,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,8
+SCR 6,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,7
+SCR 6,715,House,1990-05-15,Considered in formal meeting,,,6
+SCR 6,715,House,1990-05-14,Referred to Rules and Resolutions,,92,5
+SCR 6,715,House,1990-05-10,Received from the Senate,,76,4
+SCR 6,715,Senate,1990-05-09,Read & adopted,,77,3
+SCR 6,715,Senate,1990-05-09,Rules suspended,,77,2
+SCR 6,715,Senate,1990-05-09,Filed,,,1
+SR 73,715,Senate,1990-05-21,Read & adopted,,142,1
+SR 66,715,Senate,1990-05-17,Read & adopted,,141,1
+SR 81,715,Senate,1990-05-22,Read & adopted,,147,1
+SR 107,715,Senate,1990-05-25,Read & adopted,,160,1
+SR 108,715,Senate,1990-05-29,Read & adopted,,167,1
+SR 113,715,Senate,1990-05-30,Read & adopted,,173,1
+SB 9,715,Senate,1990-05-02,Referred to Education,,3,3
+SB 9,715,Senate,1990-05-02,Read first time,,3,2
+SB 9,715,Senate,1990-05-02,Filed,,,1
+SJR 2,715,Senate,1990-05-02,Referred to State Affairs,,2,3
+SJR 2,715,Senate,1990-05-02,Read first time,,2,2
+SJR 2,715,Senate,1990-05-02,Filed,,,1
+SJR 3,715,Senate,1990-05-02,Referred to State Affairs,,2,3
+SJR 3,715,Senate,1990-05-02,Read first time,,2,2
+SJR 3,715,Senate,1990-05-02,Filed,,,1
+SR 56,715,Senate,1990-05-15,Read & adopted,,138,1
+SR 3,715,Senate,1990-05-03,Read & adopted,,8,1
+SR 7,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 8,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 9,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 10,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 11,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 12,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 13,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 14,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 15,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 16,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 17,715,Senate,1990-05-03,Read & adopted,,10,1
+SR 18,715,Senate,1990-05-03,Read & adopted,,10,1
+SR 19,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 20,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 21,715,Senate,1990-05-03,Read & adopted,,9,1
+SR 22,715,Senate,1990-05-03,Read & adopted,,10,1
+SR 38,715,Senate,1990-05-10,Read & adopted,,82,1
+SR 89,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 99,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 100,715,Senate,1990-05-23,Read & adopted,,152,1
+SR 101,715,Senate,1990-05-23,Read & adopted,,151,1
+SR 121,715,Senate,1990-05-30,Read & adopted,,174,1
+SR 114,715,Senate,1990-05-30,Read & adopted,,173,1
+HCR 8,715,House,1990-06-14,Signed by the Governor,,,24
+HCR 8,715,House,1990-05-24,Sent to the Governor,,173,23
+HCR 8,715,Senate,1990-05-24,Signed in the Senate,,153,22
+HCR 8,715,House,1990-05-24,Signed in the House,,150,21
+HCR 8,715,House,1990-05-23,Reported enrolled,,163,20
+HCR 8,715,House,1990-05-23,Returned from the Senate,,144,19
+HCR 8,715,Senate,1990-05-22,Adopted,,145,18
+HCR 8,715,Senate,1990-05-22,Read second time,,145,17
+HCR 8,715,Senate,1990-05-22,Rules suspended,,145,16
+HCR 8,715,Senate,1990-05-22,Printing rule suspended,,145,15
+HCR 8,715,Senate,1990-05-22,Reported favorably w/o amendments,,144,14
+HCR 8,715,Senate,1990-05-21,Considered in public hearing,,,13
+HCR 8,715,Senate,1990-05-21,Scheduled for public hearing on  . . . . . .,,,12
+HCR 8,715,Senate,1990-05-17,Referred to Jurisprudence,,140,11
+HCR 8,715,Senate,1990-05-17,Read first time,,139,10
+HCR 8,715,Senate,1990-05-17,Received from House,,139,9
+HCR 8,715,House,1990-05-17,Sent to the Senate,,,8
+HCR 8,715,House,1990-05-17,Adopted,,128,7
+HCR 8,715,House,1990-05-17,Placed on General State Calendar,,,6
+HCR 8,715,House,1990-05-15,1st Printing sent to Comm. on Cal.,,,5
+HCR 8,715,House,1990-05-10,Reported favorably w/o amendment(s),,96,4
+HCR 8,715,House,1990-05-10,Considered in formal meeting,,,3
+HCR 8,715,House,1990-05-07,Referred to Judicial Affairs,,,2
+HCR 8,715,House,1990-05-07,Filed,,,1
+HR 48,715,House,1990-05-09,Reported enrolled,,,4
+HR 48,715,House,1990-05-09,Adopted,,,3
+HR 48,715,House,1990-05-09,Rules suspended,,,2
+HR 48,715,House,1990-05-09,Filed,,,1
+HCR 26,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 26,715,House,1990-05-30,Sent to the Governor,,195,12
+HCR 26,715,Senate,1990-05-30,Signed in the Senate,,168,11
+HCR 26,715,House,1990-05-29,Signed in the House,,193,10
+HCR 26,715,House,1990-05-29,Reported enrolled,,195,9
+HCR 26,715,House,1990-05-29,Returned from the Senate,,188,8
+HCR 26,715,Senate,1990-05-29,Read & adopted,,167,7
+HCR 26,715,Senate,1990-05-29,Rules suspended,,167,6
+HCR 26,715,Senate,1990-05-24,Received from House,,153,5
+HCR 26,715,House,1990-05-24,Sent to the Senate,,,4
+HCR 26,715,House,1990-05-24,Adopted,,155,3
+HCR 26,715,House,1990-05-24,Rules suspended,,155,2
+HCR 26,715,House,1990-05-23,Filed,,,1
+HR 15,715,House,1990-05-10,Reported enrolled,,,7
+HR 15,715,House,1990-05-10,Adopted,,78,6
+HR 15,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 15,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 15,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 15,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 15,715,House,1990-05-02,Filed,,,1
+HR 76,715,House,1990-05-15,Reported enrolled,,,4
+HR 76,715,House,1990-05-15,Adopted,,99,3
+HR 76,715,House,1990-05-15,Rules suspended,,99,2
+HR 76,715,House,1990-05-14,Filed,,,1
+HR 89,715,House,1990-05-15,Reported enrolled,,,4
+HR 89,715,House,1990-05-15,Adopted,,99,3
+HR 89,715,House,1990-05-15,Rules suspended,,99,2
+HR 89,715,House,1990-05-15,Filed,,,1
+HCR 2,715,House,1990-06-05,Signed by the Governor,,,19
+HCR 2,715,House,1990-05-24,Sent to the Governor,,173,18
+HCR 2,715,Senate,1990-05-24,Signed in the Senate,,153,17
+HCR 2,715,House,1990-05-24,Signed in the House,,150,16
+HCR 2,715,House,1990-05-23,Reported enrolled,,163,15
+HCR 2,715,House,1990-05-23,Returned from the Senate,,144,14
+HCR 2,715,Senate,1990-05-22,Adopted,,145,13
+HCR 2,715,Senate,1990-05-22,Read second time,,145,12
+HCR 2,715,Senate,1990-05-22,Rules suspended,,145,11
+HCR 2,715,Senate,1990-05-17,Reported favorably w/o amendments,,139,10
+HCR 2,715,Senate,1990-05-15,Considered in public hearing,,,9
+HCR 2,715,Senate,1990-05-08,Referred to Administration,,35,8
+HCR 2,715,Senate,1990-05-08,Read first time,,34,7
+HCR 2,715,Senate,1990-05-08,Received from House,,34,6
+HCR 2,715,House,1990-05-08,Sent to the Senate,,,5
+HCR 2,715,House,1990-05-07,Adopted,,,4
+HCR 2,715,House,1990-05-07,Rules suspended,,,3
+HCR 2,715,House,1990-05-07,Referred to Agriculture & Livestock,,,2
+HCR 2,715,House,1990-05-02,Filed,,,1
+HCR 24,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 24,715,House,1990-05-24,Sent to the Governor,,173,12
+HCR 24,715,Senate,1990-05-24,Signed in the Senate,,153,11
+HCR 24,715,House,1990-05-24,Signed in the House,,150,10
+HCR 24,715,House,1990-05-23,Reported enrolled,,163,9
+HCR 24,715,House,1990-05-23,Returned from the Senate,,144,8
+HCR 24,715,Senate,1990-05-22,Read & adopted,,143,7
+HCR 24,715,Senate,1990-05-22,Rules suspended,,143,6
+HCR 24,715,Senate,1990-05-22,Received from House,,143,5
+HCR 24,715,House,1990-05-22,Sent to the Senate,,,4
+HCR 24,715,House,1990-05-22,Adopted,,139,3
+HCR 24,715,House,1990-05-22,Rules suspended,,138,2
+HCR 24,715,House,1990-05-22,Filed,,,1
+HR 54,715,House,1990-05-10,Reported enrolled,,,4
+HR 54,715,House,1990-05-10,Adopted,,76,3
+HR 54,715,House,1990-05-10,Rules suspended,,76,2
+HR 54,715,House,1990-05-09,Filed,,,1
+HB 128,715,House,1990-05-22,Referred to Criminal Jurisprudence,,140,3
+HB 128,715,House,1990-05-22,Read first time,,140,2
+HB 128,715,House,1990-05-22,Filed,,,1
+HCR 29,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 29,715,House,1990-05-30,Sent to the Governor,,195,12
+HCR 29,715,Senate,1990-05-30,Signed in the Senate,,168,11
+HCR 29,715,House,1990-05-29,Signed in the House,,193,10
+HCR 29,715,House,1990-05-29,Reported enrolled,,195,9
+HCR 29,715,House,1990-05-29,Returned from the Senate,,188,8
+HCR 29,715,Senate,1990-05-29,Read & adopted,,167,7
+HCR 29,715,Senate,1990-05-29,Rules suspended,,167,6
+HCR 29,715,Senate,1990-05-29,Received from House,,161,5
+HCR 29,715,House,1990-05-29,Sent to the Senate,,,4
+HCR 29,715,House,1990-05-28,Adopted,,176,3
+HCR 29,715,House,1990-05-28,Rules suspended,,176,2
+HCR 29,715,House,1990-05-28,Filed,,,1
+HB 82,715,House,1990-05-14,Referred to Human Services,,93,3
+HB 82,715,House,1990-05-14,Read first time,,93,2
+HB 82,715,House,1990-05-09,Filed,,,1
+HB 124,715,House,1990-05-22,Referred to Criminal Jurisprudence,,139,3
+HB 124,715,House,1990-05-22,Read first time,,139,2
+HB 124,715,House,1990-05-22,Filed,,,1
+HB 125,715,House,1990-05-22,Referred to Criminal Jurisprudence,,139,3
+HB 125,715,House,1990-05-22,Read first time,,139,2
+HB 125,715,House,1990-05-22,Filed,,,1
+HB 126,715,House,1990-05-22,Referred to Criminal Jurisprudence,,139,3
+HB 126,715,House,1990-05-22,Read first time,,139,2
+HB 126,715,House,1990-05-22,Filed,,,1
+HB 127,715,House,1990-05-22,Referred to Public Health,,140,3
+HB 127,715,House,1990-05-22,Read first time,,140,2
+HB 127,715,House,1990-05-22,Filed,,,1
+HR 126,715,House,1990-05-17,Reported enrolled,,,4
+HR 126,715,House,1990-05-17,Adopted,,124,3
+HR 126,715,House,1990-05-17,Rules suspended,,123,2
+HR 126,715,House,1990-05-17,Filed,,,1
+HR 150,715,House,1990-05-24,Reported enrolled,,,7
+HR 150,715,House,1990-05-24,Adopted,,153,6
+HR 150,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 150,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 150,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 150,715,House,1990-05-22,Referred to Rules and Resolutions,,140,2
+HR 150,715,House,1990-05-22,Filed,,,1
+HB 40,715,House,1990-05-07,Referred to Ways & Means,,,3
+HB 40,715,House,1990-05-07,Read first time,,,2
+HB 40,715,House,1990-05-03,Filed,,,1
+HB 78,715,House,1990-05-14,Referred to Appropriations,,93,3
+HB 78,715,House,1990-05-14,Read first time,,93,2
+HB 78,715,House,1990-05-08,Filed,,,1
+HB 101,715,House,1990-05-14,Referred to Ways & Means,,95,3
+HB 101,715,House,1990-05-14,Read first time,,95,2
+HB 101,715,House,1990-05-11,Filed,,,1
+HCR 30,715,House,1990-05-30,Filed with the Secretary of State,,195,12
+HCR 30,715,Senate,1990-05-30,Signed in the Senate,,173,11
+HCR 30,715,House,1990-05-30,Signed in the House,,194,10
+HCR 30,715,House,1990-05-30,Reported enrolled,,195,9
+HCR 30,715,House,1990-05-30,Returned from the Senate,,194,8
+HCR 30,715,Senate,1990-05-30,Read & adopted,,173,7
+HCR 30,715,Senate,1990-05-30,Rules suspended,,173,6
+HCR 30,715,Senate,1990-05-29,Received from House,,166,5
+HCR 30,715,House,1990-05-29,Sent to the Senate,,,4
+HCR 30,715,House,1990-05-29,Adopted,,189,3
+HCR 30,715,House,1990-05-29,Rules suspended,,189,2
+HCR 30,715,House,1990-05-29,Filed,,,1
+HB 111,715,House,1990-05-15,Referred to Ways & Means,,102,3
+HB 111,715,House,1990-05-15,Read first time,,102,2
+HB 111,715,House,1990-05-15,Filed,,,1
+HB 112,715,House,1990-05-15,Referred to Labor & Employment Rel.,,102,3
+HB 112,715,House,1990-05-15,Read first time,,102,2
+HB 112,715,House,1990-05-15,Filed,,,1
+HR 23,715,House,1990-05-10,Reported enrolled,,,7
+HR 23,715,House,1990-05-10,Adopted,,78,6
+HR 23,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 23,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 23,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 23,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 23,715,House,1990-05-04,Filed,,,1
+HR 125,715,House,1990-05-17,Reported enrolled,,,4
+HR 125,715,House,1990-05-17,Adopted,,123,3
+HR 125,715,House,1990-05-17,Rules suspended,,123,2
+HR 125,715,House,1990-05-17,Filed,,,1
+HCR 5,715,House,1990-06-05,Signed by the Governor,,,16
+HCR 5,715,House,1990-05-22,Sent to the Governor,,147,15
+HCR 5,715,Senate,1990-05-22,Signed in the Senate,,144,14
+HCR 5,715,House,1990-05-21,Signed in the House,,132,13
+HCR 5,715,House,1990-05-17,Reported enrolled,,141,12
+HCR 5,715,House,1990-05-17,Returned from the Senate,,118,11
+HCR 5,715,Senate,1990-05-15,Read & adopted,,138,10
+HCR 5,715,Senate,1990-05-15,Rules suspended,,138,9
+HCR 5,715,Senate,1990-05-10,Received from House,,78,8
+HCR 5,715,House,1990-05-10,Sent to the Senate,,,7
+HCR 5,715,House,1990-05-10,Adopted,,77,6
+HCR 5,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 5,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HCR 5,715,House,1990-05-07,Considered in formal meeting,,,3
+HCR 5,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HCR 5,715,House,1990-05-07,Filed,,,1
+HCR 6,715,House,1990-06-05,Signed by the Governor,,,16
+HCR 6,715,House,1990-05-22,Sent to the Governor,,147,15
+HCR 6,715,Senate,1990-05-22,Signed in the Senate,,144,14
+HCR 6,715,House,1990-05-21,Signed in the House,,132,13
+HCR 6,715,House,1990-05-17,Reported enrolled,,141,12
+HCR 6,715,House,1990-05-17,Returned from the Senate,,118,11
+HCR 6,715,Senate,1990-05-15,Read & adopted,,138,10
+HCR 6,715,Senate,1990-05-15,Rules suspended,,138,9
+HCR 6,715,Senate,1990-05-10,Received from House,,78,8
+HCR 6,715,House,1990-05-10,Sent to the Senate,,,7
+HCR 6,715,House,1990-05-10,Adopted,,77,6
+HCR 6,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 6,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HCR 6,715,House,1990-05-07,Considered in formal meeting,,,3
+HCR 6,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HCR 6,715,House,1990-05-07,Filed,,,1
+HR 28,715,House,1990-05-10,Reported enrolled,,,7
+HR 28,715,House,1990-05-10,Adopted,,79,6
+HR 28,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 28,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 28,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 28,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 28,715,House,1990-05-07,Filed,,,1
+HR 29,715,House,1990-05-10,Reported enrolled,,,7
+HR 29,715,House,1990-05-10,Adopted,,77,6
+HR 29,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 29,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 29,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 29,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 29,715,House,1990-05-07,Filed,,,1
+HR 110,715,House,1990-05-24,Reported enrolled,,,7
+HR 110,715,House,1990-05-24,Adopted,,152,6
+HR 110,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 110,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 110,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 110,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 110,715,House,1990-05-16,Filed,,,1
+HR 111,715,House,1990-05-24,Reported enrolled,,,7
+HR 111,715,House,1990-05-24,Adopted,,151,6
+HR 111,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 111,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 111,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 111,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 111,715,House,1990-05-16,Filed,,,1
+HR 112,715,House,1990-05-24,Reported enrolled,,,7
+HR 112,715,House,1990-05-24,Adopted,,152,6
+HR 112,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 112,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 112,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 112,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 112,715,House,1990-05-16,Filed,,,1
+HR 113,715,House,1990-05-24,Reported enrolled,,,7
+HR 113,715,House,1990-05-24,Adopted,,152,6
+HR 113,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 113,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 113,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 113,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 113,715,House,1990-05-16,Filed,,,1
+HR 171,715,House,1990-05-29,Reported enrolled,,,8
+HR 171,715,House,1990-05-29,Adopted,,184,7
+HR 171,715,House,1990-05-29,Rules suspended,,,6
+HR 171,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 171,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 171,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 171,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 171,715,House,1990-05-24,Filed,,,1
+HR 187,715,House,1990-05-29,Reported enrolled,,,4
+HR 187,715,House,1990-05-29,Adopted,,187,3
+HR 187,715,House,1990-05-29,Rules suspended,,187,2
+HR 187,715,House,1990-05-29,Filed,,,1
+HR 188,715,House,1990-05-29,Reported enrolled,,,4
+HR 188,715,House,1990-05-29,Adopted,,188,3
+HR 188,715,House,1990-05-29,Rules suspended,,188,2
+HR 188,715,House,1990-05-29,Filed,,,1
+HR 189,715,House,1990-05-29,Reported enrolled,,,4
+HR 189,715,House,1990-05-29,Adopted,,188,3
+HR 189,715,House,1990-05-29,Rules suspended,,188,2
+HR 189,715,House,1990-05-29,Filed,,,1
+HCR 27,715,House,1990-06-01,Signed by the Governor,,,13
+HCR 27,715,House,1990-05-29,Sent to the Governor,,195,12
+HCR 27,715,Senate,1990-05-29,Signed in the Senate,,161,11
+HCR 27,715,House,1990-05-29,Signed in the House,,184,10
+HCR 27,715,House,1990-05-25,Reported enrolled,,182,9
+HCR 27,715,House,1990-05-25,Returned from the Senate,,172,8
+HCR 27,715,Senate,1990-05-25,Read & adopted,,160,7
+HCR 27,715,Senate,1990-05-25,Rules suspended,,160,6
+HCR 27,715,Senate,1990-05-24,Received from House,,160,5
+HCR 27,715,House,1990-05-24,Sent to the Senate,,,4
+HCR 27,715,House,1990-05-24,Adopted,,155,3
+HCR 27,715,House,1990-05-24,Rules suspended,,155,2
+HCR 27,715,House,1990-05-24,Filed,,,1
+HB 54,715,House,1990-05-07,Referred to Business & Commerce,,,3
+HB 54,715,House,1990-05-07,Read first time,,,2
+HB 54,715,House,1990-05-04,Filed,,,1
+HR 192,715,House,1990-05-29,Reported enrolled,,,4
+HR 192,715,House,1990-05-29,Adopted,,186,3
+HR 192,715,House,1990-05-29,Rules suspended,,186,2
+HR 192,715,House,1990-05-29,Filed,,,1
+HB 24,715,House,1990-06-19,Effective immediately,,,49
+HB 24,715,House,1990-06-19,Signed by the Governor,,,48
+HB 24,715,House,1990-05-30,Sent to the Governor,,195,47
+HB 24,715,Senate,1990-05-30,Signed in the Senate,,168,46
+HB 24,715,House,1990-05-29,Signed in the House,,193,45
+HB 24,715,House,1990-05-29,Reported enrolled,,195,44
+HB 24,715,House,1990-05-29,Returned from the Senate,,189,43
+HB 24,715,Senate,1990-05-29,Record vote,,166,42
+HB 24,715,Senate,1990-05-29,Passed,,166,41
+HB 24,715,Senate,1990-05-29,Read 3rd time,,166,40
+HB 24,715,Senate,1990-05-29,Rules suspended,,166,39
+HB 24,715,Senate,1990-05-29,Read 2nd time & passed to 3rd reading,,166,38
+HB 24,715,Senate,1990-05-29,Record vote,,166,37
+HB 24,715,Senate,1990-05-29,Rules suspended,,166,36
+HB 24,715,Senate,1990-05-29,Printing rule suspended,,166,35
+HB 24,715,Senate,1990-05-29,Reported favorably w/o amendments,,166,34
+HB 24,715,Senate,1990-05-29,Considered in public hearing,,,33
+HB 24,715,Senate,1990-05-29,Posting rule suspended,,163,32
+HB 24,715,Senate,1990-05-29,Referred to Health & Human Services,,161,31
+HB 24,715,Senate,1990-05-29,Read first time,,161,30
+HB 24,715,Senate,1990-05-29,Received from House,,161,29
+HB 24,715,House,1990-05-29,Sent to the Senate,,,28
+HB 24,715,House,1990-05-28,Reported engrossed,,182,27
+HB 24,715,House,1990-05-28,Record vote,,180,26
+HB 24,715,House,1990-05-28,Passed,,180,25
+HB 24,715,House,1990-05-28,Read 3rd time,,180,24
+HB 24,715,House,1990-05-28,Record vote,,180,23
+HB 24,715,House,1990-05-28,Rules suspended,,179,22
+HB 24,715,House,1990-05-28,Passed to engrossment,,179,21
+HB 24,715,House,1990-05-28,Read 2nd time,,179,20
+HB 24,715,House,1990-05-28,Placed on General State Calendar,,,19
+HB 24,715,House,1990-05-25,Returned to Calendars Committee,,,18
+HB 24,715,House,1990-05-25,Point of order sustained,,168,17
+HB 24,715,House,1990-05-25,Read 2nd time,,168,16
+HB 24,715,House,1990-05-25,Placed on General State Calendar,,,15
+HB 24,715,House,1990-05-24,Returned to Calendars Committee,,,14
+HB 24,715,House,1990-05-24,Point of order sustained,,156,13
+HB 24,715,House,1990-05-24,Read 2nd time,,156,12
+HB 24,715,House,1990-05-24,Placed on General State Calendar,,,11
+HB 24,715,House,1990-05-17,Returned to Calendars Committee,,,10
+HB 24,715,House,1990-05-17,Point of order sustained,,127,9
+HB 24,715,House,1990-05-17,Read 2nd time,,127,8
+HB 24,715,House,1990-05-17,Placed on General State Calendar,,,7
+HB 24,715,House,1990-05-15,1st Printing sent to Comm. on Cal.,,,6
+HB 24,715,House,1990-05-09,Reported favorably w/o amendment(s),,88,5
+HB 24,715,House,1990-05-09,Considered in formal meeting,,,4
+HB 24,715,House,1990-05-07,Referred to County Affairs,,,3
+HB 24,715,House,1990-05-07,Read first time,,,2
+HB 24,715,House,1990-05-02,Filed,,,1
+HB 74,715,House,1990-05-08,Referred to Judiciary,,,3
+HB 74,715,House,1990-05-08,Read first time,,,2
+HB 74,715,House,1990-05-08,Filed,,,1
+HB 92,715,House,1990-05-14,Referred to Insurance,,94,3
+HB 92,715,House,1990-05-14,Read first time,,94,2
+HB 92,715,House,1990-05-10,Filed,,,1
+HB 93,715,House,1990-05-22,Reported favorably w/o amendment(s),,163,6
+HB 93,715,House,1990-05-22,Considered in public hearing,,,5
+HB 93,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,4
+HB 93,715,House,1990-05-14,Referred to Insurance,,94,3
+HB 93,715,House,1990-05-14,Read first time,,94,2
+HB 93,715,House,1990-05-10,Filed,,,1
+HR 16,715,House,1990-05-10,Reported enrolled,,,7
+HR 16,715,House,1990-05-10,Adopted,,78,6
+HR 16,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 16,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 16,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 16,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 16,715,House,1990-05-03,Filed,,,1
+HR 122,715,House,1990-05-24,Reported enrolled,,,7
+HR 122,715,House,1990-05-24,Adopted,,153,6
+HR 122,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 122,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 122,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 122,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 122,715,House,1990-05-17,Filed,,,1
+HR 123,715,House,1990-05-17,Reported enrolled,,,4
+HR 123,715,House,1990-05-17,Adopted,,124,3
+HR 123,715,House,1990-05-17,Rules suspended,,124,2
+HR 123,715,House,1990-05-17,Filed,,,1
+HR 153,715,House,1990-05-22,Reported enrolled,,,4
+HR 153,715,House,1990-05-22,Adopted,,139,3
+HR 153,715,House,1990-05-22,Rules suspended,,139,2
+HR 153,715,House,1990-05-22,Filed,,,1
+HR 1,715,House,1990-05-14,Withdrawn from calendar,,,6
+HR 1,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 1,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 1,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 1,715,House,1990-05-02,Referred to Rules and Resolutions,,,2
+HR 1,715,House,1990-05-01,Filed,,,1
+HR 10,715,House,1990-05-02,Reported enrolled,,,4
+HR 10,715,House,1990-05-02,Adopted,,,3
+HR 10,715,House,1990-05-02,Rules suspended,,,2
+HR 10,715,House,1990-05-02,Filed,,,1
+HR 24,715,House,1990-05-10,Reported enrolled,,,7
+HR 24,715,House,1990-05-10,Adopted,,78,6
+HR 24,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 24,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 24,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 24,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 24,715,House,1990-05-04,Filed,,,1
+HR 41,715,House,1990-05-10,Reported enrolled,,,4
+HR 41,715,House,1990-05-10,Adopted,,79,3
+HR 41,715,House,1990-05-10,Rules suspended,,79,2
+HR 41,715,House,1990-05-08,Filed,,,1
+HR 42,715,House,1990-05-17,Reported enrolled,,,7
+HR 42,715,House,1990-05-17,Adopted,,120,6
+HR 42,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 42,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 42,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 42,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 42,715,House,1990-05-08,Filed,,,1
+HR 49,715,House,1990-05-17,Reported enrolled,,,7
+HR 49,715,House,1990-05-17,Adopted,,121,6
+HR 49,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 49,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 49,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 49,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 49,715,House,1990-05-09,Filed,,,1
+HR 94,715,House,1990-05-24,Reported enrolled,,,7
+HR 94,715,House,1990-05-24,Adopted,,151,6
+HR 94,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 94,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 94,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 94,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 94,715,House,1990-05-15,Filed,,,1
+HR 95,715,House,1990-05-24,Reported enrolled,,,7
+HR 95,715,House,1990-05-24,Adopted,,151,6
+HR 95,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 95,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 95,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 95,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 95,715,House,1990-05-17,Filed,,,1
+HR 97,715,House,1990-05-24,Reported enrolled,,,7
+HR 97,715,House,1990-05-24,Adopted,,152,6
+HR 97,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 97,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 97,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 97,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 97,715,House,1990-05-15,Filed,,,1
+HR 99,715,House,1990-05-25,Reported enrolled,,,5
+HR 99,715,House,1990-05-25,Adopted,,169,4
+HR 99,715,House,1990-05-25,Rules suspended,,169,3
+HR 99,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 99,715,House,1990-05-15,Filed,,,1
+HR 100,715,House,1990-05-24,Reported enrolled,,,7
+HR 100,715,House,1990-05-24,Adopted,,152,6
+HR 100,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 100,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 100,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 100,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 100,715,House,1990-05-15,Filed,,,1
+HR 101,715,House,1990-05-24,Reported enrolled,,,7
+HR 101,715,House,1990-05-24,Adopted,,152,6
+HR 101,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 101,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 101,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 101,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 101,715,House,1990-05-15,Filed,,,1
+HJR 6,715,House,1990-05-24,Filed,,,1
+HB 23,715,House,1990-05-02,Referred to State Affairs,,,3
+HB 23,715,House,1990-05-02,Read first time,,,2
+HB 23,715,House,1990-05-02,Filed,,,1
+HR 148,715,House,1990-05-24,Reported enrolled,,,7
+HR 148,715,House,1990-05-24,Adopted,,153,6
+HR 148,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 148,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 148,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 148,715,House,1990-05-22,Referred to Rules and Resolutions,,140,2
+HR 148,715,House,1990-05-22,Filed,,,1
+HR 157,715,House,1990-05-29,Reported enrolled,,,8
+HR 157,715,House,1990-05-29,Adopted,,184,7
+HR 157,715,House,1990-05-29,Rules suspended,,,6
+HR 157,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 157,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 157,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 157,715,House,1990-05-23,Referred to Rules and Resolutions,,145,2
+HR 157,715,House,1990-05-22,Filed,,,1
+HR 185,715,House,1990-05-29,Reported enrolled,,,4
+HR 185,715,House,1990-05-29,Adopted,,187,3
+HR 185,715,House,1990-05-29,Rules suspended,,187,2
+HR 185,715,House,1990-05-28,Filed,,,1
+HR 44,715,House,1990-05-09,Reported enrolled,,,4
+HR 44,715,House,1990-05-09,Adopted,,,3
+HR 44,715,House,1990-05-09,Rules suspended,,,2
+HR 44,715,House,1990-05-08,Filed,,,1
+HR 45,715,House,1990-05-09,Reported enrolled,,,4
+HR 45,715,House,1990-05-09,Adopted,,,3
+HR 45,715,House,1990-05-09,Rules suspended,,,2
+HR 45,715,House,1990-05-08,Filed,,,1
+HR 92,715,House,1990-05-15,Reported enrolled,,,4
+HR 92,715,House,1990-05-15,Adopted,,98,3
+HR 92,715,House,1990-05-15,Rules suspended,,98,2
+HR 92,715,House,1990-05-15,Filed,,,1
+HR 52,715,House,1990-05-09,Reported enrolled,,,4
+HR 52,715,House,1990-05-09,Adopted,,74,3
+HR 52,715,House,1990-05-09,Rules suspended,,73,2
+HR 52,715,House,1990-05-09,Filed,,,1
+HR 53,715,House,1990-05-09,Reported enrolled,,,4
+HR 53,715,House,1990-05-09,Adopted,,74,3
+HR 53,715,House,1990-05-09,Rules suspended,,74,2
+HR 53,715,House,1990-05-09,Filed,,,1
+HR 74,715,House,1990-05-14,Reported enrolled,,,4
+HR 74,715,House,1990-05-14,Adopted,,96,3
+HR 74,715,House,1990-05-14,Rules suspended,,96,2
+HR 74,715,House,1990-05-14,Filed,,,1
+HR 128,715,House,1990-05-17,Reported enrolled,,,4
+HR 128,715,House,1990-05-17,Adopted,,125,3
+HR 128,715,House,1990-05-17,Rules suspended,,125,2
+HR 128,715,House,1990-05-17,Filed,,,1
+HR 129,715,House,1990-05-17,Reported enrolled,,,4
+HR 129,715,House,1990-05-17,Adopted,,125,3
+HR 129,715,House,1990-05-17,Rules suspended,,125,2
+HR 129,715,House,1990-05-17,Filed,,,1
+HR 141,715,House,1990-05-21,Reported enrolled,,,4
+HR 141,715,House,1990-05-21,Adopted,,133,3
+HR 141,715,House,1990-05-21,Rules suspended,,133,2
+HR 141,715,House,1990-05-21,Filed,,,1
+HR 159,715,House,1990-05-23,Reported enrolled,,,4
+HR 159,715,House,1990-05-23,Adopted,,145,3
+HR 159,715,House,1990-05-23,Rules suspended,,145,2
+HR 159,715,House,1990-05-23,Filed,,,1
+HR 172,715,House,1990-05-25,Reported enrolled,,,4
+HR 172,715,House,1990-05-25,Adopted,,169,3
+HR 172,715,House,1990-05-25,Rules suspended,,169,2
+HR 172,715,House,1990-05-25,Filed,,,1
+HB 122,715,House,1990-05-21,Referred to State Affairs,,135,3
+HB 122,715,House,1990-05-21,Read first time,,135,2
+HB 122,715,House,1990-05-21,Filed,,,1
+HB 123,715,House,1990-05-24,Reported favorably w/o amendment(s),,195,6
+HB 123,715,House,1990-05-24,Considered in formal meeting,,,5
+HB 123,715,House,1990-05-24,Posting rule suspended,,158,4
+HB 123,715,House,1990-05-22,Referred to Higher Education,,139,3
+HB 123,715,House,1990-05-22,Read first time,,139,2
+HB 123,715,House,1990-05-22,Filed,,,1
+HB 134,715,House,1990-05-25,Filed,,,1
+HCR 28,715,House,1990-05-25,Filed,,,1
+HB 91,715,House,1990-05-14,Referred to Criminal Jurisprudence,,94,3
+HB 91,715,House,1990-05-14,Read first time,,94,2
+HB 91,715,House,1990-05-10,Filed,,,1
+HB 135,715,House,1990-05-25,Filed,,,1
+HJR 7,715,House,1990-05-29,Filed,,,1
+HR 93,715,House,1990-05-15,Reported enrolled,,,4
+HR 93,715,House,1990-05-15,Adopted,,100,3
+HR 93,715,House,1990-05-15,Rules suspended,,100,2
+HR 93,715,House,1990-05-15,Filed,,,1
+HR 169,715,House,1990-05-24,Reported enrolled,,,4
+HR 169,715,House,1990-05-24,Adopted,,156,3
+HR 169,715,House,1990-05-24,Rules suspended,,156,2
+HR 169,715,House,1990-05-24,Filed,,,1
+HR 173,715,House,1990-05-25,Reported enrolled,,,4
+HR 173,715,House,1990-05-25,Adopted,,169,3
+HR 173,715,House,1990-05-25,Rules suspended,,169,2
+HR 173,715,House,1990-05-25,Filed,,,1
+HR 174,715,House,1990-05-25,Reported enrolled,,,4
+HR 174,715,House,1990-05-25,Adopted,,169,3
+HR 174,715,House,1990-05-25,Rules suspended,,169,2
+HR 174,715,House,1990-05-25,Filed,,,1
+HR 8,715,House,1990-05-10,Reported enrolled,,,7
+HR 8,715,House,1990-05-10,Adopted,,78,6
+HR 8,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 8,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 8,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 8,715,House,1990-05-02,Referred to Rules and Resolutions,,,2
+HR 8,715,House,1990-05-02,Filed,,,1
+HB 14,715,House,1990-05-02,Referred to Judicial Affairs,,,3
+HB 14,715,House,1990-05-02,Read first time,,,2
+HB 14,715,House,1990-05-01,Filed,,,1
+HB 15,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,5
+HB 15,715,House,1990-05-22,Considered in formal meeting,,,4
+HB 15,715,House,1990-05-02,Referred to Ways & Means,,,3
+HB 15,715,House,1990-05-02,Read first time,,,2
+HB 15,715,House,1990-05-01,Filed,,,1
+HB 94,715,House,1990-05-14,Referred to Public Safety,,94,3
+HB 94,715,House,1990-05-14,Read first time,,94,2
+HB 94,715,House,1990-05-10,Filed,,,1
+HJR 1,715,House,1990-05-02,Referred to State Affairs,,,3
+HJR 1,715,House,1990-05-02,Read first time,,,2
+HJR 1,715,House,1990-05-02,Filed,,,1
+HR 75,715,House,1990-05-17,Reported enrolled,,,7
+HR 75,715,House,1990-05-17,Adopted,,120,6
+HR 75,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 75,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 75,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 75,715,House,1990-05-15,Referred to Rules and Resolutions,,102,2
+HR 75,715,House,1990-05-14,Filed,,,1
+HB 41,715,House,1990-05-07,Referred to Ways & Means,,,3
+HB 41,715,House,1990-05-07,Read first time,,,2
+HB 41,715,House,1990-05-03,Filed,,,1
+HB 42,715,House,1990-05-07,Referred to Judicial Affairs,,,3
+HB 42,715,House,1990-05-07,Read first time,,,2
+HB 42,715,House,1990-05-03,Filed,,,1
+HB 43,715,House,1990-05-07,Referred to Judiciary,,,3
+HB 43,715,House,1990-05-07,Read first time,,,2
+HB 43,715,House,1990-05-03,Filed,,,1
+HJR 3,715,House,1990-05-07,Referred to Judicial Affairs,,,3
+HJR 3,715,House,1990-05-07,Read first time,,,2
+HJR 3,715,House,1990-05-03,Filed,,,1
+HR 39,715,House,1990-05-17,Reported enrolled,,,7
+HR 39,715,House,1990-05-17,Adopted,,120,6
+HR 39,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 39,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 39,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 39,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 39,715,House,1990-05-08,Filed,,,1
+HR 146,715,House,1990-05-24,Reported enrolled,,,7
+HR 146,715,House,1990-05-24,Adopted,,153,6
+HR 146,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 146,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 146,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 146,715,House,1990-05-22,Referred to Rules and Resolutions,,140,2
+HR 146,715,House,1990-05-22,Filed,,,1
+HR 57,715,House,1990-05-17,Reported enrolled,,,7
+HR 57,715,House,1990-05-17,Adopted,,121,6
+HR 57,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 57,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 57,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 57,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 57,715,House,1990-05-10,Filed,,,1
+HR 58,715,House,1990-05-17,Reported enrolled,,,7
+HR 58,715,House,1990-05-17,Adopted,,121,6
+HR 58,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 58,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 58,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 58,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 58,715,House,1990-05-10,Filed,,,1
+HR 59,715,House,1990-05-17,Reported enrolled,,,7
+HR 59,715,House,1990-05-17,Adopted,,121,6
+HR 59,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 59,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 59,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 59,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 59,715,House,1990-05-10,Filed,,,1
+HR 60,715,House,1990-05-17,Reported enrolled,,,7
+HR 60,715,House,1990-05-17,Adopted,,121,6
+HR 60,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 60,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 60,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 60,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 60,715,House,1990-05-10,Filed,,,1
+HR 136,715,House,1990-05-24,Reported enrolled,,,7
+HR 136,715,House,1990-05-24,Adopted,,153,6
+HR 136,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 136,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 136,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 136,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 136,715,House,1990-05-21,Filed,,,1
+HR 137,715,House,1990-05-24,Reported enrolled,,,7
+HR 137,715,House,1990-05-24,Adopted,,153,6
+HR 137,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 137,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 137,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 137,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 137,715,House,1990-05-21,Filed,,,1
+HR 138,715,House,1990-05-24,Reported enrolled,,,7
+HR 138,715,House,1990-05-24,Adopted,,153,6
+HR 138,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 138,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 138,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 138,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 138,715,House,1990-05-21,Filed,,,1
+HB 105,715,House,1990-05-15,Referred to Appropriations,,101,3
+HB 105,715,House,1990-05-15,Read first time,,101,2
+HB 105,715,House,1990-05-14,Filed,,,1
+HR 22,715,House,1990-05-10,Reported enrolled,,,7
+HR 22,715,House,1990-05-10,Adopted,,78,6
+HR 22,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 22,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 22,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 22,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 22,715,House,1990-05-04,Filed,,,1
+HR 90,715,House,1990-05-17,Reported enrolled,,,7
+HR 90,715,House,1990-05-17,Adopted,,122,6
+HR 90,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 90,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 90,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 90,715,House,1990-05-15,Referred to Rules and Resolutions,,103,2
+HR 90,715,House,1990-05-15,Filed,,,1
+HR 91,715,House,1990-05-17,Reported enrolled,,,7
+HR 91,715,House,1990-05-17,Adopted,,122,6
+HR 91,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 91,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 91,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 91,715,House,1990-05-15,Referred to Rules and Resolutions,,103,2
+HR 91,715,House,1990-05-15,Filed,,,1
+HCR 15,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 15,715,House,1990-05-22,Sent to the Governor,,147,12
+HCR 15,715,Senate,1990-05-22,Signed in the Senate,,145,11
+HCR 15,715,House,1990-05-21,Signed in the House,,132,10
+HCR 15,715,House,1990-05-17,Reported enrolled,,151,9
+HCR 15,715,House,1990-05-17,Returned from the Senate,,118,8
+HCR 15,715,Senate,1990-05-15,Read & adopted,,138,7
+HCR 15,715,Senate,1990-05-15,Rules suspended,,138,6
+HCR 15,715,Senate,1990-05-15,Received from House,,125,5
+HCR 15,715,House,1990-05-15,Sent to the Senate,,,4
+HCR 15,715,House,1990-05-15,Adopted,,99,3
+HCR 15,715,House,1990-05-15,Rules suspended,,99,2
+HCR 15,715,House,1990-05-14,Filed,,,1
+HR 25,715,House,1990-05-10,Reported enrolled,,,7
+HR 25,715,House,1990-05-10,Adopted,,78,6
+HR 25,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 25,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 25,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 25,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 25,715,House,1990-05-07,Filed,,,1
+HB 38,715,House,1990-05-24,Returned to Calendars Committee,,,15
+HB 38,715,House,1990-05-24,Point of order sustained,,156,14
+HB 38,715,House,1990-05-24,Read 2nd time,,156,13
+HB 38,715,House,1990-05-24,Placed on General State Calendar,,,12
+HB 38,715,House,1990-05-17,Returned to Calendars Committee,,,11
+HB 38,715,House,1990-05-17,Point of order sustained,,127,10
+HB 38,715,House,1990-05-17,Read 2nd time,,127,9
+HB 38,715,House,1990-05-17,Placed on General State Calendar,,,8
+HB 38,715,House,1990-05-15,1st Printing sent to Comm. on Cal.,,,7
+HB 38,715,House,1990-05-10,Reported favorably w/amendment(s),,96,6
+HB 38,715,House,1990-05-10,Considered in formal meeting,,,5
+HB 38,715,House,1990-05-10,Scheduled for formal meeting on  . . . . . .,,,4
+HB 38,715,House,1990-05-07,Referred to Financial Institutions,,,3
+HB 38,715,House,1990-05-07,Read first time,,,2
+HB 38,715,House,1990-05-03,Filed,,,1
+HB 46,715,House,1990-05-07,Referred to Ways & Means,,,3
+HB 46,715,House,1990-05-07,Read first time,,,2
+HB 46,715,House,1990-05-03,Filed,,,1
+HJR 4,715,House,1990-05-07,Referred to Ways & Means,,,3
+HJR 4,715,House,1990-05-07,Read first time,,,2
+HJR 4,715,House,1990-05-03,Filed,,,1
+HB 1,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,12
+HB 1,715,House,1990-05-04,Reported favorably with substitute,,,11
+HB 1,715,House,1990-05-04,Testimony received in committee,,,10
+HB 1,715,House,1990-05-04,Considered in public hearing,,,9
+HB 1,715,House,1990-05-03,Pending in committee,,,8
+HB 1,715,House,1990-05-03,Testimony received in committee,,,7
+HB 1,715,House,1990-05-03,Considered in public hearing,,,6
+HB 1,715,House,1990-05-03,Scheduled for public hearing on  . . . . . .,,,5
+HB 1,715,House,1990-05-02,Posting rule suspended,,,4
+HB 1,715,House,1990-05-02,Referred to Public Education,,,3
+HB 1,715,House,1990-05-02,Read first time,,,2
+HB 1,715,House,1990-05-02,Filed,,,1
+HCR 17,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 17,715,House,1990-05-22,Sent to the Governor,,147,12
+HCR 17,715,Senate,1990-05-22,Signed in the Senate,,144,11
+HCR 17,715,House,1990-05-21,Signed in the House,,132,10
+HCR 17,715,House,1990-05-17,Reported enrolled,,141,9
+HCR 17,715,House,1990-05-17,Returned from the Senate,,119,8
+HCR 17,715,Senate,1990-05-15,Read & adopted,,137,7
+HCR 17,715,Senate,1990-05-15,Laid before the Senate,,137,6
+HCR 17,715,Senate,1990-05-15,Received from House,,129,5
+HCR 17,715,House,1990-05-15,Sent to the Senate,,,4
+HCR 17,715,House,1990-05-15,Adopted,,114,3
+HCR 17,715,House,1990-05-15,Rules suspended,,114,2
+HCR 17,715,House,1990-05-15,Filed,,,1
+HR 63,715,House,1990-05-17,Reported enrolled,,,7
+HR 63,715,House,1990-05-17,Adopted,,121,6
+HR 63,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 63,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 63,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 63,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 63,715,House,1990-05-10,Filed,,,1
+HR 64,715,House,1990-05-17,Reported enrolled,,,7
+HR 64,715,House,1990-05-17,Adopted,,121,6
+HR 64,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 64,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 64,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 64,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 64,715,House,1990-05-10,Filed,,,1
+HR 65,715,House,1990-05-17,Reported enrolled,,,7
+HR 65,715,House,1990-05-17,Adopted,,121,6
+HR 65,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 65,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 65,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 65,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 65,715,House,1990-05-10,Filed,,,1
+HR 66,715,House,1990-05-17,Reported enrolled,,,7
+HR 66,715,House,1990-05-17,Adopted,,121,6
+HR 66,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 66,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 66,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 66,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 66,715,House,1990-05-10,Filed,,,1
+HR 67,715,House,1990-05-17,Reported enrolled,,,7
+HR 67,715,House,1990-05-17,Adopted,,122,6
+HR 67,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 67,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 67,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 67,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 67,715,House,1990-05-10,Filed,,,1
+HR 68,715,House,1990-05-17,Reported enrolled,,,7
+HR 68,715,House,1990-05-17,Adopted,,122,6
+HR 68,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 68,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 68,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 68,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 68,715,House,1990-05-10,Filed,,,1
+HR 69,715,House,1990-05-15,Reported enrolled,,,5
+HR 69,715,House,1990-05-15,Adopted,,100,4
+HR 69,715,House,1990-05-15,Rules suspended,,100,3
+HR 69,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 69,715,House,1990-05-11,Filed,,,1
+HR 87,715,House,1990-05-15,Reported enrolled,,,7
+HR 87,715,House,1990-05-15,Record vote,,112,6
+HR 87,715,House,1990-05-15,Adopted as amended,,112,5
+HR 87,715,House,1990-05-15,Record vote,,112,4
+HR 87,715,House,1990-05-15,Amended,,112,3
+HR 87,715,House,1990-05-15,Rules suspended,,,2
+HR 87,715,House,1990-05-15,Filed,,,1
+HR 108,715,House,1990-05-17,Reported enrolled,,,4
+HR 108,715,House,1990-05-17,Adopted,,124,3
+HR 108,715,House,1990-05-17,Rules suspended,,124,2
+HR 108,715,House,1990-05-16,Filed,,,1
+HCR 16,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 16,715,House,1990-05-22,Sent to the Governor,,147,12
+HCR 16,715,Senate,1990-05-22,Signed in the Senate,,144,11
+HCR 16,715,House,1990-05-21,Signed in the House,,132,10
+HCR 16,715,House,1990-05-17,Reported enrolled,,141,9
+HCR 16,715,House,1990-05-17,Returned from the Senate,,118,8
+HCR 16,715,Senate,1990-05-15,Read & adopted,,138,7
+HCR 16,715,Senate,1990-05-15,Rules suspended,,138,6
+HCR 16,715,Senate,1990-05-15,Received from House,,124,5
+HCR 16,715,House,1990-05-15,Sent to the Senate,,,4
+HCR 16,715,House,1990-05-15,Adopted,,101,3
+HCR 16,715,House,1990-05-15,Rules suspended,,100,2
+HCR 16,715,House,1990-05-15,Filed,,,1
+HR 56,715,House,1990-05-10,Reported enrolled,,,4
+HR 56,715,House,1990-05-10,Adopted,,77,3
+HR 56,715,House,1990-05-10,Rules suspended,,76,2
+HR 56,715,House,1990-05-09,Filed,,,1
+HR 86,715,House,1990-05-15,Reported enrolled,,,4
+HR 86,715,House,1990-05-15,Adopted,,100,3
+HR 86,715,House,1990-05-15,Rules suspended,,100,2
+HR 86,715,House,1990-05-15,Filed,,,1
+HR 165,715,House,1990-05-24,Reported enrolled,,,4
+HR 165,715,House,1990-05-24,Adopted,,154,3
+HR 165,715,House,1990-05-24,Rules suspended,,153,2
+HR 165,715,House,1990-05-24,Filed,,,1
+HR 166,715,House,1990-05-24,Reported enrolled,,,4
+HR 166,715,House,1990-05-24,Adopted,,154,3
+HR 166,715,House,1990-05-24,Rules suspended,,154,2
+HR 166,715,House,1990-05-24,Filed,,,1
+HB 81,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,7
+HB 81,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,6
+HB 81,715,House,1990-05-15,Considered in public hearing,,,5
+HB 81,715,House,1990-05-15,Posting rule suspended,,114,4
+HB 81,715,House,1990-05-14,"Referred to State, Fed. & Intl. Relations",,93,3
+HB 81,715,House,1990-05-14,Read first time,,93,2
+HB 81,715,House,1990-05-08,Filed,,,1
+HB 87,715,House,1990-05-09,Filed,,,1
+HCR 13,715,House,1990-05-15,Referred to Public Education,,104,2
+HCR 13,715,House,1990-05-09,Filed,,,1
+HB 119,715,House,1990-05-21,Referred to Ways & Means,,134,3
+HB 119,715,House,1990-05-21,Read first time,,134,2
+HB 119,715,House,1990-05-18,Filed,,,1
+HB 27,715,House,1990-05-07,Referred to Public Education,,,3
+HB 27,715,House,1990-05-07,Read first time,,,2
+HB 27,715,House,1990-05-02,Filed,,,1
+HR 116,715,House,1990-05-22,Reported enrolled,,,5
+HR 116,715,House,1990-05-22,Adopted,,138,4
+HR 116,715,House,1990-05-22,Rules suspended,,138,3
+HR 116,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 116,715,House,1990-05-16,Filed,,,1
+HR 140,715,House,1990-05-24,Reported enrolled,,,7
+HR 140,715,House,1990-05-24,Adopted,,153,6
+HR 140,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 140,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 140,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 140,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 140,715,House,1990-05-21,Filed,,,1
+HR 147,715,House,1990-05-22,Reported enrolled,,,4
+HR 147,715,House,1990-05-22,Adopted,,138,3
+HR 147,715,House,1990-05-22,Rules suspended,,138,2
+HR 147,715,House,1990-05-22,Filed,,,1
+HR 19,715,House,1990-05-07,Reported enrolled,,,4
+HR 19,715,House,1990-05-07,Adopted,,,3
+HR 19,715,House,1990-05-07,Rules suspended,,,2
+HR 19,715,House,1990-05-04,Filed,,,1
+HB 3,715,House,1990-05-24,Referred to Public Education,,150,3
+HB 3,715,House,1990-05-24,Read first time,,150,2
+HB 3,715,House,1990-05-23,Filed,,,1
+HB 4,715,House,1990-05-24,Referred to Public Education,,150,3
+HB 4,715,House,1990-05-24,Read first time,,150,2
+HB 4,715,House,1990-05-23,Filed,,,1
+HB 116,715,House,1990-05-17,Referred to Public Education,,129,3
+HB 116,715,House,1990-05-17,Read first time,,129,2
+HB 116,715,House,1990-05-16,Filed,,,1
+HB 25,715,House,1990-05-07,Referred to Labor & Employment Rel.,,,3
+HB 25,715,House,1990-05-07,Read first time,,,2
+HB 25,715,House,1990-05-02,Filed,,,1
+HB 26,715,House,1990-05-07,Referred to Environmental Affairs,,,3
+HB 26,715,House,1990-05-07,Read first time,,,2
+HB 26,715,House,1990-05-02,Filed,,,1
+HCR 23,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 23,715,House,1990-05-23,Sent to the Governor,,163,12
+HCR 23,715,Senate,1990-05-23,Signed in the Senate,,148,11
+HCR 23,715,House,1990-05-22,Signed in the House,,138,10
+HCR 23,715,House,1990-05-21,Reported enrolled,,141,9
+HCR 23,715,House,1990-05-21,Returned from the Senate,,132,8
+HCR 23,715,Senate,1990-05-17,Read & adopted,,140,7
+HCR 23,715,Senate,1990-05-17,Rules suspended,,140,6
+HCR 23,715,Senate,1990-05-17,Received from House,,139,5
+HCR 23,715,House,1990-05-17,Sent to the Senate,,,4
+HCR 23,715,House,1990-05-17,Adopted,,125,3
+HCR 23,715,House,1990-05-17,Rules suspended,,125,2
+HCR 23,715,House,1990-05-17,Filed,,,1
+HR 163,715,House,1990-05-29,Reported enrolled,,,8
+HR 163,715,House,1990-05-29,Adopted,,184,7
+HR 163,715,House,1990-05-29,Rules suspended,,,6
+HR 163,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 163,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 163,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 163,715,House,1990-05-24,Referred to Rules and Resolutions,,151,2
+HR 163,715,House,1990-05-24,Filed,,,1
+HCR 3,715,House,1990-05-07,Referred to Public Health,,,2
+HCR 3,715,House,1990-05-02,Filed,,,1
+HR 47,715,House,1990-05-17,Reported enrolled,,,7
+HR 47,715,House,1990-05-17,Adopted,,121,6
+HR 47,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 47,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 47,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 47,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 47,715,House,1990-05-09,Filed,,,1
+HR 160,715,House,1990-05-29,Reported enrolled,,,8
+HR 160,715,House,1990-05-29,Adopted,,184,7
+HR 160,715,House,1990-05-29,Rules suspended,,,6
+HR 160,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 160,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 160,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 160,715,House,1990-05-24,Referred to Rules and Resolutions,,151,2
+HR 160,715,House,1990-05-23,Filed,,,1
+HR 127,715,House,1990-05-17,Reported enrolled,,,4
+HR 127,715,House,1990-05-17,Adopted,,124,3
+HR 127,715,House,1990-05-17,Rules suspended,,124,2
+HR 127,715,House,1990-05-17,Filed,,,1
+HB 108,715,House,1990-05-15,Referred to Corrections,,102,3
+HB 108,715,House,1990-05-15,Read first time,,102,2
+HB 108,715,House,1990-05-15,Filed,,,1
+HB 110,715,House,1990-05-15,Referred to Elections,,102,3
+HB 110,715,House,1990-05-15,Read first time,,102,2
+HB 110,715,House,1990-05-15,Filed,,,1
+HB 44,715,House,1990-05-21,Laid on table subj. to call in comm.,,,6
+HB 44,715,House,1990-05-21,Considered in formal meeting,,,5
+HB 44,715,House,1990-05-21,Scheduled for formal meeting on  . . . . . .,,,4
+HB 44,715,House,1990-05-07,Referred to Natural Resources,,,3
+HB 44,715,House,1990-05-07,Read first time,,,2
+HB 44,715,House,1990-05-03,Filed,,,1
+HR 26,715,House,1990-05-10,Reported enrolled,,,7
+HR 26,715,House,1990-05-10,Adopted,,79,6
+HR 26,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 26,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 26,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 26,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 26,715,House,1990-05-07,Filed,,,1
+HR 27,715,House,1990-05-10,Reported enrolled,,,7
+HR 27,715,House,1990-05-10,Adopted,,79,6
+HR 27,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 27,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 27,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 27,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 27,715,House,1990-05-07,Filed,,,1
+HB 21,715,House,1990-05-24,Returned to Calendars Committee,,,10
+HB 21,715,House,1990-05-24,Point of order sustained,,157,9
+HB 21,715,House,1990-05-24,Read 2nd time,,157,8
+HB 21,715,House,1990-05-24,Placed on General State Calendar,,,7
+HB 21,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,6
+HB 21,715,House,1990-05-09,Reported favorably w/o amendment(s),,88,5
+HB 21,715,House,1990-05-09,Considered in formal meeting,,,4
+HB 21,715,House,1990-05-02,Referred to County Affairs,,,3
+HB 21,715,House,1990-05-02,Read first time,,,2
+HB 21,715,House,1990-05-01,Filed,,,1
+HR 102,715,House,1990-05-17,Reported enrolled,,,4
+HR 102,715,House,1990-05-17,Adopted,,119,3
+HR 102,715,House,1990-05-17,Rules suspended,,119,2
+HR 102,715,House,1990-05-15,Filed,,,1
+HR 103,715,House,1990-05-24,Reported enrolled,,,7
+HR 103,715,House,1990-05-24,Adopted,,152,6
+HR 103,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 103,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 103,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 103,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 103,715,House,1990-05-15,Filed,,,1
+HR 105,715,House,1990-05-24,Reported enrolled,,,7
+HR 105,715,House,1990-05-24,Adopted,,152,6
+HR 105,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 105,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 105,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 105,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 105,715,House,1990-05-16,Filed,,,1
+HR 73,715,House,1990-05-17,Reported enrolled,,,7
+HR 73,715,House,1990-05-17,Adopted,,122,6
+HR 73,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 73,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 73,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 73,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 73,715,House,1990-05-14,Filed,,,1
+HB 95,715,House,1990-05-14,Referred to Ways & Means,,94,3
+HB 95,715,House,1990-05-14,Read first time,,94,2
+HB 95,715,House,1990-05-10,Filed,,,1
+HR 199,715,House,1990-05-29,Reported enrolled,,,4
+HR 199,715,House,1990-05-29,Adopted,,194,3
+HR 199,715,House,1990-05-29,Rules suspended,,193,2
+HR 199,715,House,1990-05-29,Filed,,,1
+HCR 25,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 25,715,House,1990-05-25,Sent to the Governor,,182,12
+HCR 25,715,Senate,1990-05-25,Signed in the Senate,,156,11
+HCR 25,715,House,1990-05-25,Signed in the House,,166,10
+HCR 25,715,House,1990-05-24,Reported enrolled,,163,9
+HCR 25,715,House,1990-05-24,Returned from the Senate,,150,8
+HCR 25,715,Senate,1990-05-23,Read & adopted,,151,7
+HCR 25,715,Senate,1990-05-23,Rules suspended,,151,6
+HCR 25,715,Senate,1990-05-23,Received from House,,148,5
+HCR 25,715,House,1990-05-23,Sent to the Senate,,,4
+HCR 25,715,House,1990-05-23,Adopted,,145,3
+HCR 25,715,House,1990-05-23,Rules suspended,,145,2
+HCR 25,715,House,1990-05-23,Filed,,,1
+HCR 14,715,House,1990-06-05,Signed by the Governor,,,16
+HCR 14,715,House,1990-05-24,Sent to the Governor,,173,15
+HCR 14,715,Senate,1990-05-24,Signed in the Senate,,153,14
+HCR 14,715,House,1990-05-24,Signed in the House,,150,13
+HCR 14,715,House,1990-05-23,Reported enrolled,,163,12
+HCR 14,715,House,1990-05-23,Returned from the Senate,,144,11
+HCR 14,715,Senate,1990-05-22,Read & adopted,,147,10
+HCR 14,715,Senate,1990-05-22,Rules suspended,,147,9
+HCR 14,715,Senate,1990-05-17,Received from House,,139,8
+HCR 14,715,House,1990-05-17,Sent to the Senate,,,7
+HCR 14,715,House,1990-05-17,Adopted,,120,6
+HCR 14,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HCR 14,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HCR 14,715,House,1990-05-15,Considered in formal meeting,,,3
+HCR 14,715,House,1990-05-15,Referred to Rules and Resolutions,,104,2
+HCR 14,715,House,1990-05-14,Filed,,,1
+HR 2,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,6
+HR 2,715,House,1990-05-15,Reported favorably w/amendment(s),,130,5
+HR 2,715,House,1990-05-15,Considered in public hearing,,,4
+HR 2,715,House,1990-05-15,Posting rule suspended,,114,3
+HR 2,715,House,1990-05-02,"Referred to State, Fed. & Intl. Relations",,,2
+HR 2,715,House,1990-05-01,Filed,,,1
+HR 3,715,House,1990-05-10,Reported enrolled,,,7
+HR 3,715,House,1990-05-10,Adopted,,77,6
+HR 3,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 3,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 3,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 3,715,House,1990-05-02,Referred to Rules and Resolutions,,,2
+HR 3,715,House,1990-05-01,Filed,,,1
+HR 77,715,House,1990-05-22,Meeting canceled,,,4
+HR 77,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 77,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 77,715,House,1990-05-15,Filed,,,1
+HR 78,715,House,1990-05-22,Meeting canceled,,,4
+HR 78,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 78,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 78,715,House,1990-05-15,Filed,,,1
+HR 79,715,House,1990-05-22,Meeting canceled,,,4
+HR 79,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 79,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 79,715,House,1990-05-15,Filed,,,1
+HR 80,715,House,1990-05-22,Meeting canceled,,,4
+HR 80,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 80,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 80,715,House,1990-05-15,Filed,,,1
+HR 81,715,House,1990-05-22,Meeting canceled,,,4
+HR 81,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 81,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 81,715,House,1990-05-15,Filed,,,1
+HR 82,715,House,1990-05-22,Meeting canceled,,,4
+HR 82,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 82,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 82,715,House,1990-05-15,Filed,,,1
+HR 83,715,House,1990-05-22,Meeting canceled,,,4
+HR 83,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 83,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 83,715,House,1990-05-15,Filed,,,1
+HR 84,715,House,1990-05-22,Meeting canceled,,,4
+HR 84,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 84,715,House,1990-05-15,"Referred to State, Fed. & Intl. Relations",,103,2
+HR 84,715,House,1990-05-15,Filed,,,1
+HB 61,715,House,1990-05-07,Referred to Higher Education,,,3
+HB 61,715,House,1990-05-07,Read first time,,,2
+HB 61,715,House,1990-05-07,Filed,,,1
+HCR 10,715,House,1990-05-29,Signed by the Governor,,,14
+HCR 10,715,House,1990-05-17,Sent to the Governor,,141,13
+HCR 10,715,Senate,1990-05-17,Signed in the Senate,,139,12
+HCR 10,715,House,1990-05-17,Signed in the House,,119,11
+HCR 10,715,House,1990-05-15,Reported enrolled,,115,10
+HCR 10,715,House,1990-05-15,Returned from the Senate,,98,9
+HCR 10,715,Senate,1990-05-14,Read & adopted,,123,8
+HCR 10,715,Senate,1990-05-14,Rules suspended,,123,7
+HCR 10,715,Senate,1990-05-14,Received from House,,85,6
+HCR 10,715,House,1990-05-14,Sent to the Senate,,,5
+HCR 10,715,House,1990-05-14,Adopted,,96,4
+HCR 10,715,House,1990-05-14,Rules suspended,,95,3
+HCR 10,715,House,1990-05-08,Referred to Rules and Resolutions,,,2
+HCR 10,715,House,1990-05-07,Filed,,,1
+HR 12,715,House,1990-05-02,Reported enrolled,,,4
+HR 12,715,House,1990-05-02,Adopted,,,3
+HR 12,715,House,1990-05-02,Rules suspended,,,2
+HR 12,715,House,1990-05-02,Filed,,,1
+HR 30,715,House,1990-05-07,Reported enrolled,,,4
+HR 30,715,House,1990-05-07,Adopted,,,3
+HR 30,715,House,1990-05-07,Rules suspended,,,2
+HR 30,715,House,1990-05-07,Filed,,,1
+HR 31,715,House,1990-05-10,Reported enrolled,,,7
+HR 31,715,House,1990-05-10,Adopted,,77,6
+HR 31,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 31,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 31,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 31,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 31,715,House,1990-05-07,Filed,,,1
+HR 32,715,House,1990-05-10,Reported enrolled,,,7
+HR 32,715,House,1990-05-10,Adopted,,77,6
+HR 32,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 32,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 32,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 32,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 32,715,House,1990-05-07,Filed,,,1
+HR 106,715,House,1990-05-17,Reported enrolled,,,4
+HR 106,715,House,1990-05-17,Adopted,,123,3
+HR 106,715,House,1990-05-17,Rules suspended,,123,2
+HR 106,715,House,1990-05-16,Filed,,,1
+HB 45,715,House,1990-05-24,Posting rule suspended,,158,4
+HB 45,715,House,1990-05-07,Referred to Higher Education,,,3
+HB 45,715,House,1990-05-07,Read first time,,,2
+HB 45,715,House,1990-05-03,Filed,,,1
+HB 56,715,House,1990-05-07,Referred to State Affairs,,,3
+HB 56,715,House,1990-05-07,Read first time,,,2
+HB 56,715,House,1990-05-07,Filed,,,1
+HB 70,715,House,1990-05-08,Referred to Elections,,,3
+HB 70,715,House,1990-05-08,Read first time,,,2
+HB 70,715,House,1990-05-07,Filed,,,1
+HB 73,715,House,1990-05-08,Referred to Elections,,,3
+HB 73,715,House,1990-05-08,Read first time,,,2
+HB 73,715,House,1990-05-08,Filed,,,1
+HB 83,715,House,1990-05-14,Referred to Elections,,93,3
+HB 83,715,House,1990-05-14,Read first time,,93,2
+HB 83,715,House,1990-05-09,Filed,,,1
+HB 84,715,House,1990-05-14,Referred to Elections,,93,3
+HB 84,715,House,1990-05-14,Read first time,,93,2
+HB 84,715,House,1990-05-09,Filed,,,1
+HB 102,715,House,1990-05-14,Referred to Judicial Affairs,,95,3
+HB 102,715,House,1990-05-14,Read first time,,95,2
+HB 102,715,House,1990-05-14,Filed,,,1
+HB 103,715,House,1990-05-14,Referred to Elections,,95,3
+HB 103,715,House,1990-05-14,Read first time,,95,2
+HB 103,715,House,1990-05-14,Filed,,,1
+HB 129,715,House,1990-06-19,Vetoed by the Governor,,,37
+HB 129,715,House,1990-05-25,Sent to the Governor,,182,36
+HB 129,715,Senate,1990-05-25,Signed in the Senate,,160,35
+HB 129,715,House,1990-05-25,Signed in the House,,172,34
+HB 129,715,House,1990-05-25,Reported enrolled,,182,33
+HB 129,715,House,1990-05-25,Returned from the Senate,,172,32
+HB 129,715,Senate,1990-05-25,Record vote,,158,31
+HB 129,715,Senate,1990-05-25,Passed,,158,30
+HB 129,715,Senate,1990-05-25,Read 3rd time,,158,29
+HB 129,715,Senate,1990-05-25,Record vote,,158,28
+HB 129,715,Senate,1990-05-25,Rules suspended,,158,27
+HB 129,715,Senate,1990-05-25,Member vote recorded in Journal,,158,26
+HB 129,715,Senate,1990-05-25,Read 2nd time & passed to 3rd reading,,158,25
+HB 129,715,Senate,1990-05-25,Record vote,,158,24
+HB 129,715,Senate,1990-05-25,Rules suspended,,158,23
+HB 129,715,Senate,1990-05-24,Reported favorably w/o amendments,,155,22
+HB 129,715,Senate,1990-05-24,Testimony taken in committee,,,21
+HB 129,715,Senate,1990-05-24,Considered in public hearing,,,20
+HB 129,715,Senate,1990-05-24,Posting rule suspended,,154,19
+HB 129,715,Senate,1990-05-24,Referred to Finance,,153,18
+HB 129,715,Senate,1990-05-24,Read first time,,153,17
+HB 129,715,Senate,1990-05-24,Received from House,,153,16
+HB 129,715,House,1990-05-24,Sent to the Senate,,,15
+HB 129,715,House,1990-05-24,Reported engrossed,,163,14
+HB 129,715,House,1990-05-24,Record vote,,161,13
+HB 129,715,House,1990-05-24,Passed,,161,12
+HB 129,715,House,1990-05-24,Read 3rd time,,161,11
+HB 129,715,House,1990-05-24,Nonrecord vote recorded in Journal,,158,10
+HB 129,715,House,1990-05-24,Passed to engrossment,,158,9
+HB 129,715,House,1990-05-24,Read 2nd time,,158,8
+HB 129,715,House,1990-05-24,Placed on General State Calendar,,,7
+HB 129,715,House,1990-05-22,1st Printing sent to Comm. on Cal.,,,6
+HB 129,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,5
+HB 129,715,House,1990-05-22,Considered in formal meeting,,,4
+HB 129,715,House,1990-05-22,Referred to Ways & Means,,140,3
+HB 129,715,House,1990-05-22,Read first time,,140,2
+HB 129,715,House,1990-05-22,Filed,,,1
+HR 11,715,House,1990-05-02,Reported enrolled,,,4
+HR 11,715,House,1990-05-02,Adopted,,,3
+HR 11,715,House,1990-05-02,Rules suspended,,,2
+HR 11,715,House,1990-05-02,Filed,,,1
+HR 124,715,House,1990-05-17,Reported enrolled,,,4
+HR 124,715,House,1990-05-17,Adopted,,125,3
+HR 124,715,House,1990-05-17,Rules suspended,,125,2
+HR 124,715,House,1990-05-17,Filed,,,1
+HR 142,715,House,1990-05-21,Reported enrolled,,,4
+HR 142,715,House,1990-05-21,Adopted,,133,3
+HR 142,715,House,1990-05-21,Rules suspended,,132,2
+HR 142,715,House,1990-05-21,Filed,,,1
+HB 6,715,House,1990-05-02,Referred to Transportation,,,3
+HB 6,715,House,1990-05-02,Read first time,,,2
+HB 6,715,House,1990-05-01,Filed,,,1
+HR 154,715,House,1990-05-29,Reported enrolled,,,5
+HR 154,715,House,1990-05-29,Adopted,,187,4
+HR 154,715,House,1990-05-29,Rules suspended,,187,3
+HR 154,715,House,1990-05-23,Referred to Rules and Resolutions,,145,2
+HR 154,715,House,1990-05-22,Filed,,,1
+HB 72,715,House,1990-05-24,Reported favorably w/o amendment(s),,173,6
+HB 72,715,House,1990-05-24,Considered in formal meeting,,,5
+HB 72,715,House,1990-05-24,Rules suspended,,159,4
+HB 72,715,House,1990-05-08,Referred to Judiciary,,,3
+HB 72,715,House,1990-05-08,Read first time,,,2
+HB 72,715,House,1990-05-08,Filed,,,1
+HR 144,715,House,1990-05-24,Reported enrolled,,,7
+HR 144,715,House,1990-05-24,Adopted,,153,6
+HR 144,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 144,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 144,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 144,715,House,1990-05-22,Referred to Rules and Resolutions,,140,2
+HR 144,715,House,1990-05-22,Filed,,,1
+HB 32,715,House,1990-05-07,Referred to Environmental Affairs,,,3
+HB 32,715,House,1990-05-07,Read first time,,,2
+HB 32,715,House,1990-05-03,Filed,,,1
+HB 55,715,House,1990-05-07,Referred to Criminal Jurisprudence,,,3
+HB 55,715,House,1990-05-07,Read first time,,,2
+HB 55,715,House,1990-05-04,Filed,,,1
+HR 62,715,House,1990-05-17,Reported enrolled,,,7
+HR 62,715,House,1990-05-17,Adopted,,121,6
+HR 62,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 62,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 62,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 62,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 62,715,House,1990-05-10,Filed,,,1
+HR 119,715,House,1990-05-21,Reported enrolled,,,5
+HR 119,715,House,1990-05-21,Adopted,,133,4
+HR 119,715,House,1990-05-21,Rules suspended,,133,3
+HR 119,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 119,715,House,1990-05-17,Filed,,,1
+HR 120,715,House,1990-05-21,Reported enrolled,,,5
+HR 120,715,House,1990-05-21,Adopted,,134,4
+HR 120,715,House,1990-05-21,Rules suspended,,133,3
+HR 120,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 120,715,House,1990-05-17,Filed,,,1
+HB 67,715,House,1990-05-08,Referred to State Affairs,,,3
+HB 67,715,House,1990-05-08,Read first time,,,2
+HB 67,715,House,1990-05-07,Filed,,,1
+HB 131,715,House,1990-05-24,Referred to County Affairs,,151,3
+HB 131,715,House,1990-05-24,Read first time,,151,2
+HB 131,715,House,1990-05-24,Filed,,,1
+HR 9,715,House,1990-05-02,Reported enrolled,,,4
+HR 9,715,House,1990-05-02,Adopted,,,3
+HR 9,715,House,1990-05-02,Rules suspended,,,2
+HR 9,715,House,1990-05-02,Filed,,,1
+HR 182,715,House,1990-05-28,Reported enrolled,,,4
+HR 182,715,House,1990-05-28,Adopted,,176,3
+HR 182,715,House,1990-05-28,Rules suspended,,176,2
+HR 182,715,House,1990-05-28,Filed,,,1
+HR 193,715,House,1990-05-29,Reported enrolled,,,4
+HR 193,715,House,1990-05-29,Adopted,,187,3
+HR 193,715,House,1990-05-29,Rules suspended,,186,2
+HR 193,715,House,1990-05-29,Filed,,,1
+HCR 20,715,House,1990-05-22,Filed with the Secretary of State,,147,12
+HCR 20,715,Senate,1990-05-22,Signed in the Senate,,145,11
+HCR 20,715,House,1990-05-21,Signed in the House,,132,10
+HCR 20,715,House,1990-05-17,Reported enrolled,,141,9
+HCR 20,715,House,1990-05-17,Returned from the Senate,,118,8
+HCR 20,715,Senate,1990-05-15,Read & adopted,,127,7
+HCR 20,715,Senate,1990-05-15,Laid before the Senate,,127,6
+HCR 20,715,Senate,1990-05-15,Received from House,,124,5
+HCR 20,715,House,1990-05-15,Sent to the Senate,,,4
+HCR 20,715,House,1990-05-15,Adopted,,104,3
+HCR 20,715,House,1990-05-15,Rules suspended,,104,2
+HCR 20,715,House,1990-05-15,Filed,,,1
+HCR 9,715,House,1990-06-05,Signed by the Governor,,,18
+HCR 9,715,House,1990-05-29,Sent to the Governor,,195,17
+HCR 9,715,Senate,1990-05-29,Signed in the Senate,,161,16
+HCR 9,715,House,1990-05-29,Signed in the House,,184,15
+HCR 9,715,House,1990-05-25,Reported enrolled,,182,14
+HCR 9,715,House,1990-05-25,Returned from the Senate,,173,13
+HCR 9,715,Senate,1990-05-25,Read & adopted,,160,12
+HCR 9,715,Senate,1990-05-25,Rules suspended,,160,11
+HCR 9,715,Senate,1990-05-24,Received from House,,153,10
+HCR 9,715,House,1990-05-24,Sent to the Senate,,,9
+HCR 9,715,House,1990-05-24,Adopted,,158,8
+HCR 9,715,House,1990-05-24,Placed on Resolutions Calendar,,,7
+HCR 9,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,6
+HCR 9,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,5
+HCR 9,715,House,1990-05-15,Considered in public hearing,,,4
+HCR 9,715,House,1990-05-15,Posting rule suspended,,114,3
+HCR 9,715,House,1990-05-08,"Referred to State, Fed. & Intl. Relations",,,2
+HCR 9,715,House,1990-05-07,Filed,,,1
+HR 85,715,House,1990-05-17,Reported enrolled,,,7
+HR 85,715,House,1990-05-17,Adopted,,122,6
+HR 85,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 85,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 85,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 85,715,House,1990-05-15,Referred to Rules and Resolutions,,103,2
+HR 85,715,House,1990-05-15,Filed,,,1
+HR 184,715,House,1990-05-29,Reported enrolled,,,4
+HR 184,715,House,1990-05-29,Adopted,,193,3
+HR 184,715,House,1990-05-29,Rules suspended,,193,2
+HR 184,715,House,1990-05-28,Filed,,,1
+HR 61,715,House,1990-05-10,Reported enrolled,,,4
+HR 61,715,House,1990-05-10,Adopted,,79,3
+HR 61,715,House,1990-05-10,Rules suspended,,79,2
+HR 61,715,House,1990-05-10,Filed,,,1
+HR 71,715,House,1990-05-17,Reported enrolled,,,7
+HR 71,715,House,1990-05-17,Adopted,,122,6
+HR 71,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 71,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 71,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 71,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 71,715,House,1990-05-11,Filed,,,1
+HR 72,715,House,1990-05-17,Withdrawn from calendar,,122,6
+HR 72,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 72,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 72,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 72,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 72,715,House,1990-05-11,Filed,,,1
+HR 88,715,House,1990-05-17,Reported enrolled,,,7
+HR 88,715,House,1990-05-17,Adopted,,120,6
+HR 88,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 88,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 88,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 88,715,House,1990-05-15,Referred to Rules and Resolutions,,103,2
+HR 88,715,House,1990-05-15,Filed,,,1
+HR 121,715,House,1990-05-17,Reported enrolled,,,4
+HR 121,715,House,1990-05-17,Adopted,,122,3
+HR 121,715,House,1990-05-17,Rules suspended,,122,2
+HR 121,715,House,1990-05-17,Filed,,,1
+HB 133,715,House,1990-05-25,Filed,,,1
+HR 149,715,House,1990-05-22,Reported enrolled,,,4
+HR 149,715,House,1990-05-22,Adopted,,138,3
+HR 149,715,House,1990-05-22,Rules suspended,,138,2
+HR 149,715,House,1990-05-22,Filed,,,1
+HR 177,715,House,1990-05-29,Withdrawn from calendar,,185,6
+HR 177,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 177,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 177,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 177,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 177,715,House,1990-05-25,Filed,,,1
+HB 118,715,House,1990-05-21,Referred to Public Health,,134,3
+HB 118,715,House,1990-05-21,Read first time,,134,2
+HB 118,715,House,1990-05-17,Filed,,,1
+HR 20,715,House,1990-05-10,Reported enrolled,,,7
+HR 20,715,House,1990-05-10,Adopted,,78,6
+HR 20,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 20,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 20,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 20,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 20,715,House,1990-05-04,Filed,,,1
+HR 35,715,House,1990-05-07,Reported enrolled,,,4
+HR 35,715,House,1990-05-07,Adopted,,,3
+HR 35,715,House,1990-05-07,Rules suspended,,,2
+HR 35,715,House,1990-05-07,Filed,,,1
+HR 36,715,House,1990-05-08,Reported enrolled,,,5
+HR 36,715,House,1990-05-08,Adopted,,,4
+HR 36,715,House,1990-05-08,Rules suspended,,,3
+HR 36,715,House,1990-05-08,Referred to Rules and Resolutions,,,2
+HR 36,715,House,1990-05-07,Filed,,,1
+HR 109,715,House,1990-05-17,Reported enrolled,,,4
+HR 109,715,House,1990-05-17,Adopted,,126,3
+HR 109,715,House,1990-05-17,Rules suspended,,125,2
+HR 109,715,House,1990-05-16,Filed,,,1
+HR 135,715,House,1990-05-21,Reported enrolled,,,4
+HR 135,715,House,1990-05-21,Adopted,,132,3
+HR 135,715,House,1990-05-21,Rules suspended,,132,2
+HR 135,715,House,1990-05-18,Filed,,,1
+HR 179,715,House,1990-05-29,Reported enrolled,,,8
+HR 179,715,House,1990-05-29,Adopted,,185,7
+HR 179,715,House,1990-05-29,Rules suspended,,,6
+HR 179,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 179,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 179,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 179,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 179,715,House,1990-05-25,Filed,,,1
+HR 180,715,House,1990-05-29,Reported enrolled,,,8
+HR 180,715,House,1990-05-29,Adopted,,185,7
+HR 180,715,House,1990-05-29,Rules suspended,,,6
+HR 180,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 180,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 180,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 180,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 180,715,House,1990-05-25,Filed,,,1
+HR 197,715,House,1990-05-29,Reported enrolled,,,4
+HR 197,715,House,1990-05-29,Adopted,,190,3
+HR 197,715,House,1990-05-29,Rules suspended,,189,2
+HR 197,715,House,1990-05-29,Filed,,,1
+HB 28,715,House,1990-05-03,Pending in committee,,,7
+HB 28,715,House,1990-05-03,Testimony received in committee,,,6
+HB 28,715,House,1990-05-03,Considered in public hearing,,,5
+HB 28,715,House,1990-05-03,Posting rule suspended,,,4
+HB 28,715,House,1990-05-02,Referred to Public Education,,,3
+HB 28,715,House,1990-05-02,Read first time,,,2
+HB 28,715,House,1990-05-02,Filed,,,1
+HB 33,715,House,1990-05-07,Referred to Ways & Means,,,3
+HB 33,715,House,1990-05-07,Read first time,,,2
+HB 33,715,House,1990-05-03,Filed,,,1
+HB 34,715,House,1990-05-24,Returned to Calendars Committee,,,14
+HB 34,715,House,1990-05-24,Point of order sustained,,156,13
+HB 34,715,House,1990-05-24,Read 2nd time,,156,12
+HB 34,715,House,1990-05-24,Placed on General State Calendar,,,11
+HB 34,715,House,1990-05-17,Returned to Calendars Committee,,,10
+HB 34,715,House,1990-05-17,Point of order sustained,,127,9
+HB 34,715,House,1990-05-17,Read 2nd time,,127,8
+HB 34,715,House,1990-05-17,Placed on General State Calendar,,,7
+HB 34,715,House,1990-05-15,1st Printing sent to Comm. on Cal.,,,6
+HB 34,715,House,1990-05-09,Reported favorably w/o amendment(s),,88,5
+HB 34,715,House,1990-05-09,Considered in formal meeting,,,4
+HB 34,715,House,1990-05-07,Referred to County Affairs,,,3
+HB 34,715,House,1990-05-07,Read first time,,,2
+HB 34,715,House,1990-05-03,Filed,,,1
+HR 176,715,House,1990-05-29,Reported enrolled,,,8
+HR 176,715,House,1990-05-29,Adopted,,184,7
+HR 176,715,House,1990-05-29,Rules suspended,,,6
+HR 176,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 176,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 176,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 176,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 176,715,House,1990-05-25,Filed,,,1
+HB 114,715,House,1990-05-15,Referred to Appropriations,,102,3
+HB 114,715,House,1990-05-15,Read first time,,102,2
+HB 114,715,House,1990-05-15,Filed,,,1
+HR 194,715,House,1990-05-29,Reported enrolled,,,4
+HR 194,715,House,1990-05-29,Adopted,,186,3
+HR 194,715,House,1990-05-29,Rules suspended,,186,2
+HR 194,715,House,1990-05-29,Filed,,,1
+HB 5,715,House,1990-05-25,Reported favorably w/o amendment(s),,195,5
+HB 5,715,House,1990-05-25,Considered in formal meeting,,,4
+HB 5,715,House,1990-05-24,Referred to Public Health,,150,3
+HB 5,715,House,1990-05-24,Read first time,,150,2
+HB 5,715,House,1990-05-23,Filed,,,1
+HR 132,715,House,1990-05-24,Reported enrolled,,,7
+HR 132,715,House,1990-05-24,Adopted,,153,6
+HR 132,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 132,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 132,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 132,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 132,715,House,1990-05-17,Filed,,,1
+HR 133,715,House,1990-05-24,Reported enrolled,,,7
+HR 133,715,House,1990-05-24,Adopted,,153,6
+HR 133,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 133,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 133,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 133,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 133,715,House,1990-05-17,Filed,,,1
+HR 134,715,House,1990-05-24,Reported enrolled,,,7
+HR 134,715,House,1990-05-24,Adopted,,153,6
+HR 134,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 134,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 134,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 134,715,House,1990-05-21,Referred to Rules and Resolutions,,135,2
+HR 134,715,House,1990-05-17,Filed,,,1
+HR 155,715,House,1990-05-29,Reported enrolled,,,8
+HR 155,715,House,1990-05-29,Adopted,,184,7
+HR 155,715,House,1990-05-29,Rules suspended,,,6
+HR 155,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 155,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 155,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 155,715,House,1990-05-23,Referred to Rules and Resolutions,,145,2
+HR 155,715,House,1990-05-22,Filed,,,1
+HCR 7,715,House,1990-05-07,Referred to Public Health,,,2
+HCR 7,715,House,1990-05-07,Filed,,,1
+HB 109,715,House,1990-05-22,Reported favorably w/amendment(s),,163,6
+HB 109,715,House,1990-05-22,Considered in formal meeting,,,5
+HB 109,715,House,1990-05-22,Scheduled for formal meeting on  . . . . . .,,,4
+HB 109,715,House,1990-05-15,Referred to Appropriations,,102,3
+HB 109,715,House,1990-05-15,Read first time,,102,2
+HB 109,715,House,1990-05-15,Filed,,,1
+HR 21,715,House,1990-05-10,Reported enrolled,,,7
+HR 21,715,House,1990-05-10,Adopted,,78,6
+HR 21,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 21,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 21,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 21,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 21,715,House,1990-05-04,Filed,,,1
+HR 51,715,House,1990-05-17,Reported enrolled,,,7
+HR 51,715,House,1990-05-17,Adopted,,121,6
+HR 51,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 51,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 51,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 51,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 51,715,House,1990-05-09,Filed,,,1
+HR 139,715,House,1990-05-21,Reported enrolled,,,4
+HR 139,715,House,1990-05-21,Adopted,,136,3
+HR 139,715,House,1990-05-21,Rules suspended,,136,2
+HR 139,715,House,1990-05-21,Filed,,,1
+HB 106,715,House,1990-05-25,Recommendations filed with the Spkr.,,173,5
+HB 106,715,House,1990-05-15,Referred to Natural Resources,,102,4
+HB 106,715,House,1990-05-15,Read first time,,101,3
+HB 106,715,House,1990-05-15,Transmitted to the Governor,,116,2
+HB 106,715,House,1990-05-14,Filed,,,1
+HCR 1,715,House,1990-05-02,Referred to Redistricting,,,2
+HCR 1,715,House,1990-05-01,Filed,,,1
+HR 14,715,House,1990-05-03,Reported enrolled,,,4
+HR 14,715,House,1990-05-03,Adopted,,,3
+HR 14,715,House,1990-05-03,Rules suspended,,,2
+HR 14,715,House,1990-05-02,Filed,,,1
+HR 143,715,House,1990-05-21,Reported enrolled,,,4
+HR 143,715,House,1990-05-21,Adopted,,134,3
+HR 143,715,House,1990-05-21,Rules suspended,,134,2
+HR 143,715,House,1990-05-21,Filed,,,1
+HR 183,715,House,1990-05-29,Reported enrolled,,,4
+HR 183,715,House,1990-05-29,Adopted,,188,3
+HR 183,715,House,1990-05-29,Rules suspended,,188,2
+HR 183,715,House,1990-05-28,Filed,,,1
+HB 85,715,House,1990-05-14,Referred to Elections,,93,3
+HB 85,715,House,1990-05-14,Read first time,,93,2
+HB 85,715,House,1990-05-09,Filed,,,1
+HB 86,715,House,1990-05-14,Referred to Elections,,93,3
+HB 86,715,House,1990-05-14,Read first time,,93,2
+HB 86,715,House,1990-05-09,Filed,,,1
+HCR 12,715,House,1990-05-14,Referred to State Affairs,,92,2
+HCR 12,715,House,1990-05-09,Filed,,,1
+HR 145,715,House,1990-05-24,Reported enrolled,,,7
+HR 145,715,House,1990-05-24,Adopted,,153,6
+HR 145,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 145,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 145,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 145,715,House,1990-05-22,Referred to Rules and Resolutions,,140,2
+HR 145,715,House,1990-05-22,Filed,,,1
+HR 170,715,House,1990-05-24,Reported enrolled,,,4
+HR 170,715,House,1990-05-24,Adopted,,162,3
+HR 170,715,House,1990-05-24,Rules suspended,,162,2
+HR 170,715,House,1990-05-24,Filed,,,1
+HB 39,715,House,1990-05-07,Referred to State Affairs,,,3
+HB 39,715,House,1990-05-07,Read first time,,,2
+HB 39,715,House,1990-05-03,Filed,,,1
+HB 79,715,House,1990-05-14,Referred to County Affairs,,93,3
+HB 79,715,House,1990-05-14,Read first time,,93,2
+HB 79,715,House,1990-05-08,Filed,,,1
+HB 80,715,House,1990-05-17,Meeting canceled,,,5
+HB 80,715,House,1990-05-17,Scheduled for formal meeting on  . . . . . .,,,4
+HB 80,715,House,1990-05-14,Referred to Financial Institutions,,93,3
+HB 80,715,House,1990-05-14,Read first time,,93,2
+HB 80,715,House,1990-05-08,Filed,,,1
+HB 121,715,House,1990-05-21,Referred to Judiciary,,135,3
+HB 121,715,House,1990-05-21,Read first time,,135,2
+HB 121,715,House,1990-05-21,Filed,,,1
+HR 164,715,House,1990-05-24,Reported enrolled,,,5
+HR 164,715,House,1990-05-24,Adopted,,154,4
+HR 164,715,House,1990-05-24,Rules suspended,,154,3
+HR 164,715,House,1990-05-24,Referred to Rules and Resolutions,,151,2
+HR 164,715,House,1990-05-24,Filed,,,1
+HR 6,715,House,1990-05-10,Reported enrolled,,,7
+HR 6,715,House,1990-05-10,Adopted,,78,6
+HR 6,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 6,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 6,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 6,715,House,1990-05-02,Referred to Rules and Resolutions,,,2
+HR 6,715,House,1990-05-02,Filed,,,1
+HR 195,715,House,1990-05-29,Reported enrolled,,,4
+HR 195,715,House,1990-05-29,Adopted,,185,3
+HR 195,715,House,1990-05-29,Rules suspended,,185,2
+HR 195,715,House,1990-05-29,Filed,,,1
+HR 196,715,House,1990-05-29,Reported enrolled,,,4
+HR 196,715,House,1990-05-29,Adopted,,185,3
+HR 196,715,House,1990-05-29,Rules suspended,,185,2
+HR 196,715,House,1990-05-29,Filed,,,1
+HB 88,715,House,1990-05-14,Referred to Criminal Jurisprudence,,94,3
+HB 88,715,House,1990-05-14,Read first time,,94,2
+HB 88,715,House,1990-05-09,Filed,,,1
+HB 89,715,House,1990-05-14,Referred to Criminal Jurisprudence,,94,3
+HB 89,715,House,1990-05-14,Read first time,,94,2
+HB 89,715,House,1990-05-09,Filed,,,1
+HB 90,715,House,1990-05-14,Referred to Criminal Jurisprudence,,94,3
+HB 90,715,House,1990-05-14,Read first time,,94,2
+HB 90,715,House,1990-05-09,Filed,,,1
+HR 13,715,House,1990-05-15,Reported enrolled,,,9
+HR 13,715,House,1990-05-15,Adopted,,100,8
+HR 13,715,House,1990-05-15,Rules suspended,,100,7
+HR 13,715,House,1990-05-10,Withdrawn from calendar,,78,6
+HR 13,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 13,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 13,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 13,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 13,715,House,1990-05-02,Filed,,,1
+HR 107,715,House,1990-05-17,Reported enrolled,,,4
+HR 107,715,House,1990-05-17,Adopted,,123,3
+HR 107,715,House,1990-05-17,Rules suspended,,123,2
+HR 107,715,House,1990-05-16,Filed,,,1
+HB 2,715,House,1990-05-23,Referred to Ways & Means,,144,3
+HB 2,715,House,1990-05-23,Read first time,,144,2
+HB 2,715,House,1990-05-22,Filed,,,1
+HR 156,715,House,1990-05-23,Reported enrolled,,,4
+HR 156,715,House,1990-05-23,Adopted,,146,3
+HR 156,715,House,1990-05-23,Rules suspended,,146,2
+HR 156,715,House,1990-05-22,Filed,,,1
+HR 168,715,House,1990-05-25,Reported enrolled,,,4
+HR 168,715,House,1990-05-25,Adopted,,168,3
+HR 168,715,House,1990-05-25,Rules suspended,,168,2
+HR 168,715,House,1990-05-24,Filed,,,1
+HB 7,715,House,1990-05-02,Referred to Appropriations,,,3
+HB 7,715,House,1990-05-02,Read first time,,,2
+HB 7,715,House,1990-05-01,Filed,,,1
+HB 8,715,House,1990-05-02,Referred to Transportation,,,3
+HB 8,715,House,1990-05-02,Read first time,,,2
+HB 8,715,House,1990-05-01,Filed,,,1
+HB 9,715,House,1990-05-02,Referred to Transportation,,,3
+HB 9,715,House,1990-05-02,Read first time,,,2
+HB 9,715,House,1990-05-01,Filed,,,1
+HB 10,715,House,1990-05-22,Reported favorably w/o amendment(s),,163,9
+HB 10,715,House,1990-05-22,Testimony received in committee,,,8
+HB 10,715,House,1990-05-22,Considered in public hearing,,,7
+HB 10,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,6
+HB 10,715,House,1990-05-07,Recommendations filed with the Spkr.,,,5
+HB 10,715,House,1990-05-02,Referred to Natural Resources,,,4
+HB 10,715,House,1990-05-02,Read first time,,,3
+HB 10,715,House,1990-05-01,Transmitted to the Governor,,,2
+HB 10,715,House,1990-05-01,Filed,,,1
+HB 11,715,House,1990-05-22,Reported favorably w/o amendment(s),,163,9
+HB 11,715,House,1990-05-22,Testimony received in committee,,,8
+HB 11,715,House,1990-05-22,Considered in public hearing,,,7
+HB 11,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,6
+HB 11,715,House,1990-05-07,Recommendations filed with the Spkr.,,,5
+HB 11,715,House,1990-05-02,Referred to Natural Resources,,,4
+HB 11,715,House,1990-05-02,Read first time,,,3
+HB 11,715,House,1990-05-01,Transmitted to the Governor,,,2
+HB 11,715,House,1990-05-01,Filed,,,1
+HB 12,715,House,1990-05-02,Referred to Appropriations,,,3
+HB 12,715,House,1990-05-02,Read first time,,,2
+HB 12,715,House,1990-05-01,Filed,,,1
+HB 13,715,House,1990-05-22,Reported favorably w/o amendment(s),,163,9
+HB 13,715,House,1990-05-22,Testimony received in committee,,,8
+HB 13,715,House,1990-05-22,Considered in public hearing,,,7
+HB 13,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,6
+HB 13,715,House,1990-05-11,Recommendations filed with the Spkr.,,96,5
+HB 13,715,House,1990-05-02,Referred to Natural Resources,,,4
+HB 13,715,House,1990-05-02,Read first time,,,3
+HB 13,715,House,1990-05-01,Transmitted to the Governor,,,2
+HB 13,715,House,1990-05-01,Filed,,,1
+HB 16,715,House,1990-05-25,Laid on the table subject to call,,168,12
+HB 16,715,House,1990-05-25,Companion document considered in lieu,,168,11
+HB 16,715,House,1990-05-25,Placed on General State Calendar,,,10
+HB 16,715,House,1990-05-24,Postponed,,158,9
+HB 16,715,House,1990-05-24,Read 2nd time,,158,8
+HB 16,715,House,1990-05-24,Placed on General State Calendar,,,7
+HB 16,715,House,1990-05-22,1st Printing sent to Comm. on Cal.,,,6
+HB 16,715,House,1990-05-22,Reported favorably with substitute,,146,5
+HB 16,715,House,1990-05-22,Considered in formal meeting,,,4
+HB 16,715,House,1990-05-02,Referred to Appropriations,,,3
+HB 16,715,House,1990-05-02,Read first time,,,2
+HB 16,715,House,1990-05-01,Filed,,,1
+HB 17,715,House,1990-05-02,Referred to Appropriations,,,3
+HB 17,715,House,1990-05-02,Read first time,,,2
+HB 17,715,House,1990-05-01,Filed,,,1
+HB 18,715,House,1990-05-02,Referred to Appropriations,,,3
+HB 18,715,House,1990-05-02,Read first time,,,2
+HB 18,715,House,1990-05-01,Filed,,,1
+HB 19,715,House,1990-05-02,Referred to Appropriations,,,3
+HB 19,715,House,1990-05-02,Read first time,,,2
+HB 19,715,House,1990-05-01,Filed,,,1
+HB 22,715,House,1990-05-02,Referred to Judiciary,,,3
+HB 22,715,House,1990-05-02,Read first time,,,2
+HB 22,715,House,1990-05-02,Filed,,,1
+HR 5,715,House,1990-05-02,Reported enrolled,,,4
+HR 5,715,House,1990-05-02,Adopted,,,3
+HR 5,715,House,1990-05-02,Rules suspended,,,2
+HR 5,715,House,1990-05-02,Filed,,,1
+HB 37,715,House,1990-05-22,Reported favorably with substitute,,,6
+HB 37,715,House,1990-05-22,Considered in formal meeting,,,5
+HB 37,715,House,1990-05-22,Scheduled for formal meeting on  . . . . . .,,,4
+HB 37,715,House,1990-05-07,Referred to Appropriations,,,3
+HB 37,715,House,1990-05-07,Read first time,,,2
+HB 37,715,House,1990-05-03,Filed,,,1
+HB 71,715,House,1990-05-08,Referred to Environmental Affairs,,,3
+HB 71,715,House,1990-05-08,Read first time,,,2
+HB 71,715,House,1990-05-07,Filed,,,1
+HR 50,715,House,1990-05-09,Reported enrolled,,,4
+HR 50,715,House,1990-05-09,Adopted,,71,3
+HR 50,715,House,1990-05-09,Rules suspended,,71,2
+HR 50,715,House,1990-05-09,Filed,,,1
+HB 99,715,House,1990-05-14,Referred to County Affairs,,95,3
+HB 99,715,House,1990-05-14,Read first time,,95,2
+HB 99,715,House,1990-05-11,Filed,,,1
+HB 100,715,House,1990-05-14,Referred to State Affairs,,95,3
+HB 100,715,House,1990-05-14,Read first time,,95,2
+HB 100,715,House,1990-05-11,Filed,,,1
+HR 70,715,House,1990-05-17,Reported enrolled,,,7
+HR 70,715,House,1990-05-17,Adopted,,122,6
+HR 70,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 70,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 70,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 70,715,House,1990-05-14,Referred to Rules and Resolutions,,92,2
+HR 70,715,House,1990-05-11,Filed,,,1
+HR 4,715,House,1990-05-10,Reported enrolled,,,8
+HR 4,715,House,1990-05-10,Adopted,,78,7
+HR 4,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,6
+HR 4,715,House,1990-05-09,Coauthor authorized,,,5
+HR 4,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 4,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 4,715,House,1990-05-02,Referred to Rules and Resolutions,,,2
+HR 4,715,House,1990-05-01,Filed,,,1
+HR 17,715,House,1990-05-10,Reported enrolled,,,7
+HR 17,715,House,1990-05-10,Adopted,,78,6
+HR 17,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 17,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 17,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 17,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 17,715,House,1990-05-03,Filed,,,1
+HR 151,715,House,1990-05-24,Reported enrolled,,,7
+HR 151,715,House,1990-05-24,Adopted,,153,6
+HR 151,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 151,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 151,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 151,715,House,1990-05-22,Referred to Rules and Resolutions,,140,2
+HR 151,715,House,1990-05-22,Filed,,,1
+HB 62,715,House,1990-05-08,Referred to Criminal Jurisprudence,,,3
+HB 62,715,House,1990-05-08,Read first time,,,2
+HB 62,715,House,1990-05-07,Filed,,,1
+HB 63,715,House,1990-05-08,Referred to Appropriations,,,3
+HB 63,715,House,1990-05-08,Read first time,,,2
+HB 63,715,House,1990-05-07,Filed,,,1
+HB 64,715,House,1990-05-08,Referred to State Affairs,,,3
+HB 64,715,House,1990-05-08,Read first time,,,2
+HB 64,715,House,1990-05-07,Filed,,,1
+HB 65,715,House,1990-05-08,Referred to Human Services,,,3
+HB 65,715,House,1990-05-08,Read first time,,,2
+HB 65,715,House,1990-05-07,Filed,,,1
+HB 66,715,House,1990-05-08,Referred to Appropriations,,,3
+HB 66,715,House,1990-05-08,Read first time,,,2
+HB 66,715,House,1990-05-07,Filed,,,1
+HB 60,715,House,1990-05-24,Returned to Calendars Committee,,,11
+HB 60,715,House,1990-05-24,Point of order sustained,,157,10
+HB 60,715,House,1990-05-24,Read 2nd time,,157,9
+HB 60,715,House,1990-05-24,Placed on General State Calendar,,,8
+HB 60,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,7
+HB 60,715,House,1990-05-10,Reported favorably w/o amendment(s),,96,6
+HB 60,715,House,1990-05-10,Considered in formal meeting,,,5
+HB 60,715,House,1990-05-10,Scheduled for formal meeting on  . . . . . .,,,4
+HB 60,715,House,1990-05-07,Referred to Financial Institutions,,,3
+HB 60,715,House,1990-05-07,Read first time,,,2
+HB 60,715,House,1990-05-07,Filed,,,1
+HB 29,715,House,1990-05-21,Reported favorably w/o amendment(s),,146,6
+HB 29,715,House,1990-05-21,Considered in formal meeting,,,5
+HB 29,715,House,1990-05-21,Scheduled for formal meeting on  . . . . . .,,,4
+HB 29,715,House,1990-05-07,Referred to Natural Resources,,,3
+HB 29,715,House,1990-05-07,Read first time,,,2
+HB 29,715,House,1990-05-02,Filed,,,1
+HB 30,715,House,1990-05-03,Pending in committee,,,7
+HB 30,715,House,1990-05-03,Testimony received in committee,,,6
+HB 30,715,House,1990-05-03,Considered in public hearing,,,5
+HB 30,715,House,1990-05-03,Posting rule suspended,,,4
+HB 30,715,House,1990-05-03,Referred to Public Education,,,3
+HB 30,715,House,1990-05-03,Read first time,,,2
+HB 30,715,House,1990-05-03,Filed,,,1
+HB 53,715,House,1990-05-21,Reported favorably w/o amendment(s),,146,6
+HB 53,715,House,1990-05-21,Considered in formal meeting,,,5
+HB 53,715,House,1990-05-21,Scheduled for formal meeting on  . . . . . .,,,4
+HB 53,715,House,1990-05-07,Referred to Natural Resources,,,3
+HB 53,715,House,1990-05-07,Read first time,,,2
+HB 53,715,House,1990-05-04,Filed,,,1
+HB 57,715,House,1990-05-22,Reported favorably w/o amendment(s),,163,7
+HB 57,715,House,1990-05-22,Testimony received in committee,,,6
+HB 57,715,House,1990-05-22,Considered in public hearing,,,5
+HB 57,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,4
+HB 57,715,House,1990-05-07,Referred to Natural Resources,,,3
+HB 57,715,House,1990-05-07,Read first time,,,2
+HB 57,715,House,1990-05-07,Filed,,,1
+HB 69,715,House,1990-05-21,Reported favorably w/o amendment(s),,146,8
+HB 69,715,House,1990-05-21,Considered in formal meeting,,,7
+HB 69,715,House,1990-05-21,Scheduled for formal meeting on  . . . . . .,,,6
+HB 69,715,House,1990-05-21,Recommendations filed with the Spkr.,,141,5
+HB 69,715,House,1990-05-08,Referred to Natural Resources,,,4
+HB 69,715,House,1990-05-08,Read first time,,,3
+HB 69,715,House,1990-05-07,Transmitted to the Governor,,74,2
+HB 69,715,House,1990-05-07,Filed,,,1
+HB 120,715,House,1990-05-23,Recommendations filed with the Spkr.,,163,9
+HB 120,715,House,1990-05-22,Pending in committee,,,8
+HB 120,715,House,1990-05-22,Testimony received in committee,,,7
+HB 120,715,House,1990-05-22,Considered in public hearing,,,6
+HB 120,715,House,1990-05-22,Posting rule suspended,,140,5
+HB 120,715,House,1990-05-21,Referred to Natural Resources,,135,4
+HB 120,715,House,1990-05-21,Read first time,,135,3
+HB 120,715,House,1990-05-21,Transmitted to the Governor,,141,2
+HB 120,715,House,1990-05-18,Filed,,,1
+HB 130,715,House,1990-05-24,Referred to Public Education,,151,3
+HB 130,715,House,1990-05-24,Read first time,,151,2
+HB 130,715,House,1990-05-23,Filed,,,1
+HCR 22,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 22,715,House,1990-05-24,Sent to the Governor,,173,12
+HCR 22,715,Senate,1990-05-24,Signed in the Senate,,153,11
+HCR 22,715,House,1990-05-24,Signed in the House,,150,10
+HCR 22,715,House,1990-05-23,Reported enrolled,,163,9
+HCR 22,715,House,1990-05-23,Returned from the Senate,,144,8
+HCR 22,715,Senate,1990-05-22,Read & adopted,,147,7
+HCR 22,715,Senate,1990-05-22,Rules suspended,,147,6
+HCR 22,715,Senate,1990-05-17,Received from House,,139,5
+HCR 22,715,House,1990-05-17,Sent to the Senate,,,4
+HCR 22,715,House,1990-05-17,Adopted,,126,3
+HCR 22,715,House,1990-05-17,Rules suspended,,126,2
+HCR 22,715,House,1990-05-15,Filed,,,1
+HR 18,715,House,1990-05-10,Reported enrolled,,,7
+HR 18,715,House,1990-05-10,Adopted,,78,6
+HR 18,715,House,1990-05-10,Placed on Congratulatory & Mem. Cal.,,,5
+HR 18,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 18,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 18,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 18,715,House,1990-05-04,Filed,,,1
+HR 104,715,House,1990-05-24,Reported enrolled,,,7
+HR 104,715,House,1990-05-24,Adopted,,152,6
+HR 104,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 104,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 104,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 104,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 104,715,House,1990-05-16,Filed,,,1
+HB 68,715,House,1990-05-24,Returned to Calendars Committee,,,14
+HB 68,715,House,1990-05-24,Point of order sustained,,157,13
+HB 68,715,House,1990-05-24,Read 2nd time,,157,12
+HB 68,715,House,1990-05-24,Placed on General State Calendar,,,11
+HB 68,715,House,1990-05-17,Returned to Calendars Committee,,,10
+HB 68,715,House,1990-05-17,Point of order sustained,,128,9
+HB 68,715,House,1990-05-17,Read 2nd time,,127,8
+HB 68,715,House,1990-05-17,Placed on General State Calendar,,,7
+HB 68,715,House,1990-05-15,1st Printing sent to Comm. on Cal.,,,6
+HB 68,715,House,1990-05-09,Reported favorably w/o amendment(s),,88,5
+HB 68,715,House,1990-05-09,Considered in formal meeting,,,4
+HB 68,715,House,1990-05-08,Referred to County Affairs,,,3
+HB 68,715,House,1990-05-08,Read first time,,,2
+HB 68,715,House,1990-05-07,Filed,,,1
+HB 117,715,House,1990-05-17,Referred to State Affairs,,130,3
+HB 117,715,House,1990-05-17,Read first time,,130,2
+HB 117,715,House,1990-05-17,Filed,,,1
+HR 130,715,House,1990-05-17,Reported enrolled,,,4
+HR 130,715,House,1990-05-17,Adopted,,126,3
+HR 130,715,House,1990-05-17,Rules suspended,,126,2
+HR 130,715,House,1990-05-17,Filed,,,1
+HR 131,715,House,1990-05-17,Reported enrolled,,,4
+HR 131,715,House,1990-05-17,Adopted,,127,3
+HR 131,715,House,1990-05-17,Rules suspended,,126,2
+HR 131,715,House,1990-05-17,Filed,,,1
+HR 96,715,House,1990-05-17,Reported enrolled,,,4
+HR 96,715,House,1990-05-17,Adopted,,123,3
+HR 96,715,House,1990-05-17,Rules suspended,,123,2
+HR 96,715,House,1990-05-15,Filed,,,1
+HR 98,715,House,1990-05-24,Reported enrolled,,,7
+HR 98,715,House,1990-05-24,Adopted,,152,6
+HR 98,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 98,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 98,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 98,715,House,1990-05-17,Referred to Rules and Resolutions,,128,2
+HR 98,715,House,1990-05-15,Filed,,,1
+HJR 2,715,House,1990-05-07,Referred to Public Education,,,3
+HJR 2,715,House,1990-05-07,Read first time,,,2
+HJR 2,715,House,1990-05-02,Filed,,,1
+HR 162,715,House,1990-05-29,Reported enrolled,,,8
+HR 162,715,House,1990-05-29,Adopted,,184,7
+HR 162,715,House,1990-05-29,Rules suspended,,,6
+HR 162,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 162,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 162,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 162,715,House,1990-05-24,Referred to Rules and Resolutions,,151,2
+HR 162,715,House,1990-05-23,Filed,,,1
+HR 161,715,House,1990-05-24,Reported enrolled,,,4
+HR 161,715,House,1990-05-24,Adopted,,155,3
+HR 161,715,House,1990-05-24,Rules suspended,,155,2
+HR 161,715,House,1990-05-23,Filed,,,1
+HR 7,715,House,1990-05-02,Reported enrolled,,,4
+HR 7,715,House,1990-05-02,Adopted,,,3
+HR 7,715,House,1990-05-02,Rules suspended,,,2
+HR 7,715,House,1990-05-02,Filed,,,1
+HB 107,715,House,1990-05-15,Referred to County Affairs,,102,3
+HB 107,715,House,1990-05-15,Read first time,,102,2
+HB 107,715,House,1990-05-15,Filed,,,1
+HR 167,715,House,1990-05-24,Reported enrolled,,,4
+HR 167,715,House,1990-05-24,Adopted,,154,3
+HR 167,715,House,1990-05-24,Rules suspended,,154,2
+HR 167,715,House,1990-05-24,Filed,,,1
+HR 37,715,House,1990-05-17,Reported enrolled,,,7
+HR 37,715,House,1990-05-17,Adopted,,120,6
+HR 37,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 37,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 37,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 37,715,House,1990-05-08,Referred to Rules and Resolutions,,,2
+HR 37,715,House,1990-05-07,Filed,,,1
+HR 158,715,House,1990-05-23,Reported enrolled,,,4
+HR 158,715,House,1990-05-23,Adopted,,146,3
+HR 158,715,House,1990-05-23,Rules suspended,,146,2
+HR 158,715,House,1990-05-23,Filed,,,1
+HCR 21,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 21,715,House,1990-05-22,Sent to the Governor,,147,12
+HCR 21,715,Senate,1990-05-22,Signed in the Senate,,145,11
+HCR 21,715,House,1990-05-21,Signed in the House,,132,10
+HCR 21,715,House,1990-05-17,Reported enrolled,,141,9
+HCR 21,715,House,1990-05-17,Returned from the Senate,,119,8
+HCR 21,715,Senate,1990-05-15,Read & adopted,,138,7
+HCR 21,715,Senate,1990-05-15,Rules suspended,,138,6
+HCR 21,715,Senate,1990-05-15,Received from House,,129,5
+HCR 21,715,House,1990-05-15,Sent to the Senate,,,4
+HCR 21,715,House,1990-05-15,Adopted,,114,3
+HCR 21,715,House,1990-05-15,Rules suspended,,114,2
+HCR 21,715,House,1990-05-15,Filed,,,1
+HR 40,715,House,1990-05-09,Reported enrolled,,,4
+HR 40,715,House,1990-05-09,Adopted,,71,3
+HR 40,715,House,1990-05-09,Rules suspended,,70,2
+HR 40,715,House,1990-05-08,Filed,,,1
+HR 198,715,House,1990-05-29,Reported enrolled,,,4
+HR 198,715,House,1990-05-29,Adopted,,193,3
+HR 198,715,House,1990-05-29,Rules suspended,,193,2
+HR 198,715,House,1990-05-29,Filed,,,1
+HB 31,715,House,1990-05-07,Referred to Transportation,,,3
+HB 31,715,House,1990-05-07,Read first time,,,2
+HB 31,715,House,1990-05-03,Filed,,,1
+HCR 4,715,House,1990-06-05,Signed by the Governor,,,18
+HCR 4,715,House,1990-05-30,Sent to the Governor,,195,17
+HCR 4,715,Senate,1990-05-30,Signed in the Senate,,168,16
+HCR 4,715,House,1990-05-29,Signed in the House,,193,15
+HCR 4,715,House,1990-05-29,Reported enrolled,,195,14
+HCR 4,715,House,1990-05-29,Returned from the Senate,,188,13
+HCR 4,715,Senate,1990-05-29,Read & adopted,,167,12
+HCR 4,715,Senate,1990-05-29,Rules suspended,,167,11
+HCR 4,715,Senate,1990-05-25,Received from House,,156,10
+HCR 4,715,House,1990-05-25,Sent to the Senate,,,9
+HCR 4,715,House,1990-05-25,Adopted,,168,8
+HCR 4,715,House,1990-05-25,Placed on Resolutions Calendar,,,7
+HCR 4,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,6
+HCR 4,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,5
+HCR 4,715,House,1990-05-15,Considered in public hearing,,,4
+HCR 4,715,House,1990-05-15,Posting rule suspended,,114,3
+HCR 4,715,House,1990-05-07,"Referred to State, Fed. & Intl. Relations",,,2
+HCR 4,715,House,1990-05-03,Filed,,,1
+HR 117,715,House,1990-05-17,Reported enrolled,,,4
+HR 117,715,House,1990-05-17,Adopted,,126,3
+HR 117,715,House,1990-05-17,Rules suspended,,126,2
+HR 117,715,House,1990-05-16,Filed,,,1
+HB 104,715,House,1990-05-15,Referred to Ways & Means,,101,3
+HB 104,715,House,1990-05-15,Read first time,,101,2
+HB 104,715,House,1990-05-14,Filed,,,1
+HB 132,715,House,1990-05-24,Coauthor authorized,,,4
+HB 132,715,House,1990-05-24,Referred to Public Education,,151,3
+HB 132,715,House,1990-05-24,Read first time,,151,2
+HB 132,715,House,1990-05-24,Filed,,,1
+HB 75,715,House,1990-05-14,Referred to Transportation,,92,3
+HB 75,715,House,1990-05-14,Read first time,,92,2
+HB 75,715,House,1990-05-08,Filed,,,1
+HB 76,715,House,1990-05-14,Referred to Ways & Means,,93,3
+HB 76,715,House,1990-05-14,Read first time,,93,2
+HB 76,715,House,1990-05-08,Filed,,,1
+HB 77,715,House,1990-05-14,Referred to Criminal Jurisprudence,,93,3
+HB 77,715,House,1990-05-14,Read first time,,93,2
+HB 77,715,House,1990-05-08,Filed,,,1
+HR 186,715,House,1990-05-29,Reported enrolled,,,4
+HR 186,715,House,1990-05-29,Adopted,,187,3
+HR 186,715,House,1990-05-29,Rules suspended,,187,2
+HR 186,715,House,1990-05-28,Filed,,,1
+HB 97,715,House,1990-05-22,Pending in committee,,,6
+HB 97,715,House,1990-05-22,Considered in formal meeting,,,5
+HB 97,715,House,1990-05-15,Coauthor authorized,,,4
+HB 97,715,House,1990-05-14,Referred to Appropriations,,94,3
+HB 97,715,House,1990-05-14,Read first time,,94,2
+HB 97,715,House,1990-05-11,Filed,,,1
+HB 98,715,House,1990-05-22,Pending in committee,,,6
+HB 98,715,House,1990-05-22,Considered in formal meeting,,,5
+HB 98,715,House,1990-05-22,Scheduled for formal meeting on  . . . . . .,,,4
+HB 98,715,House,1990-05-14,Referred to Appropriations,,94,3
+HB 98,715,House,1990-05-14,Read first time,,94,2
+HB 98,715,House,1990-05-11,Filed,,,1
+HR 43,715,House,1990-05-17,Reported enrolled,,,7
+HR 43,715,House,1990-05-17,Adopted,,120,6
+HR 43,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 43,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 43,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 43,715,House,1990-05-14,Referred to Rules and Resolutions,,91,2
+HR 43,715,House,1990-05-08,Filed,,,1
+HR 175,715,House,1990-05-29,Reported enrolled,,,8
+HR 175,715,House,1990-05-29,Adopted,,184,7
+HR 175,715,House,1990-05-29,Rules suspended,,,6
+HR 175,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 175,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 175,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 175,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 175,715,House,1990-05-25,Filed,,,1
+HR 38,715,House,1990-05-17,Reported enrolled,,,7
+HR 38,715,House,1990-05-17,Adopted,,120,6
+HR 38,715,House,1990-05-17,Placed on Congratulatory & Mem. Cal.,,,5
+HR 38,715,House,1990-05-15,Reported favorably w/o amendment(s),,130,4
+HR 38,715,House,1990-05-15,Considered in formal meeting,,,3
+HR 38,715,House,1990-05-08,Referred to Rules and Resolutions,,,2
+HR 38,715,House,1990-05-07,Filed,,,1
+HB 35,715,House,1990-05-07,Referred to State Affairs,,,3
+HB 35,715,House,1990-05-07,Read first time,,,2
+HB 35,715,House,1990-05-03,Filed,,,1
+HB 36,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,5
+HB 36,715,House,1990-05-22,Considered in formal meeting,,,4
+HB 36,715,House,1990-05-07,Referred to Ways & Means,,,3
+HB 36,715,House,1990-05-07,Read first time,,,2
+HB 36,715,House,1990-05-03,Filed,,,1
+HB 113,715,House,1990-05-25,Recommendations filed with the Spkr.,,182,8
+HB 113,715,House,1990-05-21,Laid on table subj. to call in comm.,,,7
+HB 113,715,House,1990-05-21,Considered in formal meeting,,,6
+HB 113,715,House,1990-05-21,Scheduled for formal meeting on  . . . . . .,,,5
+HB 113,715,House,1990-05-15,Transmitted to the Governor,,116,4
+HB 113,715,House,1990-05-15,Referred to Natural Resources,,102,3
+HB 113,715,House,1990-05-15,Read first time,,102,2
+HB 113,715,House,1990-05-15,Filed,,,1
+HR 33,715,House,1990-05-08,Reported enrolled,,,7
+HR 33,715,House,1990-05-08,Adopted,,,6
+HR 33,715,House,1990-05-08,Rules suspended,,,5
+HR 33,715,House,1990-05-07,Reported favorably w/o amendment(s),,,4
+HR 33,715,House,1990-05-07,Considered in formal meeting,,,3
+HR 33,715,House,1990-05-07,Referred to Rules and Resolutions,,,2
+HR 33,715,House,1990-05-07,Filed,,,1
+HR 118,715,House,1990-05-21,Reported enrolled,,,5
+HR 118,715,House,1990-05-21,Adopted,,133,4
+HR 118,715,House,1990-05-21,Rules suspended,,133,3
+HR 118,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 118,715,House,1990-05-16,Filed,,,1
+HJR 5,715,House,1990-05-15,Referred to State Affairs,,101,3
+HJR 5,715,House,1990-05-15,Read first time,,101,2
+HJR 5,715,House,1990-05-15,Filed,,,1
+HR 55,715,House,1990-05-10,Reported enrolled,,,4
+HR 55,715,House,1990-05-10,Adopted,,77,3
+HR 55,715,House,1990-05-10,Rules suspended,,77,2
+HR 55,715,House,1990-05-09,Filed,,,1
+HR 114,715,House,1990-05-24,Reported enrolled,,,7
+HR 114,715,House,1990-05-24,Adopted,,152,6
+HR 114,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 114,715,House,1990-05-22,Reported favorably w/o amendment(s),,146,4
+HR 114,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 114,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 114,715,House,1990-05-16,Filed,,,1
+HR 115,715,House,1990-05-24,Reported enrolled,,,7
+HR 115,715,House,1990-05-24,Adopted,,151,6
+HR 115,715,House,1990-05-24,Placed on Congratulatory & Mem. Cal.,,,5
+HR 115,715,House,1990-05-22,Reported favorably w/o amendment(s),,147,4
+HR 115,715,House,1990-05-22,Considered in formal meeting,,,3
+HR 115,715,House,1990-05-17,Referred to Rules and Resolutions,,129,2
+HR 115,715,House,1990-05-16,Filed,,,1
+HR 152,715,House,1990-05-22,Reported enrolled,,,4
+HR 152,715,House,1990-05-22,Adopted,,139,3
+HR 152,715,House,1990-05-22,Rules suspended,,139,2
+HR 152,715,House,1990-05-22,Filed,,,1
+HR 178,715,House,1990-05-28,Reported enrolled,,,4
+HR 178,715,House,1990-05-28,Adopted,,176,3
+HR 178,715,House,1990-05-28,Rules suspended,,176,2
+HR 178,715,House,1990-05-25,Filed,,,1
+HR 190,715,House,1990-05-29,Reported enrolled,,,4
+HR 190,715,House,1990-05-29,Adopted,,186,3
+HR 190,715,House,1990-05-29,Rules suspended,,185,2
+HR 190,715,House,1990-05-29,Filed,,,1
+HR 191,715,House,1990-05-29,Reported enrolled,,,4
+HR 191,715,House,1990-05-29,Adopted,,186,3
+HR 191,715,House,1990-05-29,Rules suspended,,186,2
+HR 191,715,House,1990-05-29,Filed,,,1
+HB 20,715,House,1990-05-07,Referred to Transportation,,,3
+HB 20,715,House,1990-05-07,Read first time,,,2
+HB 20,715,House,1990-05-01,Filed,,,1
+HB 58,715,House,1990-05-07,Referred to Criminal Jurisprudence,,,3
+HB 58,715,House,1990-05-07,Read first time,,,2
+HB 58,715,House,1990-05-07,Filed,,,1
+HB 59,715,House,1990-05-07,Referred to Urban Affairs,,,3
+HB 59,715,House,1990-05-07,Read first time,,,2
+HB 59,715,House,1990-05-07,Filed,,,1
+HB 96,715,House,1990-05-14,Referred to Urban Affairs,,94,3
+HB 96,715,House,1990-05-14,Read first time,,94,2
+HB 96,715,House,1990-05-11,Filed,,,1
+HB 115,715,House,1990-05-21,1st Printing sent to Comm. on Cal.,,,6
+HB 115,715,House,1990-05-17,Reported favorably w/o amendment(s),,141,5
+HB 115,715,House,1990-05-17,Considered in formal meeting,,,4
+HB 115,715,House,1990-05-17,Referred to Liquor Regulation,,129,3
+HB 115,715,House,1990-05-17,Read first time,,129,2
+HB 115,715,House,1990-05-16,Filed,,,1
+HCR 11,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 11,715,House,1990-05-22,Sent to the Governor,,147,12
+HCR 11,715,Senate,1990-05-22,Signed in the Senate,,145,11
+HCR 11,715,House,1990-05-21,Signed in the House,,132,10
+HCR 11,715,House,1990-05-17,Reported enrolled,,141,9
+HCR 11,715,House,1990-05-17,Returned from the Senate,,118,8
+HCR 11,715,Senate,1990-05-15,Read & adopted,,138,7
+HCR 11,715,Senate,1990-05-15,Rules suspended,,138,6
+HCR 11,715,Senate,1990-05-09,Received from House,,39,5
+HCR 11,715,House,1990-05-09,Sent to the Senate,,,4
+HCR 11,715,House,1990-05-09,Adopted,,71,3
+HCR 11,715,House,1990-05-09,Rules suspended,,71,2
+HCR 11,715,House,1990-05-09,Filed,,,1
+HCR 18,715,House,1990-06-05,Signed by the Governor,,,13
+HCR 18,715,House,1990-05-30,Sent to the Governor,,195,12
+HCR 18,715,Senate,1990-05-30,Signed in the Senate,,173,11
+HCR 18,715,House,1990-05-30,Signed in the House,,194,10
+HCR 18,715,House,1990-05-30,Reported enrolled,,195,9
+HCR 18,715,House,1990-05-30,Returned from the Senate,,194,8
+HCR 18,715,Senate,1990-05-30,Read & adopted,,173,7
+HCR 18,715,Senate,1990-05-30,Rules suspended,,173,6
+HCR 18,715,Senate,1990-05-15,Received from House,,125,5
+HCR 18,715,House,1990-05-15,Sent to the Senate,,,4
+HCR 18,715,House,1990-05-15,Adopted,,98,3
+HCR 18,715,House,1990-05-15,Rules suspended,,98,2
+HCR 18,715,House,1990-05-15,Filed,,,1
+HCR 19,715,House,1990-06-05,Signed by the Governor,,,14
+HCR 19,715,House,1990-05-30,Sent to the Governor,,195,13
+HCR 19,715,Senate,1990-05-30,Signed in the Senate,,173,12
+HCR 19,715,House,1990-05-30,Signed in the House,,194,11
+HCR 19,715,House,1990-05-30,Reported enrolled,,195,10
+HCR 19,715,House,1990-05-30,Returned from the Senate,,194,9
+HCR 19,715,Senate,1990-05-30,Read & adopted,,173,8
+HCR 19,715,Senate,1990-05-30,Rules suspended,,173,7
+HCR 19,715,Senate,1990-05-24,Received from House,,153,6
+HCR 19,715,House,1990-05-24,Sent to the Senate,,,5
+HCR 19,715,House,1990-05-24,Adopted,,155,4
+HCR 19,715,House,1990-05-24,Rules suspended,,155,3
+HCR 19,715,House,1990-05-15,Referred to Rules and Resolutions,,103,2
+HCR 19,715,House,1990-05-15,Filed,,,1
+HR 34,715,House,1990-05-22,Laid on table subj. to call in comm.,,,6
+HR 34,715,House,1990-05-22,Testimony received in committee,,,5
+HR 34,715,House,1990-05-22,Considered in public hearing,,,4
+HR 34,715,House,1990-05-22,Scheduled for public hearing on  . . . . . .,,,3
+HR 34,715,House,1990-05-07,Referred to Natural Resources,,,2
+HR 34,715,House,1990-05-07,Filed,,,1
+HR 181,715,House,1990-05-29,Reported enrolled,,,8
+HR 181,715,House,1990-05-29,Adopted,,185,7
+HR 181,715,House,1990-05-29,Rules suspended,,,6
+HR 181,715,House,1990-05-30,Placed on Congratulatory & Mem. Cal.,,,5
+HR 181,715,House,1990-05-28,Reported favorably w/o amendment(s),,195,4
+HR 181,715,House,1990-05-28,Considered in formal meeting,,,3
+HR 181,715,House,1990-05-28,Referred to Rules and Resolutions,,181,2
+HR 181,715,House,1990-05-28,Filed,,,1
+HB 48,715,House,1990-05-07,Referred to State Affairs,,,3
+HB 48,715,House,1990-05-07,Read first time,,,2
+HB 48,715,House,1990-05-04,Filed,,,1
+HB 49,715,House,1990-05-16,Meeting canceled,,,5
+HB 49,715,House,1990-05-16,Scheduled for public hearing on  . . . . . .,,,4
+HB 49,715,House,1990-05-07,Referred to Corrections,,,3
+HB 49,715,House,1990-05-07,Read first time,,,2
+HB 49,715,House,1990-05-04,Filed,,,1
+HB 50,715,House,1990-05-07,Referred to State Affairs,,,3
+HB 50,715,House,1990-05-07,Read first time,,,2
+HB 50,715,House,1990-05-04,Filed,,,1
+HB 51,715,House,1990-05-07,Referred to Judicial Affairs,,,3
+HB 51,715,House,1990-05-07,Read first time,,,2
+HB 51,715,House,1990-05-04,Filed,,,1
+HB 52,715,House,1990-05-07,Referred to Judicial Affairs,,,3
+HB 52,715,House,1990-05-07,Read first time,,,2
+HB 52,715,House,1990-05-04,Filed,,,1
+HR 46,715,House,1990-05-09,Reported enrolled,,,4
+HR 46,715,House,1990-05-09,Adopted,,,3
+HR 46,715,House,1990-05-09,Rules suspended,,,2
+HR 46,715,House,1990-05-09,Filed,,,1
+HB 47,715,House,1990-05-24,Returned to Calendars Committee,,,10
+HB 47,715,House,1990-05-24,Point of order sustained,,157,9
+HB 47,715,House,1990-05-24,Read 2nd time,,157,8
+HB 47,715,House,1990-05-25,Placed on General State Calendar,,,7
+HB 47,715,House,1990-05-17,1st Printing sent to Comm. on Cal.,,,6
+HB 47,715,House,1990-05-08,Reported favorably w/o amendment(s),,130,5
+HB 47,715,House,1990-05-08,Considered in formal meeting,,,4
+HB 47,715,House,1990-05-07,Referred to Energy,,,3
+HB 47,715,House,1990-05-07,Read first time,,,2
+HB 47,715,House,1990-05-04,Filed,,,1

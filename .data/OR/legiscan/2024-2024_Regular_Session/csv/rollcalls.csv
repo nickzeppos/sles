@@ -1,0 +1,643 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1836018,1385157,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",4,1,0,0,5
+1836018,1400933,2024-03-01,Senate,"Senate Committee Do pass the A-Eng bill",14,9,0,1,24
+1836018,1403014,2024-03-05,Senate,"Senate Third Reading",17,12,0,1,30
+1836018,1405225,2024-03-07,House,"House Third Reading",8,48,0,4,60
+1835908,1383179,2024-02-13,Senate,"Senate Committee Do pass with amendments and requesting subsequent referral to Ways and Means be rescinded. (Printed A-Eng.)",5,0,0,0,5
+1835908,1389477,2024-02-20,Senate,"Senate Third Reading",29,1,0,0,30
+1835908,1396629,2024-02-27,House,"House Committee Do Pass",7,1,0,1,9
+1835908,1402488,2024-03-04,House,"House Third Reading",53,3,0,4,60
+1835910,1380416,2024-02-08,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",5,2,0,0,7
+1835912,1394446,2024-02-26,House,"House Committee Without recommendation as to passage, with amendments, and be referred to Ways and Means by prior reference. (Printed A-Eng.)",5,2,0,0,7
+1835914,1385338,2024-02-15,House,"House Committee Do Pass",10,0,0,0,10
+1835914,1388700,2024-02-20,House,"House Third Reading",58,0,0,2,60
+1835914,1396450,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1835914,1402713,2024-03-05,Senate,"Senate Third Reading",29,0,0,1,30
+1835915,1394931,2024-02-26,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1835915,1400827,2024-03-01,Senate,"Senate Third Reading",30,0,0,0,30
+1835915,1403613,2024-03-05,House,"House Committee Do Pass the A-Eng bill",7,0,0,0,7
+1835915,1404580,2024-03-06,House,"House Third Reading",55,0,0,5,60
+1835916,1383949,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",8,0,0,1,9
+1835917,1384231,2024-02-14,House,House,11,0,0,0,11
+1835917,1387374,2024-02-19,House,"House Third Reading",54,0,0,6,60
+1835917,1397442,2024-02-28,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1835917,1401883,2024-03-04,Senate,"Senate Third Reading",30,0,0,0,30
+1835918,1385594,2024-02-15,House,House,9,1,0,1,11
+1835920,1385587,2024-02-15,Senate,"Senate Committee Do pass",5,0,0,0,5
+1835920,1388559,2024-02-20,Senate,"Senate Third Reading",14,16,0,0,30
+1835920,1388560,2024-02-20,Senate,"Senate Motion to Reconsider",26,3,0,1,30
+1835920,1388561,2024-02-20,Senate,"Senate Motion to Refer",28,2,0,0,30
+1835920,1397004,2024-02-27,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",4,1,0,0,5
+1835920,1401558,2024-03-04,Senate,"Senate Third Reading",16,14,0,0,30
+1835922,1402646,2024-03-05,House,"House Committee Do pass with amendments. (Printed A-Eng.)",7,0,0,0,7
+1835922,1404038,2024-03-06,House,"House Third Reading",56,0,0,4,60
+1835922,1404606,2024-03-06,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1835922,1405361,2024-03-07,Senate,"Senate Third Reading",28,0,0,2,30
+1835924,1401434,2024-03-04,House,"House Committee Do pass with amendments. (Printed A-Eng.)",7,0,0,0,7
+1835924,1402967,2024-03-05,House,"House Third Reading",36,17,0,7,60
+1835924,1404513,2024-03-06,Senate,"Senate Committee Do pass the A-Eng bill",4,1,0,0,5
+1835924,1405544,2024-03-07,Senate,"Senate Third Reading",28,0,0,2,30
+1835925,1379868,2024-02-07,House,"House Committee Do pass and be referred to Revenue by prior reference",7,0,0,0,7
+1835926,1383114,2024-02-13,Senate,"Senate Committee Do pass and refer to Ways and Means by prior reference",5,0,0,0,5
+1835926,1393597,2024-02-23,Senate,"Senate Committee Do pass",22,0,0,2,24
+1835926,1398166,2024-02-28,Senate,"Senate Third Reading",26,4,0,0,30
+1835926,1403908,2024-03-06,House,"House Committee Do pass with amendments. (Printed A-Eng.)",6,1,0,0,7
+1835926,1404744,2024-03-06,House,"House Third Reading",55,2,0,3,60
+1835926,1405691,2024-03-07,Senate,"Senate Third Reading in Concurrence",24,4,0,2,30
+1835927,1381765,2024-02-12,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",11,0,0,0,11
+1835927,1400953,2024-03-01,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1835927,1402068,2024-03-04,House,"House Third Reading",51,1,0,8,60
+1835927,1404016,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1835928,1393588,2024-02-22,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",9,0,0,3,12
+1835929,1384027,2024-02-13,House,"House Committee Do pass and rescind subsequent referral to Ways and Means and be placed on the Consent Calendar",7,0,0,0,7
+1835929,1389467,2024-02-20,House,"House Third Reading",55,3,0,2,60
+1835929,1400045,2024-02-29,Senate,"Senate Committee Do pass",3,0,0,2,5
+1835929,1403659,2024-03-05,Senate,"Senate Third Reading",21,9,0,0,30
+1835930,1392115,2024-02-22,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",4,0,0,1,5
+1835930,1397536,2024-02-28,Senate,"Senate Third Reading",30,0,0,0,30
+1835930,1401440,2024-03-04,House,"House Committee Do pass with amendments. (Printed B-Eng.)",7,0,0,0,7
+1835930,1403468,2024-03-05,House,"House Third Reading",51,0,0,9,60
+1835930,1404401,2024-03-06,Senate,"Senate Third Reading in Concurrence",29,0,0,1,30
+1835931,1381873,2024-02-12,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1835932,1383788,2024-02-13,House,House,7,0,0,0,7
+1835932,1385668,2024-02-15,House,"House Third Reading",54,0,0,6,60
+1835932,1397140,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1835932,1402396,2024-03-04,Senate,"Senate Third Reading",30,0,0,0,30
+1835933,1385005,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1835935,1385116,2024-02-14,House,House,7,0,0,0,7
+1835935,1400567,2024-03-01,House,"House Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1835935,1402158,2024-03-04,House,"House Third Reading",57,0,0,3,60
+1835935,1404057,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1835936,1385479,2024-02-15,House,"House Withdraw from Committee",26,31,0,3,60
+1835937,1393506,2024-02-22,House,"House Committee Do pass with amendments. (Printed A-Eng.)",9,0,0,3,12
+1835937,1395782,2024-02-27,House,"House Third Reading",59,0,0,1,60
+1835937,1401606,2024-03-04,Senate,"Senate Third Reading",28,2,0,0,30
+1835938,1392442,2024-02-22,Senate,"Senate Committee Do adopt",4,0,0,1,5
+1835938,1398144,2024-02-28,Senate,"Senate Final Reading",30,0,0,0,30
+1835938,1402398,2024-03-04,House,"House Committee Be Adopted",6,0,0,1,7
+1835938,1403651,2024-03-05,House,"House Read and Adopted",50,0,0,10,60
+1835939,1385957,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1835940,1385033,2024-02-14,Senate,Senate,5,0,0,0,5
+1835940,1388945,2024-02-20,Senate,"Senate Third Reading",26,4,0,0,30
+1835940,1394649,2024-02-26,House,"House Committee Do Pass the A-Eng bill",11,0,0,0,11
+1835940,1397853,2024-02-28,House,"House Third Reading",51,3,0,6,60
+1835941,1378451,2024-02-07,Senate,Senate,5,0,0,0,5
+1835941,1383397,2024-02-13,Senate,"Senate Third Reading",27,3,0,0,30
+1835941,1390435,2024-02-21,House,House,10,0,0,1,11
+1835941,1396337,2024-02-27,House,"House Third Reading",53,1,0,6,60
+1835943,1388161,2024-02-19,House,House,6,5,0,0,11
+1835943,1391931,2024-02-22,House,"House Third Reading",36,19,0,5,60
+1835943,1398149,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",5,0,0,0,5
+1835943,1403037,2024-03-05,Senate,"Senate Third Reading",21,9,0,0,30
+1835943,1404492,2024-03-06,House,"House Third Reading in Concurrence",41,14,0,5,60
+1835944,1385729,2024-02-15,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1835945,1385921,2024-02-15,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",3,2,0,0,5
+1835945,1389982,2024-02-21,Senate,"Senate Motion to Refer",29,0,0,1,30
+1835945,1392216,2024-02-22,Senate,"Senate Committee Do pass the A-Eng bill",3,2,0,0,5
+1835945,1395790,2024-02-27,Senate,"Senate Motion to substitute Minority Report",12,17,0,1,30
+1835945,1395791,2024-02-27,Senate,"Senate Third Reading",17,12,0,1,30
+1835945,1404496,2024-03-06,House,"House Committee Do Pass the A-Eng bill",4,3,0,0,7
+1835946,1383966,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",8,0,0,1,9
+1835947,1385703,2024-02-15,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",4,0,0,1,5
+1835947,1402151,2024-03-04,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",24,0,0,0,24
+1835947,1404085,2024-03-06,Senate,"Senate Third Reading",24,5,0,1,30
+1835947,1405338,2024-03-07,House,"House Third Reading",51,2,0,7,60
+1835948,1392950,2024-02-22,Senate,"Senate Committee Do adopt",4,0,0,1,5
+1835948,1396946,2024-02-27,Senate,"Senate Final Reading",30,0,0,0,30
+1835948,1399809,2024-02-29,House,"House Committee Be Adopted",4,0,0,3,7
+1835948,1402052,2024-03-04,House,"House Read and Adopted",56,0,0,4,60
+1835949,1386372,2024-02-15,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1835949,1389466,2024-02-20,Senate,"Senate Final Reading",30,0,0,0,30
+1835949,1392936,2024-02-22,House,"House Committee Be adopted and be placed on the Consent Calendar",7,0,0,0,7
+1835949,1402649,2024-02-26,House,"House Read under Consent Calendar",56,0,0,4,60
+1835954,1380429,2024-02-08,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",7,0,0,0,7
+1835954,1399401,2024-02-28,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1835954,1401974,2024-03-04,House,"House Third Reading",55,2,0,3,60
+1835954,1402981,2024-03-05,Senate,"Senate Third Reading",25,5,0,0,30
+1835955,1385812,2024-02-15,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1835957,1386330,2024-02-15,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1835957,1391667,2024-02-22,Senate,"Senate Third Reading",22,5,0,3,30
+1835957,1398997,2024-02-29,House,"House Committee Do Pass the A-Eng bill",9,1,0,0,10
+1835957,1403151,2024-03-05,House,"House Third Reading",47,3,0,10,60
+1835958,1383139,2024-02-13,Senate,"Senate Committee Do pass with amendments and requesting subsequent referral to Ways and Means be rescinded. (Printed A-Eng.)",4,1,0,0,5
+1835958,1388973,2024-02-20,Senate,"Senate Third Reading",25,5,0,0,30
+1835958,1397519,2024-02-28,House,"House Committee Do Pass the A-Eng bill",7,3,0,1,11
+1835958,1402009,2024-03-04,House,"House Third Reading",42,13,0,5,60
+1835960,1384611,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1835960,1404710,2024-03-06,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1835960,1405603,2024-03-07,Senate,"Senate Third Reading",23,5,0,2,30
+1835960,1405604,2024-03-07,House,"House Third Reading",48,8,0,4,60
+1835961,1386356,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",7,3,0,1,11
+1835961,1402395,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1835961,1404157,2024-03-06,House,"House Third Reading",46,9,0,5,60
+1835961,1405760,2024-03-07,Senate,"Senate Third Reading",24,4,0,2,30
+1835963,1382784,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1835963,1399233,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1835963,1401799,2024-03-04,Senate,"Senate Third Reading",26,4,0,0,30
+1835963,1404369,2024-03-06,House,"House Third Reading",54,2,0,4,60
+1835964,1384184,2024-02-14,House,"House Committee Do Pass",7,0,0,0,7
+1835964,1386267,2024-02-15,House,"House Third Reading",56,0,0,4,60
+1835964,1402245,2024-03-04,Senate,"Senate Committee Do pass",5,0,0,0,5
+1835964,1404176,2024-03-06,Senate,"Senate Third Reading",29,0,0,1,30
+1835966,1401830,2024-03-04,House,"House Withdraw from Committee",27,31,0,2,60
+1835969,1395742,2024-02-27,House,"House Withdraw from Committee",30,28,0,2,60
+1835969,1395743,2024-02-27,House,"House Withdraw from Committee",30,29,0,1,60
+1835970,1385045,2024-02-14,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",11,0,0,0,11
+1835970,1399229,2024-02-28,House,"House Committee Do Pass the A-Eng bill",23,0,0,1,24
+1835970,1401848,2024-03-04,House,"House Third Reading",57,0,0,3,60
+1835970,1403423,2024-03-05,Senate,"Senate Third Reading",26,4,0,0,30
+1835971,1385331,2024-02-14,Senate,"Senate Committee Do pass with amendments and requesting referral to Ways and Means. (Printed A-Engrossed.)",4,0,0,2,6
+1835972,1381366,2024-02-12,House,House,11,0,0,0,11
+1835972,1384919,2024-02-14,House,"House Third Reading",60,0,0,0,60
+1835972,1389764,2024-02-21,Senate,Senate,5,0,0,0,5
+1835972,1395295,2024-02-26,Senate,"Senate Third Reading",24,6,0,0,30
+1835975,1379939,2024-02-07,Senate,"Senate Committee Do pass",5,0,0,0,5
+1835975,1383809,2024-02-13,Senate,"Senate Third Reading",28,2,0,0,30
+1835975,1395002,2024-02-26,House,"House Committee Do Pass",9,0,0,1,10
+1835975,1400022,2024-02-29,House,"House Third Reading",58,0,0,2,60
+1835976,1386068,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",9,0,0,1,10
+1835976,1402211,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1835976,1404642,2024-03-06,House,"House Third Reading",55,0,0,5,60
+1835976,1405356,2024-03-07,Senate,"Senate Third Reading",24,4,0,2,30
+1835977,1386292,2024-02-15,House,"House Committee Do pass with amendments. (Printed A-Eng.)",5,3,0,1,9
+1835977,1392758,2024-02-22,House,"House Motion to substitute Minority Report",24,33,0,3,60
+1835977,1392759,2024-02-22,House,"House Motion to Refer",24,32,0,4,60
+1835977,1392760,2024-02-22,House,"House Third Reading",32,25,0,3,60
+1835977,1399762,2024-02-29,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",3,2,0,0,5
+1835977,1405344,2024-03-07,Senate,"Senate Motion to substitute Minority Report",11,17,0,2,30
+1835977,1405345,2024-03-07,Senate,"Senate Third Reading",17,11,0,2,30
+1835977,1405346,2024-03-07,House,"House Third Reading in Concurrence",33,23,0,4,60
+1835978,1387783,2024-02-19,House,House,6,3,0,1,10
+1835978,1404696,2024-03-06,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",22,1,0,1,24
+1835978,1405020,2024-03-07,House,"House Third Reading",55,1,0,4,60
+1835978,1405535,2024-03-07,Senate,"Senate Third Reading",23,5,0,2,30
+1835979,1378425,2024-02-07,House,"House Committee Do Pass",7,0,0,0,7
+1835980,1388490,2024-02-19,House,House,8,3,0,0,11
+1835982,1387838,2024-02-19,House,House,9,0,0,1,10
+1835984,1388682,2024-02-19,Senate,"Senate Committee Without recommendation as to passage, but with amendments and referred to Rules and Ways and Means by prior reference. (Printed A-Eng.)",5,0,0,0,5
+1835989,1383704,2024-02-13,Senate,Senate,5,0,0,0,5
+1835990,1384327,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Finance and Revenue then to Ways and Means by prior reference. (Printed A-Eng.)",3,1,0,1,5
+1835990,1385696,2024-02-15,Senate,"Senate Committee Do pass the A-Eng bill and refer to Ways and Means by prior reference",5,0,0,0,5
+1835990,1399239,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",19,4,0,1,24
+1835990,1401853,2024-03-04,Senate,"Senate Third Reading",22,8,0,0,30
+1835990,1404362,2024-03-06,House,"House Third Reading",45,9,0,6,60
+1835992,1384560,2024-02-14,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",6,3,0,1,10
+1835992,1400539,2024-03-01,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",15,8,0,1,24
+1835992,1403090,2024-03-05,House,"House Third Reading",34,22,0,4,60
+1835992,1405336,2024-03-07,Senate,"Senate Third Reading",17,11,0,2,30
+1835993,1385657,2024-02-15,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1835993,1390364,2024-02-21,Senate,"Senate Third Reading",28,2,0,0,30
+1835993,1398507,2024-02-28,House,"House Committee Do Pass the A-Eng bill",9,0,0,1,10
+1835993,1402312,2024-03-04,House,"House Third Reading",49,4,0,7,60
+1835994,1385050,2024-02-14,House,"House Committee Do pass with amendments. (Printed A-Eng.)",11,0,0,0,11
+1835994,1388964,2024-02-20,House,"House Third Reading",58,0,0,2,60
+1835994,1398129,2024-02-28,Senate,"Senate Committee Do pass",5,0,0,0,5
+1835994,1402940,2024-03-05,Senate,"Senate Third Reading",30,0,0,0,30
+1835995,1401724,2024-03-04,House,"House Committee Do pass with amendments. (Printed A-Eng.)",7,0,0,0,7
+1835995,1403300,2024-03-05,House,"House Third Reading",56,0,0,4,60
+1835996,1389674,2024-02-20,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1835996,1395343,2024-02-26,Senate,"Senate Final Reading",30,0,0,0,30
+1835996,1402389,2024-03-04,House,"House Committee Be adopted with amendments. (Printed A-Eng.)",6,0,0,1,7
+1835996,1403665,2024-03-05,House,"House Special Order",57,0,0,3,60
+1835996,1404722,2024-03-06,Senate,"Senate Third Reading in Concurrence",29,0,0,1,30
+1835997,1386410,2024-02-15,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1835997,1390257,2024-02-21,Senate,"Senate Third Reading",20,10,0,0,30
+1835997,1402189,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",6,0,0,1,7
+1835997,1403201,2024-03-05,House,"House Third Reading",45,6,0,9,60
+1835997,1404106,2024-03-06,Senate,"Senate Third Reading in Concurrence",22,7,0,1,30
+1836001,1386015,2024-02-14,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",11,0,0,0,11
+1836001,1400564,2024-03-01,House,"House Committee Do Pass the A-Eng bill",23,0,0,1,24
+1836001,1402152,2024-03-04,House,"House Third Reading",50,2,0,8,60
+1836001,1404049,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1836002,1385437,2024-02-15,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",9,0,0,1,10
+1836002,1389244,2024-02-20,House,"House Third Reading",58,0,0,2,60
+1836002,1396975,2024-02-27,Senate,"Senate Committee Do pass with amendments to the A-Eng bill to resolve conflicts. (Printed B-Eng.)",5,0,0,0,5
+1836002,1403414,2024-03-05,Senate,"Senate Third Reading",25,5,0,0,30
+1836002,1404788,2024-03-06,House,"House Third Reading in Concurrence",56,0,0,4,60
+1836003,1385243,2024-02-14,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1836004,1385907,2024-02-15,House,"House Committee Do pass with amendments. (Printed A-Eng.)",10,0,0,0,10
+1836004,1390729,2024-02-21,House,"House Third Reading",54,0,0,6,60
+1836004,1396848,2024-02-27,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836004,1403233,2024-03-05,Senate,"Senate Third Reading",29,0,0,1,30
+1836005,1385368,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",9,0,0,1,10
+1836005,1399174,2024-02-28,House,"House Committee Do Pass the A-Eng bill",23,0,0,1,24
+1836005,1402297,2024-03-04,House,"House Third Reading",52,0,0,8,60
+1836005,1404195,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1836006,1385736,2024-02-14,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",4,0,0,2,6
+1836006,1400576,2024-03-01,House,"House Committee Do Pass the A-Eng bill",23,0,0,1,24
+1836006,1402139,2024-03-04,House,"House Third Reading",52,0,0,8,60
+1836006,1404029,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1836007,1386075,2024-02-15,House,"House Withdraw from Committee",23,34,0,3,60
+1836009,1400751,2024-02-29,House,"House Committee Do pass with amendments. (Printed A-Eng.)",8,2,0,3,13
+1836009,1403711,2024-03-05,House,"House Third Reading",37,15,0,8,60
+1836009,1405790,2024-03-07,Senate,"Senate Third Reading",21,7,0,2,30
+1836010,1385574,2024-02-15,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836011,1400001,2024-02-29,Senate,"Senate Committee Do adopt",4,0,0,1,5
+1836011,1403190,2024-03-05,Senate,"Senate Final Reading",30,0,0,0,30
+1836011,1404108,2024-03-06,House,"House Committee Be Adopted",6,0,0,1,7
+1836011,1405841,2024-03-07,House,"House Read and Adopted",58,0,0,2,60
+1836012,1381610,2024-02-12,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",3,2,0,0,5
+1836016,1384543,2024-02-13,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",11,0,0,0,11
+1836016,1388103,2024-02-19,House,"House Third Reading",53,2,0,5,60
+1836016,1397310,2024-02-28,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836016,1402405,2024-03-04,Senate,"Senate Third Reading",26,4,0,0,30
+1836019,1385207,2024-02-14,House,House,10,0,0,0,10
+1836019,1385676,2024-02-15,House,"House Third Reading",53,1,0,6,60
+1836019,1396722,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836019,1402348,2024-03-04,Senate,"Senate Third Reading",26,4,0,0,30
+1836024,1388487,2024-02-19,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",9,2,0,0,11
+1836024,1402056,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836024,1404522,2024-03-06,House,"House Third Reading",55,1,0,4,60
+1836024,1405816,2024-03-07,Senate,"Senate Third Reading",25,3,0,2,30
+1836025,1385713,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",9,0,0,0,9
+1836025,1402202,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836025,1404135,2024-03-06,House,"House Third Reading",52,4,0,4,60
+1836025,1405891,2024-03-07,Senate,"Senate Third Reading",24,4,0,2,30
+1836026,1385585,2024-02-15,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",3,2,0,0,5
+1836027,1380039,2024-02-08,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",9,0,0,0,9
+1836029,1386347,2024-02-15,House,House,6,1,0,2,9
+1836029,1389322,2024-02-20,House,"House Third Reading",39,19,0,2,60
+1836030,1385239,2024-02-14,House,"House Committee Do Pass",7,0,0,0,7
+1836030,1385635,2024-02-15,House,"House Third Reading",54,0,0,6,60
+1836030,1392394,2024-02-22,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836030,1397813,2024-02-28,Senate,"Senate Third Reading",30,0,0,0,30
+1836031,1392549,2024-02-22,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",4,3,0,0,7
+1836032,1385369,2024-02-15,House,"House Committee Without recommendation as to passage and be referred to Rules",9,1,0,0,10
+1836032,1396747,2024-02-27,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",4,3,0,0,7
+1836034,1387883,2024-02-19,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",11,0,0,0,11
+1836034,1392112,2024-02-22,House,"House Third Reading",55,0,0,5,60
+1836034,1398131,2024-02-28,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836034,1403074,2024-03-05,Senate,"Senate Third Reading",24,5,0,1,30
+1836035,1384851,2024-02-14,House,"House Committee Do pass and be referred to Ways and Means by prior reference",9,0,0,1,10
+1836036,1383569,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",3,2,0,0,5
+1836036,1399331,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",13,10,0,1,24
+1836036,1401796,2024-03-04,Senate,"Senate Third Reading",19,11,0,0,30
+1836036,1404372,2024-03-06,House,"House Third Reading",35,22,0,3,60
+1836037,1388465,2024-02-19,House,House,11,0,0,0,11
+1836037,1401469,2024-03-04,House,"House Withdraw from Committee",24,34,0,2,60
+1836038,1404478,2024-03-06,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1836038,1404479,2024-03-06,House,"House Third Reading",52,5,0,3,60
+1836038,1405107,2024-03-07,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836038,1405700,2024-03-07,Senate,"Senate Third Reading",22,6,0,2,30
+1836039,1393519,2024-02-22,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",7,2,0,3,12
+1836040,1377987,2024-02-07,Senate,"Senate Committee Do pass with amendments and requesting subsequent referral to Ways and Means be rescinded. (Printed A-Eng.)",5,0,0,0,5
+1836040,1384483,2024-02-14,Senate,"Senate Third Reading",25,2,0,3,30
+1836040,1389828,2024-02-21,House,"House Committee Do Pass",9,0,0,2,11
+1836040,1395922,2024-02-27,House,"House Third Reading",48,5,0,7,60
+1836041,1381852,2024-02-12,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",10,1,0,0,11
+1836041,1384418,2024-02-14,House,"House Third Reading",59,1,0,0,60
+1836041,1390690,2024-02-21,Senate,"Senate Committee Do pass with amendments. (Printed B-Eng.)",5,0,0,0,5
+1836041,1397559,2024-02-28,Senate,"Senate Third Reading",27,3,0,0,30
+1836041,1404567,2024-03-06,House,"House Third Reading in Concurrence",54,1,0,5,60
+1836042,1383820,2024-02-13,House,"House Committee Do pass with amendments. (Printed A-Eng.)",10,0,0,0,10
+1836042,1386215,2024-02-15,House,"House Third Reading",54,0,0,6,60
+1836042,1396801,2024-02-27,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",5,0,0,0,5
+1836042,1403676,2024-03-05,Senate,"Senate Third Reading",16,13,0,1,30
+1836042,1404726,2024-03-06,House,"House Third Reading in Concurrence",51,4,0,5,60
+1836043,1383428,2024-02-13,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",4,1,0,0,5
+1836043,1390329,2024-02-21,Senate,"Senate Third Reading",24,6,0,0,30
+1836043,1398449,2024-02-28,House,"House Committee Do Pass the A-Eng bill",8,1,0,1,10
+1836043,1403218,2024-03-05,House,"House Third Reading",37,14,0,9,60
+1836044,1383268,2024-02-13,House,"House Committee Do pass with amendments. (Printed A-Eng.)",11,0,0,0,11
+1836044,1384930,2024-02-14,House,"House Third Reading",60,0,0,0,60
+1836044,1391573,2024-02-22,Senate,"Senate Committee Do pass the A-Eng bill",4,0,0,1,5
+1836044,1397657,2024-02-28,Senate,"Senate Third Reading",29,1,0,0,30
+1836046,1381954,2024-02-12,House,"House Committee Do Pass",10,1,0,0,11
+1836046,1384272,2024-02-14,House,"House Third Reading",59,1,0,0,60
+1836046,1390607,2024-02-21,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836046,1397539,2024-02-28,Senate,"Senate Third Reading",28,2,0,0,30
+1836047,1385319,2024-02-15,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",4,1,0,0,5
+1836047,1390973,2024-02-21,Senate,"Senate Third Reading",23,7,0,0,30
+1836047,1396634,2024-02-27,House,"House Committee Do Pass the A-Eng bill",6,0,0,1,7
+1836047,1402467,2024-03-04,House,"House Third Reading",45,10,0,5,60
+1836048,1396788,2024-02-27,House,"House Committee Do pass with amendments. (Printed A-Eng.)",10,2,0,0,12
+1836048,1399824,2024-02-29,House,"House Third Reading",51,7,0,2,60
+1836048,1401150,2024-03-01,Senate,"Senate Third Reading",21,8,0,1,30
+1836050,1385874,2024-02-15,House,House,10,0,0,1,11
+1836050,1389942,2024-02-21,House,"House Third Reading",53,1,0,6,60
+1836050,1397423,2024-02-28,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836050,1402992,2024-03-05,Senate,"Senate Third Reading",24,5,0,1,30
+1836051,1400019,2024-02-29,House,"House Committee Do pass with amendments. (Printed A-Eng.)",7,0,0,0,7
+1836051,1402394,2024-03-04,House,"House Third Reading",53,0,0,7,60
+1836051,1404611,2024-03-06,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836051,1405909,2024-03-07,Senate,"Senate Third Reading",28,0,0,2,30
+1836052,1385301,2024-02-15,Senate,"Senate Committee Do pass and subsequent referral to Ways and Means be rescinded",5,0,0,0,5
+1836052,1390422,2024-02-21,Senate,"Senate Third Reading",29,1,0,0,30
+1836052,1396543,2024-02-27,House,"House Committee Do Pass",8,0,0,1,9
+1836052,1402316,2024-03-04,House,"House Third Reading",55,0,0,5,60
+1836053,1394698,2024-02-26,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836053,1401249,2024-03-01,Senate,"Senate Third Reading",30,0,0,0,30
+1836053,1403397,2024-03-05,House,"House Committee Do Pass the A-Eng bill",7,0,0,0,7
+1836053,1404563,2024-03-06,House,"House Third Reading",54,0,0,6,60
+1836054,1381858,2024-02-12,House,"House Committee Do pass and be referred to Ways and Means by prior reference",10,0,0,0,10
+1836056,1384161,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836056,1390971,2024-02-21,Senate,"Senate Third Reading",29,1,0,0,30
+1836056,1398116,2024-02-28,House,"House Committee Do Pass the A-Eng bill",6,0,0,1,7
+1836056,1402155,2024-03-04,House,"House Third Reading",55,1,0,4,60
+1836057,1389972,2024-02-20,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",9,1,0,2,12
+1836057,1397435,2024-02-28,Senate,"Senate Third Reading",24,6,0,0,30
+1836057,1403556,2024-03-05,House,"House Third Reading",43,8,0,9,60
+1836058,1388268,2024-02-19,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",10,0,0,0,10
+1836058,1391058,2024-02-21,House,"House Third Reading",54,0,0,6,60
+1836058,1399658,2024-02-29,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836058,1403184,2024-03-05,Senate,"Senate Third Reading",28,1,0,1,30
+1836059,1383668,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",8,0,0,1,9
+1836060,1389295,2024-02-20,Senate,"Senate Committee Be adopted with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836060,1395246,2024-02-26,Senate,"Senate Final Reading",30,0,0,0,30
+1836060,1402217,2024-03-04,House,"House Committee Do adopt the A-Eng measure",7,0,0,0,7
+1836060,1403554,2024-03-05,House,"House Read and Adopted",52,0,0,8,60
+1836062,1385571,2024-02-15,House,House,7,0,0,0,7
+1836063,1385612,2024-02-15,House,"House Committee Do pass with amendments. Refer to Revenue, then to Ways and Means by prior reference. (Printed A-Eng.)",10,0,0,1,11
+1836063,1397364,2024-02-28,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed B-Eng.)",6,0,0,1,7
+1836064,1388052,2024-02-19,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",7,3,0,0,10
+1836066,1396910,2024-02-27,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1836066,1399562,2024-02-29,House,"House Third Reading",49,5,0,6,60
+1836066,1404232,2024-03-06,Senate,"Senate Committee Do pass the A-Eng bill",5,0,0,0,5
+1836066,1405260,2024-03-07,Senate,"Senate Third Reading",25,3,0,2,30
+1836067,1375979,2024-02-05,Senate,"Senate Final Reading",24,6,0,0,30
+1836067,1375980,2024-02-05,House,"House Read and Adopted",51,7,0,2,60
+1836070,1381662,2024-02-12,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836072,1382726,2024-02-13,Senate,"Senate Committee Do pass and refer to Ways and Means by prior reference",5,0,0,0,5
+1836073,1385037,2024-02-14,House,"House Committee Do pass with amendments. (Printed A-Eng.)",10,0,0,0,10
+1836073,1387486,2024-02-19,House,"House Third Reading",56,1,0,3,60
+1836074,1381862,2024-02-12,House,"House Committee Do pass and be referred to Ways and Means by prior reference",9,1,0,0,10
+1836075,1387109,2024-02-15,House,"House Committee Do pass and be referred to Ways and Means by prior reference",11,0,0,1,12
+1836081,1378155,2024-02-07,Senate,"Senate Committee Do pass and subsequent referral to Ways and Means be rescinded",5,0,0,0,5
+1836081,1384554,2024-02-14,Senate,"Senate Third Reading",27,0,0,3,30
+1836081,1389795,2024-02-21,House,"House Committee Do Pass",9,0,0,2,11
+1836081,1396092,2024-02-27,House,"House Third Reading",50,3,0,7,60
+1836084,1385270,2024-02-14,House,"House Committee Do Pass",9,1,0,0,10
+1836084,1386166,2024-02-15,House,"House Third Reading",44,13,0,3,60
+1836084,1396523,2024-02-27,Senate,"Senate Committee Do pass",3,2,0,0,5
+1836084,1402848,2024-03-05,Senate,"Senate Third Reading",16,13,0,1,30
+1836085,1378839,2024-02-07,House,"House Committee Do pass with amendments. (Printed A-Eng.)",11,0,0,0,11
+1836085,1383828,2024-02-13,House,"House Third Reading",54,0,0,6,60
+1836085,1389766,2024-02-21,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836085,1395327,2024-02-26,Senate,"Senate Third Reading",30,0,0,0,30
+1836086,1386229,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",6,4,0,1,11
+1836087,1386394,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",8,1,0,0,9
+1836089,1384036,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",8,0,0,1,9
+1836090,1380043,2024-02-08,Senate,"Senate Committee Do pass and refer to Ways and Means by prior reference",5,0,0,0,5
+1836090,1402201,2024-03-04,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",21,2,0,1,24
+1836090,1404617,2024-03-06,Senate,"Senate Third Reading",19,10,0,1,30
+1836090,1405858,2024-03-07,House,"House Third Reading",48,5,0,7,60
+1836093,1385077,2024-02-14,House,"House Committee Do pass with amendments. (Printed A-Eng.)",7,0,0,0,7
+1836093,1387739,2024-02-19,House,"House Third Reading",49,5,0,6,60
+1836093,1396512,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836093,1402711,2024-03-05,Senate,"Senate Third Reading",25,4,0,1,30
+1836096,1397189,2024-02-27,Senate,"Senate Committee Do adopt",4,0,0,1,5
+1836096,1402143,2024-03-04,Senate,"Senate Final Reading",30,0,0,0,30
+1836096,1404603,2024-03-06,House,"House Committee Be Adopted",6,0,0,1,7
+1836096,1405278,2024-03-07,House,"House Special Order",57,0,0,3,60
+1836097,1385350,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",9,1,0,0,10
+1836097,1404725,2024-03-06,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836097,1405652,2024-03-07,House,"House Third Reading",54,2,0,4,60
+1836097,1405653,2024-03-07,Senate,"Senate Third Reading",25,3,0,2,30
+1836098,1381939,2024-02-12,House,"House Committee Do pass. Refer to Ways and Means",10,1,0,0,11
+1836099,1382663,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836099,1398528,2024-02-28,Senate,"Senate Committee Do pass the A-Eng bill",23,0,0,1,24
+1836099,1399203,2024-02-29,Senate,"Senate Third Reading",22,6,0,2,30
+1836099,1402323,2024-03-04,House,"House Third Reading",40,14,0,6,60
+1836100,1382024,2024-02-12,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836100,1388610,2024-02-20,Senate,"Senate Third Reading",30,0,0,0,30
+1836100,1401424,2024-03-04,House,"House Committee Do Pass the A-Eng bill",7,0,0,0,7
+1836100,1403374,2024-03-05,House,"House Third Reading",52,0,0,8,60
+1836101,1392742,2024-02-22,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",4,0,0,1,5
+1836101,1399778,2024-02-29,Senate,"Senate Third Reading",28,0,0,2,30
+1836101,1403375,2024-03-05,House,"House Committee Do Pass the A-Eng bill",7,0,0,0,7
+1836101,1404562,2024-03-06,House,"House Third Reading",55,0,0,5,60
+1836102,1382958,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",9,1,0,0,10
+1836102,1398553,2024-02-28,House,"House Committee Do Pass the A-Eng bill",22,1,0,1,24
+1836102,1399804,2024-02-29,House,"House Third Reading",55,0,0,5,60
+1836102,1403487,2024-03-05,Senate,"Senate Third Reading",24,6,0,0,30
+1836103,1397011,2024-02-27,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1836103,1402148,2024-03-04,Senate,"Senate Final Reading",30,0,0,0,30
+1836103,1404756,2024-03-06,House,"House Committee Be Adopted",7,0,0,0,7
+1836103,1405825,2024-03-07,House,"House Special Order",57,0,0,3,60
+1836104,1380112,2024-02-08,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",9,0,0,0,9
+1836104,1398914,2024-02-28,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836104,1402275,2024-03-04,House,"House Third Reading",55,0,0,5,60
+1836104,1404091,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1836105,1386086,2024-02-15,House,"House Committee Be Adopted",5,0,0,2,7
+1836105,1387401,2024-02-19,House,"House Special Order",54,1,0,5,60
+1836105,1395624,2024-02-27,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1836105,1401944,2024-03-04,Senate,"Senate Final Reading",30,0,0,0,30
+1836106,1388498,2024-02-19,House,House,8,3,0,0,11
+1836106,1404703,2024-03-06,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836106,1405033,2024-03-07,House,"House Third Reading",55,1,0,4,60
+1836106,1405561,2024-03-07,Senate,"Senate Third Reading",21,7,0,2,30
+1836108,1384015,2024-02-13,House,"House Committee Without recommendation as to passage, be referred to Revenue, and then to Ways and Means by prior reference",7,0,0,0,7
+1836108,1399013,2024-02-29,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1836108,1402127,2024-03-04,House,"House Third Reading",57,0,0,3,60
+1836108,1403602,2024-03-05,Senate,"Senate Committee Do pass the A-Eng bill",4,1,0,0,5
+1836108,1404553,2024-03-06,Senate,"Senate Third Reading",26,3,0,1,30
+1836109,1385883,2024-02-15,Senate,Senate,5,0,0,0,5
+1836109,1391957,2024-02-22,Senate,"Senate Motion to Change Calendar",27,0,0,3,30
+1836109,1394656,2024-02-26,Senate,"Senate Third Reading",23,7,0,0,30
+1836109,1402163,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",5,0,0,2,7
+1836109,1403146,2024-03-05,House,"House Third Reading",52,3,0,5,60
+1836109,1404064,2024-03-06,Senate,"Senate Third Reading in Concurrence",24,5,0,1,30
+1836111,1397143,2024-02-27,House,"House Committee Do pass with amendments. (Printed A-Eng.)",4,3,0,0,7
+1836111,1402150,2024-03-04,House,"House Third Reading",35,22,0,3,60
+1836112,1385231,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836112,1404697,2024-03-06,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836112,1405489,2024-03-07,Senate,"Senate Third Reading",28,0,0,2,30
+1836112,1405916,2024-03-07,House,"House Third Reading",54,0,0,6,60
+1836113,1386286,2024-02-15,House,"House Committee Do pass with amendments. (Printed A-Eng.)",9,0,0,0,9
+1836113,1390184,2024-02-21,House,"House Third Reading",53,1,0,6,60
+1836113,1396626,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836113,1402988,2024-03-05,Senate,"Senate Third Reading",26,3,0,1,30
+1836114,1385217,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",3,2,0,0,5
+1836114,1402080,2024-03-04,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",13,11,0,0,24
+1836114,1405306,2024-03-07,Senate,"Senate Third Reading",16,12,0,2,30
+1836114,1405829,2024-03-07,House,"House Third Reading",34,21,0,5,60
+1836115,1385825,2024-02-15,House,House,10,0,0,1,11
+1836115,1388965,2024-02-20,House,"House Third Reading",55,3,0,2,60
+1836115,1398961,2024-02-29,Senate,"Senate Committee Do pass with amendments. (Printed B-Eng.)",5,0,0,0,5
+1836115,1403094,2024-03-05,Senate,"Senate Third Reading",24,6,0,0,30
+1836115,1404551,2024-03-06,House,"House Third Reading in Concurrence",49,6,0,5,60
+1836116,1385026,2024-02-14,House,House,10,1,0,0,11
+1836117,1388482,2024-02-19,House,"House Committee Do pass with amendments. (Printed A-Eng.)",7,4,0,0,11
+1836117,1391897,2024-02-22,House,"House Third Reading",42,12,0,6,60
+1836117,1394924,2024-02-26,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",3,2,0,0,5
+1836117,1402060,2024-03-04,Senate,"Senate Committee Do pass with amendments to the B-Eng bill. (Printed C-Eng.)",3,2,0,0,5
+1836118,1404476,2024-03-06,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1836118,1405831,2024-03-07,Senate,"Senate Final Reading",27,0,0,3,30
+1836118,1405832,2024-03-07,House,"House Read and Adopted",54,1,0,5,60
+1836119,1384723,2024-02-14,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836119,1389976,2024-02-21,Senate,"Senate Third Reading",27,3,0,0,30
+1836119,1399009,2024-02-29,House,"House Committee Without recommendation as to passage and be referred to Rules",10,0,0,0,10
+1836119,1401505,2024-03-04,House,"House Committee Do pass with amendments. (Printed B-Eng.)",4,2,0,1,7
+1836119,1403164,2024-03-05,House,"House Third Reading",51,5,0,4,60
+1836119,1404082,2024-03-06,Senate,"Senate Third Reading in Concurrence",23,6,0,1,30
+1836120,1397141,2024-02-27,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1836120,1402131,2024-03-04,Senate,"Senate Final Reading",30,0,0,0,30
+1836120,1404656,2024-03-06,House,"House Committee Be Adopted",7,0,0,0,7
+1836120,1405772,2024-03-07,House,"House Read and Adopted",57,0,0,3,60
+1836121,1386403,2024-02-15,Senate,"Senate Committee Do pass and refer to Ways and Means by prior reference",4,0,0,1,5
+1836121,1398892,2024-02-28,Senate,"Senate Committee Do pass",23,0,0,1,24
+1836121,1402409,2024-03-04,Senate,"Senate Third Reading",21,9,0,0,30
+1836121,1404674,2024-03-06,House,"House Third Reading",45,9,0,6,60
+1836122,1384519,2024-02-14,Senate,"Senate Committee Do pass",4,0,0,1,5
+1836122,1387928,2024-02-19,Senate,"Senate Third Reading",26,3,0,1,30
+1836122,1402381,2024-03-04,House,"House Committee Do Pass",7,0,0,0,7
+1836122,1403660,2024-03-05,House,"House Third Reading",55,1,0,4,60
+1836125,1381474,2024-02-12,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836125,1388169,2024-02-19,Senate,"Senate Third Reading",24,5,0,1,30
+1836125,1399608,2024-02-29,House,"House Committee Do Pass the A-Eng bill",10,0,0,0,10
+1836125,1403229,2024-03-05,House,"House Third Reading",49,2,0,9,60
+1836128,1384008,2024-02-13,House,"House Committee Do Pass",7,0,0,0,7
+1836128,1386239,2024-02-15,House,"House Third Reading",57,0,0,3,60
+1836128,1397124,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836128,1402407,2024-03-04,Senate,"Senate Third Reading",27,3,0,0,30
+1836129,1385598,2024-02-15,House,"House Committee Do Pass",4,3,0,0,7
+1836129,1387985,2024-02-19,House,"House Third Reading",33,24,0,3,60
+1836129,1396897,2024-02-27,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",3,2,0,0,5
+1836129,1403078,2024-03-05,Senate,"Senate Third Reading",16,13,0,1,30
+1836129,1404716,2024-03-06,House,"House Third Reading in Concurrence",34,21,0,5,60
+1836131,1384951,2024-02-14,House,"House Committee Do Pass",7,0,0,0,7
+1836131,1388143,2024-02-19,House,"House Third Reading",54,1,0,5,60
+1836131,1403662,2024-03-05,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836131,1404073,2024-03-06,Senate,"Senate Third Reading",29,0,0,1,30
+1836132,1387790,2024-02-19,House,House,9,0,0,1,10
+1836136,1380271,2024-02-08,House,House,7,0,0,0,7
+1836136,1382942,2024-02-13,House,"House Read and Adopted",54,0,0,6,60
+1836136,1389755,2024-02-20,Senate,Senate,5,0,0,0,5
+1836136,1394751,2024-02-26,Senate,"Senate Final Reading",30,0,0,0,30
+1836137,1385834,2024-02-15,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836137,1392685,2024-02-22,Senate,"Senate Motion to Reconsider",19,8,0,3,30
+1836137,1392686,2024-02-22,Senate,"Senate Motion to Change Calendar",19,8,0,3,30
+1836137,1395251,2024-02-26,Senate,"Senate Third Reading",24,6,0,0,30
+1836137,1404000,2024-03-06,House,"House Committee Do Pass the A-Eng bill",6,1,0,0,7
+1836137,1405115,2024-03-07,House,"House Third Reading",40,16,0,4,60
+1836138,1382670,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836138,1398550,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836138,1399244,2024-02-29,Senate,"Senate Third Reading",21,7,0,2,30
+1836138,1401945,2024-03-04,House,"House Third Reading",51,6,0,3,60
+1836140,1388045,2024-02-19,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",10,0,0,0,10
+1836142,1385794,2024-02-15,House,"House Withdraw from Committee",24,34,0,2,60
+1836144,1383718,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",10,0,0,0,10
+1836144,1402197,2024-03-04,House,"House Committee Do Pass the A-Eng bill",17,6,0,1,24
+1836144,1404342,2024-03-06,House,"House Third Reading",55,1,0,4,60
+1836144,1405761,2024-03-07,Senate,"Senate Third Reading",20,7,0,3,30
+1836146,1386407,2024-02-15,Senate,"Senate Committee Do adopt",4,0,0,1,5
+1836146,1388774,2024-02-20,Senate,"Senate Final Reading",30,0,0,0,30
+1836146,1392952,2024-02-22,House,"House Committee Be adopted and be placed on the Consent Calendar",7,0,0,0,7
+1836146,1402650,2024-02-26,House,"House Read under Consent Calendar",56,0,0,4,60
+1836147,1389139,2024-02-20,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1836147,1395173,2024-02-26,Senate,"Senate Final Reading",30,0,0,0,30
+1836147,1401435,2024-03-04,House,"House Committee Be Adopted",7,0,0,0,7
+1836147,1403244,2024-03-05,House,"House Read and Adopted",55,0,0,5,60
+1836149,1379536,2024-02-07,House,House,7,0,0,0,7
+1836149,1400571,2024-03-01,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836149,1402078,2024-03-04,House,"House Third Reading",53,4,0,3,60
+1836149,1403076,2024-03-05,Senate,"Senate Third Reading",26,4,0,0,30
+1836150,1392523,2024-02-22,House,"House Committee Do pass with amendments and rescind subsequent referral to Ways and Means. (Printed A-Eng.)",7,0,0,0,7
+1836150,1396071,2024-02-27,House,"House Third Reading",58,1,0,1,60
+1836150,1404352,2024-03-06,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",5,0,0,0,5
+1836151,1379736,2024-02-08,House,"House Committee Do pass and be referred to Ways and Means by prior reference",10,0,0,0,10
+1836152,1385896,2024-02-15,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836152,1390207,2024-02-21,Senate,"Senate Third Reading",30,0,0,0,30
+1836152,1398138,2024-02-28,House,"House Committee Do Pass",6,0,0,1,7
+1836152,1403567,2024-03-05,House,"House Third Reading",54,0,0,6,60
+1836153,1385990,2024-02-15,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",8,0,0,1,9
+1836158,1384125,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836159,1390404,2024-02-20,Senate,"Senate Committee Do pass and refer to Ways and Means by prior reference",10,0,0,2,12
+1836160,1387763,2024-02-19,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",5,0,0,0,5
+1836160,1391847,2024-02-22,Senate,"Senate Third Reading",25,2,0,3,30
+1836160,1398906,2024-02-29,House,"House Committee Do Pass the A-Eng bill",10,0,0,0,10
+1836160,1403157,2024-03-05,House,"House Third Reading",50,0,0,10,60
+1836161,1384182,2024-02-14,House,House,6,5,0,0,11
+1836161,1400558,2024-03-01,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",16,7,0,1,24
+1836161,1403084,2024-03-05,House,"House Motion to Refer",22,36,0,2,60
+1836161,1403085,2024-03-05,House,"House Motion to Refer",21,35,0,4,60
+1836161,1403086,2024-03-05,House,"House Motion to Refer",21,36,0,3,60
+1836161,1403087,2024-03-05,House,"House Motion to Refer",21,36,0,3,60
+1836161,1403088,2024-03-05,House,"House Third Reading",37,21,0,2,60
+1836161,1405297,2024-03-07,Senate,"Senate Third Reading",17,11,0,2,30
+1836162,1385093,2024-02-14,Senate,Senate,5,0,0,0,5
+1836163,1382672,2024-02-13,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",5,0,0,0,5
+1836163,1398536,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836163,1399193,2024-02-29,Senate,"Senate Third Reading",21,7,0,2,30
+1836163,1401738,2024-03-04,House,"House Third Reading",48,8,0,4,60
+1836165,1385023,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",4,1,0,0,5
+1836165,1404750,2024-03-06,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",15,8,0,1,24
+1836165,1405459,2024-03-07,Senate,"Senate Third Reading",17,11,0,2,30
+1836165,1405965,2024-03-07,House,"House Third Reading",35,21,0,4,60
+1836166,1377647,2024-02-06,House,"House Committee Be Adopted",6,0,0,1,7
+1836166,1381404,2024-02-12,House,"House Read and Adopted",55,0,0,5,60
+1836166,1392788,2024-02-22,Senate,"Senate Committee Be adopted with amendments. (Printed A-Eng.)",4,0,0,1,5
+1836166,1398359,2024-02-28,Senate,"Senate Motion to Change Calendar",30,0,0,0,30
+1836166,1404708,2024-03-06,Senate,"Senate Final Reading",29,0,0,1,30
+1836166,1404709,2024-03-06,House,"House Third Reading in Concurrence",56,0,0,4,60
+1836167,1382741,2024-02-13,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836167,1385545,2024-02-15,Senate,"Senate Third Reading",23,7,0,0,30
+1836167,1395041,2024-02-26,House,"House Committee Do Pass",8,0,0,2,10
+1836167,1397456,2024-02-28,House,"House Third Reading",52,2,0,6,60
+1836170,1382902,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",11,0,0,0,11
+1836171,1385613,2024-02-15,House,House,9,1,0,0,10
+1836172,1385016,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",4,1,0,0,5
+1836172,1404711,2024-03-06,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836172,1405559,2024-03-07,Senate,"Senate Third Reading",24,4,0,2,30
+1836172,1405560,2024-03-07,House,"House Third Reading",48,8,0,4,60
+1836173,1385312,2024-02-14,Senate,"Senate Committee Do pass with amendments. Refer to Ways and Means by prior reference. (Printed A-Eng)",4,1,0,0,5
+1836173,1398925,2024-02-28,Senate,"Senate Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",22,1,0,1,24
+1836173,1402391,2024-03-04,Senate,"Senate Third Reading",22,8,0,0,30
+1836173,1404304,2024-03-06,House,"House Third Reading",47,7,0,6,60
+1836176,1384127,2024-02-13,Senate,"Senate Committee Do pass and refer to Ways and Means by prior reference",5,0,0,0,5
+1836176,1398895,2024-02-28,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1836176,1402320,2024-03-04,Senate,"Senate Third Reading",22,8,0,0,30
+1836176,1404798,2024-03-06,House,"House Third Reading",46,11,0,3,60
+1836177,1380133,2024-02-08,House,"House Committee Do Pass",7,0,0,0,7
+1836177,1383831,2024-02-13,House,"House Third Reading",52,2,0,6,60
+1836177,1397013,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836177,1402410,2024-03-04,Senate,"Senate Third Reading",27,3,0,0,30
+1836178,1383239,2024-02-13,House,"House Committee Do Pass",8,0,0,1,9
+1836178,1385823,2024-02-15,House,"House Third Reading",50,4,0,6,60
+1836178,1396759,2024-02-27,Senate,"Senate Committee Do pass",5,0,0,0,5
+1836178,1401743,2024-03-04,Senate,"Senate Third Reading",18,12,0,0,30
+1836179,1382632,2024-02-13,House,"House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",11,0,0,0,11
+1836179,1398541,2024-02-28,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",23,0,0,1,24
+1836179,1403352,2024-03-05,House,"House Third Reading",54,2,0,4,60
+1836179,1405513,2024-03-07,Senate,"Senate Third Reading",28,0,0,2,30
+1836181,1383861,2024-02-13,House,"House Committee Do pass. Refer to Ways and Means",8,0,0,1,9
+1836182,1381422,2024-02-12,Senate,"Senate Committee Do pass the bill and refer to Ways and Means by prior reference",4,1,0,0,5
+1836183,1385863,2024-02-15,Senate,"Senate Committee Do pass with amendments and requesting subsequent referral to Ways and Means be rescinded. (Printed A-Eng.)",5,0,0,0,5
+1836183,1392734,2024-02-22,Senate,"Senate Third Reading",25,2,0,3,30
+1836183,1399035,2024-02-29,House,"House Committee Do Pass the A-Eng bill",10,0,0,0,10
+1836183,1403070,2024-03-05,House,"House Third Reading",51,0,0,9,60
+1836184,1387303,2024-02-19,House,"House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",8,1,0,2,11
+1836184,1402104,2024-03-04,House,"House Committee Do pass with amendments to the A-Eng bill. (Printed B-Eng.)",15,8,0,1,24
+1836184,1404542,2024-03-06,House,"House Third Reading",42,15,0,3,60
+1836184,1405293,2024-03-07,Senate,"Senate Third Reading",17,11,0,2,30
+1836185,1378810,2024-02-07,House,"House Committee Do pass and be referred to Ways and Means by prior reference",11,0,0,0,11
+1840886,1386195,2024-02-15,House,"House Committee Be Adopted",5,0,0,2,7
+1840886,1389281,2024-02-20,House,"House Special Order",58,0,0,2,60
+1840886,1395629,2024-02-27,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1840886,1402401,2024-03-04,Senate,"Senate Final Reading",30,0,0,0,30
+1843504,1404682,2024-03-06,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1843504,1405390,2024-03-07,Senate,"Senate Third Reading",22,6,0,2,30
+1843504,1405961,2024-03-07,House,"House Third Reading",49,7,0,4,60
+1843570,1404799,2024-03-06,Senate,"Senate Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1843570,1405823,2024-03-07,Senate,"Senate Third Reading",23,5,0,2,30
+1843570,1405824,2024-03-07,House,"House Third Reading",49,7,0,4,60
+1843637,1398187,2024-02-28,House,"House Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1843637,1400172,2024-02-29,House,"House Third Reading",54,2,0,4,60
+1843637,1401184,2024-03-01,Senate,"Senate Third Reading",27,3,0,0,30
+1843703,1404702,2024-03-06,House,"House Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1843703,1405039,2024-03-07,House,"House Third Reading",52,4,0,4,60
+1843703,1405584,2024-03-07,Senate,"Senate Third Reading",23,5,0,2,30
+1843770,1404523,2024-03-06,Senate,"Senate Committee Do pass",16,7,0,1,24
+1843770,1405582,2024-03-07,Senate,"Senate Third Reading",18,10,0,2,30
+1843770,1405583,2024-03-07,House,"House Third Reading",32,23,0,5,60
+1843836,1404728,2024-03-06,House,"House Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1843836,1405071,2024-03-07,House,"House Third Reading",50,5,0,5,60
+1843836,1405633,2024-03-07,Senate,"Senate Third Reading",23,5,0,2,30
+1843902,1404506,2024-03-06,House,"House Committee Do pass with amendments. (Printed A-Eng.)",23,0,0,1,24
+1843902,1405554,2024-03-07,Senate,"Senate Third Reading",25,3,0,2,30
+1843902,1406488,2024-03-07,House,"House Third Reading",54,2,0,4,60
+1859535,1404046,2024-03-06,House,"House Committee Be Adopted",6,0,0,1,7
+1859567,1404092,2024-03-06,House,"House Committee Be Adopted",6,0,0,1,7
+1859567,1405100,2024-03-07,House,"House Read and Adopted",56,1,0,3,60
+1859567,1405101,2024-03-07,Senate,"Senate Committee Do adopt",5,0,0,0,5
+1859567,1405949,2024-03-07,Senate,"Senate Final Reading",24,4,0,2,30
