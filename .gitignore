@@ -1,3 +1,5 @@
 .dropbox
 .data/**/outputs
 scripts
+.venv
+
