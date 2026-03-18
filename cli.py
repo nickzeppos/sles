@@ -33,6 +33,7 @@ def main():
     parser.add_argument("state", help="State postal code (e.g., VA)")
     parser.add_argument(
         "term",
+        nargs="?",
         help="Legislative term (e.g., 2024_2025) or year (e.g., 2024)",
     )
     parser.add_argument(
@@ -46,11 +47,32 @@ def main():
     parser.add_argument(
         "--verbose", action="store_true", help="Enable verbose logging"
     )
+    parser.add_argument(
+        "--preview", metavar="BILL_ID",
+        help="Preview parsed values for a single bill (e.g. HB23-1001)"
+    )
+    parser.add_argument(
+        "--retry-failed", action="store_true",
+        help="Retry URLs from .failed_<term>.txt, appending to existing CSVs"
+    )
+    parser.add_argument(
+        "--force-fetch", action="store_true",
+        help="Re-fetch all bill pages even if cached, overwriting cache"
+    )
 
     args = parser.parse_args()
 
     if args.operation == "scrape":
-        run_scrape(args.state, args.term, args.verbose)
+        if args.preview:
+            run_scrape_preview(args.state, args.preview, args.verbose)
+        elif args.retry_failed:
+            if not args.term:
+                parser.error("term is required for --retry-failed")
+            run_scrape_retry_failed(args.state, args.term, args.verbose)
+        else:
+            if not args.term:
+                parser.error("term is required for scrape without --preview")
+            run_scrape(args.state, args.term, args.verbose, args.force_fetch)
     elif args.operation == "scrape-retry":
         run_scrape_retry(args.state, args.term, args.verbose)
     elif args.operation == "scrape-headless":
@@ -63,11 +85,25 @@ def main():
         run_estimate(args.state, args.term, args.verbose)
 
 
-def run_scrape(state: str, term: str, verbose: bool):
+def run_scrape(state: str, term: str, verbose: bool, force_fetch: bool = False):
     """Run the Python scrape module."""
     from scrape.scrape import scrape_bills
 
-    scrape_bills(state, term, verbose)
+    scrape_bills(state, term, verbose, force_fetch=force_fetch)
+
+
+def run_scrape_preview(state: str, bill_id: str, verbose: bool):
+    """Preview parsed details and history for a single bill."""
+    from scrape.states.co import preview_bill
+
+    preview_bill(state, bill_id, verbose)
+
+
+def run_scrape_retry_failed(state: str, term: str, verbose: bool):
+    """Retry failed URLs from .failed_<term>.txt."""
+    from scrape.states.co import retry_failed
+
+    retry_failed(state, term, verbose)
 
 
 def run_scrape_retry(state: str, term: str, verbose: bool):

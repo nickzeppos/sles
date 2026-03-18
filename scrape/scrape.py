@@ -8,7 +8,7 @@ import importlib
 from pathlib import Path
 
 
-def scrape_bills(state: str, term: str, verbose: bool = False):
+def scrape_bills(state: str, term: str, verbose: bool = False, force_fetch: bool = False):
     """Main scraping entry point.
 
     Dynamically imports the state module and calls its scrape() function.
@@ -43,6 +43,6 @@ def scrape_bills(state: str, term: str, verbose: bool = False):
         print(f"Loaded scrape module for {state_upper}")
 
     # Dispatch
-    module.scrape(state_upper, term, verbose)
+    module.scrape(state_upper, term, verbose, force_fetch=force_fetch)
 
     print("Scraping complete!")
