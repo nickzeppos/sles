@@ -1,0 +1,26 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "id": "83rd2025",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025",
+      "year": 2025,
+      "ordinal": "83rd",
+      "kind": "R"
+    },
+    {
+      "id": "36th2025Special",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special",
+      "year": 2025,
+      "ordinal": "36th",
+      "kind": "S"
+    }
+  ],
+  "counts": {
+    "83rd2025": 1210,
+    "36th2025Special": 27
+  },
+  "details": 1237,
+  "histories": 15531,
+  "completed_at": "2026-09-30T19:29:41.054955+00:00"
+}

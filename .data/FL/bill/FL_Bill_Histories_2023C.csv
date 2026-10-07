@@ -1,0 +1,217 @@
+session,bill_num,chamber,action_date,action,order
+2023C,HB 1C,House,2023-11-02,Filed,1
+2023C,HB 1C,House,2023-11-02,                                    Referred to Appropriations Committee,2
+2023C,HB 1C,House,2023-11-02,                                    Now in Appropriations Committee,3
+2023C,HB 1C,House,2023-11-02,                                    Added to Appropriations Committee agenda,4
+2023C,HB 1C,House,2023-11-06,Favorable with CS by Appropriations Committee,5
+2023C,HB 1C,House,2023-11-06,                                    Reported out of Appropriations Committee,6
+2023C,HB 1C,House,2023-11-06,                                    Laid on Table under Rule 7.18(a),7
+2023C,HB 1C,House,2023-11-06,                                    CS Filed,8
+2023C,HB 1C,House,2023-11-06,                                    Bill referred to House Calendar,9
+2023C,HB 1C,House,2023-11-06,                                    Bill added to Special Order Calendar (11/7/2023),10
+2023C,HB 1C,House,2023-11-06,                                    1st Reading (Original Filed Version),11
+2023C,HB 1C,House,2023-11-06,                                    1st Reading (Committee Substitute 1),12
+2023C,HB 1C,House,2023-11-07,Read 2nd time,13
+2023C,HB 1C,House,2023-11-07,                                    Added to Third Reading Calendar,14
+2023C,HB 1C,House,2023-11-07,                                    Read 3rd time,15
+2023C,HB 1C,House,2023-11-07,"                                    CS passed; YEAS 110, NAYS 0",16
+2023C,HB 1C,Senate,2023-11-07,In Messages,17
+2023C,HB 1C,Senate,2023-11-07,                                    Referred to Fiscal Policy,18
+2023C,HB 1C,Senate,2023-11-07,                                    Received,19
+2023C,HB 1C,Senate,2023-11-08,Withdrawn from Fiscal Policy,20
+2023C,HB 1C,Senate,2023-11-08,"                                    Placed on Calendar, on 2nd reading",21
+2023C,HB 1C,Senate,2023-11-08,                                    Substituted for SB 2-C,22
+2023C,HB 1C,Senate,2023-11-08,                                    Read 2nd time,23
+2023C,HB 1C,Senate,2023-11-08,                                    Read 3rd time,24
+2023C,HB 1C,Senate,2023-11-08,                                    CS passed; YEAS 39 NAYS 0,25
+2023C,HB 1C,House,2023-11-08,In Messages,26
+2023C,HB 1C,House,2023-11-08,                                    Ordered enrolled,27
+2023C,HB 1C,,2023-11-13,Signed by Officers and presented to Governor,28
+2023C,HB 1C,,2023-11-13,                                    Approved by Governor,29
+2023C,HB 1C,,2023-11-14,Chapter No. 2023-349,30
+2023C,SB 2C,Senate,2023-11-02,Filed,1
+2023C,SB 2C,Senate,2023-11-02,                                    Referred to Fiscal Policy,2
+2023C,SB 2C,Senate,2023-11-02,"                                    On Committee agenda-- Fiscal Policy, 11/06/23, 11:30 am, 412 Knott Building",3
+2023C,SB 2C,Senate,2023-11-06,Favorable by- Fiscal Policy; YEAS 18 NAYS 0,4
+2023C,SB 2C,Senate,2023-11-06,"                                    Placed on Calendar, on 2nd reading",5
+2023C,SB 2C,Senate,2023-11-06,                                    Introduced,6
+2023C,SB 2C,Senate,2023-11-07,"Placed on Special Order Calendar, 11/08/23",7
+2023C,SB 2C,Senate,2023-11-08,Read 2nd time,8
+2023C,SB 2C,Senate,2023-11-08,                                    Amendment(s) adopted (813094),9
+2023C,SB 2C,Senate,2023-11-08,                                    Substituted CS/HB 1-C,10
+2023C,SB 2C,Senate,2023-11-08,"                                    Laid on Table, companion bill(s) passed, see CS/HB 1-C (Ch. 2023-349)",11
+2023C,HB 3C,House,2023-11-02,Filed,1
+2023C,HB 3C,House,2023-11-02,                                    Referred to Appropriations Committee,2
+2023C,HB 3C,House,2023-11-02,                                    Now in Appropriations Committee,3
+2023C,HB 3C,House,2023-11-02,                                    Added to Appropriations Committee agenda,4
+2023C,HB 3C,House,2023-11-06,Favorable by Appropriations Committee,5
+2023C,HB 3C,House,2023-11-06,                                    Reported out of Appropriations Committee,6
+2023C,HB 3C,House,2023-11-06,                                    Bill released to House Calendar,7
+2023C,HB 3C,House,2023-11-06,                                    Bill added to Special Order Calendar (11/7/2023),8
+2023C,HB 3C,House,2023-11-06,                                    1st Reading (Original Filed Version),9
+2023C,HB 3C,House,2023-11-07,Read 2nd time,10
+2023C,HB 3C,House,2023-11-07,                                    Amendment 555575 Failed,11
+2023C,HB 3C,House,2023-11-07,                                    Amendment 057163 not allowed for consideration,12
+2023C,HB 3C,House,2023-11-07,                                    Amendment 179775 not allowed for consideration,13
+2023C,HB 3C,House,2023-11-07,                                    Added to Third Reading Calendar,14
+2023C,HB 3C,House,2023-11-07,                                    Read 3rd time,15
+2023C,HB 3C,House,2023-11-07,"                                    Passed; YEAS 111, NAYS 0",16
+2023C,HB 3C,Senate,2023-11-07,In Messages,17
+2023C,HB 3C,Senate,2023-11-07,                                    Referred to Fiscal Policy,18
+2023C,HB 3C,Senate,2023-11-07,                                    Received,19
+2023C,HB 3C,Senate,2023-11-08,Withdrawn from Fiscal Policy,20
+2023C,HB 3C,Senate,2023-11-08,"                                    Placed on Calendar, on 2nd reading",21
+2023C,HB 3C,Senate,2023-11-08,                                    Substituted for SB 4-C,22
+2023C,HB 3C,Senate,2023-11-08,                                    Read 2nd time,23
+2023C,HB 3C,Senate,2023-11-08,                                    Read 3rd time,24
+2023C,HB 3C,Senate,2023-11-08,                                    Passed; YEAS 39 NAYS 0,25
+2023C,HB 3C,House,2023-11-08,In Messages,26
+2023C,HB 3C,House,2023-11-08,                                    Ordered enrolled,27
+2023C,HB 3C,,2023-11-13,Signed by Officers and presented to Governor,28
+2023C,HB 3C,,2023-11-13,                                    Approved by Governor,29
+2023C,HB 3C,,2023-11-14,Chapter No. 2023-350,30
+2023C,SB 4C,Senate,2023-11-02,Filed,1
+2023C,SB 4C,Senate,2023-11-02,                                    Referred to Fiscal Policy,2
+2023C,SB 4C,Senate,2023-11-02,"                                    On Committee agenda-- Fiscal Policy, 11/06/23, 11:30 am, 412 Knott Building",3
+2023C,SB 4C,Senate,2023-11-06,Favorable by- Fiscal Policy; YEAS 18 NAYS 0,4
+2023C,SB 4C,Senate,2023-11-06,"                                    Placed on Calendar, on 2nd reading",5
+2023C,SB 4C,Senate,2023-11-06,                                    Introduced,6
+2023C,SB 4C,Senate,2023-11-07,"Placed on Special Order Calendar, 11/08/23",7
+2023C,SB 4C,Senate,2023-11-08,Read 2nd time,8
+2023C,SB 4C,Senate,2023-11-08,                                    Substituted HB 3-C,9
+2023C,SB 4C,Senate,2023-11-08,"                                    Laid on Table, companion bill(s) passed, see HB 3-C (Ch. 2023-350)",10
+2023C,HB 5C,House,2023-11-02,Filed,1
+2023C,HB 5C,House,2023-11-02,                                    Referred to State Affairs Committee,2
+2023C,HB 5C,House,2023-11-02,                                    Now in State Affairs Committee,3
+2023C,HB 5C,House,2023-11-02,                                    Added to State Affairs Committee agenda,4
+2023C,HB 5C,House,2023-11-06,Favorable by State Affairs Committee,5
+2023C,HB 5C,House,2023-11-06,                                    Reported out of State Affairs Committee,6
+2023C,HB 5C,House,2023-11-06,                                    Bill released to House Calendar,7
+2023C,HB 5C,House,2023-11-06,                                    Bill added to Special Order Calendar (11/7/2023),8
+2023C,HB 5C,House,2023-11-06,                                    1st Reading (Original Filed Version),9
+2023C,HB 5C,House,2023-11-07,Read 2nd time,10
+2023C,HB 5C,House,2023-11-07,                                    Added to Third Reading Calendar,11
+2023C,HB 5C,House,2023-11-07,                                    Read 3rd time,12
+2023C,HB 5C,House,2023-11-07,"                                    Passed; YEAS 100, NAYS 2",13
+2023C,HB 5C,Senate,2023-11-07,In Messages,14
+2023C,HB 5C,Senate,2023-11-07,                                    Referred to Rules,15
+2023C,HB 5C,Senate,2023-11-07,                                    Received,16
+2023C,HB 5C,Senate,2023-11-08,Withdrawn from Rules,17
+2023C,HB 5C,Senate,2023-11-08,"                                    Placed on Calendar, on 2nd reading",18
+2023C,HB 5C,Senate,2023-11-08,                                    Substituted for SB 10-C,19
+2023C,HB 5C,Senate,2023-11-08,                                    Read 2nd time,20
+2023C,HB 5C,Senate,2023-11-08,                                    Read 3rd time,21
+2023C,HB 5C,Senate,2023-11-08,                                    Passed; YEAS 39 NAYS 0,22
+2023C,HB 5C,House,2023-11-08,In Messages,23
+2023C,HB 5C,House,2023-11-08,                                    Ordered enrolled,24
+2023C,HB 5C,,2023-11-13,Signed by Officers and presented to Governor,25
+2023C,HB 5C,,2023-11-13,                                    Approved by Governor,26
+2023C,HB 5C,,2023-11-14,Chapter No. 2023-351,27
+2023C,SB 6C,Senate,2023-11-02,Filed,1
+2023C,SB 6C,Senate,2023-11-02,                                    Referred to Fiscal Policy,2
+2023C,SB 6C,Senate,2023-11-02,"                                    On Committee agenda-- Fiscal Policy, 11/06/23, 11:30 am, 412 Knott Building",3
+2023C,SB 6C,Senate,2023-11-06,Favorable by- Fiscal Policy; YEAS 18 NAYS 0,4
+2023C,SB 6C,Senate,2023-11-06,"                                    Placed on Calendar, on 2nd reading",5
+2023C,SB 6C,Senate,2023-11-06,                                    Introduced,6
+2023C,SB 6C,Senate,2023-11-07,"Placed on Special Order Calendar, 11/08/23",7
+2023C,SB 6C,Senate,2023-11-08,Read 2nd time,8
+2023C,SB 6C,Senate,2023-11-08,"                                    Amendment(s) adopted (948778, 961846)",9
+2023C,SB 6C,Senate,2023-11-08,                                    Substituted CS/HB 7-C,10
+2023C,SB 6C,Senate,2023-11-08,"                                    Laid on Table, companion bill(s) passed, see CS/HB 7-C (Ch. 2023-352)",11
+2023C,HB 7C,House,2023-11-02,Filed,1
+2023C,HB 7C,House,2023-11-02,                                    Referred to Appropriations Committee,2
+2023C,HB 7C,House,2023-11-02,                                    Now in Appropriations Committee,3
+2023C,HB 7C,House,2023-11-02,                                    Added to Appropriations Committee agenda,4
+2023C,HB 7C,House,2023-11-06,Favorable with CS by Appropriations Committee,5
+2023C,HB 7C,House,2023-11-06,                                    Reported out of Appropriations Committee,6
+2023C,HB 7C,House,2023-11-06,                                    Laid on Table under Rule 7.18(a),7
+2023C,HB 7C,House,2023-11-06,                                    CS Filed,8
+2023C,HB 7C,House,2023-11-06,                                    Bill referred to House Calendar,9
+2023C,HB 7C,House,2023-11-06,                                    Bill added to Special Order Calendar (11/7/2023),10
+2023C,HB 7C,House,2023-11-06,                                    1st Reading (Original Filed Version),11
+2023C,HB 7C,House,2023-11-06,                                    1st Reading (Committee Substitute 1),12
+2023C,HB 7C,House,2023-11-07,Read 2nd time,13
+2023C,HB 7C,House,2023-11-07,                                    Added to Third Reading Calendar,14
+2023C,HB 7C,House,2023-11-07,                                    Read 3rd time,15
+2023C,HB 7C,House,2023-11-07,"                                    CS passed; YEAS 109, NAYS 0",16
+2023C,HB 7C,Senate,2023-11-07,In Messages,17
+2023C,HB 7C,Senate,2023-11-07,                                    Referred to Fiscal Policy,18
+2023C,HB 7C,Senate,2023-11-07,                                    Received,19
+2023C,HB 7C,Senate,2023-11-08,Withdrawn from Fiscal Policy,20
+2023C,HB 7C,Senate,2023-11-08,"                                    Placed on Calendar, on 2nd reading",21
+2023C,HB 7C,Senate,2023-11-08,                                    Substituted for SB 6-C,22
+2023C,HB 7C,Senate,2023-11-08,                                    Read 2nd time,23
+2023C,HB 7C,Senate,2023-11-08,                                    Read 3rd time,24
+2023C,HB 7C,Senate,2023-11-08,                                    CS passed; YEAS 39 NAYS 0,25
+2023C,HB 7C,House,2023-11-08,In Messages,26
+2023C,HB 7C,House,2023-11-08,                                    Ordered enrolled,27
+2023C,HB 7C,,2023-11-13,Signed by Officers and presented to Governor,28
+2023C,HB 7C,,2023-11-13,                                    Approved by Governor,29
+2023C,HB 7C,,2023-11-14,Chapter No. 2023-352,30
+2023C,SR 8C,Senate,2023-11-02,Filed,1
+2023C,SR 8C,Senate,2023-11-02,                                    Referred to Rules,2
+2023C,SR 8C,Senate,2023-11-02,"                                    On Committee agenda-- Rules, 11/06/23, 2:30 pm, 412 Knott Building",3
+2023C,SR 8C,Senate,2023-11-06,Introduced,4
+2023C,SR 8C,Senate,2023-11-06,                                    Favorable by- Rules; YEAS 19 NAYS 0,5
+2023C,SR 8C,Senate,2023-11-06,"                                    Placed on Calendar, on 2nd reading",6
+2023C,SR 8C,Senate,2023-11-07,"Placed on Special Order Calendar, 11/08/23",7
+2023C,SR 8C,Senate,2023-11-08,Read 2nd time,8
+2023C,SR 8C,Senate,2023-11-08,"                                    Adopted, companion bill(s) passed, see HR 9-C (Adopted), HR 11-C (Adopted)",9
+2023C,HR 9C,House,2023-11-02,Filed,1
+2023C,HR 9C,House,2023-11-02,                                    Bill referred to House Calendar,2
+2023C,HR 9C,House,2023-11-06,Bill added to Special Order Calendar (11/7/2023),3
+2023C,HR 9C,House,2023-11-06,                                    1st Reading (Original Filed Version),4
+2023C,HR 9C,House,2023-11-07,Read 2nd time,5
+2023C,HR 9C,House,2023-11-07,"                                    Adopted; YEAS 108, NAYS 0",6
+2023C,SB 10C,Senate,2023-11-02,Filed,1
+2023C,SB 10C,Senate,2023-11-02,                                    Referred to Rules,2
+2023C,SB 10C,Senate,2023-11-02,"                                    On Committee agenda-- Rules, 11/06/23, 2:30 pm, 412 Knott Building",3
+2023C,SB 10C,Senate,2023-11-06,Introduced,4
+2023C,SB 10C,Senate,2023-11-06,                                    Favorable by- Rules; YEAS 19 NAYS 0,5
+2023C,SB 10C,Senate,2023-11-06,"                                    Placed on Calendar, on 2nd reading",6
+2023C,SB 10C,Senate,2023-11-07,"Placed on Special Order Calendar, 11/08/23",7
+2023C,SB 10C,Senate,2023-11-08,Read 2nd time,8
+2023C,SB 10C,Senate,2023-11-08,                                    Substituted HB 5-C,9
+2023C,SB 10C,Senate,2023-11-08,"                                    Laid on Table, companion bill(s) passed, see HB 5-C (Ch. 2023-351)",10
+2023C,HR 11C,House,2023-11-03,Filed,1
+2023C,HR 11C,House,2023-11-05,Bill referred to House Calendar,2
+2023C,HR 11C,House,2023-11-06,Bill added to Special Order Calendar (11/7/2023),3
+2023C,HR 11C,House,2023-11-06,                                    1st Reading (Original Filed Version),4
+2023C,HR 11C,House,2023-11-07,Read 2nd time,5
+2023C,HR 11C,House,2023-11-07,"                                    Adopted; YEAS 103, NAYS 3",6
+2023C,HB 13C,House,2023-11-02,Filed,1
+2023C,HB 13C,House,2023-11-03,Withdrawn prior to introduction,2
+2023C,HB 15C,House,2023-11-06,Filed,1
+2023C,HB 15C,House,2023-11-06,                                    Referred to Appropriations Committee,2
+2023C,HB 15C,House,2023-11-06,                                    Now in Appropriations Committee,3
+2023C,HB 15C,House,2023-11-06,                                    1st Reading (Original Filed Version),4
+2023C,HB 15C,House,2023-11-09,Died in Appropriations Committee,5
+2023C,HB 17C,House,2023-11-06,Filed,1
+2023C,HB 17C,House,2023-11-06,                                    Ruled outside the Call,2
+2023C,HB 17C,House,2023-11-06,                                    Introduction refused,3
+2023C,HB 17C,House,2023-11-09,"Died, introduction refused",4
+2023C,HB 19C,House,2023-11-06,Filed,1
+2023C,HB 19C,House,2023-11-09,"Died, not introduced",2
+2023C,HB 21C,House,2023-11-06,Filed,1
+2023C,HB 21C,House,2023-11-06,                                    Ruled outside the Call,2
+2023C,HB 21C,House,2023-11-06,                                    Introduction refused,3
+2023C,HB 21C,House,2023-11-09,"Died, introduction refused",4
+2023C,HB 23C,House,2023-11-06,Filed,1
+2023C,HB 23C,House,2023-11-06,                                    Ruled outside the Call,2
+2023C,HB 23C,House,2023-11-06,                                    Introduction refused,3
+2023C,HB 23C,House,2023-11-09,"Died, introduction refused",4
+2023C,HB 25C,House,2023-11-06,Filed,1
+2023C,HB 25C,House,2023-11-09,"Died, not introduced",2
+2023C,HB 27C,House,2023-11-06,Filed,1
+2023C,HB 27C,House,2023-11-09,"Died, not introduced",2
+2023C,HB 29C,House,2023-11-06,Filed,1
+2023C,HB 29C,House,2023-11-06,                                    Ruled outside the Call,2
+2023C,HB 29C,House,2023-11-06,                                    Introduction refused,3
+2023C,HB 29C,House,2023-11-09,"Died, introduction refused",4
+2023C,HR 31C,House,2023-11-06,Filed,1
+2023C,HR 31C,House,2023-11-06,                                    Bill referred to House Calendar,2
+2023C,HR 31C,House,2023-11-06,                                    Bill added to Special Order Calendar (11/7/2023),3
+2023C,HR 31C,House,2023-11-06,                                    1st Reading (Original Filed Version),4
+2023C,HR 31C,House,2023-11-07,Read 2nd time,5
+2023C,HR 31C,House,2023-11-07,                                    Amendment 556797 Failed,6
+2023C,HR 31C,House,2023-11-07,"                                    Failed to adopt; YEAS 2, NAYS 104",7

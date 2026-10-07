@@ -2,6 +2,10 @@
 Colorado Bill Scraper
 """
 
+from scrape.reporting import scrape_run, write_manifest
+
+from utils import cache as cache_io
+
 import csv
 import datetime
 import math
@@ -21,7 +25,70 @@ BILL_SEARCH_URL = f"{BASE_URL}/bills/bill-search"
 
 def _make_session() -> requests.Session:
     """Create a requests session."""
-    return requests.Session()
+    return _BrowserFallbackSession()
+
+
+class _BrowserFallbackSession(requests.Session):
+    """Use ordinary Chrome for public pages rejected by the HTTP client."""
+
+    def __init__(self):
+        super().__init__()
+        self.browser = None
+
+    def get(self, url, **kwargs):
+        time.sleep(4)
+        response = super().get(url, **kwargs)
+        for attempt in range(3):
+            if response.status_code != 429:
+                break
+            retry_after = response.headers.get("Retry-After", "")
+            delay = max(60 * (attempt + 1), int(retry_after) if retry_after.isdigit() else 0)
+            print(f"CO: rate limited; waiting {delay}s before retry", flush=True)
+            time.sleep(delay)
+            response = super().get(url, **kwargs)
+        if response.status_code != 406:
+            return response
+        from selenium import webdriver
+        from selenium.webdriver.chrome.options import Options
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.support.ui import WebDriverWait
+        from selenium.webdriver.support import expected_conditions as EC
+
+        if self.browser is None:
+            options = Options()
+            options.add_argument("--headless")
+            self.browser = webdriver.Chrome(options=options)
+            self.browser.set_page_load_timeout(60)
+            print("CO: using Chrome for pages returning HTTP 406", flush=True)
+        self.browser.get(response.url)
+        WebDriverWait(self.browser, 30).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "main"))
+        )
+        response = requests.Response()
+        response.status_code = 200
+        response.url = self.browser.current_url
+        response.encoding = "utf-8"
+        response._content = self.browser.page_source.encode("utf-8")
+        return response
+
+    def close(self):
+        try:
+            if self.browser is not None:
+                self.browser.quit()
+                self.browser = None
+        finally:
+            super().close()
+
+
+def parse_term(term: str) -> list[str]:
+    if not re.fullmatch(r"\d{4}_\d{4}", term):
+        raise ValueError("CO term must be YYYY_YYYY, for example 2025_2026")
+    start, end = map(int, term.split("_"))
+    if start % 2 != 1 or end != start + 1:
+        raise ValueError("CO term must start in an odd year and end the next year")
+    if end > datetime.date.today().year:
+        raise ValueError(f"CO term {term} includes a future year")
+    return [str(start), str(end)]
 
 
 def _get_sessions(
@@ -39,8 +106,10 @@ def _get_sessions(
     sessions = [
         cb["value"]
         for cb in checkboxes
-        if any(y in cb["value"] for y in years)
+        if any(re.search(rf"\b{y}\b", cb["value"]) for y in years)
     ]
+    if not sessions or any(not any(y in s for s in sessions) for y in years):
+        raise ValueError(f"CO did not list sessions for each requested year: {years}")
     return sessions
 
 
@@ -55,9 +124,9 @@ def _fetch_index_page(
     """Fetch or load a listing page, caching the pruned result."""
     cache_file = cache_dir / f".index_{term}_p{page_num}.html"
 
-    if cache_file.exists() and not force_fetch:
+    if cache_io.exists(cache_file) and not force_fetch:
         return BeautifulSoup(
-            cache_file.read_text(encoding="utf-8"), "lxml"
+            cache_io.read_text(cache_file, encoding="utf-8"), "lxml"
         )
 
     params = [("sessions[]", s) for s in sessions]
@@ -76,7 +145,7 @@ def _fetch_index_page(
     results_div = soup.find("div", id="all-search-results-data-list")
     for tag in results_div.find_all(["script", "style", "img"]):
         tag.decompose()
-    cache_file.write_text(str(results_div), encoding="utf-8")
+    cache_io.write_text(cache_file, str(results_div), encoding="utf-8")
 
     return soup
 
@@ -104,7 +173,11 @@ def _iter_bill_urls(
         .replace(",", "").strip()
     )
     total_pages = math.ceil(total / 25)
+    if total <= 0:
+        raise ValueError(f"CO index returned no bills for {term}")
     print(f"Total bills: {total} ({total_pages} pages)")
+
+    seen = set()
 
     def _parse_page(s: BeautifulSoup) -> list[str]:
         urls = []
@@ -112,6 +185,9 @@ def _iter_bill_urls(
             bill_id = div.find(
                 "h2", {"class": "sponsor-bill-or-resolution-tag"}
             ).get_text().strip()
+            if bill_id in seen:
+                raise ValueError(f"Duplicate CO index bill: {bill_id}")
+            seen.add(bill_id)
             urls.append(f"{BASE_URL}/bills/{bill_id}")
         return urls
 
@@ -125,6 +201,8 @@ def _iter_bill_urls(
         print(f" -- {page_num}/{total_pages}")
         time.sleep(0.25)
         yield from _parse_page(page_soup)
+    if len(seen) != total:
+        raise ValueError(f"CO index count mismatch: expected {total}, got {len(seen)}")
 
 
 def _fetch_and_cache(
@@ -140,7 +218,7 @@ def _fetch_and_cache(
     bill_id = bill_url.rstrip("/").split("/")[-1]
     cache_file = cache_dir / f"{bill_id}.html"
 
-    if cache_file.exists() and not force_fetch:
+    if cache_io.exists(cache_file) and not force_fetch:
         return cache_file
 
     resp = http.get(bill_url, timeout=60)
@@ -149,7 +227,7 @@ def _fetch_and_cache(
     main = soup.find("main")
     for tag in main.find_all(["script", "style", "img"]):
         tag.decompose()
-    cache_file.write_text(str(main), encoding="utf-8")
+    cache_io.write_text(cache_file, str(main), encoding="utf-8")
     time.sleep(0.5)
     return cache_file
 
@@ -168,7 +246,7 @@ def _parse_bill(
     Returns (details_row, history_rows).
     """
     soup = BeautifulSoup(
-        cache_file.read_text(encoding="utf-8"), "lxml"
+        cache_io.read_text(cache_file, encoding="utf-8"), "lxml"
     )
 
     bill_number = bill_url.rstrip("/").split("/")[-1].upper()
@@ -309,6 +387,9 @@ def _parse_bill(
                 order,
             ])
 
+    if not history_rows:
+        raise ValueError(f"Colorado bill has no history: {bill_number}")
+
     return details_row, history_rows
 
 
@@ -318,13 +399,13 @@ def retry_failed(state: str, term: str, verbose: bool = False):
     bill_dir = repo_root / ".data" / state / "bill"
     failed_file = bill_dir / f".failed_{term}.txt"
 
-    if not failed_file.exists():
+    if not cache_io.exists(failed_file):
         print(f"No failed file found: {failed_file}")
         return
 
     urls = [
         u.strip()
-        for u in failed_file.read_text().splitlines()
+        for u in cache_io.read_text(failed_file).splitlines()
         if u.strip()
     ]
     if not urls:
@@ -355,8 +436,8 @@ def retry_failed(state: str, term: str, verbose: bool = False):
                 # Force re-fetch by removing cached file if present
                 bill_id = url.rstrip("/").split("/")[-1]
                 cached = cache_dir / f"{bill_id}.html"
-                if cached.exists():
-                    cached.unlink()
+                if cache_io.exists(cached):
+                    cache_io.unlink(cached)
 
                 cached = _fetch_and_cache(url, cache_dir, http)
                 details, history = _parse_bill(cached, url)
@@ -383,10 +464,10 @@ def retry_failed(state: str, term: str, verbose: bool = False):
 
     # Rewrite failed file with only still-failing URLs
     if still_failed:
-        failed_file.write_text("\n".join(still_failed) + "\n")
+        cache_io.write_text(failed_file, "\n".join(still_failed) + "\n")
         print(f"\n{len(still_failed)} still failed: {failed_file}")
     else:
-        failed_file.unlink()
+        cache_io.unlink(failed_file)
         print(f"\nAll retried successfully — removed {failed_file.name}")
 
 
@@ -433,10 +514,11 @@ def preview_bill(state: str, bill_id: str, verbose: bool = False):
 
 def _cleanup_cache_file(cache_file: Path):
     """Delete a single cached bill HTML file after parsing."""
-    if cache_file.exists():
-        cache_file.unlink()
+    if cache_io.exists(cache_file):
+        cache_io.unlink(cache_file)
 
 
+@scrape_run
 def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = False):
     """Main entry point for CO scraping.
 
@@ -445,15 +527,7 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
         term: e.g. "2023_2024" — must end in an even year
         verbose: Enable verbose logging
     """
-    parts = term.split("_")
-    if len(parts) == 1:
-        years = [parts[0]]
-    elif len(parts) == 2:
-        years = parts
-    else:
-        raise ValueError(
-            f"Invalid term format: {term} (expected YYYY or YYYY_YYYY)"
-        )
+    years = parse_term(term)
 
     repo_root = Path(__file__).parent.parent.parent
     cache_dir = repo_root / ".data" / state / "bill" / ".cache"
@@ -482,13 +556,17 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
     failed_file = bill_dir / f".failed_{term}.txt"
 
     sinks: dict[str, tuple] = {}
+    staged = []
     for year in years:
         details_file = bill_dir / f"CO_Bill_Details_{year}.csv"
         histories_file = (
             bill_dir / f"CO_Bill_Histories_{year}.csv"
         )
-        df = open(details_file, "w", newline="")
-        hf = open(histories_file, "w", newline="")
+        detail_pending = details_file.with_suffix(".csv.tmp")
+        history_pending = histories_file.with_suffix(".csv.tmp")
+        staged.extend([(detail_pending, details_file), (history_pending, histories_file)])
+        df = open(detail_pending, "w", newline="", encoding="utf-8")
+        hf = open(history_pending, "w", newline="", encoding="utf-8")
         dw = csv.writer(df)
         hw = csv.writer(hf)
         dw.writerow(DETAILS_HEADER)
@@ -496,16 +574,25 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
         sinks[year] = (df, hf, dw, hw)
 
     fetch_q: queue.Queue = queue.Queue(maxsize=5)
+    discovery_errors = []
+    detail_count = history_count = 0
+    failures = []
 
     def fetch_worker():
-        for url in bill_url_iter:
-            try:
-                cached = _fetch_and_cache(url, cache_dir, http, force_fetch)
-                fetch_q.put((url, cached))
-            except Exception as e:
-                print(f" *** FETCH ERROR -- {url}\n     {e}")
-                fetch_q.put((url, None))
-        fetch_q.put(None)  # sentinel
+        try:
+            for url in bill_url_iter:
+                try:
+                    cached = _fetch_and_cache(url, cache_dir, http, force_fetch)
+                    fetch_q.put((url, cached))
+                except Exception as e:
+                    print(f" *** FETCH ERROR -- {url}\n     {e}")
+                    fetch_q.put((url, None))
+                    if isinstance(e, requests.HTTPError) and e.response.status_code == 429:
+                        raise  # stop after exhausted rate-limit retries
+        except Exception as e:
+            discovery_errors.append(e)
+        finally:
+            fetch_q.put(None)  # wake the consumer even if index fetching failed
 
     fetcher = threading.Thread(target=fetch_worker, daemon=True)
     fetcher.start()
@@ -521,18 +608,20 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
 
             if cached is None:
                 print(f" *** ({num}) -- SKIPPING (fetch failed) -- {url}")
-                with open(failed_file, "a") as ff:
-                    ff.write(url + "\n")
+                failures.append(url)
                 continue
 
             try:
                 details, history = _parse_bill(cached, url)
 
                 bill_session = details[1]
-                if bill_session in sinks:
-                    _, _, dw, hw = sinks[bill_session]
-                    dw.writerow(details)
-                    hw.writerows(history)
+                if bill_session not in sinks:
+                    raise ValueError(f"Unexpected CO bill year {bill_session}: {url}")
+                _, _, dw, hw = sinks[bill_session]
+                dw.writerow(details)
+                hw.writerows(history)
+                detail_count += 1
+                history_count += len(history)
 
                 print(f" ({num}) -- {url}")
 
@@ -541,8 +630,7 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
                     f" *** ({num}) -- PARSE ERROR -- {url}\n"
                     f"     {e}"
                 )
-                with open(failed_file, "a") as ff:
-                    ff.write(url + "\n")
+                failures.append(url)
                 # leave cache file in place for inspection
     finally:
         fetcher.join()
@@ -551,4 +639,19 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
             df.close()
             hf.close()
 
+    if failures:
+        cache_io.write_text(failed_file, "\n".join(failures) + "\n", encoding="utf-8")
+    if failures or discovery_errors:
+        for pending, _ in staged:
+            cache_io.unlink(pending, missing_ok=True)
+        if discovery_errors:
+            raise RuntimeError("CO index discovery failed; prior outputs retained") from discovery_errors[0]
+        raise RuntimeError(f"CO has {len(failures)} failed bills; prior outputs retained; rerun to resume cached pages")
+    manifest = bill_dir / f".CO_scrape_{term}.json"
+    manifest.unlink(missing_ok=True)
+    for pending, target in staged:
+        cache_io.replace(pending, target)
+    write_manifest(manifest, {"term": term, "sessions": sessions,
+                              "details": detail_count, "histories": history_count})
+    cache_io.unlink(failed_file, missing_ok=True)
     print("\n\n --- ALL DONE --- \n")

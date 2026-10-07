@@ -1,0 +1,16 @@
+bill_number,session,session_year,session_type,chamber,action_date,action,order
+AB1,34th,2023,S,,2023-06-06,"Read first time. Referred to Committee on Ways and Means. To printer.From printer. To committee.From committee: Do pass.Declared an emergency measure under the Constitution.Read third time. Passed. Title approved. (Yeas:30, Nays:11, Excused:1.) To Senate.In Senate.Read first time. Referred to Select Committee on Finance. To committee.From committee: Do pass.Declared an emergency measure under the Constitution.Read third time. Passed. Title approved. (Yeas:14, Nays:7.) To Assembly.In Assembly. To enrollment.",1
+AB1,34th,2023,S,,2023-06-06,Senate Select Committee on Finance                                             (Work Session) Committee Hearing ~ Outcome: Do pass,2
+AB1,34th,2023,S,,2023-06-06,Assembly Ways and Means Committee Hearing ~ Outcome: Heard; Do pass,3
+AB1,34th,2023,S,,2023-06-08,Enrolled and delivered to Governor.,4
+AB1,34th,2023,S,,2023-06-09,Approved by the Governor. Chapter 1.,5
+ACR1,34th,2023,S,,2023-06-06,Resolution read and adopted. To printer.From printer. To Senate.In Senate.Resolution read and adopted. To Assembly.In Assembly. To enrollment.,1
+ACR1,34th,2023,S,,2023-06-08,Enrolled and delivered to Secretary of State.File No. 1.,2
+AR1,34th,2023,S,,2023-06-06,Resolution read and adopted. To printer.From printer. To enrollment.,1
+AR1,34th,2023,S,,2023-06-08,Enrolled and delivered to Secretary of State.File No. 2.,2
+SR1,34th,2023,S,,2023-06-06,Resolution read and adopted. To printer.,1
+SR1,34th,2023,S,,2023-06-07,From printer. To enrollment.,2
+SR1,34th,2023,S,,2023-06-08,Enrolled and delivered to Secretary of State.File No. 3.,3
+SR2,34th,2023,S,,2023-06-06,Resolution read and adopted. To printer.,1
+SR2,34th,2023,S,,2023-06-07,From printer. To enrollment.,2
+SR2,34th,2023,S,,2023-06-08,Enrolled and delivered to Secretary of State.File No. 4.,3

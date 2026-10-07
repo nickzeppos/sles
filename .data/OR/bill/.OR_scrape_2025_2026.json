@@ -1,0 +1,42 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "SessionKey": "2025R1",
+      "SessionName": "2025 Regular Session",
+      "BeginDate": "2025-01-13T00:00:00",
+      "EndDate": null,
+      "CreatedDate": "2023-06-29T16:29:39",
+      "ModifiedDate": "2026-06-09T11:05:09",
+      "DefaultSession": false
+    },
+    {
+      "SessionKey": "2025S1",
+      "SessionName": "2025 1st Special Session",
+      "BeginDate": "2025-08-29T00:00:00",
+      "EndDate": null,
+      "CreatedDate": "2025-07-18T13:18:54",
+      "ModifiedDate": "2026-07-13T10:30:58",
+      "DefaultSession": false
+    },
+    {
+      "SessionKey": "2026R1",
+      "SessionName": "2026 Regular Session",
+      "BeginDate": "2026-02-02T00:00:00",
+      "EndDate": null,
+      "CreatedDate": "2025-07-01T15:10:29",
+      "ModifiedDate": "2026-07-13T10:30:58",
+      "DefaultSession": false
+    }
+  ],
+  "counts": {
+    "2025R1": 3466,
+    "2025S1": 3,
+    "2026R1": 304
+  },
+  "details": 3773,
+  "histories": 37992,
+  "source_empty_histories": [],
+  "sponsor_order": "MeasureSponsorId (Connor convention); raw PrintOrder also preserved in sponsor_records",
+  "completed_at": "2026-09-30T18:25:22.206923+00:00"
+}

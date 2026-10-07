@@ -7,6 +7,7 @@ if (repo_root == "") {
   repo_root <- normalizePath(file.path(getwd(), "../.."))
 }
 paths <- source(file.path(repo_root, "utils/paths.R"), local = TRUE)$value
+terms <- source(file.path(repo_root, "utils/term_to_inputs.R"), local = TRUE)$value
 logging <- source(file.path(repo_root, "utils/logging.R"),
                   local = TRUE)$value
 libs <- source(file.path(repo_root, "utils/libs.R"), local = TRUE)$value
@@ -40,19 +41,15 @@ library(glue)
 #' @return List containing: bill_details, bill_history, ss_bills,
 #'         commem_bills, legiscan
 load_data <- function(state, term, verbose = TRUE) {
+  years <- terms$term_years(state, term)
   cli_log(glue("Loading data for {state} {term}..."))
 
   # Load state configuration
   state_config <- load_state_config(state, verbose)
 
   # Parse term into start and end years
-  years <- strsplit(term, "_")[[1]]
-  if (length(years) != 2) {
-    cli_error(glue("Invalid term format: {term}. Expected YYYY_YYYY"))
-    quit(status = 1)
-  }
-  term_start_year <- years[1]
-  term_end_year <- years[2]
+  term_start_year <- as.character(years[1])
+  term_end_year <- as.character(tail(years, 1))
 
   # Get directory paths
   bill_dir <- get_bill_dir(state)
@@ -88,15 +85,10 @@ load_data <- function(state, term, verbose = TRUE) {
     )
   }
 
-  # Load SS bills (two separate year files, combine them)
-  ss_bills <- bind_rows(
-    read_csv(file.path(ss_dir,
-                       glue("{state}_SS_Bills_{term_start_year}.csv")),
-             show_col_types = FALSE),
-    read_csv(file.path(ss_dir,
-                       glue("{state}_SS_Bills_{term_end_year}.csv")),
-             show_col_types = FALSE)
-  )
+  # Load every annual SS file, including intermediate four-year-term years.
+  ss_bills <- bind_rows(lapply(terms$ss_files(ss_dir, state, term), function(path) {
+    read_csv(path, show_col_types = FALSE)
+  }))
 
   # Load commemorative bills (single file for term)
   commem_bills <- read_csv(
@@ -114,11 +106,8 @@ load_data <- function(state, term, verbose = TRUE) {
   # List all session directories
   legiscan_sessions <- list.dirs(legiscan_dir, full.names = FALSE,
                                  recursive = FALSE)
-  # Filter to sessions starting with either term year
-  legiscan_sessions <- legiscan_sessions[
-    startsWith(legiscan_sessions, term_start_year) |
-      startsWith(legiscan_sessions, term_end_year)
-  ]
+  # Include sessions starting in any year of the term.
+  legiscan_sessions <- terms$roster_sessions(legiscan_sessions, state, term)
 
   # Read people.csv from each session and combine
   legiscan_list <- lapply(legiscan_sessions, function(session) {

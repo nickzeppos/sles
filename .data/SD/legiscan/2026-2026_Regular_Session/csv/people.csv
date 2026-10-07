@@ -1,0 +1,126 @@
+people_id,name,first_name,middle_name,last_name,suffix,nickname,party_id,party,role_id,role,district,followthemoney_eid,votesmart_id,opensecrets_id,ballotpedia,knowwho_pid,committee_id
+8222,"Phil Jensen",Phil,,Jensen,,,2,R,1,Rep,HD-033,8594037,104047,,Phil_Jensen,271447,0
+8256,"State Affairs",State,,Affairs,,,0,,1,Rep,,0,0,,,0,1553
+8257,"Agriculture and Natural Resources",,,,,,0,,1,Rep,,0,0,,,0,1542
+8259,Judiciary,,,Judiciary,,,0,,1,Rep,,0,0,,,0,1549
+8260,Education,,,Education,,,0,,1,Rep,,0,0,,,0,1546
+8261,"Health and Human Services",,,,,,0,,1,Rep,,0,0,,,0,1548
+8263,Transportation,,,Transportation,,,0,,1,Rep,,0,0,,,0,1555
+8264,"Local Government",Local,,Government,,,0,,1,Rep,,0,0,,,0,1551
+8296,"Al Novstrup",Al,,Novstrup,,,2,R,1,Rep,HD-003,6580757,48320,,Al_Novstrup,214314,0
+8325,"Local Government",Local,,Government,,,0,,2,Sen,,0,0,,,0,1565
+8326,Transportation,,,Transportation,,,0,,2,Sen,,0,0,,,0,1569
+8328,"Retirement Laws",Retirement,,Laws,,,0,,2,Sen,,0,0,,,0,1566
+8329,Education,,,Education,,,0,,2,Sen,,0,0,,,0,1560
+8331,Taxation,,,Taxation,,,0,,2,Sen,,0,0,,,0,1568
+8332,"Agriculture and Natural Resources",,,,,,0,,2,Sen,,0,0,,,0,1556
+8333,"Health and Human Services",,,,,,0,,2,Sen,,0,0,,,0,1562
+8334,Judiciary,,,Judiciary,,,0,,2,Sen,,0,0,,,0,1563
+8335,"State Affairs",State,,Affairs,,,0,,2,Sen,,0,0,,,0,1567
+10984,"Jon Hansen",Jon,,Hansen,,,2,R,1,Rep,HD-025,6685955,121385,,Jon_Hansen,292773,0
+12217,"Commerce and Energy",,,,,,0,,2,Sen,,0,0,,,0,2211
+13688,"Commerce and Energy",,,,,,0,,1,Rep,,0,0,,,0,2210
+14196,"Ernie Otten",Ernie,,Otten,Jr.,,2,R,2,Sen,SD-006,11023160,149106,,Ernie_Otten_Jr.,396244,0
+14420,"Mike Stevens",Mike,,Stevens,,,2,R,1,Rep,HD-018,11023149,137892,,Mike_Stevens_(South_Dakota),408739,0
+14500,"Leslie Heinemann",Leslie,,Heinemann,,,2,R,1,Rep,HD-025,11023138,137856,,Leslie_Heinemann,396249,0
+14687,"Elizabeth May",Elizabeth,,May,,Liz,2,R,1,Rep,HD-027,6533952,66336,,Elizabeth_May,408749,0
+14691,"Herman Otten",Herman,,Otten,,,2,R,1,Rep,HD-006,11023119,11244,,Herman_Otten,396246,0
+14692,"Kyle Schoenfish",Kyle,,Schoenfish,,,2,R,2,Sen,SD-019,6503105,121354,,Kyle_Schoenfish,290500,0
+17180,"Arch Beal",Arch,,Beal,,,2,R,2,Sen,SD-012,8596817,151966,,Arch_Beal,492835,0
+17182,"Lana Greenfield",Lana,,Greenfield,,,2,R,1,Rep,HD-022,6685875,121288,,Lana_Greenfield,292744,0
+17186,"Sam Marty",Sam,,Marty,,,2,R,2,Sen,SD-028,23353492,152006,,J._Sam_Marty,493061,0
+17190,"Larry Zikmund",Larry,P.,Zikmund,,,2,R,1,Rep,SD-014,8608125,137866,,Larry_P._Zikmund,408635,0
+17822,"William Shorma",William,,Shorma,,,2,R,1,Rep,HD-017,39762645,156686,,William_Shorma,535341,0
+18629,"Timothy Goodwin",Timothy,R.,Goodwin,,Tim,2,R,1,Rep,HD-030,39762672,169870,,Tim_Goodwin_(South_Dakota),576355,0
+18630,"Taffy Howard",Taffy,,Howard,,,2,R,1,Rep,SD-034,39762679,169890,,Taffy_Howard,576216,0
+18690,"Greg Jamison",Greg,,Jamison,,,2,R,1,Rep,HD-012,28727308,77866,,Greg_Jamison,576720,0
+18691,"Kevin Jensen",Kevin,D.,Jensen,,,2,R,2,Sen,SD-016,11023139,137889,,Kevin_Jensen_(South_Dakota),408661,0
+18693,"Chris Karr",Chris,,Karr,,,2,R,2,Sen,SD-011,13006596,121328,,Chris_Karr,292755,0
+18700,"Sue Lucas-Peterson",Sue,K.,Lucas-Peterson,,,2,R,1,Rep,SD-013,28639942,175708,,Sue_Peterson,595980,0
+18701,"Tom Pischke",Tom,,Pischke,,,2,R,2,Sen,SD-025,39762662,169854,,Tom_Pischke,576214,0
+18702,"Tim Reed",Tim,,Reed,,,2,R,1,Rep,SD-007,8605214,168942,,Tim_Reed_(South_Dakota_House),576716,0
+18703,"Jamie Smith",Jamie,,Smith,,,1,D,2,Sen,SD-015,39762643,169033,,Jamie_Smith_(South_Dakota),576859,0
+18792,"Jack Kolbeck",Jack,R.,Kolbeck,,,2,R,1,Rep,HD-013,39762693,169016,,Jack_Kolbeck,575051,0
+19679,"Rebecca Reimer",Rebecca,,Reimer,,,2,R,1,Rep,HD-026,45284502,180869,,Rebecca_Reimer,661271,0
+19905,"Tony Randolph",Tony,,Randolph,,,2,R,1,Rep,HD-035,45284499,180891,,Tony_Randolph,661517,0
+19915,"Tina Mulally",Tina,L.,Mulally,,,2,R,1,Rep,HD-035,39762719,169894,,Tina_Mulally,576712,0
+20397,"Red Foster",Red,Dawn,Foster,,,1,D,2,Sen,SD-027,39762665,169908,,Red_Dawn_Foster,581538,0
+20539,"Carl Perry",Carl,E.,Perry,,,2,R,1,Rep,SD-003,45284494,180823,,Carl_Perry,650844,0
+20577,"Paul Miskimins",Paul,R.,Miskimins,,,2,R,1,Rep,SD-020,45284488,180856,,Paul_Miskimins,661181,0
+20582,"Erin Healy",Erin,,Healy,,,1,D,1,Rep,HD-010,45284463,180844,,Erin_Healy,478075,0
+20585,"Peri Pourier",Peri,,Pourier,,,2,R,1,Rep,HD-027,45284498,180872,,Peri_Pourier,661274,0
+21187,"Military and Veterans Affairs",,,,,,0,,2,Sen,,0,0,,,0,3759
+21373,"Spencer Gosch",Spencer,,Gosch,,,2,R,1,Rep,HD-023,39762657,169847,,Spencer_Gosch,576354,0
+21437,"Helene Duhamel",Helene,M.,Duhamel,,,2,R,2,Sen,SD-032,48691481,188909,,Helene_Duhamel,725861,0
+21501,"Marty Overweg",Marty,,Overweg,,,2,R,1,Rep,HD-021,48691482,188905,,Marty_Overweg,727944,0
+21672,"Casey Crabtree",Casey,,Crabtree,,,2,R,2,Sen,SD-008,49610476,191454,,Casey_Crabtree,737354,0
+22243,"Mike Weisgram",Mike,,Weisgram,,,2,R,1,Rep,HD-024,15361237,191493,,Mike_Weisgram,732508,0
+22353,"Will Mortenson",Will,D.,Mortenson,,,2,R,1,Rep,HD-024,49610446,191491,,Will_Mortenson,339052,0
+22419,"Trish Ladner",Trish,,Ladner,,,2,R,1,Rep,HD-030,49610435,191475,,Trish_Ladner,737578,0
+22449,"Aaron Aylward",Aaron,,Aylward,,,2,R,1,Rep,HD-006,45284436,180829,,Aaron_Aylward,737478,0
+22450,"Scott Odenbach",Scott,,Odenbach,,,2,R,1,Rep,HD-031,44076597,191467,,Scott_Odenbach,737582,0
+22451,"Taylor Rehfeldt",Taylor,Rae,Rehfeldt,,,2,R,1,Rep,HD-014,47312932,191544,,Taylor_Rae_Rehfeldt,737514,0
+22483,"Bethany Soye",Bethany,,Soye,,,2,R,1,Rep,HD-009,49610459,191536,,Bethany_Soye,737490,0
+22503,"Mary Fitzgerald",Mary,,Fitzgerald,,,2,R,1,Rep,HD-031,15491277,191469,,Mary_Fitzgerald_(South_Dakota),732510,0
+22504,"Michael Rohl",Michael,H.,Rohl,,,2,R,2,Sen,SD-001,49610491,191452,,Michael_Rohl,737347,0
+22513,"Mike Derby",Mike,,Derby,,,2,R,1,Rep,HD-034,13006627,11354,,Mike_Derby,198958,0
+22640,"Sydney Davis",Sydney,,Davis,,,2,R,2,Sen,SD-017,49610415,191520,,Sydney_Davis,737524,0
+23766,"Jessica Bahmuller",Jessica,,Bahmuller,,,2,R,1,Rep,HD-019,55430452,191515,,Jessica_Bahmuller,0,0
+23768,"Eric Emery",Eric,,Emery,,,1,D,1,Rep,HD-026,55430459,205149,,Eric_Emery,805869,0
+23769,"Chris Kassin",Chris,,Kassin,,,2,R,1,Rep,HD-017,55430449,205138,,Chris_Kassin,0,0
+23771,"David Kull",David,,Kull,,,2,R,1,Rep,HD-002,55430407,0,,David_Kull,0,0
+23772,"Curt Massie",Curt,,Massie,,,2,R,1,Rep,HD-033,48057114,0,,Curt_Massie,0,0
+23774,"Tim Reisch",Timothy,,Reisch,,Tim,2,R,1,Rep,HD-008,8596125,129240,,Tim_Reisch,0,0
+23776,"Kadyn Wittman",Kadyn,,Wittman,,,1,D,1,Rep,HD-015,55430442,0,,Kadyn_Wittman,0,0
+23777,"Randy Deibert",Randy,,Deibert,,,2,R,2,Sen,SD-031,55430401,205085,,Randy_Deibert,0,0
+23778,"Steve Kolbeck",Steve,,Kolbeck,,,2,R,2,Sen,SD-002,55430384,77645,,Steve_Kolbeck,0,0
+23899,"Scott Moore",Scott,,Moore,,,2,R,1,Rep,HD-023,44889507,205146,,Scott_Moore_(South_Dakota),0,0
+24121,"Stephanie Sauder",Stephanie,,Sauder,,,2,R,2,Sen,SD-004,55430416,205102,,Stephanie_Sauder,0,0
+24155,"Amber Arlint",Amber,,Arlint,,,2,R,1,Rep,HD-012,55430434,0,,Amber_Arlint,0,0
+24156,"Brian Mulder",Brian,K.,Mulder,,,2,R,1,Rep,HD-011,55430430,0,,Brian_Mulder,0,0
+24157,"Drew Peterson",Drew,,Peterson,,,2,R,1,Rep,HD-019,50823073,205140,,Drew_Peterson_(South_Dakota),805847,0
+24260,"Brandei Schaefbauer",Brandei,,Schaefbauer,,,2,R,1,Rep,HD-003,55430411,205098,,Brandei_Schaefbauer,0,0
+24274,"Karla Lems",Karla,J.,Lems,,,2,R,1,Rep,HD-016,55430446,0,,Karla_Lems,0,0
+24312,"Jim Mehlhaff",Jim,,Mehlhaff,,,2,R,2,Sen,SD-024,8595871,113353,,Jim_Mehlhaff,0,0
+24392,"Roger Degroot",Roger,,Degroot,,,2,R,1,Rep,HD-007,55430422,0,,Roger_DeGroot,0,0
+24393,"Mellissa Heermann",Mellissa,,Heermann,,,2,R,1,Rep,HD-007,55430421,0,,Mellissa_Heermann,0,0
+24395,"Steve Duffy",Steve,,Duffy,,,2,R,1,Rep,HD-032,52867853,0,,Steve_Duffy,0,0
+24400,"John Sjaarda",John,,Sjaarda,,,2,R,1,Rep,HD-002,54861745,0,,John_Sjaarda,0,0
+24401,"Liz Larson",Elizabeth,,Larson,,Liz,1,D,2,Sen,SD-010,52998359,0,,Elizabeth_Larson_(South_Dakota),0,0
+24487,"Julie Auch",Julie,,Auch,,,2,R,1,Rep,HD-018,53080827,0,,Julie_Auch,805838,0
+25631,"Bobbi Andera",Bobbi,,Andera,,,2,R,1,Rep,HD-010,59835885,216160,,Bobbi_Andera,0,0
+25632,"Jeff Bathke",Jeff,,Bathke,,,2,R,1,Rep,HD-020,55430454,205142,,Jeff_Bathke,0,0
+25633,"Heather Baxter",Heather,,Baxter,,,2,R,1,Rep,HD-034,59835849,216122,,Heather_Baxter,0,0
+25634,"Josephine Garcia",Josephine,,Garcia,,,2,R,1,Rep,HD-005,59835746,216146,,Josephine_Garcia_(South_Dakota),0,0
+25635,"Jim Halverson",Jim,,Halverson,,,2,R,1,Rep,HD-021,59835957,216261,,Jim_Halverson_(South_Dakota),0,0
+25636,"John Hughes",John,,Hughes,,,2,R,1,Rep,HD-013,59835802,216172,,John_Hughes_(South_Dakota),0,0
+25637,"Jana Hunt",Jana,,Hunt,,,2,R,1,Rep,HD-028,59835950,216118,,Jana_Hunt,0,0
+25638,"Travis Ismay",Travis,,Ismay,,,2,R,1,Rep,HD-028,59835781,216117,,Travis_Ismay,0,0
+25639,"Dylan Jordan",Dylan,,Jordan,,,2,R,1,Rep,HD-004,59835775,216141,,Dylan_Jordan,0,0
+25640,"Terri Jorgenson",Terri,,Jorgenson,,,2,R,1,Rep,HD-029,59835881,128307,,Terri_Jorgenson,0,0
+25641,"Tony Kayser",Tony,,Kayser,,,2,R,1,Rep,HD-014,59987880,216252,,Tony_Kayser,0,0
+25642,"Logan Manhart",Logan,,Manhart,,,2,R,1,Rep,HD-001,55430404,205090,,Logan_Manhart,0,0
+25643,"Erik Muckey",Erik,,Muckey,,,1,D,1,Rep,HD-015,59835880,216253,,Erik_Muckey,0,0
+25644,"Kaley Nolz",Kaley,,Nolz,,,2,R,1,Rep,HD-020,60427591,219634,,Kaley_Nolz,0,0
+25646,"Kathy Rice",Kathy,,Rice,,,2,R,1,Rep,HD-029,53648611,205155,,Kathy_Rice,0,0
+25647,"Matt Roby",Matt,,Roby,,,2,R,1,Rep,HD-005,59835968,216147,,Matt_Roby,0,0
+25648,"Kent Roe",Kent,,Roe,,,2,R,1,Rep,HD-004,59835946,216142,,Kent_Roe,0,0
+25649,"Tesa Schwans",Tesa,,Schwans,,,2,R,1,Rep,HD-009,59835731,216159,,Tesa_Schwans,0,0
+25650,"Nicole Uhre-Balk",Nicole,,Uhre-Balk,,,1,D,1,Rep,HD-032,59835844,216126,,Nicole_Uhre-Balk,0,0
+25651,"Kevin Van Diepen",Kevin,,"Van Diepen",,,2,R,1,Rep,HD-022,59835863,216262,,Kevin_Van_Diepen,0,0
+25652,"Tim Walburg",Tim,,Walburg,,,2,R,1,Rep,HD-008,59835759,216156,,Tim_Walburg,0,0
+25653,"Keri Weems",Keri,,Weems,,,2,R,1,Rep,HD-011,59835808,48583,,Keri_Weems,0,0
+25654,"Greg Blanc",Greg,,Blanc,,,2,R,2,Sen,SD-035,59835913,216137,,Greg_Blanc,0,0
+25655,"John Carley",John,,Carley,,,2,R,2,Sen,SD-029,55430399,205084,,John_Carley,0,0
+25656,"Tamara Grove",Tamara,,Grove,,,2,R,2,Sen,SD-026,59835891,216129,,Tamara_Grove,0,0
+25657,"Joy Hohn",Joy,,Hohn,,,2,R,2,Sen,SD-009,59835870,216109,,Joy_Hohn,0,0
+25658,"Amber Hulse",Amber,,Hulse,,,2,R,2,Sen,SD-030,59835780,216133,,Amber_Hulse,0,0
+25659,"Mark Lapka",Mark,,Lapka,,,2,R,2,Sen,SD-023,59835941,216127,,Mark_Lapka,0,0
+25660,"Lauren Nelson",Lauren,,Nelson,,,2,R,2,Sen,SD-018,59835732,216120,,Lauren_Nelson_(South_Dakota),0,0
+25661,"Glen Vilhauer",Glen,,Vilhauer,,,2,R,2,Sen,SD-005,59835939,216106,,Glen_Vilhauer,0,0
+25662,"Curt Voight",Curt,,Voight,,,2,R,2,Sen,SD-033,59835842,216135,,Curt_Voight,0,0
+25663,"Mykala Voita",Mykala,,Voita,,,2,R,2,Sen,SD-021,59835970,216123,,MyKala_Voita,0,0
+26414,"Tim Czmowski",Tim,,Czmowski,,,2,R,1,Rep,HD-006,0,220932,,Tim_Czmowski,0,0
+26498,"Nick Fosness",Nicholas,,Fosness,,Nick,2,R,1,Rep,HD-001,0,228104,,Nicholas_Fosness,0,0
+26499,"John Shubeck",John,,Shubeck,,,2,R,1,Rep,HD-016,0,228803,,John_Shubeck,0,0
+26500,"Brandon Wipf",Brandon,,Wipf,,,2,R,2,Sen,SD-022,0,225330,,Brandon_Wipf,0,0

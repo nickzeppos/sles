@@ -1,0 +1,24 @@
+{
+  "term": "2025_2026",
+  "ga": 114,
+  "counts": {
+    "RS": 9092,
+    "SS1": 20,
+    "SS2": 47
+  },
+  "details": 9159,
+  "histories": 120901,
+  "source_blank_actions": [
+    {
+      "bill_id": "SJR0029",
+      "ga_num": 114,
+      "term": "2025_2026",
+      "session": "RS",
+      "action_date": "2025-01-16",
+      "chamber": "senate",
+      "action": "",
+      "order": 1
+    }
+  ],
+  "completed_at": "2026-10-01T20:08:19.081497+00:00"
+}

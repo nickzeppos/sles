@@ -1,0 +1,16 @@
+Type: Project
+Title: State Legislative Effectiveness Scores
+Version: 0.0.0.9000
+Description: R dependencies for the current LES estimation pipeline.
+Imports:
+    dplyr,
+    glue,
+    inexact,
+    purrr,
+    readr,
+    stringi,
+    stringr,
+    tibble,
+    tidyr
+Remotes:
+    arcruz0/inexact

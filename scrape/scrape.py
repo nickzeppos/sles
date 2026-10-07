@@ -6,6 +6,7 @@ Dispatches to state-specific scrapers under scrape/states/<state>.py.
 
 import importlib
 from pathlib import Path
+from utils.validate_term import term_years
 
 
 def scrape_bills(state: str, term: str, verbose: bool = False, force_fetch: bool = False):
@@ -14,6 +15,7 @@ def scrape_bills(state: str, term: str, verbose: bool = False, force_fetch: bool
     Dynamically imports the state module and calls its scrape() function.
     """
     state_upper = state.upper()
+    term_years(state_upper, term)
     state_lower = state.lower()
 
     # Validate state module exists

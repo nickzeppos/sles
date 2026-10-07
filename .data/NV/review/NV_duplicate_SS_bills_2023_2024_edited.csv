@@ -1,0 +1,67 @@
+count,bill_id,term,session,Title,summary,filter
+2,SB0001,2023_2024,2023-RS,Appropriates Millions in Public Funding for a New Stadium,Makes an appropriation to the Legislative Fund for the costs of the 82nd Legislative Session. (BDRS-493),remove
+2,SB0001,2023_2024,2023-SS2,Appropriates Millions in Public Funding for a New Stadium,Revises provisions governing economic infrastructure projects. (BDRS-9),keep
+1,AB0078,2023_2024,2023-RS,Exempts Certain Jobs and Training Services from Nurse Licensure Requirements,Exempts certain providers of jobs and day training services from licensure as nurses. (BDR54-12),keep
+1,AB0101,2023_2024,2023-RS,Requires Prosecutors Using Jailhouse Informants to Disclose Their Criminal History,Revises provisions relating to informants. (BDR14-228),keep
+1,AB0140,2023_2024,2023-RS,Establishes Juneteenth as a Legal Holiday in this State,Makes Juneteenth Day a legal holiday in this State. (BDR19-63),keep
+1,AB0184,2023_2024,2023-RS,Establishes an Incentive Program for the Purchase of Certain Zero-emission Medium-duty and Heavy-duty Vehicles,Establishes an incentive program for the purchase of certain zero-emission medium-duty and heavy-duty vehicles. (BDR40-588),keep
+1,AB0201,2023_2024,2023-RS,Requires New Oversight of the Behavioral Health System in Nevada,Revises provisions relating to planning for the provision of behavioral health care. (BDR39-325),keep
+1,AB0218,2023_2024,2023-RS,Amends Provisions Governing Landlords and Tenants,Revises provisions governing landlords and tenants. (BDR10-136),keep
+1,AB0232,2023_2024,2023-RS,Establishes New Rules Regarding Premium Tobacco Products,Revises provisions governing the taxation of other tobacco products. (BDR32-618),keep
+1,AB0250,2023_2024,2023-RS,Reduces Prescription Drug Costs by Expanding Policies Under the Federal Inflation Reduction Act,Establishes provisions governing prescription drugs. (BDR40-782),keep
+1,AB0266,2023_2024,2023-RS,Requires Governing Bodies of Certain Counties and Cities Ensure that Public Notices are Issued in Certain Languages,Revises provisions relating to governmental administration. (BDR20-120),keep
+1,AB0286,2023_2024,2023-RS,Authorizes Incarcerated Individuals to Vote,Makes various changes relating to elections. (BDR24-530),keep
+1,AB0292,2023_2024,2023-RS,Expands Medical and Behavioral Health Services for Pregnant Inmates,Revises provisions governing offenders. (BDR16-252),keep
+1,AB0322,2023_2024,2023-RS,Establishes Regulations for Kratom Usage and Possession,Revises provisions relating to kratom products. (BDR52-763),keep
+1,AB0330,2023_2024,2023-RS,Authorizes New Rules Regarding Expulsion in Private School,Revises provisions governing education. (BDR34-1087),keep
+1,AB0346,2023_2024,2023-RS,Amends the State Budget for Certain Appropriations,Revises the State Budget Act. (BDR31-928),keep
+1,AB0354,2023_2024,2023-RS,Prohibits Firearms Within 100 Feet of Election Locations,Revises provisions relating to firearms. (BDR15-251),keep
+1,AB0355,2023_2024,2023-RS,Increases Age to Purchase an Assault Weapon to 21,Revises provisions relating to firearms. (BDR15-937),keep
+1,AB0400,2023_2024,2023-RS,Authorizes Local Charter Schools and Appropriates Funding for Transportation Costs,Revises various provisions relating to education. (BDR34-1088),keep
+1,AB0404,2023_2024,2023-RS,Authorizes Caps for Medical Malpractice Lawsuits to Increase,Revises provisions governing civil actions against a provider of health care for professional negligence. (BDR3-709),keep
+1,AB0408,2023_2024,2023-RS,"Authorizes Law Enforcement to Remove ""Dangerous Vehicles"" from the Road",Revises provisions relating to motor vehicles. (BDR43-95),keep
+1,AB0452,2023_2024,2023-RS,Amends Regulations and Visitation Rights of Prisoners,Revises provisions relating to offenders. (BDR16-315),keep
+1,AB0498,2023_2024,2023-RS,Amends the calculations of contribution rates to the public employees retirement system for state employees,Revises provisions relating to public employees' retirement. (BDR23-1200),keep
+1,AB0525,2023_2024,2023-RS,"Appropriates State Funding for Health, Education, Employment, and Community Services","Makes appropriations for various purposes relating to health, education, employment and other community services. (BDRS-1225)",keep
+1,AB0526,2023_2024,2023-RS,Appropriates Funding From the American Rescue Plan for Non-for-Profits,Revises provisions relating to state financial administration. (BDRS-1205),keep
+1,AB0527,2023_2024,2023-RS,Amends Rules Regarding the Preparation of the State Budget,Revises provisions relating to state financial administration. (BDR31-1199),keep
+1,AJR0010,2023_2024,NA,Prohibits Involuntary Servitude,NA,keep
+1,SB0010,2023_2024,2023-RS,Requires the Nevada Infrastructure Bank to Keep Certain Information Confidential,Revises provisions related to the Nevada State Infrastructure Bank. (BDR35-358),keep
+1,SB0035,2023_2024,2023-RS,Increases Criminal Penalties for Fentanyl Trafficking and Possession,Revises provisions relating to controlled substances. (BDR40-423),keep
+1,SB0078,2023_2024,2023-RS,Establishes and Revises Various Definitions Relating to Property,Makes various changes relating to property. (BDR10-623),keep
+1,SB0082,2023_2024,2023-RS,Restructures Previsions Relating to the Use of Apprentices on Public Works,Revises provisions related to public works. (BDR28-535),keep
+1,SB0124,2023_2024,2023-RS,Amends Current Taxation on Minerals and Mineral Royalties,Revises provisions relating to the tax upon the net proceeds of minerals and royalties of mining operations. (BDR32-908),keep
+1,SB0131,2023_2024,2023-RS,Prohibits Arrest of Any Individual Charged in Another State for Receiving Reproductive Healthcare,Revises provisions relating to reproductive health care. (BDR54-44),keep
+1,SB0133,2023_2024,2023-RS,Establishes Falsifying Presidential Elector Signatures as a Felony,Revises provisions relating to presidential electors. (BDR24-539),keep
+1,SB0153,2023_2024,2023-RS,"Requires the Nevada Department of Corrections Regulate the Security, Supervision, Medical, and Mental Health Treat ...",Makes various changes relating to corrections. (BDR16-126),keep
+1,SB0155,2023_2024,2023-RS,Authorizes Homeless Individuals who Committed Misdemeanors to be Deferred to a Specialty Court Program,Revises provisions relating to crimes. (BDR14-244),keep
+1,SB0163,2023_2024,2023-RS,Requires Certain Health Insurance Include Coverage for the Treatment of Gender Dysphoria,Requires certain health insurance to cover treatment of certain conditions relating to gender dysphoria and gender incongruence. (BDR57-129),keep
+1,SB0171,2023_2024,2023-RS,Prohibits Individuals Convicted of Committing or Attempting to Commit a Hate Crime from Owning a Firearm,Revises provisions governing firearms. (BDR15-649),keep
+1,SB0172,2023_2024,2023-RS,Authorizes Minors Access to Services that Prevent Sexually Transmitted Diseases Without Parental Consent,Revises provisions governing the ability of a minor to consent to certain health care services. (BDR11-654),keep
+1,SB0226,2023_2024,2023-RS,Establishes Requirements for Wages When Constructing Public Hospitals and Other Buildings,Revises provisions governing governmental financial administration. (BDR28-494),keep
+1,SB0232,2023_2024,2023-RS,Requires State Plan for Medicaid to Include Postpartum Care Services,Requires the State Plan for Medicaid to include coverage for postpartum care services. (BDR38-45),keep
+1,SB0239,2023_2024,2023-RS,Authorizes Medical Aid-In-Dying for Terminally Ill Individuals,"Establishes provisions governing the prescribing, dispensing and administering of medication designed to end the life of a patient. (BDR40-677)",keep
+1,SB0243,2023_2024,2023-RS,Increases Criminal Penalties for Catalytic Converter Theft,Revises provisions relating to catalytic converters. (BDR15-37),keep
+1,SB0246,2023_2024,2023-RS,Establishes the North Las Vegas Work Development Program,Revises provisions relating to governmental administration. (BDRS-1028),keep
+1,SB0263,2023_2024,2023-RS,Authorizes Affordable Housing Grants to Women Veterans and Survivors of Domestic Abuse,Makes an appropriation to the Children's Cabinet for the purchase and renovation of a parcel of land to carry out the Oddie Project. (BDRS-921),keep
+1,SB0269,2023_2024,2023-RS,Amends Prohibitions on the Legal Ways Dogs May be Restrained,Revises provisions related to animal cruelty. (BDR50-246),keep
+1,SB0272,2023_2024,2023-RS,Requires a State Agency to Post Certain Information on its Internet Website Relating to Certain Purchasing Contrac ...,Revises provisions relating to governmental administration. (BDR27-876),keep
+1,SB0274,2023_2024,2023-RS,Establishes New Regulations Governing the Administration of Industrial Insurance Claims,Revises provisions relating to industrial insurance. (BDR53-946),keep
+1,SB0277,2023_2024,2023-RS,Expands the Amount of Legal Cannabis Individual's Can Possess,Revises provisions relating to cannabis. (BDR56-193),keep
+1,SB0294,2023_2024,2023-RS,Requires Licensed Gun Dealers Provide a Locking Device with Firearms,Revises provisions relating to the safe storage of firearms. (BDR15-47),keep
+1,SB0305,2023_2024,2023-RS,Establishes a State Run Retirement Program,Provides for the establishment of a retirement savings program for private sector employees. (BDR31-933),keep
+1,SB0319,2023_2024,2023-RS,Defines the meaning of Employee for the Purpose of Collective Bargaining for State Employees,Revises provisions relating to public employees. (BDR23-953),keep
+1,SB0323,2023_2024,2023-RS,Repeals Discriminator Language in Housing Association Convenants and Other Purposes,Revises provisions relating to peace officers. (BDR23-925),keep
+1,SB0341,2023_2024,2023-RS,Appropriates Over $20 Million in Additional State Funding for Local Nonprofit Organizations,Revises provisions relating to governmental financial administration. (BDRS-502),keep
+1,SB0355,2023_2024,2023-RS,Amends Commerce Laws Regarding Remote Work,Revises provisions relating to commerce. (BDR55-59),keep
+1,SB0368,2023_2024,2023-RS,Rescinds Previous Racial Language Governing Housing Covenants,Revises provisions relating to real property. (BDR10-989),keep
+1,SB0370,2023_2024,2023-RS,Prohibits the Collection and Sharing of Consumer Health Data Without Consumer's Consent,Revises provisions relating to the protection of consumer information. (BDR52-42),keep
+1,SB0371,2023_2024,2023-RS,Authorizes Counties and Cities to Enact Affordable Housing Ordinances,Revises provisions governing local governments. (BDR20-681),keep
+1,SB0391,2023_2024,2023-RS,"Prohibits Local Government Use of ""Sundown Sirens""",Revises provisions relating to governmental entities. (BDR20-936),keep
+1,SB0400,2023_2024,2023-RS,Amends Provisions Relating to Homelessness and Public Welfare,Revises provisions relating to homelessness. (BDR38-1027),keep
+1,SB0406,2023_2024,2023-RS,Prohibits Voter or Poll Worker Intimidation,Revises provisions relating to elections. (BDR24-894),keep
+1,SB0412,2023_2024,2023-RS,Classifies Use of a Firearm During a Drug Offense as a Felony,Revises provisions relating to criminal justice. (BDR15-1091),keep
+1,SB0419,2023_2024,2023-RS,Establishes State-Funded Insurance for Postpartum Care,Makes revisions relating to public health. (BDR40-748),keep
+1,SB0443,2023_2024,2023-RS,Amends Voter Registration Rules,Revises provisions relating to voter registration. (BDR24-842),keep
+1,SB0510,2023_2024,2023-RS,Authorizes Certain Collective Bargaining Agreements,Makes appropriations for the implementation of certain collective bargaining agreements. (BDRS-1227),keep
+1,SJR70007,2023_2024,NA,Amends State Constitution to Protect Reproductive Health Freedom,NA,keep

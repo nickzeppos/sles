@@ -1,0 +1,5 @@
+state,years,start_modulus,start_remainder,example
+default,2,2,1,2025_2026
+AL,4,4,3,2023_2026
+NJ,2,2,0,2026_2027
+VA,2,2,0,2026_2027

@@ -2,8 +2,26 @@
 # SLES Estimation Module
 #
 # Can be run directly via:
-#   Rscript estimate/estimate.R [state] [term]
-# Or sourced and called via CLI
+#   Rscript estimate/estimate.R <state> <term> [--verbose]
+# Or sourced to call estimate_les(state, term, verbose).
+
+run_directly <- sys.nframe() == 0
+if (run_directly) {
+  args <- commandArgs(trailingOnly = TRUE)
+  if (!length(args) %in% c(2, 3) ||
+      (length(args) == 3 && args[3] != "--verbose")) {
+    stop(paste("Usage: Rscript estimate/estimate.R",
+               "<state> <term> [--verbose]"), call. = FALSE)
+  }
+  state <- toupper(args[1])
+  term <- args[2]
+  verbose <- "--verbose" %in% args
+
+  # Resolve paths from this module, even when launched outside the repo.
+  script_arg <- grep("^--file=", commandArgs(), value = TRUE)[1]
+  script_path <- normalizePath(sub("^--file=", "", script_arg))
+  Sys.setenv(SLES_REPO_ROOT = dirname(dirname(script_path)))
+}
 
 # Get repo root for sourcing
 repo_root <- Sys.getenv("SLES_REPO_ROOT")
@@ -11,6 +29,10 @@ if (repo_root == "") {
   repo_root <- normalizePath(getwd())
   Sys.setenv(SLES_REPO_ROOT = repo_root)
 }
+
+# Validate direct arguments before loading packages or touching data.
+terms <- source(file.path(repo_root, "utils/term_to_inputs.R"), local = TRUE)$value
+if (run_directly) invisible(terms$term_years(state, term))
 
 # Source pipeline stages
 load_data_module <- source(
@@ -48,6 +70,8 @@ write_outputs_module <- source(
 
 # Main estimation function
 estimate_les <- function(state, term, verbose = FALSE) {
+  state <- toupper(state)
+  invisible(terms$term_years(state, term))
   cat(sprintf("estimate_les called with state=%s, term=%s\n", state, term))
 
   # Stage 1: Load data (pass verbose immediately)
@@ -86,12 +110,8 @@ estimate_les <- function(state, term, verbose = FALSE) {
 }
 
 # If run directly (not sourced), execute estimation with command-line args
-if (sys.nframe() == 0) {
-  args <- commandArgs(trailingOnly = TRUE)
-  state <- if (length(args) >= 1) args[1] else "WI"
-  term <- if (length(args) >= 2) args[2] else "2023_2024"
-
-  estimate_les(state, term)
+if (run_directly) {
+  estimate_les(state, term, verbose = verbose)
 }
 
 # Export functions for sourcing

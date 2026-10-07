@@ -1,0 +1,161 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "id": "2500",
+      "year": 2025,
+      "session": "2025-RS",
+      "label": "2025 Regular Session"
+    },
+    {
+      "id": "2600",
+      "year": 2026,
+      "session": "2026-RS",
+      "label": "2026 Regular Session"
+    }
+  ],
+  "counts": {
+    "2500_H": 2017,
+    "2500_S": 1256,
+    "2600_H": 3706,
+    "2600_S": 2323
+  },
+  "source_invalid_placeholders": [
+    {
+      "session": "2600",
+      "number": "SB3330",
+      "intro": "2026-04-30",
+      "house": "",
+      "senate": "",
+      "title": "",
+      "index_link_bill": "SB2185",
+      "url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=SB3330&Session=2600"
+    },
+    {
+      "session": "2600",
+      "number": "SB16563",
+      "intro": "2025-02-03",
+      "house": "",
+      "senate": "",
+      "title": "",
+      "index_link_bill": "SB9999",
+      "url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=SB16563&Session=2600"
+    },
+    {
+      "session": "2600",
+      "number": "SB99997",
+      "intro": "2026-02-17",
+      "house": "",
+      "senate": "",
+      "title": "Test",
+      "index_link_bill": "SB99997",
+      "url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=SB99997&Session=2600"
+    }
+  ],
+  "details": 9299,
+  "histories": 88558,
+  "source_empty_histories": [
+    {
+      "bill": "HB9003",
+      "session": "2500"
+    },
+    {
+      "bill": "HB9004",
+      "session": "2500"
+    },
+    {
+      "bill": "HB9005",
+      "session": "2500"
+    },
+    {
+      "bill": "SB1589",
+      "session": "2500"
+    },
+    {
+      "bill": "SCR20",
+      "session": "2500"
+    },
+    {
+      "bill": "SJR23",
+      "session": "2500"
+    },
+    {
+      "bill": "SJR44",
+      "session": "2500"
+    },
+    {
+      "bill": "SJR50",
+      "session": "2500"
+    },
+    {
+      "bill": "SR34",
+      "session": "2500"
+    },
+    {
+      "bill": "SB9989",
+      "session": "2600"
+    },
+    {
+      "bill": "SJR1216",
+      "session": "2600"
+    }
+  ],
+  "index_link_discrepancies": [
+    {
+      "bill": "HB9003",
+      "session": "2500",
+      "linked_bill": "HB9002"
+    },
+    {
+      "bill": "HB9004",
+      "session": "2500",
+      "linked_bill": "HB9002"
+    },
+    {
+      "bill": "HB9005",
+      "session": "2500",
+      "linked_bill": "HB9002"
+    },
+    {
+      "bill": "SB1589",
+      "session": "2500",
+      "linked_bill": "SB1186"
+    },
+    {
+      "bill": "SCR20",
+      "session": "2500",
+      "linked_bill": "SCR12"
+    },
+    {
+      "bill": "SJR23",
+      "session": "2500",
+      "linked_bill": "SJR22"
+    },
+    {
+      "bill": "SJR44",
+      "session": "2500",
+      "linked_bill": "SJR22"
+    },
+    {
+      "bill": "SJR50",
+      "session": "2500",
+      "linked_bill": "SJR22"
+    },
+    {
+      "bill": "SR34",
+      "session": "2500",
+      "linked_bill": "SR22"
+    },
+    {
+      "bill": "SB9989",
+      "session": "2600",
+      "linked_bill": "SB2185"
+    },
+    {
+      "bill": "SJR1216",
+      "session": "2600",
+      "linked_bill": "SJR55"
+    }
+  ],
+  "completed_at": "2026-10-01T19:44:38.694070+00:00"
+}

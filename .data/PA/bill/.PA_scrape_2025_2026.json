@@ -1,0 +1,19 @@
+{
+  "term": "2025_2026",
+  "scope": "HB/SB bills, as in Connor source",
+  "sessions": [
+    {
+      "id": "2025_0",
+      "label": "2025-2026 Regular Session",
+      "year": 2025,
+      "special": "0"
+    }
+  ],
+  "counts": {
+    "2025_0_H": 2694,
+    "2025_0_S": 1401
+  },
+  "details": 4095,
+  "histories": 15119,
+  "completed_at": "2026-09-30T20:11:21.727893+00:00"
+}

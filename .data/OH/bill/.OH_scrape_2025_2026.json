@@ -1,0 +1,50 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "id": "136",
+      "assembly": "136",
+      "label": "136th (2025-2026)",
+      "special": false
+    }
+  ],
+  "counts": {
+    "136_House": 1618,
+    "136_Senate": 953
+  },
+  "details": 2571,
+  "histories": 6099,
+  "source_empty_histories": [
+    {
+      "session": "136",
+      "bill_number": "HR0365",
+      "url": "https://www.legislature.ohio.gov/legislation/136/hr365/status"
+    },
+    {
+      "session": "136",
+      "bill_number": "HR0370",
+      "url": "https://www.legislature.ohio.gov/legislation/136/hr370/status"
+    },
+    {
+      "session": "136",
+      "bill_number": "SR0175",
+      "url": "https://www.legislature.ohio.gov/legislation/136/sr175/status"
+    },
+    {
+      "session": "136",
+      "bill_number": "SR0176",
+      "url": "https://www.legislature.ohio.gov/legislation/136/sr176/status"
+    },
+    {
+      "session": "136",
+      "bill_number": "SR0177",
+      "url": "https://www.legislature.ohio.gov/legislation/136/sr177/status"
+    },
+    {
+      "session": "136",
+      "bill_number": "SR0279",
+      "url": "https://www.legislature.ohio.gov/legislation/136/sr279/status"
+    }
+  ],
+  "completed_at": "2026-09-30T20:42:03.564966+00:00"
+}

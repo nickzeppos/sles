@@ -1,0 +1,271 @@
+session,code,title,first_name,last_name,chamber,party,district
+2025R1,Rep Andersen,Representative,Tom,Andersen,H,Democrat,19
+2025R1,Rep Boice,Representative,Court,Boice,H,Republican,1
+2025R1,Rep Boshart Davis,Representative,Shelly,Boshart Davis,H,Republican,15
+2025R1,Rep Bowman,House Majority Leader,Ben,Bowman,H,Democrat,25
+2025R1,Rep Breese-Iverson,Representative,Vikki,Breese-Iverson,H,Republican,59
+2025R1,Rep Cate,Representative,Jami,Cate,H,Republican,11
+2025R1,Rep Chaichi,Representative,Farrah,Chaichi,H,Democrat,35
+2025R1,Rep Chotzen,Representative,Willy,Chotzen,H,Democrat,46
+2025R1,Rep Diehl,Representative,Ed,Diehl,H,Republican,17
+2025R1,Rep Dobson,Representative,April,Dobson,H,Democrat,39
+2025R1,Rep Drazan,House Republican Leader,Christine,Drazan,H,Republican,51
+2025R1,Rep Edwards,Representative,Darcey,Edwards,H,Republican,31
+2025R1,Rep Elmer,Representative,Lucetta,Elmer,H,Republican,24
+2025R1,Rep Evans,Representative,Paul,Evans,H,Democrat,20
+2025R1,Rep Fragala,Representative,Lisa,Fragala,H,Democrat,8
+2025R1,Rep Gamba,Representative,Mark,Gamba,H,Democrat,41
+2025R1,Rep Gomberg,Representative,David,Gomberg,H,Democrat,10
+2025R1,Rep Grayber,Representative,Dacia,Grayber,H,Democrat,28
+2025R1,Rep Harbick,Representative,Darin,Harbick,H,Republican,12
+2025R1,Rep Hartman,Representative,Annessa,Hartman,H,Democrat,40
+2025R1,Rep Helfrich,Representative,Jeffrey,Helfrich,H,Republican,52
+2025R1,Rep Helm,Representative,Ken,Helm,H,Democrat,27
+2025R1,Rep Hudson,Representative,Zach,Hudson,H,Democrat,49
+2025R1,Rep Isadore,Representative,Shannon,Isadore,H,Democrat,33
+2025R1,Rep Javadi,Representative,Cyrus,Javadi,H,Republican,32
+2025R1,Rep Kropf,Representative,Jason,Kropf,H,Democrat,54
+2025R1,Rep Levy B,Representative,Bobby,Levy,H,Republican,58
+2025R1,Rep Levy E,Representative,Emerson,Levy,H,Democrat,53
+2025R1,Rep Lewis,Representative,Rick,Lewis,H,Republican,18
+2025R1,Rep Lively,Representative,John,Lively,H,Democrat,7
+2025R1,Rep Mannix,Representative,Kevin,Mannix,H,Republican,21
+2025R1,Rep Marsh,Representative,Pam,Marsh,H,Democrat,5
+2025R1,Rep McDonald,Representative,Sarah,McDonald ,H,Democrat,16
+2025R1,Rep McIntire,Representative,Emily,McIntire,H,Republican,56
+2025R1,Rep McLain,Representative,Susan,McLain,H,Democrat,29
+2025R1,Rep Munoz,Representative,Lesly,Muñoz,H,Democrat,22
+2025R1,Rep Nathanson,Representative,Nancy,Nathanson,H,Democrat,13
+2025R1,Rep Nelson,Representative,Travis,Nelson,H,Democrat,44
+2025R1,Rep Nguyen D,Representative,Daniel,Nguyen,H,Democrat,38
+2025R1,Rep Nguyen H,Representative,Hoa,Nguyen,H,Democrat,48
+2025R1,Rep Nosse,Representative,Rob,Nosse,H,Democrat,42
+2025R1,Rep Osborne,Representative,Virgle,Osborne,H,Republican,2
+2025R1,Rep Owens,Representative,Mark,Owens,H,Republican,60
+2025R1,Rep Pham H,Representative,Hai,Pham,H,Democrat,36
+2025R1,Rep Reschke,Representative,E. Werner,Reschke,H,Republican,55
+2025R1,Rep Rieke Smith,Representative,Sue,Rieke Smith,H,Democrat,26
+2025R1,Rep Ruiz,Representative,Ricki,Ruiz,H,Democrat,50
+2025R1,Rep Sanchez,Representative,Tawna,Sanchez,H,Democrat,43
+2025R1,Rep Scharf,Representative,Anna,Scharf,H,Republican,23
+2025R1,Rep Skarlatos,Representative,Alek,Skarlatos,H,Republican,4
+2025R1,Rep Smith G,Representative,Gregory,Smith,H,Republican,57
+2025R1,Rep Sosa,Representative,Nathan,Sosa,H,Democrat,30
+2025R1,Rep Speaker Fahey,Speaker,Julie,Fahey,H,Democrat,14
+2025R1,Rep Tran,Representative,Thuy,Tran,H,Democrat,45
+2025R1,Rep Valderrama,Representative,Andrea,Valderrama,H,Democrat,47
+2025R1,Rep Wallan,Representative,Kim,Wallan,H,Republican,6
+2025R1,Rep Walters,Representative,Jules,Walters,H,Democrat,37
+2025R1,Rep Watanabe,Representative,Mari,Watanabe,H,Democrat,34
+2025R1,Rep Wright,Representative,Boomer,Wright,H,Republican,9
+2025R1,Rep Yunker,Representative,Dwayne,Yunker,H,Republican,3
+2025R1,Sen Anderson,Senator,Dick,Anderson,S,Republican,5
+2025R1,Sen Bonham,Senator,Daniel,Bonham,S,Republican,26
+2025R1,Sen Broadman,Senator,Anthony,Broadman,S,Democrat,27
+2025R1,Sen Campos,Senator,Wlnsvey,Campos,S,Democrat,18
+2025R1,Sen Frederick,Senator,Lew,Frederick,S,Democrat,22
+2025R1,Sen Gelser Blouin,Senator,Sara,Gelser Blouin,S,Democrat,8
+2025R1,Sen Girod,Senator,Fred,Girod,S,Republican,9
+2025R1,Sen Golden,Senator,Jeff,Golden,S,Democrat,3
+2025R1,Sen Gorsek,Senator,Chris,Gorsek,S,Democrat,25
+2025R1,Sen Hayden,Senator,Cedric,Hayden,S,Republican,6
+2025R1,Sen Jama,Senator,Kayse,Jama,S,Democrat,24
+2025R1,Sen Lieber,Senator,Kate,Lieber,S,Democrat,14
+2025R1,Sen Linthicum,Senator,Diane,Linthicum,S,Republican,28
+2025R1,Sen Manning Jr,Senator,James,Manning Jr.,S,Democrat,7
+2025R1,Sen McLane,Senator,Mike,McLane,S,Republican,30
+2025R1,Sen Meek,Senator,Mark,Meek,S,Democrat,20
+2025R1,Sen Nash,Senator,Todd,Nash,S,Republican,29
+2025R1,Sen Neron Misslin,Senator,Courtney,Neron Misslin,S,Democrat,13
+2025R1,Sen Patterson,Senator,Deb,Patterson,S,Democrat,10
+2025R1,Sen Pham,Senator,Khanh,Pham,S,Democrat,23
+2025R1,Sen President Wagner,President,Rob,Wagner,S,Democrat,19
+2025R1,Sen Prozanski,Senator,Floyd,Prozanski,S,Democrat,4
+2025R1,Sen Reynolds,Senator,Lisa,Reynolds,S,Democrat,17
+2025R1,Sen Robinson,Senator,Noah,Robinson,S,Republican,2
+2025R1,Sen Smith DB,Senator,David Brock,Smith,S,Republican,1
+2025R1,Sen Sollman,Senator,Janeen,Sollman,S,Democrat,15
+2025R1,Sen Starr,Senator,Bruce,Starr,S,Republican,12
+2025R1,Sen Taylor,Senator,Kathleen,Taylor,S,Democrat,21
+2025R1,Sen Thatcher,Senator,Kim,Thatcher,S,Republican,11
+2025R1,Sen Weber,Senator,Suzanne,Weber,S,Republican,16
+2025S1,Rep Andersen,Representative,Tom,Andersen,H,Democrat,19
+2025S1,Rep Boice,Representative,Court,Boice,H,Republican,1
+2025S1,Rep Boshart Davis,Representative,Shelly,Boshart Davis,H,Republican,15
+2025S1,Rep Bowman,House Majority Leader,Ben,Bowman,H,Democrat,25
+2025S1,Rep Breese-Iverson,Representative,Vikki,Breese-Iverson,H,Republican,59
+2025S1,Rep Cate,Representative,Jami,Cate,H,Republican,11
+2025S1,Rep Chaichi,Representative,Farrah,Chaichi,H,Democrat,35
+2025S1,Rep Chotzen,Representative,Willy,Chotzen,H,Democrat,46
+2025S1,Rep Diehl,Representative,Ed,Diehl,H,Republican,17
+2025S1,Rep Dobson,Representative,April,Dobson,H,Democrat,39
+2025S1,Rep Drazan,House Republican Leader,Christine,Drazan,H,Republican,51
+2025S1,Rep Edwards,Representative,Darcey,Edwards,H,Republican,31
+2025S1,Rep Elmer,Representative,Lucetta,Elmer,H,Republican,24
+2025S1,Rep Evans,Representative,Paul,Evans,H,Democrat,20
+2025S1,Rep Fragala,Representative,Lisa,Fragala,H,Democrat,8
+2025S1,Rep Gamba,Representative,Mark,Gamba,H,Democrat,41
+2025S1,Rep Gomberg,Representative,David,Gomberg,H,Democrat,10
+2025S1,Rep Grayber,Representative,Dacia,Grayber,H,Democrat,28
+2025S1,Rep Harbick,Representative,Darin,Harbick,H,Republican,12
+2025S1,Rep Hartman,Representative,Annessa,Hartman,H,Democrat,40
+2025S1,Rep Helfrich,Representative,Jeffrey,Helfrich,H,Republican,52
+2025S1,Rep Helm,Representative,Ken,Helm,H,Democrat,27
+2025S1,Rep Hudson,Representative,Zach,Hudson,H,Democrat,49
+2025S1,Rep Isadore,Representative,Shannon,Isadore,H,Democrat,33
+2025S1,Rep Javadi,Representative,Cyrus,Javadi,H,Democrat,32
+2025S1,Rep Kropf,Representative,Jason,Kropf,H,Democrat,54
+2025S1,Rep Levy B,Representative,Bobby,Levy,H,Republican,58
+2025S1,Rep Levy E,Representative,Emerson,Levy,H,Democrat,53
+2025S1,Rep Lewis,Representative,Rick,Lewis,H,Republican,18
+2025S1,Rep Lively,Representative,John,Lively,H,Democrat,7
+2025S1,Rep Mannix,Representative,Kevin,Mannix,H,Republican,21
+2025S1,Rep Marsh,Representative,Pam,Marsh,H,Democrat,5
+2025S1,Rep McDonald,Representative,Sarah,McDonald ,H,Democrat,16
+2025S1,Rep McIntire,Representative,Emily,McIntire,H,Republican,56
+2025S1,Rep McLain,Representative,Susan,McLain,H,Democrat,29
+2025S1,Rep Munoz,Representative,Lesly,Muñoz,H,Democrat,22
+2025S1,Rep Nathanson,Representative,Nancy,Nathanson,H,Democrat,13
+2025S1,Rep Nelson,Representative,Travis,Nelson,H,Democrat,44
+2025S1,Rep Nguyen D,Representative,Daniel,Nguyen,H,Democrat,38
+2025S1,Rep Nguyen H,Representative,Hoa,Nguyen,H,Democrat,48
+2025S1,Rep Nosse,Representative,Rob,Nosse,H,Democrat,42
+2025S1,Rep Osborne,Representative,Virgle,Osborne,H,Republican,2
+2025S1,Rep Owens,Representative,Mark,Owens,H,Republican,60
+2025S1,Rep Pham H,Representative,Hai,Pham,H,Democrat,36
+2025S1,Rep Reschke,Representative,E. Werner,Reschke,H,Republican,55
+2025S1,Rep Rieke Smith,Representative,Sue,Rieke Smith,H,Democrat,26
+2025S1,Rep Ruiz,Representative,Ricki,Ruiz,H,Democrat,50
+2025S1,Rep Sanchez,Representative,Tawna,Sanchez,H,Democrat,43
+2025S1,Rep Scharf,Representative,Anna,Scharf,H,Republican,23
+2025S1,Rep Skarlatos,Representative,Alek,Skarlatos,H,Republican,4
+2025S1,Rep Smith G,Representative,Gregory,Smith,H,Republican,57
+2025S1,Rep Sosa,Representative,Nathan,Sosa,H,Democrat,30
+2025S1,Rep Speaker Fahey,Speaker,Julie,Fahey,H,Democrat,14
+2025S1,Rep Tran,Representative,Thuy,Tran,H,Democrat,45
+2025S1,Rep Valderrama,Representative,Andrea,Valderrama,H,Democrat,47
+2025S1,Rep Wallan,Representative,Kim,Wallan,H,Republican,6
+2025S1,Rep Walters,Representative,Jules,Walters,H,Democrat,37
+2025S1,Rep Watanabe,Representative,Mari,Watanabe,H,Democrat,34
+2025S1,Rep Wright,Representative,Boomer,Wright,H,Republican,9
+2025S1,Rep Yunker,Representative,Dwayne,Yunker,H,Republican,3
+2025S1,Sen Anderson,Senator,Dick,Anderson,S,Republican,5
+2025S1,Sen Bonham,Senator,Daniel,Bonham,S,Republican,26
+2025S1,Sen Broadman,Senator,Anthony,Broadman,S,Democrat,27
+2025S1,Sen Campos,Senator,Wlnsvey,Campos,S,Democrat,18
+2025S1,Sen Frederick,Senator,Lew,Frederick,S,Democrat,22
+2025S1,Sen Gelser Blouin,Senator,Sara,Gelser Blouin,S,Democrat,8
+2025S1,Sen Girod,Senator,Fred,Girod,S,Republican,9
+2025S1,Sen Golden,Senator,Jeff,Golden,S,Democrat,3
+2025S1,Sen Gorsek,Senator,Chris,Gorsek,S,Democrat,25
+2025S1,Sen Hayden,Senator,Cedric,Hayden,S,Republican,6
+2025S1,Sen Jama,Senator,Kayse,Jama,S,Democrat,24
+2025S1,Sen Lieber,Senator,Kate,Lieber,S,Democrat,14
+2025S1,Sen Linthicum,Senator,Diane,Linthicum,S,Republican,28
+2025S1,Sen Manning Jr,Senator,James,Manning Jr.,S,Democrat,7
+2025S1,Sen McLane,Senator,Mike,McLane,S,Republican,30
+2025S1,Sen Meek,Senator,Mark,Meek,S,Democrat,20
+2025S1,Sen Nash,Senator,Todd,Nash,S,Republican,29
+2025S1,Sen Neron Misslin,Senator,Courtney,Neron Misslin,S,Democrat,13
+2025S1,Sen Patterson,Senator,Deb,Patterson,S,Democrat,10
+2025S1,Sen Pham,Senator,Khanh,Pham,S,Democrat,23
+2025S1,Sen President Wagner,President,Rob,Wagner,S,Democrat,19
+2025S1,Sen Prozanski,Senator,Floyd,Prozanski,S,Democrat,4
+2025S1,Sen Reynolds,Senator,Lisa,Reynolds,S,Democrat,17
+2025S1,Sen Robinson,Senator,Noah,Robinson,S,Republican,2
+2025S1,Sen Smith DB,Senator,David Brock,Smith,S,Republican,1
+2025S1,Sen Sollman,Senator,Janeen,Sollman,S,Democrat,15
+2025S1,Sen Starr,Senator,Bruce,Starr,S,Republican,12
+2025S1,Sen Taylor,Senator,Kathleen,Taylor,S,Democrat,21
+2025S1,Sen Thatcher,Senator,Kim,Thatcher,S,Republican,11
+2025S1,Sen Weber,Senator,Suzanne,Weber,S,Republican,16
+2026R1,Rep Andersen,Representative,Tom,Andersen,H,Democrat,19
+2026R1,Rep Boice,Representative,Court,Boice,H,Republican,1
+2026R1,Rep Boshart Davis,Representative,Shelly,Boshart Davis,H,Republican,15
+2026R1,Rep Bowman,House Majority Leader,Ben,Bowman,H,Democrat,25
+2026R1,Rep Breese-Iverson,Representative,Vikki,Breese-Iverson,H,Republican,59
+2026R1,Rep Bunch,Representative,Matt,Bunch,H,Republican,51
+2026R1,Rep Cate,Representative,Jami,Cate,H,Republican,11
+2026R1,Rep Chaichi,Representative,Farrah,Chaichi,H,Democrat,35
+2026R1,Rep Chotzen,Representative,Willy,Chotzen,H,Democrat,46
+2026R1,Rep Diehl,Representative,Ed,Diehl,H,Republican,17
+2026R1,Rep Dobson,Representative,April,Dobson,H,Democrat,39
+2026R1,Rep Edwards,Representative,Darcey,Edwards,H,Republican,31
+2026R1,Rep Elmer,House Republican Leader,Lucetta,Elmer,H,Republican,24
+2026R1,Rep Evans,Representative,Paul,Evans,H,Democrat,20
+2026R1,Rep Fragala,Representative,Lisa,Fragala,H,Democrat,8
+2026R1,Rep Gamba,Representative,Mark,Gamba,H,Democrat,41
+2026R1,Rep Gomberg,Representative,David,Gomberg,H,Democrat,10
+2026R1,Rep Grayber,Representative,Dacia,Grayber,H,Democrat,28
+2026R1,Rep Harbick,Representative,Darin,Harbick,H,Republican,12
+2026R1,Rep Hartman,Representative,Annessa,Hartman,H,Democrat,40
+2026R1,Rep Helfrich,Representative,Jeffrey,Helfrich,H,Republican,52
+2026R1,Rep Helm,Representative,Ken,Helm,H,Democrat,27
+2026R1,Rep Hudson,Representative,Zach,Hudson,H,Democrat,49
+2026R1,Rep Isadore,Representative,Shannon,Isadore,H,Democrat,33
+2026R1,Rep Javadi,Representative,Cyrus,Javadi,H,Democrat,32
+2026R1,Rep Kropf,Representative,Jason,Kropf,H,Democrat,54
+2026R1,Rep Levy B,Representative,Bobby,Levy,H,Republican,58
+2026R1,Rep Levy E,Representative,Emerson,Levy,H,Democrat,53
+2026R1,Rep Lewis,Representative,Rick,Lewis,H,Republican,18
+2026R1,Rep Lively,Representative,John,Lively,H,Democrat,7
+2026R1,Rep Mannix,Representative,Kevin,Mannix,H,Republican,21
+2026R1,Rep Marsh,Representative,Pam,Marsh,H,Democrat,5
+2026R1,Rep McDonald,Representative,Sarah,McDonald ,H,Democrat,16
+2026R1,Rep McIntire,Representative,Emily,McIntire,H,Republican,56
+2026R1,Rep McLain,Representative,Susan,McLain,H,Democrat,29
+2026R1,Rep Munoz,Representative,Lesly,Muñoz,H,Democrat,22
+2026R1,Rep Nathanson,Representative,Nancy,Nathanson,H,Democrat,13
+2026R1,Rep Nelson,Representative,Travis,Nelson,H,Democrat,44
+2026R1,Rep Nguyen D,Representative,Daniel,Nguyen,H,Democrat,38
+2026R1,Rep Nosse,Representative,Rob,Nosse,H,Democrat,42
+2026R1,Rep Osborne,Representative,Virgle,Osborne,H,Republican,2
+2026R1,Rep Owens,Representative,Mark,Owens,H,Republican,60
+2026R1,Rep Pham H,Representative,Hai,Pham,H,Democrat,36
+2026R1,Rep Reschke,Representative,E. Werner,Reschke,H,Republican,55
+2026R1,Rep Rieke Smith,Representative,Sue,Rieke Smith,H,Democrat,26
+2026R1,Rep Ruiz,Representative,Ricki,Ruiz,H,Democrat,50
+2026R1,Rep Sanchez,Representative,Tawna,Sanchez,H,Democrat,43
+2026R1,Rep Scharf,Representative,Anna,Scharf,H,Republican,23
+2026R1,Rep Skarlatos,Representative,Alek,Skarlatos,H,Republican,4
+2026R1,Rep Smith G,Representative,Gregory,Smith,H,Republican,57
+2026R1,Rep Sosa,Representative,Nathan,Sosa,H,Democrat,30
+2026R1,Rep Speaker Fahey,Speaker,Julie,Fahey,H,Democrat,14
+2026R1,Rep Tran,Representative,Thuy,Tran,H,Democrat,45
+2026R1,Rep Valderrama,Representative,Andrea,Valderrama,H,Democrat,47
+2026R1,Rep Wallan,Representative,Kim,Wallan,H,Republican,6
+2026R1,Rep Walters,Representative,Jules,Walters,H,Democrat,37
+2026R1,Rep Watanabe,Representative,Mari,Watanabe,H,Democrat,34
+2026R1,Rep Wise,Representative,Lamar,Wise,H,Democrat,48
+2026R1,Rep Wright,Representative,Boomer,Wright,H,Republican,9
+2026R1,Rep Yunker,Representative,Dwayne,Yunker,H,Republican,3
+2026R1,Sen Anderson,Senator,Dick,Anderson,S,Republican,5
+2026R1,Sen Broadman,Senator,Anthony,Broadman,S,Democrat,27
+2026R1,Sen Campos,Senator,Wlnsvey,Campos,S,Democrat,18
+2026R1,Sen Drazan,Senator,Christine,Drazan,S,Republican,26
+2026R1,Sen Frederick,Senator,Lew,Frederick,S,Democrat,22
+2026R1,Sen Gelser Blouin,Senator,Sara,Gelser Blouin,S,Democrat,8
+2026R1,Sen Girod,Senator,Fred,Girod,S,Republican,9
+2026R1,Sen Golden,Senator,Jeff,Golden,S,Democrat,3
+2026R1,Sen Gorsek,Senator,Chris,Gorsek,S,Democrat,25
+2026R1,Sen Hayden,Senator,Cedric,Hayden,S,Republican,6
+2026R1,Sen Jama,Senator,Kayse,Jama,S,Democrat,24
+2026R1,Sen Lieber,Senator,Kate,Lieber,S,Democrat,14
+2026R1,Sen Linthicum,Senator,Diane,Linthicum,S,Republican,28
+2026R1,Sen Manning Jr,Senator,James,Manning Jr.,S,Democrat,7
+2026R1,Sen McLane,Senator,Mike,McLane,S,Republican,30
+2026R1,Sen Meek,Senator,Mark,Meek,S,Democrat,20
+2026R1,Sen Nash,Senator,Todd,Nash,S,Republican,29
+2026R1,Sen Neron Misslin,Senator,Courtney,Neron Misslin,S,Democrat,13
+2026R1,Sen Patterson,Senator,Deb,Patterson,S,Democrat,10
+2026R1,Sen Pham,Senator,Khanh,Pham,S,Democrat,23
+2026R1,Sen President Wagner,President,Rob,Wagner,S,Democrat,19
+2026R1,Sen Prozanski,Senator,Floyd,Prozanski,S,Democrat,4
+2026R1,Sen Reynolds,Senator,Lisa,Reynolds,S,Democrat,17
+2026R1,Sen Robinson,Senator,Noah,Robinson,S,Republican,2
+2026R1,Sen Smith DB,Senator,David Brock,Smith,S,Republican,1
+2026R1,Sen Sollman,Senator,Janeen,Sollman,S,Democrat,15
+2026R1,Sen Starr,Senator,Bruce,Starr,S,Republican,12
+2026R1,Sen Taylor,Senator,Kathleen,Taylor,S,Democrat,21
+2026R1,Sen Thatcher,Senator,Kim,Thatcher,S,Republican,11
+2026R1,Sen Weber,Senator,Suzanne,Weber,S,Republican,16

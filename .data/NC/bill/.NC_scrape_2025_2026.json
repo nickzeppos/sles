@@ -1,0 +1,20 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "id": "2025",
+      "label": "2025-2026 Session",
+      "session": "2025-RS"
+    }
+  ],
+  "counts": {
+    "2025": 2338
+  },
+  "details": 2338,
+  "histories": 19984,
+  "source_without_primary_sponsor": [
+    "HB0441",
+    "HB0442"
+  ],
+  "completed_at": "2026-09-30T19:25:04.044988+00:00"
+}

@@ -1,0 +1,43 @@
+bill_number,session,session_key,chamber,action_date,journal_page,action,order
+HB1,2023,231ES,H,2023-02-06,,Effective date: 2/6/2023.,20
+HB1,2023,231ES,H,2023-02-06,,Signed by the Governor. Becomes Act No. 1.,19
+HB1,2023,231ES,H,2023-02-03,,Sent to the Governor for executive approval.,18
+HB1,2023,231ES,S,2023-02-03,,Signed by the President of the Senate.,17
+HB1,2023,231ES,H,2023-02-03,2,Enrolled and signed by the Speaker of the House.,16
+HB1,2023,231ES,H,2023-02-03,1,"Read by title, roll called, yeas 90, nays 8, Senate amendments concurred in.",15
+HB1,2023,231ES,H,2023-02-03,1,Rules suspended.,14
+HB1,2023,231ES,H,2023-02-03,1,Received from the Senate with amendments.,13
+HB1,2023,231ES,S,2023-02-03,1,"Senate floor amendments read and adopted.  Read by title, passed by a vote of 37 yeas and 1 nays, and ordered returned to the House.  Motion to reconsider tabled.",12
+HB1,2023,231ES,S,2023-02-02,2,Reported without Legislative Bureau amendments.  Read by title and passed to third reading and final passage.,11
+HB1,2023,231ES,S,2023-02-02,1,Reported with amendments.  Rules suspended.  Committee amendments read and adopted.  Read by title and referred to the Legislative Bureau.,10
+HB1,2023,231ES,S,2023-02-01,1,Received in the Senate; read by title  Rules suspended.  Read second time by title and referred to the Committee on Finance.,9
+HB1,2023,231ES,H,2023-02-01,1,"Read third time by title, amended, roll called on final passage, yeas 90, nays 8. Finally passed, title adopted, ordered to the Senate.",8
+HB1,2023,231ES,H,2023-01-31,,Scheduled for floor debate on 02/01/2023.,7
+HB1,2023,231ES,H,2023-01-31,1,"Read by title, amended, ordered engrossed, passed to 3rd reading.",6
+HB1,2023,231ES,H,2023-01-31,1,Rules suspended.,5
+HB1,2023,231ES,H,2023-01-31,1,Reported with amendments (16-0).,4
+HB1,2023,231ES,H,2023-01-30,2,"Read by title, referred to the Committee on Appropriations.",3
+HB1,2023,231ES,H,2023-01-30,2,Rules suspended.,2
+HB1,2023,231ES,H,2023-01-30,2,Read by title.,1
+HB2,2023,231ES,H,2023-02-06,,Effective date: 2/6/2023.,18
+HB2,2023,231ES,H,2023-02-06,,Signed by the Governor. Becomes Act No. 2.,17
+HB2,2023,231ES,H,2023-02-03,,Sent to the Governor for executive approval.,16
+HB2,2023,231ES,S,2023-02-03,2,Signed by the President of the Senate.,15
+HB2,2023,231ES,H,2023-02-03,2,Enrolled and signed by the Speaker of the House.,14
+HB2,2023,231ES,H,2023-02-03,1,Received from the Senate without amendments.,13
+HB2,2023,231ES,S,2023-02-03,1,"Read by title, passed by a vote of 38 yeas and 0 nays, and ordered returned to the House.  Motion to reconsider tabled.",12
+HB2,2023,231ES,S,2023-02-02,2,Reported without Legislative Bureau amendments.  Read by title and passed to third reading and final passage.,11
+HB2,2023,231ES,S,2023-02-02,1,Reported favorably.  Rules suspended. Read by title and referred to the Legislative Bureau.,10
+HB2,2023,231ES,S,2023-02-01,1,Received in the Senate; read by title  Rules suspended.  Read second time by title and referred to the Committee on Finance.,9
+HB2,2023,231ES,H,2023-02-01,3,"Read third time by title, amended, roll called on final passage, yeas 99, nays 0. Finally passed, title adopted, ordered to the Senate.",8
+HB2,2023,231ES,H,2023-01-31,,Scheduled for floor debate on 02/01/2023.,7
+HB2,2023,231ES,H,2023-01-31,2,"Read by title, amended, ordered engrossed, passed to 3rd reading.",6
+HB2,2023,231ES,H,2023-01-31,1,Rules suspended.,5
+HB2,2023,231ES,H,2023-01-31,1,Reported with amendments (17-0).,4
+HB2,2023,231ES,H,2023-01-30,2,"Read by title, referred to the Committee on Appropriations.",3
+HB2,2023,231ES,H,2023-01-30,2,Rules suspended.,2
+HB2,2023,231ES,H,2023-01-30,2,Read by title.,1
+SR1,2023,231ES,S,2023-01-30,5,Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted.,1
+SR2,2023,231ES,S,2023-01-30,5,Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted.,1
+SR3,2023,231ES,S,2023-02-03,2,Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted.,1
+SR4,2023,231ES,S,2023-02-03,2,Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted.,1

@@ -1,0 +1,19 @@
+{
+  "term": "2025_2026",
+  "counts": {
+    "89R": 11503,
+    "891": 592,
+    "892": 692
+  },
+  "details": 12787,
+  "histories": 160115,
+  "source_xml_fallbacks": [
+    {
+      "number": "SB18",
+      "session": "891",
+      "xml_path": "/bills/891/billhistory/senate_bills/SB00001_SB00099/SB 18.xml",
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SB18"
+    }
+  ],
+  "completed_at": "2026-10-01T19:55:47.578609+00:00"
+}

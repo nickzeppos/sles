@@ -303,6 +303,46 @@ clean_bill_details <- function(bill_details, term, verbose = TRUE) {
     " jr$", "", bill_details$LES_sponsor
   )
 
+  # Smith DB (David Brock Smith): reattribute HB chief sponsorship.
+  # He won re-election to his House seat but was appointed to the Senate
+  # by a vacancy committee in January 2023 before the session began.
+  # He had pre-filed a large batch of House legislation in the interim,
+  # but was not in the chamber when those bills were introduced or
+  # advanced. His name appears as chief sponsor as a legislative
+  # courtesy only. Per correspondence with the OR legislature's reference
+  # librarian, this is a unique event with no parallel in OR history.
+  # For HBs where he is listed as sole chief sponsor:
+  #   - HB2199 (2023RS): no second rep listed — drop from universe.
+  #   - All others: give credit to the second-listed representative.
+  # His Senate sponsorship activity is unaffected.
+  smith_hb <- bill_details$LES_sponsor == "smith db" &
+    grepl("^HB", bill_details$bill_id)
+
+  hb2199 <- smith_hb & bill_details$bill_id == "HB2199"
+  if (any(hb2199)) {
+    if (verbose) {
+      cli_log("Dropping HB2199: Smith DB sole sponsor, no rep to credit")
+    }
+    bill_details <- bill_details[!hb2199, ]
+    smith_hb <- smith_hb[!hb2199]
+  }
+
+  if (any(smith_hb)) {
+    # primary_sponsors at this point: "smith db; rep <second>[; ...]"
+    # Extract and strip the second-listed sponsor's name
+    second_raw <- gsub(
+      "^[^;]+;\\s*", "", bill_details$primary_sponsors[smith_hb]
+    )
+    second_raw <- gsub("^rep |^sen ", "", second_raw)
+    second_raw <- trimws(gsub(";.*$", "", second_raw))
+    bill_details$LES_sponsor[smith_hb] <- second_raw
+    if (verbose) {
+      cli_log(glue(
+        "Reattributed {sum(smith_hb)} Smith DB HBs to second-listed rep"
+      ))
+    }
+  }
+
   # Drop committee-sponsored bills (old script lines 354-358)
   is_committee <- grepl("committee", bill_details$LES_sponsor)
   is_presession <- grepl(
@@ -679,7 +719,11 @@ reconcile_legiscan_with_sponsors <- function(sponsors, legiscan,
         "isadore-h" = NA_character_,
         # Reynolds is chamber switcher (HD->SD); all bills are HB
         # Block her Senate entry (0 Senate bills); keep House for matching
-        "reynolds l-s" = NA_character_
+        "reynolds l-s" = NA_character_,
+        # Smith DB (David Brock Smith) is a chamber switcher (HD->SD).
+        # His HB chief sponsorship is reattributed to second-listed reps,
+        # so his House legiscan entry has no matching House sponsor record.
+        "smith db-h" = NA_character_
       )
     )
   } else {

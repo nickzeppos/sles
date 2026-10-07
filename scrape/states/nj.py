@@ -17,7 +17,8 @@ Prerequisites:
      e.g. .data/NJ/bill/raw_2024_2025/MAINBILL.TXT
 """
 
-import datetime
+from scrape.reporting import scrape_run, write_manifest
+
 import re
 from pathlib import Path
 
@@ -397,7 +398,8 @@ def clean_hist_data(hdf: pd.DataFrame, session: str) -> pd.DataFrame:
     ]]
 
 
-def scrape(state: str, term: str, verbose: bool = False):
+@scrape_run
+def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = False):
     """Main entry point for NJ bill data processing.
 
     Reads pre-downloaded MAINBILL.TXT and BILLHIST.TXT from
@@ -414,7 +416,8 @@ def scrape(state: str, term: str, verbose: bool = False):
     # Check if already processed
     details_file = bill_dir / f"NJ_Bill_Details_{term}.csv"
     histories_file = bill_dir / f"NJ_Bill_Histories_{term}.csv"
-    if details_file.exists():
+    manifest = bill_dir / f".NJ_scrape_{term}.json"
+    if not force_fetch and all(path.exists() for path in (details_file, histories_file, manifest)):
         print(f"Skipping {term}: {details_file.name} already exists")
         return
 
@@ -442,8 +445,19 @@ def scrape(state: str, term: str, verbose: bool = False):
     bill_df = clean_bill_data(bill_df, term)
     hist_df = clean_hist_data(hist_df, term)
 
-    bill_df.to_csv(details_file, index=False)
-    hist_df.to_csv(histories_file, index=False)
+    staged = [(details_file.with_suffix('.csv.tmp'), details_file),
+              (histories_file.with_suffix('.csv.tmp'), histories_file)]
+    try:
+        bill_df.to_csv(staged[0][0], index=False)
+        hist_df.to_csv(staged[1][0], index=False)
+        manifest.unlink(missing_ok=True)
+        for pending, target in staged:
+            pending.replace(target)
+        write_manifest(manifest, {"term": term, "details": len(bill_df),
+                                  "histories": len(hist_df), "input_directory": raw_dir.name})
+    finally:
+        for pending, _ in staged:
+            pending.unlink(missing_ok=True)
 
     print(f"\n ~~~ {term} Session - Data Cleaned and Saved! ~~~~")
     print(f"  {details_file.name}: {len(bill_df)} bills")

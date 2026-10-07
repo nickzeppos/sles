@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "state": "VA",
+  "term": "2026_2027",
+  "run_id": "cda39d3e78e74da8bef82c7b6d738530",
+  "started_at": "2026-10-07T16:26:29.819373+00:00",
+  "status": "failed",
+  "force_fetch": false,
+  "completed_at": "2026-10-07T16:26:29.819789+00:00",
+  "error": {
+    "type": "ValueError",
+    "message": "VA 2026_2027: LIS session IDs are not verified for this term. Configure its regular and special sessions in scrape/states/va.py before running."
+  }
+}

@@ -1,0 +1,217 @@
+people_id,name,first_name,middle_name,last_name,suffix,nickname,party_id,party,role_id,role,district,followthemoney_eid,votesmart_id,opensecrets_id,ballotpedia,knowwho_pid,committee_id
+4527,"Pamela Beidle",Pamela,G,Beidle,,,1,D,2,Sen,SD-032,4885979,65432,,Pamela_Beidle,248793,0
+4531,"Frank Conaway",Frank,M,Conaway,Jr.,,1,D,1,Rep,HD-040,6482180,68583,,Frank_Conaway_Jr.,248803,0
+4534,"Kriselda Valderrama",Kriselda,,Valderrama,,Kris,1,D,1,Rep,HD-026,6482576,67683,,Kris_Valderrama,248787,0
+4553,"Jeff Waldstreicher",Jeff,D.,Waldstreicher,,,1,D,2,Sen,SD-018,7842604,68561,,Jeff_Waldstreicher,248767,0
+4554,"Veronica Turner",Veronica,,Turner,,,1,D,1,Rep,HD-026,13001678,36495,,Veronica_Turner,213277,0
+4561,"Joseline Pena-Melnyk",Joseline,A,Pena-Melnyk,,,1,D,1,Rep,HD-021,4940313,68578,,Joseline_Pena-Melnyk,248779,0
+4562,"Joanne Benson",Joanne,C.,Benson,,,1,D,2,Sen,SD-024,13001668,6106,,Joanne_Benson,195314,0
+4575,"Brian Feldman",Brian,J.,Feldman,,,1,D,2,Sen,SD-015,4909168,36097,,Brian_Feldman,213296,0
+4581,"Samuel Rosenberg",Samuel,I,Rosenberg,,Sandy,1,D,1,Rep,HD-041,6375117,6222,,Samuel_Rosenberg,195370,0
+4583,"Ben Barnes",Ben,,Barnes,,,1,D,1,Rep,HD-021,4899693,65935,,Ben_Barnes,248777,0
+4588,"Anne Kaiser",Anne,R,Kaiser,,,1,D,1,Rep,HD-014,1095318,36115,,Anne_Kaiser,213295,0
+4596,"J.B. Jennings",J.B.,,Jennings,,,2,R,2,Sen,SD-007,13001565,36305,,J.B._Jennings,213293,0
+4597,"Benjamin Kramer",Benjamin,Fred,Kramer,,Ben,1,D,2,Sen,SD-019,4744246,68569,,Benjamin_Kramer,248769,0
+4598,"Jon Cardin",Jon,S,Cardin,,,1,D,1,Rep,HD-011,13001592,36439,,Jon_Cardin,213298,0
+4606,"Nicholaus Kipke",Nicholaus,R,Kipke,,,2,R,1,Rep,HD-031,13001717,67311,,Nicholaus_Kipke,251048,0
+4607,"Adrienne Jones",Adrienne,A.,Jones,,,1,D,1,Rep,HD-010,3774918,2029,,Adrienne_Jones,195273,0
+4623,"Marvin Holmes",Marvin,E,Holmes,Jr.,,1,D,1,Rep,HD-023,5299572,19380,,Marvin_Holmes_Jr.,213290,0
+4624,"Anne Healey",Anne,,Healey,,,1,D,1,Rep,HD-022,6372916,6158,,Anne_Healey,195309,0
+4627,"Dana Stein",Dana,M,Stein,,,1,D,1,Rep,HD-011,5002539,36190,,Dana_Stein,210429,0
+4636,"Guy Guzzone",Guy,J,Guzzone,,,1,D,2,Sen,SD-013,4973689,66528,,Guy_Guzzone,248763,0
+4639,"Mary James",Mary,Dulany,James,,,1,D,2,Sen,SD-034,5179804,19227,,Mary_James,195345,0
+4641,"Susan McComas",Susan,K,McComas,,,2,R,1,Rep,HD-034,13001739,36351,,Susan_McComas,213286,0
+4682,"Bryan Simonaire",Bryan,Warner,Simonaire,,,2,R,2,Sen,SD-031,4955803,67628,,Bryan_Simonaire,251049,0
+4689,"Anthony Muse",Charles,Anthony,Muse,,Anthony,1,D,2,Sen,SD-026,6374300,6202,,C._Anthony_Muse,248829,0
+4718,"Nancy King",Nancy,,King,,,1,D,2,Sen,SD-039,5304165,36382,,Nancy_King,213267,0
+4731,"Jim Rosapepe",James,C.,Rosapepe,,Jim,1,D,2,Sen,SD-021,377045,6219,,Jim_Rosapepe,248825,0
+11447,"Luke Clippinger",Luke,,Clippinger,,,1,D,1,Rep,HD-046,6510240,126006,,Luke_Clippinger,160610,0
+11448,"Stephen Hershey",Stephen,S,Hershey,Jr.,,2,R,2,Sen,SD-036,4968365,127520,,Stephen_Hershey_Jr.,311804,0
+11449,"Jay Jacobs",Jay,A.,Jacobs,,,2,R,1,Rep,HD-036,4595740,66537,,Jay_Jacobs,295593,0
+11450,"Tiffany Alston",Tiffany,T.,Alston,,,1,D,1,Rep,HD-024,13001671,125780,,Tiffany_Alston,311797,0
+11453,"William Ferguson",William,C.,Ferguson,IV,Bill,1,D,2,Sen,SD-046,6510362,127356,,William_Ferguson_IV,311839,0
+11554,"Mark Fisher",Mark,N,Fisher,,,2,R,1,Rep,HD-027,13001690,125911,,Mark_Fisher_(Maryland),295573,0
+11766,"Kathy Szeliga",Kathy,J,Szeliga,,,2,R,1,Rep,HD-007,4599660,127407,,Kathy_Szeliga,237104,0
+11768,"Bonnie Cullison",Bonnie,L,Cullison,,,1,D,1,Rep,HD-019,4755003,125776,,Bonnie_Cullison,311795,0
+11917,"Mary Washington",Mary,,Washington,,,1,D,2,Sen,SD-043,5144322,68588,,Mary_Washington_(Maryland_State_Senate),295648,0
+11972,"Justin Ready",Justin,D,Ready,,,2,R,2,Sen,SD-005,4937043,125717,,Justin_Ready,236907,0
+11975,"Craig Zucker",Craig,,Zucker,,,1,D,2,Sen,SD-014,13001611,36311,,Craig_Zucker,215610,0
+12163,"C.T. Wilson",C.T.,,Wilson,,,1,D,1,Rep,HD-028,13001695,125914,,C.T._Wilson,295577,0
+15140,"Alonzo Washington",Alonzo,T.,Washington,,,1,D,2,Sen,SD-022,20611071,144463,,Alonzo_Washington,446568,0
+15412,Judiciary,,,,,,0,,1,Rep,,0,0,,,0,1927
+15413,"Judicial Proceedings",,,,,,0,,2,Sen,,0,0,,,0,1934
+15415,Finance,,,,,,0,,2,Sen,,0,0,,,0,1932
+15416,"Budget and Taxation",,,,,,0,,2,Sen,,0,0,,,0,1929
+15419,Appropriations,,,,,,0,,1,Rep,,0,0,,,0,1922
+15420,"Economic Matters",,,,,,0,,1,Rep,,0,0,,,0,1923
+15490,"Ways and Means",,,,,,0,,1,Rep,,0,0,,,0,1928
+15733,"Howard County Senators",,,,,,0,,2,Sen,,0,0,,,0,2925
+15734,"Carroll County Senators",,,,,,0,,2,Sen,,0,0,,,0,2927
+15735,"Anne Arundel County Senators",,,,,,0,,2,Sen,,0,0,,,0,2930
+15738,"Cecil County Senators",,,,,,0,,2,Sen,,0,0,,,0,2929
+15983,"Prince George's County Senators",,,,,,0,,2,Sen,,0,0,,,0,3039
+16083,"Steven Arentz",Steven,J.,Arentz,,Steve,2,R,1,Rep,HD-036,4600991,132033,,Steve_Arentz,476233,0
+16100,"David Fraser-hidalgo",David,Vincent,Fraser-hidalgo,,,1,D,1,Rep,HD-015,13001618,127423,,David_Fraser-Hidalgo,471434,0
+16229,"Baltimore County Senators",,,,,,0,,2,Sen,,0,0,,,0,3109
+17167,"Terri Hill",Terri,,Hill,,,1,D,1,Rep,HD-012,4642403,149113,,Terri_Hill,497740,0
+17170,"Clarence Lam",Clarence,K.,Lam,,,1,D,2,Sen,SD-012,19907268,149114,,Clarence_Lam,497741,0
+17171,"William Smith",William,C.,Smith,Jr.,Will,1,D,2,Sen,SD-020,20611067,149141,,Will_Smith_(Maryland),497781,0
+17231,"Jason Buckel",Jason,C.,Buckel,,,2,R,1,Rep,HD-001,21265670,150091,,Jason_Buckel,497677,0
+17233,"Mark Chang",Mark,S.,Chang,,,1,D,1,Rep,HD-032,6672172,66409,,Mark_Chang,497930,0
+17234,"Eric Ebersole",Eric,D.,Ebersole,,,1,D,1,Rep,HD-044,19907265,149111,,Eric_Ebersole,497738,0
+17238,"David Moon",David,H.,Moon,,,1,D,1,Rep,HD-020,16291356,150121,,David_Moon,497777,0
+17239,"Matt Morgan",Matt,,Morgan,,,2,R,1,Rep,HD-029,4594337,125916,,Matt_Morgan_(Maryland),295578,0
+17243,"Chris West",Chris,,West,,,2,R,2,Sen,SD-042,5796065,149196,,Chris_West_(Maryland),498036,0
+17246,"Johnny Salling",Johnny,Ray,Salling,,,2,R,2,Sen,SD-006,19903322,149058,,Johnny_Ray_Salling,476906,0
+17248,"Karen Lewis Young",Karen,,"Lewis Young",,,1,D,2,Sen,SD-003,21265676,122628,,Karen_Lewis_Young,497685,0
+17313,"Cheryl Kagan",Cheryl,C.,Kagan,,,1,D,2,Sen,SD-017,4083663,6171,,Cheryl_Kagan,195295,0
+17320,"Diana Fennell",Diana,M.,Fennell,,,1,D,1,Rep,HD-047,6406541,36299,,Diana_Fennell,295601,0
+17321,"Antonio Hayes",Antonio,,Hayes,,,1,D,2,Sen,SD-040,6482273,68584,,Antonio_Hayes,498017,0
+17322,"Cory McCray",Cory,V.,McCray,,,1,D,2,Sen,SD-045,4882192,150176,,Cory_McCray,498062,0
+17324,"Seth Howard",Seth,A.,Howard,,,2,R,1,Rep,HD-030,4893508,127513,,Seth_Howard,311801,0
+17375,"Benjamin Brooks",Benjamin,T.,Brooks,,,1,D,2,Sen,SD-010,14585065,149101,,Benjamin_Brooks_(Maryland),477004,0
+17376,"William Folden",William,,Folden,,Bill,2,R,2,Sen,SD-004,21266606,150095,,William_%22Bill%22_Folden,497688,0
+17377,"Shelly Hettleman",Shelly,,Hettleman,,,1,D,2,Sen,SD-011,21266831,149592,,Shelly_Hettleman,389258,0
+17380,"Charles Sydnor",Charles,E.,Sydnor,III,,1,D,2,Sen,SD-044,14588564,149199,,Charles_Sydnor_III,498056,0
+17398,"Christopher Adams",Christopher,Troy,Adams,,,2,R,1,Rep,HD-037,20318014,149180,,Christopher_Adams,497997,0
+17399,"Jeff Ghrist",Jeff,,Ghrist,,,2,R,1,Rep,HD-036,21267302,87391,,Jeff_Ghrist,284706,0
+17400,"Kevin Hornberger",Kevin,Bailey,Hornberger,,,2,R,1,Rep,HD-035,21267032,149174,,Kevin_Hornberger,497979,0
+17401,"Marc Korman",Marc,Alan,Korman,,,1,D,1,Rep,HD-016,4618760,149127,,Marc_Korman,477045,0
+17402,"Mike McKay",Mike,,McKay,,,2,R,2,Sen,SD-001,19903350,131924,,Mike_McKay,476978,0
+17403,"Ric Metzgar",Ric,,Metzgar,,,2,R,1,Rep,HD-006,13001560,67429,,Ric_Metzgar,295542,0
+17422,"Mary Carozza",Mary,Elizabeth,Carozza,,,2,R,2,Sen,SD-038,20571766,149187,,Mary_Beth_Carozza,238930,0
+17423,"Robin Grammer",Robin,L.,Grammer,Jr.,,2,R,1,Rep,HD-006,19907118,149094,,Robin_Grammer_Jr.,476993,0
+17424,"Bob Long",Robert,B.,Long,,Bob,2,R,1,Rep,HD-006,6693761,127402,,Bob_Long,312009,0
+17425,"Johnny Mautz",Johnny,,Mautz,,,2,R,2,Sen,SD-037,21269405,149182,,Johnny_Mautz,498000,0
+17426,"Teresa Reilly",Teresa,E.,Reilly,,,2,R,1,Rep,HD-035,4594855,149176,,Teresa_Reilly,497984,0
+17431,"Harford County Senators",,,,,,0,,2,Sen,,0,0,,,0,3267
+17434,"Edith Patterson",Edith,Jerry,Patterson,,,1,D,1,Rep,HD-028,4764305,87469,,Edith_Patterson,497886,0
+17435,"Sheree Sample-Hughes",Sheree,,Sample-Hughes,,,1,D,1,Rep,HD-037,21268821,87638,,Sheree_Sample-Hughes,497992,0
+17553,"Barrie Ciliberti",Barrie,S.,Ciliberti,,,2,R,1,Rep,HD-004,3204857,6119,,Barrie_S._Ciliberti,497691,0
+17555,"Washington County Senators",,,,,,0,,2,Sen,,0,0,,,0,3327
+17629,"Environment and Transportation",,,,,,0,,1,Rep,,0,0,,,0,3266
+17669,"William Wivell",William,J.,Wivell,,Bill,2,R,1,Rep,HD-002,6693698,36506,,William_Wivell,529666,0
+17670,"April Rose",April,,Rose,,,2,R,1,Rep,HD-005,4597708,156401,,April_Rose,529672,0
+17891,"Caroline County Senators",,,,,,0,,2,Sen,,0,0,,,0,3456
+17892,"Frederick County Senators",,,,,,0,,2,Sen,,0,0,,,0,3455
+17917,"Pamela Queen",Pamela,,Queen,,,1,D,1,Rep,HD-014,16711290,167994,,Pamela_Queen,573403,0
+18731,"Robbyn Lewis",Robbyn,,Lewis,,,1,D,1,Rep,HD-046,5143861,176076,,Robbyn_Lewis,609132,0
+19132,"Charles County Senators",,,,,,0,,2,Sen,,0,0,,,0,3588
+19199,"Jheanelle Wilkins",Jheanelle,K.,Wilkins,,,1,D,1,Rep,HD-020,43141555,176086,,Jheanelle_Wilkins,613167,0
+19271,"Jazz Lewis",Jazz,,Lewis,,,1,D,1,Rep,HD-024,44268902,176107,,Jazz_Lewis,615740,0
+19527,"Paul Corderman",Paul,,Corderman,,,2,R,2,Sen,SD-002,44268900,177618,,Paul_Corderman,648772,0
+20529,"Jack Bailey",Jack,,Bailey,,,2,R,2,Sen,SD-029,28198915,178461,,Jack_Bailey_(Maryland),657109,0
+20530,"Brian Chisholm",Brian,Alan,Chisholm,,,2,R,1,Rep,HD-031,21266898,150148,,Brian_Chisholm,497925,0
+20532,"Jason Gallion",Jason,C.,Gallion,,,2,R,2,Sen,SD-035,6694006,125985,,Jason_Gallion,295590,0
+20533,"Wayne Hartman",Wayne,A.,Hartman,,,2,R,1,Rep,HD-038,44433257,181649,,Wayne_Hartman,653601,0
+20534,"Jesse Pippy",Jesse,Tyler,Pippy,,,2,R,1,Rep,HD-004,21265644,149060,,Jesse_Pippy,490456,0
+20588,"Heather Bagnall",Heather,,Bagnall,,,1,D,1,Rep,HD-033,44433228,181628,,Heather_Bagnall,650616,0
+20589,"Sandy Bartlett",Juanita,Sandra,Bartlett,,Sandy,1,D,1,Rep,HD-032,20546897,181622,,J._Sandy_Bartlett,643960,0
+20591,"Mary Lehman",Mary,A.,Lehman,,,1,D,1,Rep,HD-021,4889016,132025,,Mary_Lehman,653578,0
+20592,"Mike Rogers",Mike,,Rogers,,,1,D,1,Rep,HD-032,44433224,181625,,Mike_Rogers_(Maryland),650634,0
+20789,"Gabriel Acevero",Gabriel,,Acevero,,,1,D,1,Rep,HD-039,44433261,181651,,Gabriel_Acevero,643981,0
+20790,"Harry Bhandari",Harry,,Bhandari,,,1,D,1,Rep,HD-008,21266821,150106,,Harry_Bhandari,497715,0
+20791,"Julian Ivey",Julian,,Ivey,,,1,D,1,Rep,HD-047,44433311,181698,,Julian_Ivey,655688,0
+20792,"Ken Kerr",Ken,,Kerr,,,1,D,1,Rep,HD-003,44433048,181467,,Ken_Kerr_(Maryland),650619,0
+20793,"Lesley Lopez",Lesley,J.,Lopez,,,1,D,1,Rep,HD-039,44433264,181654,,Lesley_Lopez,643988,0
+20794,"Julie Palakovich Carr",Julie,,"Palakovich Carr",,,1,D,1,Rep,HD-017,44433128,159380,,Julie_Palakovich_Carr,643814,0
+20795,"Emily Shetty",Emily,Khoury,Shetty,,,1,D,1,Rep,HD-018,17044894,149134,,Emily_Shetty,275961,0
+20796,"Jared Solomon",Jared,Scott,Solomon,,,1,D,1,Rep,HD-018,25111854,181549,,Jared_Solomon_(Maryland),647491,0
+20797,"Vaughn Stewart",Vaughn,,Stewart,,,1,D,1,Rep,HD-019,44270793,181554,,Vaughn_Stewart,643828,0
+20855,"Regina Boyce",Regina,T.,Boyce,,,1,D,1,Rep,HD-043,4882188,181675,,Regina_T._Boyce,650681,0
+20857,"Courtney Watson",Courtney,,Watson,,,1,D,1,Rep,HD-009,44433086,87557,,Courtney_Watson,643797,0
+20858,"Lorig Charkoudian",Lorig,,Charkoudian,,,1,D,1,Rep,HD-020,4733255,181558,,Lorig_Charkoudian,643833,0
+20859,"Debra Davis",Debra,,Davis,,,1,D,1,Rep,HD-028,44433196,131981,,Debra_Davis,647507,0
+20860,"Jessica Feldmark",Jessica,,Feldmark,,,1,D,1,Rep,HD-012,44433102,181509,,Jessica_Feldmark,657145,0
+20861,"Michele Guyton",Michele,,Guyton,,,1,D,1,Rep,HD-042,44433290,169220,,Michele_Guyton,653616,0
+20862,"Sara Love",Sara,Norris,Love,,,1,D,2,Sen,SD-016,1479722,181538,,Sara_Love,643813,0
+20864,"Melissa Wells",Melissa,,Wells,,,1,D,1,Rep,HD-040,44433277,181663,,Melissa_Wells,643994,0
+20865,"Malcolm Augustine",Malcolm,L.,Augustine,,,1,D,2,Sen,SD-047,4798307,149203,,Malcolm_Augustine,498073,0
+20867,"Charlotte Crutchfield",Charlotte,Agnes,Crutchfield,,,1,D,1,Rep,HD-019,21266855,149135,,Charlotte_Crutchfield,497770,0
+20868,"Jen Terrasa",Jennifer,,Terrasa,,Jen,1,D,1,Rep,HD-013,41562613,87563,,Jen_Terrasa,653509,0
+20930,"Dalya Attar",Dalya,,Attar,,,1,D,2,Sen,SD-041,44433279,181665,,Dalya_Attar,643996,0
+20931,"Nick Charles",Nick,,Charles,,,1,D,2,Sen,SD-025,20611074,149146,,Nick_Charles_(Maryland),497818,0
+20932,"Brian Crosby",Brian,M.,Crosby,,,1,D,1,Rep,HD-029,44433198,181601,,Brian_Crosby,643945,0
+20933,"Nino Mangione",Nino,,Mangione,,,2,R,1,Rep,HD-042,44433288,181672,,Nino_Mangione,644006,0
+20934,"Ron Watson",Ronald,Lorenzo,Watson,,Ron,1,D,2,Sen,SD-023,4926404,150124,,Ron_Watson,497795,0
+20955,"Arthur Ellis",Arthur,,Ellis,,,1,D,2,Sen,SD-028,21258159,178460,,Arthur_Ellis,657108,0
+20956,"Katie Hester",Katie,Fry,Hester,,,1,D,2,Sen,SD-009,44432998,178442,,Katie_Hester,643718,0
+20964,"Lauren Arikan",Lauren,,Arikan,,,2,R,1,Rep,HD-007,44433059,181476,,Lauren_Arikan,655631,0
+20965,"Steve Johnson",Steven,Craig,Johnson,,Steve,1,D,1,Rep,HD-034,4873202,150154,,Steve_Johnson_(Maryland),497960,0
+20966,"Lily Qi",Lily,,Qi,,,1,D,1,Rep,HD-015,14603818,181532,,Lily_Qi,650624,0
+21255,"Stephanie Smith",Stephanie,,Smith,,,1,D,1,Rep,HD-045,44433307,181690,,Stephanie_Smith_(Maryland),653638,0
+21279,"Andrea Harrison",Andrea,Fletcher,Harrison,,,1,D,1,Rep,HD-024,6406578,36102,,Andrea_Harrison,643924,0
+21294,"Wicomico County Senators",,,,,,0,,2,Sen,,0,0,,,0,4063
+21425,"Catherine Forbes",Catherine,M.,Forbes,,Cathi,1,D,1,Rep,HD-043,48691393,187196,,Cathy_Forbes,720326,0
+21426,"Nicole Williams",Nicole,A.,Williams,,,1,D,1,Rep,HD-022,6510025,125779,,Nicole_Williams,295643,0
+21427,"Shaneka Henson",Shaneka,,Henson,,,1,D,2,Sen,SD-030,48691391,186498,,Shaneka_Henson,706427,0
+21442,"Carl Jackson",Carl,W.,Jackson,Jr.,,1,D,2,Sen,SD-008,44433079,181491,,Carl_Jackson_(Maryland),643794,0
+21504,Pensions,,,Pensions,,,0,,3,Jnt,,0,0,,,0,4218
+21509,"Audit and Evaluation",,,,,,0,,3,Jnt,,0,0,,,0,4228
+21541,"Sheila Ruth",Sheila,,Ruth,,,1,D,1,Rep,HD-044,41543227,189619,,Sheila_Ruth,730992,0
+21591,"Michael Griffith",Michael,J.,Griffith,,Mike,2,R,1,Rep,HD-035,13012208,189621,,Mike_Griffith_(Maryland),728163,0
+21906,"Dana Jones",Dana,,Jones,,,1,D,1,Rep,HD-030,0,193212,,Dana_Jones,739724,0
+22755,"Marlon Amprey",Marlon,,Amprey,,,1,D,1,Rep,HD-040,52851893,195786,,Marlon_Amprey,762687,0
+23041,"Linda Foley",Linda,,Foley,,,1,D,1,Rep,HD-015,5590047,201409,,Linda_Foley,793614,0
+23056,"Karen Toles",Karen,R.,Toles,,,1,D,1,Rep,HD-025,54465851,132029,,Karen_Toles,795314,0
+23908,"Jeffrie Long",Jeffrie,E.,Long,Jr.,,1,D,1,Rep,HD-027,55465736,202261,,Jeffrie_Long_Jr.,808114,0
+23909,"Andre Johnson",Andre,V.,Johnson,Jr.,,1,D,1,Rep,HD-034,55465772,0,,Andre_Johnson,808282,0
+24386,"Kris Fair",Kris,,Fair,,,1,D,1,Rep,HD-003,45323713,0,,Kris_Fair,0,0
+24387,"Scott Phillips",Scott,,Phillips,,,1,D,1,Rep,HD-010,5157138,202221,,N._Scott_Phillips,0,0
+24388,"Karen Simpson",Karen,,Simpson,,,1,D,1,Rep,HD-003,55465635,0,,Karen_Simpson,0,0
+24389,"Joe Vogel",Joe,,Vogel,,,1,D,1,Rep,HD-017,52975986,0,,Joe_Vogel_(Maryland),0,0
+24485,"Caylin Young",Caylin,Allen,Young,,,1,D,1,Rep,HD-045,20544465,0,,Caylin_Young,655687,0
+24532,"Nick Allen",Nick,,Allen,,,1,D,1,Rep,HD-008,55465663,0,,Nick_Allen,807446,0
+24534,"Kevin Harris",Kevin,M.,Harris,,,1,D,2,Sen,SD-027,55465733,207011,,Kevin_Harris_(Maryland),808112,0
+24535,"Tom Hutchinson",Thomas,S.,Hutchinson,,Tom,2,R,1,Rep,HD-037,54845768,207026,,Tom_Hutchinson,808308,0
+24536,"Aaron Kaufman",Aaron,M.,Kaufman,,,1,D,1,Rep,HD-018,20568118,207010,,Aaron_Kaufman,807712,0
+24537,"Aletheia McCaskill",Aletheia,,McCaskill,,,1,D,1,Rep,HD-044,55465806,181455,,Aletheia_McCaskill,643780,0
+24538,"Cheryl Pasteur",Cheryl,E.,Pasteur,,,1,D,1,Rep,HD-011,55465679,202223,,Cheryl_Pasteur,807516,0
+24539,"Andrew Pruski",Andrew,C.,Pruski,,,1,D,1,Rep,HD-033,55465767,159409,,Andrew_Pruski,808183,0
+24540,"Deni Taveras",Deni,,Taveras,,,1,D,1,Rep,HD-047,32191799,159520,,Deni_Taveras,0,0
+24541,"Chris Tomlinson",Chris,,Tomlinson,,,2,R,1,Rep,HD-005,55465647,202205,,Chris_Tomlinson_(Maryland),807409,0
+24542,"Natalie Ziegler",Natalie,,Ziegler,,,1,D,1,Rep,HD-009,44433084,0,,Natalie_Ziegler,643796,0
+24543,"Dawn Gile",Dawn,D.,Gile,,,1,D,2,Sen,SD-033,55465608,0,,Dawn_Gile,0,0
+24709,"Terry Baker",Terry,L.,Baker,,,2,R,1,Rep,HD-001,55465623,87656,,Terry_Baker,550294,0
+24710,"Adrian Boafo",Adrian,,Boafo,,,1,D,1,Rep,HD-023,45328291,198705,,Adrian_Boafo,619784,0
+24711,"Christopher Bouchat",Christopher,Eric,Bouchat,,,2,R,1,Rep,HD-005,20542940,149097,,Christopher_Eric_Bouchat,497723,0
+24712,"Mark Edelson",Mark,,Edelson,,,1,D,1,Rep,HD-046,55465816,0,,Mark_Edelson,808417,0
+24713,"Elizabeth Embry",Elizabeth,M.,Embry,,,1,D,1,Rep,HD-043,4635453,178258,,Elizabeth_Embry,6569350,0
+24714,"Pam Guzzone",Pamela,Lanman,Guzzone,,Pam,1,D,1,Rep,HD-013,55465685,202226,,Pam_Lanman_Guzzone,807588,0
+24715,"Jim Hinebaugh",Jim,,Hinebaugh,Jr.,,2,R,1,Rep,HD-001,55465621,159494,,Jim_Hinebaugh_Jr.,759742,0
+24716,"April Fleming Miller",April,,"Fleming Miller",,,2,R,1,Rep,HD-004,55465639,0,,April_Fleming_Miller,807393,0
+24717,"Todd Morgan",Todd,B.,Morgan,,,2,R,1,Rep,HD-029,55465747,132055,,Todd_Morgan,808129,0
+24718,"Ryan Nawrocki",Ryan,,Nawrocki,,,2,R,1,Rep,HD-007,55465659,202211,,Ryan_Nawrocki,329181,0
+24719,"Stuart Schmidt",Stuart,Michael,Schmidt,Jr.,,2,R,1,Rep,HD-033,55465764,0,,Stuart_Schmidt_Jr.,808189,0
+24720,"Gary Simmons",Gary,,Simmons,,,1,D,1,Rep,HD-012,55465754,0,,Gary_Simmons,807582,0
+24721,"Kym Taylor",Kym,,Taylor,,,1,D,1,Rep,HD-023,52974452,202248,,Kym_Taylor,808277,0
+24722,"William Valentine",William,,Valentine,,,2,R,1,Rep,HD-002,55465640,202203,,William_Valentine,647473,0
+24723,"Jennifer White Holland",Jennifer,,"White Holland",,,1,D,1,Rep,HD-010,55465676,202222,,Jennifer_White_(Maryland),807515,0
+24724,"Jamila Woods",Jamila,J.,Woods,,,1,D,1,Rep,HD-026,44433035,178456,,Jamila_Woods,647464,0
+24725,"Chao Wu",Chao,,Wu,,,1,D,1,Rep,HD-009,32194753,0,,Chao_Wu,807483,0
+24787,"Jackie Addison",Jackie,,Addison,,,1,D,1,Rep,HD-045,45326008,0,,Jackie_Addison,808399,0
+24820,"Joshua Stonko",Joshua,,Stonko,,,2,R,1,Rep,HD-042,19904867,149088,,Joshua_Stonko,497697,0
+24858,"Bernice Mireku-North",Bernice,,Mireku-North,,,1,D,1,Rep,HD-014,0,211291,,Bernice_Mireku-North,0,0
+24878,"Education, Energy, and the Environment",,,,,,0,,2,Sen,,0,0,,,0,4685
+24906,"Ashanti Martinez",Ashanti,,Martinez,,,1,D,1,Rep,HD-022,44433153,181566,,Ashanti_Martinez,0,0
+24931,"Sarah Wolek",Sarah,,Wolek,,,1,D,1,Rep,HD-016,0,0,,Sarah_Wolek,0,0
+25010,"Kent Roberson",Kent,,Roberson,,,1,D,1,Rep,HD-025,44433179,181583,,Kent_Roberson,0,0
+25011,"Malcolm Ruff",Malcolm,,Ruff,,,1,D,1,Rep,HD-041,0,212278,,Malcolm_Ruff,0,0
+25012,"Ryan Spiegel",Ryan,S.,Spiegel,,,1,D,1,Rep,HD-017,4997496,66210,,Ryan_Spiegel,0,0
+25013,"Greg Wims",Greg,,Wims,,,1,D,1,Rep,HD-039,0,212194,,Greg_Wims,0,0
+25071,"Denise Roberts",Denise,,Roberts,,,1,D,1,Rep,HD-025,20598609,0,,Denise_Roberts,0,0
+25625,"Barry Beauchamp",Barry,,Beauchamp,,,2,R,1,Rep,HD-038,0,219963,,Barry_Beauchamp,0,0
+25626,"Teresa Woorman",Teresa,,Woorman,,,1,D,1,Rep,HD-016,0,219615,,Teresa_Woorman,0,0
+26073,"Matthew Schindler",Matthew,J.,Schindler,,,1,D,1,Rep,HD-002,0,0,,Matthew_Schindler_(Maryland),0,0
+26325,"LaToya Nkongolo",LaToya,,Nkongolo,,,2,R,1,Rep,HD-031,0,0,,LaToya_Nkongolo,0,0
+26399,"Dorchester County Senators",,,,,,0,,2,Sen,,0,0,,,0,5094
+26400,"Talbot County Senators",,,,,,0,,2,Sen,,0,0,,,0,5095
+26407,"Dylan Behler",Dylan,,Behler,,,1,D,1,Rep,HD-030,0,0,,Dylan_Behler,0,0
+26426,"Kim Ross",Kim,,Ross,,,1,D,1,Rep,HD-008,0,0,,Kim_Ross_(Maryland),0,0
+26427,"Sean Stinnett",Sean,,Stinnett,,,1,D,1,Rep,HD-041,0,0,,Sean_Stinnett,0,0
+26563,"Government, Labor, and Elections",,,,,,0,,1,Rep,,0,0,,,0,5240
+26564,Health,,,,,,0,,1,Rep,,0,0,,,0,5241
+26605,"Kevin Anderson",Kevin,H.,Anderson,,,2,R,1,Rep,HD-038,0,0,,Kevin_Anderson_(Maryland),0,0
+26606,"Derrick Coley",Derrick,,Coley,,,1,D,1,Rep,HD-024,0,232497,,Derrick_Coley,0,0
+26607,"Gabriel Moreno",Gabriel,M.,Moreno,,,1,D,1,Rep,HD-013,0,232496,,,0,0
+26608,"Darrell Odom",Darrell,,Odom,Sr.,,1,D,1,Rep,HD-027,0,232031,,Darrell_Odom,0,0

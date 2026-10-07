@@ -1,0 +1,18 @@
+bill_number,session,session_year,session_type,chamber,action_date,action,order
+ACR1,35th,2023,S2,,2023-06-07,Resolution read and adopted. To Senate.In Senate.Resolution read and adopted. To Assembly.,1
+ACR1,35th,2023,S2,,2023-06-13,In Assembly. To printer.From printer. To enrollment.,2
+ACR1,35th,2023,S2,,2023-06-15,Enrolled and delivered to Secretary of State.File No. 1.,3
+AR1,35th,2023,S2,,2023-06-07,Resolution read and adopted. To printer.,1
+AR1,35th,2023,S2,,2023-06-08,From printer. To enrollment.,2
+AR1,35th,2023,S2,,2023-06-15,Enrolled and delivered to Secretary of State.File No. 2.,3
+SB1,35th,2023,S2,,2023-06-07,Read first time. Referred to Committee of the Whole. To printer.From printer. To committee.,1
+SB1,35th,2023,S2,,2023-06-07,Senate Committee of the Whole Committee Hearing ~ Outcome: ,2
+SB1,35th,2023,S2,,2023-06-13,"From committee: Amend, and do pass as amended.Placed on Second Reading File.Read second time. Amended. (Amend. No. 1.)Reprinting dispensed with.Declared an emergency measure under the Constitution.Placed on General File.Read third time. Passed, as amended. Title approved, as amended. (Yeas:13, Nays:8.)To printer.From printer. To engrossment. Engrossed. First reprint. To Assembly.In Assembly.Read first time. Referred to Committee of the Whole.To committee.",3
+SB1,35th,2023,S2,,2023-06-13,Senate Committee of the Whole                                             (Work Session) Committee Hearing ~ Outcome: ,4
+SB1,35th,2023,S2,,2023-06-14,"From committee: Without recommendation.Declared an emergency measure under the Constitution.Read third time. Amended. (Amend. No. 2.)Dispensed with reprinting.Read third time. Passed, as amended. Title approved, as amended. (Yeas:25, Nays:15, Excused:2.)To printer.From printer. To reengrossment. Reengrossed. Second reprint.To Senate.In Senate.Assembly Amendment No. 2 concurred in. To enrollment.",5
+SB1,35th,2023,S2,,2023-06-15,Enrolled and delivered to Governor.Approved by the Governor.,6
+SB1,35th,2023,S2,,2023-06-16,Chapter 1.,7
+SR1,35th,2023,S2,,2023-06-07,Resolution read and adopted. To printer.From printer. To enrollment.,1
+SR1,35th,2023,S2,,2023-06-15,Enrolled and delivered to Secretary of State.File No. 3.,2
+SR2,35th,2023,S2,,2023-06-07,Resolution read and adopted. To printer.From printer. To enrollment.,1
+SR2,35th,2023,S2,,2023-06-15,Enrolled and delivered to Secretary of State.File No. 4.,2

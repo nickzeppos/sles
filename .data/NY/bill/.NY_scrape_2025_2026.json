@@ -1,0 +1,40 @@
+{
+  "term": "2025_2026",
+  "indexed": 25533,
+  "details": 25532,
+  "histories": 128558,
+  "source_not_found": [
+    {
+      "number": "00000",
+      "url": "https://nyassembly.gov/leg/?bn= 00000&term=2025",
+      "description": ""
+    }
+  ],
+  "empty_source_placeholders": [
+    "A00008",
+    "A09999",
+    "A13044",
+    "A14959",
+    "A33878",
+    "A47546",
+    "A47548",
+    "A72477",
+    "A80130",
+    "A80132",
+    "A80134",
+    "A80136",
+    "A80138",
+    "A80140",
+    "A84000",
+    "J93271",
+    "S10864",
+    "S11145",
+    "S11707",
+    "S23587",
+    "S26878",
+    "S31831",
+    "S87528"
+  ],
+  "chamber_method": "Legacy action capitalization convention (inferred)",
+  "completed_at": "2026-10-02T01:12:48.980256+00:00"
+}

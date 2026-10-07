@@ -1,0 +1,37 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "id": "2025GS",
+      "label": "2025 General Session",
+      "url": "https://le.utah.gov/billlist.jsp?session=2025GS"
+    },
+    {
+      "id": "2025S1",
+      "label": "2025 First Special Session",
+      "url": "https://le.utah.gov/billlist.jsp?session=2025S1"
+    },
+    {
+      "id": "2025S2",
+      "label": "2025 Second Special Session",
+      "url": "https://le.utah.gov/billlist.jsp?session=2025S2"
+    },
+    {
+      "id": "2026GS",
+      "label": "2026 General Session",
+      "url": "https://le.utah.gov/billlist.jsp?session=2026GS"
+    }
+  ],
+  "counts": {
+    "2025GS": 959,
+    "2025S1": 18,
+    "2025S2": 5,
+    "2026GS": 1016
+  },
+  "details": 1998,
+  "histories": 66342,
+  "unavailable_source_fields": [
+    "chapter_num"
+  ],
+  "completed_at": "2026-09-30T19:29:06.138804+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "lpid": "session_2025",
+      "year": "2025",
+      "assembly_id": "124",
+      "assembly_name": "124th General Assembly",
+      "active": false,
+      "special": false,
+      "interim_year": "2025",
+      "in_code_year": "2025"
+    },
+    {
+      "lpid": "session_2026",
+      "year": "2026",
+      "assembly_id": "124",
+      "assembly_name": "124th General Assembly",
+      "active": true,
+      "special": false,
+      "interim_year": "2026",
+      "in_code_year": "2026"
+    }
+  ],
+  "counts": {
+    "2025": 1489,
+    "2026": 935
+  },
+  "details": 2424,
+  "histories": 19038,
+  "source_empty_histories": [
+    {
+      "bill": "HC0001",
+      "session": "2025"
+    }
+  ],
+  "completed_at": "2026-09-30T19:22:31.559793+00:00"
+}

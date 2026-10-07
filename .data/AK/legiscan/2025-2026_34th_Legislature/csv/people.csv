@@ -1,0 +1,86 @@
+people_id,name,first_name,middle_name,last_name,suffix,nickname,party_id,party,role_id,role,district,followthemoney_eid,votesmart_id,opensecrets_id,ballotpedia,knowwho_pid,committee_id
+6052,"Scott Kawasaki",Scott,,Kawasaki,,,1,D,1,Rep,SD-P,6464847,27313,,Scott_Kawasaki,249129,0
+6065,"Bryce Edgmon",Bryce,,Edgmon,,,3,I,1,Rep,HD-037,6479039,68319,,Bryce_E._Edgmon,249143,0
+6072,"Neal Foster",Neal,W.,Foster,,,1,D,1,Rep,HD-039,6508954,116449,,Neal_Winston_Foster,282973,0
+6075,"William Wielechowski",William,P.,Wielechowski,,Bill,1,D,2,Sen,SD-K,6479095,68283,,Bill_Wielechowski,249147,0
+6083,"Donald Olson",Donald,C.,Olson,,Donny,1,D,2,Sen,SD-T,6412276,27314,,Donald_C._Olson,141945,0
+6085,"Lyman Hoffman",Lyman,F.,Hoffman,,,1,D,2,Sen,SD-S,6400620,8816,,Lyman_Hoffman,212458,0
+6089,"Bert Stedman",Bert,K.,Stedman,,,2,R,2,Sen,SD-A,13010956,27391,,Bert_K._Stedman,221685,0
+6093,"Gary Stevens",Gary,,Stevens,,,2,R,2,Sen,SD-C,5087125,12784,,Gary_Stevens,206244,0
+11277,"Dan Saddler",Dan,,Saddler,,,2,R,1,Rep,HD-024,6692528,123140,,Dan_Saddler,299444,0
+11301,"Mia Costello",Mia,C.,Costello,,,2,R,1,Rep,HD-015,6692539,117406,,Mia_Costello,299859,0
+11358,"Catherine Giessel",Catherine,A.,Giessel,,Cathy,2,R,2,Sen,SD-E,6692565,117402,,Catherine_A._Giessel,299162,0
+14388,"Shelley Hughes",Shelley,,Hughes,,,2,R,1,Rep,SD-M,9515647,140422,,Shelley_Hughes,418609,0
+14389,"Andrew Josephson",Andrew,L.,Josephson,,Andy,1,D,1,Rep,HD-013,9400827,140434,,Andrew_L._Josephson,401558,0
+16680,"Cathy Tilton",Cathy,,Tilton,,,2,R,1,Rep,HD-026,9654575,153736,,Cathy_L._Tilton,352645,0
+17251,"Louise Stutes",Louise,B.,Stutes,,,2,R,1,Rep,HD-005,9402901,106753,,Louise_Stutes,494900,0
+17255,"Matt Claman",Matt,,Claman,,,1,D,1,Rep,SD-H,9414921,71396,,Matt_Claman,499620,0
+18610,"George Rauscher",George,,Rauscher,,,2,R,1,Rep,HD-029,13789705,140418,,George_Rauscher,423865,0
+18974,"Charles Kopp",Charles,M.,Kopp,,Chuck,2,R,1,Rep,HD-010,9402878,171542,,Charles_Kopp,265930,0
+19096,"DeLena Johnson",DeLena,M.,Johnson,,,2,R,1,Rep,HD-025,9405351,153695,,DeLena_Johnson,499617,0
+19596,"Mike Shower",Mike,J.,Shower,,,2,R,2,Sen,SD-O,45364270,178374,,Mike_Shower,656852,0
+20423,"William Fields",William,Z.,Fields,,Zack,1,D,1,Rep,HD-017,45364302,184151,,Zack_Fields_(Alaska),668955,0
+20962,"Elvi Gray-Jackson",Elvira,,Gray-Jackson,,Elvi,1,D,2,Sen,SD-G,9401342,105212,,Elvi_Gray-Jackson,667443,0
+20963,"Jesse Kiehl",Jesse,,Kiehl,,,1,D,2,Sen,SD-B,9401330,141440,,Jesse_Kiehl,668896,0
+21261,"Sara Hannan",Sara,,Hannan,,,1,D,1,Rep,HD-004,9507555,184200,,Sara_Hannan,667461,0
+21268,"Kelly Merrick",Kelly,R.,Merrick,,,2,R,1,Rep,SD-L,15406079,184144,,Kelly_Merrick,668936,0
+21271,"Andrea Story",Andrea,,Story,,Andi,1,D,1,Rep,HD-003,45364321,184204,,Andi_Story,669086,0
+21272,"Sarah Vance",Sarah,L.,Vance,,,2,R,1,Rep,HD-006,45364315,184197,,Sarah_Vance_(Alaska),664634,0
+21515,Energy,,,,,,0,,1,Rep,,0,0,,,0,2209
+21516,Finance,,,,,,0,,1,Rep,,0,0,,,0,2133
+21517,Judiciary,,,,,,0,,1,Rep,,0,0,,,0,2135
+21518,"Labor & Commerce",,,,,,0,,1,Rep,,0,0,,,0,2136
+21519,Resources,,,,,,0,,1,Rep,,0,0,,,0,2137
+21520,Rules,,,,,,0,,1,Rep,,0,0,,,0,2138
+21521,"State Affairs",,,,,,0,,1,Rep,,0,0,,,0,2139
+21523,Education,,,,,,0,,2,Sen,,0,0,,,0,2142
+21524,Finance,,,,,,0,,2,Sen,,0,0,,,0,2143
+21526,Resources,,,,,,0,,2,Sen,,0,0,,,0,2147
+21527,Rules,,,,,,0,,2,Sen,,0,0,,,0,2148
+21528,Transportation,,,,,,0,,2,Sen,,0,0,,,0,2150
+21529,Judiciary,,,,,,0,,2,Sen,,0,0,,,0,2145
+21609,"Community & Regional Affairs",,,,,,0,,2,Sen,,0,0,,,0,2141
+21610,"Labor & Commerce",,,,,,0,,2,Sen,,0,0,,,0,2146
+21613,"State Affairs",,,,,,0,,2,Sen,,0,0,,,0,2149
+21614,"Mike Prax",Mike,,Prax,,Glenn,2,R,1,Rep,HD-033,50052490,190741,,Glenn_Prax,733430,0
+21618,"Health & Social Services",,,,,,0,,1,Rep,,0,0,,,0,2134
+22728,"Robert Myers",Robert,H.,Myers,Jr.,,2,R,2,Sen,SD-Q,50051197,194327,,Robert_Myers_Jr._(Alaska),739229,0
+22857,"Mike Cronk",Mike,,Cronk,,,2,R,1,Rep,SD-R,50052497,194392,,Mike_Cronk,743602,0
+22859,"James Kaufman",James,D.,Kaufman,,,2,R,1,Rep,SD-F,18255938,194408,,James_Kaufman,743644,0
+22861,"Kevin McCabe",Kevin,J.,McCabe,,,2,R,1,Rep,HD-030,9501973,194398,,Kevin_McCabe_(Alaska),739339,0
+22863,"David Nelson",David,,Nelson,,,2,R,1,Rep,HD-018,50052519,194410,,David_Nelson_(Alaska),628562,0
+22865,"Calvin Schrage",Calvin,R.,Schrage,,,6,N,1,Rep,HD-012,50052532,194416,,Calvin_Schrage,739428,0
+22899,Fisheries,,,,,,0,,1,Rep,,0,0,,,0,2208
+23097,Transportation,,,,,,0,,1,Rep,,0,0,,,0,2140
+23118,"Community & Regional Affairs",,,,,,0,,1,Rep,,0,0,,,0,2131
+23127,Education,,,,,,0,,1,Rep,,0,0,,,0,2132
+23131,"Health & Social Services",,,,,,0,,2,Sen,,0,0,,,0,2144
+23890,"Ashley Carrick",Ashley,E.,Carrick,,,1,D,1,Rep,HD-035,55717048,0,,Ashley_Carrick,0,0
+24187,"Genevieve Mina",Genevieve,G.,Mina,,,1,D,1,Rep,HD-019,55717018,0,,Genevieve_Mina,0,0
+24409,"Forrest Dunbar",Forrest,,Dunbar,,,1,D,2,Sen,SD-J,55717064,145947,,Forrest_Dunbar,468240,0
+24544,"Jesse Bjorkman",Jesse,J.,Bjorkman,,,2,R,2,Sen,SD-D,55717057,196772,,Jesse_Bjorkman,811773,0
+24545,"Loki Tobin",Loki,G.,Tobin,,,1,D,2,Sen,SD-I,55717062,207876,,Loki_Tobin,740609,0
+24586,"Maxine Dibert",Maxine,L.,Dibert,,,1,D,1,Rep,HD-031,55717041,207960,,Maxine_Dibert,0,0
+24587,"Andrew Gray",Andrew,T.,Gray,,,1,D,1,Rep,HD-020,55717020,207942,,Andrew_Gray_(Alaska),0,0
+24590,"Justin Ruffridge",Justin,,Ruffridge,,,2,R,1,Rep,HD-007,55581939,207926,,Justin_Ruffridge,0,0
+24591,"Will Stapp",Will,B.,Stapp,,,2,R,1,Rep,HD-032,55717043,207963,,Will_Stapp,0,0
+24593,"Frank Tomaszewski",Frank,J.,Tomaszewski,,,2,R,1,Rep,HD-034,55717046,196769,,Frank_Tomaszewski,0,0
+24789,"Jamie Allard",Jamie,D.,Allard,,,2,R,1,Rep,HD-023,45364294,184142,,Jamie_Allard,812214,0
+24790,"Julie Coulombe",Julie,,Coulombe,,,2,R,1,Rep,HD-011,51108194,207931,,Julie_Coulombe,812066,0
+24791,"Alyse Galvin",Alyse,S.,Galvin,,,3,I,1,Rep,HD-014,55717010,182516,,Alyse_Galvin,651210,0
+24792,"Rebecca Himschoot",Rebecca,,Himschoot,,,3,I,1,Rep,HD-002,27974827,175759,,Rebecca_Himschoot,636289,0
+24793,"Donna Mears",Donna,C.,Mears,,,1,D,1,Rep,HD-021,55717023,207945,,Donna_Mears,812213,0
+26273,"Ky Holland",Ky,,Holland,,,6,N,1,Rep,HD-009,59983687,219598,,Ky_Holland,0,0
+26346,"Robyn Frier",Robyn,Niayuq,Frier,,,1,D,1,Rep,HD-040,59983721,218219,,Robyn_Burke,0,0
+26347,"Jeremy Bynum",Jeremy,,Bynum,,,2,R,1,Rep,HD-001,55716993,200111,,Jeremy_Bynum,0,0
+26348,"Ted Eischeid",Ted,J.,Eischeid,,,1,D,1,Rep,HD-022,55717026,164969,,Ted_Eischeid,0,0
+26349,"Bill Elam",Bill,,Elam,,,2,R,1,Rep,HD-008,53927168,196774,,Bill_Elam,0,0
+26350,"Carolyn Hall",Carolyn,,Hall,,,1,D,1,Rep,HD-016,59983696,218157,,Carolyn_Hall,0,0
+26351,"Nellie Jimmie",Nellie,D.,Jimmie,,Unangik,1,D,1,Rep,HD-038,59983717,218218,,Nellie_Jimmie,880175,0
+26352,"Elexie Moore",Elexie,,Moore,,,2,R,1,Rep,HD-028,59983704,218162,,Elexie_Moore,0,0
+26353,"Rebecca Schwanke",Rebecca,A.,Schwanke,,Becky,2,R,1,Rep,HD-036,59983714,218216,,Becky_Schwanke,0,0
+26354,"Jubilee Underwood",Jubilee,L.,Underwood,,,2,R,1,Rep,HD-027,59983703,218161,,Jubilee_Underwood,0,0
+26355,"Robert Yundt",Robert,,Yundt,II,,2,R,2,Sen,SD-N,58639183,194395,,Robert_Yundt,0,0
+26415,"Special Committee On Arctic Affairs",,,,,,0,,2,Sen,,0,0,,,0,5169
+26560,"Garret Nelson",Garret,,Nelson,,,2,R,1,Rep,HD-029,0,232030,,Garret_Nelson,0,0
+26561,"Steve St. Clair",Steve,,"St. Clair",,,2,R,1,Rep,HD-026,0,171463,,Steve_St._Clair,0,0

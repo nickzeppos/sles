@@ -1,0 +1,68 @@
+count,bill_id,term,year,session,Title,summary,filter
+2,SB2001,2020_2023,2022,2022-SS1,Establishes the Triple Crown Project Fund,Triple Crown Project Fund; create.,keep
+2,SB2001,2020_2023,2022,2022-RS,Establishes the Triple Crown Project Fund,Mississippi congressional districts; reapportion.,remove
+1,HB0001,2020_2023,2020,2020-RS,Increases State Teacher Pay,Appropriation; Department of Education for additional funding for teachers' salaries.,keep
+1,HB1087,2020_2023,2020,2020-RS,Rescinds the Prohibition on Alcohol Possession,Alcoholic beverages; revise policy of the state regarding prohibition of possession of.,keep
+1,HB1200,2020_2023,2020,2020-RS,"Prohibits ""Free Speech Zones"" on College Campuses","""Forming Open and Robust University Minds (FORUM) Act""; establish.",keep
+1,HB1295,2020_2023,2020,2020-RS,"Prohibits Abortions for Reasons of Race, Sex, or Genetic Abnormality","The ""Life Equality Act""; create to prohibit abortion based on certain factors.",keep
+1,HB1647,2020_2023,2020,2020-RS,Authorizes Local Governments and School Districts to Grant Administrative Leave with Pay In Case of Emergency,Local governmental entities and school districts; authorize grant of admin leave with pay in event of certain disasters or emergencies.,keep
+1,HB1796,2020_2023,2020,2020-RS,Authorizes the Redesign of the Mississippi State Flag,"State Flag; revise with a commission and require words ""In God We Trust.""",keep
+1,HB1806,2020_2023,2020,2020-RS,Increases Funding to the Department of Education,"Appropriations.  Education, Department of, Additional for School Recognition Program.",keep
+1,SB2112,2020_2023,2020,2020-RS,Prohibits Public Employers from Requiring Applicants to Disclose Felony Convictions on Application,"Criminal history; enact ""Ban-the-Box Act.""",keep
+1,SB2123,2020_2023,2020,2020-RS,"Establishes the ""Mississippi Correctional Safety and Rehabilitation Act""","""Mississippi Correctional Safety and Rehabilitation Act of 2020""; enact.",keep
+1,SB2257,2020_2023,2020,2020-RS,Authorizes State Auditor to Examine Tax Returns of Public Assistance Beneficiaries,State Auditor; authorize to examine tax returns necessary for auditing certain federal benefits.,keep
+1,SB2459,2020_2023,2020,2020-RS,Establishes Legal Definition for Criminal Gang Activity,Gang act; revise.,keep
+1,SB2522,2020_2023,2020,2020-RS,Requires Employers to Pay Employees the Same Wage Regardless of Sex,Equal pay for equal work; require for employees of opposite sex in the same work establishment.,keep
+1,SB3046,2020_2023,2020,2020-RS,Establishes COVID-19 Broadband Grant Programs,COVID-19 Broadband Grant Programs; create.,keep
+1,SB3049,2020_2023,2020,2020-RS,"Establishes the ""Mississippi Back-to-Business Liability Assurance and Health Care Emergency Response Liability Pro ...",Mississippi Back-to-Business Liability Assurance and Health Care Emergency Response Liability Protection Act; create.,keep
+1,SB3051,2020_2023,2020,2020-RS,Establishes Special Provisions for Unemployment Compensation Due to COVID-19,Unemployment compensation; create special provisions for 2021 general and individual experience rates due to COVID-19.,keep
+1,HB0001,2020_2023,2021,2021-RS,Repeals the State Flag,State flag; shall be the design recommended by the Commission to Redesign the State Flag and approved in the November 2020 election.,keep
+1,HB0949,2020_2023,2021,2021-RS,Prohibits New Landfills in Counties Where 2 or more Already Exist,"Solid waste landfills; prohibit new landfill in county where 2 or more exist, unless referendum held.",keep
+1,HB1030,2020_2023,2021,2021-RS,Requires Paying Student Athletes if Their Likeness is Used in Advertising,"""Mississippi Intercollegiate Athletics Compensation Rights Act""; enact.",keep
+1,HB1303,2020_2023,2021,2021-RS,Authorizes Advanced Practice Registered Nurses to Provide Independent Care,"Advanced practice registered nurses; revise certain provisions relating to, including collaboration requirement.",keep
+1,HB1439,2020_2023,2021,2021-RS,Amends Tax Laws to Eliminate Sales Tax and Income Tax for Certain Income Brackets,Mississippi Tax Freedom Act of 2021; create.,keep
+1,SB2107,2020_2023,2021,2021-RS,Prohibits Cities and Counties from Creating Rental Agreements that Restrict Firearm Access,Firearms; prohibit local governments and state agencies from restricting possession.,keep
+1,SB2536,2020_2023,2021,2021-RS,Requires Transgender Student Athletes Play Against Those of Their Biological Sex,Athletics; provide that schools designate teams by biological sex.,keep
+1,SB2588,2020_2023,2021,2021-RS,Repeals Names and Information From the Voter Rolls,Statewide Elections Management System; remove electors who fail to respond to notice.,keep
+1,SB2825,2020_2023,2021,2021-RS,Transfers Certain Transportation Authority,"Transportation; revise provisions relating to motor carrier enforcement, harvest permits, and funding.",keep
+1,HB0020,2020_2023,2022,2022-RS,Prohibits Organ Donor Discrimination Based on Disability,Anatomical gifts; prohibit discrimination against recipient based on disability.,keep
+1,HB0384,2020_2023,2022,2022-RS,Amends State Congressional Districts,Mississippi Congressional district; reapportion.,keep
+1,HB0530,2020_2023,2022,2022-RS,"Increases Starting Teacher Salary by $6,000","The ""Strategically Accelerating the Recruitment and Retention of Teachers (START) Act of 2022""; create.",keep
+1,HB0531,2020_2023,2022,2022-RS,Reduces Income Tax Rates,Mississippi Tax Freedom Act of 2022; create.,keep
+1,HB0606,2020_2023,2022,2022-RS,Establishes Outdoor Stewardship Act,Mississippi Outdoor Stewardship Trust Fund; create.,keep
+1,HB0621,2020_2023,2022,2022-RS,Increases Penalties for Fleeing Police,Fleeing law enforcement; increase penalties for the crime of.,keep
+1,HB0770,2020_2023,2022,2022-RS,Requires Gender Pay Equity,Mississippi Equal Pay for Equal Work Act; create.,keep
+1,HB0936,2020_2023,2022,2022-RS,Authorizes Hospice Care Services for Terminally Ill Inmates,Hospice care services for terminally ill inmates; authorize MDOC to provide for those confined in facilities under MDOC jurisdiction.,keep
+1,HB1029,2020_2023,2022,2022-RS,Expands Broadband Accessibility in Mississippi,Mississippi Broadband Accessibility Act; create.,keep
+1,HB1099,2020_2023,2022,2022-RS,Prohibits Prisoners from Changing Name or Gender,Incarcerated offenders; prohibit from petitioning to change name and/or gender.,keep
+1,HB1353,2020_2023,2022,2022-RS,Appropriates Funds for the 2022 State Budget,"Budget; provide for various transfers of funds, create various special funds.",keep
+1,HB1365,2020_2023,2022,2022-RS,Prohibits State and Local Election Officials from Soliciting or Accepting Private Funds,Elections; prohibit state and local officials from soliciting and/or accepting private funds for.,keep
+1,HB1367,2020_2023,2022,2022-RS,Establishes a Process to Remove Discriminatory Provisions from Real Property Documents,Real property; establish process to remove discriminatory language from recorded instruments of conveyance.,keep
+1,HB1388,2020_2023,2022,2022-RS,Establishes the Comprehensive Career and Technical Education Reform Act,Comprehensive Career and Technical Reform Act; create.,keep
+1,HB1418,2020_2023,2022,2022-RS,Establishes Second Amendment Preservation Act,Second Amendment Preservation Act; authorize with exclusion for universities and colleges.,keep
+1,HB1426,2020_2023,2022,2022-RS,Increases Salaries of Certain Government Officials,Salary statutes; revise certain provisions relating to salaries of state employees and officials.,keep
+1,HB1509,2020_2023,2022,2022-RS,Prohibits COVID Vaccine Mandates,COVID-19 vaccine mandate; prohibit state and local government from imposing.,keep
+1,HB1510,2020_2023,2022,2022-RS,Increases Secretary of State Power to Purge Voter Rolls and Audit Election Results Without Public Oversight,Elections; revise procedures regarding voter roll maintenance.,keep
+1,HCR0039,2020_2023,2022,NA,Amends Constitution to Expand Citizen Involvement in Lawmaking,NA,keep
+1,SB2095,2020_2023,2022,2022-RS,Amends Medical Marijuana Laws,Mississippi Medical Cannabis Act; create.,keep
+1,SB2113,2020_2023,2022,2022-RS,"Prohibits Teaching the Topic Known as ""Critical Race Theory""",Critical Race Theory; prohibit.,keep
+1,SB2273,2020_2023,2022,2022-RS,Authorizes Employers to Sponsor Parolees and Offenders on Probation,Probation and parole; authorize an offender's employer to submit regular information in lieu of in-person meetings.,keep
+1,SB2437,2020_2023,2022,2022-RS,Establishes Pilot Work Initiative for Prisoners,Central Mississippi Correctional Facility; authorize pilot work initiative.,keep
+1,SB2536,2020_2023,2022,2022-RS,Expands Voting Rights of Persons with Expunged Convictions,Criminal convictions; create registry of certain offenders and clarify the effect of expungement.,keep
+1,SB2735,2020_2023,2022,2022-RS,Specifies Freestanding Emergency Room Regulations,Pilot freestanding emergency room; require the Department of Health to issue not more than five licenses.,keep
+1,SB2820,2020_2023,2022,2022-RS,Establishes the COVID-19 Hospital Expanded Capacity Program,COVID-19 Hospital Expanded Capacity Program; create and require MDOH to establish and administer.,keep
+1,SB2822,2020_2023,2022,2022-RS,Establishes the Mississippi Municipality and County Water Infrastructure Grant Program Act of 2022,"""Mississippi Municipality and County Water Infrastructure Grant Program Act of 2022""; establish.",keep
+1,HB0401,2020_2023,2023,2023-RS,Amends State Franchise Laws to Prohibit Car Companies from Operating Their Own Dealerships,Mississippi Motor Vehicle Commission Law; revise certain provisions relating to a manufacturer's ownership of motor vehicle dealership.,keep
+1,HB1020,2020_2023,2023,2023-RS,"Establishes a Court System of Unelected Judges and Prosecutors for the City of Jackson, Mississippi",Capitol Complex Improvement District judicial jurisdiction; create and revise boundaries.,keep
+1,HB1105,2020_2023,2023,2023-RS,Authorizes Certain Government Employees of the Secretary of State to Carry Firearms,Secretary of State employees; authorize certain employees to carry a firearm.,keep
+1,HB1125,2020_2023,2023,2023-RS,Prohibits Hormone Therapy and Puberty-Blocking Drugs to Minors,Regulate Experimental Adolescent Procedures (REAP) Act; create to regulate transgender procedures and surgeries.,keep
+1,HB1306,2020_2023,2023,2023-RS,Amends the Mississippi Election Code and Protects Against Fraudulent Voters,"Elections; revise certain provisions about names of candidates appearing on the ballot, judicial candidate's annual report and fraudulent absentee voter applications.",keep
+1,HB1310,2020_2023,2023,2023-RS,Authorizes Restoring the Voting Rights of Military Veterans Convicted of Felonies,Elections; revise provisions related to the integrity of.,keep
+1,HB1315,2020_2023,2023,2023-RS,Requires Vendors Providing Online Resources or Databases to K-12 Schools Block Access to Pornography,Pornographic online and digital/resources for K-12 students; prohibit.,keep
+1,HB1671,2020_2023,2023,2023-RS,Expands State Tax Credits from $3.5 to $10 Million a Year for Businesses who Provide Assistance for Pregnant Women,Tax credits; revise certain existing and authorize additional.,keep
+1,SB2079,2020_2023,2023,2023-RS,Authorizes School Employees to Concealed Carry,MS School Safety Guardian Act; create.,keep
+1,SB2101,2020_2023,2023,2023-RS,Amends and Increases Criminal Penalties for Carjacking,Criminal law; revise crimes of fleeing a law enforcement officer and carjacking.,keep
+1,SB2228,2020_2023,2023,2023-RS,Authorizes the Sale of Pet Insurance,Pet insurance; establish provisions for the sale and renewal of policies.,keep
+1,SB2346,2020_2023,2023,2023-RS,Requires Age Verification in Order to Use Apps where at least 1/3 of the Content Consists of Pornography,Material harmful to minors; provide for liability for any entity that distributes on the internet without age verification.,keep
+1,SB2358,2020_2023,2023,2023-RS,Prohibits a Third-Party From Collecting and Delivering Somebody Else's Absentee Ballot,Ballot harvesting; ban.,keep
+1,SB2523,2020_2023,2023,2023-RS,Increases Penalties for Illegal Pecan Harvesting,Pecan Harvesting Law; revise penalties for violating.,keep

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "state": "AL",
+  "term": "2023_2026",
+  "run_id": "63ded33e0377476d9c14ea11936511a9",
+  "started_at": "2026-10-07T16:26:25.752553+00:00",
+  "status": "succeeded",
+  "force_fetch": true,
+  "completed_at": "2026-10-07T16:26:25.754651+00:00"
+}

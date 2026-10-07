@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "state": "VA",
+  "term": "2024_2025",
+  "run_id": "8a0c8211a3574b2f946240a2a4f26c36",
+  "started_at": "2026-10-07T16:26:29.815203+00:00",
+  "status": "failed",
+  "force_fetch": false,
+  "completed_at": "2026-10-07T16:26:29.817009+00:00",
+  "error": {
+    "type": "RuntimeError",
+    "message": "VA 20242 HB1: fetch failed; rerun to resume"
+  }
+}

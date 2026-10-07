@@ -1,5 +1,17 @@
 requests
 beautifulsoup4
 lxml
+html5lib
 pandas
+numpy
 playwright
+python-dotenv
+selenium
+retry
+timeout-decorator
+fake-useragent
+PyPDF2
+tika
+python-dateutil
+urllib3
+truststore

@@ -1,0 +1,207 @@
+people_id,name,first_name,middle_name,last_name,suffix,nickname,party_id,party,role_id,role,district,followthemoney_eid,votesmart_id,opensecrets_id,ballotpedia,knowwho_pid,committee_id
+2602,"Carolyn Branagan",Carolyn,Whitney,Branagan,,,2,R,1,Rep,HD-FRA1,6596886,51024,,Carolyn_Whitney_Branagan,212857,0
+2603,"Christopher Bray",Christopher,A.,Bray,,,1,D,2,Sen,SD-ADD,6481736,66587,,Christopher_Bray,249961,0
+2604,"Patrick Brennan",Patrick,M.,Brennan,,,2,R,1,Rep,HD-CHI19,6597064,51143,,Patrick_Brennan_(Vermont_legislator),145317,0
+2606,"Mollie Burke",Mollie,S.,Burke,,,1,D,1,Rep,HD-WIN8,6511154,110267,,Mollie_Burke,272058,0
+2607,"William Canfield",William,,Canfield,,Bill,2,R,1,Rep,HD-RUT10,13007455,51008,,William_Canfield,228617,0
+2610,"Alison Clarkson",Alison,H.,Clarkson,,,1,D,2,Sen,SD-WIN,6461407,51164,,Alison_Clarkson,228637,0
+2616,"Timothy Corcoran",Timothy,R.,Corcoran,II,,1,D,1,Rep,HD-BEN2,6396032,51005,,Timothy_Corcoran_II,212721,0
+2622,"Eileen Dickinson",Eileen,,Dickinson,,Lynn,2,R,1,Rep,HD-FRA2,6671985,66766,,Eileen_Dickinson,272042,0
+2624,"Anne Donahue",Anne,B.,Donahue,,,2,R,1,Rep,HD-WAS1,6597125,51128,,Anne_Donahue,213919,0
+2627,"Alice Emmons",Alice,M.,Emmons,,,1,D,1,Rep,HD-WIN3,6384826,5426,,Alice_Emmons,199644,0
+2642,"Mark Higley",Mark,A.,Higley,,,2,R,1,Rep,HD-ORL,13007452,110229,,Mark_Higley,272049,0
+2660,"Diane Lanpher",Diane,,Lanpher,,,1,D,1,Rep,HD-ADD3,6481807,68626,,Diane_Lanpher,272030,0
+2673,"Michael Marcotte",Michael,J.,Marcotte,,,2,R,1,Rep,HD-ORL,6664502,51285,,Michael_Marcotte_(Vermont),228612,0
+2677,"James Masland",James,,Masland,,Jim,1,D,1,Rep,HD-WIN2,6444733,25906,,James_Masland,199637,0
+2681,"Francis McFaun",Francis,,McFaun,,Topper,2,R,1,Rep,HD-WAS,6664513,51046,,Francis_McFaun,228629,0
+2690,"Mary Morrissey",Mary,A.,Morrissey,,,2,R,1,Rep,HD-BEN5,6581247,14882,,Mary_Morrissey,199681,0
+2691,"Michael Mrowicki",Michael,,Mrowicki,,Mike,1,D,1,Rep,HD-WIN4,13007487,65248,,Mike_Mrowicki,250022,0
+2709,"Kesha Ram Hinsdale",Kesha,K.,"Ram Hinsdale",,,1,D,2,Sen,SD-CHI,6496111,110184,,Kesha_Ram,272035,0
+2716,"Charles Shaw",Charles,,Shaw,,Butch,2,R,1,Rep,HD-RUT8,13007464,119447,,Charles_Shaw_(Vermont),283526,0
+2721,"Thomas Stevens",Thomas,,Stevens,,Tom,1,D,1,Rep,HD-WAS,6496135,110260,,Tom_Stevens,272057,0
+2743,"Randolph Brock",Randolph,,Brock,,Randy,2,R,2,Sen,SD-FRA,13013750,51163,,Randy_Brock_(Vermont),240557,0
+2747,"Ann Cummings",Ann,,Cummings,,,1,D,2,Sen,SD-WAS,6384808,13256,,Ann_Cummings,199558,0
+2754,"Jane Kitchel",Jane,,Kitchel,,,1,D,2,Sen,SD-CAL,6461499,51050,,Jane_Kitchel,228568,0
+2756,"Virginia Lyons",Virginia,,Lyons,,Ginny,1,D,2,Sen,SD-CHI,6384942,26024,,Virginia_Lyons,208734,0
+2757,"Mark MacDonald",Mark,A.,MacDonald,,,1,D,2,Sen,SD-ORA,6384947,13236,,Mark_MacDonald,212667,0
+2758,"Richard Mazza",Richard,,Mazza,,Dick,1,D,2,Sen,SD-GRA,13013753,5275,,Richard_Mazza,199552,0
+2759,"Richard McCormack",Richard,J.,McCormack,,Dick,1,D,2,Sen,SD-WIN,6444423,5278,,Richard_McCormack,199563,0
+2765,"Richard Sears","Richard ",,Sears,Jr.,Dick,1,D,2,Sen,SD-BEN,6385037,5255,,Richard_Sears,199539,0
+2768,"Robert Starr",Robert,A.,Starr,,,1,D,2,Sen,SD-ORL,6444866,5377,,Robert_Starr,199593,0
+11238,"John Bartholomew",John,L.,Bartholomew,,,1,D,1,Rep,HD-WIN1,6497759,110663,,John_Bartholomew,297934,0
+11241,"Thomas Burditt",Thomas,,Burditt,,Tom,2,R,1,Rep,HD-RUT2,6695927,124768,,Tom_Burditt,297909,0
+11243,"Brian Campion",Brian,,Campion,,,1,D,2,Sen,SD-BEN,13007403,123607,,Brian_Campion,297862,0
+11244,"Kevin Christie",Kevin,,Christie,,Coach,1,D,1,Rep,HD-WIN6,6483208,69304,,Kevin_Christie,297936,0
+11260,"Philip Baruth",Philip,,Baruth,,,1,D,2,Sen,SD-CHI,6511197,123550,,Philip_Baruth,297762,0
+11265,"Richard Westman",Richard,A.,Westman,,,2,R,2,Sen,SD-LAM,6581320,5356,,Richard_Westman,199600,0
+13903,"Jill Krowinski",Jill,,Krowinski,,,1,D,1,Rep,HD-CHI16,13689975,136493,,Jill_Krowinski,397003,0
+13974,"Corrections and Institutions",,,,,,0,,1,Rep,,0,0,,,0,783
+13975,"Ways and Means",,,,,,0,,1,Rep,,0,0,,,0,793
+13977,"Commerce and Economic Development",,,,,,0,,1,Rep,,0,0,,,0,782
+13978,Agriculture,,,,,,0,,2,Sen,,0,0,,,0,794
+13979,Institutions,,,,,,0,,2,Sen,,0,0,,,0,801
+13980,Education,,,,,,0,,1,Rep,,0,0,,,0,784
+13981,"Health Care",,,,,,0,,1,Rep,,0,0,,,0,788
+13982,Appropriations,,,,,,0,,1,Rep,,0,0,,,0,781
+13984,"Economic Development, Housing and General Affairs",,,,,,0,,2,Sen,,0,0,,,0,796
+13985,"Natural Resources and Energy",,,,,,0,,2,Sen,,0,0,,,0,803
+13986,Judiciary,,,,,,0,,1,Rep,,0,0,,,0,790
+13987,Education,,,,,,0,,2,Sen,,0,0,,,0,797
+13988,Transportation,,,,,,0,,2,Sen,,0,0,,,0,804
+13991,"Human Services",,,,,,0,,1,Rep,,0,0,,,0,789
+13993,"Health and Welfare",,,,,,0,,2,Sen,,0,0,,,0,800
+13994,Transportation,,,,,,0,,1,Rep,,0,0,,,0,792
+13995,"Government Operations",,,,,,0,,2,Sen,,0,0,,,0,799
+16001,"Mike McCarthy",Mike,,McCarthy,,,1,D,1,Rep,HD-FRA3,6511206,123564,,Mike_McCarthy_(Vermont),297998,0
+16005,"Barbara Rachelson",Barbara,,Rachelson,,,1,D,1,Rep,HD-CHI14,9977358,141387,,Barbara_Rachelson,426208,0
+16008,"Tristan Toleno",Tristan,,Toleno,,,1,D,1,Rep,HD-WIN9,13689986,141432,,Tristan_Toleno,426575,0
+17110,"Amy Sheldon",Amy,,Sheldon,,,1,D,1,Rep,HD-ADD1,24802837,154069,,Amy_Sheldon,503281,0
+17111,"Avram Patt",Avram,,Patt,,,1,D,1,Rep,HD-LAM,15120471,154175,,Avram_Patt,503432,0
+17114,"Brian Collamore",Brian,P.,Collamore,,,2,R,2,Sen,SD-RUT,24802818,154049,,Brian_Collamore,503271,0
+17115,"Joseph Troiano",Joseph,,Troiano,,Chip,1,D,1,Rep,HD-CAL2,24821621,154116,,Joseph_Troiano,503303,0
+17118,"Emily Long",Emily,,Long,,,1,D,1,Rep,HD-WIN5,24830217,154223,,Emily_Long,503449,0
+17126,"Laura Sibilia",Laura,,Sibilia,,,3,I,1,Rep,HD-WIN2,26780804,155667,,Laura_Sibilia,503256,0
+17129,"Martin LaLonde",Martin,,LaLonde,,,1,D,1,Rep,HD-CHI12,24821649,154139,,Martin_LaLonde,503330,0
+17130,"Patricia McCoy",Patricia,A.,McCoy,,,2,R,1,Rep,HD-RUT1,24822404,154197,,Patricia_McCoy,503438,0
+17133,"Robin Chesnut-Tangerman",Robin,,Chesnut-Tangerman,,,1,D,1,Rep,HD-RUT,9967809,154205,,Robin_Chesnut-Tangerman,503442,0
+17134,"Rodney Graham",Rodney,,Graham,,,2,R,1,Rep,HD-ORA3,6695891,124764,,Rodney_Graham,297900,0
+17135,"Scott Beck",Scott,,Beck,,,2,R,1,Rep,HD-CAL,26357213,154118,,Scott_Beck,503304,0
+17600,Rules,,,,,,0,,2,Sen,,0,0,,,0,806
+17787,"Theresa Wood",Theresa,,Wood,,,1,D,1,Rep,HD-WAS,6535504,5380,,Theresa_Wood,297925,0
+18572,"Trevor Squirrell",Trevor,,Squirrell,,,1,D,1,Rep,HD-CHI3,40588753,171142,,Trevor_Squirrell,584712,0
+18613,"Brian Smith",Brian,,Smith,,,2,R,1,Rep,HD-ORL1,40588805,171300,,Brian_Smith_(Vermont),584739,0
+18615,"Carol Ode",Carol,,Ode,,,1,D,1,Rep,HD-CHI18,9961680,171144,,Carol_Ode,584713,0
+18915,"Brian Cina",Brian,,Cina,,,1,D,1,Rep,HD-CHI15,40588757,171238,,Brian_Cina,585084,0
+18916,"Curt Taylor",Curt,Duncan,Taylor,,,1,D,1,Rep,HD-CHI20,13689978,141391,,Curt_Taylor,426212,0
+18917,"Daniel Noyes",Daniel,,Noyes,,,1,D,1,Rep,HD-LAM2,40588794,171279,,Daniel_Noyes,585101,0
+18920,"Philip Hooper",Philip,Jay,Hooper,,Jay,1,D,1,Rep,HD-ORA,40588804,171298,,Jay_Hooper,583634,0
+18921,"Jessica Brumsted",Jessica,Comai,Brumsted,,,1,D,1,Rep,HD-CHI7,40588755,171233,,Jessica_Brumsted,585078,0
+18922,"Lori Houghton",Lori,,Houghton,,,1,D,1,Rep,HD-CHI22,40588763,171149,,Lori_Houghton,584718,0
+18924,"Mary Howard",Mary,E.,Howard,,,1,D,1,Rep,HD-RUT6,40588818,171321,,Mary_Howard,585116,0
+18927,"Peter Conlon",Peter,,Conlon,,,1,D,1,Rep,HD-ADD2,18148538,171196,,Peter_Conlon,585058,0
+18928,"Robin Scheu",Robin,,Scheu,,,1,D,1,Rep,HD-ADD1,40588732,171136,,Robin_Scheu,581368,0
+19364,Rules,,,,,,0,,1,Rep,,0,0,,,0,805
+19365,"James Harrison",James,,Harrison,,,2,R,1,Rep,HD-RUT11,15485217,176423,,Jim_Harrison,623180,0
+19484,"Christopher Mattos",Christopher,,Mattos,,,2,R,1,Rep,HD-CHI,44226326,176727,,Chris_Mattos,636337,0
+19486,"Kelly Pajala",Kelly,,Pajala,,,3,I,1,Rep,HD-WIN,44259844,177257,,Kelly_Pajala,647674,0
+20402,"Nader Hashim",Nader,,Hashim,,,1,D,2,Sen,SD-WIN,45364802,184055,,Nader_Hashim,667331,0
+20410,"David Durfee",David,K.,Durfee,,,1,D,1,Rep,HD-BEN3,45364715,183770,,David_Durfee,668712,0
+20412,"Kari Dolan",Katherine,,Dolan,,Kari,1,D,1,Rep,HD-WAS2,45364798,184052,,Kari_Dolan,668751,0
+20413,"Kenneth Goslant",Kenneth,W.,Goslant,,,2,R,1,Rep,HD-WAS1,42672293,184042,,Kenneth_Goslant,668745,0
+20414,"Mari Cordes",Mari,,Cordes,,,1,D,1,Rep,HD-ADD4,41676929,174682,,Mari_Cordes,586111,0
+20415,"Rebecca White",Rebecca,,White,,,1,D,2,Sen,SD-WIN,45364808,184061,,Rebecca_White,668126,0
+20416,"Sarita Austin",Sarah,,Austin,,Sarita,1,D,1,Rep,HD-CHI19,45364738,183956,,Sarita_Austin,668099,0
+20560,"Casey Toof",Casey,,Toof,,,2,R,1,Rep,HD-FRA8,45364749,141401,,Casey_Toof,426225,0
+20561,"Emilie Kornheiser",Emilie,,Kornheiser,,,1,D,1,Rep,HD-WIN7,45364800,184054,,Emilie_Kornheiser,668121,0
+20562,"Woodman Page",Woodman,H.,Page,,Woody,2,R,1,Rep,HD-ORL2,45364774,184030,,Woodman_Page,668113,0
+20625,"James Carroll",James,,Carroll,,Jim,1,D,1,Rep,HD-BEN5,24821148,154087,,Jim_Carroll_(Vermont),503293,0
+20626,"Nelson Brownell",Nelson,,Brownell,,,1,D,1,Rep,HD-BEN1,45364712,183764,,Nelson_Brownell,668710,0
+20627,"Sara Coffey",Sara,,Coffey,,,1,D,1,Rep,HD-WIN1,9958731,184053,,Sara_Coffey,668120,0
+20744,"Andrew Perchlik",Andrew,,Perchlik,,,1,D,2,Sen,SD-WAS,45364703,183725,,Andrew_Perchlik,667285,0
+20746,"Ruth Hardy",Ruth,,Hardy,,,1,D,2,Sen,SD-ADD,41381929,183686,,Ruth_Hardy,668696,0
+20822,"Scott Campbell",Scott,,Campbell,,,1,D,1,Rep,HD-CAL,9964918,171139,,Scott_Campbell_(Vermont),584711,0
+20837,"William Notte",William,,Notte,,,1,D,1,Rep,HD-RUT7,45364782,184037,,William_Notte,668116,0
+20896,"Stephanie Jerome",Stephanie,,Jerome,,,1,D,1,Rep,HD-RUT9,45364784,184039,,Stephanie_Jerome,668117,0
+20937,"Caleb Elder",Caleb,,Elder,,,1,D,1,Rep,HD-ADD4,40281723,183755,,Caleb_Elder,667304,0
+20938,"Carl Demrow",Carl,,Demrow,,,1,D,1,Rep,HD-ORA1,45364765,183982,,Carl_Demrow,668110,0
+20940,"James Gregoire",James,,Gregoire,,,2,R,1,Rep,HD-FRA6,6596978,51254,,James_Gregoire,297894,0
+20941,"John O'Brien",John,,O'Brien,,,1,D,1,Rep,HD-WIN1,45364810,184062,,John_O%27Brien_(Vermont),668765,0
+20943,"Kathleen James",Kathleen,,James,,,1,D,1,Rep,HD-BEN4,37599347,183772,,Kathleen_James,667307,0
+20945,"Logan Nicoll",Logan,,Nicoll,,,1,D,1,Rep,HD-RUT,40588820,171325,,Logan_Nicoll,585119,0
+20948,"Matt Birong",Matthew,,Birong,,Matt,1,D,1,Rep,HD-ADD3,45364709,183744,,Matt_Birong,668093,0
+20950,"Peter Anthony",Peter,D.,Anthony,,,1,D,1,Rep,HD-WAS3,45364792,184045,,Peter_Anthony,668119,0
+20951,"Robert Hooper",Robert,,Hooper,,,1,D,1,Rep,HD-CHI18,13689973,141371,,Robert_Hooper,426204,0
+20952,"Seth Chase",Seth,,Chase,,,1,D,1,Rep,HD-CHI20,45364735,183955,,Seth_Chase,668720,0
+21260,"Lisa Hango",Lisa,,Hango,,,2,R,1,Rep,HD-FRA5,50058002,186181,,Lisa_Hango,697214,0
+21491,"Kristi Morris",Kristi,,Morris,,,1,D,1,Rep,HD-WIN3,50058073,186812,,Kristi_Morris,713838,0
+21640,Appropriations,,,,,,0,,2,Sen,,0,0,,,0,795
+22120,"Tanya Vyhovsky",Tanya,,Vyhovsky,,,1,D,2,Sen,SD-CHI,45364733,183949,,Tanya_Vyhovsky,668718,0
+22146,"Alyssa Black",Alyssa,,Black,,,1,D,1,Rep,HD-CHI24,50057989,194326,,Alyssa_Black,741740,0
+22147,"Dane Whitman",Dane,,Whitman,,,1,D,1,Rep,HD-BEN2,50057942,194216,,Dane_Whitman,741730,0
+22148,"Elizabeth Burrows",Elizabeth,,Burrows,,,1,D,1,Rep,HD-WIN1,50058068,194350,,Elizabeth_Burrows,741745,0
+22149,"Emma Mulvaney-Stanak",Emma,,Mulvaney-Stanak,,,1,D,1,Rep,HD-CHI17,41382081,114194,,Emma_Mulvaney-Stanak,742846,0
+22150,"Erin Brady",Erin,,Brady,,,1,D,1,Rep,HD-CHI2,50057971,194267,,Erin_Brady,742835,0
+22151,"Gabrielle Stebbins",Gabrielle,,Stebbins,,,1,D,1,Rep,HD-CHI13,33880542,194278,,Gabrielle_Stebbins,742850,0
+22152,"Heather Surprenant",Heather,,Surprenant,,,1,D,1,Rep,HD-WIN4,50058075,194358,,Heather_Surprenant,743119,0
+22153,"Henry Pearl",Henry,,Pearl,,,1,D,1,Rep,HD-CAL,50057960,194234,,Henry_Pearl,742833,0
+22154,"Jana Brown",Jana,,Brown,,,1,D,1,Rep,HD-CHI1,48126820,194237,,Jana_Brown,742834,0
+22155,"Karen Dolan",Karen,,Dolan,,,1,D,1,Rep,HD-CHI22,49656351,194287,,Karen_Dolan,741209,0
+22156,"Katherine Donnally","Katherine ",,Donnally,,Kate,1,D,1,Rep,HD-LAM2,50058005,194345,,Kate_Donnally,742993,0
+22157,"Katherine Sims",Katherine,,Sims,,,1,D,1,Rep,HD-ORL4,13690115,141417,,Katherine_Sims,426553,0
+22158,"Kirk White",Kirk,,White,,,1,D,1,Rep,HD-WIN,50058083,194330,,Kirk_White,743128,0
+22159,"Lawrence Satcowitz",Lawrence,,Satcowitz,,Larry,1,D,1,Rep,HD-ORA,45364769,184027,,Larry_Satcowitz,668736,0
+22160,"Leslie Goldman",Leslie,,Goldman,,,1,D,1,Rep,HD-WIN3,39706359,194339,,Leslie_Goldman,743093,0
+22162,"Michelle Bos-Lun",Michelle,,Bos-Lun,,,1,D,1,Rep,HD-WIN3,50058061,194340,,Michelle_Bos-Lun,741283,0
+22163,"John Arrison",John,,Arrison,,,1,D,1,Rep,HD-WIN2,52487167,195337,,John_Arrison,754304,0
+22164,"Seth Bongartz",Seth,,Bongartz,,,1,D,1,Rep,HD-BEN4,15433713,13217,,Seth_Bongartz,741202,0
+22165,"Taylor Small",Taylor,,Small,,,1,D,1,Rep,HD-CHI21,50057983,194283,,Taylor_Small,742855,0
+22166,"Tiffany Bluemle",Tiffany,W.,Bluemle,,Tiff,1,D,1,Rep,HD-CHI13,9961593,194275,,Tiff_Bluemle,741785,0
+22352,"Russ Ingalls",Russell,H.,Ingalls,,Russ,2,R,2,Sen,SD-ESS,50057995,194123,,Russ_Ingalls,742803,0
+22490,"Thomas Chittenden",Thomas,,Chittenden,,,1,D,2,Sen,SD-CHI,49450206,192505,,Thomas_Chittenden,741231,0
+22534,"Arthur Peterson",Arthur,,Peterson,,,2,R,1,Rep,HD-RUT2,50058026,194277,,Arthur_Peterson,743071,0
+22535,"Michael Morgan",Michael,R.,Morgan,,,2,R,1,Rep,HD-GRA,45364758,183974,,Michael_Morgan_(Vermont),668728,0
+22673,"Robert Norris",Robert,W.,Norris,,,2,R,2,Sen,SD-FRA,50058001,194367,,Robert_Norris,742872,0
+22674,"Terri Williams",Terri,Lynn,Williams,,,2,R,1,Rep,HD-ESS,50057994,194335,,Terri_Williams_(Vermont),742865,0
+22729,"Joseph Parsons",Joseph,,Parsons,,Joe,2,R,1,Rep,HD-ORA,40588803,171295,,Joseph_Parsons,582313,0
+23007,"Larry Labor",Larry,,Labor,,,2,R,1,Rep,HD-ESS,54453472,201408,,Larry_Labor,793459,0
+23051,"Rey Garofano",Golrang,,Garofano,,Rey,1,D,1,Rep,HD-CHI23,0,201414,,Golrang_Garofano,795299,0
+23080,"Matt Walker",Matthew,,Walker,,Matt,2,R,1,Rep,HD-FRA4,0,201468,,Matthew_Walker,796177,0
+23098,"Wayne Laroche",Wayne,,Laroche,,,2,R,1,Rep,HD-FRA5,55692708,202093,,Wayne_Laroche,798600,0
+23554,"Jonathan Williams",Jonathan,,Williams,,,1,D,1,Rep,HD-WAS3,55692776,207596,,Jonathan_Williams_(Vermont),813203,0
+23752,"Martine Gulick",Martine,Larocque,Gulick,,,1,D,2,Sen,SD-CHI,55692849,0,,Martine_Gulick,0,0
+23753,"Anne Watson",Anne,,Watson,,,1,D,2,Sen,SD-WAS,55692883,161660,,Anne_Watson,812933,0
+23982,"Conor Casey",Conor,,Casey,,,1,D,1,Rep,HD-WAS4,55692777,187116,,Conor_Casey,813204,0
+23983,"Kate McCann",Kate,,McCann,,,1,D,1,Rep,HD-WAS4,55692779,207626,,Kate_McCann,813206,0
+24182,"Government Operations and Military Affairs",,,,,,0,,1,Rep,,0,0,,,0,4658
+24256,"David Templeman",David,,Templeman,,,1,D,1,Rep,HD-ORL3,56898275,211161,,David_Templeman,819617,0
+24257,"Bobby Farlice-Rubio",Robert,,Farlice-Rubio,,Bobby,1,D,1,Rep,HD-CAL1,55692637,210406,,Bobby_Farlice-Rubio,813010,0
+24521,"Edye Graning",Edye,,Graning,,,1,D,1,Rep,HD-CHI3,55692680,207576,,Edye_Graning,813028,0
+24522,"Esme Cole",Esme,,Cole,,,1,D,1,Rep,HD-WIN6,55692820,210313,,Esme_Cole,813233,0
+24523,"Heather Chase",Heather,,Chase,,,1,D,1,Rep,HD-WIN,55692827,207639,,Heather_Chase,813238,0
+24524,"Joseph Andriano",Joseph,,Andriano,,,1,D,1,Rep,HD-ADD,55692624,210403,,Joseph_Andriano,813000,0
+24525,"Jubilee McGill",Jubilee,,McGill,,,1,D,1,Rep,HD-ADD5,55692623,194212,,Jubilee_McGill,742820,0
+24526,"Kate Logan",Kate,,Logan,,,1,D,1,Rep,HD-CHI16,55692658,210300,,Kate_Logan,813053,0
+24527,"Monique Priestley",Monique,,Priestley,,,1,D,1,Rep,HD-ORA2,55692733,207587,,Monique_Priestley,813184,0
+24528,"Noah Hyman",Noah,,Hyman,,,1,D,1,Rep,HD-CHI8,55692689,210293,,Noah_Hyman,813035,0
+24529,"Phil Pouech",Phil,,Pouech,,,1,D,1,Rep,HD-CHI4,55692683,210290,,Phil_Pouech,0,0
+24530,"Tesha Buss",Tesha,,Buss,,,1,D,1,Rep,HD-WIN5,55692817,207637,,Tesha_Buss,813231,0
+24531,"Tristan Roberts",Tristan,D.,Roberts,,,1,D,1,Rep,HD-WIN6,55692805,207636,,Tristan_Roberts,813225,0
+24550,"Julia Andrews",Julia,,Andrews,,,1,D,1,Rep,HD-CHI25,55692678,0,,Julia_Andrews,813063,0
+24551,"Angela Arsenault",Angela,,Arsenault,,,1,D,1,Rep,HD-CHI2,55692664,207575,,Angela_Arsenault,0,0
+24552,"Daisy Berbeco",Daisy,,Berbeco,,,1,D,1,Rep,HD-CHI21,55692669,210301,,Daisy_Berbeco,0,0
+24553,"Lucy Boyden",Lucy,,Boyden,,,1,D,1,Rep,HD-LAM3,55692723,207582,,Lucy_Boyden,0,0
+24554,"Ela Chapin",Elanor,,Chapin,,Ela,1,D,1,Rep,HD-WAS5,55692783,207629,,Elanor_Chapin,0,0
+24555,"Paul Clifford",Paul,,Clifford,,,2,R,1,Rep,HD-RUT4,55692758,207591,,Paul_Clifford,0,0
+24556,"Leonora Dodge",Leonora,,Dodge,,,1,D,1,Rep,HD-CHI23,55692674,210303,,Leonora_Dodge,0,0
+24557,"Wendy Harrison",Wendy,,Harrison,,,1,D,2,Sen,SD-WIN,55692886,0,,Wendy_Harrison,812936,0
+24558,"Troy Headrick",Troy,,Headrick,,,1,D,1,Rep,HD-CHI15,55692655,210298,,Troy_Headrick,0,0
+24559,"Rebecca Holcombe",Rebecca,,Holcombe,,,1,D,1,Rep,HD-WIN2,55692824,145405,,Rebecca_Holcombe,0,0
+24560,"Emilie Krasnow",Emilie,,Krasnow,,,1,D,1,Rep,HD-CHI9,55692690,210294,,Emily_Krasnow,0,0
+24561,"Dennis Labounty",Dennis,,Labounty,,,1,D,1,Rep,HD-CAL3,55692640,171218,,Dennis_Labounty,0,0
+24562,"Kate Lalley",Kate,,Lalley,,,1,D,1,Rep,HD-CHI6,55692687,210292,,Kate_Lalley,0,0
+24563,"Saudia Lamont",Saudia,,Lamont,,,1,D,1,Rep,HD-LAM,55692725,207584,,Saudia_Lamont,0,0
+24564,"Josie Leavitt",Josie,,Leavitt,,,1,D,1,Rep,HD-GRA,51730493,0,,Josie_Leavitt,0,0
+24565,"Jed Lipsky",Jed,,Lipsky,,,3,I,1,Rep,HD-LAM1,56887558,210422,,Jed_Lipsky,0,0
+24566,"Marc Mihaly",Marc,B.,Mihaly,,,1,D,1,Rep,HD-WAS6,55692786,207631,,Marc_Mihaly,0,0
+24567,"Brian Minier",Brian,,Minier,,,1,D,1,Rep,HD-CHI11,55692648,210296,,Brian_Minier,0,0
+24568,"Kate Nugent",Kate,,Nugent,,,1,D,1,Rep,HD-CHI10,55692647,210295,,Kate_Nugent,0,0
+24569,"Mike Rice",Mike,,Rice,,,1,D,1,Rep,HD-BEN,55692636,0,,Mike_Rice_(Vermont),0,0
+24570,"Mary-Katherine Stone",Mary-Katherine,,Stone,,,1,D,1,Rep,HD-CHI14,55692653,210297,,Mary-Katherine_Stone,0,0
+24571,"Christoper Taylor",Christoper,,Taylor,,Chris,2,R,1,Rep,HD-CHI,55692692,0,,Chris_Taylor_(Vermont),813069,0
+24572,"Dara Torre",Dara,,Torre,,,1,D,1,Rep,HD-WAS2,55692771,207593,,Dara_Torre,0,0
+24573,"Chea Evans",Chea,,"Waters Evans",,,1,D,1,Rep,HD-CHI5,55692685,210291,,Chea_Waters_Evans,0,0
+24574,"Charles Wilson",Charles,,Wilson,,,2,R,1,Rep,HD-CAL3,55692641,192502,,Charles_Wilson_(Vermont),742739,0
+24575,"Irene Wrenner",Irene,,Wrenner,,,1,D,2,Sen,SD-CHI,55692854,207557,,Irene_Wrenner,0,0
+24576,"Ashley Bartley",Ashley,R.,Bartley,,,2,R,1,Rep,HD-FRA1,55692698,0,,Ashley_Bartley,0,0
+24577,"Allen Demar",Allen,,Demar,,Penny,2,R,1,Rep,HD-FRA7,55692711,210411,,Allen_Demar,0,0
+24578,"Gina Galfetti",Gina,M.,Galfetti,,,2,R,1,Rep,HD-WAS,55692793,210310,,Gina_Galfetti,0,0
+24580,"Eric Maguire",Eric,,Maguire,,,2,R,1,Rep,HD-RUT5,55692759,210309,,Eric_Maguire,0,0
+24581,"Thomas Oliver",Thomas,,Oliver,,,2,R,1,Rep,HD-FRA4,55692705,207578,,Thomas_Oliver,0,0
+24582,"Jarrod Sammis",Jarrod,E.,Sammis,,,2,R,1,Rep,HD-RUT3,55692757,0,,Jarrod_Sammis,0,0
+24583,"David Weeks",David,Dave,Weeks,,,2,R,2,Sen,SD-RUT,55692875,0,,David_Weeks_(Vermont),0,0
+24584,"Terry Williams",Terry,K.,Williams,,,2,R,2,Sen,SD-RUT,55692876,0,,Terry_Williams_(Vermont),667277,0
+24872,"Agriculture, Food Resiliency, and Forestry",,,,,,0,,1,Rep,,0,0,,,0,4753
+24928,"Melanie Carpenter",Melanie,,Carpenter,,,1,D,1,Rep,HD-LAM2,0,0,,,0,0
+25175,"Beth Quimby",Beth,,Quimby,,,2,R,1,Rep,HD-CAL3,0,0,,,0,0
+25200,"Abbey Duke",Abbey,,Duke,,,1,D,1,Rep,HD-CHI17,41382081,0,,,0,0
+25205,"Andy Julow",Andrew,,Julow,,Andy,1,D,2,Sen,SD-GRA,50058004,171271,,Andrew_Julow,0,0

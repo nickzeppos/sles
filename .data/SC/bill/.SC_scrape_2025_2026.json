@@ -1,0 +1,1238 @@
+{
+  "term": "2025_2026",
+  "session": {
+    "id": "126",
+    "label": "2025-2026"
+  },
+  "sponsors": [
+    {
+      "id": "11363635",
+      "chamber": "H",
+      "name": "Representative Alexander"
+    },
+    {
+      "id": "21590907",
+      "chamber": "H",
+      "name": "Representative Anderson"
+    },
+    {
+      "id": "66477265",
+      "chamber": "H",
+      "name": "Representative Atkinson"
+    },
+    {
+      "id": "88636353",
+      "chamber": "H",
+      "name": "Representative Bailey"
+    },
+    {
+      "id": "102272715",
+      "chamber": "H",
+      "name": "Representative Ballentine"
+    },
+    {
+      "id": "102840897",
+      "chamber": "H",
+      "name": "Representative Bamberg"
+    },
+    {
+      "id": "103409079",
+      "chamber": "H",
+      "name": "Representative Bannister"
+    },
+    {
+      "id": "125568167",
+      "chamber": "H",
+      "name": "Representative Bauer"
+    },
+    {
+      "id": "129545439",
+      "chamber": "H",
+      "name": "Representative Beach"
+    },
+    {
+      "id": "141477256",
+      "chamber": "H",
+      "name": "Representative Bernstein"
+    },
+    {
+      "id": "169318162",
+      "chamber": "H",
+      "name": "Representative Bowers"
+    },
+    {
+      "id": "171590889",
+      "chamber": "H",
+      "name": "Representative Bradley"
+    },
+    {
+      "id": "192045432",
+      "chamber": "H",
+      "name": "Representative Brewer"
+    },
+    {
+      "id": "202272703",
+      "chamber": "H",
+      "name": "Representative Brittain"
+    },
+    {
+      "id": "257954515",
+      "chamber": "H",
+      "name": "Representative Burns"
+    },
+    {
+      "id": "278409057",
+      "chamber": "H",
+      "name": "Representative Bustos"
+    },
+    {
+      "id": "293181783",
+      "chamber": "H",
+      "name": "Representative Calhoon"
+    },
+    {
+      "id": "329545415",
+      "chamber": "H",
+      "name": "Representative Caskey"
+    },
+    {
+      "id": "347727231",
+      "chamber": "H",
+      "name": "Representative Chapman"
+    },
+    {
+      "id": "351704504",
+      "chamber": "H",
+      "name": "Representative Chumley"
+    },
+    {
+      "id": "363636320",
+      "chamber": "H",
+      "name": "Representative Clyburn"
+    },
+    {
+      "id": "372727228",
+      "chamber": "H",
+      "name": "Representative Cobb-Hunter"
+    },
+    {
+      "id": "388636317",
+      "chamber": "H",
+      "name": "Representative Collins"
+    },
+    {
+      "id": "428124949",
+      "chamber": "H",
+      "name": "Representative Cox"
+    },
+    {
+      "id": "427840858",
+      "chamber": "H",
+      "name": "Representative B.J. Cox"
+    },
+    {
+      "id": "428977222",
+      "chamber": "H",
+      "name": "Representative Crawford"
+    },
+    {
+      "id": "434090857",
+      "chamber": "H",
+      "name": "Representative Cromer"
+    },
+    {
+      "id": "456249946",
+      "chamber": "H",
+      "name": "Representative Davis"
+    },
+    {
+      "id": "479545397",
+      "chamber": "H",
+      "name": "Representative Dillard"
+    },
+    {
+      "id": "502272667",
+      "chamber": "H",
+      "name": "Representative Duncan"
+    },
+    {
+      "id": "522159029",
+      "chamber": "H",
+      "name": "Representative Edgerton"
+    },
+    {
+      "id": "539772663",
+      "chamber": "H",
+      "name": "Representative Erickson"
+    },
+    {
+      "id": "605681746",
+      "chamber": "H",
+      "name": "Representative Ford"
+    },
+    {
+      "id": "608238564",
+      "chamber": "H",
+      "name": "Representative Forrest"
+    },
+    {
+      "id": "614772654",
+      "chamber": "H",
+      "name": "Representative Frank"
+    },
+    {
+      "id": "632954470",
+      "chamber": "H",
+      "name": "Representative Gagnon"
+    },
+    {
+      "id": "657954467",
+      "chamber": "H",
+      "name": "Representative Garvin"
+    },
+    {
+      "id": "658522648",
+      "chamber": "H",
+      "name": "Representative Gatch"
+    },
+    {
+      "id": "667045375",
+      "chamber": "H",
+      "name": "Representative Gibson"
+    },
+    {
+      "id": "675426055",
+      "chamber": "H",
+      "name": "Representative Gilliam"
+    },
+    {
+      "id": "675568101",
+      "chamber": "H",
+      "name": "Representative Gilliard"
+    },
+    {
+      "id": "675852192",
+      "chamber": "H",
+      "name": "Representative Gilreath"
+    },
+    {
+      "id": "702272643",
+      "chamber": "H",
+      "name": "Representative Govan"
+    },
+    {
+      "id": "705681734",
+      "chamber": "H",
+      "name": "Representative Grant"
+    },
+    {
+      "id": "730113549",
+      "chamber": "H",
+      "name": "Representative Guest"
+    },
+    {
+      "id": "730681731",
+      "chamber": "H",
+      "name": "Representative Guffey"
+    },
+    {
+      "id": "733806731",
+      "chamber": "H",
+      "name": "Representative Haddon"
+    },
+    {
+      "id": "733948776",
+      "chamber": "H",
+      "name": "Representative Hager"
+    },
+    {
+      "id": "743749911",
+      "chamber": "H",
+      "name": "Representative Hardee"
+    },
+    {
+      "id": "764772636",
+      "chamber": "H",
+      "name": "Representative Harris"
+    },
+    {
+      "id": "770454453",
+      "chamber": "H",
+      "name": "Representative Hart"
+    },
+    {
+      "id": "774999907",
+      "chamber": "H",
+      "name": "Representative Hartnett"
+    },
+    {
+      "id": "776136271",
+      "chamber": "H",
+      "name": "Representative Hartz"
+    },
+    {
+      "id": "802272631",
+      "chamber": "H",
+      "name": "Representative Hayes"
+    },
+    {
+      "id": "824999901",
+      "chamber": "H",
+      "name": "Representative Henderson-Myers"
+    },
+    {
+      "id": "832954446",
+      "chamber": "H",
+      "name": "Representative Herbkersman"
+    },
+    {
+      "id": "834658991",
+      "chamber": "H",
+      "name": "Representative Hewitt"
+    },
+    {
+      "id": "848863535",
+      "chamber": "H",
+      "name": "Representative Hiott"
+    },
+    {
+      "id": "849715808",
+      "chamber": "H",
+      "name": "Representative Hixon"
+    },
+    {
+      "id": "867045351",
+      "chamber": "H",
+      "name": "Representative Holman"
+    },
+    {
+      "id": "874999895",
+      "chamber": "H",
+      "name": "Representative Hosey"
+    },
+    {
+      "id": "879545349",
+      "chamber": "H",
+      "name": "Representative Howard"
+    },
+    {
+      "id": "893181711",
+      "chamber": "H",
+      "name": "Representative Huff"
+    },
+    {
+      "id": "938636251",
+      "chamber": "H",
+      "name": "Representative J.E. Johnson"
+    },
+    {
+      "id": "943181705",
+      "chamber": "H",
+      "name": "Representative J.L. Johnson"
+    },
+    {
+      "id": "953408977",
+      "chamber": "H",
+      "name": "Representative Jones"
+    },
+    {
+      "id": "957954431",
+      "chamber": "H",
+      "name": "Representative Jordan"
+    },
+    {
+      "id": "993323745",
+      "chamber": "H",
+      "name": "Representative Kilmartin"
+    },
+    {
+      "id": "1002272607",
+      "chamber": "H",
+      "name": "Representative King"
+    },
+    {
+      "id": "1006818061",
+      "chamber": "H",
+      "name": "Representative Kirby"
+    },
+    {
+      "id": "1066477145",
+      "chamber": "H",
+      "name": "Representative Landing"
+    },
+    {
+      "id": "1066761236",
+      "chamber": "H",
+      "name": "Representative Lastinger"
+    },
+    {
+      "id": "1067613508",
+      "chamber": "H",
+      "name": "Representative Lawson"
+    },
+    {
+      "id": "1087499870",
+      "chamber": "H",
+      "name": "Representative Ligon"
+    },
+    {
+      "id": "1120454411",
+      "chamber": "H",
+      "name": "Representative Long"
+    },
+    {
+      "id": "1125568047",
+      "chamber": "H",
+      "name": "Representative Lowe"
+    },
+    {
+      "id": "1126420320",
+      "chamber": "H",
+      "name": "Representative Luck"
+    },
+    {
+      "id": "1130965774",
+      "chamber": "H",
+      "name": "Representative Magnuson"
+    },
+    {
+      "id": "1157954407",
+      "chamber": "H",
+      "name": "Representative Martin"
+    },
+    {
+      "id": "1195454402",
+      "chamber": "H",
+      "name": "Representative May"
+    },
+    {
+      "id": "1206818037",
+      "chamber": "H",
+      "name": "Representative McCabe"
+    },
+    {
+      "id": "1217045309",
+      "chamber": "H",
+      "name": "Representative McCravy"
+    },
+    {
+      "id": "1221590763",
+      "chamber": "H",
+      "name": "Representative McDaniel"
+    },
+    {
+      "id": "1256818031",
+      "chamber": "H",
+      "name": "Representative McGinnis"
+    },
+    {
+      "id": "1344033930",
+      "chamber": "H",
+      "name": "Representative C. Mitchell"
+    },
+    {
+      "id": "1344175976",
+      "chamber": "H",
+      "name": "Representative D. Mitchell"
+    },
+    {
+      "id": "1351704384",
+      "chamber": "H",
+      "name": "Representative Montgomery"
+    },
+    {
+      "id": "1356818019",
+      "chamber": "H",
+      "name": "Representative J. Moore"
+    },
+    {
+      "id": "1365908927",
+      "chamber": "H",
+      "name": "Representative T. Moore"
+    },
+    {
+      "id": "1374999835",
+      "chamber": "H",
+      "name": "Representative Morgan"
+    },
+    {
+      "id": "1379545289",
+      "chamber": "H",
+      "name": "Representative Moss"
+    },
+    {
+      "id": "1394318015",
+      "chamber": "H",
+      "name": "Representative Murphy"
+    },
+    {
+      "id": "1403977105",
+      "chamber": "H",
+      "name": "Representative Neese"
+    },
+    {
+      "id": "1418607785",
+      "chamber": "H",
+      "name": "Representative B. Newton"
+    },
+    {
+      "id": "1418749830",
+      "chamber": "H",
+      "name": "Representative W. Newton"
+    },
+    {
+      "id": "1432386192",
+      "chamber": "H",
+      "name": "Representative Oremus"
+    },
+    {
+      "id": "1433984204",
+      "chamber": "H",
+      "name": "Representative Pace"
+    },
+    {
+      "id": "1453408917",
+      "chamber": "H",
+      "name": "Representative Pedalino"
+    },
+    {
+      "id": "1484090731",
+      "chamber": "H",
+      "name": "Representative Pope"
+    },
+    {
+      "id": "1510227092",
+      "chamber": "H",
+      "name": "Representative Rankin"
+    },
+    {
+      "id": "1527840726",
+      "chamber": "H",
+      "name": "Representative Reese"
+    },
+    {
+      "id": "1564346404",
+      "chamber": "H",
+      "name": "Representative Rivers"
+    },
+    {
+      "id": "1565340722",
+      "chamber": "H",
+      "name": "Representative Robbins"
+    },
+    {
+      "id": "1584090719",
+      "chamber": "H",
+      "name": "Representative Rose"
+    },
+    {
+      "id": "1614772534",
+      "chamber": "H",
+      "name": "Representative Rutherford"
+    },
+    {
+      "id": "1624999805",
+      "chamber": "H",
+      "name": "Representative Sanders"
+    },
+    {
+      "id": "1635227077",
+      "chamber": "H",
+      "name": "Representative Schuessler"
+    },
+    {
+      "id": "1645738439",
+      "chamber": "H",
+      "name": "Representative Scott"
+    },
+    {
+      "id": "1649715712",
+      "chamber": "H",
+      "name": "Representative Sessions"
+    },
+    {
+      "id": "1703408887",
+      "chamber": "H",
+      "name": "Representative G.M. Smith"
+    },
+    {
+      "id": "1724999793",
+      "chamber": "H",
+      "name": "Representative M.M. Smith"
+    },
+    {
+      "id": "1742897519",
+      "chamber": "H",
+      "name": "Representative Spann-Wilder"
+    },
+    {
+      "id": "1747727063",
+      "chamber": "H",
+      "name": "Representative Stavrinakis"
+    },
+    {
+      "id": "1811363419",
+      "chamber": "H",
+      "name": "Representative Taylor"
+    },
+    {
+      "id": "1812215692",
+      "chamber": "H",
+      "name": "Representative Teeple"
+    },
+    {
+      "id": "1812357738",
+      "chamber": "H",
+      "name": "Representative Terribile"
+    },
+    {
+      "id": "1865908867",
+      "chamber": "H",
+      "name": "Representative Vaughan"
+    },
+    {
+      "id": "1896590682",
+      "chamber": "H",
+      "name": "Representative Waters"
+    },
+    {
+      "id": "1898863409",
+      "chamber": "H",
+      "name": "Representative Weeks"
+    },
+    {
+      "id": "1905681590",
+      "chamber": "H",
+      "name": "Representative Wetmore"
+    },
+    {
+      "id": "1907386135",
+      "chamber": "H",
+      "name": "Representative Wheeler"
+    },
+    {
+      "id": "1912499771",
+      "chamber": "H",
+      "name": "Representative White"
+    },
+    {
+      "id": "1914204316",
+      "chamber": "H",
+      "name": "Representative Whitmire"
+    },
+    {
+      "id": "1914630453",
+      "chamber": "H",
+      "name": "Representative Wickensimer"
+    },
+    {
+      "id": "1942045222",
+      "chamber": "H",
+      "name": "Representative Williams"
+    },
+    {
+      "id": "1942613404",
+      "chamber": "H",
+      "name": "Representative Willis"
+    },
+    {
+      "id": "1978408854",
+      "chamber": "H",
+      "name": "Representative Wooten"
+    },
+    {
+      "id": "1998863577",
+      "chamber": "H",
+      "name": "Representative Yow"
+    },
+    {
+      "id": "2000000050",
+      "chamber": "H",
+      "name": "House Agr., Nat. Res. & Environ. Affrs."
+    },
+    {
+      "id": "2000000100",
+      "chamber": "H",
+      "name": "House Ed. and Public Works"
+    },
+    {
+      "id": "2000000125",
+      "chamber": "H",
+      "name": "House Ethics Com."
+    },
+    {
+      "id": "2000000235",
+      "chamber": "H",
+      "name": "House Gov't. Efficiency and Leg. Oversight"
+    },
+    {
+      "id": "2000000150",
+      "chamber": "H",
+      "name": "House Interstate Cooperation Com."
+    },
+    {
+      "id": "2000000175",
+      "chamber": "H",
+      "name": "House Invitations and Memorial Res. Com."
+    },
+    {
+      "id": "2000000200",
+      "chamber": "H",
+      "name": "House Judiciary"
+    },
+    {
+      "id": "2000000225",
+      "chamber": "H",
+      "name": "House Labor, Commerce and Industry"
+    },
+    {
+      "id": "2000000250",
+      "chamber": "H",
+      "name": "House Med., Mil., Public & Mun. Affrs."
+    },
+    {
+      "id": "2000000275",
+      "chamber": "H",
+      "name": "House Operations and Management"
+    },
+    {
+      "id": "2000000285",
+      "chamber": "H",
+      "name": "House Reg., Admin. Proc., AI and Cybersecurity"
+    },
+    {
+      "id": "2000000300",
+      "chamber": "H",
+      "name": "House Rules"
+    },
+    {
+      "id": "2000000325",
+      "chamber": "H",
+      "name": "House Ways and Means"
+    },
+    {
+      "id": "2272727",
+      "chamber": "S",
+      "name": "Senator Adams"
+    },
+    {
+      "id": "13636362",
+      "chamber": "S",
+      "name": "Senator Alexander"
+    },
+    {
+      "id": "15340908",
+      "chamber": "S",
+      "name": "Senator Allen"
+    },
+    {
+      "id": "141193165",
+      "chamber": "S",
+      "name": "Senator Bennett"
+    },
+    {
+      "id": "143749983",
+      "chamber": "S",
+      "name": "Senator Blackmon"
+    },
+    {
+      "id": "193181795",
+      "chamber": "S",
+      "name": "Senator Bright"
+    },
+    {
+      "id": "302272691",
+      "chamber": "S",
+      "name": "Senator Campsen"
+    },
+    {
+      "id": "328409052",
+      "chamber": "S",
+      "name": "Senator Cash"
+    },
+    {
+      "id": "346590868",
+      "chamber": "S",
+      "name": "Senator Chaplin"
+    },
+    {
+      "id": "356818139",
+      "chamber": "S",
+      "name": "Senator Climer"
+    },
+    {
+      "id": "402272679",
+      "chamber": "S",
+      "name": "Senator Corbin"
+    },
+    {
+      "id": "438636311",
+      "chamber": "S",
+      "name": "Senator Cromer"
+    },
+    {
+      "id": "456818127",
+      "chamber": "S",
+      "name": "Senator Davis"
+    },
+    {
+      "id": "477840852",
+      "chamber": "S",
+      "name": "Senator Devine"
+    },
+    {
+      "id": "529545391",
+      "chamber": "S",
+      "name": "Senator Elliott"
+    },
+    {
+      "id": "574999931",
+      "chamber": "S",
+      "name": "Senator Fernandez"
+    },
+    {
+      "id": "635227197",
+      "chamber": "S",
+      "name": "Senator Gambrell"
+    },
+    {
+      "id": "638636287",
+      "chamber": "S",
+      "name": "Senator Garrett"
+    },
+    {
+      "id": "682386282",
+      "chamber": "S",
+      "name": "Senator Goldfinch"
+    },
+    {
+      "id": "703124916",
+      "chamber": "S",
+      "name": "Senator Graham"
+    },
+    {
+      "id": "729545367",
+      "chamber": "S",
+      "name": "Senator Grooms"
+    },
+    {
+      "id": "819318084",
+      "chamber": "S",
+      "name": "Senator Hembree"
+    },
+    {
+      "id": "912499891",
+      "chamber": "S",
+      "name": "Senator Hutto"
+    },
+    {
+      "id": "920454435",
+      "chamber": "S",
+      "name": "Senator Jackson"
+    },
+    {
+      "id": "949431704",
+      "chamber": "S",
+      "name": "Senator Johnson"
+    },
+    {
+      "id": "984090791",
+      "chamber": "S",
+      "name": "Senator Kennedy"
+    },
+    {
+      "id": "993465790",
+      "chamber": "S",
+      "name": "Senator Kimbrell"
+    },
+    {
+      "id": "1074431690",
+      "chamber": "S",
+      "name": "Senator Leber"
+    },
+    {
+      "id": "1179545313",
+      "chamber": "S",
+      "name": "Senator Martin"
+    },
+    {
+      "id": "1185227131",
+      "chamber": "S",
+      "name": "Senator Massey"
+    },
+    {
+      "id": "194318159",
+      "chamber": "S",
+      "name": "Senator Matthews"
+    },
+    {
+      "id": "1424999829",
+      "chamber": "S",
+      "name": "Senator Nutt"
+    },
+    {
+      "id": "1433096420",
+      "chamber": "S",
+      "name": "Senator Ott"
+    },
+    {
+      "id": "1454545280",
+      "chamber": "S",
+      "name": "Senator Peeler"
+    },
+    {
+      "id": "1511363455",
+      "chamber": "S",
+      "name": "Senator Rankin"
+    },
+    {
+      "id": "1528408908",
+      "chamber": "S",
+      "name": "Senator Reichenbach"
+    },
+    {
+      "id": "1547727087",
+      "chamber": "S",
+      "name": "Senator Rice"
+    },
+    {
+      "id": "1617045261",
+      "chamber": "S",
+      "name": "Senator Sabb"
+    },
+    {
+      "id": "1780681605",
+      "chamber": "S",
+      "name": "Senator Stubbs"
+    },
+    {
+      "id": "1782954332",
+      "chamber": "S",
+      "name": "Senator Sutton"
+    },
+    {
+      "id": "1811931601",
+      "chamber": "S",
+      "name": "Senator Tedder"
+    },
+    {
+      "id": "1847727051",
+      "chamber": "S",
+      "name": "Senator Turner"
+    },
+    {
+      "id": "1874999775",
+      "chamber": "S",
+      "name": "Senator Verdin"
+    },
+    {
+      "id": "1889772501",
+      "chamber": "S",
+      "name": "Senator Walker"
+    },
+    {
+      "id": "1938636131",
+      "chamber": "S",
+      "name": "Senator Williams"
+    },
+    {
+      "id": "1996590730",
+      "chamber": "S",
+      "name": "Senator Young"
+    },
+    {
+      "id": "1999431789",
+      "chamber": "S",
+      "name": "Senator Zell"
+    },
+    {
+      "id": "2000000375",
+      "chamber": "S",
+      "name": "Senate Agriculture and Natural Resources"
+    },
+    {
+      "id": "2000000450",
+      "chamber": "S",
+      "name": "Senate Banking and Insurance"
+    },
+    {
+      "id": "2000000500",
+      "chamber": "S",
+      "name": "Senate Corrections and Penology"
+    },
+    {
+      "id": "2000000525",
+      "chamber": "S",
+      "name": "Senate Education"
+    },
+    {
+      "id": "2000000575",
+      "chamber": "S",
+      "name": "Senate Ethics"
+    },
+    {
+      "id": "2000000588",
+      "chamber": "S",
+      "name": "Senate Family and Veterans' Services"
+    },
+    {
+      "id": "2000000625",
+      "chamber": "S",
+      "name": "Senate Finance"
+    },
+    {
+      "id": "2000000650",
+      "chamber": "S",
+      "name": "Senate Fish, Game and Forestry"
+    },
+    {
+      "id": "2000000750",
+      "chamber": "S",
+      "name": "Senate Interstate Cooperation"
+    },
+    {
+      "id": "2000000800",
+      "chamber": "S",
+      "name": "Senate Judiciary"
+    },
+    {
+      "id": "2000000825",
+      "chamber": "S",
+      "name": "Senate Labor, Commerce and Industry"
+    },
+    {
+      "id": "2000000863",
+      "chamber": "S",
+      "name": "Senate Legislative Oversight"
+    },
+    {
+      "id": "2000000900",
+      "chamber": "S",
+      "name": "Senate Medical Affairs"
+    },
+    {
+      "id": "2000000963",
+      "chamber": "S",
+      "name": "Senate Operations and Management"
+    },
+    {
+      "id": "2000001025",
+      "chamber": "S",
+      "name": "Senate Rules"
+    },
+    {
+      "id": "2000001100",
+      "chamber": "S",
+      "name": "Senate Transportation"
+    }
+  ],
+  "counts": {
+    "H_11363635": 16,
+    "H_21590907": 14,
+    "H_66477265": 9,
+    "H_88636353": 13,
+    "H_102272715": 20,
+    "H_102840897": 10,
+    "H_103409079": 22,
+    "H_125568167": 15,
+    "H_129545439": 26,
+    "H_141477256": 42,
+    "H_169318162": 13,
+    "H_171590889": 2,
+    "H_192045432": 22,
+    "H_202272703": 3,
+    "H_257954515": 44,
+    "H_278409057": 19,
+    "H_293181783": 30,
+    "H_329545415": 37,
+    "H_347727231": 9,
+    "H_351704504": 15,
+    "H_363636320": 12,
+    "H_372727228": 36,
+    "H_388636317": 35,
+    "H_428124949": 20,
+    "H_427840858": 9,
+    "H_428977222": 8,
+    "H_434090857": 19,
+    "H_456249946": 32,
+    "H_479545397": 19,
+    "H_502272667": 7,
+    "H_522159029": 17,
+    "H_539772663": 51,
+    "H_605681746": 3,
+    "H_608238564": 19,
+    "H_614772654": 11,
+    "H_632954470": 15,
+    "H_657954467": 45,
+    "H_658522648": 40,
+    "H_667045375": 2,
+    "H_675426055": 30,
+    "H_675568101": 51,
+    "H_675852192": 9,
+    "H_702272643": 32,
+    "H_705681734": 30,
+    "H_730113549": 8,
+    "H_730681731": 34,
+    "H_733806731": 15,
+    "H_733948776": 6,
+    "H_743749911": 16,
+    "H_764772636": 12,
+    "H_770454453": 18,
+    "H_774999907": 12,
+    "H_776136271": 3,
+    "H_802272631": 8,
+    "H_824999901": 60,
+    "H_832954446": 28,
+    "H_834658991": 14,
+    "H_848863535": 12,
+    "H_849715808": 29,
+    "H_867045351": 12,
+    "H_874999895": 10,
+    "H_879545349": 8,
+    "H_893181711": 5,
+    "H_938636251": 21,
+    "H_943181705": 42,
+    "H_953408977": 37,
+    "H_957954431": 12,
+    "H_993323745": 25,
+    "H_1002272607": 33,
+    "H_1006818061": 9,
+    "H_1066477145": 20,
+    "H_1066761236": 3,
+    "H_1067613508": 22,
+    "H_1087499870": 19,
+    "H_1120454411": 41,
+    "H_1125568047": 7,
+    "H_1126420320": 17,
+    "H_1130965774": 16,
+    "H_1157954407": 26,
+    "H_1195454402": 0,
+    "H_1206818037": 35,
+    "H_1217045309": 40,
+    "H_1221590763": 55,
+    "H_1256818031": 13,
+    "H_1344033930": 60,
+    "H_1344175976": 0,
+    "H_1351704384": 1,
+    "H_1356818019": 8,
+    "H_1365908927": 29,
+    "H_1374999835": 3,
+    "H_1379545289": 20,
+    "H_1394318015": 5,
+    "H_1403977105": 1,
+    "H_1418607785": 39,
+    "H_1418749830": 37,
+    "H_1432386192": 29,
+    "H_1433984204": 37,
+    "H_1453408917": 37,
+    "H_1484090731": 90,
+    "H_1510227092": 10,
+    "H_1527840726": 8,
+    "H_1564346404": 16,
+    "H_1565340722": 15,
+    "H_1584090719": 24,
+    "H_1614772534": 122,
+    "H_1624999805": 14,
+    "H_1635227077": 11,
+    "H_1645738439": 15,
+    "H_1649715712": 19,
+    "H_1703408887": 78,
+    "H_1724999793": 47,
+    "H_1742897519": 13,
+    "H_1747727063": 19,
+    "H_1811363419": 29,
+    "H_1812215692": 16,
+    "H_1812357738": 9,
+    "H_1865908867": 2,
+    "H_1896590682": 6,
+    "H_1898863409": 6,
+    "H_1905681590": 13,
+    "H_1907386135": 0,
+    "H_1912499771": 25,
+    "H_1914204316": 4,
+    "H_1914630453": 6,
+    "H_1942045222": 47,
+    "H_1942613404": 6,
+    "H_1978408854": 69,
+    "H_1998863577": 20,
+    "H_2000000050": 0,
+    "H_2000000100": 0,
+    "H_2000000125": 0,
+    "H_2000000235": 0,
+    "H_2000000150": 0,
+    "H_2000000175": 0,
+    "H_2000000200": 0,
+    "H_2000000225": 0,
+    "H_2000000250": 0,
+    "H_2000000275": 0,
+    "H_2000000285": 1,
+    "H_2000000300": 5,
+    "H_2000000325": 4,
+    "S_2272727": 25,
+    "S_13636362": 69,
+    "S_15340908": 25,
+    "S_141193165": 21,
+    "S_143749983": 14,
+    "S_193181795": 3,
+    "S_302272691": 28,
+    "S_328409052": 10,
+    "S_346590868": 11,
+    "S_356818139": 20,
+    "S_402272679": 15,
+    "S_438636311": 31,
+    "S_456818127": 53,
+    "S_477840852": 63,
+    "S_529545391": 22,
+    "S_574999931": 3,
+    "S_635227197": 22,
+    "S_638636287": 31,
+    "S_682386282": 20,
+    "S_703124916": 22,
+    "S_729545367": 22,
+    "S_819318084": 38,
+    "S_912499891": 36,
+    "S_920454435": 44,
+    "S_949431704": 29,
+    "S_984090791": 26,
+    "S_993465790": 21,
+    "S_1074431690": 16,
+    "S_1179545313": 13,
+    "S_1185227131": 45,
+    "S_194318159": 37,
+    "S_1424999829": 6,
+    "S_1433096420": 57,
+    "S_1454545280": 12,
+    "S_1511363455": 14,
+    "S_1528408908": 18,
+    "S_1547727087": 22,
+    "S_1617045261": 17,
+    "S_1780681605": 15,
+    "S_1782954332": 13,
+    "S_1811931601": 33,
+    "S_1847727051": 16,
+    "S_1874999775": 30,
+    "S_1889772501": 15,
+    "S_1938636131": 11,
+    "S_1996590730": 46,
+    "S_1999431789": 13,
+    "S_2000000375": 1,
+    "S_2000000450": 12,
+    "S_2000000500": 0,
+    "S_2000000525": 8,
+    "S_2000000575": 0,
+    "S_2000000588": 5,
+    "S_2000000625": 0,
+    "S_2000000650": 7,
+    "S_2000000750": 0,
+    "S_2000000800": 0,
+    "S_2000000825": 29,
+    "S_2000000863": 0,
+    "S_2000000900": 0,
+    "S_2000000963": 0,
+    "S_2000001025": 0,
+    "S_2000001100": 1
+  },
+  "details": 4047,
+  "histories": 18556,
+  "completed_at": "2026-09-30T18:59:18.025279+00:00"
+}

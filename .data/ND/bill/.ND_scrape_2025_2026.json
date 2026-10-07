@@ -1,0 +1,15 @@
+{
+  "term": "2025_2026",
+  "assembly": {
+    "number": 69,
+    "base": "https://ndlegis.gov/assembly/69-2025/",
+    "sessions": {
+      "regular": "https://ndlegis.gov/assembly/69-2025/regular",
+      "special": "https://ndlegis.gov/assembly/69-2025/special",
+      "special-2": "https://ndlegis.gov/assembly/69-2025/special-2"
+    }
+  },
+  "details": 1106,
+  "histories": 15495,
+  "completed_at": "2026-09-30T18:59:47.139297+00:00"
+}

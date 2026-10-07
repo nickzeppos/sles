@@ -1,0 +1,39 @@
+{
+  "term": "2025_2026",
+  "sessions": [
+    {
+      "id": "69",
+      "year": 2025,
+      "kind": "RS",
+      "label": "2025 Regular"
+    },
+    {
+      "id": "70",
+      "year": 2025,
+      "kind": "S1",
+      "label": "2025 1st Special"
+    },
+    {
+      "id": "71",
+      "year": 2025,
+      "kind": "S2",
+      "label": "2025 2nd Special"
+    },
+    {
+      "id": "72",
+      "year": 2026,
+      "kind": "RS",
+      "label": "2026 Regular"
+    }
+  ],
+  "counts": {
+    "69": 1328,
+    "70": 11,
+    "71": 2,
+    "72": 812
+  },
+  "details": 2153,
+  "histories": 8415,
+  "source_empty_histories": [],
+  "completed_at": "2026-09-30T20:13:38.474792+00:00"
+}

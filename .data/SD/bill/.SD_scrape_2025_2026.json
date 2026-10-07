@@ -1,0 +1,58 @@
+{
+  "term": "2025_2026",
+  "counts": {
+    "2025": 571,
+    "2025s": 2,
+    "2026": 666
+  },
+  "details": 1239,
+  "histories": 11036,
+  "sessions": [
+    {
+      "SessionId": 70,
+      "Year": "2025",
+      "FiscalYear": 2026,
+      "Session": "One-Hundredth",
+      "SessionNumber": 100,
+      "Visible": "2024-12-01T00:00:00+00:00",
+      "CurrentSession": false,
+      "SpecialSession": false,
+      "YearString": "2025",
+      "ShortName": "100th",
+      "StartDate": "2025-01-14T00:00:00-06:00",
+      "LongName": "One Hundredth Session",
+      "SummaryDocumentId": 285313
+    },
+    {
+      "SessionId": 173,
+      "Year": "2025s",
+      "FiscalYear": 2026,
+      "Session": "One-Hundredth Special",
+      "SessionNumber": 100,
+      "Visible": "2025-09-10T00:00:00+00:00",
+      "CurrentSession": false,
+      "SpecialSession": true,
+      "YearString": "2025 First Special Session",
+      "ShortName": "100th",
+      "StartDate": "2025-09-23T00:00:00-05:00",
+      "LongName": "First Special Session of the One-Hundredth Legislature",
+      "SummaryDocumentId": 0
+    },
+    {
+      "SessionId": 71,
+      "Year": "2026",
+      "FiscalYear": 2027,
+      "Session": "One Hundred-First",
+      "SessionNumber": 101,
+      "Visible": "2025-12-01T00:00:00+00:00",
+      "CurrentSession": true,
+      "SpecialSession": false,
+      "YearString": "2026",
+      "ShortName": "101st",
+      "StartDate": "2026-01-13T00:00:00-06:00",
+      "LongName": "One Hundred First Session",
+      "SummaryDocumentId": 306526
+    }
+  ],
+  "completed_at": "2026-09-30T19:18:22.483817+00:00"
+}

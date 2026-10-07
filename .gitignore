@@ -1,5 +1,18 @@
 .dropbox
-.data/**/outputs
 scripts
 .venv
 *.pyc
+.env
+.env.*
+.auth/
+
+# Local data archive and source caches
+/.local-data/
+/.data/*/bill/.cache/
+.DS_Store
+/tests/
+/reports/
+/docs/
+
+# Local import provenance
+*provenance*.csv

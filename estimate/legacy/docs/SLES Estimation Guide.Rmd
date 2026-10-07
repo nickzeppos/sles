@@ -1,0 +1,164 @@
+---
+title: "Guide to Generating State Legislative Effectiveness Scores"
+author: "Arjun Vishwanath"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introduction
+
+This is a guide to generating State Legislative Effectiveness Scores (SLES). If you are brand new to the project, you should recommend you start by reading Bucchianeri, Volden, and Wiseman (2024). Their SLES-Codebook.pdf file is also a useful summary of the estimation process from the perspective of an interested reader. This document, however, is a guide for those who are attempting to generate scores in the future. 
+
+The initial set of scores, which are used in Bucchianeri et al (2024), run from approximately 1987-2018 in 49 states (all except Kansas). These scores were extended by Arjun Vishwanath into the period roughly spanning 2019-2022 (there are some exceptions to these dates; for example, Arjun did Connecticut in 2017-2018); these scores also include Kansas. The methodology was tweaked, as is described below. The processes are referred to as the BVW and AV methodologies respectively. 
+
+In brief, the estimation process is as follows: 
+
+1. Scrape bill-level data from state legislative websites
+2. Scrape data on significant bills from Project VoteSmart
+3. Use the bill-level data to estimate which bills are commemorative and which are not
+4. Download state legislative session data from LegiScan
+5. For each state, run the estimation script, which gives SLES values for each legislator
+6. Clean up each dataset and merge in relevant covariates
+
+# File Directory
+
+| **Directory**       | **Description**                                                                                   |
+|---------------------|-------------------------------------------------------------------------------------------------------|
+| `State Legislative Data/`     | Root directory containing all raw data.                                                             |
+| `├── Scrapers/`          | Contains scripts for web scraping data                                                               |
+| `│   ├── Peter Scrapers/` | Old versions of the scrapers developed by Peter.                                                                  |
+| `├── Legiscan/`           | Data downloaded from LegiScan                                                   |
+| `├── Commem Bills/`           | Script to generate commemoratives and the output                                                   |
+| `├── Bill_Stage_Codings/`           | Data on how far each bill progressed. Estimation scripts write to here                                                   |
+| `├── Significant Bills/`           | Script to generate significants and the output                                                    |
+| `State Legislatures/`     | Root directory containing all raw data.                                                             |
+| `├── coded_bills_by_state/`          | Data on bill level information. Estimation scripts write to here                                                              |                                    |
+| `├── Compile LES/`           | Once you have state level SLES data, this folder has the contents to generate the final file                                                   |
+| `├── Estimate LES/`           | This folder has the contents to generate SLES                                                   |
+| `│   ├── Estimation_Scripts/` | These are the scripts to calculate SLES by state                                                                  |
+| `├── LES_By_State/`           | This folder has the SLES data for each state                                                   |
+# Scraping State Legislative Websites
+
+The core material for generating SLES comes from state legislative websites. Peter originally wrote scrapers for each of the state websites, and Arjun updated and refined these. The scrapers are located in the `State Legislative Data/Scrapers` folder. Note that the versions Peter wrote are in a subfolder, the most up to date ones end in `_Auto`. 
+
+You should start by running each of these scripts in Python. If all goes well, everything will write to the correct place and you will not need to do anything else. When Arjun ran these in the summer of 2023 (4-5 years after Peter originally wrote them), about half of them worked exactly as written. However, states regularly change the formats of their websites, which means that the scrapers need to be adapted. In that timeframe, about 10 required minor tweaks to the code, and 15 required more meaningful edits. Our goal is to run these scrapers fairly regularly moving forward, such that the number of scripts that "break" should not be too high (an educated guess is that ~10 scripts will need to be updated every two years). In some cases, the state website may undergo a major change, in which case the script will essentially need to be rewritten. It is helpful to know the basic structure of these scrapers as you attempt to edit or regenerate them. 
+
+These scripts start by entering a page with a list of sessions on the state legislative website. We extract the text and links to the various legislative sessions, and then eliminate those sessions which have already been estimated. We take the remainder and store them in something like sessions (sometimes session_list). Note that in some states, a session is simply the duration between one election and the next; however, many also have special sessions or treat each year as a different session. In those cases, we may scrape several "sessions" for a two-year period (or four-year period, in the cases of Alabama, Maryland, and Mississippi).  
+
+Next, we run a for-loop through all the sessions.
+
+The first thing we are going to do for a given session is generate a list of the bills in that session. That is typically done in a function called get_session_bills. We navigate to the website that has the list of bills and extract information on the bill number, its link, and other relevant information that varies by state.
+
+Having collected the list of bills, we now call a function called get_bill_data for each bill in the session which extracts the information we care about. We will store several specifics that will enter columns in the final dataset such as the session number, the bill number, and so on that we already have from the bill list. We will also scrape bill-specific information from the page we have navigated to. The most important of these is the identity of the (primary) sponsor. We also collect information on the coauthors, different versions of the title of the bill, and any relevant summaries. This gives us the information we will store into `bill_details'. We will also collect information on the activity of each bill. These sites will typically have a table with the various actions on each bill, and we scrape the chamber in which the action took place, the date of the action, and the action itself (along with a running variable to track the order of these actions). This is crucial for estimating bill stages, and so it's important to get this right.
+
+Once we have iterated through all the bills, we will save the bill details and bill histories sheets for the term, and move on to the next session. Once those are all done, the scraper is done.
+
+Miscellaneous state-specific notes:
+
+* California: Use the R script `CA_State_Leg_PubInfo_Cleaning.R` instead. Download the relevant files (see the comments in the file) and then execute the file
+
+* Florida: They often have special sessions after the even numbered year election in December. These need to be counted for the subsequent term. For example, the 2022 special session A which was held in December 2022 needs to be included in the estimation of 2023-24 SLES. You're going to need to match the significant bills into these as well. 
+
+- Idaho: You need to run the parse script as well once you run the regular script
+
+- Maine: This one takes forever and you'll get lots of timeout errors. You may want to run it locally through python rather than merely executing the whole script from the terminal
+
+- Missouri: They are very finicky about scrapers, Arjun had to use a separate device to get it to work (and they are still blocking his device from accessing the website). Also, some appropriations bills don't get added properly, you may need to manually insert them in the get_session_bills code
+
+- New Hampshire: They block scrapers between 7 AM and 7 PM ET, so you need to run the scrapers at night.
+
+- New Jersey: You need to first download the MS Access files and then convert them to CSVs. The python script has more details in the comments. Once you do that, it's extremely easy.
+
+- West Virginia: State website generates a lot of timeout errors so it takes a long time.
+
+# Generating Commemorative Data
+
+Once you have scraped all the bill-level data, you'll need to classify bills as commemorative or not. For now, the process is quite easy. You simply run `State Legislative Data/Commem Bills/Code_Commem_Bills_By_Session.R` The terms that constitute commemoratives in each state were largely developed by Peter (but Arjun did Kansas). The plan for now is to use these moving forward. Alan has left open the possibility that these terms will be updated, but for now, there's no need. One note: the for-loops at the end of each state will need to be updated for the upcoming term. Someone in the future may want to edit that to be dynamic (for example, `for(t in unique(all_bills$term))` would work, although we probably don't need to generate new files for all the older years). This will write state-term files for commemoratives in the same directory.
+
+# Generating Substantive and Significant (S&S) Data
+
+In the BVW process, we coded S&S bills based on references in local newspapers. They used two sources: LexisNexus and NewsBank. There are scripts use to process those as well. However, in the AV process, we moved towards a simpler, more unified approach. Project VoteSmart lists important bills happening in each state legislature. Although the set of bills they identify are not exactly the same, they produce substantively similar scores (see `State Legislatures/AV SLES Process Adaptation memo.doc` for more details). These bills can be found at: https://justfacts.votesmart.org/bills//1//
+
+To scrape these, use the `State Legislative Data/Significant Bills/Project_VoteSmart_SS_scrape.py` script. It still appears to work as of Spring 2024, but it is possible that it will require adaptation. 
+
+These are formatted differently than the bill data we collect from the state websites, and so cleaning work is necessary to merge them. That work is discussed below in the Estimation section.
+
+# LegiScan data
+
+We now have data at the bill level scraped from each of the states. However, we are ultimately going to aggregate that data at the legislator level, and we may want to merge in other state legislator characteristics (e.g., party, district, electoral performance). Additionally, if there are legislators who did not introduce any bills, we will not capture them when we aggregate this data up. As a result, we need a database at the state legislator-term level. 
+
+In the BVW version of the dataset, we used Carl Klarner's election database. However, for a variety of reasons, we decided to move away from Klarner's database and instead use LegiScan. LegiScan uploads a lot of data on each legislative session, including on the bills introduced. For now, though, we use their `people.csv` sheet that has a list of all the legislators serving in the session. 
+
+We download these from the legiscan website. To do so, go to https://legiscan.com/AR/datasets (for example) and download the CSV versions for each new state legislative session for a given state. These go into `State Legislative Data/Legiscan/{state_name}` such that the next folder is the name of the session. In other words, the structure should next go `State Legislative Data/Legiscan/{state_name}/{name of state session}` where you add in the new sessions. It will look a little different when you unzip the file from Legiscan's website, so make sure that the directory structure matches how we have it now (because otherwise the subsequent scripts will fail). Inside each of those folders there should be a file path to `csv/people.csv` which is the main one we will use.
+
+In the future, it may be helpful to use the other files in there. We looked into using the `bills.csv` and `sponsors.csv` files rather than using web scrapers. The problem is that they do not make it clear who is the primary sponsor in cases where there are multiple sponsors on a bill, which is crucial for the LES estimation. Nonetheless, keep an eye on how they run things---if they improve it in the future to identify primary sponsors, it might be worth using their data. 
+
+Note to Connor: All the Legiscan datasets were pulled through May 1 2024, but you should probably re-pull these if they are modified after that date because they will be out of date (you can see the "Last Modified Date" on Legiscan's website).
+
+# Running Estimation Scripts
+
+This is the most involved part of the process (other than the scrapers, if they break). It actually shouldn't take too much time if you aren't changing the current process, but if you are (e.g., introducing a new way of generating commemoratives), you will have to change all the relevant scripts. 
+
+There are fifty scripts to do this, and they're in `State Legislatures/Estimate LES/Estimation Scripts`. They each follow a similar logic, although it varies from state to state. Below is the process of each script along with instructions for running each script:
+
+- Before running a script: do an initial scan of the `bill_details` and `bill_histories` spreadsheets to make sure they look similar to the versions that were previously scraped. There's a decent chance that in a state or two, you'll have scraped an empty field by accident. Another possibility is that the website has flipped the chronological order of the bill history table since the scraper was last run. In short, make sure the data structure is the same as it was in past scraped datasets.
+- Set a variable at the top for the start year of the session you want to run
+- Load in commemorative & substantive bills (and format them accordingly)
+- Load in the main bill datasets. Make formatting changes to names. In many cases, you will have to make edits here (although you won't know which edits until things break later on in the scripts)
+- Merge S&S into main bill dataset. This process was changed from the BVW method to the AV method. This is a place to pay close attention, as things have the potential to go wrong here with failed merges or double merges
+- Merge commemoratives into main bill dataset
+- Remove bills that have a missing sponsor or an ineligible sponsor (e.g., committee sponsor in many states)
+- Load in bill history dataset, format it
+- Generate new dataset to calculate bill stages, run bill history function on it
+- Compare bill stage history to past sessions. This is an important sanity check stage. You want to make sure that the totals approximately correspond to past years. You also want to make sure that the proportions of bills making it to a given stage correspond to past years. If you have outliers, you should look into them. It could be that something happened in the legislature (e.g., during covid, many legislatures shut down). But it can also be that the terms used to classify bill stages have changed, in which case you will have to change the terms used earlier (ideally in a dynamic manner so that the old scores are unchanged). Some useful code lines to run here are `right_join(bill_hist, all_bill_stages %>% filter(action_in_comm == 1 & action_beyond_comm == 0))` or `View(right_join(bill_hist, all_bill_stages %>% filter(introduced == 1 & action_in_comm == 0)) %>% group_by(bill_id, session) %>% filter(order == max(order)))` (for example, to make sure that everything that didn't advance to the next stage truly didn't advance). 
+- Save dataset with bill stage codings into `State Legislative Data/Bill_Stage_Codings`
+- Aggregate the bill data at the sponsor level and count the number of bills that a member sponsored
+- If relevant in the state, calculate how many bills the member cosponsored
+- Format this data for merging into LegiScan data
+- Load in LegiScan data and format it to match the aggregated sponsor data from the bills
+- Fuzzy merge these two datasets using the inexact package. When you do this, make sure that you merge correctly not just on name but also on chamber! A common almost-merge is one that ends in -S versus -H. You will find that some observations need to be edited / removed in Legiscan (e.g., sometimes they have the same legislator twice, or the district number is wrong). There are lines to do that right after the Legiscan read statements. This gives you the "true" set of legislators and the characteristics of the bills they've introduced
+- Format this data as we need it for the LES estimation into `legis_data`.
+- Remove the 0 LES legislators. See the next section on Compiling Scores for more on this (you can ignore it the first time you run the scores, it won't do anything) 
+- Look at the bill data and make sure it corresponds to the `legis_data` in terms of sponsors. This is a very important step... if there are legislators with different names that you now observe, you'll have to go back to the early parts of the script and clean their names. Alternatively, you might have to edit the names in the Legiscan dataset. 
+- Run the LES estimation along with the other flavors of LES. If anything is wrong with the data, it will break. There are a few things you can do to check. For starters, if you get all NAs for LES, it is almost certainly because the S&S or commemoratives merge failed and there is at least one NA in those columns. The columns all have to be 0 or 1, so if you have NAs, you have to go back and fix the merges. Another is  ` View(legis_data %>% group_by(num_sponsored_bills, num_cosponsored_bills) %>% mutate(count = n()) %>% filter(count > 1)) ` which will show you if there are incorrect merges with the same last name. You can also look at the actual sponsors via `bills %>% filter(substr(bill_id,1,1)=="S") %>% pull(sponsor) %>% unique() %>% sort()` for example and compare it to the sponsors in `legis_data`. Another common situation is that the cosponsorship data is formatted in an uglier manner than the sponsor data, and so we accidentally created new "members" who aren't really members. In that case, you'll have to go back to the top and format the cosponsor names properly. 
+- Create the final dataset and then write it to the directory
+
+Arjun adapted these from Peter's scripts, but there is a *lot* that can be cleaned up in these. They function, but they are not pretty. 
+
+Also, the New Jersey dates on S&S need to be checked because the session often runs into January of the next year. There are some notes on it in the estimation script but it should be noted and handled appropriately.
+
+# Compiling Scores
+
+At this point, you should have state-term level scores for all the terms you wish to estimate. The final steps involve merging these into the master database, cleaning them up, and adding in covariates. For this, you're going to use the `State Legislatures/Compile LES/extract_all_LES.R` script. This was designed for the AV collection, and so there are likely some fairly minor changes necessary to push it forward.
+
+First, this script collects all the newly estimated scores across the states into a single file. It does the same for the bills. It writes these to CSV files.
+
+Next, we check for Zero SLES legislators. In our datasets, we will have some legislators with SLES values of 0. Most of them have 0s because they never introduced any legislation and we believe they served from the Legiscan data. But sometimes, Legiscan says that a legislator served and they didn't actually serve in that session (maybe they resigned before the start of the session). What you need to do here is collect all the zero SLES legislators and have an RA go through the list to make sure they actually served. If they did not, they should be noted (see the spreadsheet format of `State Legislatures/Estimate LES/Zero_LES_legislators_Coded.csv`). Then, you need to go through and re-run each of the fifty state level SLES scripts. It will remove those legislators before the LES calculation (which matters because LES is calculated relative to the other legislators in the chamber, and so removing 0 SLES legislators will deflate others' scores)).  
+
+Third, we want to make sure we accurately scraped all the sessions in each state. Sometimes the scrapers fail to capture special sessions among others. Arjun sense-checked these against Legiscan's list of sessions, but there are probably other ways one could do this. You could also check the bill counts between Legiscan and our database. These steps could be done before the estimation scripts as well.
+
+Once we have finished these cleaning steps, we move to generating covariates. There are three of interest: majority party status, committee chair, and seniority. 
+
+For majority party status, the BVW process used a few different decision rules, but during the AV process, we crystallized the rule as follows: the majority party is the party that won an *electoral* majority. This means that the 2016-2024 Alaska legislature, which has been governed by a coalition of Democrats and Republicans, is treated as majority Republican since Republicans have consistently held an electoral majority (if not a governing majority). In some states, third party and independent candidates also win office. In those cases, we code the legislator in terms of whether they aligned with the majority party or minority party in office. Sometimes they formally caucus, sometimes they don't but from news reporting it looks like they work with one side more. To put it succinctly, there is a two step process for independents: a) what party does the legislator side with most closely? b) does that party (including independent support) constitute a majority of the chamber? Returning to the Alaska example, these independents almost always align more with the Democrats than the Republicans, so we treat them the same way we would treat the other Democrats (i.e., the electoral minority, even though they helped generate the governing coalition). If the chamber is tied and control is split, then everyone is treated as being in the majority (note that in states where we attribute bills to the chair, like Connecticut, this means that we make duplicates of each committee-sponsored bill because there may be a Dem chair of the committee and a GOP chair).  
+
+Next, we want to merge in whether the legislator served as a committee chair or not. This is an entirely manual task, an RA should collect this data. We had to collect the data retrospectively (it is collected through 2024 currently), but it is highly recommended that this be done while the session is in progress. Thus, in the spring of 2025, an RA should look at all the state legislative websites and pull down the chairs. There is a Google Sheet with that data here https://docs.google.com/spreadsheets/d/1RXnFoFx-8bdE24nxYkNxvAZKffsa-emuaWXJf4N-Nx8/edit?gid=1454358232#gid=1454358232. The Excel file has also been downloaded into `State Legislatures/Compile LES`. 
+
+Finally, we need to estimate seniority. To do this between the BVW and AV process, we needed to create a crosswalk between the old and new scores since there was no common ID. Moving forward, this should be easy since the legiscan_id field will be constant relative to the new data. We also have our own identifier, sles_id. For all new legislators in the dataset (i.e., ones who have not previously served to date), we generate new sles_ids for them. Then, we combine the old data with the new.
+
+Having done this, we estimate the seniority of legislators. This is a within-chamber measure, and if a legislator serves non-consecutive terms, we reset her tenure to be 1 in the subsequent term. 
+
+Finally, we use all these covariates to calculate benchmark scores along with the legislator's ratio between their actual score and their benchmark score. This generates the final, compiled dataset which we then save. 
+
+There are a few sanity checks we run with the data. The first, most obvious one is that we check the within-legislator correlations across terms. These should be fairly high, although they (obviously) are lower when control of the chamber flips. The average correlation within a state across terms is about 0.6. We also check the coefficients on the basic regression `SLES ~ in_majority + comm_chair + seniority + chamber` to see how they vary over time and make sure nothing has radically changed in the new data.  
+
+
+# List of things for Connor to do
+
+- Get familiar with the relevant documents
+- Try running the process from scratch for a state (let's say Washington since I did that one fairly recently)
+- Try fixing a broken scraper
+
+Longer term items
+
+- Clean up the estimation scripts and streamline them
+- Make a more efficient set of pipeline scripts so one can go from start to finish

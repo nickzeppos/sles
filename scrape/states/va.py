@@ -1,35 +1,45 @@
 """
-Virginia Bill Scraper
+Virginia Bill Scraper — New LIS Website (Headless)
 
-Faithful port of VA_State_Leg_Scrape_Auto_CHP.py.
+Scrapes bill details and histories from the new Virginia LIS SPA:
+    https://lis.virginia.gov/bill-details/{session_code}/{bill_id}
 
-Scrapes bill details and histories from the Virginia Legislative
-Information System (LIS): http://lis.virginia.gov
+Uses Playwright (headless Chromium) since the new site is a React SPA
+that loads data dynamically via JavaScript.
 
-Notes:
-- Sessions are labeled yearly but bill numbers increase through two-year terms
-- Special sessions are folded into bill histories (reintroduced bills keep
-  their number; actions are recorded in the second session's page)
+Current entry point: python cli.py VA <term> scrape
+Collects a complete configured term, caching bills by session and publishing
+CSV pairs only after every listed instrument succeeds. Session IDs must be
+verified before a new term is enabled; currently only 2024_2025 is configured.
+
+URL structure:
+    session_code = YYYY + session_number (e.g., 20251 = 2025 RS,
+                                          20242 = 2024 SS1)
+    bill_id = prefix + number (e.g., HB2021, SB1021)
+
+Output format matches the old scraper (va.py) exactly so the
+estimation pipeline can consume both interchangeably.
 """
 
 from __future__ import annotations
 
+from scrape.reporting import scrape_run, write_manifest
+
+import base64
 import csv
-import datetime
 import json
 import re
 import time
 from pathlib import Path
+from utils.validate_term import term_years
 from unicodedata import normalize
 
-import requests
 from bs4 import BeautifulSoup
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from playwright.sync_api import sync_playwright, Page
 
-BASE_URL = "http://lis.virginia.gov"
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
-# CSV column headers
+# CSV column headers (compatible with the preceding generation)
 DETAILS_HEADER = [
     "bill_id",
     "term",
@@ -55,526 +65,483 @@ HISTORY_HEADER = [
     "action_details_url",
 ]
 
+# Map session_number to session name suffix
+SESSION_NAMES = {
+    1: "SESSION",
+    2: "SPECIAL SESSION I",
+    3: "SPECIAL SESSION II",
+    4: "SPECIAL SESSION III",
+    5: "SPECIAL SESSION IV",
+}
 
-def _make_session() -> requests.Session:
-    """Create a requests session with retry logic."""
-    session = requests.Session()
-    retry = Retry(
-        total=3,
-        backoff_factor=15,  # 15s, 30s, 60s
-        status_forcelist=[500, 502, 503, 504],
+# LIS internal session IDs (discovered via API interception).
+# Map (year, session_num) -> LIS sessionID integer.
+# These are needed for the search API. Add new entries as needed.
+LIS_SESSION_IDS = {
+    (2024, 1): 55,   # 2024 Regular Session
+    (2024, 2): 56,   # 2024 Special Session I
+    (2025, 1): 57,   # 2025 Regular Session
+}
+
+# Map API ActorType values to old-scraper chamber names
+ACTOR_TYPE_MAP = {
+    "House": "House",
+    "Senate": "Senate",
+    "Governor": "Governor",
+}
+
+
+def _session_code(year: int, session_num: int) -> str:
+    """Build the LIS URL session code (e.g., '20251')."""
+    return f"{year}{session_num}"
+
+
+def _session_name(year: int, session_num: int) -> str:
+    """Build the human-readable session name."""
+    suffix = SESSION_NAMES.get(
+        session_num, f"SPECIAL SESSION {session_num}"
     )
-    adapter = HTTPAdapter(max_retries=retry)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
-    return session
+    return f"{year} {suffix}"
 
 
-def get_page_soup(
-    url: str, session: requests.Session, parser: str = "lxml"
-) -> BeautifulSoup | str:
-    """Fetch a page and return its BeautifulSoup parse tree.
+def _bill_id_pad(prefix: str, number: int) -> str:
+    """Zero-pad a bill number to 4 digits with prefix."""
+    return f"{prefix}{str(number).zfill(4)}"
 
-    Returns 'HTTP Error' on 4xx/5xx responses (matching old script behavior).
-    Retries on timeouts with backoff: 15s -> 60s -> 120s.
+
+def _parse_api_date(iso_date: str) -> str:
+    """Convert ISO datetime (2025-01-06T13:48:00) to YYYY-MM-DD."""
+    if not iso_date:
+        return ""
+    return iso_date[:10]
+
+
+def _extract_summary_text(html_summary: str) -> str:
+    """Extract plain text from HTML summary."""
+    if not html_summary:
+        return ""
+    soup = BeautifulSoup(html_summary, "lxml")
+    return (
+        soup.get_text()
+        .replace("\r\n", " ")
+        .replace("\n", " ")
+        .strip()
+    )
+
+
+def discover_bill_numbers(
+    page: Page,
+    lis_session_id: int,
+    verbose: bool = False,
+) -> list[str]:
+    """Get all bill numbers for a session via API interception.
+
+    Navigates to the bill search page with a query that triggers
+    GetLegislationIdsListAsync and captures the response.
+
+    Returns list of bill numbers like ["HB9", "HB19", ..., "SB1495"].
     """
+    captured = [None]
+
+    def on_response(response):
+        if "GetLegislationIdsListAsync" in response.url:
+            ct = response.headers.get("content-type", "")
+            if "json" in ct:
+                try:
+                    captured[0] = response.json()
+                except Exception:
+                    pass
+
+    page.on("response", on_response)
+
+    query = json.dumps({
+        "selectedBillNumbers": "",
+        "selectedKeywords": "",
+        "selectedSession": lis_session_id,
+        "selectedChapterNumber": "",
+        "includeFailed": True,
+        "SortBy": "Bill|ASC",
+    })
+    encoded = base64.b64encode(query.encode()).decode()
+    url = f"https://lis.virginia.gov/bill-search?q={encoded}"
+
     try:
-        resp = session.get(url, timeout=20)
-        resp.raise_for_status()
-    except requests.exceptions.HTTPError:
-        return "HTTP Error"
-    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError):
-        print("\n ~~> Retrying Bill Request")
-        time.sleep(15)
-        try:
-            resp = session.get(url, timeout=30)
-            resp.raise_for_status()
-        except requests.exceptions.HTTPError:
-            return "HTTP Error"
-        except (
-            requests.exceptions.Timeout,
-            requests.exceptions.ConnectionError,
-        ):
-            print("\n ~~> Retrying Bill Request x 2")
-            time.sleep(60)
-            try:
-                resp = session.get(url, timeout=60)
-                resp.raise_for_status()
-            except requests.exceptions.HTTPError:
-                return "HTTP Error"
-            except Exception:
-                print("\n ~~> SOCKET TIMEOUT --- Retrying Bill Request")
-                time.sleep(120)
-                resp = session.get(url, timeout=60)
-                resp.raise_for_status()
+        page.goto(url, timeout=30000)
+        page.wait_for_load_state("networkidle", timeout=15000)
+        page.wait_for_timeout(3000)
+    finally:
+        page.remove_listener("response", on_response)
 
-    time.sleep(0.5)
-    return BeautifulSoup(resp.content, parser)
+    if not captured[0]:
+        raise RuntimeError("VA listing response was not captured; no outputs published")
+
+    data = captured[0]
+    if not data.get("Success"):
+        raise RuntimeError(f"VA listing API failed: {data.get('FailureMessage')}")
+
+    ids = data.get("LegislationIds", [])
+    bill_numbers = [
+        entry["LegislationNumber"] for entry in ids
+    ]
+
+    if verbose:
+        print(f"  Found {len(bill_numbers)} bills in session")
+
+    return bill_numbers
 
 
-def get_term_bills(
-    s_yr: int, session: requests.Session, verbose: bool = False
-) -> list[list]:
-    """Scrape bill listing pages for a two-year term.
+def scrape_bill(
+    page: Page,
+    session_code: str,
+    bill_number_raw: str,
+    year: int,
+    session_num: int,
+    term: str,
+    verbose: bool = False,
+) -> tuple[list, list[list]] | str:
+    """Scrape a single bill via API interception.
 
-    Returns list of [bill_num, term, year, session_name, title, url].
-    Iterates session_num 1-9 per year; breaks on "Sorry" response.
-    Handles "More..." pagination links.
+    Navigates to the bill detail page and intercepts the JSON API
+    responses for bill details, patrons, and history.
+
+    Returns (details_row, history_rows) or "Error" on failure.
     """
-    term = f"{s_yr}-{s_yr + 1}"
-    print(f"\n\n\t~~~~ Gathering Bill URLs for the {term} Session ~~~~\n")
+    prefix = re.sub(r"\d.*", "", bill_number_raw)
+    number = int(re.sub(r"^[A-Z]+", "", bill_number_raw))
+    bill_id = _bill_id_pad(prefix, number)
+    session_name_str = _session_name(year, session_num)
 
-    term_bills = []
-    for yr in [s_yr, s_yr + 1]:
-        yr_str = str(yr)[2:4]
-        for session_iter in range(1, 10):
-            this_url = (
-                f"{BASE_URL}/cgi-bin/legp604.exe?"
-                f"{yr_str}{session_iter}+lst+ALL"
-            )
-            time.sleep(0.75)  # extra delay for listing pages
-            this_soup = get_page_soup(this_url, session)
-            if isinstance(this_soup, str):
-                break
+    url = (
+        f"https://lis.virginia.gov"
+        f"/bill-details/{session_code}/{bill_number_raw}"
+    )
 
-            # Check for "Sorry" response indicating no more sessions
-            check_response = this_soup.body.find_all(
-                string=re.compile(
-                    "Sorry, your request could not be processed"
-                )
-            )
-            if check_response and check_response[0].strip() == (
-                "Sorry, your request could not be processed at this time."
+    # Set up API interception
+    api = {"bill": None, "patrons": None, "events": None}
+
+    def on_response(response):
+        resp_url = response.url
+        ct = response.headers.get("content-type", "")
+        if "json" not in ct:
+            return
+        try:
+            if "GetLegislationListAsync" in resp_url:
+                api["bill"] = response.json()
+            elif "GetLegislationPatronsByIdAsync" in resp_url:
+                api["patrons"] = response.json()
+            elif (
+                "GetLegislationEventByLegislationIDAsync"
+                in resp_url
             ):
-                break
-
-            # Extract session name from page header
-            main_div = this_soup.find("div", {"id": "mainC"})
-            if main_div is None:
-                # Page didn't load properly — retry once
-                print("  ~~> Page missing mainC div, retrying...")
-                time.sleep(5)
-                this_soup = get_page_soup(this_url, session)
-                if isinstance(this_soup, str):
-                    break
-                main_div = this_soup.find("div", {"id": "mainC"})
-                if main_div is None:
-                    print("  ~~> Still missing mainC div, skipping session")
-                    break
-            session_name = (
-                main_div.find_all("h2")[0].get_text().strip()
-            )
-
-            page_num = 1
-            print(f" ~~~~~~~~~ {session_name} ~~~~~~~~~ ")
-
-            while True:
-                # Find bill links for this session
-                pattern = re.compile(
-                    rf"{yr_str}{session_iter}\+sum"
-                )
-                these_bills = this_soup.find_all("a", href=pattern)
-                these_bills = [
-                    [
-                        a.text.strip(),
-                        term,
-                        yr,
-                        session_name,
-                        a.parent.get_text().strip(),
-                        BASE_URL + a["href"],
-                    ]
-                    for a in these_bills
-                ]
-                term_bills.extend(these_bills)
-                print(f"  -- {page_num}")
-
-                # Check for "More..." pagination
-                more_pattern = re.compile(
-                    rf"{yr_str}{session_iter}\+lst\+ALL\+"
-                )
-                check_for_more = this_soup.find_all("a", href=more_pattern)
-                if len(check_for_more) == 2:
-                    this_url = BASE_URL + check_for_more[0]["href"]
-                    time.sleep(0.75)  # extra delay for listing pages
-                    this_soup = get_page_soup(this_url, session)
-                    if isinstance(this_soup, str):
-                        break
-                    page_num += 1
-                else:
-                    break
-
-    return term_bills
-
-
-def get_bill_data(
-    bill_row: list, session: requests.Session
-) -> list | str:
-    """Scrape an individual bill page for details and history.
-
-    Returns [bill_details_row, bill_history_rows] or 'HTTP Error'.
-    """
-    bill_num, term, s_yr, session_name, descrip, bill_url = bill_row
-
-    # Format bill ID: "HB 1" -> "HB0001"
-    parts = bill_num.split(" ")
-    bill_id = parts[0] + parts[1].zfill(4)
-
-    # Fetch bill summary page
-    bill_soup = get_page_soup(bill_url, session)
-    if isinstance(bill_soup, str):
-        return "HTTP Error"
-
-    # Extract summary
-    summary_match = bill_soup.find_all("h4", string=re.compile("SUMMARY"))
-    summary = ""
-    if summary_match:
-        try:
-            summary = (
-                summary_match[0]
-                .find_next("p")
-                .get_text()
-                .replace("\r\n", " ")
-                .strip()
-            )
+                api["events"] = response.json()
         except Exception:
-            summary = ""
+            pass
 
-    # Extract history
-    history_match = bill_soup.find_all("h4", string=re.compile("HISTORY"))
-    if not history_match:
-        # Retry once if history section not found
-        time.sleep(5)
-        bill_soup = get_page_soup(bill_url, session)
-        if isinstance(bill_soup, str):
-            return "HTTP Error"
-        history_match = bill_soup.find_all("h4", string=re.compile("HISTORY"))
-        if not history_match:
-            print(f"  ~~> WARNING: No HISTORY section for {bill_id}, skipping")
-            return "HTTP Error"
+    page.on("response", on_response)
 
-    history_ul = history_match[0].find_next("ul", {"class": "linkSect"})
-    history_items = history_ul.find_all("li")
+    try:
+        page.goto(url, timeout=20000)
+        page.wait_for_load_state("networkidle", timeout=15000)
+        page.wait_for_timeout(1500)
+    except Exception as e:
+        page.remove_listener("response", on_response)
+        if verbose:
+            print(f"    Error loading {url}: {e}")
+        return "Error"
 
+    page.remove_listener("response", on_response)
+
+    # Check if valid bill page loaded (not search redirect)
+    title = page.title()
+    if "Bill Search" in title:
+        return "Error"
+
+    # --- Extract bill details from API ---
+    bill_data = api.get("bill")
+    if not bill_data or not bill_data.get("Legislations"):
+        if verbose:
+            print(f"    No bill API data for {bill_id}")
+        return "Error"
+
+    leg = bill_data["Legislations"][0]
+
+    # Missing responses must not be mistaken for empty sponsors or history.
+    if (bill_data.get("Success") is False
+            or len(bill_data["Legislations"]) != 1):
+        return "Error"
+    for key, field in (("patrons", "Patrons"), ("events", "LegislationEvents")):
+        payload = api[key]
+        if (not isinstance(payload, dict) or payload.get("Success") is False
+                or not isinstance(payload.get(field), list)):
+            return "Error"
+    returned_number = leg.get("LegislationNumber")
+    if returned_number and re.sub(r"\s+", "", returned_number) != bill_number_raw:
+        return "Error"
+    if not (leg.get("Description") or "").strip():
+        return "Error"
+
+    # Short title: "HB 1876 <description>"
+    description = (leg.get("Description") or "").strip()
+    short_title = (
+        f"{prefix} {number} {description}"
+    )
+
+    # Summary
+    summary = _extract_summary_text(
+        leg.get("LegislationSummary", "")
+    )
+
+    # --- Extract patrons from API ---
+    patron_data = api.get("patrons")
+    patrons = (
+        patron_data.get("Patrons", []) if patron_data else []
+    )
+
+    # Find introducing sponsor (chief patron)
+    sponsor = ""
+    for p in patrons:
+        if p.get("IsIntroducing") or p.get("Name") == "Chief Patron":
+            name = normalize(
+                "NFKD", p.get("MemberDisplayName", "")
+            )
+            display = p.get("DisplayName", "")
+            if display:
+                sponsor = f"{name} ({p['Name']})"
+            else:
+                sponsor = name
+            break
+
+    # If no introducing patron found, use first patron
+    if not sponsor and patrons:
+        p = patrons[0]
+        name = normalize(
+            "NFKD", p.get("MemberDisplayName", "")
+        )
+        sponsor = f"{name} ({p.get('Name', '')})"
+
+    # Build house and senate sponsor lists
+    house_sponsors = []
+    senate_sponsors = []
+    for p in patrons:
+        name = normalize(
+            "NFKD", p.get("MemberDisplayName", "")
+        )
+        display_name = p.get("DisplayName", "")
+        if display_name:
+            full = f"{name} {display_name}"
+        else:
+            full = name
+
+        chamber_code = p.get("ChamberCode", "")
+        if chamber_code == "H":
+            house_sponsors.append(full)
+        elif chamber_code == "S":
+            senate_sponsors.append(full)
+
+    house_sponsors_str = "; ".join(house_sponsors)
+    senate_sponsors_str = "; ".join(senate_sponsors)
+
+    # --- Extract history from API ---
     bill_history = []
-    order = 1
-    for row in history_items:
-        row_text = row.get_text().replace("\xa0", "").strip()
-        row_parts = row_text.split(" ", 2)
-        # Parse date: MM/DD/YY -> YYYY-MM-DD
-        date = datetime.datetime.strptime(
-            row_parts[0], "%m/%d/%y"
-        ).strftime("%Y-%m-%d")
-        chamber = re.sub(":", "", row_parts[1])
-        action = ""
-        if len(row_parts) > 2:
-            action = row_parts[2].replace("\r\n", "").strip()
+    event_data = api.get("events")
+    events = (
+        event_data.get("LegislationEvents", [])
+        if event_data else []
+    )
 
-        a_tag = row.find_all("a")
-        action_details_url = ""
-        if a_tag:
-            action_details_url = BASE_URL + a_tag[0]["href"]
+    # Sort events by date and sequence
+    events.sort(
+        key=lambda e: (
+            e.get("EventDate", ""),
+            e.get("Sequence", 0),
+        )
+    )
+
+    order = 1
+    for evt in events:
+        if not evt.get("IsPublic", True):
+            continue
+
+        action_date = _parse_api_date(
+            evt.get("EventDate", "")
+        )
+        chamber = ACTOR_TYPE_MAP.get(
+            evt.get("ActorType", ""), evt.get("ActorType", "")
+        )
+        action = (
+            (evt.get("Description") or "")
+            .replace("\r\n", "")
+            .replace("\n", " ")
+            .strip()
+        )
+
+        # Build action detail URL from references if available
+        action_url = ""
+        refs = evt.get("EventReferences", [])
+        for ref in refs:
+            ref_type = ref.get("ActionReferenceType", "")
+            ref_id = ref.get("ReferenceID")
+            if ref_type == "Committee" and ref_id:
+                action_url = (
+                    f"https://lis.virginia.gov"
+                    f"/session-details/{session_code}"
+                    f"/committee-information"
+                )
+                break
+            elif ref_type == "VoteTally" and ref_id:
+                action_url = (
+                    f"https://lis.virginia.gov"
+                    f"/bill-details/{session_code}"
+                    f"/{bill_number_raw}"
+                )
+                break
 
         bill_history.append([
             bill_id,
             term,
-            s_yr,
-            session_name,
-            date,
+            year,
+            session_name_str,
+            action_date,
             chamber,
             action,
             order,
-            action_details_url,
+            action_url,
         ])
         order += 1
 
-    # Fetch sponsor page (replace +sum+ with +mbr+)
-    sponsor_url = re.sub(r"\+sum\+", "+mbr+", bill_url)
-    sponsor_soup = get_page_soup(sponsor_url, session)
-    if isinstance(sponsor_soup, str):
-        # If sponsor page fails, proceed with empty sponsors
-        sponsor_soup = None
-
-    house_sponsors = []
-    senate_sponsors = []
-
-    if sponsor_soup is not None:
-        # House patrons
-        house_matches = sponsor_soup.find_all(
-            "h4", string=re.compile("HOUSE PATRONS")
-        )
-        for hm in house_matches:
-            ul = hm.find_next("ul", {"class": "linkSect"})
-            for li in ul.find_all("li"):
-                house_sponsors.append(
-                    normalize("NFKD", li.get_text().strip())
-                )
-
-        # Senate patrons
-        senate_matches = sponsor_soup.find_all(
-            "h4", string=re.compile("SENATE PATRONS")
-        )
-        for sm in senate_matches:
-            ul = sm.find_next("ul", {"class": "linkSect"})
-            for li in ul.find_all("li"):
-                senate_sponsors.append(
-                    normalize("NFKD", li.get_text().strip())
-                )
-
-    # Introducing sponsor = any patron with "chief patron" in name
-    introducing_sponsor = "\n".join(
-        s
-        for s in house_sponsors + senate_sponsors
-        if "chief patron" in s.lower()
-    )
-    house_sponsors_str = "; ".join(house_sponsors)
-    senate_sponsors_str = "; ".join(senate_sponsors)
-
-    bill_details = [
+    details_row = [
         bill_id,
         term,
-        s_yr,
-        session_name,
-        descrip,
-        introducing_sponsor,
+        year,
+        session_name_str,
+        short_title,
+        sponsor,
         house_sponsors_str,
         senate_sponsors_str,
         summary,
-        bill_url,
+        url,
     ]
 
-    return [bill_details, bill_history]
+    return (details_row, bill_history)
 
 
-def _progress_path(bill_dir: Path, s_yr: int) -> Path:
-    """Path to the incremental progress directory for a term."""
-    return bill_dir / f".progress_{s_yr}_{s_yr + 1}"
-
-
-def _save_bill_progress(
-    progress_dir: Path, bill_url: str, details: list, history: list
-):
-    """Save one bill's scraped data to the progress directory."""
-    # Use a sanitized filename based on bill URL
-    safe_name = re.sub(r"[^\w]", "_", bill_url)
-    with open(progress_dir / f"{safe_name}.json", "w") as f:
-        json.dump({"details": details, "history": history}, f)
-
-
-def _load_progress(progress_dir: Path) -> tuple[set, list, list]:
-    """Load all previously scraped bills from the progress directory.
-
-    Returns (scraped_urls, all_details_rows, all_history_rows).
-    """
-    scraped_urls: set[str] = set()
-    all_details: list[list] = []
-    all_history: list[list] = []
-
-    if not progress_dir.exists():
-        return scraped_urls, all_details, all_history
-
-    for f in sorted(progress_dir.glob("*.json")):
-        with open(f) as fh:
-            data = json.load(fh)
-        details = data["details"]
-        history = data["history"]
-        # The bill_url is the last element of the details row
-        scraped_urls.add(details[-1])
-        all_details.append(details)
-        all_history.extend(history)
-
-    return scraped_urls, all_details, all_history
-
-
-def _cleanup_progress(progress_dir: Path):
-    """Remove the progress directory after successful completion."""
-    if progress_dir.exists():
-        for f in progress_dir.glob("*.json"):
-            f.unlink()
-        progress_dir.rmdir()
-
-
-def scrape(state: str, term: str, verbose: bool = False):
-    """Main entry point for VA scraping.
-
-    Saves progress incrementally per-bill so interrupted scrapes can resume.
-
-    Args:
-        state: "VA"
-        term: e.g. "2024_2025" or "2022_2023"
-        verbose: Enable verbose logging
-    """
-    # Parse term into start year
-    parts = term.split("_")
-    if len(parts) != 2:
-        raise ValueError(f"Invalid term format: {term} (expected YYYY_YYYY)")
-    s_yr = int(parts[0])
-
-    repo_root = Path(__file__).parent.parent.parent
-    bill_dir = repo_root / ".data" / state / "bill"
-
-    # Check if already scraped (final CSVs exist)
-    details_file = bill_dir / f"VA_Bill_Details_{s_yr}_{s_yr + 1}.csv"
-    histories_file = bill_dir / f"VA_Bill_Histories_{s_yr}_{s_yr + 1}.csv"
-    if details_file.exists():
-        print(
-            f"Skipping {s_yr}_{s_yr + 1}: "
-            f"{details_file.name} already exists"
+def sessions_for_term(term: str) -> list[tuple[int, int, int]]:
+    """Require a verified session map for both years before starting."""
+    years = term_years("VA", term)
+    if any((year, 1) not in LIS_SESSION_IDS for year in years):
+        raise ValueError(
+            f"VA {term}: LIS session IDs are not verified for this term. "
+            "Configure its regular and special sessions in "
+            "scrape/states/va.py before running."
         )
-        return
-
-    http_session = _make_session()
-
-    # Load any prior progress
-    progress_dir = _progress_path(bill_dir, s_yr)
-    progress_dir.mkdir(parents=True, exist_ok=True)
-    scraped_urls, cached_details, cached_history = _load_progress(
-        progress_dir
-    )
-    if scraped_urls:
-        print(f"Resuming: {len(scraped_urls)} bills already cached")
-
-    # Collect results (start with cached data)
-    term_bill_details = [DETAILS_HEADER] + cached_details
-    term_actions = [HISTORY_HEADER] + cached_history
-
-    print(
-        f"\n ------------------- Now Scraping the "
-        f"{s_yr}-{s_yr + 1} Session ---------------------- \n"
-    )
-
-    # Get all bill URLs for the term
-    term_urls = get_term_bills(s_yr, http_session, verbose)
-
-    # Scrape each bill (skip already-cached ones)
-    total = len(term_urls)
-    for num, bill_row in enumerate(term_urls, 1):
-        bill_url = bill_row[5]
-        if bill_url in scraped_urls:
-            print(f" ({num}/{total}) -- {bill_url} [cached]")
-            continue
-
-        bill_data = get_bill_data(bill_row, http_session)
-        if bill_data == "HTTP Error":
-            print(
-                f" ********** \n ({num}/{total}) -- "
-                f"{bill_row[0]} -- HTTP ERROR --- SKIPPING"
-                f" \n **********"
-            )
-            continue
-
-        # Save progress immediately
-        _save_bill_progress(
-            progress_dir, bill_url, bill_data[0], bill_data[1]
-        )
-
-        term_bill_details.append(bill_data[0])
-        for action_row in bill_data[1]:
-            term_actions.append(action_row)
-        print(f" ({num}/{total}) -- {bill_url}")
-
-    # Write final CSVs
-    with open(details_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerows(term_bill_details)
-
-    with open(histories_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerows(term_actions)
-
-    # Clean up progress directory
-    _cleanup_progress(progress_dir)
-
-    print(
-        f"\n\n\n ------------- {s_yr}-{s_yr + 1} Session "
-        f"SCRAPED + DATA SAVED  -------------\n\n\n"
-    )
+    return [(year, number, sid) for (year, number), sid
+            in sorted(LIS_SESSION_IDS.items()) if year in years]
 
 
-def retry_errors(state: str, term: str, verbose: bool = False):
-    """Re-scrape bills that got HTTP errors in a previous run.
+def _atomic_json(path: Path, payload: dict):
+    pending = path.with_suffix(path.suffix + ".tmp")
+    try:
+        pending.write_text(json.dumps(payload), encoding="utf-8")
+        pending.replace(path)
+    finally:
+        pending.unlink(missing_ok=True)
 
-    Reads the existing CSVs, re-fetches the bill listing to find URLs
-    for missing bill IDs, then scrapes and appends them.
-    Uses a 2s delay between requests to avoid rate limiting.
+
+def _validate_record(record, raw_number, year, session_num, term):
+    if not isinstance(record, dict):
+        raise ValueError(f"VA {year}/{session_num} {raw_number}: invalid record")
+    details, history = record.get("details"), record.get("history")
+    match = re.fullmatch(r"([A-Z]+)(\d+)", raw_number)
+    if not match:
+        raise ValueError(f"Unexpected VA bill number: {raw_number}")
+    expected = [_bill_id_pad(match[1], int(match[2])), term.replace("_", "-"),
+                year, _session_name(year, session_num)]
+    if (not isinstance(details, list) or len(details) != len(DETAILS_HEADER)
+            or details[:4] != expected):
+        raise ValueError(f"VA {raw_number}: wrong details identity or schema")
+    if not isinstance(history, list) or not history:
+        raise ValueError(f"VA {raw_number}: no validated history")
+    for row in history:
+        if (not isinstance(row, list) or len(row) != len(HISTORY_HEADER)
+                or row[:4] != expected):
+            raise ValueError(f"VA {raw_number}: wrong history identity or schema")
+    return details, history
+
+
+@scrape_run
+def scrape(state: str, term: str, verbose: bool = False,
+           force_fetch: bool = False):
+    """Collect a configured term using Playwright; resume from session caches.
+
+    Existing exports from Nick are not treated as completed current runs.
+    They remain untouched unless a complete new run succeeds.
     """
-    parts = term.split("_")
-    s_yr = int(parts[0])
-
-    repo_root = Path(__file__).parent.parent.parent
-    bill_dir = repo_root / ".data" / state / "bill"
-    details_file = bill_dir / f"VA_Bill_Details_{s_yr}_{s_yr + 1}.csv"
-    histories_file = bill_dir / f"VA_Bill_Histories_{s_yr}_{s_yr + 1}.csv"
-
-    if not details_file.exists():
-        print(f"No existing file to retry: {details_file}")
-        return
-
-    # Read existing bill IDs
-    import pandas as pd
-
-    existing = pd.read_csv(details_file)
-    existing_ids = set(existing["bill_id"].values)
-    print(f"Existing bills: {len(existing_ids)}")
-
-    # Get all bill URLs from listing pages
-    http_session = _make_session()
-    term_urls = get_term_bills(s_yr, http_session, verbose)
-
-    # Find which bills are missing
-    missing = []
-    for bill_row in term_urls:
-        bill_num = bill_row[0]
-        bill_parts = bill_num.split(" ")
-        bill_id = bill_parts[0] + bill_parts[1].zfill(4)
-        if bill_id not in existing_ids:
-            missing.append(bill_row)
-
-    # Only retry HB and SB (resolutions are filtered out by the pipeline)
-    missing_hb_sb = [
-        r for r in missing
-        if r[0].startswith("HB ") or r[0].startswith("SB ")
-    ]
-    missing_other = len(missing) - len(missing_hb_sb)
-
-    print(
-        f"\nMissing bills: {len(missing)} total "
-        f"({len(missing_hb_sb)} HB/SB, {missing_other} resolutions)"
-    )
-    print(f"Retrying {len(missing_hb_sb)} HB/SB bills with 2s delay...\n")
-
-    new_details = []
-    new_history = []
-    failed = []
-
-    for num, bill_row in enumerate(missing_hb_sb, 1):
-        time.sleep(1.5)  # extra delay on top of the 0.5s in get_page_soup
-        bill_data = get_bill_data(bill_row, http_session)
-        bill_id = bill_row[0].split(" ")[0] + bill_row[0].split(" ")[1].zfill(4)
-        if bill_data == "HTTP Error":
-            failed.append(bill_id)
-            print(f"  ({num}/{len(missing_hb_sb)}) {bill_id} -- FAILED AGAIN")
-        else:
-            new_details.append(bill_data[0])
-            new_history.extend(bill_data[1])
-            print(f"  ({num}/{len(missing_hb_sb)}) {bill_id} -- OK")
-
-    if not new_details:
-        print("\nNo new bills recovered.")
-        return
-
-    # Append to existing CSVs
-    with open(details_file, "a", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerows(new_details)
-
-    with open(histories_file, "a", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerows(new_history)
-
-    print(
-        f"\nRecovered {len(new_details)} bills "
-        f"({len(failed)} still failed: {failed})"
-    )
-    print(
-        f"Updated: {details_file.name}, {histories_file.name}"
-    )
+    if state.upper() != "VA":
+        raise ValueError("Virginia scraper requires state VA")
+    sessions = sessions_for_term(term)
+    folder = REPO_ROOT / ".data/VA/bill"
+    outputs = [folder / f"VA_Bill_{kind}_{term}.csv"
+               for kind in ("Details", "Histories")]
+    manifest = folder / f".VA_scrape_{term}.json"
+    if not force_fetch and manifest.exists() and all(p.exists() for p in outputs):
+        completed = json.loads(manifest.read_text())
+        if (completed.get("generation") == "headless-v1"
+                and completed.get("sessions") == [list(s) for s in sessions]):
+            print(f"Skipping VA {term}: complete outputs exist (use --force-fetch)")
+            return
+    cache = folder / ".cache" / term
+    cache.mkdir(parents=True, exist_ok=True)
+    details, histories, counts = [], [], {}
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(headless=True)
+        try:
+            page = browser.new_page()
+            for year, session_num, session_id in sessions:
+                code = _session_code(year, session_num)
+                numbers = discover_bill_numbers(page, session_id, verbose)
+                if not numbers or len(numbers) != len(set(numbers)):
+                    raise ValueError(f"VA {code}: empty or duplicate bill listing")
+                if any(not re.fullmatch(r"[A-Z]+\d+", n) for n in numbers):
+                    raise ValueError(f"VA {code}: invalid bill listing")
+                counts[code] = len(numbers)
+                for raw in numbers:
+                    # Bill numbers repeat across years and special sessions.
+                    path = cache / f"{code}_{raw}.json"
+                    if path.exists() and not force_fetch:
+                        record = json.loads(path.read_text(encoding="utf-8"))
+                    else:
+                        result = scrape_bill(page, code, raw, year, session_num,
+                                             term.replace("_", "-"), verbose)
+                        if result == "Error":
+                            raise RuntimeError(f"VA {code} {raw}: fetch failed; rerun to resume")
+                        record = {"details": result[0], "history": result[1]}
+                        _validate_record(record, raw, year, session_num, term)
+                        _atomic_json(path, record)
+                        time.sleep(0.3)
+                    bill, actions = _validate_record(record, raw, year, session_num, term)
+                    details.append(bill)
+                    histories.extend(actions)
+                print(f"VA {code}: {len(numbers)} instruments", flush=True)
+        finally:
+            browser.close()
+    staged = []
+    try:
+        for path, header, rows in zip(outputs, (DETAILS_HEADER, HISTORY_HEADER),
+                                      (details, histories)):
+            pending = path.with_suffix(".csv.tmp")
+            staged.append((pending, path))
+            with pending.open("w", encoding="utf-8", newline="") as handle:
+                writer = csv.writer(handle)
+                writer.writerow(header)
+                writer.writerows(rows)
+        manifest.unlink(missing_ok=True)
+        for pending, target in staged:
+            pending.replace(target)
+        write_manifest(manifest, {
+            "generation": "headless-v1", "term": term, "sessions": sessions,
+            "counts": counts, "details": len(details), "histories": len(histories),
+            })
+    finally:
+        for pending, _ in staged:
+            pending.unlink(missing_ok=True)
+    print(f"VA {term}: wrote {len(details)} details and {len(histories)} histories")
