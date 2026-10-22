@@ -12,7 +12,7 @@ Current term means **2025–26**, except **AL: 2023–26** and **NJ/VA: 2026–2
 - **Estimator implemented — ✓:** a current state estimation module exists (25 R modules and Colorado’s Python estimator). This does not mean it has been validated for the current term or accepts current scraper outputs; see [scraper compatibility](ESTIMATE.md#scraper-to-estimator-compatibility). Legacy scripts do not count.
 - **Roster — ✓:** nonempty LegiScan `people.csv` files with the expected ID/name/chamber fields exist for sessions starting within the term. This does not certify that every session or legislator is covered.
 
-**Totals:** 40 scrapers done; 0 complete SS sets (5 partial); 0 commemorative
+**Totals:** 41 scrapers done; 0 complete SS sets (5 partial); 0 commemorative
 implementations verified for the current term (2 ported); roster files present
 for 46 states; 26 current estimators implemented.
 
@@ -33,8 +33,8 @@ separately from term validation.
 <tr><td colspan="7">Scrape paginated bill lists and each bill page at <a href="https://www.arkleg.state.ar.us/Bills/ViewBills">https://www.arkleg.state.ar.us/Bills/ViewBills</a>.</td></tr>
 <tr><td>AZ</td><td>2025–2026</td><td>✓</td><td>◐</td><td>✗</td><td>✓</td><td>✓</td></tr>
 <tr><td colspan="7">Use a headless browser to read bill lists at <a href="https://www.azleg.gov/bills/">https://www.azleg.gov/bills/</a>; fetch details and actions from <a href="https://apps.azleg.gov/api/Bill/">https://apps.azleg.gov/api/Bill/</a>.</td></tr>
-<tr><td>CA</td><td>2025–2026</td><td>✗</td><td>✗</td><td>✗</td><td>✓</td><td>✗</td></tr>
-<tr><td colspan="7">No current scraper implemented; the bulk-download workflow is deferred.</td></tr>
+<tr><td>CA</td><td>2025–2026</td><td>✓</td><td>✗</td><td>✗</td><td>✓</td><td>✗</td></tr>
+<tr><td colspan="7">Download the session's PubInfo archive (one zip per two-year session, refreshed weekly while the session runs) at <a href="https://downloads.leginfo.legislature.ca.gov/">https://downloads.leginfo.legislature.ca.gov/</a> and read its bill, history, author and bill-version tables, porting Connor's PubInfo cleaning script.</td></tr>
 <tr><td>CO</td><td>2025–2026</td><td>✓</td><td>✗</td><td>✗</td><td>✓</td><td>✓</td></tr>
 <tr><td colspan="7">Scrape paginated bill lists and each bill page at <a href="https://leg.colorado.gov/bills/bill-search">https://leg.colorado.gov/bills/bill-search</a>; use headless Chrome when ordinary requests are rejected.</td></tr>
 <tr><td>CT</td><td>2025–2026</td><td>✓</td><td>✗</td><td>✗</td><td>✓</td><td>✗</td></tr>
@@ -131,7 +131,7 @@ separately from term validation.
 ## Remaining work
 
 - **AL:** the successful scrape covers 2025–26 only. The updated scraper accepts 2023–26, but a complete four-year output pair is not present.
-- **CA:** bulk-download workflow was deferred; no current-term bill output pair is present.
+- **CA:** the 2025–26 output pair comes from the archive exported 2026-10-18; rerun with `--force-fetch` once the archive stops changing around the session's adjournment on 2026-11-30 (the 2023–24 archive's last export is dated 2024-11-24).
 - **MA:** last run stopped on a people-tab mismatch.
 - **MN:** last run stopped on a bill-text identity mismatch.
 - **NH:** last run stopped on inconsistent docket metadata.
@@ -170,7 +170,7 @@ scraper found and how it handled it; they are not necessarily scraper errors.
 Review these exceptions alongside the CSVs before treating a scrape as ready for
 estimation.
 
-All 49 current scrapers now use `scrape/reporting.py` to write these summaries.
+All 50 current scrapers now use `scrape/reporting.py` to write these summaries.
 New manifests share run IDs, start/completion times, bill CSV filenames and sizes,
 and an `exceptions` list; each state's original fields are also retained.
 Existing manifests keep their old format until that state is scraped again.
