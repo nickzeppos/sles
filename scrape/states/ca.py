@@ -8,8 +8,9 @@ XML file per bill version. The archive is cached under .data/CA/bill/.cache/
 and read in place; --force-fetch downloads it again.
 
 Details and histories keep the R script's columns and its value formatting
-(R's type conversion, NA, quoting), so pubinfo_2023.zip reproduces the retained
-CA_Bill_Details_23_24.csv and CA_Bill_Histories_23_24.csv byte for byte.
+(R's type conversion, NA, quoting; see utils/r_compat.py), so pubinfo_2023.zip
+reproduces the retained CA_Bill_Details_23_24.csv and CA_Bill_Histories_23_24.csv
+byte for byte.
 """
 
 from __future__ import annotations
@@ -17,12 +18,11 @@ from __future__ import annotations
 from scrape.http import make_session
 from scrape.reporting import scrape_run, write_manifest
 from utils import cache as cache_io
+from utils import r_compat
 from utils.validate_term import term_years
 
-import csv
-from datetime import date, datetime
+from datetime import datetime
 import hashlib
-import io
 from pathlib import Path
 import re
 import zipfile
@@ -41,96 +41,18 @@ HISTORY_HEADER = [
     "action_code", "location", "end_status",
 ]
 
-LOGICAL = {"T": True, "TRUE": True, "true": True, "True": True,
-           "F": False, "FALSE": False, "false": False, "False": False}
-INTEGER = re.compile(r"[+-]?\d+")
-DOUBLE = re.compile(r"[+-]?(?:\d+\.?\d*|\.\d+)(?:[eE][+-]?\d+)?")
-# stringr::str_trim removes Unicode White_Space, not Python's wider isspace set.
-WHITE_SPACE = "".join(map(chr, [0x09, 0x0A, 0x0B, 0x0C, 0x0D, 0x20, 0x85, 0xA0, 0x1680,
-                                *range(0x2000, 0x200B), 0x2028, 0x2029, 0x202F, 0x205F, 0x3000]))
-TRIM = re.compile(f"^[{re.escape(WHITE_SPACE)}]+|[{re.escape(WHITE_SPACE)}]+$")
-
-
-# R semantics: read.delim(header=FALSE, quote="`") then mutate_all(NULL -> NA)
-
-def _type_convert(values: list[str]) -> list:
-    """type.convert(as.is=TRUE): logical, integer, double, else character."""
-    present = [v for v in values if v not in ("", "NA")]
-    if all(v in LOGICAL for v in present):
-        return [LOGICAL.get(v) for v in values]
-    if all(INTEGER.fullmatch(v) and abs(int(v)) <= 2147483647 for v in present):
-        return [int(v) if v not in ("", "NA") else None for v in values]
-    if all(DOUBLE.fullmatch(v) for v in present):
-        return [float(v) if v not in ("", "NA") else None for v in values]
-    return [None if v in ("NA", "NULL") else v for v in values]
-
-
 def read_table(archive: zipfile.ZipFile, name: str) -> list[list]:
-    """Columns of one PubInfo table, typed as the R script saw them (V1 = [0])."""
-    text = archive.read(name).decode("utf-8")
-    rows = [row for row in csv.reader(io.StringIO(text, newline=""), delimiter="\t", quotechar="`") if row]
-    widths = {len(row) for row in rows}
-    if len(widths) != 1:
-        raise ValueError(f"{name}: rows have differing field counts {sorted(widths)}")
-    return [_type_convert(list(column)) for column in zip(*rows)]
-
-
-def r_str(value) -> str:
-    """as.character, as paste0 uses it."""
-    if value is None:
-        return "NA"
-    if isinstance(value, bool):
-        return "TRUE" if value else "FALSE"
-    if isinstance(value, float):
-        raise ValueError(f"non-integer numeric value {value!r}: R formatting not ported")
-    return str(value)
-
-
-def r_csv_field(value) -> str:
-    """write.csv: character quoted with doubled quotes, NA and numbers bare."""
-    if value is None:
-        return "NA"
-    if isinstance(value, str):
-        return '"' + value.replace('"', '""') + '"'
-    return r_str(value)
-
-
-def write_r_csv(path: Path, header: list[str], rows: list[list]) -> None:
-    with path.open("w", encoding="utf-8", newline="") as handle:
-        handle.write(",".join(r_csv_field(name) for name in header) + "\n")
-        for row in rows:
-            handle.write(",".join(r_csv_field(value) for value in row) + "\n")
+    """Columns of one PubInfo table as the R script reads them: read.delim(header=FALSE,
+    quote="`") then mutate_all(NULL -> NA), V1 = [0]."""
+    columns = r_compat.read_delim(archive.read(name).decode("utf-8"), name, quote="`")
+    return [[None if value == "NULL" else value for value in column] for column in columns]
 
 
 # Bill version XML: xml_to_df() in the R script
 
-def _node_text(text: str | None) -> str | None:
-    """Text node as xmlTreeParse keeps it: blank nodes dropped, ends trimmed."""
-    if text is None or not text.strip(" \t\n\r"):
-        return None
-    return text.strip(" \t\n\r")
-
-
-def _r_paste(element, source: str) -> str:
-    """xmlToList(element) collapsed by paste0(collapse = " "); NULL becomes ""."""
-    if element is None:
-        return ""
-    items = [_node_text(element.text)]
-    for child in element:
-        if not isinstance(child.tag, str) or len(child):
-            raise ValueError(f"{source}: unsupported markup inside {etree.QName(element).localname}")
-        text = _node_text(child.text)
-        if child.attrib and text is not None or len(child.attrib) > 1:
-            raise ValueError(f"{source}: unsupported attributes inside {etree.QName(element).localname}")
-        # Empty <span class="ThinSpace"/> lists as its attribute; an empty element as NULL.
-        items.append(text if text is not None else next(iter(child.attrib.values()), "NULL"))
-        items.append(_node_text(child.tail))
-    return " ".join(item for item in items if item is not None)
-
-
 def _clean(text: str) -> str:
     text = re.sub(" +", " ", re.sub("NULL|\n", " ", text))
-    return re.sub(r" \.\Z", "", TRIM.sub("", text))
+    return re.sub(r" \.\Z", "", r_compat.str_trim(text))
 
 
 def _description(data: bytes, source: str):
@@ -157,28 +79,8 @@ def parse_text(data: bytes, source: str) -> tuple[str, str]:
     so amended versions' revision markup never needs interpreting."""
     description = _description(data, source)
     subject = description.find(CAML + "GeneralSubject")
-    return (_clean(_r_paste(description.find(CAML + "Title"), source)),
-            _clean(_r_paste(subject.find(CAML + "Subject") if subject is not None else None, source)))
-
-
-def _r_date(values: list) -> list:
-    """format(as.Date(x), "%Y-%m-%d"), with the format chosen from the first value."""
-    first = next((v for v in values if v is not None), None)
-    if first is None:
-        return values
-    for pattern in (r"(\d{4})-(\d{1,2})-(\d{1,2})", r"(\d{4})/(\d{1,2})/(\d{1,2})"):
-        if re.match(pattern, first):
-            break
-    else:
-        raise ValueError(f"history date {first!r} is not in a standard unambiguous format")
-    result = []
-    for value in values:
-        match = re.match(pattern, value) if value is not None else None
-        try:
-            result.append(date(*map(int, match.groups())).isoformat() if match else None)
-        except ValueError:
-            result.append(None)
-    return result
+    return (_clean(r_compat.paste_xml_list(description.find(CAML + "Title"), source)),
+            _clean(r_compat.paste_xml_list(subject.find(CAML + "Subject") if subject is not None else None, source)))
 
 
 def parse_archive(archive: zipfile.ZipFile, term: str, verbose: bool = False):
@@ -191,10 +93,10 @@ def parse_archive(archive: zipfile.ZipFile, term: str, verbose: bool = False):
         if session is None:
             bill_num = None
         elif session == 0 or session == "0":
-            bill_num = f"{r_str(kind)}-{r_str(number)}"
+            bill_num = f"{r_compat.as_character(kind)}-{r_compat.as_character(number)}"
         else:
-            bill_num = f"{r_str(kind)}X{r_str(session)}-{r_str(number)}"
-        year = r_str(year)
+            bill_num = f"{r_compat.as_character(kind)}X{r_compat.as_character(session)}-{r_compat.as_character(number)}"
+        year = r_compat.as_character(year)
         bill_nums.append(bill_num)
         terms.append(f"{year[:4]}_{year[4:8]}" if year != "NA" else "NA_NA")
         chambers.append(None if bill_num is None else "H" if bill_num[0] in "AH" else bill_num[0])
@@ -219,7 +121,7 @@ def parse_archive(archive: zipfile.ZipFile, term: str, verbose: bool = False):
     credits = {}
     for version_id, house, name, role, primary in zip(authors[0], authors[2], authors[3], authors[4], authors[9]):
         house = {"ASSEMBLY": "H", "SENATE": "S"}.get(house, house)
-        label = f"{r_str(name)} ({r_str(house)})"
+        label = f"{r_compat.as_character(name)} ({r_compat.as_character(house)})"
         lead, listed, co = credits.setdefault(version_id, ([], [], []))
         if primary == "Y":
             lead.append(label)
@@ -246,7 +148,7 @@ def parse_archive(archive: zipfile.ZipFile, term: str, verbose: bool = False):
     by_id = {}
     for bill_id, bill_num, bill_term in zip(bill_ids, bill_nums, terms):
         by_id.setdefault(bill_id, []).append((bill_num, bill_term))
-    dates = _r_date(history[2])
+    dates = r_compat.as_date(history[2])
     histories = []
     for row, bill_id in enumerate(history[0]):
         for bill_num, bill_term in by_id.get(bill_id) or [(None, None)]:
@@ -310,7 +212,7 @@ def scrape(state: str, term: str, verbose: bool = False, force_fetch: bool = Fal
         for path, header, rows in ((detail_path, DETAILS_HEADER, details), (history_path, HISTORY_HEADER, histories)):
             pending = path.with_suffix(".csv.tmp")
             staged.append((pending, path))
-            write_r_csv(pending, header, rows)
+            r_compat.write_csv(pending, header, rows)
         cache_io.unlink(manifest_path, missing_ok=True)
         for pending, path in staged:
             cache_io.replace(pending, path)
