@@ -1,0 +1,53 @@
+{
+  "term": "2025_2026",
+  "source": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip",
+  "archive_exported": "2026-10-18T21:21:16",
+  "archive_bytes": 1291985079,
+  "archive_sha256": "b0b614a2061dd16d468cddbd4921604365f052a5c21ea18056b2606136e04ec1",
+  "details": 5065,
+  "histories": 88994,
+  "version_files": 19437,
+  "source_missing_text": [],
+  "source_missing_primary_authors": [
+    "GRP-1"
+  ],
+  "source_missing_measures": [
+    "202520260SB2510",
+    "202520260SB2511",
+    "202520260SB2512"
+  ],
+  "schema_version": 1,
+  "state": "CA",
+  "run_id": "2dc715e6d31540f680adbf85255bbefe",
+  "status": "succeeded",
+  "started_at": "2026-10-22T22:13:55.982166+00:00",
+  "completed_at": "2026-10-22T22:14:12.587437+00:00",
+  "outputs": [
+    {
+      "file": "CA_Bill_Details_2025_2026.csv",
+      "bytes": 1616856
+    },
+    {
+      "file": "CA_Bill_Histories_2025_2026.csv",
+      "bytes": 14853311
+    }
+  ],
+  "exceptions": [
+    {
+      "code": "source_missing_primary_authors",
+      "count": 1,
+      "records": [
+        "GRP-1"
+      ]
+    },
+    {
+      "code": "source_missing_measures",
+      "count": 3,
+      "records": [
+        "202520260SB2510",
+        "202520260SB2511",
+        "202520260SB2512"
+      ]
+    }
+  ]
+}
