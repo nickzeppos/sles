@@ -44,6 +44,14 @@ For C, run `python cli.py <STATE> <TERM> commem` after scraping. It writes
 and adjust the state-specific rules when needed. The command skips an existing
 output, so move that file aside before regenerating it after input or rule changes.
 
+The original [R commemorative coding script](commem/legacy/Code_Commem_Bills_By_Session.R)
+contains the shared dictionary and all 50 states' rules. It is retained unchanged
+as a porting reference and uses the older data layout and RStudio workflow.
+When porting a state into `commem/states.py`, preserve its term additions and
+removals, exclusions, searched fields, and manual overrides. Adapt its input
+cleaning to the current scraper's columns and session identifiers, then compare
+bill-level flags with retained prior-term outputs where inputs are available.
+
 **Term roster data.** Not every legislator sponsors a bill, but eligible members
 with no sponsored bills still belong in the estimate with LES = 0. We therefore
 need a roster independent of the scraped sponsor names. Download LegiScan's

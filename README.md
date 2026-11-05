@@ -83,7 +83,9 @@ ss/
 ```text
 commem/
 ├── commem.py             # Generate commemorative flags from bills
-└── states.py             # State commem logic.
+├── states.py             # State commem logic.
+└── legacy/               # Original R rules for all 50 states
+    └── Code_Commem_Bills_By_Session.R
 ```
 
 ```text
