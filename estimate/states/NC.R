@@ -19,12 +19,15 @@ if (repo_root == "") {
 logging <- source(file.path(repo_root, "utils/logging.R"), local = TRUE)$value
 libs <- source(file.path(repo_root, "utils/libs.R"), local = TRUE)$value
 strings <- source(file.path(repo_root, "utils/strings.R"), local = TRUE)$value
+ss_corrections <- source(file.path(repo_root, "estimate/lib/ss_corrections.R"),
+                         local = TRUE)$value
 
 # Extract functions
 cli_log <- logging$cli_log
 cli_warn <- logging$cli_warn
 require_libs <- libs$require_libs
 standardize_accents <- strings$standardize_accents
+apply_ss_corrections <- ss_corrections$apply_ss_corrections
 
 # Load required libraries
 require_libs()
@@ -423,11 +426,15 @@ post_evaluate_bill <- function(bill_stages, bill_row, bill_history) {
 #' Convert to standard format (e.g., SB30003 -> SB0003).
 #' Same pattern as KY.
 #'
+#' Reviewed corrections in .data/NC/review/NC_SS_Corrections_<YEAR>.csv are
+#' applied first (PVS lists the April 16, 2025 Andy Griffith Show vote under
+#' HB 636; it is HB0557). See estimate/lib/ss_corrections.R.
+#'
 #' @param ss_bills SS bills dataframe
 #' @param term Term string
 #' @return SS bills with transformed bill IDs
 transform_ss_bills <- function(ss_bills, term) {
-  ss_bills %>%
+  apply_ss_corrections(ss_bills, "NC", term) %>%
     mutate(
       bill_id = gsub("^([HS]B)(\\d)(\\d{4})$", "\\1\\3", .data$bill_id)
     )
