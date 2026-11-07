@@ -23,11 +23,15 @@ logging <- source(file.path(repo_root, "utils/logging.R"),
 strings <- source(file.path(repo_root, "utils/strings.R"),
   local = TRUE
 )$value
+ss_corrections <- source(file.path(repo_root, "estimate/lib/ss_corrections.R"),
+  local = TRUE
+)$value
 
 # Extract functions
 cli_log <- logging$cli_log
 cli_warn <- logging$cli_warn
 standardize_accents <- strings$standardize_accents
+apply_ss_corrections <- ss_corrections$apply_ss_corrections
 
 # Load required libraries
 library(dplyr)
@@ -412,6 +416,20 @@ clean_bill_history <- function(bill_history, term) {
   bill_history
 }
 
+# Stage 3 Hook: Transform SS bills
+#' Apply reviewed corrections to PVS SS rows for Massachusetts
+#'
+#' PVS lists the House's June 4, 2025 cannabis vote under H 4240, the
+#' number of the FY2026 budget; .data/MA/review/MA_SS_Corrections_2025.csv
+#' moves that row to H4187. See estimate/lib/ss_corrections.R.
+#'
+#' @param ss_bills SS bills dataframe
+#' @param term Term string
+#' @return SS bills with corrected bill IDs
+transform_ss_bills <- function(ss_bills, term) {
+  apply_ss_corrections(ss_bills, "MA", term)
+}
+
 # Stage 3 Hook: Get missing SS bills
 #' Identify genuinely missing SS bills for Massachusetts
 #'
@@ -704,6 +722,7 @@ c(
     transform_commem_bills = transform_commem_bills,
     clean_bill_details = clean_bill_details,
     clean_bill_history = clean_bill_history,
+    transform_ss_bills = transform_ss_bills,
     get_missing_ss_bills = get_missing_ss_bills,
     derive_unique_sponsors = derive_unique_sponsors,
     compute_cosponsorship = compute_cosponsorship,
